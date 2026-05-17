@@ -1,0 +1,152 @@
+[
+  {
+    "name": "央视新闻-科技",
+    "type": "html",
+    "url": "https://news.cctv.com/tech/",
+    "weight": 6
+  },
+  {
+    "name": "央视网-科技",
+    "type": "html",
+    "url": "https://tech.cctv.com/",
+    "weight": 5
+  },
+  {
+    "name": "科技日报",
+    "type": "html",
+    "url": "https://www.stdaily.com/",
+    "weight": 6
+  },
+  {
+    "name": "中国科学院",
+    "type": "html",
+    "url": "https://www.cas.cn/yw/",
+    "weight": 6
+  },
+  {
+    "name": "中国科学报",
+    "type": "html",
+    "url": "https://news.sciencenet.cn/",
+    "weight": 5
+  },
+  {
+    "name": "新华网-科技",
+    "type": "html",
+    "url": "http://www.news.cn/tech/",
+    "weight": 5
+  },
+  {
+    "name": "人民网-科技",
+    "type": "html",
+    "url": "http://scitech.people.com.cn/",
+    "weight": 5
+  },
+  {
+    "name": "光明网-科技",
+    "type": "html",
+    "url": "https://tech.gmw.cn/",
+    "weight": 5
+  },
+  {
+    "name": "央广网-科技",
+    "type": "html",
+    "url": "https://tech.cnr.cn/",
+    "weight": 4
+  },
+  {
+    "name": "中国新闻网-IT",
+    "type": "html",
+    "url": "https://www.chinanews.com.cn/it.shtml",
+    "weight": 4
+  },
+  {
+    "name": "中国日报-科技",
+    "type": "html",
+    "url": "https://cn.chinadaily.com.cn/5bd5639ca3101a87ca8ff636",
+    "weight": 4
+  },
+  {
+    "name": "工信部",
+    "type": "html",
+    "url": "https://www.miit.gov.cn/xwdt/gxdt/index.html",
+    "weight": 6
+  },
+  {
+    "name": "科技部",
+    "type": "html",
+    "url": "https://www.most.gov.cn/kjbgz/",
+    "weight": 6
+  },
+  {
+    "name": "国家网信办",
+    "type": "html",
+    "url": "https://www.cac.gov.cn/",
+    "weight": 5
+  },
+  {
+    "name": "发改委",
+    "type": "html",
+    "url": "https://www.ndrc.gov.cn/xwdt/",
+    "weight": 4
+  },
+  {
+    "name": "市场监管总局",
+    "type": "html",
+    "url": "https://www.samr.gov.cn/xw/",
+    "weight": 4
+  },
+  {
+    "name": "机器之心",
+    "type": "html",
+    "url": "https://www.jiqizhixin.com/",
+    "weight": 4
+  },
+  {
+    "name": "量子位",
+    "type": "html",
+    "url": "https://www.qbitai.com/",
+    "weight": 4
+  },
+  {
+    "name": "钛媒体",
+    "type": "html",
+    "url": "https://www.tmtpost.com/",
+    "weight": 3
+  },
+  {
+    "name": "36氪",
+    "type": "rss",
+    "url": "https://36kr.com/feed",
+    "weight": 3
+  },
+  {
+    "name": "IT之家",
+    "type": "rss",
+    "url": "https://www.ithome.com/rss/",
+    "weight": 3
+  },
+  {
+    "name": "cnBeta",
+    "type": "rss",
+    "url": "https://www.cnbeta.com.tw/backend.php",
+    "weight": 3
+  },
+  {
+    "name": "TechNode",
+    "type": "rss",
+    "url": "https://technode.com/feed/",
+    "weight": 4
+  },
+  {
+    "name": "The Register",
+    "type": "rss",
+    "url": "https://www.theregister.com/headlines.atom",
+    "weight": 2
+  },
+  {
+    "name": "MIT Technology Review",
+    "type": "rss",
+    "url": "https://www.technologyreview.com/feed/",
+    "weight": 2
+  }
+]

@@ -1,0 +1,1518 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ChenChen CGTN Tech Desk Daily Radar</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f4f6f3;
+      --panel: #ffffff;
+      --ink: #17211b;
+      --muted: #66736b;
+      --line: #d9dfd8;
+      --soft: #eef2ee;
+      --brand: #0b7a5a;
+      --brand-2: #0969a2;
+      --accent: #cc4b2f;
+      --amber: #b77816;
+      --shadow: 0 10px 30px rgba(23, 33, 27, .08);
+      --radius: 8px;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      letter-spacing: 0;
+    }
+
+    button, input, textarea, select {
+      font: inherit;
+    }
+
+    .app {
+      min-height: 100vh;
+      display: grid;
+      grid-template-columns: 260px minmax(0, 1fr) 330px;
+    }
+
+    .signature {
+      position: fixed;
+      right: 18px;
+      bottom: 14px;
+      z-index: 40;
+      color: rgba(23, 33, 27, .46);
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: .04em;
+      background: rgba(255, 255, 255, .72);
+      border: 1px solid rgba(217, 223, 216, .7);
+      border-radius: 999px;
+      padding: 5px 9px;
+      backdrop-filter: blur(8px);
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      padding: 22px 18px;
+      border-right: 1px solid var(--line);
+      background: #fbfcfa;
+      overflow: auto;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+
+    .mark {
+      width: 42px;
+      height: 42px;
+      border-radius: 8px;
+      background: conic-gradient(from 180deg, #0b7a5a, #0969a2, #cc4b2f, #0b7a5a);
+      position: relative;
+      box-shadow: inset 0 0 0 6px #fff;
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: 15px;
+      line-height: 1.2;
+    }
+
+    .brand p {
+      margin: 3px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .nav-label {
+      margin: 20px 0 9px;
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    .filter-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .filter {
+      border: 1px solid transparent;
+      background: transparent;
+      color: var(--ink);
+      min-height: 38px;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 8px 10px;
+      cursor: pointer;
+      text-align: left;
+    }
+
+    .filter:hover,
+    .filter.active {
+      background: var(--soft);
+      border-color: var(--line);
+    }
+
+    .filter span:first-child {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--brand);
+      flex: none;
+    }
+
+    .count {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .source-box {
+      margin-top: 22px;
+      padding: 12px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: #fff;
+    }
+
+    .source-box h2 {
+      margin: 0 0 8px;
+      font-size: 13px;
+    }
+
+    .source-box a {
+      display: block;
+      color: var(--brand-2);
+      text-decoration: none;
+      font-size: 12px;
+      line-height: 1.8;
+      overflow-wrap: anywhere;
+    }
+
+    main {
+      min-width: 0;
+      padding: 22px 24px 34px;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      margin-bottom: 16px;
+    }
+
+    .date-block h2 {
+      margin: 0;
+      font-size: 24px;
+      line-height: 1.1;
+    }
+
+    .date-block p {
+      margin: 5px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .icon-btn,
+    .text-btn {
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--ink);
+      min-height: 36px;
+      border-radius: 7px;
+      padding: 0 11px;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(23, 33, 27, .04);
+    }
+
+    .icon-btn {
+      width: 38px;
+      padding: 0;
+      display: grid;
+      place-items: center;
+    }
+
+    .text-btn.primary {
+      background: var(--ink);
+      color: #fff;
+      border-color: var(--ink);
+    }
+
+    .metric-row {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+
+    .metric {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: #fff;
+      padding: 11px 12px;
+      min-height: 66px;
+      box-shadow: 0 3px 12px rgba(23, 33, 27, .04);
+    }
+
+    .metric b {
+      display: block;
+      font-size: 22px;
+      line-height: 1;
+    }
+
+    .metric span {
+      display: block;
+      margin-top: 7px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .search-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 150px 150px;
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+
+    .field {
+      width: 100%;
+      min-height: 40px;
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      background: #fff;
+      padding: 0 12px;
+      color: var(--ink);
+      outline: none;
+    }
+
+    .field:focus,
+    textarea:focus {
+      border-color: var(--brand);
+      box-shadow: 0 0 0 3px rgba(11, 122, 90, .12);
+    }
+
+    .brief {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 18px;
+      box-shadow: var(--shadow);
+      margin-bottom: 20px;
+    }
+
+    .brief h3,
+    .section-title {
+      margin: 0;
+      font-size: 15px;
+    }
+
+    .brief textarea {
+      width: 100%;
+      min-height: 146px;
+      margin-top: 12px;
+      resize: vertical;
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      padding: 12px;
+      line-height: 1.55;
+      color: var(--ink);
+      outline: none;
+    }
+
+    .brief textarea.copy-buffer {
+      position: absolute;
+      left: -9999px;
+      width: 1px;
+      height: 1px;
+      min-height: 1px;
+      opacity: 0;
+    }
+
+    .brief-display {
+      margin-top: 12px;
+      display: grid;
+      gap: 12px;
+      font-size: 13px;
+      line-height: 1.55;
+    }
+
+    .brief-display h3,
+    .brief-display h4 {
+      margin: 0;
+      font-size: 14px;
+    }
+
+    .brief-display p {
+      margin: 0;
+      color: #344038;
+    }
+
+    .brief-item {
+      display: grid;
+      gap: 4px;
+      padding: 10px;
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      background: #fbfcfa;
+    }
+
+    .brief-item strong {
+      line-height: 1.4;
+    }
+
+    .brief-item span {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .brief-item a,
+    .brief-display a {
+      color: var(--brand-2);
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    .data-status {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.4;
+    }
+
+    .section-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin: 18px 0 10px;
+    }
+
+    .section-note {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .video-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+
+    .video-card {
+      min-height: 150px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: #fff;
+      padding: 13px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      box-shadow: 0 3px 12px rgba(23, 33, 27, .04);
+    }
+
+    .video-card h3 {
+      margin: 0;
+      font-size: 15px;
+      line-height: 1.3;
+    }
+
+    .video-card p {
+      margin: 0;
+      color: #354139;
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .trend-list {
+      display: grid;
+      gap: 8px;
+      margin-top: 2px;
+    }
+
+    .trend-row {
+      display: grid;
+      grid-template-columns: 24px minmax(0, 1fr);
+      gap: 8px;
+      padding-top: 8px;
+      border-top: 1px solid var(--line);
+      font-size: 12px;
+      line-height: 1.4;
+    }
+
+    .trend-rank {
+      color: var(--amber);
+      font-weight: 900;
+    }
+
+    .trend-row a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 800;
+    }
+
+    .trend-meta {
+      margin-top: 4px;
+      color: var(--muted);
+      display: flex;
+      gap: 5px;
+      flex-wrap: wrap;
+    }
+
+    .video-links {
+      margin-top: auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .link-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 28px;
+      padding: 0 9px;
+      border-radius: 7px;
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--brand-2);
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .link-btn.primary-link {
+      background: rgba(9, 105, 162, .08);
+      border-color: rgba(9, 105, 162, .2);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 14px;
+      min-height: 226px;
+      display: flex;
+      flex-direction: column;
+      gap: 13px;
+      box-shadow: 0 4px 16px rgba(23, 33, 27, .05);
+    }
+
+    .card.hidden { display: none; }
+
+    .card-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 10px;
+    }
+
+    .card h3 {
+      margin: 0;
+      font-size: 16px;
+      line-height: 1.35;
+    }
+
+    .tag-row {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      min-height: 22px;
+      padding: 0 7px;
+      border-radius: 999px;
+      background: var(--soft);
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .tag.hot { background: rgba(204, 75, 47, .12); color: #97351f; }
+    .tag.policy { background: rgba(9, 105, 162, .12); color: #07537f; }
+    .tag.field { background: rgba(11, 122, 90, .12); color: #075f46; }
+
+    .summary {
+      margin: 0;
+      color: #354139;
+      font-size: 13px;
+      line-height: 1.55;
+    }
+
+    .angle {
+      border-left: 3px solid var(--brand);
+      padding-left: 10px;
+      color: var(--ink);
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .card-foot {
+      margin-top: auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .source-line {
+      min-width: 0;
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      flex-wrap: wrap;
+    }
+
+    .source-name {
+      color: var(--muted);
+    }
+
+    .stars {
+      color: var(--amber);
+      white-space: nowrap;
+    }
+
+    .right {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      padding: 22px 18px;
+      border-left: 1px solid var(--line);
+      background: #fbfcfa;
+      overflow: auto;
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 14px;
+      margin-bottom: 12px;
+      box-shadow: 0 4px 16px rgba(23, 33, 27, .04);
+    }
+
+    .panel h3 {
+      margin: 0 0 11px;
+      font-size: 14px;
+    }
+
+    .stack {
+      display: grid;
+      gap: 9px;
+    }
+
+    .mini {
+      padding: 10px;
+      border-radius: 7px;
+      background: var(--soft);
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .mini strong {
+      display: block;
+      margin-bottom: 3px;
+      font-size: 12px;
+    }
+
+    .term-list {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .term {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 5px 8px;
+      background: #fff;
+      font-size: 12px;
+      color: #334038;
+    }
+
+    .checklist label {
+      display: flex;
+      gap: 8px;
+      align-items: flex-start;
+      margin: 8px 0;
+      color: #344038;
+      font-size: 13px;
+      line-height: 1.35;
+    }
+
+    .source-matrix {
+      display: grid;
+      gap: 8px;
+    }
+
+    .source-group {
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      padding: 9px;
+      background: #fff;
+    }
+
+    .source-group strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 12px;
+    }
+
+    .source-group a {
+      display: inline-block;
+      margin: 0 8px 5px 0;
+      color: var(--brand-2);
+      font-size: 12px;
+      text-decoration: none;
+    }
+
+    .drawer {
+      position: fixed;
+      inset: auto 18px 18px auto;
+      width: min(520px, calc(100vw - 36px));
+      max-height: calc(100vh - 36px);
+      overflow: auto;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: 0 20px 60px rgba(23, 33, 27, .2);
+      padding: 16px;
+      z-index: 20;
+      display: none;
+    }
+
+    .drawer.open { display: block; }
+
+    .drawer-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .drawer h3 {
+      margin: 0;
+      font-size: 16px;
+    }
+
+    .form-grid {
+      display: grid;
+      gap: 10px;
+    }
+
+    .form-grid label {
+      display: grid;
+      gap: 5px;
+      font-size: 12px;
+      color: var(--muted);
+      font-weight: 700;
+    }
+
+    .form-grid textarea {
+      resize: vertical;
+      min-height: 76px;
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      padding: 10px;
+      color: var(--ink);
+      outline: none;
+    }
+
+    .toast {
+      position: fixed;
+      left: 50%;
+      bottom: 20px;
+      transform: translateX(-50%);
+      background: var(--ink);
+      color: #fff;
+      padding: 10px 13px;
+      border-radius: 7px;
+      box-shadow: var(--shadow);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity .2s ease;
+      z-index: 30;
+      font-size: 13px;
+    }
+
+    .toast.show { opacity: 1; }
+
+    @media (max-width: 1180px) {
+      .app {
+        grid-template-columns: 220px minmax(0, 1fr);
+      }
+
+      .right {
+        grid-column: 1 / -1;
+        height: auto;
+        position: static;
+        border-left: 0;
+        border-top: 1px solid var(--line);
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 12px;
+      }
+
+      .panel { margin-bottom: 0; }
+    }
+
+    @media (max-width: 820px) {
+      .app {
+        display: block;
+      }
+
+      .sidebar,
+      .right {
+        position: static;
+        height: auto;
+      }
+
+      .sidebar {
+        border-right: 0;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .filter-list {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      main {
+        padding: 18px 14px 24px;
+      }
+
+      .topbar {
+        display: block;
+      }
+
+      .actions {
+        margin-top: 12px;
+        justify-content: flex-start;
+      }
+
+      .search-row {
+        grid-template-columns: 1fr;
+      }
+
+      .metric-row,
+      .video-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .grid,
+      .right {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="mark" aria-hidden="true"></div>
+        <div>
+          <h1>CGTN Tech Desk<br>Daily Radar</h1>
+          <p>ChenChen's China tech story cockpit</p>
+        </div>
+      </div>
+
+      <div class="nav-label">频道筛选</div>
+      <div class="filter-list" id="categoryFilters"></div>
+
+      <div class="nav-label">信息源入口</div>
+      <div class="source-box">
+        <h2>Official & Primary</h2>
+        <a href="https://news.cctv.com/tech/" target="_blank">央视新闻科技</a>
+        <a href="https://www.stdaily.com/" target="_blank">科技日报</a>
+        <a href="https://www.cas.cn/yw/" target="_blank">中国科学院</a>
+        <a href="https://www.miit.gov.cn/" target="_blank">MIIT 工信部</a>
+        <a href="https://www.most.gov.cn/" target="_blank">MOST 科技部</a>
+        <a href="https://www.cac.gov.cn/" target="_blank">CAC 网信办</a>
+        <a href="https://www.ndrc.gov.cn/" target="_blank">NDRC 发改委</a>
+        <a href="https://www.samr.gov.cn/" target="_blank">SAMR 市场监管总局</a>
+      </div>
+
+      <div class="source-box">
+        <h2>Research & Media</h2>
+        <a href="https://news.sciencenet.cn/" target="_blank">中国科学报</a>
+        <a href="https://www.jiqizhixin.com/" target="_blank">机器之心</a>
+        <a href="https://www.qbitai.com/" target="_blank">量子位</a>
+        <a href="https://www.tmtpost.com/" target="_blank">钛媒体</a>
+        <a href="https://36kr.com/" target="_blank">36氪</a>
+      </div>
+
+      <div class="source-box">
+        <h2>Company Watch</h2>
+        <a href="https://www.huawei.com/cn/news" target="_blank">Huawei News</a>
+        <a href="https://www.tencent.com/zh-cn/articles.html" target="_blank">Tencent News</a>
+        <a href="https://www.alibaba.com" target="_blank">Alibaba Group</a>
+        <a href="https://www.mi.com/about/news" target="_blank">Xiaomi News</a>
+        <a href="https://www.bydglobal.com/en/news" target="_blank">BYD Global</a>
+      </div>
+
+      <div class="source-box">
+        <h2>International Tech Sources</h2>
+        <a href="https://apnews.com/hub/technology" target="_blank">AP Technology</a>
+        <a href="https://www.reuters.com/technology/" target="_blank">Reuters Technology</a>
+        <a href="https://techcrunch.com/" target="_blank">TechCrunch</a>
+        <a href="https://www.theverge.com/tech" target="_blank">The Verge</a>
+        <a href="https://www.yahoo.com/tech/" target="_blank">Yahoo News Technology</a>
+        <a href="https://www.wired.com/category/science/" target="_blank">WIRED Science</a>
+        <a href="https://www.technologyreview.com/" target="_blank">MIT Technology Review</a>
+        <a href="https://www.france24.com/en/tag/technology/" target="_blank">France24 / AFP Tech</a>
+        <a href="https://www.theregister.com/" target="_blank">The Register</a>
+        <a href="https://arstechnica.com/" target="_blank">Ars Technica</a>
+        <a href="https://www.engadget.com/" target="_blank">Engadget</a>
+      </div>
+
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <div class="date-block">
+          <h2 id="todayTitle">今日中国科技热点</h2>
+          <p id="todaySub">ChenChen 的 CGTN 科技报道一页式选题雷达</p>
+        </div>
+        <div class="actions">
+          <button class="icon-btn" id="copyBrief" title="复制早报">⧉</button>
+          <button class="icon-btn" id="useAutoData" title="使用自动抓取数据">⇣</button>
+          <button class="icon-btn" id="resetData" title="恢复示例数据">↺</button>
+          <button class="text-btn primary" id="openDrawer">新增热点</button>
+        </div>
+      </header>
+
+      <section class="search-row" aria-label="筛选工具">
+        <input class="field" id="searchInput" type="search" placeholder="搜索主题、公司、英文关键词">
+        <select class="field" id="priorityFilter">
+          <option value="all">全部优先级</option>
+          <option value="5">★★★★★ 必追</option>
+          <option value="4">★★★★ 重点</option>
+          <option value="3">★★★ 观察</option>
+        </select>
+        <select class="field" id="formatFilter">
+          <option value="all">全部形式</option>
+          <option value="video">视频</option>
+          <option value="package">成片包</option>
+          <option value="live">连线</option>
+          <option value="graphic">图文</option>
+        </select>
+      </section>
+
+      <section class="metric-row" aria-label="今日雷达概览">
+        <div class="metric"><b id="metricLeads">0</b><span>新闻线索</span></div>
+        <div class="metric"><b id="metricSources">0</b><span>已配置网页信源</span></div>
+        <div class="metric"><b id="metricGlobal">0</b><span>国际科技背景</span></div>
+        <div class="metric"><b id="metricOriginals">0</b><span>带原文链接</span></div>
+      </section>
+
+      <section class="brief">
+        <h3>ChenChen 今日 Briefing</h3>
+        <textarea class="copy-buffer" id="briefText" spellcheck="false" aria-label="复制用纯文本早报"></textarea>
+        <div id="briefDisplay"></div>
+        <div class="data-status" id="dataStatus">仅显示 2026-05-17 当日新闻；自动抓取数据尚未载入，可运行 fetch_daily.mjs 生成。</div>
+      </section>
+
+      <section>
+        <div class="section-head">
+          <h3 class="section-title">国内科技热点卡片</h3>
+          <span class="section-note">每条卡片优先保留原文入口，发稿前再做二次核验。</span>
+        </div>
+        <div class="grid" id="cards"></div>
+      </section>
+
+      <section>
+        <div class="section-head">
+          <h3 class="section-title">Global Tech Radar / 国际科技新闻</h3>
+          <span class="section-note">单独作为国际背景池，不混入国内主列表。</span>
+        </div>
+        <div class="grid" id="globalCards"></div>
+      </section>
+
+      <section>
+        <div class="section-head">
+          <h3 class="section-title">今日 Top Topics</h3>
+          <span class="section-note">按主题聚类，来源越多优先级越高。</span>
+        </div>
+        <div class="video-grid" id="topicGrid"></div>
+      </section>
+
+    </main>
+
+    <aside class="right">
+      <section class="panel">
+        <h3>报道角度库</h3>
+        <div class="stack" id="angleBank"></div>
+      </section>
+
+      <section class="panel">
+        <h3>英文表达</h3>
+        <div class="term-list" id="terms"></div>
+      </section>
+
+      <section class="panel">
+        <h3>信源雷达矩阵</h3>
+        <div class="source-matrix" id="sourceMatrix"></div>
+      </section>
+
+      <section class="panel">
+        <h3>抓取状态</h3>
+        <div class="stack" id="fetchStatus"></div>
+      </section>
+
+      <section class="panel">
+        <h3>失败信源</h3>
+        <div class="stack" id="failedSources"></div>
+      </section>
+
+      <section class="panel checklist">
+        <h3>发稿前核验</h3>
+        <label><input type="checkbox"> 是否有官方或一手来源？</label>
+        <label><input type="checkbox"> 是否区分事实、回应与市场解读？</label>
+        <label><input type="checkbox"> 是否有国际受众能理解的背景？</label>
+        <label><input type="checkbox"> 是否准备了采访对象和画面素材？</label>
+      </section>
+    </aside>
+  </div>
+
+  <section class="drawer" id="drawer" aria-label="新增热点表单">
+    <div class="drawer-head">
+      <h3>新增热点</h3>
+      <button class="icon-btn" id="closeDrawer" title="关闭">×</button>
+    </div>
+    <form class="form-grid" id="leadForm">
+      <label>标题
+        <input class="field" name="title" required placeholder="例：人形机器人进入工厂实训场景">
+      </label>
+      <label>分类
+        <select class="field" name="category">
+          <option>AI</option>
+          <option>芯片</option>
+          <option>新能源车</option>
+          <option>机器人</option>
+          <option>数字经济</option>
+          <option>太空与低空</option>
+          <option>科学前沿</option>
+          <option>监管与安全</option>
+        </select>
+      </label>
+      <label>摘要
+        <textarea name="summary" required placeholder="发生了什么，为什么今天重要"></textarea>
+      </label>
+      <label>CGTN 角度
+        <textarea name="angle" required placeholder="面向国际受众的报道切入点"></textarea>
+      </label>
+      <label>关键词
+        <input class="field" name="keywords" placeholder="AI, industrial upgrade, supply chain">
+      </label>
+      <label>原文链接
+        <input class="field" name="url" type="url" placeholder="https://...">
+      </label>
+      <label>优先级
+        <select class="field" name="priority">
+          <option value="5">★★★★★ 必追</option>
+          <option value="4">★★★★ 重点</option>
+          <option value="3">★★★ 观察</option>
+        </select>
+      </label>
+      <label>推荐形式
+        <select class="field" name="format">
+          <option value="video">视频</option>
+          <option value="package">成片包</option>
+          <option value="live">连线</option>
+          <option value="graphic">图文</option>
+        </select>
+      </label>
+      <button class="text-btn primary" type="submit">保存热点</button>
+    </form>
+  </section>
+
+  <div class="toast" id="toast">已保存</div>
+  <div class="signature">LPT for ChenChen</div>
+
+  <script src="./daily-data.js"></script>
+  <script>
+    const categories = [
+      ['全部', '#17211b'],
+      ['AI', '#0b7a5a'],
+      ['芯片', '#0969a2'],
+      ['新能源车', '#cc4b2f'],
+      ['机器人', '#8a5a00'],
+      ['数字经济', '#5f6b37'],
+      ['太空与低空', '#4b6f8a'],
+      ['科学前沿', '#6c4fa3'],
+      ['监管与安全', '#7b3f35']
+    ];
+
+    const starterLeads = [
+      {
+        title: 'AI 大模型从参数竞赛转向行业落地',
+        category: 'AI',
+        summary: '国内模型厂商、云服务商和行业客户继续把重点放在政务、医疗、制造、教育等落地场景，报道价值不只在模型能力，也在应用和治理。',
+        angle: 'China is moving from model capability demos to practical AI adoption across industries, with governance and productivity as the central story.',
+        keywords: 'large language models, AI applications, productivity, governance',
+        priority: 5,
+        format: 'package',
+        source: '企业发布 / 行业会议 / 官方政策',
+        url: 'https://www.most.gov.cn/'
+      },
+      {
+        title: '国产芯片供应链关注先进封装与设备材料',
+        category: '芯片',
+        summary: '半导体报道可从制造、封装、EDA、设备、材料分层观察，避免只盯单家公司股价波动。',
+        angle: 'Frame the story around supply-chain resilience and industrial upgrading rather than a single company race.',
+        keywords: 'semiconductors, advanced packaging, supply-chain resilience',
+        priority: 4,
+        format: 'graphic',
+        source: '交易所公告 / 行业协会 / 企业财报',
+        url: 'https://www.miit.gov.cn/'
+      },
+      {
+        title: '新能源车出海进入本地化竞争阶段',
+        category: '新能源车',
+        summary: '中国车企海外建厂、售后网络、智能驾驶合规和品牌建设成为新阶段关键词。',
+        angle: 'The next phase of China EV globalization is not just exports, but localization, compliance and service ecosystems.',
+        keywords: 'EVs, globalization, localization, smart mobility',
+        priority: 5,
+        format: 'video',
+        source: '公司公告 / 海外市场数据 / 政策文件',
+        url: 'https://www.bydglobal.com/en/news'
+      },
+      {
+        title: '人形机器人从发布会走向工厂、仓储和服务场景',
+        category: '机器人',
+        summary: '如果出现真实订单、工厂试点或量产节点，比单纯发布新机型更值得追。',
+        angle: 'Show how robotics is entering real production environments and what it means for labor, safety and manufacturing efficiency.',
+        keywords: 'humanoid robots, smart manufacturing, automation',
+        priority: 4,
+        format: 'video',
+        source: '企业实地 / 展会 / 工厂试点',
+        url: 'https://www.jiqizhixin.com/'
+      },
+      {
+        title: '数据要素与数字产业政策持续释放信号',
+        category: '数字经济',
+        summary: '数字中国、算力、数据交易、平台经济监管修复都适合做背景型解释报道。',
+        angle: 'Explain how China is building digital infrastructure as a public and commercial foundation for growth.',
+        keywords: 'digital economy, computing power, data infrastructure',
+        priority: 3,
+        format: 'graphic',
+        source: '发改委 / 工信部 / 地方政策',
+        url: 'https://www.ndrc.gov.cn/xwdt/'
+      },
+      {
+        title: '低空经济与商业航天成为地方产业新抓手',
+        category: '太空与低空',
+        summary: '低空经济要看空域管理、应用场景、基础设施和安全监管，商业航天要看发射、卫星制造与下游应用。',
+        angle: 'Connect emerging aerospace industries with urban services, logistics and disaster response use cases.',
+        keywords: 'low-altitude economy, commercial space, satellite internet',
+        priority: 4,
+        format: 'package',
+        source: '地方规划 / 企业进展 / 监管文件',
+        url: 'https://www.miit.gov.cn/'
+      },
+      {
+        title: '科技监管报道关注个人信息、算法和未成年人保护',
+        category: '监管与安全',
+        summary: '涉及 App、平台、AI 服务和数据跨境时，报道需要同时给出创新和安全两个维度。',
+        angle: 'Balance innovation with safety: how digital governance shapes public trust in technology.',
+        keywords: 'data security, algorithm governance, privacy protection',
+        priority: 4,
+        format: 'live',
+        source: '网信办 / 市监总局 / 企业回应',
+        url: 'https://www.cac.gov.cn/'
+      }
+    ];
+
+    const sourceMatrix = [
+      {
+        group: '官方与政策',
+        links: [
+          ['央视新闻科技', 'https://news.cctv.com/tech/'],
+          ['科技日报', 'https://www.stdaily.com/'],
+          ['中科院', 'https://www.cas.cn/yw/'],
+          ['工信部', 'https://www.miit.gov.cn/'],
+          ['科技部', 'https://www.most.gov.cn/'],
+          ['网信办', 'https://www.cac.gov.cn/']
+        ]
+      },
+      {
+        group: '科研与学术',
+        links: [
+          ['中国科学报', 'https://news.sciencenet.cn/'],
+          ['科学网', 'https://www.sciencenet.cn/'],
+          ['中科院院刊', 'https://www.bulletin.cas.cn/'],
+          ['国家自然科学基金委', 'https://www.nsfc.gov.cn/']
+        ]
+      },
+      {
+        group: '产业媒体',
+        links: [
+          ['机器之心', 'https://www.jiqizhixin.com/'],
+          ['量子位', 'https://www.qbitai.com/'],
+          ['36氪', 'https://36kr.com/'],
+          ['钛媒体', 'https://www.tmtpost.com/'],
+          ['TechNode', 'https://technode.com/']
+        ]
+      },
+      {
+        group: 'International Tech Sources',
+        links: [
+          ['AP Technology', 'https://apnews.com/hub/technology'],
+          ['Reuters Technology', 'https://www.reuters.com/technology/'],
+          ['TechCrunch', 'https://techcrunch.com/'],
+          ['The Verge', 'https://www.theverge.com/tech'],
+          ['Yahoo News Technology', 'https://www.yahoo.com/tech/'],
+          ['WIRED', 'https://www.wired.com/category/science/'],
+          ['MIT Technology Review', 'https://www.technologyreview.com/'],
+          ['France24 / AFP Tech', 'https://www.france24.com/en/tag/technology/'],
+          ['The Register', 'https://www.theregister.com/'],
+          ['Ars Technica', 'https://arstechnica.com/'],
+          ['Engadget', 'https://www.engadget.com/'],
+          ['CNBC Technology', 'https://www.cnbc.com/technology/'],
+          ['Bloomberg Technology', 'https://www.bloomberg.com/technology'],
+          ['Nikkei Asia Technology', 'https://asia.nikkei.com/Business/Technology'],
+          ['Rest of World', 'https://restofworld.org/']
+        ]
+      },
+    ];
+
+    const angles = [
+      ['产业升级', '从单点技术转到供应链、就业、效率和全球竞争力。'],
+      ['民生应用', '问清楚技术如何改变普通人的医疗、出行、教育和消费。'],
+      ['国际传播', '避免行话，用对照和场景解释中国科技进展。'],
+      ['治理平衡', '呈现创新、安全、隐私、合规之间的现实取舍。']
+    ];
+
+    const terms = [
+      'industrial upgrading', 'supply-chain resilience', 'AI governance',
+      'smart manufacturing', 'digital infrastructure', 'commercialization',
+      'global competitiveness', 'regulatory framework', 'real-world applications'
+    ];
+
+    const storageKey = 'chenchen-cgtn-tech-desk-leads-v4-2026-05-17';
+    const briefKey = 'chenchen-cgtn-tech-desk-brief-v4-2026-05-17';
+    const autoData = window.CHENCHEN_DAILY_DATA || null;
+    let selectedCategory = '全部';
+    let leads = loadLeads();
+    let globalLeads = autoData?.globalLeads || [];
+
+    const cards = document.getElementById('cards');
+    const globalCards = document.getElementById('globalCards');
+    const topicGrid = document.getElementById('topicGrid');
+    const categoryFilters = document.getElementById('categoryFilters');
+    const searchInput = document.getElementById('searchInput');
+    const priorityFilter = document.getElementById('priorityFilter');
+    const formatFilter = document.getElementById('formatFilter');
+    const briefText = document.getElementById('briefText');
+    const briefDisplay = document.getElementById('briefDisplay');
+    const dataStatus = document.getElementById('dataStatus');
+    const toast = document.getElementById('toast');
+
+    function loadLeads() {
+      if (autoData?.leads?.length) return autoData.leads;
+      const saved = localStorage.getItem(storageKey);
+      if (saved) return JSON.parse(saved);
+      return starterLeads;
+    }
+
+    function saveLeads() {
+      localStorage.setItem(storageKey, JSON.stringify(leads));
+    }
+
+    function showToast(message) {
+      toast.textContent = message;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 1600);
+    }
+
+    function stars(n) {
+      return '★★★★★'.slice(0, Number(n));
+    }
+
+    function todayString() {
+      return new Intl.DateTimeFormat('zh-CN', {
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        weekday: 'short'
+      }).format(new Date());
+    }
+
+    function defaultBrief() {
+      const top = leads
+        .filter(item => Number(item.priority) >= 4)
+        .slice(0, 3)
+        .map((item, index) => `${index + 1}. ${item.title}｜${item.angle}`)
+        .join('\n');
+
+      return `ChenChen 今日中国科技热点｜2026-05-17\n\n最值得关注：\n${top || '今日严格模式下暂无自动命中的科技新闻。'}\n\n需要核实：官方来源、企业回应、国际背景、可视化素材。\n\n可采访方向：政策研究者、企业工程师、行业分析师、真实用户。`;
+    }
+
+    function renderFilters() {
+      const counts = new Map();
+      counts.set('全部', leads.length);
+      leads.forEach(item => counts.set(item.category, (counts.get(item.category) || 0) + 1));
+
+      categoryFilters.innerHTML = categories.map(([name, color]) => `
+        <button class="filter ${selectedCategory === name ? 'active' : ''}" data-category="${name}">
+          <span><i class="dot" style="background:${color}"></i>${name}</span>
+          <span class="count">${counts.get(name) || 0}</span>
+        </button>
+      `).join('');
+
+      categoryFilters.querySelectorAll('.filter').forEach(button => {
+        button.addEventListener('click', () => {
+          selectedCategory = button.dataset.category;
+          render();
+        });
+      });
+    }
+
+    function matches(item) {
+      const query = searchInput.value.trim().toLowerCase();
+      const haystack = `${item.title} ${item.category} ${item.summary} ${item.angle} ${item.keywords} ${item.source} ${item.url}`.toLowerCase();
+      const categoryOk = selectedCategory === '全部' || item.category === selectedCategory;
+      const priorityOk = priorityFilter.value === 'all' || String(item.priority) === priorityFilter.value;
+      const formatOk = formatFilter.value === 'all' || item.format === formatFilter.value;
+      const searchOk = !query || haystack.includes(query);
+      return categoryOk && priorityOk && formatOk && searchOk;
+    }
+
+    function formatLabel(format) {
+      return {
+        video: '视频',
+        package: '成片包',
+        live: '连线',
+        graphic: '图文'
+      }[format] || format;
+    }
+
+    function renderCards() {
+      const visible = leads.filter(matches);
+      cards.innerHTML = visible.map((item, index) => `
+        <article class="card">
+          <div class="card-head">
+            <div>
+              <div class="tag-row">
+                <span class="tag field">${item.category}</span>
+                <span class="tag hot">${formatLabel(item.format)}</span>
+              </div>
+              <h3>${item.title}</h3>
+            </div>
+            <span class="stars" title="优先级">${stars(item.priority)}</span>
+          </div>
+          <p class="summary">${item.summary}</p>
+          <div class="angle">${item.angle}</div>
+          <div class="tag-row">
+            ${(item.keywords || '').split(',').map(k => k.trim()).filter(Boolean).slice(0, 5).map(k => `<span class="tag">${k}</span>`).join('')}
+          </div>
+          <div class="card-foot">
+            <div class="source-line">
+              <span class="source-name">${item.source || '待补来源'}</span>
+              ${(item.sources || []).length > 1 ? `<span class="tag">同主题来源：${item.sources.join('、')}</span>` : ''}
+              <span class="tag">${item.publishedAt || item.dateKey || '时间待核'}</span>
+              <span class="tag field">确认今日</span>
+              ${item.url ? `<a class="link-btn primary-link" href="${item.url}" target="_blank" rel="noopener">原文</a>` : '<span class="tag">待补链接</span>'}
+            </div>
+            <button class="text-btn" data-delete="${index}">移除</button>
+          </div>
+        </article>
+      `).join('');
+
+      cards.querySelectorAll('[data-delete]').forEach((button) => {
+        button.addEventListener('click', () => {
+          const visibleItem = visible[Number(button.dataset.delete)];
+          leads = leads.filter(item => item !== visibleItem);
+          saveLeads();
+          render();
+          showToast('已移除热点');
+        });
+      });
+    }
+
+    function renderGlobalCards() {
+      const visible = globalLeads.slice(0, 24);
+      globalCards.innerHTML = visible.length ? visible.map((item) => `
+        <article class="card">
+          <div class="card-head">
+            <div>
+              <div class="tag-row">
+                <span class="tag field">${item.region || 'Global'}</span>
+                <span class="tag hot">${item.category || 'Tech'}</span>
+                <span class="tag">China relevance: ${item.relevanceToChina || 'medium'}</span>
+              </div>
+              <h3>${item.title}</h3>
+            </div>
+            <span class="stars" title="优先级">${stars(item.priority || 3)}</span>
+          </div>
+          <p class="summary">${item.summary || '摘要待补。'}</p>
+          <div class="angle">${item.cgtAngle || 'Use this as international context for China technology coverage.'}</div>
+          <div class="card-foot">
+            <div class="source-line">
+              <span class="source-name">${item.source || 'International source'}</span>
+              <span class="tag">${item.publishedAt || item.date || '时间待核'}</span>
+              ${item.url ? `<a class="link-btn primary-link" href="${item.url}" target="_blank" rel="noopener">原文</a>` : '<span class="tag">待补链接</span>'}
+            </div>
+          </div>
+        </article>
+      `).join('') : '<article class="card"><h3>暂无国际科技新闻</h3><p class="summary">国际信源可能被限流或未生成抓取数据，可稍后重试。</p></article>';
+    }
+
+    function renderTopics() {
+      const topics = (autoData?.topics || []).slice(0, 9);
+      topicGrid.innerHTML = topics.map(topic => `
+        <article class="video-card">
+          <div class="tag-row">
+            <span class="tag hot">Topic</span>
+            <span class="tag">${topic.count} 条</span>
+            <span class="tag">${topic.sourceCount} 个来源</span>
+          </div>
+          <h3>${topic.topic}</h3>
+          <p>${(topic.items || []).slice(0, 2).join(' / ')}</p>
+          <div class="tag-row">
+            ${(topic.sources || []).slice(0, 5).map(source => `<span class="tag">${source}</span>`).join('')}
+          </div>
+        </article>
+      `).join('');
+    }
+
+    function renderSourceMatrix() {
+      document.getElementById('sourceMatrix').innerHTML = sourceMatrix.map(group => `
+        <div class="source-group">
+          <strong>${group.group}</strong>
+          ${group.links.map(([name, url]) => `<a href="${url}" target="_blank" rel="noopener">${name}</a>`).join('')}
+        </div>
+      `).join('');
+    }
+
+    function renderMetrics() {
+      document.getElementById('metricLeads').textContent = leads.length;
+      document.getElementById('metricSources').textContent = (autoData?.sourcesChecked || 19) + (autoData?.globalSourcesChecked || 0);
+      document.getElementById('metricGlobal').textContent = globalLeads.length;
+      document.getElementById('metricOriginals').textContent = leads.filter(item => item.url).length + globalLeads.filter(item => item.url).length;
+    }
+
+    function renderSide() {
+      document.getElementById('angleBank').innerHTML = angles.map(([title, body]) => `
+        <div class="mini"><strong>${title}</strong>${body}</div>
+      `).join('');
+      document.getElementById('terms').innerHTML = terms.map(term => `<span class="term">${term}</span>`).join('');
+      renderSourceMatrix();
+      const domesticFailures = autoData?.domesticFailedSources || autoData?.failedSources || autoData?.failures || [];
+      const globalFailures = autoData?.globalFailedSources || [];
+      const failureBlock = (title, rows) => rows.length
+        ? `<div class="mini"><strong>${title}</strong>${rows.map(item => `${item.name}：${item.error || '暂未抓到，可稍后重试。'}`).join('<br>')}</div>`
+        : `<div class="mini"><strong>${title}</strong>暂无失败信源。</div>`;
+      document.getElementById('failedSources').innerHTML = [
+        failureBlock('Domestic', domesticFailures),
+        failureBlock('Global', globalFailures)
+      ].join('');
+      document.getElementById('fetchStatus').innerHTML = `
+        <div class="mini"><strong>国内新闻抓取</strong>信源 ${autoData?.sourcesChecked || 0}｜成功 ${autoData?.successSources || 0}｜失败 ${domesticFailures.length}｜抓取 ${autoData?.itemsSeen || 0}</div>
+        <div class="mini"><strong>国际新闻抓取</strong>信源 ${autoData?.globalSourcesChecked || 0}｜成功 ${autoData?.globalSuccessSources || 0}｜失败 ${globalFailures.length}｜抓取 ${autoData?.globalItemsSeen || 0}</div>
+        <div class="mini"><strong>确认今日 / 国际背景</strong>${autoData?.leads?.length || 0} / ${autoData?.globalLeads?.length || 0}</div>
+        <div class="mini"><strong>过滤旧闻</strong>${autoData?.skippedNonToday || 0}</div>
+      `;
+    }
+
+    function render() {
+      renderFilters();
+      renderCards();
+      renderGlobalCards();
+      renderTopics();
+      renderMetrics();
+      document.getElementById('todayTitle').textContent = `ChenChen 今日中国科技热点｜2026-05-17`;
+      if (autoData?.generatedAt) {
+        dataStatus.textContent = `仅显示 ${autoData.targetDate || '2026-05-17'}｜自动抓取：${new Date(autoData.generatedAt).toLocaleString('zh-CN')}｜国内核心事件 ${autoData.leads?.length || 0} 条｜国际背景 ${autoData.globalLeads?.length || 0} 条｜过滤旧闻 ${autoData.skippedNonToday || 0} 条`;
+      }
+    }
+
+    function setupBrief() {
+      const copyText = localStorage.getItem(briefKey) || autoData?.copyBriefingText || autoData?.brief || defaultBrief();
+      briefText.value = copyText;
+      briefDisplay.innerHTML = autoData?.displayBriefingHtml || `<div class="brief-display"><h3>ChenChen 今日中国科技热点</h3><p>${copyText.replace(/\n/g, '<br>')}</p></div>`;
+      briefText.addEventListener('input', () => {
+        localStorage.setItem(briefKey, briefText.value);
+      });
+    }
+
+    function setupDrawer() {
+      const drawer = document.getElementById('drawer');
+      document.getElementById('openDrawer').addEventListener('click', () => drawer.classList.add('open'));
+      document.getElementById('closeDrawer').addEventListener('click', () => drawer.classList.remove('open'));
+      document.getElementById('leadForm').addEventListener('submit', (event) => {
+        event.preventDefault();
+        const data = Object.fromEntries(new FormData(event.currentTarget).entries());
+        leads.unshift({
+          title: data.title,
+          category: data.category,
+          summary: data.summary,
+          angle: data.angle,
+          keywords: data.keywords,
+          priority: Number(data.priority),
+          format: data.format,
+          source: '手动添加',
+          url: data.url
+        });
+        saveLeads();
+        event.currentTarget.reset();
+        drawer.classList.remove('open');
+        render();
+        showToast('热点已保存');
+      });
+    }
+
+    function setupActions() {
+      [searchInput, priorityFilter, formatFilter].forEach(el => el.addEventListener('input', render));
+      document.getElementById('copyBrief').addEventListener('click', async () => {
+        const text = briefText.value;
+        try {
+          await navigator.clipboard.writeText(text);
+          showToast('早报已复制');
+        } catch {
+          briefText.select();
+          document.execCommand('copy');
+          showToast('早报已复制');
+        }
+      });
+      document.getElementById('useAutoData').addEventListener('click', () => {
+        if (!autoData?.leads?.length) {
+          showToast('还没有自动抓取数据');
+          return;
+        }
+        leads = autoData.leads;
+        globalLeads = autoData.globalLeads || [];
+        saveLeads();
+        briefText.value = autoData.copyBriefingText || autoData.brief || defaultBrief();
+        briefDisplay.innerHTML = autoData.displayBriefingHtml || `<div class="brief-display"><h3>ChenChen 今日中国科技热点</h3><p>${briefText.value.replace(/\n/g, '<br>')}</p></div>`;
+        localStorage.setItem(briefKey, briefText.value);
+        selectedCategory = '全部';
+        render();
+        renderSide();
+        showToast('已载入自动抓取数据');
+      });
+      document.getElementById('resetData').addEventListener('click', () => {
+        leads = starterLeads;
+        globalLeads = [];
+        saveLeads();
+        briefText.value = defaultBrief();
+        briefDisplay.innerHTML = `<div class="brief-display"><h3>ChenChen 今日中国科技热点</h3><p>${briefText.value.replace(/\n/g, '<br>')}</p></div>`;
+        localStorage.setItem(briefKey, briefText.value);
+        render();
+        renderSide();
+        showToast('已恢复示例数据');
+      });
+    }
+
+    setupBrief();
+    setupDrawer();
+    setupActions();
+    renderSide();
+    render();
+  </script>
+</body>
+</html>

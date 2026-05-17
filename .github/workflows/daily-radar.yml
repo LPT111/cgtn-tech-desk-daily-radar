@@ -1,0 +1,71 @@
+name: CGTN Tech Desk Daily Radar
+
+on:
+  schedule:
+    # Beijing 07:40 / 14:40 / 20:40
+    - cron: '40 23 * * *'
+    - cron: '40 6 * * *'
+    - cron: '40 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-radar:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+      FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+      PUBLIC_DASHBOARD_URL: ${{ secrets.PUBLIC_DASHBOARD_URL }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          elif [ -f package.json ]; then
+            npm install
+          else
+            echo "No package.json found, skip npm install."
+          fi
+
+      - name: Run crawler and build dashboard data
+        run: |
+          CGTN_RADAR_DATE=$(date +%F) node fetch_daily.mjs
+
+      - name: Verify generated briefing files
+        run: |
+          test -f index.html
+          test -f daily-data.js
+          test -f data/latest.json
+          test -f output/briefing.md
+          test -f output/briefing.txt
+
+      - name: Commit updated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html daily-data.js data/latest.json output/briefing.md output/briefing.txt
+          if git diff --cached --quiet; then
+            echo "No generated file changes to commit."
+          else
+            git commit -m "chore: update daily tech radar $(date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
+
+      - name: Send Feishu briefing
+        run: node send_feishu.mjs
