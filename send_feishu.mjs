@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const latestJsonPath = path.join(__dirname, 'data', 'latest.json');
 const briefingTxtPath = path.join(__dirname, 'output', 'briefing.txt');
+const pushStatePath = path.join(__dirname, 'data', 'feishu-push-state.json');
 
 function cnNowParts() {
   const date = new Intl.DateTimeFormat('en-CA', {
@@ -32,6 +33,35 @@ async function readBriefing() {
   return fs.readFile(briefingTxtPath, 'utf8');
 }
 
+function getScheduleSlot(date, time) {
+  const [hour, minute] = time.split(':').map(Number);
+  const current = hour * 60 + minute;
+  const slots = [
+    { name: 'morning', label: '07:40', start: 7 * 60 + 35, end: 8 * 60 + 10 },
+    { name: 'afternoon', label: '14:40', start: 14 * 60 + 35, end: 15 * 60 + 10 },
+    { name: 'evening', label: '20:40', start: 20 * 60 + 35, end: 21 * 60 + 10 }
+  ];
+  const slot = slots.find((item) => current >= item.start && current <= item.end);
+  if (!slot) return null;
+  return {
+    ...slot,
+    key: `${date}-${slot.name}`
+  };
+}
+
+async function readPushState() {
+  try {
+    return JSON.parse(await fs.readFile(pushStatePath, 'utf8'));
+  } catch {
+    return { sentSlots: {} };
+  }
+}
+
+async function writePushState(state) {
+  await fs.mkdir(path.dirname(pushStatePath), { recursive: true });
+  await fs.writeFile(pushStatePath, `${JSON.stringify(state, null, 2)}\n`, 'utf8');
+}
+
 async function main() {
   const webhook = process.env.FEISHU_WEBHOOK_URL;
   if (!webhook) {
@@ -42,6 +72,20 @@ async function main() {
   const dashboardUrl = process.env.PUBLIC_DASHBOARD_URL || 'PUBLIC_DASHBOARD_URL 未配置';
   const manual = process.env.GITHUB_EVENT_NAME === 'workflow_dispatch' || process.env.FEISHU_TEST === '1';
   const { date, time } = cnNowParts();
+  const slot = getScheduleSlot(date, time);
+
+  if (!manual) {
+    if (!slot) {
+      console.log(`No Feishu schedule slot matched for ${date} ${time}, skip push.`);
+      return;
+    }
+    const state = await readPushState();
+    if (state.sentSlots?.[slot.key]) {
+      console.log(`Feishu push already sent for ${slot.key}, skip duplicate.`);
+      return;
+    }
+  }
+
   const title = manual
     ? `ChenChen 今日 Briefing｜手动测试｜${date} ${time}`
     : `ChenChen 今日 Briefing｜${date} ${time}`;
@@ -65,6 +109,17 @@ async function main() {
     }
     console.log(`Feishu push success: ${response.status}`);
     console.log(body);
+    if (!manual && slot) {
+      const state = await readPushState();
+      state.sentSlots = state.sentSlots || {};
+      state.sentSlots[slot.key] = {
+        sentAt: new Date().toISOString(),
+        displayTime: `${date} ${time}`,
+        scheduleSlot: slot.label,
+        runId: process.env.GITHUB_RUN_ID || ''
+      };
+      await writePushState(state);
+    }
   } catch (error) {
     console.error(`Feishu push error: ${error.message}`);
   }
