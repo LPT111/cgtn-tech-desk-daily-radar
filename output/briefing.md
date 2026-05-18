@@ -2,49 +2,25 @@
 
 【ChenChen 今日 Briefing】
 
-生成时间：2026/5/18 19:02:18
+生成时间：2026/5/19 00:05:36
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 最值得关注：
-1. [2026-05-18] 一家机器人6S店的“生意经”
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-05-18/doc-inhyhiss4098631.shtml
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
-
-2. [2026-05-18] 重塑机器人底层逻辑，矩阵超智全栈突破对标全球顶尖
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-05-18/doc-inhyimei2807252.shtml
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
-
-3. [2026-05-18] 千帆星座第9批组网卫星成功发射！中国版星链全球组网进入快车道
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-05-18/doc-inhyhisu0870303.shtml
-   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
-
-4. [2026-05-18] 深挖波士顿动力机器人量产困境：供应链瓶颈或与 16:53
+1. [2026-05-19] 摩尔线程发布“云边端”全栈智算产品矩阵 00:00
    来源：网易科技
-   链接：https://www.163.com/dy/article/KT7P12QD05198CJN.html
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
-
-5. [2026-05-18] 三友医疗：目前，脊柱手术人形机器人系统在南京 16:32
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KT7NQ1OC0512B07B.html
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
+   链接：https://www.163.com/dy/article/KT8HE9130534A4SC.html
+   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
 今日热点方向：
-- AI 应用：AI动态（96 条，12 个来源）
-- 芯片/半导体：半导体供应链（26 条，6 个来源）
-- 机器人/具身智能：人形机器人与具身智能（18 条，7 个来源）
-- 新能源车/智能驾驶：新能源车动态（17 条，5 个来源）
+- AI 应用：AI动态（90 条，11 个来源）
+- 芯片/半导体：半导体供应链（24 条，6 个来源）
+- 机器人/具身智能：人形机器人与具身智能（21 条，8 个来源）
+- 新能源车/智能驾驶：新能源车动态（18 条，5 个来源）
 - 太空与低空经济：低空经济与无人机（4 条，3 个来源）
-- 科学前沿：科学前沿与科研设施（24 条，9 个来源）
+- 科学前沿：科学前沿动态（33 条，10 个来源）
 
 国际科技背景：
-1. Why trust is a big question at the Elon Musk-OpenAI trial｜TechCrunch｜https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/
-2. California jury to deliberate on Musk's blockbuster lawsuit against OpenAI｜France24 Technology｜https://www.france24.com/en/americas/20260518-california-jury-set-to-deliberate-on-silicon-valley-s-first-major-ai-trial
-3. Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’｜WIRED Business｜https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/
-4. High energy prices could derail Europe’s AI race with U.S. and China｜CNBC Technology｜https://www.cnbc.com/2026/05/18/europe-ai-energy-electricity-costs-data-centers-china-us.html
-5. China agrees to boost trade for US ag products such as beef and poultry following Trump-Xi summit｜AP Technology｜https://apnews.com/article/trump-xi-china-farmers-trade-soybeans-beef-832bafb5ca0be21e4a1d149c5db56b58
+暂无国际科技背景。
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
