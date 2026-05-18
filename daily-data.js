@@ -1,5 +1,5 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-05-18T16:05:36.097Z",
+  "generatedAt": "2026-05-18T16:15:00.186Z",
   "targetDate": "2026-05-19",
   "todayOnly": true,
   "sourcesChecked": 28,
@@ -11,6 +11,11 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -22,11 +27,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "市场监管总局",
       "error": "fetch failed",
       "optional": false
     }
@@ -38,6 +38,11 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -49,11 +54,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "市场监管总局",
       "error": "fetch failed",
       "optional": false
     }
@@ -62,7 +62,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 183,
+      "parsed": 180,
       "failed": false,
       "optional": false
     },
@@ -161,8 +161,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -255,24 +256,23 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     }
   ],
-  "itemsSeen": 1089,
+  "itemsSeen": 1084,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 537,
-  "itemsAfterDedupe": 365,
+  "itemsAfterRelevantFilter": 504,
+  "itemsAfterDedupe": 343,
   "todayItemsSeen": 1,
   "suspectedItemsSeen": 1,
-  "skippedNonToday": 367,
+  "skippedNonToday": 344,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 183,
+      "parsed": 180,
       "failed": false,
       "optional": false
     },
@@ -371,8 +371,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -465,9 +466,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     }
   ],
@@ -511,7 +511,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "Yahoo News Technology",
       "tier": "international",
-      "parsed": 236,
+      "parsed": 235,
       "failed": false,
       "optional": false
     },
@@ -586,6 +586,11 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -599,11 +604,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办",
       "error": "fetch failed",
       "optional": false
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     }
   ],
   "globalFailedSources": [
@@ -615,17 +615,18 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalSourcesChecked": 15,
   "globalSuccessSources": 14,
-  "globalItemsSeen": 829,
+  "globalItemsSeen": 828,
   "globalItemsAfterRelevantFilter": 264,
   "topics": [
     {
       "topic": "AI动态",
-      "count": 90,
-      "sourceCount": 11,
+      "count": 96,
+      "sourceCount": 12,
       "sources": [
         "新浪科技",
         "中国科学报",
         "科技日报",
+        "光明网-科技",
         "IT之家",
         "网易科技",
         "观察者网-产业科技",
@@ -633,7 +634,7 @@ window.CHENCHEN_DAILY_DATA = {
         "TechNode",
         "人民网-科技",
         "新华网-科技",
-        "光明网-科技"
+        "央广网-科技"
       ],
       "items": [
         "AI打工人的「第一笔工资」：16.88美元",
@@ -645,7 +646,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 63,
+      "count": 58,
       "sourceCount": 11,
       "sources": [
         "新浪科技",
@@ -657,8 +658,8 @@ window.CHENCHEN_DAILY_DATA = {
         "量子位",
         "TechNode",
         "科技日报",
-        "中国科学院",
-        "人民网-科技"
+        "人民网-科技",
+        "光明网-科技"
       ],
       "items": [
         "从Byte到Token 电信运营商抢抓大模型关键入口",
@@ -670,15 +671,14 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "科学前沿动态",
-      "count": 33,
-      "sourceCount": 10,
+      "count": 21,
+      "sourceCount": 9,
       "sources": [
         "新浪科技",
         "网易科技",
         "观察者网-产业科技",
         "量子位",
         "科技日报",
-        "中国科学院",
         "中国科学报",
         "人民网-科技",
         "新华网-科技",
@@ -694,17 +694,17 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "科学前沿与科研设施",
-      "count": 28,
+      "count": 22,
       "sourceCount": 8,
       "sources": [
         "IT之家",
         "观察者网-产业科技",
         "量子位",
         "科技日报",
-        "中国科学院",
         "中国科学报",
         "人民网-科技",
-        "新华网-科技"
+        "新华网-科技",
+        "光明网-科技"
       ],
       "items": [
         "NASA 新型火星直升机旋翼突破音障，叶尖速度达 1.08 马赫",
@@ -715,7 +715,7 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "人形机器人与具身智能",
+      "topic": "国产 GPU / 算力基础设施",
       "count": 21,
       "sourceCount": 8,
       "sources": [
@@ -724,7 +724,49 @@ window.CHENCHEN_DAILY_DATA = {
         "网易科技",
         "观察者网-产业科技",
         "量子位",
-        "中国科学院",
+        "TechNode",
+        "中国科学报",
+        "光明网-科技"
+      ],
+      "items": [
+        "百度财报：一季度AI云收入88亿元，增长79%",
+        "摩尔线程发布MTT AICUBE：以自研智能SoC为底座，打造家庭AI中枢",
+        "撕掉追随者标签！国产GPU原创架构逆袭：市场份额突破60%、NVIDIA跌至8%",
+        "中国首款全栈自研、前装量产的 Robotaxi：小鹏 GX 首台 Robotaxi 量产车下线，3000TOPS 算力全球最高",
+        "特朗普谈入股英特尔：后悔当初只拿10%股份，“ 21:27"
+      ]
+    },
+    {
+      "topic": "半导体供应链",
+      "count": 27,
+      "sourceCount": 7,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "观察者网-产业科技",
+        "量子位",
+        "TechNode",
+        "光明网-科技"
+      ],
+      "items": [
+        "三星电子管理层与工会重启谈判，力求避免罢工",
+        "特朗普:本应要求获得更多英特尔公司的股份",
+        "三星电子与工会展开最后谈判，力求避免罢工冲击全球供应链",
+        "台积电全力冲刺超先进制程，启动1纳米产能布局",
+        "DDR5内存被迫牺牲 内存巨头全力生产HBM：今年出货超300亿Gb"
+      ]
+    },
+    {
+      "topic": "人形机器人与具身智能",
+      "count": 19,
+      "sourceCount": 7,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "观察者网-产业科技",
+        "量子位",
         "中国科学报",
         "新华网-科技"
       ],
@@ -738,55 +780,32 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "数字经济动态",
-      "count": 23,
-      "sourceCount": 7,
+      "count": 16,
+      "sourceCount": 6,
       "sources": [
         "新浪科技",
         "网易科技",
         "观察者网-产业科技",
-        "中国科学院",
         "中国科学报",
         "人民网-科技",
         "光明网-科技"
       ],
       "items": [
         "4月新能源渗透率首次突破60% 燃油车零售销量同比暴跌37%",
-        "把“婴儿”做成解压玩具，践踏儿童保护伦理 | 新京报社论",
         "20万吨磷酸铁锂投产，客户提前锁单，又一巨头进军储能",
-        "iPhone 17系列降价热销，电商平台相关搜索涨7倍 15:38",
-        "抖音电商否认“上半年GMV未达预期”传闻"
-      ]
-    },
-    {
-      "topic": "国产 GPU / 算力基础设施",
-      "count": 19,
-      "sourceCount": 7,
-      "sources": [
-        "新浪科技",
-        "IT之家",
-        "网易科技",
-        "观察者网-产业科技",
-        "量子位",
-        "TechNode",
-        "中国科学报"
-      ],
-      "items": [
-        "百度财报：一季度AI云收入88亿元，增长79%",
-        "摩尔线程发布MTT AICUBE：以自研智能SoC为底座，打造家庭AI中枢",
-        "撕掉追随者标签！国产GPU原创架构逆袭：市场份额突破60%、NVIDIA跌至8%",
-        "中国首款全栈自研、前装量产的 Robotaxi：小鹏 GX 首台 Robotaxi 量产车下线，3000TOPS 算力全球最高",
-        "特朗普谈入股英特尔：后悔当初只拿10%股份，“ 21:27"
+        "抖音电商否认“上半年GMV未达预期”传闻",
+        "小红书变局：卖老股、边裁员边扩招，为上市“加速”",
+        "薇娅倒下之后，“网红之都”的崩坏和重建"
       ]
     },
     {
       "topic": "商业航天与卫星互联网",
-      "count": 15,
-      "sourceCount": 7,
+      "count": 14,
+      "sourceCount": 6,
       "sources": [
         "新浪科技",
         "观察者网-产业科技",
         "科技日报",
-        "中国科学院",
         "人民网-科技",
         "新华网-科技",
         "光明网-科技"
@@ -800,28 +819,8 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "半导体供应链",
-      "count": 24,
-      "sourceCount": 6,
-      "sources": [
-        "新浪科技",
-        "IT之家",
-        "网易科技",
-        "观察者网-产业科技",
-        "量子位",
-        "TechNode"
-      ],
-      "items": [
-        "三星电子管理层与工会重启谈判，力求避免罢工",
-        "特朗普:本应要求获得更多英特尔公司的股份",
-        "三星电子与工会展开最后谈判，力求避免罢工冲击全球供应链",
-        "台积电全力冲刺超先进制程，启动1纳米产能布局",
-        "DDR5内存被迫牺牲 内存巨头全力生产HBM：今年出货超300亿Gb"
-      ]
-    },
-    {
       "topic": "新能源车动态",
-      "count": 18,
+      "count": 17,
       "sourceCount": 5,
       "sources": [
         "新浪科技",
@@ -835,7 +834,7 @@ window.CHENCHEN_DAILY_DATA = {
         "车企年报|多数上市车企主动缩短付款周期 赛力斯、奇瑞汽车、广汽集团仍逆势攀升",
         "长城汽车六年磨一剑！旗舰SUV魏牌V9X上市：34.98万起",
         "消息称小米汽车为“寻天”引入新的电池供应商",
-        "美众议员提议征收每年130美元的电动汽车费，用于道路维修"
+        "反应快20%！特斯拉推送FSD大更新"
       ]
     },
     {
@@ -858,12 +857,13 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "数字基础设施与平台经济",
-      "count": 5,
-      "sourceCount": 3,
+      "count": 6,
+      "sourceCount": 4,
       "sources": [
         "新浪科技",
         "IT之家",
-        "新华网-科技"
+        "新华网-科技",
+        "光明网-科技"
       ],
       "items": [
         "车企年报|赛力斯销售费用率近15%远超同行 交付延期叠加换代过快引发信任危机",
@@ -947,30 +947,30 @@ window.CHENCHEN_DAILY_DATA = {
   "leads": [
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "摩尔线程发布“云边端”全栈智算产品矩阵 00:00",
-      "summary": "摩尔线程发布“云边端”全栈智算产品矩阵,智算,编程,云边端,大模型,摩尔线程",
+      "title": "“618”憋大招？不卷超级AI入口，京东更想当AI 00:09",
+      "summary": "“618”憋大招？不卷超级AI入口，京东更想当AI硬件“带货一哥”,淘宝,电商,618,app,阿里巴巴,京东集团,知名企业",
       "source": "网易科技",
       "sources": [
         "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KT8HE9130534A4SC.html",
+      "url": "https://www.163.com/dy/article/KT8HUVUR0512B07B.html",
       "sourceUrls": [
-        "https://www.163.com/dy/article/KT8HE9130534A4SC.html"
+        "https://www.163.com/dy/article/KT8HUVUR0512B07B.html"
       ],
       "publishedAt": "2026-05-19",
       "date": "2026-05-19",
       "category": "AI",
       "keywords": "AI applications, large language models, AI governance, productivity",
       "priority": 5,
-      "score": 77,
+      "score": 92,
       "format": "package",
       "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "摩尔线程发布“云边端”全栈智算产品矩阵,智算,编程,云边端,大模型,摩尔线程",
+      "matchedTopic": "AI动态",
+      "rawText": "“618”憋大招？不卷超级AI入口，京东更想当AI硬件“带货一哥”,淘宝,电商,618,app,阿里巴巴,京东集团,知名企业",
       "relatedTitles": [
-        "摩尔线程发布“云边端”全栈智算产品矩阵 00:00"
+        "“618”憋大招？不卷超级AI入口，京东更想当AI 00:09"
       ]
     }
   ],
@@ -1004,9 +1004,44 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     }
   ],
-  "globalLeads": [],
-  "brief": "ChenChen 今日中国科技热点｜2026-05-19\n生成时间：2026/5/19 00:05:36\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 1918｜确认今日 1｜国际背景 0\n\n最值得关注：\n1. [2026-05-19] 摩尔线程发布“云边端”全栈智算产品矩阵 00:00\n   网易科技｜2026-05-19｜https://www.163.com/dy/article/KT8HE9130534A4SC.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n今日热点方向：\n- AI 应用：AI动态（90 条，11 个来源）\n- 芯片/半导体：半导体供应链（24 条，6 个来源）\n- 机器人/具身智能：人形机器人与具身智能（21 条，8 个来源）\n- 新能源车/智能驾驶：新能源车动态（18 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，3 个来源）\n- 科学前沿：科学前沿动态（33 条，10 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n暂无国际科技背景。",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-19\n生成时间：2026/5/19 00:05:36\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 1918｜确认今日 1｜国际背景 0\n\n最值得关注：\n1. [2026-05-19] 摩尔线程发布“云边端”全栈智算产品矩阵 00:00\n   网易科技｜2026-05-19｜https://www.163.com/dy/article/KT8HE9130534A4SC.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n今日热点方向：\n- AI 应用：AI动态（90 条，11 个来源）\n- 芯片/半导体：半导体供应链（24 条，6 个来源）\n- 机器人/具身智能：人形机器人与具身智能（21 条，8 个来源）\n- 新能源车/智能驾驶：新能源车动态（18 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，3 个来源）\n- 科学前沿：科学前沿动态（33 条，10 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n暂无国际科技背景。",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点</h3>\n      <p>日期：2026-05-19｜生成时间：2026/5/19 00:05:36｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 1918｜确认今日 1｜国际背景 0</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-19] 摩尔线程发布“云边端”全栈智算产品矩阵 00:00</strong>\n      <span>网易科技｜2026-05-19｜<a href=\"https://www.163.com/dy/article/KT8HE9130534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      <p>暂无国际科技背景。</p>\n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing】\n\n生成时间：2026/5/19 00:05:36\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n最值得关注：\n1. [2026-05-19] 摩尔线程发布“云边端”全栈智算产品矩阵 00:00\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KT8HE9130534A4SC.html\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n今日热点方向：\n- AI 应用：AI动态（90 条，11 个来源）\n- 芯片/半导体：半导体供应链（24 条，6 个来源）\n- 机器人/具身智能：人形机器人与具身智能（21 条，8 个来源）\n- 新能源车/智能驾驶：新能源车动态（18 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，3 个来源）\n- 科学前沿：科学前沿动态（33 条，10 个来源）\n\n国际科技背景：\n暂无国际科技背景。\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "globalLeads": [
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "The Apple iPad Mini just hit its lowest price in over a month at Amazon — $60 off for Memorial Day",
+      "summary": "Fans say it's the ideal size for reading and streaming, and an upgraded chip makes it a teeny little powerhouse.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/deals/article/the-apple-ipad-mini-just-hit-its-lowest-price-in-over-a-month-at-amazon--60-off-for-memorial-day-161247843.html",
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "region": "US",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.",
+      "priority": 4,
+      "score": 45,
+      "status": "confirmed_today"
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Five years later, Windows 11 brings back much-missed taskbar options (and more)",
+      "summary": "Microsoft is also testing a smaller taskbar and more customizable Start menu.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/",
+      "publishedAt": "Mon, 18 May 2026 16:03:02 +0000",
+      "date": "2026-05-19",
+      "region": "US",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
+      "priority": 4,
+      "score": 46,
+      "status": "confirmed_today"
+    }
+  ],
+  "brief": "ChenChen 今日中国科技热点｜2026-05-19\n生成时间：2026/5/19 00:15:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 1912｜确认今日 1｜国际背景 2\n\n最值得关注：\n1. [2026-05-19] “618”憋大招？不卷超级AI入口，京东更想当AI 00:09\n   网易科技｜2026-05-19｜https://www.163.com/dy/article/KT8HUVUR0512B07B.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n今日热点方向：\n- AI 应用：AI动态（96 条，12 个来源）\n- 芯片/半导体：半导体供应链（27 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（19 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（17 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，3 个来源）\n- 科学前沿：科学前沿动态（21 条，9 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The Apple iPad Mini just hit its lowest price in over a month at Amazon — $60 off for Memorial Day｜Yahoo News Technology｜https://tech.yahoo.com/computing/deals/article/the-apple-ipad-mini-just-hit-its-lowest-price-in-over-a-month-at-amazon--60-off-for-memorial-day-161247843.html\n2. Five years later, Windows 11 brings back much-missed taskbar options (and more)｜Ars Technica｜https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-19\n生成时间：2026/5/19 00:15:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 1912｜确认今日 1｜国际背景 2\n\n最值得关注：\n1. [2026-05-19] “618”憋大招？不卷超级AI入口，京东更想当AI 00:09\n   网易科技｜2026-05-19｜https://www.163.com/dy/article/KT8HUVUR0512B07B.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n今日热点方向：\n- AI 应用：AI动态（96 条，12 个来源）\n- 芯片/半导体：半导体供应链（27 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（19 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（17 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，3 个来源）\n- 科学前沿：科学前沿动态（21 条，9 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The Apple iPad Mini just hit its lowest price in over a month at Amazon — $60 off for Memorial Day｜Yahoo News Technology｜https://tech.yahoo.com/computing/deals/article/the-apple-ipad-mini-just-hit-its-lowest-price-in-over-a-month-at-amazon--60-off-for-memorial-day-161247843.html\n2. Five years later, Windows 11 brings back much-missed taskbar options (and more)｜Ars Technica｜https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点</h3>\n      <p>日期：2026-05-19｜生成时间：2026/5/19 00:15:00｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 1912｜确认今日 1｜国际背景 2</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-19] “618”憋大招？不卷超级AI入口，京东更想当AI 00:09</strong>\n      <span>网易科技｜2026-05-19｜<a href=\"https://www.163.com/dy/article/KT8HUVUR0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The Apple iPad Mini just hit its lowest price in over a month at Amazon — $60 off for Memorial Day</strong>\n      <span>时间：2026-05-19｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/deals/article/the-apple-ipad-mini-just-hit-its-lowest-price-in-over-a-month-at-amazon--60-off-for-memorial-day-161247843.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Five years later, Windows 11 brings back much-missed taskbar options (and more)</strong>\n      <span>时间：Mon, 18 May 2026 16:03:02 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing】\n\n生成时间：2026/5/19 00:15:00\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n最值得关注：\n1. [2026-05-19] “618”憋大招？不卷超级AI入口，京东更想当AI 00:09\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KT8HUVUR0512B07B.html\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n今日热点方向：\n- AI 应用：AI动态（96 条，12 个来源）\n- 芯片/半导体：半导体供应链（27 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（19 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（17 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，3 个来源）\n- 科学前沿：科学前沿动态（21 条，9 个来源）\n\n国际科技背景：\n1. The Apple iPad Mini just hit its lowest price in over a month at Amazon — $60 off for Memorial Day｜Yahoo News Technology｜https://tech.yahoo.com/computing/deals/article/the-apple-ipad-mini-just-hit-its-lowest-price-in-over-a-month-at-amazon--60-off-for-memorial-day-161247843.html\n2. Five years later, Windows 11 brings back much-missed taskbar options (and more)｜Ars Technica｜https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
