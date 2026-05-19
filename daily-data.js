@@ -1,9 +1,9 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-05-19T01:33:05.593Z",
+  "generatedAt": "2026-05-19T01:51:06.339Z",
   "targetDate": "2026-05-19",
   "todayOnly": true,
   "sourcesChecked": 28,
-  "successSources": 25,
+  "successSources": 26,
   "failedSources": [
     {
       "name": "财联社",
@@ -14,11 +14,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
     }
   ],
   "failures": [
@@ -31,11 +26,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
     }
   ],
   "sourceStats": [
@@ -206,8 +196,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -242,10 +231,10 @@ window.CHENCHEN_DAILY_DATA = {
   "itemsSeen": 1161,
   "itemsAfterEnrich": 900,
   "itemsAfterRelevantFilter": 552,
-  "itemsAfterDedupe": 383,
-  "todayItemsSeen": 73,
+  "itemsAfterDedupe": 391,
+  "todayItemsSeen": 82,
   "suspectedItemsSeen": 1,
-  "skippedNonToday": 308,
+  "skippedNonToday": 309,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -414,8 +403,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -565,11 +553,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
     }
   ],
   "globalFailedSources": [
@@ -582,11 +565,11 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSourcesChecked": 15,
   "globalSuccessSources": 14,
   "globalItemsSeen": 832,
-  "globalItemsAfterRelevantFilter": 255,
+  "globalItemsAfterRelevantFilter": 254,
   "topics": [
     {
       "topic": "AI动态",
-      "count": 89,
+      "count": 88,
       "sourceCount": 11,
       "sources": [
         "新浪科技",
@@ -603,15 +586,15 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "必胜客强推AI配送致翻车 被头部加盟商起诉索赔超1亿美元",
-        "网红解压玩具娜塔莎翻车！多地学校通知：禁止带入校园",
         "百度地图宣布接入国家级数据：恶劣天气提前预警 化身AI智能副驾",
         "操盘必读：影响股市利好或利空消息_2026年5月19日_财经新闻",
-        "四大证券报头版头条内容精华摘要_2026年5月19日_财经新闻"
+        "四大证券报头版头条内容精华摘要_2026年5月19日_财经新闻",
+        "张朝阳：企业家不能“用劲”塑造个人IP，真人社交在AI时代更有意义"
       ]
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 76,
+      "count": 78,
       "sourceCount": 11,
       "sources": [
         "新浪科技",
@@ -660,53 +643,76 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "科学前沿与科研设施",
-      "count": 34,
+      "count": 33,
       "sourceCount": 9,
       "sources": [
         "新浪科技",
-        "中国科学报",
         "IT之家",
         "观察者网-产业科技",
         "量子位",
         "科技日报",
         "中国科学院",
+        "中国科学报",
         "人民网-科技",
         "新华网-科技"
       ],
       "items": [
         "全链守正科研破壁 让世界共享中医药智慧",
         "西部数据介绍业界首款 PQC（后量子加密）机械硬盘 HC6100",
-        "不是所有博士生都能拿到学位，这很正常",
         "科学家突破 6G 太赫兹通信瓶颈，首次在 560GHz 频段实现 112Gbps 无线传输",
-        "“985”博导不如初中辍学的张雪？"
+        "“985”博导不如初中辍学的张雪？",
+        "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议"
       ]
     },
     {
       "topic": "半导体供应链",
-      "count": 26,
+      "count": 25,
       "sourceCount": 9,
       "sources": [
         "新浪科技",
         "IT之家",
         "网易科技",
-        "科技日报",
         "观察者网-产业科技",
         "量子位",
         "TechNode",
+        "科技日报",
         "中国科学报",
         "新华网-科技"
       ],
       "items": [
         "消息称英特尔Nova Lake处理器ES样品已出货，预计单核性能提升20%多核翻倍",
         "股海导航_2026年5月19日_沪深股市公告与交易提示",
+        "三星电子管理层与工会重启谈判，力求避免罢工",
         "特朗普:本应要求获得更多英特尔公司的股份",
-        "三星电子与工会展开最后谈判，力求避免罢工冲击全球供应链",
-        "长鑫“扛”起了存储"
+        "三星电子与工会展开最后谈判，力求避免罢工冲击全球供应链"
+      ]
+    },
+    {
+      "topic": "商业航天与卫星互联网",
+      "count": 17,
+      "sourceCount": 9,
+      "sources": [
+        "新浪科技",
+        "网易科技",
+        "IT之家",
+        "观察者网-产业科技",
+        "科技日报",
+        "中国科学院",
+        "人民网-科技",
+        "新华网-科技",
+        "光明网-科技"
+      ],
+      "items": [
+        "清华博士造火箭已融资10亿 国产不锈钢火箭冲刺2027年首飞",
+        "航天巨头大动作！SpaceX星舰V3周二试飞｜航天早 09:21",
+        "全国首个遥感卫星数据出境安全评估在海南完成，实现“零的突破”",
+        "马斯克：SpaceX今年或在火箭的完全快速可复用性 07:52",
+        "国际首创，成功下线！我国团队破解火箭制造世界性难题"
       ]
     },
     {
       "topic": "国产 GPU / 算力基础设施",
-      "count": 21,
+      "count": 25,
       "sourceCount": 8,
       "sources": [
         "新浪科技",
@@ -720,37 +726,15 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "百度财报：一季度AI云收入88亿元，增长79%",
-        "撕掉追随者标签！国产GPU原创架构逆袭：市场份额突破60%、NVIDIA跌至8%",
-        "曾称芯片不是浓缩铀！黄仁勋怒斥将英伟达GPU比作原子弹：坚决反对AI芯片出口管制",
-        "矩阵超智发布 MATRIX-3 旗舰人形机器人：英伟达 AGX 算力、自研直线关节，售价 58 万元起",
-        "AI 热潮冲击供应链：苹果 DRAM 议价权削弱，重心转向保供而非最优价"
-      ]
-    },
-    {
-      "topic": "商业航天与卫星互联网",
-      "count": 16,
-      "sourceCount": 8,
-      "sources": [
-        "网易科技",
-        "IT之家",
-        "观察者网-产业科技",
-        "科技日报",
-        "中国科学院",
-        "人民网-科技",
-        "新华网-科技",
-        "光明网-科技"
-      ],
-      "items": [
-        "航天巨头大动作！SpaceX星舰V3周二试飞｜航天早 09:21",
-        "全国首个遥感卫星数据出境安全评估在海南完成，实现“零的突破”",
-        "马斯克：SpaceX今年或在火箭的完全快速可复用性 07:52",
-        "国际首创，成功下线！我国团队破解火箭制造世界性难题",
-        "我国首颗文物行业遥感卫星“文物01星”出征"
+        "高达256GB/s带宽+160 TFLOPS算力，安谋科技“周易”X3 NPU IP R2升级",
+        "思科凭借通用商用芯片与光模块赢得 AI 领域客户",
+        "三菱与Tallgrass共建怀俄明州AI能源枢纽",
+        "70%内存全进了AI服务器的肚子！苹果特权失效 如今沦为高价芯片接盘侠"
       ]
     },
     {
       "topic": "数字经济动态",
-      "count": 25,
+      "count": 28,
       "sourceCount": 7,
       "sources": [
         "新浪科技",
@@ -762,11 +746,11 @@ window.CHENCHEN_DAILY_DATA = {
         "光明网-科技"
       ],
       "items": [
+        "TCL智家总经理王浩2025年薪酬262万 远低于TCL华星CEO赵军的‌1140万",
         "从“初心守护”到“全链创新”",
-        "韩国商家抢夏日商机 掀起清凉营销热潮",
-        "抖音电商否认“上半年GMV未达预期”传闻",
-        "小红书变局：卖老股、边裁员边扩招，为上市“加速”",
-        "薇娅倒下之后，“网红之都”的崩坏和重建"
+        "远程新能源商用车正式进入瑞士市场 09:49",
+        "太极集团：DSC158A片获临床试验批准 09:42",
+        "“逐日工程”获进展，中国攻克空间太阳能电站关 09:32"
       ]
     },
     {
@@ -792,26 +776,25 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "新能源车动态",
-      "count": 21,
-      "sourceCount": 5,
+      "count": 22,
+      "sourceCount": 4,
       "sources": [
         "新浪科技",
         "IT之家",
         "网易科技",
-        "观察者网-产业科技",
-        "新华网-科技"
+        "观察者网-产业科技"
       ],
       "items": [
         "高管集体降薪！ 江淮汽车被大众“拖垮”：季度又亏6亿，全靠华为200万“救命车”？",
         "车企年报|多数上市车企主动缩短付款周期 赛力斯、奇瑞汽车、广汽集团仍逆势攀升",
+        "尚界汽车法务部就编造及传播 Z7 不实信息网络账号向公安机关报案，相关运营者被依法行政处罚",
         "一季度汽车零部件上市公司利润承压",
-        "全新理想L9上市一线销售快报：90%的用户买了顶配Livis版",
-        "德国汽车业困境中寻新路：奔驰、大众等车企考虑进军防务领域"
+        "全新理想L9上市一线销售快报：90%的用户买了顶配Livis版"
       ]
     },
     {
       "topic": "新能源车与智能驾驶",
-      "count": 13,
+      "count": 14,
       "sourceCount": 4,
       "sources": [
         "新浪科技",
@@ -820,16 +803,16 @@ window.CHENCHEN_DAILY_DATA = {
         "TechNode"
       ],
       "items": [
+        "特斯拉首席执行官马斯克：无人驾驶无人监管车辆今年将在美国大范围普及",
         "马斯克：预计今年美国将广泛使用自动驾驶汽车",
+        "上汽奥迪不再销售四环燃油车！知情人士回应：正在谈判中",
         "蔚来充电站突破5000座 充电桩超28800根",
-        "比亚迪海豹 08 旗舰高定车色「琉光银」亮相，采用百万豪车同款巴斯夫清漆",
-        "快讯：恒指高开0.07% 科指跌0.14% 科网股分化 黄金股回暖",
-        "财经早报：特朗普称将推迟对伊朗发动军事打击，王力宏承认用千万代言费购买比亚迪股票丨2026年5月19日"
+        "比亚迪海豹 08 旗舰高定车色「琉光银」亮相，采用百万豪车同款巴斯夫清漆"
       ]
     },
     {
       "topic": "数字基础设施与平台经济",
-      "count": 6,
+      "count": 5,
       "sourceCount": 3,
       "sources": [
         "新浪科技",
@@ -839,14 +822,14 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "车企年报|赛力斯销售费用率近15%远超同行 交付延期叠加换代过快引发信任危机",
         "华为小艺简报功能在老机型回归，Mate 70 / 60 等系列逐步放开可用",
-        "尚界汽车法务部就编造及传播 Z7 不实信息网络账号向公安机关报案，相关运营者被依法行政处罚",
         "华为 Mate 80、Pura 80 等系列机型确认适配 3D 影像壁纸，预计 6 月支持",
-        "建好“六张网”，培育高质量发展新动能"
+        "建好“六张网”，培育高质量发展新动能",
+        "数字样板工程"
       ]
     },
     {
       "topic": "科技监管与数据安全",
-      "count": 5,
+      "count": 4,
       "sourceCount": 3,
       "sources": [
         "新浪科技",
@@ -854,7 +837,6 @@ window.CHENCHEN_DAILY_DATA = {
         "科技日报"
       ],
       "items": [
-        "特斯拉首席执行官马斯克：无人驾驶无人监管车辆今年将在美国大范围普及",
         "Anthropic将就Mythos发现的网络安全漏洞向全球金融监管机构作通报",
         "监管“剑指”网下询价乱象 私募打新合规性迎规范",
         "荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云",
@@ -879,13 +861,14 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "低空经济与无人机",
-      "count": 3,
+      "count": 4,
       "sourceCount": 2,
       "sources": [
         "科技日报",
         "人民网-科技"
       ],
       "items": [
+        "无人机违规拍摄涉密敏感区造成泄密 国家安全机关提示",
         "蜜蜂导航策略让远距离无人机成功返回",
         "首届河南省无人机足球联赛正式启幕",
         "无人机成农业普查信息采集好帮手"
@@ -904,6 +887,34 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "全球关注的AI“世纪诉讼”，马斯克败诉，因“超 09:42",
+      "summary": "全球关注的AI“世纪诉讼”，马斯克败诉，因“超过诉讼时效”！陪审团：你早干嘛去了？OpenAI创始人：他懂火箭，也懂电动车，但不懂AI,微软,指控,陪审团,世纪诉讼,诉讼时效,商业机密,知名企业,埃隆_马斯克,openai",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KT9IOCED0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KT9IOCED0512B07B.html"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 112,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "全球关注的AI“世纪诉讼”，马斯克败诉，因“超过诉讼时效”！陪审团：你早干嘛去了？OpenAI创始人：他懂火箭，也懂电动车，但不懂AI,微软,指控,陪审团,世纪诉讼,诉讼时效,商业机密,知名企业,埃隆_马斯克,openai",
+      "relatedTitles": [
+        "全球关注的AI“世纪诉讼”，马斯克败诉，因“超 09:42"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "上海：力争到“十五五”末推动10万台人形机器人 07:16",
@@ -1130,34 +1141,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "总编辑圈点丨可进行计算的混合光物质粒子造出",
-      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 总编辑圈点丨将光与极薄半导体中电子“绑定”，可进行计算的混合光物质粒子造出 2026-05-19 01:45:00 来源: 科技日报 点击数： 热点",
-      "source": "科技日报",
-      "sources": [
-        "科技日报"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.stdaily.com/web/gdxw/2026-05/18/content_518308.html",
-      "sourceUrls": [
-        "https://www.stdaily.com/web/gdxw/2026-05/18/content_518308.html"
-      ],
-      "publishedAt": "2026-05-19",
-      "date": "2026-05-19",
-      "category": "芯片",
-      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
-      "priority": 5,
-      "score": 100,
-      "format": "graphic",
-      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 总编辑圈点丨将光与极薄半导体中电子“绑定”，可进行计算的混合光物质粒子造出 2026-05-19 01:45:00 来源: 科技日报 点击数： 热点",
-      "relatedTitles": [
-        "总编辑圈点丨可进行计算的混合光物质粒子造出"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "凝“新”聚力促就业丨AI为他们带来新身份",
       "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 凝“新”聚力促就业丨AI为他们带来新身份——京东协同推进技术应用与就业转型探索实践 2026-05-19 07:38:54 来源: 科技日报 点击数： 热点",
       "source": "科技日报",
@@ -1186,16 +1169,16 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "NASA测试抗辐射太空AI芯片",
-      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 NASA测试抗辐射太空AI芯片 2026-05-19 01:35:00 来源: 科技日报 点击数： 热点",
+      "title": "总编辑圈点丨可进行计算的混合光物质粒子造出",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 总编辑圈点丨将光与极薄半导体中电子“绑定”，可进行计算的混合光物质粒子造出 2026-05-19 01:45:00 来源: 科技日报 点击数： 热点",
       "source": "科技日报",
       "sources": [
         "科技日报"
       ],
       "sourceTier": "official",
-      "url": "https://www.stdaily.com/web/gdxw/2026-05/18/content_518303.html",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/18/content_518308.html",
       "sourceUrls": [
-        "https://www.stdaily.com/web/gdxw/2026-05/18/content_518303.html"
+        "https://www.stdaily.com/web/gdxw/2026-05/18/content_518308.html"
       ],
       "publishedAt": "2026-05-19",
       "date": "2026-05-19",
@@ -1207,9 +1190,37 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
       "status": "confirmed_today",
       "matchedTopic": "半导体供应链",
-      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 NASA测试抗辐射太空AI芯片 2026-05-19 01:35:00 来源: 科技日报 点击数： 热点",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 总编辑圈点丨将光与极薄半导体中电子“绑定”，可进行计算的混合光物质粒子造出 2026-05-19 01:45:00 来源: 科技日报 点击数： 热点",
       "relatedTitles": [
-        "NASA测试抗辐射太空AI芯片"
+        "总编辑圈点丨可进行计算的混合光物质粒子造出"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "无人机违规拍摄涉密敏感区造成泄密 国家安全机关提示",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 无人机违规拍摄涉密敏感区造成泄密 国家安全机关提示 2026-05-19 09:31:55 来源: 国家安全部微信公众号 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/19/content_518584.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-05/19/content_518584.html"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "priority": 5,
+      "score": 95,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "低空经济与无人机",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 无人机违规拍摄涉密敏感区造成泄密 国家安全机关提示 2026-05-19 09:31:55 来源: 国家安全部微信公众号 点击数： 热点",
+      "relatedTitles": [
+        "无人机违规拍摄涉密敏感区造成泄密 国家安全机关提示"
       ]
     },
     {
@@ -1242,16 +1253,16 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "网红解压玩具娜塔莎翻车！多地学校通知：禁止带入校园",
-      "summary": "ance.sina.com.cn/tech/roll/2026-05-19/doc-inhyknrs3467521.shtml\" target=\"_blank\"> 必胜客强推AI配送致翻车 被头部加盟商起诉索赔超1亿美元 网红解压玩具娜塔莎翻车！多地学校通知：禁止带入校园 洁丽雅被曝深陷“豪门内斗”！</span",
+      "title": "Anthropic 收购 Stainless，谷歌和 OpenAI 失去关键 AI SDK 工具",
+      "summary": "IT之家 5 月 19 日消息，Anthropic 宣布收购软件基础设施初创公司 Stainless，虽然双方并未公布交易细节，不过行业消息称成交额超过 2.8 亿欧元（IT之家注：现汇率约合 22.18 亿元人民币）。IT之家查询公开资料...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhykaac7849822.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-19/doc-inhyksxt2337150.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhykaac7849822.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-05-19/doc-inhyksxt2337150.shtml"
       ],
       "publishedAt": "2026-05-19",
       "date": "2026-05-19",
@@ -1262,36 +1273,8 @@ window.CHENCHEN_DAILY_DATA = {
       "format": "package",
       "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
       "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "ance.sina.com.cn/tech/roll/2026-05-19/doc-inhyknrs3467521.shtml\" target=\"_blank\"> 必胜客强推AI配送致翻车 被头部加盟商起诉索赔超1亿美元 网红解压玩具娜塔莎翻车！多地学校通知：禁止带入校园 洁丽雅被曝深陷“豪门内斗”！</span",
-      "relatedTitles": [
-        "网红解压玩具娜塔莎翻车！多地学校通知：禁止带入校园"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "Anthropic 收购 Stainless，谷歌和 OpenAI 失去关键 AI SDK 工具",
-      "summary": "Anthropic 收购 Stainless，谷歌和 OpenAI 失去关键 AI SDK 工具 百度地图宣布接入国家级数据：恶劣天气提前预警 化身AI智能副驾 <span class=\"fe6",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-19/doc-inhyksxt2337150.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-05-19/doc-inhyksxt2337150.shtml"
-      ],
-      "publishedAt": "Mon, 18 May 2026 23:53:39 GMT",
-      "date": "2026-05-19",
-      "category": "AI",
-      "keywords": "AI applications, large language models, AI governance, productivity",
-      "priority": 5,
-      "score": 92,
-      "format": "package",
-      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
-      "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "Anthropic 收购 Stainless，谷歌和 OpenAI 失去关键 AI SDK 工具 百度地图宣布接入国家级数据：恶劣天气提前预警 化身AI智能副驾 <span class=\"fe6",
+      "rawText": "IT之家 5 月 19 日消息，Anthropic 宣布收购软件基础设施初创公司 Stainless，虽然双方并未公布交易细节，不过行业消息称成交额超过 2.8 亿欧元（IT之家注：现汇率约合 22.18 亿元人民币）。IT之家查询公开资料...",
       "relatedTitles": [
         "Anthropic 收购 Stainless，谷歌和 OpenAI 失去关键 AI SDK 工具"
       ]
@@ -1354,34 +1337,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "操盘必读：影响股市利好或利空消息_2026年5月19日_财经新闻",
-      "summary": "b\" width=\"150\" height=\"100\" onerror=\"if(this.src!='//n.sinaimg.cn/ent/c30320b4/20170511/img-replaced-w.png'){this.src='//n.sinaimg.cn/ent/c30320b4/20170511/img-",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/cpbd/2026-05-19/doc-inhyksxs0157415.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/cpbd/2026-05-19/doc-inhyksxs0157415.shtml"
-      ],
-      "publishedAt": "2026-05-19",
-      "date": "2026-05-19",
-      "category": "AI",
-      "keywords": "AI applications, large language models, AI governance, productivity",
-      "priority": 5,
-      "score": 92,
-      "format": "package",
-      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "b\" width=\"150\" height=\"100\" onerror=\"if(this.src!='//n.sinaimg.cn/ent/c30320b4/20170511/img-replaced-w.png'){this.src='//n.sinaimg.cn/ent/c30320b4/20170511/img-replaced-w.png';this.className+=' ty-card-thumb-noani';}\"> 操盘必读：影响股市利好或利空消息_2026年5月19日_财经新闻 今天 08:25 <a href=\"http://comment5.news.sina.com.",
-      "relatedTitles": [
-        "操盘必读：影响股市利好或利空消息_2026年5月19日_财经新闻"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "股海导航_2026年5月19日_沪深股市公告与交易提示",
       "summary": "多家公司发布重要公告。热点方面，合肥城建不涉半导体等领域，大普微5月19日起停牌核查，威龙股份提示股价风险等；增减持方面，孩子王控股股东拟1.33亿 - 2.05亿元增持，景津装备等多家公司股东拟减持；回购方面，力源信息上调回购价上限，长高电新、维海德拟回购；股权变动方面，统一股份控制权或变更，ST易购拟售股权；再融资",
       "source": "新浪科技",
@@ -1438,6 +1393,146 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "高达256GB/s带宽+160 TFLOPS算力，安谋科技“周易”X3 NPU IP R2升级",
+      "summary": "近日，在安谋科技Tech Talk AI技术开放麦第二期活动中，NPU高级产品经理Benjamin Ye围绕“周易”X3 NPU IP R2版本升级进行了主题分享，详细介绍了R2版本在算力与算力密度方面的显著提升，并结合“周易”X3智能座舱...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxt2412785.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxt2412785.shtml"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 92,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "近日，在安谋科技Tech Talk AI技术开放麦第二期活动中，NPU高级产品经理Benjamin Ye围绕“周易”X3 NPU IP R2版本升级进行了主题分享，详细介绍了R2版本在算力与算力密度方面的显著提升，并结合“周易”X3智能座舱...",
+      "relatedTitles": [
+        "高达256GB/s带宽+160 TFLOPS算力，安谋科技“周易”X3 NPU IP R2升级"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "思科凭借通用商用芯片与光模块赢得 AI 领域客户",
+      "summary": "业内皆知，各大超大规模云厂商、云计算搭建企业与 AI 模型研发企业正全力搭建数据中心基础设施，以此落地自身人工智能发展规划。但占 AI 整体支出规模近半数的传统企业、电信服务商、政府机构、科研院校、新兴云服务商及主权机构，其布局动向却难以摸...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxt2413118.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxt2413118.shtml"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "芯片",
+      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
+      "priority": 5,
+      "score": 92,
+      "format": "graphic",
+      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "业内皆知，各大超大规模云厂商、云计算搭建企业与 AI 模型研发企业正全力搭建数据中心基础设施，以此落地自身人工智能发展规划。但占 AI 整体支出规模近半数的传统企业、电信服务商、政府机构、科研院校、新兴云服务商及主权机构，其布局动向却难以摸...",
+      "relatedTitles": [
+        "思科凭借通用商用芯片与光模块赢得 AI 领域客户"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "三菱与Tallgrass共建怀俄明州AI能源枢纽",
+      "summary": "美国能源基础设施企业Tallgrass与三菱电力美洲公司（Mitsubishi Power Americas）宣布，将在怀俄明州开发大型能源项目，满足人工智能（AI）与超大规模数据中心激增的用电需求。双方已敲定首批两台三菱 M501JAC ...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0203534.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0203534.shtml"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 92,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "美国能源基础设施企业Tallgrass与三菱电力美洲公司（Mitsubishi Power Americas）宣布，将在怀俄明州开发大型能源项目，满足人工智能（AI）与超大规模数据中心激增的用电需求。双方已敲定首批两台三菱 M501JAC ...",
+      "relatedTitles": [
+        "三菱与Tallgrass共建怀俄明州AI能源枢纽"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "上汽奥迪不再销售四环燃油车！知情人士回应：正在谈判中",
+      "summary": "快科技5月19日消息，据报道，近日奥迪正在规划全新战略，核心是一汽奥迪包揽四环品牌燃油车与新能源车销售，上汽奥迪则将停售四环燃油车，全面聚焦专属新能源品牌AUDI的发展。一名知情人士表示，南北奥迪战略规划调整目前仍在谈判中，尚未形成定论。上...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0202848.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0202848.shtml"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 92,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "快科技5月19日消息，据报道，近日奥迪正在规划全新战略，核心是一汽奥迪包揽四环品牌燃油车与新能源车销售，上汽奥迪则将停售四环燃油车，全面聚焦专属新能源品牌AUDI的发展。一名知情人士表示，南北奥迪战略规划调整目前仍在谈判中，尚未形成定论。上...",
+      "relatedTitles": [
+        "上汽奥迪不再销售四环燃油车！知情人士回应：正在谈判中"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "70%内存全进了AI服务器的肚子！苹果特权失效 如今沦为高价芯片接盘侠",
+      "summary": "快科技5月18日消息，由于AI服务器跨界抢夺消费级内存，动摇了苹果公司在内存芯片领域的主导地位，使其失去单独协商价格折扣的特权，苹果被迫以远高于预期的价格大批量采购芯片。业内人士分析，原本用于智能手机等移动设备的LPDDR芯片正在被三星、S...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxv7656055.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxv7656055.shtml"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "芯片",
+      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
+      "priority": 5,
+      "score": 92,
+      "format": "graphic",
+      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "快科技5月18日消息，由于AI服务器跨界抢夺消费级内存，动摇了苹果公司在内存芯片领域的主导地位，使其失去单独协商价格折扣的特权，苹果被迫以远高于预期的价格大批量采购芯片。业内人士分析，原本用于智能手机等移动设备的LPDDR芯片正在被三星、S...",
+      "relatedTitles": [
+        "70%内存全进了AI服务器的肚子！苹果特权失效 如今沦为高价芯片接盘侠"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "存储器转型AI战略资源 台厂受惠",
       "summary": "AI服务器带动高容量DDR5 RDIMM与高容量QLC/TLC，成为单片晶圆产值最高的内存产品。 在高阶产能稀缺下，韩系及美系内存原厂产能配置，全面倾斜AI相关高产值产品。另一方面，随Agentic AI推动模型由训练转向推理，AI数据中心...",
       "source": "新浪科技",
@@ -1490,34 +1585,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "当下时点该如何更好投资存储线？今天A股最值得看的，不是指数又在坐“过山车”，而是长鑫科技IPO透露出的炸裂业绩数据，居然在一堆外围利空里，硬生生把存储板块点着了。相关概念股合肥城建、合百集团大单一字，权重大普微20厘米涨停；整个芯片板块有1...",
       "relatedTitles": [
         "长鑫“扛”起了存储"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "WWDC 2026重磅前瞻：新版Siri蜕变独立App，拥抱Gemini模型与苹果私有云",
-      "summary": "【TechWeb】备受期待的苹果AI野心终于要揭开面纱。据最新消息，苹果计划在下月举行的WWDC 2026上，正式发布一款全新且独立运行的Siri应用程序测试版。这个曾被寄予厚望却延期两年的项目，即将迎来核心架构与交互逻辑的全面重构。从依附...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0173930.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0173930.shtml"
-      ],
-      "publishedAt": "2026-05-19",
-      "date": "2026-05-19",
-      "category": "AI",
-      "keywords": "AI applications, large language models, AI governance, productivity",
-      "priority": 5,
-      "score": 92,
-      "format": "package",
-      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "【TechWeb】备受期待的苹果AI野心终于要揭开面纱。据最新消息，苹果计划在下月举行的WWDC 2026上，正式发布一款全新且独立运行的Siri应用程序测试版。这个曾被寄予厚望却延期两年的项目，即将迎来核心架构与交互逻辑的全面重构。从依附...",
-      "relatedTitles": [
-        "WWDC 2026重磅前瞻：新版Siri蜕变独立App，拥抱Gemini模型与苹果私有云"
       ]
     },
     {
@@ -1606,34 +1673,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "OpenAI营利化争议案落槌 马斯克对奥尔特曼指控 04:24",
-      "summary": "加州陪审团一致驳回马斯克对 OpenAI 及奥尔特曼的诉讼，认定其未在三年时效内提出索赔。马斯克曾寻求 1500 亿美元赔偿并要求驱逐奥尔特曼，但法官采纳陪审团裁决，判定其无权就 2021 年 8 月前事件索赔。马斯克计划上诉，OpenAI 则称此诉讼是破坏竞争对手的行为。#OpenAI# #马斯克#",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KT90HTDC05198CJN.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/KT90HTDC05198CJN.html"
-      ],
-      "publishedAt": "2026-05-19",
-      "date": "2026-05-19",
-      "category": "AI",
-      "keywords": "AI applications, large language models, AI governance, productivity",
-      "priority": 5,
-      "score": 92,
-      "format": "package",
-      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "OpenAI营利化争议案落槌 马斯克对奥尔特曼指控被驳回,指控,微软,法官,知名企业,埃隆_马斯克,openai,营利化争议案,西德尼·奥尔特曼",
-      "relatedTitles": [
-        "OpenAI营利化争议案落槌 马斯克对奥尔特曼指控 04:24"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "突发！马斯克败诉，法院判他起诉OpenAI太晚了",
       "summary": "凌晨突发！马斯克败诉，陪审团没判对错，只判他起诉OpenAI太晚了,马斯克,openai,陪审团,spacex,法官,埃隆·马斯克,特斯拉",
       "source": "网易科技",
@@ -1658,6 +1697,90 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "凌晨突发！马斯克败诉，陪审团没判对错，只判他起诉OpenAI太晚了,马斯克,openai,陪审团,spacex,法官,埃隆·马斯克,特斯拉",
       "relatedTitles": [
         "突发！马斯克败诉，法院判他起诉OpenAI太晚了"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "因起诉超时效，马斯克诉OpenAI营利化案败诉 09:49",
+      "summary": "因起诉超时效，马斯克诉OpenAI营利化案败诉,微软,人工智能,营利化案,慈善机构,知名企业,埃隆_马斯克,openai,spacex",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KT9J48750534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KT9J48750534A4SC.html"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 92,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "因起诉超时效，马斯克诉OpenAI营利化案败诉,微软,人工智能,营利化案,慈善机构,知名企业,埃隆_马斯克,openai,spacex",
+      "relatedTitles": [
+        "因起诉超时效，马斯克诉OpenAI营利化案败诉 09:49"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "马斯克输了！ 陪审团驳回OpenAI诉讼 理由竟是告 09:42",
+      "summary": "马斯克输了！ 陪审团驳回OpenAI诉讼 理由竟是告晚了！,马斯克,陪审团,诉讼理由,商业机密,openai",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KT9IO83T0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KT9IO83T0512B07B.html"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 92,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "马斯克输了！ 陪审团驳回OpenAI诉讼 理由竟是告晚了！,马斯克,陪审团,诉讼理由,商业机密,openai",
+      "relatedTitles": [
+        "马斯克输了！ 陪审团驳回OpenAI诉讼 理由竟是告 09:42"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "戴尔核心AI产品线新增1000家客户 09:37",
+      "summary": "戴尔核心AI产品线新增1000家客户,服务器,dell,戴尔核心,知名企业,首席执行官,迈克尔·戴尔",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KT9IFU2C0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KT9IFU2C0534A4SC.html"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 92,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "戴尔核心AI产品线新增1000家客户,服务器,dell,戴尔核心,知名企业,首席执行官,迈克尔·戴尔",
+      "relatedTitles": [
+        "戴尔核心AI产品线新增1000家客户 09:37"
       ]
     },
     {
@@ -1798,34 +1921,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "国盛证券：AI方向期待本周谷歌I/O大会 继续看好Token经济,阿里云,国盛证券,中国移动,中国电信,科技巨头,知名企业,三大运营商,谷歌i/o",
       "relatedTitles": [
         "国盛证券：AI方向期待本周谷歌I/O大会 继续看好 08:28"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "马斯克对OpenAI的诉讼被驳回 08:27",
-      "summary": "马斯克对OpenAI诉讼被驳回",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KT9EFJNH0512B07B.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/KT9EFJNH0512B07B.html"
-      ],
-      "publishedAt": "2026-05-19",
-      "date": "2026-05-19",
-      "category": "AI",
-      "keywords": "AI applications, large language models, AI governance, productivity",
-      "priority": 5,
-      "score": 92,
-      "format": "package",
-      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "马斯克对OpenAI诉讼被驳回",
-      "relatedTitles": [
-        "马斯克对OpenAI的诉讼被驳回 08:27"
       ]
     },
     {
@@ -1997,6 +2092,34 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "AI重构未来经济模式，谁将取得新的定价权？",
+      "summary": "Token（词元）不是AI经济的最终商品，而是智能劳动进入经济系统的最小账本单位，AI的下一阶段将从工具经济走向结果经济。",
+      "source": "光明网-科技",
+      "sources": [
+        "光明网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://tech.gmw.cn/2026-05/19/content_38772653.htm",
+      "sourceUrls": [
+        "https://tech.gmw.cn/2026-05/19/content_38772653.htm"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 90,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "Token（词元）不是AI经济的最终商品，而是智能劳动进入经济系统的最小账本单位，AI的下一阶段将从工具经济走向结果经济。",
+      "relatedTitles": [
+        "AI重构未来经济模式，谁将取得新的定价权？"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "苹果公布2026年设计大奖入围名单：从量子解谜到国产RPG，“好应用”的标准正在被重写",
       "summary": "苹果每年的设计大奖（Apple Design Awards），是整个移动应用行业里含金量最高的认可之一。不靠下载量，不看营收，只看一件事：这个应用，设计得好不好？ 2026年的入围名单刚刚公布。六个类别，覆盖App与游戏，共计30...",
@@ -2050,34 +2173,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "“十五五”开局之年，我国中医药产业迈入提质升级的关键时期。如何让千年中医药适配现代健康需求、接轨前沿医学发展是整个行业亟待解答的时代命题。近日，深耕中医药领域40年，见证行业迭代升级的好医生集团（简称“好医生”）董事长耿福能接受了《经济...",
       "relatedTitles": [
         "全链守正科研破壁 让世界共享中医药智慧"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "韩国商家抢夏日商机 掀起清凉营销热潮",
-      "summary": "ank\">从“初心守护”到“全链创新” 关注血管健康：坚持科学降脂 警惕“隐形杀手” 中智合建现代化“民心工程”医院 韩国商家抢夏日商机 掀起清凉营销热潮 世卫组织：埃博拉疫情已构成“国际关注的突发公共卫生事件” 继续推动中俄经贸交流走深走实 <a href=\"https://f",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxv7631589.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxv7631589.shtml"
-      ],
-      "publishedAt": "2026-05-19",
-      "date": "2026-05-19",
-      "category": "数字经济",
-      "keywords": "digital economy, data infrastructure, cloud computing",
-      "priority": 5,
-      "score": 87,
-      "format": "graphic",
-      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
-      "status": "confirmed_today",
-      "matchedTopic": "数字经济动态",
-      "rawText": "ank\">从“初心守护”到“全链创新” 关注血管健康：坚持科学降脂 警惕“隐形杀手” 中智合建现代化“民心工程”医院 韩国商家抢夏日商机 掀起清凉营销热潮 世卫组织：埃博拉疫情已构成“国际关注的突发公共卫生事件” 继续推动中俄经贸交流走深走实 <a href=\"https://f",
-      "relatedTitles": [
-        "韩国商家抢夏日商机 掀起清凉营销热潮"
       ]
     },
     {
@@ -2166,6 +2261,34 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "太极集团：DSC158A片获临床试验批准 09:42",
+      "summary": "太极集团：DSC158A片获临床试验批准,甲型,化学药,创新药,太极集团,临床试验,欧洲肿瘤内科学会",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KT9IOCEA0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KT9IOCEA0512B07B.html"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "priority": 5,
+      "score": 87,
+      "format": "graphic",
+      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字经济动态",
+      "rawText": "太极集团：DSC158A片获临床试验批准,甲型,化学药,创新药,太极集团,临床试验,欧洲肿瘤内科学会",
+      "relatedTitles": [
+        "太极集团：DSC158A片获临床试验批准 09:42"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "汽车早报｜小鹏集团Robotaxi首台量产车在广州下 08:34",
       "summary": "汽车早报｜小鹏集团Robotaxi首台量产车在广州下线 日产汽车拟缩减横滨工厂,广州,奥迪,上汽,比亚迪,量产车,日产汽车,横滨工厂,汽车早报,小鹏集团,豪华品牌",
       "source": "网易科技",
@@ -2195,7 +2318,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "马斯克：SpaceX今年或在火箭的完全快速可复用性 07:52",
-      "summary": "影响市场重大事件： 马斯克：SpaceX今年或在火箭的完全快速可复用性方面取得成功；我国“逐日工程”研究取得重大进展，为太空筑起“无线充电站”奠定基础,火箭,摩尔,复用性,人工智能,无线充电站,埃隆_马斯克,spacex,太空探索技术公司",
+      "summary": "马斯克：SpaceX今年或在火箭的完全快速可复用性方面取得成功；我国“逐日工程”研究取得重大进展，为太空筑起“无线充电站”奠定基础——《投资早参》,卫星,火箭,投资早参,无线充电站,埃隆_马斯克,spacex,太空探索技术公司",
       "source": "网易科技",
       "sources": [
         "网易科技"
@@ -2279,7 +2402,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "美国打压，能限制中国药企崛起吗？",
-      "summary": "首页 美国打压，能限制中国药企崛起吗？ 分享到： 美国一伊斯兰中心发生枪击致5死，嫌疑人均为青少年 面对美国施压，阿根廷央行：将同中方续签 “可能伤及无辜”，美政府授权在公共土地上部署“氰化物炸弹” 伊朗：考虑开辟新战线，谈判不是投降 又叽歪上了：欧洲身上有两种瘤，中国和美国，凑活活吧… 访华前夕，普京发表视频讲话 美",
+      "summary": "首页 美国打压，能限制中国药企崛起吗？ 分享到： “美国施压格陵兰：我说不，中俄就拿不到” 特朗普不甘：要是我加税，就没台湾什么事了 美国一伊斯兰中心发生枪击致5死，嫌疑人均为青少年 面对美国施压，阿根廷央行：将同中方续签 “可能伤及无辜”，美政府授权在公共土地上部署“氰化物炸弹” 伊朗：考虑开辟新战线，谈判不是投降 ",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2299,7 +2422,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
       "status": "confirmed_today",
       "matchedTopic": "科学前沿动态",
-      "rawText": "首页 美国打压，能限制中国药企崛起吗？ 分享到： 美国一伊斯兰中心发生枪击致5死，嫌疑人均为青少年 面对美国施压，阿根廷央行：将同中方续签 “可能伤及无辜”，美政府授权在公共土地上部署“氰化物炸弹” 伊朗：考虑开辟新战线，谈判不是投降 又叽歪上了：欧洲身上有两种瘤，中国和美国，凑活活吧… 访华前夕，普京发表视频讲话 美财长扬言：这样中国就没法囤油了 与特朗普通话后，内塔尼亚胡连续两晚开会“为重启对伊朗战事做准备” 特朗普：推迟打伊朗 慌了！“美国可不能牺牲我们这么好的盟友啊” 强盗行径！澳政府逼中资剥离稀土矿商股权，中方回应 “至少6名美国公民曾接触埃博拉病毒，或被送往驻德美军基地” 又下黑手",
+      "rawText": "首页 美国打压，能限制中国药企崛起吗？ 分享到： “美国施压格陵兰：我说不，中俄就拿不到” 特朗普不甘：要是我加税，就没台湾什么事了 美国一伊斯兰中心发生枪击致5死，嫌疑人均为青少年 面对美国施压，阿根廷央行：将同中方续签 “可能伤及无辜”，美政府授权在公共土地上部署“氰化物炸弹” 伊朗：考虑开辟新战线，谈判不是投降 又叽歪上了：欧洲身上有两种瘤，中国和美国，凑活活吧… 访华前夕，普京发表视频讲话 美财长扬言：这样中国就没法囤油了 与特朗普通话后，内塔尼亚胡连续两晚开会“为重启对伊朗战事做准备” 特朗普：推迟打伊朗 慌了！“美国可不能牺牲我们这么好的盟友啊” 强盗行径！澳政府逼中资剥离稀土矿商",
       "relatedTitles": [
         "美国打压，能限制中国药企崛起吗？"
       ]
@@ -2307,7 +2430,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "萝卜快跑，慢就是快",
-      "summary": "首页 萝卜快跑，慢就是快 分享到： 美国一伊斯兰中心发生枪击致5死，嫌疑人均为青少年 面对美国施压，阿根廷央行：将同中方续签 “可能伤及无辜”，美政府授权在公共土地上部署“氰化物炸弹” 伊朗：考虑开辟新战线，谈判不是投降 又叽歪上了：欧洲身上有两种瘤，中国和美国，凑活活吧… 访华前夕，普京发表视频讲话 美财长扬言：这样",
+      "summary": "首页 萝卜快跑，慢就是快 分享到： “美国施压格陵兰：我说不，中俄就拿不到” 特朗普不甘：要是我加税，就没台湾什么事了 美国一伊斯兰中心发生枪击致5死，嫌疑人均为青少年 面对美国施压，阿根廷央行：将同中方续签 “可能伤及无辜”，美政府授权在公共土地上部署“氰化物炸弹” 伊朗：考虑开辟新战线，谈判不是投降 又叽歪上了：欧",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2327,9 +2450,37 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
       "status": "confirmed_today",
       "matchedTopic": "新能源车动态",
-      "rawText": "首页 萝卜快跑，慢就是快 分享到： 美国一伊斯兰中心发生枪击致5死，嫌疑人均为青少年 面对美国施压，阿根廷央行：将同中方续签 “可能伤及无辜”，美政府授权在公共土地上部署“氰化物炸弹” 伊朗：考虑开辟新战线，谈判不是投降 又叽歪上了：欧洲身上有两种瘤，中国和美国，凑活活吧… 访华前夕，普京发表视频讲话 美财长扬言：这样中国就没法囤油了 与特朗普通话后，内塔尼亚胡连续两晚开会“为重启对伊朗战事做准备” 特朗普：推迟打伊朗 慌了！“美国可不能牺牲我们这么好的盟友啊” 强盗行径！澳政府逼中资剥离稀土矿商股权，中方回应 “至少6名美国公民曾接触埃博拉病毒，或被送往驻德美军基地” 又下黑手！欧盟官员还在",
+      "rawText": "首页 萝卜快跑，慢就是快 分享到： “美国施压格陵兰：我说不，中俄就拿不到” 特朗普不甘：要是我加税，就没台湾什么事了 美国一伊斯兰中心发生枪击致5死，嫌疑人均为青少年 面对美国施压，阿根廷央行：将同中方续签 “可能伤及无辜”，美政府授权在公共土地上部署“氰化物炸弹” 伊朗：考虑开辟新战线，谈判不是投降 又叽歪上了：欧洲身上有两种瘤，中国和美国，凑活活吧… 访华前夕，普京发表视频讲话 美财长扬言：这样中国就没法囤油了 与特朗普通话后，内塔尼亚胡连续两晚开会“为重启对伊朗战事做准备” 特朗普：推迟打伊朗 慌了！“美国可不能牺牲我们这么好的盟友啊” 强盗行径！澳政府逼中资剥离稀土矿商股权，中方回应",
       "relatedTitles": [
         "萝卜快跑，慢就是快"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "欧盟港停满中国车？“产能过剩”不背锅",
+      "summary": "首页 欧盟港停满中国车？“产能过剩”不背锅 分享到： “美国施压格陵兰：我说不，中俄就拿不到” 特朗普不甘：要是我加税，就没台湾什么事了 美国一伊斯兰中心发生枪击致5死，嫌疑人均为青少年 面对美国施压，阿根廷央行：将同中方续签 “可能伤及无辜”，美政府授权在公共土地上部署“氰化物炸弹” 伊朗：考虑开辟新战线，谈判不是投",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2024_07_26_742793.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2024_07_26_742793.shtml"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 85,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "首页 欧盟港停满中国车？“产能过剩”不背锅 分享到： “美国施压格陵兰：我说不，中俄就拿不到” 特朗普不甘：要是我加税，就没台湾什么事了 美国一伊斯兰中心发生枪击致5死，嫌疑人均为青少年 面对美国施压，阿根廷央行：将同中方续签 “可能伤及无辜”，美政府授权在公共土地上部署“氰化物炸弹” 伊朗：考虑开辟新战线，谈判不是投降 又叽歪上了：欧洲身上有两种瘤，中国和美国，凑活活吧… 访华前夕，普京发表视频讲话 美财长扬言：这样中国就没法囤油了 与特朗普通话后，内塔尼亚胡连续两晚开会“为重启对伊朗战事做准备” 特朗普：推迟打伊朗 慌了！“美国可不能牺牲我们这么好的盟友啊” 强盗行径！澳政府逼中资剥离稀土",
+      "relatedTitles": [
+        "欧盟港停满中国车？“产能过剩”不背锅"
       ]
     },
     {
@@ -2473,65 +2624,9 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoLmdt",
-      "title": "院士科普｜破解算力瓶颈，以“两个融合”筑牢国家算力根基",
-      "summary": "如今，全球主要国家都在加速布局超算，一场看不见的“算力竞赛”已悄然展开。",
-      "source": "光明网-科技",
-      "sources": [
-        "光明网-科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://tech.gmw.cn/2026-05/19/content_38771494.htm",
-      "sourceUrls": [
-        "https://tech.gmw.cn/2026-05/19/content_38771494.htm"
-      ],
-      "publishedAt": "2026-05-19",
-      "date": "2026-05-19",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 85,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "如今，全球主要国家都在加速布局超算，一场看不见的“算力竞赛”已悄然展开。",
-      "relatedTitles": [
-        "院士科普｜破解算力瓶颈，以“两个融合”筑牢国家算力根基"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLnNj",
-      "title": "不是所有博士生都能拿到学位，这很正常",
-      "summary": "作为高等教育的最高层次，博士生教育承载着培养拔尖创新人才、产出高水平科研成果、推动学科发展与社会进步的核心使命。而随着我国博士生教育规模扩大与质量要求不断提高，博士生未能获得学位的现象也逐渐进入公众视野。特别是近几年，包括南京大学、华中科技...",
-      "source": "中国科学报",
-      "sources": [
-        "中国科学报"
-      ],
-      "sourceTier": "research",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/5/564909.shtm",
-      "sourceUrls": [
-        "https://news.sciencenet.cn/htmlnews/2026/5/564909.shtm"
-      ],
-      "publishedAt": "2026-05-19",
-      "date": "2026-05-19",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 79,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "作者：李锋亮 来源：中国科学报 发布时间：2026/5/19 8:57:36 不是所有博士生都能拿到学位，这很正常 李锋亮 清华大学教育研究院长聘教授",
-      "relatedTitles": [
-        "不是所有博士生都能拿到学位，这很正常"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9uZXdzLnNj",
       "title": "国内大学校门开放已渐成趋势",
-      "summary": "作者：孙滔 来源：中国科学报 发布时间：2026/5/18 11:21:03 导师严格不是问题，冷漠、操控、敌意才是有毒特质｜对话心理学家 为什么有些人一再伤害他人，却依旧顺风顺水、一路走高？ 他们可能是导师、领导、伴侣，甚至是公众眼中的“优秀者”：外表强势自信、富有魅力，背地里却擅长操控、说谎与情感绑架。他们令身边人",
+      "summary": "来源：科学网微信公众号 发布时间：2026/5/18 19:31:29 清华大学3名博士生，被退学处理 近日，清华大学官网陆续发布公告，对多名博士生作退学处理。 5月7日，清华大学工程物理系网站发布公告称，清华大学已对宋*同学作出予以退学处理的决定。宋*，男，工程物理系2016级博士研究生，学号2016310842。宋",
       "source": "中国科学报",
       "sources": [
         "中国科学报"
@@ -2539,7 +2634,8 @@ window.CHENCHEN_DAILY_DATA = {
       "sourceTier": "research",
       "url": "https://news.sciencenet.cn/htmlnews/2026/5/564908.shtm",
       "sourceUrls": [
-        "https://news.sciencenet.cn/htmlnews/2026/5/564908.shtm"
+        "https://news.sciencenet.cn/htmlnews/2026/5/564908.shtm",
+        "https://news.sciencenet.cn/htmlnews/2026/5/564549.shtm"
       ],
       "publishedAt": "2026-05-19",
       "date": "2026-05-19",
@@ -2553,7 +2649,120 @@ window.CHENCHEN_DAILY_DATA = {
       "matchedTopic": "数字经济动态",
       "rawText": "作者：陈彬 来源：中国科学报 发布时间：2026/5/19 8:37:17 一个月内“打卡”30多所大学后，清华大学原博士生导师郑毓煌直言 国内大学校门开放已渐成趋势 郑毓煌 受访者供图",
       "relatedTitles": [
-        "国内大学校门开放已渐成趋势"
+        "国内大学校门开放已渐成趋势",
+        "封面文章 | 禁渔四年，长江中游的鱼回来了吗？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "操盘必读：影响股市利好或利空消息_2026年5月19日_财经新闻",
+      "summary": "影响股市利好与利空消息 宏观新闻 1、中共中央政治局常委、国务院总理李强5月18日在北京调研。他强调，要深入贯彻落实习近平总书记关于发展新质生产力、建设现代化产业体系的重要论述和指示精神，推动人工智能与先进制造业深度融合，坚持创...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/cpbd/2026-05-19/doc-inhyksxs0157415.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/cpbd/2026-05-19/doc-inhyksxs0157415.shtml"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 77,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "影响股市利好与利空消息 宏观新闻 1、中共中央政治局常委、国务院总理李强5月18日在北京调研。他强调，要深入贯彻落实习近平总书记关于发展新质生产力、建设现代化产业体系的重要论述和指示精神，推动人工智能与先进制造业深度融合，坚持创...",
+      "relatedTitles": [
+        "操盘必读：影响股市利好或利空消息_2026年5月19日_财经新闻"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "TCL智家总经理王浩2025年薪酬262万 远低于TCL华星CEO赵军的‌1140万",
+      "summary": "运营商财经网 实习生刘海缘/文根据TCL智家披露的2025年年报显示，公司总经理兼财务总监王浩的薪酬再次上涨，引起了运营商财经网的关注。公开资料显示，王浩出生于1976年，本科学历，1998年毕业于中国人民大学，获经济学学士学位，2022...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhykxft7533426.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhykxft7533426.shtml"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "priority": 5,
+      "score": 77,
+      "format": "graphic",
+      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字经济动态",
+      "rawText": "运营商财经网 实习生刘海缘/文根据TCL智家披露的2025年年报显示，公司总经理兼财务总监王浩的薪酬再次上涨，引起了运营商财经网的关注。公开资料显示，王浩出生于1976年，本科学历，1998年毕业于中国人民大学，获经济学学士学位，2022...",
+      "relatedTitles": [
+        "TCL智家总经理王浩2025年薪酬262万 远低于TCL华星CEO赵军的‌1140万"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "Qwen 3.7？阿里云峰会 5 月 20 日举行，千问官宣“重量级新朋友”即将亮相",
+      "summary": "IT之家 5 月 19 日消息，阿里云峰会官宣将于 5 月 20 日举行，千问大模型官网晒出预热海报，表示“重量级新朋友”即将亮相。从海报中出现的 Qwen 官方吉祥物水豚（卡皮巴拉）来看，本次峰会预计将公布 Qwen 模型的最新成果，IT...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-19/doc-inhykxfq0075827.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-05-19/doc-inhykxfq0075827.shtml"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 77,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "IT之家 5 月 19 日消息，阿里云峰会官宣将于 5 月 20 日举行，千问大模型官网晒出预热海报，表示“重量级新朋友”即将亮相。从海报中出现的 Qwen 官方吉祥物水豚（卡皮巴拉）来看，本次峰会预计将公布 Qwen 模型的最新成果，IT...",
+      "relatedTitles": [
+        "Qwen 3.7？阿里云峰会 5 月 20 日举行，千问官宣“重量级新朋友”即将亮相"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "尚界汽车法务部就编造及传播 Z7 不实信息网络账号向公安机关报案，相关运营者被依法行政处罚",
+      "summary": "IT之家 5 月 19 日消息，尚界汽车法务部官方今日发文，称近期就编造及传播尚界 Z7 不实信息的网络账号向公安机关报案，相关实施违法行为的账号实际运营者已被依法行政处罚。IT之家附尚界汽车法务部官方微博原文如下：...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-19/doc-inhykxfn3297389.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-05-19/doc-inhykxfn3297389.shtml"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 77,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "IT之家 5 月 19 日消息，尚界汽车法务部官方今日发文，称近期就编造及传播尚界 Z7 不实信息的网络账号向公安机关报案，相关实施违法行为的账号实际运营者已被依法行政处罚。IT之家附尚界汽车法务部官方微博原文如下：...",
+      "relatedTitles": [
+        "尚界汽车法务部就编造及传播 Z7 不实信息网络账号向公安机关报案，相关运营者被依法行政处罚"
       ]
     },
     {
@@ -2726,34 +2935,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "西部数据介绍业界首款 PQC（后量子加密）机械硬盘 HC6100",
-      "summary": "IT之家 5 月 19 日消息，西部数据 (WD) 美国加州当地时间 18 日介绍了业界首款 PQC（IT之家注：后量子加密）机械硬盘 Ultrastar DC HC6100 UltraSMR，这一新型号可抵御量子计算时代的新安全威胁。HC...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-19/doc-inhyksxv7636105.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-05-19/doc-inhyksxv7636105.shtml"
-      ],
-      "publishedAt": "2026-05-19",
-      "date": "2026-05-19",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 77,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "IT之家 5 月 19 日消息，西部数据 (WD) 美国加州当地时间 18 日介绍了业界首款 PQC（IT之家注：后量子加密）机械硬盘 Ultrastar DC HC6100 UltraSMR，这一新型号可抵御量子计算时代的新安全威胁。HC...",
-      "relatedTitles": [
-        "西部数据介绍业界首款 PQC（后量子加密）机械硬盘 HC6100"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "华为小艺简报功能在老机型回归，Mate 70 / 60 等系列逐步放开可用",
       "summary": "IT之家 5 月 18 日消息，去年 11 月，华为向 Mate 80 系列手机推送了鸿蒙 HarmonyOS 6.0.0.115 SP8 版本系统，率先带来了小艺简报功能。据用户反馈，小艺简报功能已在老机型回归，目前 Mate 70 系列...",
       "source": "新浪科技",
@@ -2781,17 +2962,45 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "特斯拉跌近3%，金银油价同步上涨",
-      "summary": "当地时间5月18日，美股三大股指收盘涨跌不一，道指涨0.32%，标普500指数跌0.07%，纳指跌0.51%。 万得美国科技七巨头指数跌0.61%，特斯拉跌近3%，英伟达跌超1%。纳斯达克中国金龙指数跌0.72%，理想汽车跌近10%。 ...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "远程新能源商用车正式进入瑞士市场 09:49",
+      "summary": "远程新能源商用车正式进入瑞士市场,新能源,商用车,瑞士市场,汽车产业",
+      "source": "网易科技",
       "sources": [
-        "新浪科技"
+        "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/jjxw/2026-05-19/doc-inhyknrx7684782.shtml",
+      "url": "https://www.163.com/dy/article/KT9J4OJ30534A4SC.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/jjxw/2026-05-19/doc-inhyknrx7684782.shtml"
+        "https://www.163.com/dy/article/KT9J4OJ30534A4SC.html"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "priority": 5,
+      "score": 77,
+      "format": "graphic",
+      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字经济动态",
+      "rawText": "远程新能源商用车正式进入瑞士市场,新能源,商用车,瑞士市场,汽车产业",
+      "relatedTitles": [
+        "远程新能源商用车正式进入瑞士市场 09:49"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "小米汽车YU7 GT要来了，或正为新品牌“寻天”引 09:44",
+      "summary": "小米汽车YU7 GT要来了，或正为新品牌“寻天”引入新的电池供应商,雷军,增程式,小米汽车,电池供应商",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KT9ISF6P0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KT9ISF6P0534A4SC.html"
       ],
       "publishedAt": "2026-05-19",
       "date": "2026-05-19",
@@ -2802,10 +3011,38 @@ window.CHENCHEN_DAILY_DATA = {
       "format": "video",
       "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "当地时间5月18日，美股三大股指收盘涨跌不一，道指涨0.32%，标普500指数跌0.07%，纳指跌0.51%。 万得美国科技七巨头指数跌0.61%，特斯拉跌近3%，英伟达跌超1%。纳斯达克中国金龙指数跌0.72%，理想汽车跌近10%。 ...",
+      "matchedTopic": "新能源车动态",
+      "rawText": "小米汽车YU7 GT要来了，或正为新品牌“寻天”引入新的电池供应商,雷军,增程式,小米汽车,电池供应商",
       "relatedTitles": [
-        "特斯拉跌近3%，金银油价同步上涨"
+        "小米汽车YU7 GT要来了，或正为新品牌“寻天”引 09:44"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "“逐日工程”获进展，中国攻克空间太阳能电站关 09:32",
+      "summary": "“逐日工程”获进展，中国攻克空间太阳能电站关键技术｜新能源早参,储能,光伏,微波,早参,新能源,太阳能电站,新型电力系统",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KT9I6RHV0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KT9I6RHV0512B07B.html"
+      ],
+      "publishedAt": "2026-05-19",
+      "date": "2026-05-19",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "priority": 5,
+      "score": 77,
+      "format": "graphic",
+      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字经济动态",
+      "rawText": "“逐日工程”获进展，中国攻克空间太阳能电站关键技术｜新能源早参,储能,光伏,微波,早参,新能源,太阳能电站,新型电力系统",
+      "relatedTitles": [
+        "“逐日工程”获进展，中国攻克空间太阳能电站关 09:32"
       ]
     },
     {
@@ -3356,23 +3593,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tech trends that caught our eye at the Restaurant Show",
-      "summary": "Rotary phones, robots and maybe too much AI",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/articles/tech-trends-caught-eye-restaurant-214156232.html",
-      "publishedAt": "2026-05-19",
-      "date": "2026-05-19",
-      "region": "US",
-      "category": "AI",
-      "keywords": "AI applications, large language models, AI governance, productivity",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
-      "priority": 4,
-      "score": 60,
-      "status": "confirmed_today"
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Intel CEO says foundry business is gaining momentum as customer interest grows",
       "summary": "Intel CEO Lip-Bu Tan said the company’s Foundry turnaround is gaining traction.",
       "source": "CNBC Technology",
@@ -3576,8 +3796,8 @@ window.CHENCHEN_DAILY_DATA = {
       "status": "confirmed_today"
     }
   ],
-  "brief": "ChenChen 今日中国科技热点｜2026-05-19\n生成时间：2026/5/19 09:33:05\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 1993｜确认今日 73｜国际背景 35\n\n最值得关注：\n1. [2026-05-19] 上海：力争到“十五五”末推动10万台人形机器人 07:16\n   网易科技｜2026-05-19｜https://www.163.com/dy/article/KT9ACDC60512B07B.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n2. [2026-05-19] 桂电副校长：没有好的“灵巧手”就没有机器人的未\n   中国科学报｜2026-05-19｜https://news.sciencenet.cn/htmlnews/2026/5/564907.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-19] 联发科加速AI在地化应用布局\n   新浪科技｜2026-05-19｜https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0190377.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n4. [2026-05-19] 财经早报：特朗普称将推迟对伊朗发动军事打击，王力宏承认用千万代言费购买比亚迪股票丨2026年5月19日\n   新浪科技｜2026-05-19｜https://finance.sina.com.cn/stock/y/2026-05-19/doc-inhyksxq3347855.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n5. [2026-05-19] 我国商业航天首款可展开星载伞天线下线 09:05\n   网易科技｜2026-05-19｜https://www.163.com/dy/article/KT9GL4JB05198CJN.html\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n今日热点方向：\n- AI 应用：AI动态（89 条，11 个来源）\n- 芯片/半导体：半导体供应链（26 条，9 个来源）\n- 机器人/具身智能：人形机器人与具身智能（11 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（21 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，2 个来源）\n- 科学前沿：科学前沿动态（32 条，10 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Federal court rejects Elon Musk's claims against OpenAI, saying he filed his lawsuit too late｜AP Technology｜https://apnews.com/article/musk-openai-trial-verdict-0b9b0bfaffe96f2c930341f52dfe4f8c\n2. Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare｜TechCrunch｜https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/\n3. Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them｜The Register｜https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258\n4. Elon Musk took too long to sue OpenAI, jury unanimously agrees｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/\n5. Here's How Much Battery Your Apple Watch's Always–On Display Is Using｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/heres-much-battery-apple-watchs-001700818.html",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-19\n生成时间：2026/5/19 09:33:05\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 1993｜确认今日 73｜国际背景 35\n\n最值得关注：\n1. [2026-05-19] 上海：力争到“十五五”末推动10万台人形机器人 07:16\n   网易科技｜2026-05-19｜https://www.163.com/dy/article/KT9ACDC60512B07B.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n2. [2026-05-19] 桂电副校长：没有好的“灵巧手”就没有机器人的未\n   中国科学报｜2026-05-19｜https://news.sciencenet.cn/htmlnews/2026/5/564907.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-19] 联发科加速AI在地化应用布局\n   新浪科技｜2026-05-19｜https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0190377.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n4. [2026-05-19] 财经早报：特朗普称将推迟对伊朗发动军事打击，王力宏承认用千万代言费购买比亚迪股票丨2026年5月19日\n   新浪科技｜2026-05-19｜https://finance.sina.com.cn/stock/y/2026-05-19/doc-inhyksxq3347855.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n5. [2026-05-19] 我国商业航天首款可展开星载伞天线下线 09:05\n   网易科技｜2026-05-19｜https://www.163.com/dy/article/KT9GL4JB05198CJN.html\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n今日热点方向：\n- AI 应用：AI动态（89 条，11 个来源）\n- 芯片/半导体：半导体供应链（26 条，9 个来源）\n- 机器人/具身智能：人形机器人与具身智能（11 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（21 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，2 个来源）\n- 科学前沿：科学前沿动态（32 条，10 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Federal court rejects Elon Musk's claims against OpenAI, saying he filed his lawsuit too late｜AP Technology｜https://apnews.com/article/musk-openai-trial-verdict-0b9b0bfaffe96f2c930341f52dfe4f8c\n2. Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare｜TechCrunch｜https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/\n3. Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them｜The Register｜https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258\n4. Elon Musk took too long to sue OpenAI, jury unanimously agrees｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/\n5. Here's How Much Battery Your Apple Watch's Always–On Display Is Using｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/heres-much-battery-apple-watchs-001700818.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点</h3>\n      <p>日期：2026-05-19｜生成时间：2026/5/19 09:33:05｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 1993｜确认今日 73｜国际背景 35</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-19] 上海：力争到“十五五”末推动10万台人形机器人 07:16</strong>\n      <span>网易科技｜2026-05-19｜<a href=\"https://www.163.com/dy/article/KT9ACDC60512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-19] 桂电副校长：没有好的“灵巧手”就没有机器人的未</strong>\n      <span>中国科学报｜2026-05-19｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/5/564907.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-19] 联发科加速AI在地化应用布局</strong>\n      <span>新浪科技｜2026-05-19｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0190377.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-19] 财经早报：特朗普称将推迟对伊朗发动军事打击，王力宏承认用千万代言费购买比亚迪股票丨2026年5月19日</strong>\n      <span>新浪科技｜2026-05-19｜<a href=\"https://finance.sina.com.cn/stock/y/2026-05-19/doc-inhyksxq3347855.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-19] 我国商业航天首款可展开星载伞天线下线 09:05</strong>\n      <span>网易科技｜2026-05-19｜<a href=\"https://www.163.com/dy/article/KT9GL4JB05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Federal court rejects Elon Musk's claims against OpenAI, saying he filed his lawsuit too late</strong>\n      <span>时间：2026-05-18｜来源：AP Technology｜<a href=\"https://apnews.com/article/musk-openai-trial-verdict-0b9b0bfaffe96f2c930341f52dfe4f8c\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare</strong>\n      <span>时间：Mon, 18 May 2026 19:27:52 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them</strong>\n      <span>时间：Tue, 19 May 2026 01:32:48 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Elon Musk took too long to sue OpenAI, jury unanimously agrees</strong>\n      <span>时间：Mon, 18 May 2026 18:09:41 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Here's How Much Battery Your Apple Watch's Always–On Display Is Using</strong>\n      <span>时间：2026-05-19｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/wearables/articles/heres-much-battery-apple-watchs-001700818.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing】\n\n生成时间：2026/5/19 09:33:05\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n最值得关注：\n1. [2026-05-19] 上海：力争到“十五五”末推动10万台人形机器人 07:16\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KT9ACDC60512B07B.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n2. [2026-05-19] 桂电副校长：没有好的“灵巧手”就没有机器人的未\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/5/564907.shtm\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-19] 联发科加速AI在地化应用布局\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0190377.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n4. [2026-05-19] 财经早报：特朗普称将推迟对伊朗发动军事打击，王力宏承认用千万代言费购买比亚迪股票丨2026年5月19日\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/y/2026-05-19/doc-inhyksxq3347855.shtml\n   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n5. [2026-05-19] 我国商业航天首款可展开星载伞天线下线 09:05\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KT9GL4JB05198CJN.html\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n今日热点方向：\n- AI 应用：AI动态（89 条，11 个来源）\n- 芯片/半导体：半导体供应链（26 条，9 个来源）\n- 机器人/具身智能：人形机器人与具身智能（11 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（21 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，2 个来源）\n- 科学前沿：科学前沿动态（32 条，10 个来源）\n\n国际科技背景：\n1. Federal court rejects Elon Musk's claims against OpenAI, saying he filed his lawsuit too late｜AP Technology｜https://apnews.com/article/musk-openai-trial-verdict-0b9b0bfaffe96f2c930341f52dfe4f8c\n2. Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare｜TechCrunch｜https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/\n3. Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them｜The Register｜https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258\n4. Elon Musk took too long to sue OpenAI, jury unanimously agrees｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/\n5. Here's How Much Battery Your Apple Watch's Always–On Display Is Using｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/heres-much-battery-apple-watchs-001700818.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "ChenChen 今日中国科技热点｜2026-05-19\n生成时间：2026/5/19 09:51:06\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 1993｜确认今日 82｜国际背景 34\n\n最值得关注：\n1. [2026-05-19] 全球关注的AI“世纪诉讼”，马斯克败诉，因“超 09:42\n   网易科技｜2026-05-19｜https://www.163.com/dy/article/KT9IOCED0512B07B.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-19] 上海：力争到“十五五”末推动10万台人形机器人 07:16\n   网易科技｜2026-05-19｜https://www.163.com/dy/article/KT9ACDC60512B07B.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-19] 桂电副校长：没有好的“灵巧手”就没有机器人的未\n   中国科学报｜2026-05-19｜https://news.sciencenet.cn/htmlnews/2026/5/564907.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-05-19] 联发科加速AI在地化应用布局\n   新浪科技｜2026-05-19｜https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0190377.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-05-19] 财经早报：特朗普称将推迟对伊朗发动军事打击，王力宏承认用千万代言费购买比亚迪股票丨2026年5月19日\n   新浪科技｜2026-05-19｜https://finance.sina.com.cn/stock/y/2026-05-19/doc-inhyksxq3347855.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n今日热点方向：\n- AI 应用：AI动态（88 条，11 个来源）\n- 芯片/半导体：半导体供应链（25 条，9 个来源）\n- 机器人/具身智能：人形机器人与具身智能（11 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（22 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，2 个来源）\n- 科学前沿：科学前沿动态（32 条，10 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Federal court rejects Elon Musk's claims against OpenAI, saying he filed his lawsuit too late｜AP Technology｜https://apnews.com/article/musk-openai-trial-verdict-0b9b0bfaffe96f2c930341f52dfe4f8c\n2. Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare｜TechCrunch｜https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/\n3. Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them｜The Register｜https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258\n4. Elon Musk took too long to sue OpenAI, jury unanimously agrees｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/\n5. Here's How Much Battery Your Apple Watch's Always–On Display Is Using｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/heres-much-battery-apple-watchs-001700818.html",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-19\n生成时间：2026/5/19 09:51:06\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 1993｜确认今日 82｜国际背景 34\n\n最值得关注：\n1. [2026-05-19] 全球关注的AI“世纪诉讼”，马斯克败诉，因“超 09:42\n   网易科技｜2026-05-19｜https://www.163.com/dy/article/KT9IOCED0512B07B.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-19] 上海：力争到“十五五”末推动10万台人形机器人 07:16\n   网易科技｜2026-05-19｜https://www.163.com/dy/article/KT9ACDC60512B07B.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-19] 桂电副校长：没有好的“灵巧手”就没有机器人的未\n   中国科学报｜2026-05-19｜https://news.sciencenet.cn/htmlnews/2026/5/564907.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-05-19] 联发科加速AI在地化应用布局\n   新浪科技｜2026-05-19｜https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0190377.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-05-19] 财经早报：特朗普称将推迟对伊朗发动军事打击，王力宏承认用千万代言费购买比亚迪股票丨2026年5月19日\n   新浪科技｜2026-05-19｜https://finance.sina.com.cn/stock/y/2026-05-19/doc-inhyksxq3347855.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n今日热点方向：\n- AI 应用：AI动态（88 条，11 个来源）\n- 芯片/半导体：半导体供应链（25 条，9 个来源）\n- 机器人/具身智能：人形机器人与具身智能（11 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（22 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，2 个来源）\n- 科学前沿：科学前沿动态（32 条，10 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Federal court rejects Elon Musk's claims against OpenAI, saying he filed his lawsuit too late｜AP Technology｜https://apnews.com/article/musk-openai-trial-verdict-0b9b0bfaffe96f2c930341f52dfe4f8c\n2. Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare｜TechCrunch｜https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/\n3. Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them｜The Register｜https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258\n4. Elon Musk took too long to sue OpenAI, jury unanimously agrees｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/\n5. Here's How Much Battery Your Apple Watch's Always–On Display Is Using｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/heres-much-battery-apple-watchs-001700818.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点</h3>\n      <p>日期：2026-05-19｜生成时间：2026/5/19 09:51:06｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 1993｜确认今日 82｜国际背景 34</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-19] 全球关注的AI“世纪诉讼”，马斯克败诉，因“超 09:42</strong>\n      <span>网易科技｜2026-05-19｜<a href=\"https://www.163.com/dy/article/KT9IOCED0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-19] 上海：力争到“十五五”末推动10万台人形机器人 07:16</strong>\n      <span>网易科技｜2026-05-19｜<a href=\"https://www.163.com/dy/article/KT9ACDC60512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-19] 桂电副校长：没有好的“灵巧手”就没有机器人的未</strong>\n      <span>中国科学报｜2026-05-19｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/5/564907.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-19] 联发科加速AI在地化应用布局</strong>\n      <span>新浪科技｜2026-05-19｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0190377.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-19] 财经早报：特朗普称将推迟对伊朗发动军事打击，王力宏承认用千万代言费购买比亚迪股票丨2026年5月19日</strong>\n      <span>新浪科技｜2026-05-19｜<a href=\"https://finance.sina.com.cn/stock/y/2026-05-19/doc-inhyksxq3347855.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Federal court rejects Elon Musk's claims against OpenAI, saying he filed his lawsuit too late</strong>\n      <span>时间：2026-05-18｜来源：AP Technology｜<a href=\"https://apnews.com/article/musk-openai-trial-verdict-0b9b0bfaffe96f2c930341f52dfe4f8c\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare</strong>\n      <span>时间：Mon, 18 May 2026 19:27:52 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them</strong>\n      <span>时间：Tue, 19 May 2026 01:32:48 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Elon Musk took too long to sue OpenAI, jury unanimously agrees</strong>\n      <span>时间：Mon, 18 May 2026 18:09:41 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Here's How Much Battery Your Apple Watch's Always–On Display Is Using</strong>\n      <span>时间：2026-05-19｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/wearables/articles/heres-much-battery-apple-watchs-001700818.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing】\n\n生成时间：2026/5/19 09:51:06\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n最值得关注：\n1. [2026-05-19] 全球关注的AI“世纪诉讼”，马斯克败诉，因“超 09:42\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KT9IOCED0512B07B.html\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-19] 上海：力争到“十五五”末推动10万台人形机器人 07:16\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KT9ACDC60512B07B.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-19] 桂电副校长：没有好的“灵巧手”就没有机器人的未\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/5/564907.shtm\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-05-19] 联发科加速AI在地化应用布局\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhyksxs0190377.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-05-19] 财经早报：特朗普称将推迟对伊朗发动军事打击，王力宏承认用千万代言费购买比亚迪股票丨2026年5月19日\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/y/2026-05-19/doc-inhyksxq3347855.shtml\n   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n今日热点方向：\n- AI 应用：AI动态（88 条，11 个来源）\n- 芯片/半导体：半导体供应链（25 条，9 个来源）\n- 机器人/具身智能：人形机器人与具身智能（11 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（22 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，2 个来源）\n- 科学前沿：科学前沿动态（32 条，10 个来源）\n\n国际科技背景：\n1. Federal court rejects Elon Musk's claims against OpenAI, saying he filed his lawsuit too late｜AP Technology｜https://apnews.com/article/musk-openai-trial-verdict-0b9b0bfaffe96f2c930341f52dfe4f8c\n2. Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare｜TechCrunch｜https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/\n3. Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them｜The Register｜https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258\n4. Elon Musk took too long to sue OpenAI, jury unanimously agrees｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/\n5. Here's How Much Battery Your Apple Watch's Always–On Display Is Using｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/heres-much-battery-apple-watchs-001700818.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
