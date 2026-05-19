@@ -29,6 +29,7 @@ jobs:
       TZ: Asia/Shanghai
       FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
       PUBLIC_DASHBOARD_URL: ${{ secrets.PUBLIC_DASHBOARD_URL }}
+      GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
 
     steps:
       - name: Checkout
@@ -66,33 +67,27 @@ jobs:
           test -f output/briefing.md
           test -f output/briefing.txt
 
-      - name: Commit updated files
+      - name: Send Feishu briefing
+        run: node send_feishu.mjs
+
+      - name: Commit generated files and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html daily-data.js data/latest.json output/briefing.md output/briefing.txt
+          git add index.html daily-data.js data/latest.json output/briefing.md output/briefing.txt data/feishu-push-state.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No generated file changes to commit."
           else
             git commit -m "chore: update daily tech radar $(date '+%Y-%m-%d %H:%M')"
-            git push
-          fi
-
-      - name: Send Feishu briefing
-        run: node send_feishu.mjs
-
-      - name: Commit Feishu push state
-        run: |
-          if [ ! -f data/feishu-push-state.json ]; then
-            echo "No Feishu push state file to commit."
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/feishu-push-state.json
-          if git diff --cached --quiet; then
-            echo "No Feishu push state changes to commit."
-          else
-            git commit -m "chore: record feishu push state $(date '+%Y-%m-%d %H:%M')"
-            git push
+            for attempt in 1 2 3; do
+              if git push; then
+                echo "Push succeeded."
+                exit 0
+              fi
+              echo "Push failed on attempt ${attempt}, rebasing and retrying..."
+              git pull --rebase origin main || true
+              sleep 5
+            done
+            echo "Push failed after retries. Feishu was already sent; please inspect this run."
+            exit 1
           fi

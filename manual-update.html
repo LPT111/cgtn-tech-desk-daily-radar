@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CGTN Tech Radar 手动更新</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #121826;
+      --muted: #667085;
+      --line: rgba(18,24,38,.12);
+      --bg: #f6f7f9;
+      --panel: #fff;
+      --brand: #123c69;
+      --brand-2: #0b6bcb;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      color: var(--ink);
+      background: linear-gradient(180deg, #fff, var(--bg));
+    }
+    main {
+      width: min(680px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 28px 0 44px;
+    }
+    .brand {
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(30px, 9vw, 46px);
+      line-height: 1.04;
+      letter-spacing: -.05em;
+    }
+    .sub {
+      margin: 14px 0 22px;
+      color: var(--muted);
+      line-height: 1.75;
+      font-size: 15px;
+    }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px;
+      box-shadow: 0 18px 48px rgba(18,24,38,.08);
+    }
+    .actions {
+      display: grid;
+      gap: 12px;
+    }
+    a.button {
+      display: block;
+      width: 100%;
+      padding: 16px 18px;
+      border-radius: 14px;
+      text-decoration: none;
+      font-weight: 850;
+      line-height: 1.35;
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--ink);
+    }
+    a.primary {
+      background: linear-gradient(135deg, var(--brand), var(--brand-2));
+      color: #fff;
+      border: 0;
+    }
+    small {
+      display: block;
+      margin-top: 5px;
+      color: rgba(255,255,255,.74);
+      font-weight: 600;
+    }
+    a.button:not(.primary) small { color: var(--muted); }
+    .note {
+      margin-top: 16px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.7;
+    }
+    code {
+      padding: 2px 5px;
+      border-radius: 6px;
+      background: #eef2f6;
+      color: #344054;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="brand">LPT for ChenChen</div>
+    <h1>CGTN Tech Radar 手动更新</h1>
+    <p class="sub">定时飞书会自动运行。若早晨、下午或晚上没有收到，可以在手机上打开本页，点击 GitHub Actions 手动触发。</p>
+    <section class="panel">
+      <div class="actions">
+        <a class="button primary" href="https://github.com/LPT111/cgtn-tech-desk-daily-radar/actions/workflows/daily-radar.yml">
+          手动触发更新
+          <small>打开后点 “Run workflow”，会重新抓取、更新网页并推送飞书</small>
+        </a>
+        <a class="button" href="https://lpt111.github.io/cgtn-tech-desk-daily-radar/">
+          查看当前看板
+          <small>打开最新 CGTN Tech Desk Daily Radar 网页</small>
+        </a>
+        <a class="button" href="https://github.com/LPT111/cgtn-tech-desk-daily-radar/actions">
+          查看运行记录
+          <small>检查最近一次是否成功、失败或仍在运行</small>
+        </a>
+      </div>
+      <p class="note">手机首次使用需要登录 GitHub。进入 workflow 页面后，如果没有看到按钮，点右上角浏览器菜单选择桌面版网页。手动触发属于 <code>workflow_dispatch</code>，成功后也会发送一条飞书测试消息。</p>
+    </section>
+  </main>
+</body>
+</html>

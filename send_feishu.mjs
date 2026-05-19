@@ -49,6 +49,26 @@ function getScheduleSlot(date, time) {
   };
 }
 
+function getScheduleSlotFromCron(date, cron) {
+  const map = {
+    '40 23 * * *': { name: 'morning', label: '07:40' },
+    '50 23 * * *': { name: 'morning', label: '07:40' },
+    '55 23 * * *': { name: 'morning', label: '07:40' },
+    '40 6 * * *': { name: 'afternoon', label: '14:40' },
+    '50 6 * * *': { name: 'afternoon', label: '14:40' },
+    '55 6 * * *': { name: 'afternoon', label: '14:40' },
+    '40 12 * * *': { name: 'evening', label: '20:40' },
+    '50 12 * * *': { name: 'evening', label: '20:40' },
+    '55 12 * * *': { name: 'evening', label: '20:40' }
+  };
+  const slot = map[cron];
+  if (!slot) return null;
+  return {
+    ...slot,
+    key: `${date}-${slot.name}`
+  };
+}
+
 async function readPushState() {
   try {
     return JSON.parse(await fs.readFile(pushStatePath, 'utf8'));
@@ -71,12 +91,13 @@ async function main() {
 
   const dashboardUrl = process.env.PUBLIC_DASHBOARD_URL || 'PUBLIC_DASHBOARD_URL 未配置';
   const manual = process.env.GITHUB_EVENT_NAME === 'workflow_dispatch' || process.env.FEISHU_TEST === '1';
+  const scheduleCron = process.env.GITHUB_EVENT_SCHEDULE || '';
   const { date, time } = cnNowParts();
-  const slot = getScheduleSlot(date, time);
+  const slot = getScheduleSlotFromCron(date, scheduleCron) || getScheduleSlot(date, time);
 
   if (!manual) {
     if (!slot) {
-      console.log(`No Feishu schedule slot matched for ${date} ${time}, skip push.`);
+      console.log(`No Feishu schedule slot matched for ${date} ${time}; cron="${scheduleCron}", skip push.`);
       return;
     }
     const state = await readPushState();
