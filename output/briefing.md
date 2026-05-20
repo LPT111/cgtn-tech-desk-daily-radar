@@ -2,7 +2,7 @@
 
 【ChenChen 今日 Briefing】
 
-生成时间：2026/5/20 09:34:42
+生成时间：2026/5/20 09:49:20
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 最值得关注：
@@ -32,12 +32,12 @@
    角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
 
 今日热点方向：
-- AI 应用：AI动态（103 条，12 个来源）
-- 芯片/半导体：半导体供应链（28 条，8 个来源）
+- AI 应用：AI动态（105 条，11 个来源）
+- 芯片/半导体：半导体供应链（29 条，8 个来源）
 - 机器人/具身智能：人形机器人与具身智能（7 条，6 个来源）
 - 新能源车/智能驾驶：新能源车动态（16 条，4 个来源）
 - 太空与低空经济：低空经济与无人机（4 条，4 个来源）
-- 科学前沿：科学前沿与科研设施（31 条，10 个来源）
+- 科学前沿：科学前沿与科研设施（32 条，10 个来源）
 
 国际科技背景：
 1. Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims｜TechCrunch｜https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/
