@@ -1,81 +1,86 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-05-20T10:34:44.976Z",
+  "generatedAt": "2026-05-20T10:41:52.330Z",
   "radarVersion": "v2",
   "targetDate": "2026-05-20",
   "changeSummary": {
-    "domesticNew": 89,
-    "globalNew": 12,
-    "domesticContinued": 21,
-    "globalContinued": 28,
+    "domesticNew": 7,
+    "globalNew": 1,
+    "domesticContinued": 102,
+    "globalContinued": 39,
     "topNewDomestic": [
       {
-        "title": "摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群",
+        "title": "AIDC建设正从“通用标准”走向“适",
+        "source": "光明网-科技",
+        "url": "https://tech.gmw.cn/2026-05/20/content_38777240.htm"
+      },
+      {
+        "title": "中国牵头制定的电力导体材料腐蚀国际标准发布",
+        "source": "光明网-科技",
+        "url": "https://tech.gmw.cn/2026-05/20/content_38777136.htm"
+      },
+      {
+        "title": "三天三夜，5月最“燃”现场，全国科学家故事馆校众创展演将在河南科技馆火热开演",
+        "source": "光明网-科技",
+        "url": "https://tech.gmw.cn/2026-05/20/content_38777133.htm"
+      },
+      {
+        "title": "MDDC 2026：联发科成全栈AI基石，推动全场景智能体体验落地",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml"
+        "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-05-20/doc-inhyphnm9441604.shtml"
       },
       {
-        "title": "航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml"
-      },
-      {
-        "title": "奇安信人工智能公司中标某头部医疗科技集团AI安 18:30",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KTD3C4OK0512B07B.html"
-      },
-      {
-        "title": "青岛崂山区：锻造机器人产业新势能",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-05/20/content_519676.html"
-      },
-      {
-        "title": "菲律宾批准高铁锌转基因大米",
-        "source": "中国科学报",
-        "url": "http://news.sciencenet.cn/htmlnews/2026/5/565017.shtm"
+        "title": "AI时代，当知识不再稀缺，我们该如何学习？",
+        "source": "光明网-科技",
+        "url": "https://tech.gmw.cn/2026-05/20/content_38777084.htm"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Ugreen Packs A Punch With Its Latest Nexode And MagFlow Air Chargers",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/ugreen-packs-punch-latest-nexode-070000080.html"
-      },
-      {
-        "title": "Nvidia to launch Singapore research hub as city-state boosts AI plans",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/05/20/nvidia-to-launch-singapore-research-hub-as-city-state-boosts-ai-plans.html"
-      },
-      {
-        "title": "Singapore inks AI deals with Google, OpenAI as ChatGPT-maker commits $234 million to local ecosystem",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/05/20/singapore-google-openai-ai-partnerships-lab-investment-chatgpt-ai-agents-atxsummit-mddi.html"
-      },
-      {
-        "title": "The UAE’s OPEC exit frees up oil wealth as it bets big on AI",
-        "source": "Rest of World",
-        "url": "https://restofworld.org/2026/uae-quit-opec-ai-infrastructure-investment/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/"
+        "title": "Space factories edge closer after experimental capsule survives hypersonic landing",
+        "source": "The Register",
+        "url": "https://www.theregister.com/science/2026/05/20/space-factories-edge-closer-after-experimental-capsule-survives-hypersonic-landing/5243140"
       }
     ],
     "hasPrevious": true
   },
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 26,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
+    },
+    {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -90,14 +95,39 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
+    },
+    {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -164,7 +194,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -212,8 +243,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -277,14 +309,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -305,8 +339,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -361,13 +396,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1372,
+  "itemsSeen": 1299,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 578,
-  "itemsAfterDedupe": 387,
-  "todayItemsSeen": 110,
+  "itemsAfterRelevantFilter": 543,
+  "itemsAfterDedupe": 371,
+  "todayItemsSeen": 109,
   "suspectedItemsSeen": 1,
-  "skippedNonToday": 270,
+  "skippedNonToday": 257,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -422,7 +457,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -470,8 +506,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -535,14 +572,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -563,8 +602,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -773,14 +813,39 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
+    },
+    {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -817,8 +882,8 @@ window.CHENCHEN_DAILY_DATA = {
   "topics": [
     {
       "topic": "AI动态",
-      "count": 84,
-      "sourceCount": 11,
+      "count": 90,
+      "sourceCount": 12,
       "sources": [
         "新浪科技",
         "中国科学报",
@@ -830,7 +895,8 @@ window.CHENCHEN_DAILY_DATA = {
         "科技日报",
         "人民网-科技",
         "新华网-科技",
-        "光明网-科技"
+        "光明网-科技",
+        "央广网-科技"
       ],
       "items": [
         "AI 时代，Python 已经是新的\"汇编语言\"了",
@@ -842,20 +908,20 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 69,
+      "count": 65,
       "sourceCount": 11,
       "sources": [
         "新浪科技",
         "中国科学报",
         "网易科技",
-        "中国科学院",
         "IT之家",
         "观察者网-产业科技",
         "量子位",
         "TechNode",
         "科技日报",
         "人民网-科技",
-        "新华网-科技"
+        "新华网-科技",
+        "光明网-科技"
       ],
       "items": [
         "一文看懂2026年谷歌I/O大会",
@@ -866,8 +932,8 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "监管与安全动态",
-      "count": 15,
+      "topic": "国产 GPU / 算力基础设施",
+      "count": 28,
       "sourceCount": 10,
       "sources": [
         "新浪科技",
@@ -875,8 +941,54 @@ window.CHENCHEN_DAILY_DATA = {
         "网易科技",
         "观察者网-产业科技",
         "量子位",
+        "TechNode",
         "科技日报",
-        "中国科学院",
+        "中国科学报",
+        "新华网-科技",
+        "光明网-科技"
+      ],
+      "items": [
+        "谷歌 I/O 大会直击：Gemini 月活逼近 9 亿，AI 搜索横扫 25 亿用户",
+        "跳过CPU！英伟达联手亚马逊：GPU直接控制SSD",
+        "趋境科技完成数亿元 Pre-A 轮融资",
+        "NVIDIA财报挑战6万亿美元市值大关：CPU要成核心业务了",
+        "从“+AI”到“AI+”：推进边缘算力词元普惠，联想AI主机新品亮相"
+      ]
+    },
+    {
+      "topic": "半导体供应链",
+      "count": 30,
+      "sourceCount": 9,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "观察者网-产业科技",
+        "量子位",
+        "TechNode",
+        "科技日报",
+        "新华网-科技",
+        "光明网-科技"
+      ],
+      "items": [
+        "三星电子劳资谈判破裂后 韩国总统李在明称工会行动须有适当限度",
+        "亚洲芯片出口量价背离程度创纪录 这一次似乎并非见顶信号",
+        "14A工艺29年量产 Intel工艺路线图推至0.7nm：密度还能翻倍",
+        "潮酷纯黑X3D新座驾，七彩虹iGame B850M ULTRA-OC V14主板评测",
+        "华为首次公开宣布：MatePad Pro Max搭载Kirin T93 Pro芯片"
+      ]
+    },
+    {
+      "topic": "监管与安全动态",
+      "count": 14,
+      "sourceCount": 9,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "观察者网-产业科技",
+        "量子位",
+        "科技日报",
         "中国科学报",
         "人民网-科技",
         "光明网-科技"
@@ -890,39 +1002,37 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "国产 GPU / 算力基础设施",
-      "count": 26,
-      "sourceCount": 9,
+      "topic": "科学前沿与科研设施",
+      "count": 21,
+      "sourceCount": 8,
       "sources": [
         "新浪科技",
-        "IT之家",
-        "网易科技",
         "观察者网-产业科技",
         "量子位",
-        "TechNode",
         "科技日报",
         "中国科学报",
-        "新华网-科技"
+        "人民网-科技",
+        "新华网-科技",
+        "光明网-科技"
       ],
       "items": [
-        "谷歌 I/O 大会直击：Gemini 月活逼近 9 亿，AI 搜索横扫 25 亿用户",
-        "跳过CPU！英伟达联手亚马逊：GPU直接控制SSD",
-        "趋境科技完成数亿元 Pre-A 轮融资",
-        "NVIDIA财报挑战6万亿美元市值大关：CPU要成核心业务了",
-        "从“+AI”到“AI+”：推进边缘算力词元普惠，联想AI主机新品亮相"
+        "中国高校包揽第 13 届世界大学生超级计算机竞赛冠亚军",
+        "国家级认证！成都新型材料企业造出锂电池火灾防控“黑科技”",
+        "谷歌推出科研版 Gemini，能追踪论文、写实验代码",
+        "“985”博导不如初中辍学的张雪？",
+        "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议"
       ]
     },
     {
       "topic": "科学前沿动态",
-      "count": 25,
-      "sourceCount": 9,
+      "count": 17,
+      "sourceCount": 8,
       "sources": [
         "中国科学报",
         "网易科技",
         "观察者网-产业科技",
         "量子位",
         "科技日报",
-        "中国科学院",
         "人民网-科技",
         "新华网-科技",
         "光明网-科技"
@@ -937,15 +1047,14 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "商业航天与卫星互联网",
-      "count": 17,
-      "sourceCount": 9,
+      "count": 15,
+      "sourceCount": 8,
       "sources": [
         "新浪科技",
         "网易科技",
         "观察者网-产业科技",
         "中国科学报",
         "科技日报",
-        "中国科学院",
         "人民网-科技",
         "新华网-科技",
         "光明网-科技"
@@ -959,58 +1068,13 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "科学前沿与科研设施",
-      "count": 30,
-      "sourceCount": 8,
-      "sources": [
-        "新浪科技",
-        "观察者网-产业科技",
-        "量子位",
-        "科技日报",
-        "中国科学院",
-        "中国科学报",
-        "人民网-科技",
-        "新华网-科技"
-      ],
-      "items": [
-        "中国高校包揽第 13 届世界大学生超级计算机竞赛冠亚军",
-        "国家级认证！成都新型材料企业造出锂电池火灾防控“黑科技”",
-        "谷歌推出科研版 Gemini，能追踪论文、写实验代码",
-        "“985”博导不如初中辍学的张雪？",
-        "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议"
-      ]
-    },
-    {
-      "topic": "半导体供应链",
-      "count": 27,
-      "sourceCount": 8,
-      "sources": [
-        "新浪科技",
-        "IT之家",
-        "网易科技",
-        "观察者网-产业科技",
-        "量子位",
-        "TechNode",
-        "科技日报",
-        "新华网-科技"
-      ],
-      "items": [
-        "三星电子劳资谈判破裂后 韩国总统李在明称工会行动须有适当限度",
-        "亚洲芯片出口量价背离程度创纪录 这一次似乎并非见顶信号",
-        "14A工艺29年量产 Intel工艺路线图推至0.7nm：密度还能翻倍",
-        "潮酷纯黑X3D新座驾，七彩虹iGame B850M ULTRA-OC V14主板评测",
-        "华为首次公开宣布：MatePad Pro Max搭载Kirin T93 Pro芯片"
-      ]
-    },
-    {
       "topic": "数字经济动态",
-      "count": 24,
-      "sourceCount": 8,
+      "count": 19,
+      "sourceCount": 7,
       "sources": [
         "新浪科技",
         "网易科技",
         "观察者网-产业科技",
-        "中国科学院",
         "中国科学报",
         "人民网-科技",
         "新华网-科技",
@@ -1026,15 +1090,14 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "人形机器人与具身智能",
-      "count": 9,
-      "sourceCount": 7,
+      "count": 8,
+      "sourceCount": 6,
       "sources": [
         "新浪科技",
         "网易科技",
         "观察者网-产业科技",
         "量子位",
         "科技日报",
-        "中国科学院",
         "中国科学报"
       ],
       "items": [
@@ -1047,13 +1110,13 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "科技监管与数据安全",
-      "count": 9,
+      "count": 11,
       "sourceCount": 5,
       "sources": [
         "新浪科技",
         "IT之家",
         "观察者网-产业科技",
-        "量子位",
+        "光明网-科技",
         "中国科学报"
       ],
       "items": [
@@ -1062,6 +1125,25 @@ window.CHENCHEN_DAILY_DATA = {
         "华为 MateView GT 27 英寸高刷版显示器开售：2K 320Hz，首发 1499 元起",
         "打击鬼秤：全国电子计价秤智慧计量监管平台已入驻 6750 家单位，推行“一秤一码”",
         "沃尔沃 XC60 将再迎中期改款车型，测试车曝光"
+      ]
+    },
+    {
+      "topic": "数字基础设施与平台经济",
+      "count": 7,
+      "sourceCount": 5,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "中国科学报",
+        "新华网-科技",
+        "光明网-科技"
+      ],
+      "items": [
+        "数智征途向新而行：林乐博士携零数科技打造数字经济核心引擎",
+        "巨亏千亿 销量暴跌87%！百年豪车换标找华为续命：国内尊界、海外玛莎",
+        "华为鸿蒙 HarmonyOS API26 新版本来袭，面向开发者开放体验官招募",
+        "华为平板中国市场出货量两连冠，鸿蒙办公全链路自主可控优势渐显",
+        "第六届金融科技与数字经济发展高层论坛举行"
       ]
     },
     {
@@ -1078,8 +1160,8 @@ window.CHENCHEN_DAILY_DATA = {
         "优酷上线汽车频道",
         "Stellantis拟与东风成立合资公司 把岚图汽车卖到欧洲",
         "奇瑞汽车：希望在“合适的时机”进入美国市场",
-        "马斯克称特斯拉Cybertruck能当船开？美国车主实测进水后弃车逃逸并遭逮捕",
-        "日产考虑把在华合资电动汽车出口加拿大"
+        "日产考虑把在华合资电动汽车出口加拿大",
+        "挂“寻天”标！小米首款增程SUV今年下半年上市 性价比拉满"
       ]
     },
     {
@@ -1098,41 +1180,6 @@ window.CHENCHEN_DAILY_DATA = {
         "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
         "苏姿丰谈AMD对大中华区承诺：中国生态系统令人兴奋，我们的投资超出了需求",
         "理想汽车获推 OTA 8.5 升级：无需上车，手机一键遥控泊出"
-      ]
-    },
-    {
-      "topic": "数字基础设施与平台经济",
-      "count": 5,
-      "sourceCount": 4,
-      "sources": [
-        "新浪科技",
-        "IT之家",
-        "中国科学报",
-        "新华网-科技"
-      ],
-      "items": [
-        "数智征途向新而行：林乐博士携零数科技打造数字经济核心引擎",
-        "巨亏千亿 销量暴跌87%！百年豪车换标找华为续命：国内尊界、海外玛莎",
-        "华为平板中国市场出货量两连冠，鸿蒙办公全链路自主可控优势渐显",
-        "第六届金融科技与数字经济发展高层论坛举行",
-        "数字样板工程"
-      ]
-    },
-    {
-      "topic": "中美 AI 与科技政策",
-      "count": 5,
-      "sourceCount": 3,
-      "sources": [
-        "网易科技",
-        "TechNode",
-        "中国科学院"
-      ],
-      "items": [
-        "奇安信人工智能公司中标某头部医疗科技集团AI安 18:30",
-        "扎克伯格深度专访：中美AI竞争完全错误，美国别想长期领先中国",
-        "China summons eight EV makers over OTA battery locking practices",
-        "Spanish Prime Minister Pedro Sánchez visits Xiaomi Technology Park in Beijing",
-        "中国科学院—马普学会高层对话会议在京召开"
       ]
     },
     {
@@ -1166,6 +1213,21 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "中美 AI 与科技政策",
+      "count": 4,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "TechNode"
+      ],
+      "items": [
+        "奇安信人工智能公司中标某头部医疗科技集团AI安 18:30",
+        "扎克伯格深度专访：中美AI竞争完全错误，美国别想长期领先中国",
+        "China summons eight EV makers over OTA battery locking practices",
+        "Spanish Prime Minister Pedro Sánchez visits Xiaomi Technology Park in Beijing"
+      ]
+    },
+    {
       "topic": "太空与低空动态",
       "count": 1,
       "sourceCount": 1,
@@ -1178,6 +1240,62 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "AIDC建设正从“通用标准”走向“适",
+      "summary": "林海认为：“在AI时代，智算中心的建设正在从通用标准走向高效适用。”",
+      "source": "光明网-科技",
+      "sources": [
+        "光明网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://tech.gmw.cn/2026-05/20/content_38777240.htm",
+      "sourceUrls": [
+        "https://tech.gmw.cn/2026-05/20/content_38777240.htm"
+      ],
+      "publishedAt": "2026-05-20",
+      "date": "2026-05-20",
+      "category": "监管与安全",
+      "keywords": "data security, privacy protection, regulatory framework",
+      "priority": 5,
+      "score": 118,
+      "format": "live",
+      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
+      "status": "confirmed_today",
+      "matchedTopic": "科技监管与数据安全",
+      "rawText": "林海认为：“在AI时代，智算中心的建设正在从通用标准走向高效适用。”",
+      "relatedTitles": [
+        "AIDC建设正从“通用标准”走向“适"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "中国牵头制定的电力导体材料腐蚀国际标准发布",
+      "summary": "中国牵头制定的电力导体材料腐蚀国际标准发布 中新网北京5月20日电 (记者 刘亮)中国国家市场监管总局20日公布，由中国牵头制定的电力导体材",
+      "source": "光明网-科技",
+      "sources": [
+        "光明网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://tech.gmw.cn/2026-05/20/content_38777136.htm",
+      "sourceUrls": [
+        "https://tech.gmw.cn/2026-05/20/content_38777136.htm"
+      ],
+      "publishedAt": "2026-05-20",
+      "date": "2026-05-20",
+      "category": "科学前沿",
+      "keywords": "scientific research, frontier science, research infrastructure",
+      "priority": 5,
+      "score": 118,
+      "format": "package",
+      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "status": "confirmed_today",
+      "matchedTopic": "科技监管与数据安全",
+      "rawText": "中国牵头制定的电力导体材料腐蚀国际标准发布 中新网北京5月20日电 (记者 刘亮)中国国家市场监管总局20日公布，由中国牵头制定的电力导体材",
+      "relatedTitles": [
+        "中国牵头制定的电力导体材料腐蚀国际标准发布"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "OpenAI世纪诉讼，马斯克输了！",
@@ -1260,34 +1378,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "2026 年5月16日， 全球领先的轻质薄壁结构柔性成形供应商航宇智造与全球工业机器人巨头库卡机器人正式签署战略合作协议。双方宣布建立长期、全面的战略伙伴关系，将围绕“智造赋能·携手共赢”主题，共同探索工业机器人在高端制造领域的深度应用与创...",
       "relatedTitles": [
         "航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "奇安信人工智能公司中标某头部医疗科技集团AI安 18:30",
-      "summary": "奇安信人工智能公司中标某头部医疗科技集团AI安全运营项目,运营,奇安信,企业信息,人工智能公司,医疗科技集团",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KTD3C4OK0512B07B.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/KTD3C4OK0512B07B.html"
-      ],
-      "publishedAt": "2026-05-20",
-      "date": "2026-05-20",
-      "category": "AI",
-      "keywords": "AI applications, large language models, AI governance, productivity",
-      "priority": 5,
-      "score": 110,
-      "format": "package",
-      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
-      "status": "confirmed_today",
-      "matchedTopic": "中美 AI 与科技政策",
-      "rawText": "奇安信人工智能公司中标某头部医疗科技集团AI安全运营项目,运营,奇安信,企业信息,人工智能公司,医疗科技集团",
-      "relatedTitles": [
-        "奇安信人工智能公司中标某头部医疗科技集团AI安 18:30"
       ]
     },
     {
@@ -1683,6 +1773,34 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "奇安信人工智能公司中标某头部医疗科技集团AI安 18:30",
+      "summary": "奇安信人工智能公司中标某头部医疗科技集团AI安全运营项目,运营,奇安信,企业信息,人工智能公司,医疗科技集团",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KTD3C4OK0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KTD3C4OK0512B07B.html"
+      ],
+      "publishedAt": "2026-05-20",
+      "date": "2026-05-20",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 100,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "中美 AI 与科技政策",
+      "rawText": "奇安信人工智能公司中标某头部医疗科技集团AI安全运营项目,运营,奇安信,企业信息,人工智能公司,医疗科技集团",
+      "relatedTitles": [
+        "奇安信人工智能公司中标某头部医疗科技集团AI安 18:30"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "美议员吆喝：谁买美国的不买中国的，给补贴",
       "summary": "【文/观察者网柳白】全球人工智能发展如火如荼，中国力推科技共享，美国却逆势而行，变着法打压中国科技产品出海",
@@ -1861,6 +1979,34 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "三天三夜，5月最“燃”现场，全国科学家故事馆校众创展演将在河南科技馆火热开演",
+      "summary": "2026年5月21日至23日，由中国科协宣传文化部、教育部校外教育培训监管司指导，中国科学技术馆主办河南省科学技术馆承办的“全国科学家故事馆校众创展演活动”，将在河南省科学技术馆连续三天火热开演。",
+      "source": "光明网-科技",
+      "sources": [
+        "光明网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://tech.gmw.cn/2026-05/20/content_38777133.htm",
+      "sourceUrls": [
+        "https://tech.gmw.cn/2026-05/20/content_38777133.htm"
+      ],
+      "publishedAt": "2026-05-20",
+      "date": "2026-05-20",
+      "category": "科学前沿",
+      "keywords": "scientific research, frontier science, research infrastructure",
+      "priority": 5,
+      "score": 93,
+      "format": "package",
+      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "status": "confirmed_today",
+      "matchedTopic": "科技监管与数据安全",
+      "rawText": "2026年5月21日至23日，由中国科协宣传文化部、教育部校外教育培训监管司指导，中国科学技术馆主办河南省科学技术馆承办的“全国科学家故事馆校众创展演活动”，将在河南省科学技术馆连续三天火热开演。",
+      "relatedTitles": [
+        "三天三夜，5月最“燃”现场，全国科学家故事馆校众创展演将在河南科技馆火热开演"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "一文看懂2026年谷歌I/O大会",
       "summary": "Google I/O 2026主题演讲演示了Gemini Spark场景，它自动扫描收件箱、汇总回复、提醒未回复者，是24小时数字助理。其跨应用深度整合，读取多平台信息串联行动，有“Skills”系统，可自定义任务逻辑。Spark信息访问深度大，被授权必要时向第三方共享用户信息，目前处于实验阶段。它将作为AI Ultr",
@@ -2026,6 +2172,34 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "文 丨 《智客星球》 周文猛 刚结束的AMD AI开发者日2026上，零一万物 CEO 李开复与 AMD董事会主席、CEO苏姿丰围绕“AI智能体新范式”展开对话，李开复分享中指出：生成式 AI 正在迈向智能体时代，今年以来，AI编...",
       "relatedTitles": [
         "李开复对话苏姿丰：停止“表演式AI”，企业AI转型是一把手工程，不能只信CIO"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "MDDC 2026：联发科成全栈AI基石，推动全场景智能体体验落地",
+      "summary": "新浪数码讯 近日，联发科在上海举办天玑开发者大会2026（MDDC 2026）。本届大会以“全域芯智能，体验新无界”为主题，围绕智能体AI、移动游戏、智能座舱及开发者生态等方向，展示了天玑平台在全场景智能体验上的最新进展。 在AI...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-05-20/doc-inhyphnm9441604.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/mobile/n/n/2026-05-20/doc-inhyphnm9441604.shtml"
+      ],
+      "publishedAt": "2026-05-20",
+      "date": "2026-05-20",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 92,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "新浪数码讯 近日，联发科在上海举办天玑开发者大会2026（MDDC 2026）。本届大会以“全域芯智能，体验新无界”为主题，围绕智能体AI、移动游戏、智能座舱及开发者生态等方向，展示了天玑平台在全场景智能体验上的最新进展。 在AI...",
+      "relatedTitles": [
+        "MDDC 2026：联发科成全栈AI基石，推动全场景智能体体验落地"
       ]
     },
     {
@@ -2729,6 +2903,34 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "AI时代，当知识不再稀缺，我们该如何学习？",
+      "summary": "北京大学退休教授乔晓春带来题为《AI时代，当知识不再稀缺，我们该如何学习》的主题演讲，直面AI对传统教育体系的根本性挑战，为当代年轻人指明了新的学习方向与成长路径。",
+      "source": "光明网-科技",
+      "sources": [
+        "光明网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://tech.gmw.cn/2026-05/20/content_38777084.htm",
+      "sourceUrls": [
+        "https://tech.gmw.cn/2026-05/20/content_38777084.htm"
+      ],
+      "publishedAt": "2026-05-20",
+      "date": "2026-05-20",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 90,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "北京大学退休教授乔晓春带来题为《AI时代，当知识不再稀缺，我们该如何学习》的主题演讲，直面AI对传统教育体系的根本性挑战，为当代年轻人指明了新的学习方向与成长路径。",
+      "relatedTitles": [
+        "AI时代，当知识不再稀缺，我们该如何学习？"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLnNj",
       "title": "新型蜗牛多糖有望让抗血栓更安全",
       "summary": "作者：朱汉斌 来源：中国科学报 发布时间：2026/5/20 13:35:21 万米深渊发现“石茸”：被忽视的深海碳“热点” 在国家重点研发计划、国家自然科学基金等项目资助下，中国科学院深海科学与工程研究所（以下简称深海所）主导实施的“全球深渊探索计划”，在环大洋洲周边的七个深渊区域，发现了以原生生物占优势的硬基底动物",
@@ -2782,34 +2984,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "来源：科学网 发布时间：2026/5/20 12:57:13 科研绘图教程｜用Illustrator绘制细胞培养皿 从常见元素开始，精美论文插图自己画！ 科学网科学可视化团队设计师具有十多年一线科研绘图经验，绘制的图片多次登上国际顶刊。 今天这一期教程，手把手带大家在 Adobe Illustrator中绘制 细胞培养皿 。请点赞、收藏、转发三连！ 更多教程： 教你画细菌结构 教你画核小体 教你画水凝胶 教你画DNA链 教你画噬菌体 教你画淋巴结（下） 教你画淋巴结（中） 教你画淋巴结（上） 教你画线粒体 科研绘图配色教程 1. 绘制培养皿 使用椭圆工具，绘制培养皿外形，选中绘制出来的椭圆，使",
       "relatedTitles": [
         "科研绘图教程｜用Illustrator绘制细胞培养皿"
-      ]
-    },
-    {
-      "id": "aHR0cDovL25ld3Muc2Np",
-      "title": "河大校长：以“大国际育人观”优化高校顶层设计",
-      "summary": "作者：孟庆瑜 来源：中国科学报 发布时间：2026/5/20 17:36:03 河大校长：以“大国际育人观”优化高校顶层设计 当前，“扩大高水平教育对外开放”已经被纳入“十五五”规划，为新时代高水平教育对外开放提供了根本遵循。《教育强国建设规划纲要（2024—2035年）》也明确提出“完善教育对外开放战略策略，建设具有",
-      "source": "中国科学报",
-      "sources": [
-        "中国科学报"
-      ],
-      "sourceTier": "research",
-      "url": "http://news.sciencenet.cn/htmlnews/2026/5/565021.shtm",
-      "sourceUrls": [
-        "http://news.sciencenet.cn/htmlnews/2026/5/565021.shtm"
-      ],
-      "publishedAt": "2026-05-20",
-      "date": "2026-05-20",
-      "category": "监管与安全",
-      "keywords": "data security, privacy protection, regulatory framework",
-      "priority": 5,
-      "score": 89,
-      "format": "live",
-      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
-      "status": "confirmed_today",
-      "matchedTopic": "监管与安全动态",
-      "rawText": "作者：孟庆瑜 来源：中国科学报 发布时间：2026/5/20 17:36:03 河大校长：以“大国际育人观”优化高校顶层设计 当前，“扩大高水平教育对外开放”已经被纳入“十五五”规划，为新时代高水平教育对外开放提供了根本遵循。《教育强国建设规划纲要（2024—2035年）》也明确提出“完善教育对外开放战略策略，建设具有全球影响力的重要教育中心”。作为深化高水平国际教育合作的重要载体，高校肩负着践行科学育人理念、培养高质量国际化人才的时代使命，其实践成效直接关系我国高等教育对外开放发展质量，对加快建成世界教育中心和人才中心具有重要意义。 河北大学作为一所兼具百余年历史、国际化基因、综合性大学特质",
-      "relatedTitles": [
-        "河大校长：以“大国际育人观”优化高校顶层设计"
       ]
     },
     {
@@ -3317,174 +3491,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "氨分解制绿氢催化剂研究获进展",
-      "summary": "首页 > 科研进展 氢能作为零碳高效二次能源，具有广阔应用前景。Ru基催化剂凭借其独特的几何构型和电子性质，在氨分解制氢领域展现出突出的催化优势。 近日，中国科学院兰州化学物理研究所创新性地在TS-1分子筛骨架中原位构筑Ti空位，精准调控Ru物种的几何和电子结构，为Ru基催化剂设计提供新策略。 表征结果表明，TS分子筛",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/syky/202605/t20260519_5109948.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/syky/202605/t20260519_5109948.shtml"
-      ],
-      "publishedAt": "2026-05-20",
-      "date": "2026-05-20",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 85,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "首页 > 科研进展 氢能作为零碳高效二次能源，具有广阔应用前景。Ru基催化剂凭借其独特的几何构型和电子性质，在氨分解制氢领域展现出突出的催化优势。 近日，中国科学院兰州化学物理研究所创新性地在TS-1分子筛骨架中原位构筑Ti空位，精准调控Ru物种的几何和电子结构，为Ru基催化剂设计提供新策略。 表征结果表明，TS分子筛中Ti空位的构筑可调控Ru纳米颗粒的几何构型，提高其分散度和B5位点浓度。更重要的是，Ti空位可增强TS分子筛与Ru物种之间的金属-载体相互作用，优化Ru与TS分子筛之间的电子转移，调控Ru位点的电子结构，并诱导形成更多高活性Ru 0 -O v -Ti 3+ 界面。 原位DRIF",
-      "relatedTitles": [
-        "氨分解制绿氢催化剂研究获进展"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "铍-9离子精密测量研究取得进展",
-      "summary": "首页 > 科研进展 铍-9离子作为少体三电子体系，既可被量子电动力学理论高精度计算，也可直接被激光冷却形成库仑晶体。在该库仑晶体中，离子具有高度局域化和集体辐射的特点，有助于提升光谱测量的信噪比。铍-9离子具有较高的荷质比，是小质量离子和高离化态离子的理想冷却剂，其核自旋为3/2，通过对离子的超精细结构测量可以反演出核",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/syky/202605/t20260519_5109947.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/syky/202605/t20260519_5109947.shtml"
-      ],
-      "publishedAt": "2026-05-20",
-      "date": "2026-05-20",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 85,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "首页 > 科研进展 铍-9离子作为少体三电子体系，既可被量子电动力学理论高精度计算，也可直接被激光冷却形成库仑晶体。在该库仑晶体中，离子具有高度局域化和集体辐射的特点，有助于提升光谱测量的信噪比。铍-9离子具有较高的荷质比，是小质量离子和高离化态离子的理想冷却剂，其核自旋为3/2，通过对离子的超精细结构测量可以反演出核结构信息。 近日，中国科学院精密测量科学与技术创新研究院研究团队在铍-9离子精密光谱测量研究中取得进展。研究团队在线型离子阱中通过多脉冲对离子态进行制备，实现铍离子基态超精细磁不敏感跃迁测量，成功将弱磁场下铍离子基态超精细常数测量精度提升一个数量级。 目前，关于铍离子电子基态超精",
-      "relatedTitles": [
-        "铍-9离子精密测量研究取得进展"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "研究揭示树种多样性抑制土壤激发效应",
-      "summary": "首页 > 科研进展 土壤有机碳稳定性是陆地生态系统碳汇可持续性的核心，新鲜碳输入引发的激发效应可加速原有土壤碳分解，是决定土壤碳保持或流失的关键过程。 近日，中国科学院亚热带农业生态研究所首次在亚热带喀斯特森林证实，树种多样性可显著抑制土壤有机碳激发效应，并阐明了以 “缓解微生物能量限制—功能类群转型—基因表达重构” ",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/syky/202605/t20260519_5109949.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/syky/202605/t20260519_5109949.shtml"
-      ],
-      "publishedAt": "2026-05-20",
-      "date": "2026-05-20",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 85,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "首页 > 科研进展 土壤有机碳稳定性是陆地生态系统碳汇可持续性的核心，新鲜碳输入引发的激发效应可加速原有土壤碳分解，是决定土壤碳保持或流失的关键过程。 近日，中国科学院亚热带农业生态研究所首次在亚热带喀斯特森林证实，树种多样性可显著抑制土壤有机碳激发效应，并阐明了以 “缓解微生物能量限制—功能类群转型—基因表达重构” 为核心的协同调控新机制，为生物多样性提升与森林碳汇增汇协同提供了关键理论支撑。 研究系统解析激发效应的驱动格局与调控路径。结果显示，随着树种多样性升高，土壤激发效应呈显著线性下降，由强正激发逐步转为弱激发甚至负激发；在严格控制环境因子、林分结构与菌根类型后，该关系依然稳健，证实树",
-      "relatedTitles": [
-        "研究揭示树种多样性抑制土壤激发效应"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "新型多功能水性环氧防腐涂层研究取得进展",
-      "summary": "首页 > 科研进展 海洋环境是腐蚀防护领域最具挑战性的应用场景，其高盐、高湿特性对船舶、海洋平台及沿海基础设施构成持续威胁。水性环氧涂层因低VOC排放和强附着力特性被广泛应用于金属防护领域，但其固化过程中形成的微孔缺陷会加速腐蚀介质渗透，导致涂层过早失效。MXene、石墨烯等二维材料虽可增强涂层性能，但单一材料存在分散",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/syky/202605/t20260515_5109775.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/syky/202605/t20260515_5109775.shtml"
-      ],
-      "publishedAt": "2026-05-20",
-      "date": "2026-05-20",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 85,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "首页 > 科研进展 海洋环境是腐蚀防护领域最具挑战性的应用场景，其高盐、高湿特性对船舶、海洋平台及沿海基础设施构成持续威胁。水性环氧涂层因低VOC排放和强附着力特性被广泛应用于金属防护领域，但其固化过程中形成的微孔缺陷会加速腐蚀介质渗透，导致涂层过早失效。MXene、石墨烯等二维材料虽可增强涂层性能，但单一材料存在分散性差、电偶腐蚀风险等问题，多组分协同增强仍是行业亟待突破的技术难点。 近期，中国科学院海洋研究所等研究团队，通过界面工程策略将石墨烯量子点（GQD）与MXene超薄纳米片构筑成异质结构，并作为多功能填料引入水性环氧涂层体系。该研究突破了传统单一材料的性能局限，通过GQD与MXen",
-      "relatedTitles": [
-        "新型多功能水性环氧防腐涂层研究取得进展"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "脑智卓越中心举办公众科学日",
-      "summary": "首页 > 科学普及 > 工作动态 5月15日至17日，中国科学院脑科学与智能技术卓越创新中心等以“脑智擘未来”为主题，通过科普市集、科学家精神演讲、实验室开放、科普报告进校园、实验室探访直播等形式，举办公众科学日。 5 月 15 日，“脑智擘未来”科普市集设置“脑电对抗与协作”“意念球场”“力量召唤闪电”“会跳舞的蟑螂",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/kx/gz/202605/t20260519_5109936.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/kx/gz/202605/t20260519_5109936.shtml"
-      ],
-      "publishedAt": "2026-05-20",
-      "date": "2026-05-20",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 85,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "首页 > 科学普及 > 工作动态 5月15日至17日，中国科学院脑科学与智能技术卓越创新中心等以“脑智擘未来”为主题，通过科普市集、科学家精神演讲、实验室开放、科普报告进校园、实验室探访直播等形式，举办公众科学日。 5 月 15 日，“脑智擘未来”科普市集设置“脑电对抗与协作”“意念球场”“力量召唤闪电”“会跳舞的蟑螂腿”“感觉敏锐度”等板块。 同日举办“脑智强国”科学家精神教育基地主题演讲。活动还开设了 “躯体感觉”板块、“寻觅脑中的森林”板块以及 斑马鱼知识小课堂。 5 月 17 日，线上 直播活动带领公众探访“脑疾病 & 脑健康”系列主题实验室。 5月以来，脑智卓越中心组织多位青年科研人",
-      "relatedTitles": [
-        "脑智卓越中心举办公众科学日"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "兰州化物所党委专题学习习近平总书记在加强基础研究座谈会上的重要讲话精神",
-      "summary": "首页 > 党建与科学文化 > 工作动态 5月12日，中国科学院兰州化学物理研究所党委理论学习中心组召开科技创新专题学习（扩大）会，深入学习贯彻习近平总书记在加强基础研究座谈会上的重要讲话精神。所党委委员、纪委委员、领导班子成员和各实验室（中心）正副主任、管理与支撑部门正副处长参加学习。会议由党委书记王齐华主持。 王齐华",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/djcx/gz/202605/t20260520_5110084.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/djcx/gz/202605/t20260520_5110084.shtml"
-      ],
-      "publishedAt": "2026-05-20",
-      "date": "2026-05-20",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 85,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "首页 > 党建与科学文化 > 工作动态 5月12日，中国科学院兰州化学物理研究所党委理论学习中心组召开科技创新专题学习（扩大）会，深入学习贯彻习近平总书记在加强基础研究座谈会上的重要讲话精神。所党委委员、纪委委员、领导班子成员和各实验室（中心）正副主任、管理与支撑部门正副处长参加学习。会议由党委书记王齐华主持。 王齐华领学了习近平总书记在加强基础研究座谈会上的重要讲话精神，传达学习了丁薛祥副总理在福建、上海、北京调研基础研究时的指示要求和中国科学院党组贯彻落实要求。与会人员集体观看了专题片《为有源头活水来——习近平总书记指引基础研究高质量发展》。 在研讨环节，与会人员紧密结合研究所科研工作实际",
-      "relatedTitles": [
-        "兰州化物所党委专题学习习近平总书记在加强基础研究座谈会上的重要讲话精神"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly90ZWNoLmdt",
       "title": "用科普赋予科学以意义",
       "summary": "科学的意义，在于为人类搭建起认知世界的框架，驱散蒙昧、指引方向。",
@@ -3523,9 +3529,7 @@ window.CHENCHEN_DAILY_DATA = {
       "sourceTier": "research",
       "url": "https://news.sciencenet.cn/htmlnews/2026/5/565020.shtm",
       "sourceUrls": [
-        "https://news.sciencenet.cn/htmlnews/2026/5/565020.shtm",
-        "https://news.sciencenet.cn/htmlnews/2026/5/564962.shtm",
-        "https://news.sciencenet.cn/htmlnews/2026/5/564956.shtm"
+        "https://news.sciencenet.cn/htmlnews/2026/5/565020.shtm"
       ],
       "publishedAt": "2026-05-20",
       "date": "2026-05-20",
@@ -3539,8 +3543,35 @@ window.CHENCHEN_DAILY_DATA = {
       "matchedTopic": "科学前沿动态",
       "rawText": "作者：朴姜 来源：澎湃新闻 发布时间：2026/5/20 17:35:15 金俊峰任上海市农业科学院党委书记 据上海市农业科学院官网消息，5月20日，上海市农业科学院召开干部大会，会上宣读干部任免决定：市委决定，金俊峰同志任中共上海市农业科学院委员会书记，免去蔡友铭同志的中共上海市农业科学院委员会书记职务；市政府决定，免去蔡友铭同志上海市农业科学院院长职务。 公开履历显示，金俊峰，男，汉族，1970年12月生，大学，公共管理硕士，中共党员，曾任青浦区行政学院院长，青浦区委常委、副区长，金山区委副书记、一级巡视员等。 此前，“上海发布”微信公众号于4月29日发布市管干部任职前公示，金俊峰拟任市属",
       "relatedTitles": [
-        "金俊峰任上海市农业科学院党委书记",
-        "中国科学院天津工业生物技术研究所糖生物合成与绿色制造攻关团队的研究成果被期刊接收，开发的转化甲醇合成甘露醇技术得到了认可。近日，团队获得了2026年度中国青年五四奖章。"
+        "金俊峰任上海市农业科学院党委书记"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLnNj",
+      "title": "攻关代糖，“甜”而不“胖”",
+      "summary": "作者：刘如楠 来源：中国科学报 发布时间：2026/5/20 9:23:50 攻关代糖，“甜”而不“胖” 本报记者 刘如楠 近日，中国科学院天津工业生物技术研究所（以下简称天津工生所）糖生物合成与绿色制造攻关团队的研究成果被期刊接收。这表明团队开发的转化甲醇合成甘露醇技术得到了同行的认可。 研究健康糖，最根本的目的是满",
+      "source": "中国科学报",
+      "sources": [
+        "中国科学报"
+      ],
+      "sourceTier": "research",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/5/564962.shtm",
+      "sourceUrls": [
+        "https://news.sciencenet.cn/htmlnews/2026/5/564962.shtm"
+      ],
+      "publishedAt": "2026-05-20",
+      "date": "2026-05-20",
+      "category": "监管与安全",
+      "keywords": "data security, privacy protection, regulatory framework",
+      "priority": 5,
+      "score": 79,
+      "format": "live",
+      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
+      "status": "confirmed_today",
+      "matchedTopic": "监管与安全动态",
+      "rawText": "作者：刘如楠 来源：中国科学报 发布时间：2026/5/20 9:23:50 攻关代糖，“甜”而不“胖” 本报记者 刘如楠 近日，中国科学院天津工业生物技术研究所（以下简称天津工生所）糖生物合成与绿色制造攻关团队的研究成果被期刊接收。这表明团队开发的转化甲醇合成甘露醇技术得到了同行的认可。 研究健康糖，最根本的目的是满足人们“想要糖的甜蜜，但不想变胖、不想长虫牙、不想得糖尿病”的美好愿望。至今，团队已开发了阿洛酮糖、甘露糖、功能寡糖等10余种健康糖绿色制造工艺，有的已经通过了国家新食品原料审批，有的正在寻求产业化合作，有的处在实验改造阶段…… 近日，团队获得了2026年度中国青年五四奖章。 要",
+      "relatedTitles": [
+        "攻关代糖，“甜”而不“胖”"
       ]
     },
     {
@@ -3849,34 +3880,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "快科技5月20日消息，Waymo自动驾驶出租车运行顺畅时，表现极为亮眼，可一旦出现故障，场面就会变得十分滑稽。近期，美国佐治亚州亚特兰大市巴克黑德社区的居民反映，多辆Waymo自动驾驶出租车频繁无故驶入当地死胡同。10分钟13辆，1小时50...",
       "relatedTitles": [
         "Waymo无人出租车集体迷路了：一小时50辆车挤进死胡同"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "马斯克称特斯拉Cybertruck能当船开？美国车主实测进水后弃车逃逸并遭逮捕",
-      "summary": "5 月 20 日消息，在 2022 年，马斯克曾表示 Cybertruck“将具备足够的防水性，可以短暂充当船只，能够穿越河流、湖泊甚至不太汹涌的海域”。但在 Cybertruck 正式发布时，特斯拉仅推出了适用于浅水环境的“涉水模式”功能...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxkf1628233.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxkf1628233.shtml"
-      ],
-      "publishedAt": "2026-05-20",
-      "date": "2026-05-20",
-      "category": "新能源车",
-      "keywords": "EVs, smart mobility, battery technology, globalization",
-      "priority": 5,
-      "score": 77,
-      "format": "video",
-      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "5 月 20 日消息，在 2022 年，马斯克曾表示 Cybertruck“将具备足够的防水性，可以短暂充当船只，能够穿越河流、湖泊甚至不太汹涌的海域”。但在 Cybertruck 正式发布时，特斯拉仅推出了适用于浅水环境的“涉水模式”功能...",
-      "relatedTitles": [
-        "马斯克称特斯拉Cybertruck能当船开？美国车主实测进水后弃车逃逸并遭逮捕"
       ]
     },
     {
@@ -4246,6 +4249,34 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "算力网夯实智能经济根基-\"“算力网纳入国家六大基础网络，将成为培育新质生产力、落地‘人工智能+’行动最核心的底层支撑。\"",
       "relatedTitles": [
         "算力网夯实智能经济根基"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "恐龙骨头里藏着什么秘密？骨组织学解锁史前生命密码",
+      "summary": "近日，2026搜狐科技年度论坛期间，中国科学院古脊椎动物与古人类研究所副研究员、中国古动物馆（保定博物馆）学术副馆长赵祺带来题为《藏在恐龙骨头里的秘密》的科普演讲",
+      "source": "光明网-科技",
+      "sources": [
+        "光明网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://tech.gmw.cn/2026-05/20/content_38777074.htm",
+      "sourceUrls": [
+        "https://tech.gmw.cn/2026-05/20/content_38777074.htm"
+      ],
+      "publishedAt": "2026-05-20",
+      "date": "2026-05-20",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "priority": 5,
+      "score": 75,
+      "format": "graphic",
+      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字经济动态",
+      "rawText": "近日，2026搜狐科技年度论坛期间，中国科学院古脊椎动物与古人类研究所副研究员、中国古动物馆（保定博物馆）学术副馆长赵祺带来题为《藏在恐龙骨头里的秘密》的科普演讲",
+      "relatedTitles": [
+        "恐龙骨头里藏着什么秘密？骨组织学解锁史前生命密码"
       ]
     },
     {
@@ -4684,6 +4715,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Space factories edge closer after experimental capsule survives hypersonic landing",
+      "summary": "Varda hails success of autonomous touchdown tech and celebrates heat data haul",
+      "source": "The Register",
+      "url": "https://www.theregister.com/science/2026/05/20/space-factories-edge-closer-after-experimental-capsule-survives-hypersonic-landing/5243140",
+      "publishedAt": "Wed, 20 May 2026 08:21:07 +0200",
+      "date": "2026-05-20",
+      "region": "Europe",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
+      "priority": 4,
+      "score": 61,
+      "status": "confirmed_today"
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Google Cloud suspended major customer Railway.com without cause, causing outage",
       "summary": "This is the service we get when we spend $10m plus? asks automated code deployment outfit",
       "source": "The Register",
@@ -4970,27 +5018,10 @@ window.CHENCHEN_DAILY_DATA = {
       "priority": 4,
       "score": 60,
       "status": "confirmed_today"
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "This tool lets you purge Windows 11 of all AI bloat features",
-      "summary": "Microsoft's chatbot Copilot is appearing in more and more places in Windows 11, and that's just the start of it. From the Edge browser to the Photos app and the Paint graphics soft",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/copilot/articles/tool-lets-purge-windows-11-091038108.html",
-      "publishedAt": "2026-05-20",
-      "date": "2026-05-20",
-      "region": "US",
-      "category": "AI",
-      "keywords": "AI applications, large language models, AI governance, productivity",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
-      "priority": 4,
-      "score": 60,
-      "status": "confirmed_today"
     }
   ],
-  "brief": "ChenChen 今日中国科技热点｜2026-05-20｜v2\n生成时间：2026/5/20 18:34:44\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2610｜确认今日 110｜国际背景 40\n\n本次更新：\n新增核心线索：国内 89 条｜国际 12 条\n延续跟踪线索：国内 21 条｜国际 28 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-20] OpenAI世纪诉讼，马斯克输了！\n   新浪科技｜2026-05-20｜https://finance.sina.com.cn/wm/2026-05-20/doc-inhynvwr9538500.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-20] 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群\n   新浪科技｜2026-05-20｜https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-20] 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合\n   新浪科技｜2026-05-20｜https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-05-20] 奇安信人工智能公司中标某头部医疗科技集团AI安 18:30\n   网易科技｜2026-05-20｜https://www.163.com/dy/article/KTD3C4OK0512B07B.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-05-20] 青岛崂山区：锻造机器人产业新势能\n   科技日报｜2026-05-20｜https://www.stdaily.com/web/gdxw/2026-05/20/content_519676.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群｜新浪科技｜https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml\n- 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml\n- 奇安信人工智能公司中标某头部医疗科技集团AI安 18:30｜网易科技｜https://www.163.com/dy/article/KTD3C4OK0512B07B.html\n- 青岛崂山区：锻造机器人产业新势能｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/20/content_519676.html\n- 菲律宾批准高铁锌转基因大米｜中国科学报｜http://news.sciencenet.cn/htmlnews/2026/5/565017.shtm\n- Ugreen Packs A Punch With Its Latest Nexode And MagFlow Air Chargers｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/ugreen-packs-punch-latest-nexode-070000080.html\n\n今日热点方向：\n- AI 应用：AI动态（84 条，11 个来源）\n- 芯片/半导体：半导体供应链（27 条，8 个来源）\n- 机器人/具身智能：人形机器人与具身智能（9 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（21 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，3 个来源）\n- 科学前沿：科学前沿动态（25 条，9 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Demis Hassabis Thinks AI Job Cuts Are Dumb｜WIRED Business｜https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/\n2. Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims｜TechCrunch｜https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/\n3. Agentic app coding gets an upgrade with Google’s release of Android CLI｜TechCrunch｜https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/\n4. Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more｜Ars Technica｜https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/\n5. 8 Of The Best AirPlay Speakers You Can Buy｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/8-best-airplay-speakers-buy-200200277.html",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-20｜v2\n生成时间：2026/5/20 18:34:44\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2610｜确认今日 110｜国际背景 40\n\n本次更新：\n新增核心线索：国内 89 条｜国际 12 条\n延续跟踪线索：国内 21 条｜国际 28 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-20] OpenAI世纪诉讼，马斯克输了！\n   新浪科技｜2026-05-20｜https://finance.sina.com.cn/wm/2026-05-20/doc-inhynvwr9538500.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-20] 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群\n   新浪科技｜2026-05-20｜https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-20] 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合\n   新浪科技｜2026-05-20｜https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-05-20] 奇安信人工智能公司中标某头部医疗科技集团AI安 18:30\n   网易科技｜2026-05-20｜https://www.163.com/dy/article/KTD3C4OK0512B07B.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-05-20] 青岛崂山区：锻造机器人产业新势能\n   科技日报｜2026-05-20｜https://www.stdaily.com/web/gdxw/2026-05/20/content_519676.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群｜新浪科技｜https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml\n- 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml\n- 奇安信人工智能公司中标某头部医疗科技集团AI安 18:30｜网易科技｜https://www.163.com/dy/article/KTD3C4OK0512B07B.html\n- 青岛崂山区：锻造机器人产业新势能｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/20/content_519676.html\n- 菲律宾批准高铁锌转基因大米｜中国科学报｜http://news.sciencenet.cn/htmlnews/2026/5/565017.shtm\n- Ugreen Packs A Punch With Its Latest Nexode And MagFlow Air Chargers｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/ugreen-packs-punch-latest-nexode-070000080.html\n\n今日热点方向：\n- AI 应用：AI动态（84 条，11 个来源）\n- 芯片/半导体：半导体供应链（27 条，8 个来源）\n- 机器人/具身智能：人形机器人与具身智能（9 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（21 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，3 个来源）\n- 科学前沿：科学前沿动态（25 条，9 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Demis Hassabis Thinks AI Job Cuts Are Dumb｜WIRED Business｜https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/\n2. Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims｜TechCrunch｜https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/\n3. Agentic app coding gets an upgrade with Google’s release of Android CLI｜TechCrunch｜https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/\n4. Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more｜Ars Technica｜https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/\n5. 8 Of The Best AirPlay Speakers You Can Buy｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/8-best-airplay-speakers-buy-200200277.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-20｜生成时间：2026/5/20 18:34:44｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2610｜确认今日 110｜国际背景 40</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 89 条｜国际 12 条<br>延续跟踪线索：国内 21 条｜国际 28 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-20] OpenAI世纪诉讼，马斯克输了！</strong>\n      <span>新浪科技｜2026-05-20｜<a href=\"https://finance.sina.com.cn/wm/2026-05-20/doc-inhynvwr9538500.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-20] 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群</strong>\n      <span>新浪科技｜2026-05-20｜<a href=\"https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-20] 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合</strong>\n      <span>新浪科技｜2026-05-20｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-20] 奇安信人工智能公司中标某头部医疗科技集团AI安 18:30</strong>\n      <span>网易科技｜2026-05-20｜<a href=\"https://www.163.com/dy/article/KTD3C4OK0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-20] 青岛崂山区：锻造机器人产业新势能</strong>\n      <span>科技日报｜2026-05-20｜<a href=\"https://www.stdaily.com/web/gdxw/2026-05/20/content_519676.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Demis Hassabis Thinks AI Job Cuts Are Dumb</strong>\n      <span>时间：Tue, 19 May 2026 17:45:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims</strong>\n      <span>时间：Tue, 19 May 2026 20:11:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Agentic app coding gets an upgrade with Google’s release of Android CLI</strong>\n      <span>时间：Tue, 19 May 2026 17:45:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more</strong>\n      <span>时间：Tue, 19 May 2026 18:37:02 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. 8 Of The Best AirPlay Speakers You Can Buy</strong>\n      <span>时间：2026-05-20｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/audio/articles/8-best-airplay-speakers-buy-200200277.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/20 18:34:44\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 89 条｜国际 12 条\n延续跟踪线索：国内 21 条｜国际 28 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-20] OpenAI世纪诉讼，马斯克输了！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/wm/2026-05-20/doc-inhynvwr9538500.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-20] 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-20] 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-05-20] 奇安信人工智能公司中标某头部医疗科技集团AI安 18:30\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KTD3C4OK0512B07B.html\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-05-20] 青岛崂山区：锻造机器人产业新势能\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-05/20/content_519676.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群｜新浪科技｜https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml\n- 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml\n- 奇安信人工智能公司中标某头部医疗科技集团AI安 18:30｜网易科技｜https://www.163.com/dy/article/KTD3C4OK0512B07B.html\n- 青岛崂山区：锻造机器人产业新势能｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/20/content_519676.html\n- 菲律宾批准高铁锌转基因大米｜中国科学报｜http://news.sciencenet.cn/htmlnews/2026/5/565017.shtm\n- Ugreen Packs A Punch With Its Latest Nexode And MagFlow Air Chargers｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/ugreen-packs-punch-latest-nexode-070000080.html\n\n今日热点方向：\n- AI 应用：AI动态（84 条，11 个来源）\n- 芯片/半导体：半导体供应链（27 条，8 个来源）\n- 机器人/具身智能：人形机器人与具身智能（9 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（21 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，3 个来源）\n- 科学前沿：科学前沿动态（25 条，9 个来源）\n\n国际科技背景：\n1. Demis Hassabis Thinks AI Job Cuts Are Dumb｜WIRED Business｜https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/\n2. Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims｜TechCrunch｜https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/\n3. Agentic app coding gets an upgrade with Google’s release of Android CLI｜TechCrunch｜https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/\n4. Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more｜Ars Technica｜https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/\n5. 8 Of The Best AirPlay Speakers You Can Buy｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/8-best-airplay-speakers-buy-200200277.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "ChenChen 今日中国科技热点｜2026-05-20｜v2\n生成时间：2026/5/20 18:41:52\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2537｜确认今日 109｜国际背景 40\n\n本次更新：\n新增核心线索：国内 7 条｜国际 1 条\n延续跟踪线索：国内 102 条｜国际 39 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-20] AIDC建设正从“通用标准”走向“适\n   光明网-科技｜2026-05-20｜https://tech.gmw.cn/2026-05/20/content_38777240.htm\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-20] 中国牵头制定的电力导体材料腐蚀国际标准发布\n   光明网-科技｜2026-05-20｜https://tech.gmw.cn/2026-05/20/content_38777136.htm\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n3. [2026-05-20] OpenAI世纪诉讼，马斯克输了！\n   新浪科技｜2026-05-20｜https://finance.sina.com.cn/wm/2026-05-20/doc-inhynvwr9538500.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n4. [2026-05-20] 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群\n   新浪科技｜2026-05-20｜https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-05-20] 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合\n   新浪科技｜2026-05-20｜https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- AIDC建设正从“通用标准”走向“适｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777240.htm\n- 中国牵头制定的电力导体材料腐蚀国际标准发布｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777136.htm\n- 三天三夜，5月最“燃”现场，全国科学家故事馆校众创展演将在河南科技馆火热开演｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777133.htm\n- MDDC 2026：联发科成全栈AI基石，推动全场景智能体体验落地｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-20/doc-inhyphnm9441604.shtml\n- AI时代，当知识不再稀缺，我们该如何学习？｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777084.htm\n- Space factories edge closer after experimental capsule survives hypersonic landing｜The Register｜https://www.theregister.com/science/2026/05/20/space-factories-edge-closer-after-experimental-capsule-survives-hypersonic-landing/5243140\n\n今日热点方向：\n- AI 应用：AI动态（90 条，12 个来源）\n- 芯片/半导体：半导体供应链（30 条，9 个来源）\n- 机器人/具身智能：人形机器人与具身智能（8 条，6 个来源）\n- 新能源车/智能驾驶：新能源车动态（21 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（21 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Demis Hassabis Thinks AI Job Cuts Are Dumb｜WIRED Business｜https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/\n2. Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims｜TechCrunch｜https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/\n3. Agentic app coding gets an upgrade with Google’s release of Android CLI｜TechCrunch｜https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/\n4. Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more｜Ars Technica｜https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/\n5. 8 Of The Best AirPlay Speakers You Can Buy｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/8-best-airplay-speakers-buy-200200277.html",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-20｜v2\n生成时间：2026/5/20 18:41:52\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2537｜确认今日 109｜国际背景 40\n\n本次更新：\n新增核心线索：国内 7 条｜国际 1 条\n延续跟踪线索：国内 102 条｜国际 39 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-20] AIDC建设正从“通用标准”走向“适\n   光明网-科技｜2026-05-20｜https://tech.gmw.cn/2026-05/20/content_38777240.htm\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-20] 中国牵头制定的电力导体材料腐蚀国际标准发布\n   光明网-科技｜2026-05-20｜https://tech.gmw.cn/2026-05/20/content_38777136.htm\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n3. [2026-05-20] OpenAI世纪诉讼，马斯克输了！\n   新浪科技｜2026-05-20｜https://finance.sina.com.cn/wm/2026-05-20/doc-inhynvwr9538500.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n4. [2026-05-20] 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群\n   新浪科技｜2026-05-20｜https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-05-20] 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合\n   新浪科技｜2026-05-20｜https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- AIDC建设正从“通用标准”走向“适｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777240.htm\n- 中国牵头制定的电力导体材料腐蚀国际标准发布｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777136.htm\n- 三天三夜，5月最“燃”现场，全国科学家故事馆校众创展演将在河南科技馆火热开演｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777133.htm\n- MDDC 2026：联发科成全栈AI基石，推动全场景智能体体验落地｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-20/doc-inhyphnm9441604.shtml\n- AI时代，当知识不再稀缺，我们该如何学习？｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777084.htm\n- Space factories edge closer after experimental capsule survives hypersonic landing｜The Register｜https://www.theregister.com/science/2026/05/20/space-factories-edge-closer-after-experimental-capsule-survives-hypersonic-landing/5243140\n\n今日热点方向：\n- AI 应用：AI动态（90 条，12 个来源）\n- 芯片/半导体：半导体供应链（30 条，9 个来源）\n- 机器人/具身智能：人形机器人与具身智能（8 条，6 个来源）\n- 新能源车/智能驾驶：新能源车动态（21 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（21 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Demis Hassabis Thinks AI Job Cuts Are Dumb｜WIRED Business｜https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/\n2. Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims｜TechCrunch｜https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/\n3. Agentic app coding gets an upgrade with Google’s release of Android CLI｜TechCrunch｜https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/\n4. Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more｜Ars Technica｜https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/\n5. 8 Of The Best AirPlay Speakers You Can Buy｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/8-best-airplay-speakers-buy-200200277.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-20｜生成时间：2026/5/20 18:41:52｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2537｜确认今日 109｜国际背景 40</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 7 条｜国际 1 条<br>延续跟踪线索：国内 102 条｜国际 39 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-20] AIDC建设正从“通用标准”走向“适</strong>\n      <span>光明网-科技｜2026-05-20｜<a href=\"https://tech.gmw.cn/2026-05/20/content_38777240.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-20] 中国牵头制定的电力导体材料腐蚀国际标准发布</strong>\n      <span>光明网-科技｜2026-05-20｜<a href=\"https://tech.gmw.cn/2026-05/20/content_38777136.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-20] OpenAI世纪诉讼，马斯克输了！</strong>\n      <span>新浪科技｜2026-05-20｜<a href=\"https://finance.sina.com.cn/wm/2026-05-20/doc-inhynvwr9538500.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-20] 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群</strong>\n      <span>新浪科技｜2026-05-20｜<a href=\"https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-20] 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合</strong>\n      <span>新浪科技｜2026-05-20｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Demis Hassabis Thinks AI Job Cuts Are Dumb</strong>\n      <span>时间：Tue, 19 May 2026 17:45:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims</strong>\n      <span>时间：Tue, 19 May 2026 20:11:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Agentic app coding gets an upgrade with Google’s release of Android CLI</strong>\n      <span>时间：Tue, 19 May 2026 17:45:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more</strong>\n      <span>时间：Tue, 19 May 2026 18:37:02 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. 8 Of The Best AirPlay Speakers You Can Buy</strong>\n      <span>时间：2026-05-20｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/audio/articles/8-best-airplay-speakers-buy-200200277.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/20 18:41:52\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 7 条｜国际 1 条\n延续跟踪线索：国内 102 条｜国际 39 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-20] AIDC建设正从“通用标准”走向“适\n   来源：光明网-科技\n   链接：https://tech.gmw.cn/2026-05/20/content_38777240.htm\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-20] 中国牵头制定的电力导体材料腐蚀国际标准发布\n   来源：光明网-科技\n   链接：https://tech.gmw.cn/2026-05/20/content_38777136.htm\n   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n3. [2026-05-20] OpenAI世纪诉讼，马斯克输了！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/wm/2026-05-20/doc-inhynvwr9538500.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n4. [2026-05-20] 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-05-20] 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- AIDC建设正从“通用标准”走向“适｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777240.htm\n- 中国牵头制定的电力导体材料腐蚀国际标准发布｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777136.htm\n- 三天三夜，5月最“燃”现场，全国科学家故事馆校众创展演将在河南科技馆火热开演｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777133.htm\n- MDDC 2026：联发科成全栈AI基石，推动全场景智能体体验落地｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-20/doc-inhyphnm9441604.shtml\n- AI时代，当知识不再稀缺，我们该如何学习？｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777084.htm\n- Space factories edge closer after experimental capsule survives hypersonic landing｜The Register｜https://www.theregister.com/science/2026/05/20/space-factories-edge-closer-after-experimental-capsule-survives-hypersonic-landing/5243140\n\n今日热点方向：\n- AI 应用：AI动态（90 条，12 个来源）\n- 芯片/半导体：半导体供应链（30 条，9 个来源）\n- 机器人/具身智能：人形机器人与具身智能（8 条，6 个来源）\n- 新能源车/智能驾驶：新能源车动态（21 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（21 条，8 个来源）\n\n国际科技背景：\n1. Demis Hassabis Thinks AI Job Cuts Are Dumb｜WIRED Business｜https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/\n2. Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims｜TechCrunch｜https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/\n3. Agentic app coding gets an upgrade with Google’s release of Android CLI｜TechCrunch｜https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/\n4. Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more｜Ars Technica｜https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/\n5. 8 Of The Best AirPlay Speakers You Can Buy｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/8-best-airplay-speakers-buy-200200277.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };

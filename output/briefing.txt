@@ -1,54 +1,54 @@
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/20 18:34:44
+生成时间：2026/5/20 18:41:52
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 89 条｜国际 12 条
-延续跟踪线索：国内 21 条｜国际 28 条
+新增核心线索：国内 7 条｜国际 1 条
+延续跟踪线索：国内 102 条｜国际 39 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-05-20] OpenAI世纪诉讼，马斯克输了！
+1. [2026-05-20] AIDC建设正从“通用标准”走向“适
+   来源：光明网-科技
+   链接：https://tech.gmw.cn/2026-05/20/content_38777240.htm
+   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
+
+2. [2026-05-20] 中国牵头制定的电力导体材料腐蚀国际标准发布
+   来源：光明网-科技
+   链接：https://tech.gmw.cn/2026-05/20/content_38777136.htm
+   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
+
+3. [2026-05-20] OpenAI世纪诉讼，马斯克输了！
    来源：新浪科技
    链接：https://finance.sina.com.cn/wm/2026-05-20/doc-inhynvwr9538500.shtml
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-2. [2026-05-20] 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群
+4. [2026-05-20] 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群
    来源：新浪科技
    链接：https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-3. [2026-05-20] 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合
+5. [2026-05-20] 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
-4. [2026-05-20] 奇安信人工智能公司中标某头部医疗科技集团AI安 18:30
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KTD3C4OK0512B07B.html
-   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
-
-5. [2026-05-20] 青岛崂山区：锻造机器人产业新势能
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-05/20/content_519676.html
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
-
 本次新增线索：
-- 摩尔线程：全面打通“云边端”智算生态，成功落地“万卡”智算集群｜新浪科技｜https://finance.sina.com.cn/tob/2026-05-20/doc-inhypnuh2662171.shtml
-- 航宇智造与库卡机器人签署战略合作协议，共推高端制造与工业机器人深度融合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhypxki6886058.shtml
-- 奇安信人工智能公司中标某头部医疗科技集团AI安 18:30｜网易科技｜https://www.163.com/dy/article/KTD3C4OK0512B07B.html
-- 青岛崂山区：锻造机器人产业新势能｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/20/content_519676.html
-- 菲律宾批准高铁锌转基因大米｜中国科学报｜http://news.sciencenet.cn/htmlnews/2026/5/565017.shtm
-- Ugreen Packs A Punch With Its Latest Nexode And MagFlow Air Chargers｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/ugreen-packs-punch-latest-nexode-070000080.html
+- AIDC建设正从“通用标准”走向“适｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777240.htm
+- 中国牵头制定的电力导体材料腐蚀国际标准发布｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777136.htm
+- 三天三夜，5月最“燃”现场，全国科学家故事馆校众创展演将在河南科技馆火热开演｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777133.htm
+- MDDC 2026：联发科成全栈AI基石，推动全场景智能体体验落地｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-20/doc-inhyphnm9441604.shtml
+- AI时代，当知识不再稀缺，我们该如何学习？｜光明网-科技｜https://tech.gmw.cn/2026-05/20/content_38777084.htm
+- Space factories edge closer after experimental capsule survives hypersonic landing｜The Register｜https://www.theregister.com/science/2026/05/20/space-factories-edge-closer-after-experimental-capsule-survives-hypersonic-landing/5243140
 
 今日热点方向：
-- AI 应用：AI动态（84 条，11 个来源）
-- 芯片/半导体：半导体供应链（27 条，8 个来源）
-- 机器人/具身智能：人形机器人与具身智能（9 条，7 个来源）
+- AI 应用：AI动态（90 条，12 个来源）
+- 芯片/半导体：半导体供应链（30 条，9 个来源）
+- 机器人/具身智能：人形机器人与具身智能（8 条，6 个来源）
 - 新能源车/智能驾驶：新能源车动态（21 条，4 个来源）
 - 太空与低空经济：低空经济与无人机（3 条，3 个来源）
-- 科学前沿：科学前沿动态（25 条，9 个来源）
+- 科学前沿：科学前沿与科研设施（21 条，8 个来源）
 
 国际科技背景：
 1. Demis Hassabis Thinks AI Job Cuts Are Dumb｜WIRED Business｜https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/
