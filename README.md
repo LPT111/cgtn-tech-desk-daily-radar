@@ -10,29 +10,44 @@
 /Users/lpt/Codex/outputs/cgtn_tech_dashboard/index.html
 ```
 
-## 每天更新自动早报
+## v2 定时更新与飞书推送
+
+v2 改为每天两更，减少内容变化不大时的重复推送：
+
+- 北京时间 07:40：晨间选题会前版
+- 北京时间 15:40：下午更新版
+- 手机备用手动入口：`manual-update.html`
+
+GitHub Actions 使用窗口 fallback 触发，`send_feishu.mjs` 会按 `v2-日期-时段` 去重，避免同一时段重复推送。手动运行 `workflow_dispatch` 会立即发送一条飞书测试消息。
+
+v2 还新增了 Policy Radar：中美 AI、AI 治理、出口管制、标准、监管、数据安全等主题会被单独加权，并在页面中独立展示。
+
+## 本地更新自动早报
 
 在终端运行：
 
 ```bash
-cd /Users/lpt/Codex
-node outputs/cgtn_tech_dashboard/fetch_daily.mjs
+cd /Users/lpt/Codex/outputs/cgtn_tech_dashboard
+CGTN_RADAR_DATE=$(date +%F) RADAR_VERSION=v2 node fetch_daily.mjs
 ```
 
-脚本会读取 `sources.json`，抓取 RSS / 官网页面，生成：
+脚本会抓取 RSS / 官网页面，生成：
 
 ```text
-outputs/cgtn_tech_dashboard/daily-data.js
+daily-data.js
+data/latest.json
+output/briefing.md
+output/briefing.txt
 ```
 
 重新打开或刷新 `index.html` 后，页面会自动读取最新数据。也可以点顶部的 `⇣` 按钮，把自动抓取数据覆盖到当前看板。
 
 ## 调整信息源
 
-编辑：
+主要编辑：
 
 ```text
-outputs/cgtn_tech_dashboard/sources.json
+src/sources.js
 ```
 
 支持两种类型：

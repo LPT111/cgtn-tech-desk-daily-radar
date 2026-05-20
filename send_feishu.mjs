@@ -6,6 +6,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const latestJsonPath = path.join(__dirname, 'data', 'latest.json');
 const briefingTxtPath = path.join(__dirname, 'output', 'briefing.txt');
 const pushStatePath = path.join(__dirname, 'data', 'feishu-push-state.json');
+const radarVersion = process.env.RADAR_VERSION || 'v2';
 
 function cnNowParts() {
   const date = new Intl.DateTimeFormat('en-CA', {
@@ -37,35 +38,31 @@ function getScheduleSlot(date, time) {
   const [hour, minute] = time.split(':').map(Number);
   const current = hour * 60 + minute;
   const slots = [
-    { name: 'morning', label: '07:40', start: 7 * 60 + 35, end: 8 * 60 + 10 },
-    { name: 'afternoon', label: '14:40', start: 14 * 60 + 35, end: 15 * 60 + 10 },
-    { name: 'evening', label: '20:40', start: 20 * 60 + 35, end: 21 * 60 + 10 }
+    { name: 'morning', label: '07:40', start: 7 * 60 + 25, end: 8 * 60 + 15 },
+    { name: 'afternoon', label: '15:40', start: 15 * 60 + 25, end: 16 * 60 + 15 }
   ];
   const slot = slots.find((item) => current >= item.start && current <= item.end);
   if (!slot) return null;
   return {
     ...slot,
-    key: `${date}-${slot.name}`
+    key: `${radarVersion}-${date}-${slot.name}`
   };
 }
 
 function getScheduleSlotFromCron(date, cron) {
   const map = {
-    '40 23 * * *': { name: 'morning', label: '07:40' },
-    '50 23 * * *': { name: 'morning', label: '07:40' },
-    '55 23 * * *': { name: 'morning', label: '07:40' },
-    '40 6 * * *': { name: 'afternoon', label: '14:40' },
-    '50 6 * * *': { name: 'afternoon', label: '14:40' },
-    '55 6 * * *': { name: 'afternoon', label: '14:40' },
-    '40 12 * * *': { name: 'evening', label: '20:40' },
-    '50 12 * * *': { name: 'evening', label: '20:40' },
-    '55 12 * * *': { name: 'evening', label: '20:40' }
+    '30 23 * * *': { name: 'morning', label: '07:40' },
+    '45 23 * * *': { name: 'morning', label: '07:40' },
+    '59 23 * * *': { name: 'morning', label: '07:40' },
+    '30 7 * * *': { name: 'afternoon', label: '15:40' },
+    '45 7 * * *': { name: 'afternoon', label: '15:40' },
+    '59 7 * * *': { name: 'afternoon', label: '15:40' }
   };
   const slot = map[cron];
   if (!slot) return null;
   return {
     ...slot,
-    key: `${date}-${slot.name}`
+    key: `${radarVersion}-${date}-${slot.name}`
   };
 }
 
@@ -108,8 +105,8 @@ async function main() {
   }
 
   const title = manual
-    ? `ChenChen 今日 Briefing｜手动测试｜${date} ${time}`
-    : `ChenChen 今日 Briefing｜${date} ${time}`;
+    ? `ChenChen 今日 Briefing｜${radarVersion} 手动测试｜${date} ${time}`
+    : `ChenChen 今日 Briefing｜${radarVersion} ${slot?.label || ''}｜${date} ${time}`;
   const briefing = (await readBriefing()).replace(/PUBLIC_DASHBOARD_URL 未配置/g, dashboardUrl).trim();
   const text = `${title}\n\n${briefing}`;
 

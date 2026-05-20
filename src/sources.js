@@ -25,10 +25,17 @@ export const SOURCES = [
   { name: '央视网-科技', tier: 'official', type: 'html', url: 'https://tech.cctv.com/', parser: 'cctv', weight: 5, optional: true },
 
   { name: '工信部', tier: 'official', type: 'html', url: 'https://www.miit.gov.cn/xwdt/gxdt/index.html', parser: 'generic', weight: 12 },
+  { name: '工信部-政策文件', tier: 'official', type: 'html', url: 'https://www.miit.gov.cn/zwgk/zcwj/index.html', parser: 'generic', weight: 13 },
   { name: '科技部', tier: 'official', type: 'html', url: 'https://www.most.gov.cn/kjbgz/', parser: 'generic', weight: 12 },
+  { name: '科技部-国际合作', tier: 'official', type: 'html', url: 'https://www.most.gov.cn/kjbgz/202101/t20210121_161685.html', parser: 'generic', weight: 10, optional: true },
   { name: '国家网信办', tier: 'official', type: 'html', url: 'https://www.cac.gov.cn/', parser: 'generic', weight: 10 },
+  { name: '国家网信办-政策', tier: 'official', type: 'html', url: 'https://www.cac.gov.cn/zcjd/A090101index_1.htm', parser: 'generic', weight: 12, optional: true },
   { name: '发改委', tier: 'official', type: 'html', url: 'https://www.ndrc.gov.cn/xwdt/', parser: 'generic', weight: 8 },
-  { name: '市场监管总局', tier: 'official', type: 'html', url: 'https://www.samr.gov.cn/xw/', parser: 'generic', weight: 8 }
+  { name: '市场监管总局', tier: 'official', type: 'html', url: 'https://www.samr.gov.cn/xw/', parser: 'generic', weight: 8 },
+  { name: '国务院政策文件', tier: 'official', type: 'html', url: 'https://www.gov.cn/zhengce/zhengceku/', parser: 'generic', weight: 13 },
+  { name: '国务院要闻', tier: 'official', type: 'html', url: 'https://www.gov.cn/yaowen/', parser: 'generic', weight: 9 },
+  { name: '外交部发言', tier: 'official', type: 'html', url: 'https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/', parser: 'generic', weight: 11 },
+  { name: '新华社-政策与国际', tier: 'mainstream', type: 'html', url: 'http://www.news.cn/politics/', parser: 'news-cn', weight: 10 }
 ];
 
 export const TIER_SCORE = {
@@ -55,7 +62,13 @@ export const GLOBAL_SOURCES = [
   { name: 'Engadget', tier: 'international', region: 'US', type: 'rss', url: 'https://www.engadget.com/rss.xml', parser: 'rss', weight: 7 },
   { name: 'CNBC Technology', tier: 'international', region: 'US', type: 'rss', url: 'https://www.cnbc.com/id/19854910/device/rss/rss.html', parser: 'rss', weight: 7 },
   { name: 'Rest of World', tier: 'international', region: 'Global', type: 'rss', url: 'https://restofworld.org/feed/latest/', parser: 'rss', weight: 7 },
-  { name: 'Science News', tier: 'international', region: 'Global', type: 'rss', url: 'https://www.sciencenews.org/feed', parser: 'rss', weight: 7 }
+  { name: 'Science News', tier: 'international', region: 'Global', type: 'rss', url: 'https://www.sciencenews.org/feed', parser: 'rss', weight: 7 },
+  { name: 'White House OSTP', tier: 'international', region: 'US', type: 'html', url: 'https://www.whitehouse.gov/ostp/news-updates/', parser: 'generic', weight: 12 },
+  { name: 'NIST AI', tier: 'international', region: 'US', type: 'html', url: 'https://www.nist.gov/artificial-intelligence', parser: 'generic', weight: 11 },
+  { name: 'US Commerce BIS', tier: 'international', region: 'US', type: 'html', url: 'https://www.bis.gov/newsroom', parser: 'generic', weight: 11, optional: true },
+  { name: 'EU AI Office', tier: 'international', region: 'Europe', type: 'html', url: 'https://digital-strategy.ec.europa.eu/en/policies/ai-office', parser: 'generic', weight: 10, optional: true },
+  { name: 'OECD AI Policy', tier: 'international', region: 'Global', type: 'html', url: 'https://oecd.ai/en/wonk', parser: 'generic', weight: 9, optional: true },
+  { name: 'Stanford HAI Policy', tier: 'international', region: 'US', type: 'html', url: 'https://hai.stanford.edu/news', parser: 'generic', weight: 8 }
 ];
 
 export const VIDEO_SOURCES = [

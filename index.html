@@ -816,7 +816,7 @@
         <div class="mark" aria-hidden="true"></div>
         <div>
           <h1>CGTN Tech Desk<br>Daily Radar</h1>
-          <p>ChenChen's China tech story cockpit</p>
+          <p>ChenChen's China tech story cockpit · v2</p>
         </div>
       </div>
 
@@ -834,6 +834,8 @@
         <a href="https://www.cac.gov.cn/" target="_blank">CAC 网信办</a>
         <a href="https://www.ndrc.gov.cn/" target="_blank">NDRC 发改委</a>
         <a href="https://www.samr.gov.cn/" target="_blank">SAMR 市场监管总局</a>
+        <a href="https://www.gov.cn/zhengce/zhengceku/" target="_blank">国务院政策文件</a>
+        <a href="https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/" target="_blank">外交部发言</a>
       </div>
 
       <div class="source-box">
@@ -867,6 +869,10 @@
         <a href="https://www.theregister.com/" target="_blank">The Register</a>
         <a href="https://arstechnica.com/" target="_blank">Ars Technica</a>
         <a href="https://www.engadget.com/" target="_blank">Engadget</a>
+        <a href="https://www.whitehouse.gov/ostp/news-updates/" target="_blank">White House OSTP</a>
+        <a href="https://www.nist.gov/artificial-intelligence" target="_blank">NIST AI</a>
+        <a href="https://www.bis.gov/newsroom" target="_blank">US Commerce BIS</a>
+        <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-office" target="_blank">EU AI Office</a>
       </div>
 
     </aside>
@@ -904,7 +910,7 @@
 
       <section class="metric-row" aria-label="今日雷达概览">
         <div class="metric"><b id="metricLeads">0</b><span>新闻线索</span></div>
-        <div class="metric"><b id="metricSources">0</b><span>已配置网页信源</span></div>
+        <div class="metric"><b id="metricDelta">0</b><span>本次新增线索</span></div>
         <div class="metric"><b id="metricGlobal">0</b><span>国际科技背景</span></div>
         <div class="metric"><b id="metricOriginals">0</b><span>带原文链接</span></div>
       </section>
@@ -930,6 +936,14 @@
           <span class="section-note">单独作为国际背景池，不混入国内主列表。</span>
         </div>
         <div class="grid" id="globalCards"></div>
+      </section>
+
+      <section>
+        <div class="section-head">
+          <h3 class="section-title">Policy Radar / 科技政策与中美 AI</h3>
+          <span class="section-note">v2 增强：政策、标准、AI 治理、出口管制与中美科技互动单独抬高优先级。</span>
+        </div>
+        <div class="grid" id="policyCards"></div>
       </section>
 
       <section>
@@ -1136,7 +1150,11 @@
           ['中科院', 'https://www.cas.cn/yw/'],
           ['工信部', 'https://www.miit.gov.cn/'],
           ['科技部', 'https://www.most.gov.cn/'],
-          ['网信办', 'https://www.cac.gov.cn/']
+          ['网信办', 'https://www.cac.gov.cn/'],
+          ['国务院政策文件', 'https://www.gov.cn/zhengce/zhengceku/'],
+          ['外交部发言', 'https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/'],
+          ['NIST AI', 'https://www.nist.gov/artificial-intelligence'],
+          ['White House OSTP', 'https://www.whitehouse.gov/ostp/news-updates/']
         ]
       },
       {
@@ -1175,7 +1193,9 @@
           ['CNBC Technology', 'https://www.cnbc.com/technology/'],
           ['Bloomberg Technology', 'https://www.bloomberg.com/technology'],
           ['Nikkei Asia Technology', 'https://asia.nikkei.com/Business/Technology'],
-          ['Rest of World', 'https://restofworld.org/']
+          ['Rest of World', 'https://restofworld.org/'],
+          ['US Commerce BIS', 'https://www.bis.gov/newsroom'],
+          ['EU AI Office', 'https://digital-strategy.ec.europa.eu/en/policies/ai-office']
         ]
       },
     ];
@@ -1202,6 +1222,7 @@
 
     const cards = document.getElementById('cards');
     const globalCards = document.getElementById('globalCards');
+    const policyCards = document.getElementById('policyCards');
     const topicGrid = document.getElementById('topicGrid');
     const categoryFilters = document.getElementById('categoryFilters');
     const searchInput = document.getElementById('searchInput');
@@ -1362,6 +1383,42 @@
       `).join('') : '<article class="card"><h3>暂无国际科技新闻</h3><p class="summary">国际信源可能被限流或未生成抓取数据，可稍后重试。</p></article>';
     }
 
+    function isPolicySignal(item) {
+      const text = `${item.title || ''} ${item.summary || ''} ${item.category || ''} ${item.source || ''} ${item.angle || ''} ${item.cgtAngle || ''}`;
+      return /监管|政策|标准|合规|网信|工信|科技部|国务院|外交部|中美|AI治理|人工智能治理|AI安全|出口管制|技术管制|数据安全|算法治理|White House|NIST|BIS|AI Office|AI Act|governance|regulation|export control|standards/i.test(text);
+    }
+
+    function renderPolicyCards() {
+      const policyItems = [
+        ...leads.filter(isPolicySignal),
+        ...globalLeads.filter(isPolicySignal)
+      ].slice(0, 12);
+      policyCards.innerHTML = policyItems.length ? policyItems.map((item) => `
+        <article class="card">
+          <div class="card-head">
+            <div>
+              <div class="tag-row">
+                <span class="tag field">${item.category || 'Policy'}</span>
+                <span class="tag hot">Policy</span>
+                ${item.relevanceToChina ? `<span class="tag">China relevance: ${item.relevanceToChina}</span>` : ''}
+              </div>
+              <h3>${item.title}</h3>
+            </div>
+            <span class="stars" title="优先级">${stars(item.priority || 3)}</span>
+          </div>
+          <p class="summary">${item.summary || '摘要待补。'}</p>
+          <div class="angle">${item.angle || item.cgtAngle || 'Frame this as technology policy context for CGTN international audiences.'}</div>
+          <div class="card-foot">
+            <div class="source-line">
+              <span class="source-name">${item.source || 'Policy source'}</span>
+              <span class="tag">${item.publishedAt || item.date || '时间待核'}</span>
+              ${item.url ? `<a class="link-btn primary-link" href="${item.url}" target="_blank" rel="noopener">原文</a>` : '<span class="tag">待补链接</span>'}
+            </div>
+          </div>
+        </article>
+      `).join('') : '<article class="card"><h3>暂无政策雷达线索</h3><p class="summary">本次抓取没有命中中美 AI、科技政策、监管、标准或出口管制类高优先级内容。</p></article>';
+    }
+
     function renderTopics() {
       const topics = (autoData?.topics || []).slice(0, 9);
       topicGrid.innerHTML = topics.map(topic => `
@@ -1391,7 +1448,7 @@
 
     function renderMetrics() {
       document.getElementById('metricLeads').textContent = leads.length;
-      document.getElementById('metricSources').textContent = (autoData?.sourcesChecked || 19) + (autoData?.globalSourcesChecked || 0);
+      document.getElementById('metricDelta').textContent = (autoData?.changeSummary?.domesticNew || 0) + (autoData?.changeSummary?.globalNew || 0);
       document.getElementById('metricGlobal').textContent = globalLeads.length;
       document.getElementById('metricOriginals').textContent = leads.filter(item => item.url).length + globalLeads.filter(item => item.url).length;
     }
@@ -1412,9 +1469,11 @@
         failureBlock('Global', globalFailures)
       ].join('');
       document.getElementById('fetchStatus').innerHTML = `
+        <div class="mini"><strong>版本</strong>${autoData?.radarVersion || 'v2'}｜两更：07:40 / 15:40 北京时间｜手动运行立即推送飞书</div>
         <div class="mini"><strong>国内新闻抓取</strong>信源 ${autoData?.sourcesChecked || 0}｜成功 ${autoData?.successSources || 0}｜失败 ${domesticFailures.length}｜抓取 ${autoData?.itemsSeen || 0}</div>
         <div class="mini"><strong>国际新闻抓取</strong>信源 ${autoData?.globalSourcesChecked || 0}｜成功 ${autoData?.globalSuccessSources || 0}｜失败 ${globalFailures.length}｜抓取 ${autoData?.globalItemsSeen || 0}</div>
         <div class="mini"><strong>确认今日 / 国际背景</strong>${autoData?.leads?.length || 0} / ${autoData?.globalLeads?.length || 0}</div>
+        <div class="mini"><strong>本次新增 / 延续</strong>${(autoData?.changeSummary?.domesticNew || 0) + (autoData?.changeSummary?.globalNew || 0)} / ${(autoData?.changeSummary?.domesticContinued || 0) + (autoData?.changeSummary?.globalContinued || 0)}</div>
         <div class="mini"><strong>过滤旧闻</strong>${autoData?.skippedNonToday || 0}</div>
       `;
     }
@@ -1423,9 +1482,10 @@
       renderFilters();
       renderCards();
       renderGlobalCards();
+      renderPolicyCards();
       renderTopics();
       renderMetrics();
-      document.getElementById('todayTitle').textContent = `ChenChen 今日中国科技热点｜2026-05-17`;
+      document.getElementById('todayTitle').textContent = `ChenChen 今日中国科技热点｜${autoData?.targetDate || '今日'}｜${autoData?.radarVersion || 'v2'}`;
       if (autoData?.generatedAt) {
         dataStatus.textContent = `仅显示 ${autoData.targetDate || '2026-05-17'}｜自动抓取：${new Date(autoData.generatedAt).toLocaleString('zh-CN')}｜国内核心事件 ${autoData.leads?.length || 0} 条｜国际背景 ${autoData.globalLeads?.length || 0} 条｜过滤旧闻 ${autoData.skippedNonToday || 0} 条`;
       }

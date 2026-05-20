@@ -16,6 +16,7 @@ const latestJsonPath = path.join(dataDir, 'latest.json');
 const briefingDir = path.join(__dirname, 'output');
 const briefingMdPath = path.join(briefingDir, 'briefing.md');
 const briefingTxtPath = path.join(briefingDir, 'briefing.txt');
+const radarVersion = process.env.RADAR_VERSION || 'v2';
 const targetDate = process.env.CGTN_RADAR_DATE || new Intl.DateTimeFormat('en-CA', {
   timeZone: 'Asia/Shanghai',
   year: 'numeric',
@@ -31,23 +32,24 @@ function chunk(array, size) {
 
 function isRelevant(item) {
   if (!item.url || isBadTitle(item.title) || titleHasOtherDate(item.title, targetDate)) return false;
-  if (/任天堂|游戏库|城市体检|城市更新|袭击|致\d+死|ICP备|公网安备|概念股行情|Complaint Center|不良信息举报|特朗普儿子|IPO|报告会$|新闻发布会$|先进事迹报告会|可以说|关键科学问题|人类负责提出问题/.test(item.title)) return false;
+  if (/任天堂|游戏库|城市体检|城市更新|袭击|致\d+死|ICP备|公网安备|概念股行情|四大证券报|头版头条|财经新闻|股市|个股|涨停|党务|党建|培训班|干部培训|会议通知|耳机|导热垫|充电宝|手机壳|保护壳|Complaint Center|不良信息举报|特朗普儿子|IPO|报告会$|新闻发布会$|先进事迹报告会|可以说|关键科学问题|人类负责提出问题/.test(item.title)) return false;
   const text = `${item.title} ${item.summary || ''} ${item.rawText || ''}`;
   const titleCat = titleCategory(item.title);
-  const textHasTech = /(AI|人工智能|大模型|智能体|多模态|算力|芯片|半导体|GPU|CPU|机器人|具身智能|新能源|智能驾驶|自动驾驶|卫星|火箭|低空|无人机|量子|科研|科学|材料|数据安全|网信|算法|数字经济|云计算|数据中心|鸿蒙|电商|平台经济|药企|生物医药|生命科学)/i.test(text);
+  const textHasTech = /(AI|人工智能|大模型|智能体|多模态|算力|芯片|半导体|GPU|CPU|机器人|具身智能|新能源|智能驾驶|自动驾驶|卫星|火箭|低空|无人机|量子|科研|科学|材料|数据安全|网信|算法|数字经济|云计算|数据中心|鸿蒙|电商|平台经济|药企|生物医药|生命科学|中美|合作|对话|治理|政策|标准|出口管制|技术管制|AI安全|人工智能安全)/i.test(text);
   if (item.status === 'suspected_today' && !titleCat) return false;
   return Boolean(titleCat || textHasTech);
 }
 
 function isGlobalRelevant(item) {
   if (!item.url || isBadTitle(item.title)) return false;
+  if (/stock-trading|financial filings|Vance|Trump financial|election|senate|campaign/i.test(item.title)) return false;
   if (/apnews\.com\/hub\/(?!technology)/i.test(item.url)) return false;
   if (/\/hub\/(russia-ukraine|donald-trump|politics|sports|world-news|entertainment)/i.test(item.url)) return false;
   if (/^(Español|English|Video|Photos|Podcasts|Newsletters|Sports|Business|Science|Technology|World|US|Europe|Menu|Search)$/i.test(item.title)) return false;
   if (item.title.length < 12) return false;
-  const text = `${item.title} ${item.summary || ''} ${item.rawText || ''}`;
-  const titleHasSignal = /(AI|artificial intelligence|OpenAI|Google|Meta|Apple|Microsoft|NVIDIA|Tesla|SpaceX|Amazon|Anthropic|chip|semiconductor|robot|autonomous|EV|electric vehicle|space|rocket|satellite|energy|cybersecurity|data|export control|regulation|China|Chinese|supply chain|quantum|technology|tech)/i.test(item.title);
-  const textHasSignal = /(AI|artificial intelligence|OpenAI|Google|Meta|Apple|Microsoft|NVIDIA|Tesla|SpaceX|Amazon|Anthropic|chip|semiconductor|robot|autonomous|EV|electric vehicle|space|rocket|satellite|energy|cybersecurity|data|export control|regulation|China|Chinese|supply chain|quantum|technology|tech)/i.test(text);
+  const text = `${item.title} ${item.summary || ''}`;
+  const titleHasSignal = /(AI|artificial intelligence|OpenAI|Google|Meta|Apple|Microsoft|NVIDIA|Tesla|SpaceX|Amazon|Anthropic|chip|semiconductor|robot|autonomous|EV|electric vehicle|space|rocket|satellite|energy|cybersecurity|data|export control|regulation|China|Chinese|US-China|supply chain|quantum|technology|tech|NIST|BIS|White House|AI Safety|AI governance|AI Act|standards)/i.test(item.title);
+  const textHasSignal = /(AI|artificial intelligence|OpenAI|Google|Meta|Apple|Microsoft|NVIDIA|Tesla|SpaceX|Amazon|Anthropic|chip|semiconductor|robot|autonomous|EV|electric vehicle|space|rocket|satellite|energy|cybersecurity|data|export control|regulation|China|Chinese|US-China|supply chain|quantum|technology|tech|NIST|BIS|White House|AI Safety|AI governance|AI Act|standards)/i.test(text);
   if (['AP Technology', 'France24 Technology', 'Reuters Technology', 'Yahoo News Technology'].includes(item.source)) return titleHasSignal;
   return titleHasSignal || (textHasSignal && item.status === 'confirmed_today');
 }
@@ -81,9 +83,44 @@ function completeItem(item, topicSourceCounts) {
 
 function relevanceToChina(item) {
   const text = `${item.title} ${item.summary || ''} ${item.rawText || ''}`;
-  if (/(China|Chinese|Beijing|US-China|export control|semiconductor restriction|supply chain|NVIDIA|Tesla|Apple|OpenAI|AI regulation|data governance|cybersecurity)/i.test(text)) return 'high';
+  if (/(China|Chinese|Beijing|US-China|U\.S\.-China|export control|semiconductor restriction|supply chain|NVIDIA|Tesla|Apple|OpenAI|AI regulation|AI governance|AI safety|data governance|cybersecurity|BIS|NIST|White House|AI Act|standards)/i.test(text)) return 'high';
   if (/(AI|chip|semiconductor|robot|autonomous|EV|space|satellite|energy|quantum|Google|Meta|Microsoft|Amazon|Anthropic)/i.test(text)) return 'medium';
   return 'low';
+}
+
+function itemSignature(item) {
+  const key = (item.url || item.title || '')
+    .toLowerCase()
+    .replace(/^https?:\/\/(www\.)?/, '')
+    .replace(/[?#].*$/, '')
+    .replace(/[^\p{L}\p{N}]+/gu, '');
+  return key.slice(0, 120);
+}
+
+async function readPreviousPayload() {
+  try {
+    return JSON.parse(await fs.readFile(latestJsonPath, 'utf8'));
+  } catch {
+    return null;
+  }
+}
+
+function buildChangeSummary(previous, domesticLeads, globalLeads) {
+  const previousDomestic = new Set((previous?.leads || []).map(itemSignature));
+  const previousGlobal = new Set((previous?.globalLeads || []).map(itemSignature));
+  const newDomestic = domesticLeads.filter(item => !previousDomestic.has(itemSignature(item)));
+  const newGlobal = globalLeads.filter(item => !previousGlobal.has(itemSignature(item)));
+  const continuedDomestic = domesticLeads.filter(item => previousDomestic.has(itemSignature(item)));
+  const continuedGlobal = globalLeads.filter(item => previousGlobal.has(itemSignature(item)));
+  return {
+    domesticNew: newDomestic.length,
+    globalNew: newGlobal.length,
+    domesticContinued: continuedDomestic.length,
+    globalContinued: continuedGlobal.length,
+    topNewDomestic: newDomestic.slice(0, 5).map(item => ({ title: item.title, source: item.source, url: item.url })),
+    topNewGlobal: newGlobal.slice(0, 5).map(item => ({ title: item.title, source: item.source, url: item.url })),
+    hasPrevious: Boolean(previous?.generatedAt)
+  };
 }
 
 function globalAngle(item, category) {
@@ -149,6 +186,7 @@ async function enrichAll(items) {
 
 async function main() {
   const generatedAt = new Date().toISOString();
+  const previousPayload = await readPreviousPayload();
   const domestic = await fetchAllSources(SOURCES, 'domestic');
   const global = await fetchAllSources(GLOBAL_SOURCES, 'global');
 
@@ -177,11 +215,15 @@ async function main() {
   const globalLeads = globalDeduped
     .map(completeGlobalItem)
     .filter(item => item.priority >= 3 && item.url)
+    .filter(item => item.status !== 'old')
+    .filter(item => !item.date || item.date === targetDate)
     .sort((a, b) => {
       const relevanceRank = { high: 3, medium: 2, low: 1 };
       return (relevanceRank[b.relevanceToChina] - relevanceRank[a.relevanceToChina]) || (b.priority - a.priority) || (b.score - a.score);
     })
     .slice(0, 40);
+
+  const changeSummary = buildChangeSummary(previousPayload, confirmed, globalLeads);
 
   const allFailures = [...failures, ...global.failures];
   const briefing = makeBriefing(confirmed, topics, allFailures, targetDate, globalLeads, {
@@ -189,17 +231,23 @@ async function main() {
     itemsSeen: allItems.length + global.allItems.length,
     confirmedToday: confirmed.length,
     suspectedToday: suspected.length,
-    failedCount: allFailures.length
+    failedCount: allFailures.length,
+    radarVersion,
+    changeSummary
   });
   const feishuBriefing = makeFeishuBriefing(confirmed, topics, targetDate, globalLeads, {
     generatedAt,
     itemsSeen: allItems.length + global.allItems.length,
-    confirmedToday: confirmed.length
+    confirmedToday: confirmed.length,
+    radarVersion,
+    changeSummary
   }, process.env.PUBLIC_DASHBOARD_URL || '');
 
   const payload = {
     generatedAt,
+    radarVersion,
     targetDate,
+    changeSummary,
     todayOnly: true,
     sourcesChecked: SOURCES.length,
     successSources: sourceStats.filter(item => !item.failed).length,

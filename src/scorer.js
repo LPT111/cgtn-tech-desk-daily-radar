@@ -12,6 +12,7 @@ export function scoreItem(item, topicSourceCount = 1) {
   if (hasCctnKeyword(item)) score += 15;
   if (isVisual(item)) score += 10;
   if (hasInternationalValue(item)) score += 10;
+  if (/(中美|AI治理|人工智能治理|AI安全|出口管制|技术管制|白宫|NIST|BIS|欧盟AI法案|AI Office|政策文件|标准|监管|数据跨境|算法治理)/i.test(`${item.title} ${item.summary || ''} ${item.rawText || ''}`)) score += 18;
   score += Math.min(10, Number(item.sourceWeight || 0));
   return score;
 }

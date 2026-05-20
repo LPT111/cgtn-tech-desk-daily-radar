@@ -2,17 +2,16 @@ name: CGTN Tech Desk Daily Radar
 
 on:
   schedule:
-    # Primary pushes: Beijing 07:40 / 14:40 / 20:40.
-    # Fallback retries reduce the chance of a dropped GitHub scheduled event.
-    - cron: '40 23 * * *'
-    - cron: '50 23 * * *'
-    - cron: '55 23 * * *'
-    - cron: '40 6 * * *'
-    - cron: '50 6 * * *'
-    - cron: '55 6 * * *'
-    - cron: '40 12 * * *'
-    - cron: '50 12 * * *'
-    - cron: '55 12 * * *'
+    # v2 two-edition windows with fallbacks.
+    # Beijing morning edition around 07:40: 23:30 / 23:45 / 23:59 UTC previous day.
+    # Beijing afternoon edition around 15:40: 07:30 / 07:45 / 07:59 UTC.
+    # send_feishu.mjs gates duplicate pushes by edition, so fallback runs are safe.
+    - cron: '30 23 * * *'
+    - cron: '45 23 * * *'
+    - cron: '59 23 * * *'
+    - cron: '30 7 * * *'
+    - cron: '45 7 * * *'
+    - cron: '59 7 * * *'
   workflow_dispatch:
 
 permissions:
@@ -30,6 +29,7 @@ jobs:
       FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
       PUBLIC_DASHBOARD_URL: ${{ secrets.PUBLIC_DASHBOARD_URL }}
       GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
+      RADAR_VERSION: v2
 
     steps:
       - name: Checkout
