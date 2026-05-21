@@ -2,62 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/21 09:32:00
+生成时间：2026/5/21 10:42:35
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 63 条｜国际 40 条
-延续跟踪线索：国内 3 条｜国际 0 条
+新增核心线索：国内 42 条｜国际 2 条
+延续跟踪线索：国内 36 条｜国际 38 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-05-21] iQOO15T正式发布：首发天玑9500 Monster版芯片，售价3799元起
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-05-21/doc-inhyrfcu9249702.shtml
-   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
+1. [2026-05-21] 中美联合侦破一起跨国犯罪案件 犯罪嫌疑人被抓
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-05/21/content_519913.html
+   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
 
-2. [2026-05-21] SpaceX计划在五年内实现每年1万次发射 马斯克：最便宜AI算力在太空
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-05-21/doc-inhyrfcw6016673.shtml
-   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
+2. [2026-05-21] 横断山区微生物群落研究揭示“逆天空岛”效应
+   来源：中国科学院
+   链接：https://www.cas.cn/syky/202605/t20260519_5109946.shtml
+   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
 
-3. [2026-05-21] 【出海头条】中国整车企业全球搜罗闲置产能 08:59
+3. [2026-05-21] 全国首个面向家庭场景的 通用机器人在武汉发布 10:06
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KTEOTR730512B07B.html
+   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
+
+4. [2026-05-21] 出海日报 | 峰飞航空获中亚50架eVTOL订单，禾赛 09:31
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KTEMT0F90534A4SC.html
+   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
+
+5. [2026-05-21] 【出海头条】中国整车企业全球搜罗闲置产能 08:59
    来源：网易科技
    链接：https://www.163.com/dy/article/KTEL2NEN0534A4SC.html
    角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
 
-4. [2026-05-21] 全国首个面向家庭场景的通用机器人在武汉发布 07:49
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KTEH2BA705198CJN.html
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
-
-5. [2026-05-21] 白宫举行吹风会，向人工智能公司介绍审查AI模型 08:54
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KTEKPJT70534A4SC.html
-   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
-
 本次新增线索：
-- iQOO15T正式发布：首发天玑9500 Monster版芯片，售价3799元起｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-05-21/doc-inhyrfcu9249702.shtml
-- SpaceX计划在五年内实现每年1万次发射 马斯克：最便宜AI算力在太空｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-21/doc-inhyrfcw6016673.shtml
-- 【出海头条】中国整车企业全球搜罗闲置产能 08:59｜网易科技｜https://www.163.com/dy/article/KTEL2NEN0534A4SC.html
-- 全国首个面向家庭场景的通用机器人在武汉发布 07:49｜网易科技｜https://www.163.com/dy/article/KTEH2BA705198CJN.html
-- 白宫举行吹风会，向人工智能公司介绍审查AI模型 08:54｜网易科技｜https://www.163.com/dy/article/KTEKPJT70534A4SC.html
-- Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia｜TechCrunch｜https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/
+- 中美联合侦破一起跨国犯罪案件 犯罪嫌疑人被抓｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/21/content_519913.html
+- 横断山区微生物群落研究揭示“逆天空岛”效应｜中国科学院｜https://www.cas.cn/syky/202605/t20260519_5109946.shtml
+- 全国首个面向家庭场景的 通用机器人在武汉发布 10:06｜网易科技｜https://www.163.com/dy/article/KTEOTR730512B07B.html
+- 出海日报 | 峰飞航空获中亚50架eVTOL订单，禾赛 09:31｜网易科技｜https://www.163.com/dy/article/KTEMT0F90534A4SC.html
+- 中美合作，成功侦破！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-21/doc-inhyrmmv8299374.shtml
+- Nvidia on track to be worlds leading CPU supplier claims CFO｜The Register｜https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868
 
 今日热点方向：
-- AI 应用：AI动态（91 条，12 个来源）
-- 芯片/半导体：半导体供应链（24 条，9 个来源）
-- 机器人/具身智能：人形机器人与具身智能（14 条，8 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（9 条，5 个来源）
-- 太空与低空经济：低空经济与无人机（2 条，2 个来源）
-- 科学前沿：科学前沿与科研设施（17 条，8 个来源）
+- AI 应用：AI动态（85 条，12 个来源）
+- 芯片/半导体：半导体供应链（24 条，8 个来源）
+- 机器人/具身智能：人形机器人与具身智能（14 条，9 个来源）
+- 新能源车/智能驾驶：新能源车动态（19 条，4 个来源）
+- 太空与低空经济：低空经济与无人机（3 条，3 个来源）
+- 科学前沿：科学前沿动态（24 条，9 个来源）
 
 国际科技背景：
 1. Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia｜TechCrunch｜https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/
 2. Sam Altman makes ‘mic drop’ offer to every Y Combinator startup｜TechCrunch｜https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/
 3. OpenAI claims it solved an 80-year-old math problem — for real this time｜TechCrunch｜https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/
 4. OpenAI barrels toward IPO that may happen in September｜TechCrunch｜https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/
-5. OpenAI floats buy-before-your-try AI availability guarantee｜The Register｜https://www.theregister.com/ai-ml/2026/05/20/openai-wants-upfront-cash-for-guaranteed-ai-capacity/5243694
+5. Nvidia on track to be worlds leading CPU supplier claims CFO｜The Register｜https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
