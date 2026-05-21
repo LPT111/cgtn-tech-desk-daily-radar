@@ -2,62 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/21 10:42:35
+生成时间：2026/5/21 18:52:37
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 42 条｜国际 2 条
-延续跟踪线索：国内 36 条｜国际 38 条
+新增核心线索：国内 92 条｜国际 15 条
+延续跟踪线索：国内 24 条｜国际 25 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-05-21] 中美联合侦破一起跨国犯罪案件 犯罪嫌疑人被抓
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-05/21/content_519913.html
-   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
-
-2. [2026-05-21] 横断山区微生物群落研究揭示“逆天空岛”效应
-   来源：中国科学院
-   链接：https://www.cas.cn/syky/202605/t20260519_5109946.shtml
-   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
-
-3. [2026-05-21] 全国首个面向家庭场景的 通用机器人在武汉发布 10:06
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KTEOTR730512B07B.html
+1. [2026-05-21] 可穿戴机器人设备助力患儿神经肌肉恢复
+   来源：中国科学报
+   链接：http://news.sciencenet.cn/htmlnews/2026/5/565055.shtm
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
-4. [2026-05-21] 出海日报 | 峰飞航空获中亚50架eVTOL订单，禾赛 09:31
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KTEMT0F90534A4SC.html
-   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
+2. [2026-05-21] 中美成功联合侦破一起跨国犯罪案件
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-05/21/content_520116.html
+   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
 
-5. [2026-05-21] 【出海头条】中国整车企业全球搜罗闲置产能 08:59
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KTEL2NEN0534A4SC.html
+3. [2026-05-21] 特斯拉最后一批Model S/X完成交付，原产线将量产机器人
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/2026-05-21/doc-inhyrrtp6379574.shtml
    角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
 
+4. [2026-05-21] 机器人“顶流”直播火了！连续工作七天不出错 15:03
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KTF9T53D05198CJN.html
+   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
+
+5. [2026-05-21] 报道称白宫要强化AI尖端模型审查 17:28
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KTFI6N3P05198CJN.html
+   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
+
 本次新增线索：
-- 中美联合侦破一起跨国犯罪案件 犯罪嫌疑人被抓｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/21/content_519913.html
-- 横断山区微生物群落研究揭示“逆天空岛”效应｜中国科学院｜https://www.cas.cn/syky/202605/t20260519_5109946.shtml
-- 全国首个面向家庭场景的 通用机器人在武汉发布 10:06｜网易科技｜https://www.163.com/dy/article/KTEOTR730512B07B.html
-- 出海日报 | 峰飞航空获中亚50架eVTOL订单，禾赛 09:31｜网易科技｜https://www.163.com/dy/article/KTEMT0F90534A4SC.html
-- 中美合作，成功侦破！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-21/doc-inhyrmmv8299374.shtml
-- Nvidia on track to be worlds leading CPU supplier claims CFO｜The Register｜https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868
+- 可穿戴机器人设备助力患儿神经肌肉恢复｜中国科学报｜http://news.sciencenet.cn/htmlnews/2026/5/565055.shtm
+- 中美成功联合侦破一起跨国犯罪案件｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/21/content_520116.html
+- 特斯拉最后一批Model S/X完成交付，原产线将量产机器人｜新浪科技｜https://finance.sina.com.cn/tech/2026-05-21/doc-inhyrrtp6379574.shtml
+- 机器人“顶流”直播火了！连续工作七天不出错 15:03｜网易科技｜https://www.163.com/dy/article/KTF9T53D05198CJN.html
+- 报道称白宫要强化AI尖端模型审查 17:28｜网易科技｜https://www.163.com/dy/article/KTFI6N3P05198CJN.html
+- Tech researchers are suing the Trump administration over the future of online safety｜MIT Technology Review｜https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/
 
 今日热点方向：
-- AI 应用：AI动态（85 条，12 个来源）
-- 芯片/半导体：半导体供应链（24 条，8 个来源）
-- 机器人/具身智能：人形机器人与具身智能（14 条，9 个来源）
-- 新能源车/智能驾驶：新能源车动态（19 条，4 个来源）
-- 太空与低空经济：低空经济与无人机（3 条，3 个来源）
-- 科学前沿：科学前沿动态（24 条，9 个来源）
+- AI 应用：AI动态（98 条，12 个来源）
+- 芯片/半导体：半导体供应链（26 条，8 个来源）
+- 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（18 条，5 个来源）
+- 太空与低空经济：低空经济与无人机（7 条，2 个来源）
+- 科学前沿：科学前沿与科研设施（23 条，9 个来源）
 
 国际科技背景：
-1. Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia｜TechCrunch｜https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/
-2. Sam Altman makes ‘mic drop’ offer to every Y Combinator startup｜TechCrunch｜https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/
-3. OpenAI claims it solved an 80-year-old math problem — for real this time｜TechCrunch｜https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/
-4. OpenAI barrels toward IPO that may happen in September｜TechCrunch｜https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/
-5. Nvidia on track to be worlds leading CPU supplier claims CFO｜The Register｜https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868
+1. Tech researchers are suing the Trump administration over the future of online safety｜MIT Technology Review｜https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/
+2. Ubisoft shares plunge 14% after Assassin’s Creed maker warns of annual profit loss｜CNBC Technology｜https://www.cnbc.com/2026/05/21/ubisoft-fy-earnings-profit-loss-assassins-creed.html
+3. Samsung Electronics shares rally 6% after union suspends strike following tentative wage deal｜CNBC Technology｜https://www.cnbc.com/2026/05/21/samsung-electronics-union-strike-suspended-wage-deal-bonuses.html
+4. Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia｜TechCrunch｜https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/
+5. Sam Altman makes ‘mic drop’ offer to every Y Combinator startup｜TechCrunch｜https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
