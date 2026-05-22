@@ -1,71 +1,35 @@
 {
-  "generatedAt": "2026-05-22T01:30:51.311Z",
+  "generatedAt": "2026-05-22T01:35:06.235Z",
   "radarVersion": "v2",
   "targetDate": "2026-05-22",
   "changeSummary": {
-    "domesticNew": 51,
-    "globalNew": 30,
-    "domesticContinued": 3,
-    "globalContinued": 0,
+    "domesticNew": 3,
+    "globalNew": 0,
+    "domesticContinued": 51,
+    "globalContinued": 30,
     "topNewDomestic": [
       {
-        "title": "毕业论文将检测AIGC率，该如何界定使用边界？",
-        "source": "中国科学报",
-        "url": "https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm"
-      },
-      {
-        "title": "腾讯云联合TC601提出国产 Data+AI平台五步转型路径",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml"
-      },
-      {
-        "title": "小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml"
-      },
-      {
-        "title": "中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml"
-      },
-      {
-        "title": "AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05",
+        "title": "阿里语音大模型获三项第一；智谱发布新成果：不 07:12",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KTH7Q9CG0512B07B.html"
+        "url": "https://www.163.com/dy/article/KTH1BGUI0512B07B.html"
+      },
+      {
+        "title": "新型NAND闪存问世：抗辐射能力达传统闪存30倍 可承受太空极端辐射",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqks8558771.shtml"
+      },
+      {
+        "title": "研究揭示低纬海陆过渡带MIS3期季风演变新机制",
+        "source": "中国科学院",
+        "url": "https://www.cas.cn/syky/202605/t20260521_5110194.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
-        "source": "WIRED Business",
-        "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/"
-      },
-      {
-        "title": "Deus ex machina: Half of US Christians trust AI's spiritual advice",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-ml/2026/05/21/deus-ex-machina-half-of-us-christians-trust-ais-spiritual-advice/5244371"
-      },
-      {
-        "title": "Job training for robots: How China is getting machines ready to join the workforce",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html"
-      },
-      {
-        "title": "Here we go again with Nvidia falling on earnings. What the sellers are missing",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html"
-      },
-      {
-        "title": "SpaceX tries to launch a bigger version of Starship but hits a series of last-minute problems",
-        "source": "AP Technology",
-        "url": "https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 30,
   "failedSources": [
     {
       "name": "财联社",
@@ -78,34 +42,14 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -125,34 +69,14 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -328,16 +252,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -358,9 +280,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 13,
+      "failed": false,
       "optional": false
     },
     {
@@ -368,7 +289,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -381,9 +302,8 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -416,13 +336,13 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1297,
+  "itemsSeen": 1371,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 554,
-  "itemsAfterDedupe": 365,
+  "itemsAfterRelevantFilter": 564,
+  "itemsAfterDedupe": 370,
   "todayItemsSeen": 54,
   "suspectedItemsSeen": 1,
-  "skippedNonToday": 305,
+  "skippedNonToday": 311,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -591,16 +511,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -621,9 +539,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 13,
+      "failed": false,
       "optional": false
     },
     {
@@ -631,7 +548,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -644,9 +561,8 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -843,34 +759,14 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -926,43 +822,19 @@
       ]
     },
     {
-      "topic": "AI 应用与智能体",
-      "count": 47,
-      "sourceCount": 10,
-      "sources": [
-        "新浪科技",
-        "网易科技",
-        "新华网-科技",
-        "量子位",
-        "中国科学报",
-        "观察者网-产业科技",
-        "科技日报",
-        "TechNode",
-        "中国科学院",
-        "人民网-科技"
-      ],
-      "items": [
-        "Mac 版 Codex 更新 Appshots 功能，窗口可直接“喂”给 AI",
-        "一季度营收57亿，利润-122%：上市前夕，OpenAI的“致命”短板藏不住了",
-        "Information：OpenAI第一季度营收约为57亿美元",
-        "多重利好助推下 黄仁勋描绘的“实体AI”愿景引爆亚洲科技股",
-        "机构预测：谷歌 Android XR 智能眼镜今年销量将达 200 万台"
-      ]
-    },
-    {
       "topic": "科学前沿与科研设施",
-      "count": 28,
+      "count": 25,
       "sourceCount": 10,
       "sources": [
         "中国科学报",
         "新浪科技",
         "人民网-科技",
         "IT之家",
-        "中国科学院",
         "网易科技",
         "科技日报",
         "观察者网-产业科技",
         "量子位",
+        "中国科学院",
         "新华网-科技"
       ],
       "items": [
@@ -970,7 +842,30 @@
         "美国拟向量子计算企业拨款20亿美元并获取股权",
         "小米17 Max国补后到手价4299元起，雷军：未来两年内存还会持续上涨，手机会越来越贵",
         "科学家发现隐秘地月航线，能省不少燃料",
-        "科学家发现镍基高温超导机制关键证据"
+        "固态电池产业化持续推进 新材料技术迭代有望打 08:26"
+      ]
+    },
+    {
+      "topic": "AI 应用与智能体",
+      "count": 53,
+      "sourceCount": 9,
+      "sources": [
+        "新浪科技",
+        "中国科学报",
+        "网易科技",
+        "中国科学院",
+        "观察者网-产业科技",
+        "量子位",
+        "TechNode",
+        "科技日报",
+        "新华网-科技"
+      ],
+      "items": [
+        "Mac 版 Codex 更新 Appshots 功能，窗口可直接“喂”给 AI",
+        "数学猜想能被AI破解，但数学直觉无可替代",
+        "Information：OpenAI第一季度营收约为57亿美元",
+        "多重利好助推下 黄仁勋描绘的“实体AI”愿景引爆亚洲科技股",
+        "机构预测：谷歌 Android XR 智能眼镜今年销量将达 200 万台"
       ]
     },
     {
@@ -998,7 +893,7 @@
     },
     {
       "topic": "科学前沿动态",
-      "count": 24,
+      "count": 27,
       "sourceCount": 8,
       "sources": [
         "网易科技",
@@ -1041,7 +936,7 @@
     },
     {
       "topic": "监管与安全动态",
-      "count": 16,
+      "count": 15,
       "sourceCount": 7,
       "sources": [
         "新浪科技",
@@ -1062,7 +957,7 @@
     },
     {
       "topic": "商业航天与卫星互联网",
-      "count": 10,
+      "count": 9,
       "sourceCount": 7,
       "sources": [
         "中国科学报",
@@ -1083,7 +978,7 @@
     },
     {
       "topic": "国产 GPU / 算力基础设施",
-      "count": 17,
+      "count": 15,
       "sourceCount": 6,
       "sources": [
         "新浪科技",
@@ -1123,7 +1018,7 @@
     },
     {
       "topic": "数字经济动态",
-      "count": 15,
+      "count": 18,
       "sourceCount": 5,
       "sources": [
         "网易科技",
@@ -1704,31 +1599,31 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "新型NAND闪存抗辐射能力达传统闪存30倍",
-      "summary": "快科技5月22日消息，据媒体报道，美国佐治亚理工学院的研究团队成功研制出一款新型NAND闪存。该闪存不仅能够高效处理人工智能（AI）任务，还能承受太空环境中的极端辐射，其抗辐射能力达到传统NAND闪存的30倍。这款新型闪存利用了与硅工艺兼容...",
-      "source": "科技日报",
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "阿里语音大模型获三项第一；智谱发布新成果：不 07:12",
+      "summary": "阿里语音大模型获三项第一；智谱发布新成果：不加一块GPU，算力多出15%｜数智早参,算力,拾光,智谱,大模型,gpu,机器人,新模型,阿里巴巴集团",
+      "source": "网易科技",
       "sources": [
-        "科技日报"
+        "网易科技"
       ],
-      "sourceTier": "official",
-      "url": "https://www.stdaily.com/web/gdxw/2026-05/21/content_520314.html",
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KTH1BGUI0512B07B.html",
       "sourceUrls": [
-        "https://www.stdaily.com/web/gdxw/2026-05/21/content_520314.html"
+        "https://www.163.com/dy/article/KTH1BGUI0512B07B.html"
       ],
       "publishedAt": "2026-05-22",
       "date": "2026-05-22",
       "category": "AI",
       "keywords": "AI applications, large language models, AI governance, productivity",
       "priority": 5,
-      "score": 100,
+      "score": 102,
       "format": "package",
       "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
       "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 新型NAND闪存抗辐射能力达传统闪存30倍，能在太空高效处理人工智能任务 2026-05-22 01:35:00 来源: 科技日报 点击数： 热点",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "阿里语音大模型获三项第一；智谱发布新成果：不加一块GPU，算力多出15%｜数智早参,算力,拾光,智谱,大模型,gpu,机器人,新模型,阿里巴巴集团",
       "relatedTitles": [
-        "新型NAND闪存抗辐射能力达传统闪存30倍"
+        "阿里语音大模型获三项第一；智谱发布新成果：不 07:12"
       ]
     },
     {
@@ -1785,6 +1680,34 @@
       "rawText": "来源：36氪去年的“残血版”，因为严重水土不服被监管叫停，今年又来了个监督版是啥意思？简单来说，在使用FSD监督版的状态下，虽然车辆几乎可以自己完成所有驾驶动作，比如转向、变道、过红绿灯以及避让障碍物等，但驾驶员依然是第一责任人，必须全程盯...",
       "relatedTitles": [
         "特斯拉FSD真的要进中国了，不过是监督版"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY2Fz",
+      "title": "科学家发现镍基高温超导机制关键证据",
+      "summary": "首页 > 科研进展 高温超导机理是凝聚态物理领域的难题。近日，中国科学技术大学和南方科技大学等在新型镍基高温超导机理研究中取得重要突破，首次在Ruddlesden-Popper相（RP相）双层镍氧化物高温超导薄膜中，直接观测到无节点超导能隙并发现电子-玻色子耦合，为解析超导能隙对称性和超导配对机制两个镍基高温超导机制的",
+      "source": "中国科学院",
+      "sources": [
+        "中国科学院"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.cas.cn/syky/202605/t20260522_5110267.shtml",
+      "sourceUrls": [
+        "https://www.cas.cn/syky/202605/t20260522_5110267.shtml"
+      ],
+      "publishedAt": "2026-05-22",
+      "date": "2026-05-22",
+      "category": "科学前沿",
+      "keywords": "scientific research, frontier science, research infrastructure",
+      "priority": 5,
+      "score": 95,
+      "format": "package",
+      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "首页 > 科研进展 高温超导机理是凝聚态物理领域的难题。近日，中国科学技术大学和南方科技大学等在新型镍基高温超导机理研究中取得重要突破，首次在Ruddlesden-Popper相（RP相）双层镍氧化物高温超导薄膜中，直接观测到无节点超导能隙并发现电子-玻色子耦合，为解析超导能隙对称性和超导配对机制两个镍基高温超导机制的核心问题，提供了关键实验证据。 超导自1911年发现以来，凭借极限电磁性能，成为国际科学界的重要研究方向。 传统超导体的超导转变温度低，限制了其应用。因此，探索高温超导材料、理解高温超导机理成为国际超导研究的关键问题。 超导发现之后的一个世纪， 学界发现铜基和铁基两类高温超导材料",
+      "relatedTitles": [
+        "科学家发现镍基高温超导机制关键证据"
       ]
     },
     {
@@ -1873,34 +1796,6 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "一季度营收57亿，利润-122%：上市前夕，OpenAI的“致命”短板藏不住了",
-      "summary": "OpenAI 死敌爆料是狠！OpenAI内部信阴阳Claude营收注水80亿，然后泄露了… Anthropic年化收入掺水80亿 henry 2026-04-15 OpenAI Ilya曝光70页OpenAI绝密文件 llya：奥特曼这人撒谎成性 梦瑶 2026-04-07 OpenAI OpenAI又曝出内讧了！IP",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-22/doc-inhysxpa5567440.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-05-22/doc-inhysxpa5567440.shtml"
-      ],
-      "publishedAt": "2026-05-22",
-      "date": "2026-05-22",
-      "category": "AI",
-      "keywords": "AI applications, large language models, AI governance, productivity",
-      "priority": 5,
-      "score": 92,
-      "format": "package",
-      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "OpenAI第一季度营收约57亿美元，比Anthropic同期高出近10亿美元，编码智能体、企业销售和广告测试推动增长。但Anthropic已反超，近期年化收入逼近450亿美元，预计二季度营收达近110亿美元，外加近6亿美元利润。OpenAI获1220亿美元新融资，Anthropic正筹300亿美元，两家都为Q4 IPO做准备。OpenAI一季度调整后营业利润率-122%，ChatGPT周活平均约9.05亿，付费订阅用户5500万。GPT 5.5等模型拉动用户加速增长，其计划2030年ChatGPT广告业务创收约1020亿美元。 (AI生成)",
-      "relatedTitles": [
-        "一季度营收57亿，利润-122%：上市前夕，OpenAI的“致命”短板藏不住了"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "Information：OpenAI第一季度营收约为57亿美元",
       "summary": "The Information援引两位未具名知情人士消息，OpenAI第一季度营收约57亿美元。编码助手Codex、企业销售增长和ChatGPT广告测试共同推动该季度营收增长。目前无法得知OpenAI第二季度业绩展望，不过公司核心产品表现改善或推动营收进一步增长。 (AI生成)",
       "source": "新浪科技",
@@ -1953,6 +1848,34 @@
       "rawText": "快科技5月22日消息，5月22日，联想集团发布2025/26财年第四季度暨全年业绩财报。财报显示，联想集团全年营收达5899亿元人民币，同比增长20.3%；调整后净利润同比增长42.1%。整体业绩数据全面超越市场预期，并创下历史新高。本轮业...",
       "relatedTitles": [
         "AI成联想核心增长引擎：全年AI相关业务收入大增105% 手握1400亿储备订单"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "新型NAND闪存问世：抗辐射能力达传统闪存30倍 可承受太空极端辐射",
+      "summary": "快科技5月22日消息，据媒体报道，美国佐治亚理工学院的研究团队成功研制出一款新型NAND闪存。该闪存不仅能够高效处理人工智能（AI）任务，还能承受太空环境中的极端辐射，其抗辐射能力达到传统NAND闪存的30倍。这款新型闪存利用了与硅工艺兼容...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqks8558771.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqks8558771.shtml"
+      ],
+      "publishedAt": "2026-05-22",
+      "date": "2026-05-22",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 92,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "快科技5月22日消息，据媒体报道，美国佐治亚理工学院的研究团队成功研制出一款新型NAND闪存。该闪存不仅能够高效处理人工智能（AI）任务，还能承受太空环境中的极端辐射，其抗辐射能力达到传统NAND闪存的30倍。这款新型闪存利用了与硅工艺兼容...",
+      "relatedTitles": [
+        "新型NAND闪存问世：抗辐射能力达传统闪存30倍 可承受太空极端辐射"
       ]
     },
     {
@@ -2208,34 +2131,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "科学家发现镍基高温超导机制关键证据",
-      "summary": "c=\"//www.cas.cn/images/20220826kejitop.jpg\" /> 科研进展 / 更多 科学家发现镍基高温超导机制关键证据 研究揭示低纬海陆过渡带MIS3期季风演变新机制 <a href=\"//www.cas.cn/../../syky/202605/t20260520_5110075.sht",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/syky/202605/t20260522_5110267.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/syky/202605/t20260522_5110267.shtml"
-      ],
-      "publishedAt": "2026-05-22",
-      "date": "2026-05-22",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 85,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "c=\"//www.cas.cn/images/20220826kejitop.jpg\" /> 科研进展 / 更多 科学家发现镍基高温超导机制关键证据 研究揭示低纬海陆过渡带MIS3期季风演变新机制 <a href=\"//www.cas.cn/../../syky/202605/t20260520_5110075.shtml\" title=\"孤独症",
-      "relatedTitles": [
-        "科学家发现镍基高温超导机制关键证据"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "美国打压，能限制中国药企崛起吗？",
       "summary": "首页 美国打压，能限制中国药企崛起吗？ 分享到： 鲁比奥恐吓：古巴从中俄拿武器，离咱还不远 民主党复盘：哈里斯败选，都是拜登的错 又变卦了，“不批，妨碍领先中国” 泰国芭堤雅一酒店发生火灾，住客主要为外国游客 美大使：特朗普放弃武力“接管”格陵兰岛 特朗普：美众议院委员会通过夏令时永久化法案 美议员急找鲁比奥：管管吧，",
@@ -2405,6 +2300,34 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuY2Fz",
+      "title": "研究揭示低纬海陆过渡带MIS3期季风演变新机制",
+      "summary": "首页 > 科研进展 晚第四纪深海氧同位素3阶段（MIS 3）气候极不稳定，频发Dansgaard-Oeschger暖事件与Heinrich冷事件。以往古气候记录显示，中高纬陆地显示夏季风增强，而低纬海洋显示冬季风加强，二者矛盾长期未解。 近日，中国科学院南海海洋研究所研究团队在低纬海陆过渡带古气候与海岸沉积动力学研究中",
+      "source": "中国科学院",
+      "sources": [
+        "中国科学院"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.cas.cn/syky/202605/t20260521_5110194.shtml",
+      "sourceUrls": [
+        "https://www.cas.cn/syky/202605/t20260521_5110194.shtml"
+      ],
+      "publishedAt": "2026-05-22",
+      "date": "2026-05-22",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 85,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿与科研设施",
+      "rawText": "首页 > 科研进展 晚第四纪深海氧同位素3阶段（MIS 3）气候极不稳定，频发Dansgaard-Oeschger暖事件与Heinrich冷事件。以往古气候记录显示，中高纬陆地显示夏季风增强，而低纬海洋显示冬季风加强，二者矛盾长期未解。 近日，中国科学院南海海洋研究所研究团队在低纬海陆过渡带古气候与海岸沉积动力学研究中取得进展。 研究团队聚焦低纬海陆过渡带区域，以海南岛东海岸坑尾园剖面连续风成沉积为载体，经3个AMS- 14 C、15个OSL测年数据与贝叶斯模型校准，精准限定年代，分辨率可达约275年/样品。团队进一步结合粒度、矿物、石英微形貌等测试结果，系统探究了东亚季风千年尺度波动与海岸风",
+      "relatedTitles": [
+        "研究揭示低纬海陆过渡带MIS3期季风演变新机制"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY2Fz",
       "title": "天津工生所举办公众科学日",
       "summary": "首页 > 科学普及 > 工作动态 5 月 16 日，中国科学院天津工业生物技术研究所举办 公众科学日。 活动精心打造趣味科普讲堂、创意科学体验、科普参观、科普微视频展映等内容 。 活动中，天津工生所研究员张以恒、杨建刚分别带来题为《甜蜜的权力：糖、工业革命与生物制造》和 《二氧化碳如何变身为糖》的专题讲座。 活动设置 ",
       "source": "中国科学院",
@@ -2429,34 +2352,6 @@
       "rawText": "首页 > 科学普及 > 工作动态 5 月 16 日，中国科学院天津工业生物技术研究所举办 公众科学日。 活动精心打造趣味科普讲堂、创意科学体验、科普参观、科普微视频展映等内容 。 活动中，天津工生所研究员张以恒、杨建刚分别带来题为《甜蜜的权力：糖、工业革命与生物制造》和 《二氧化碳如何变身为糖》的专题讲座。 活动设置 14 项创意科学互动体验项目。探秘“彩色菌体蛋白离心记”，近距离围观菌体蛋白分离的奇妙科学瞬间；相约“蛋白的奇幻舞台”，亲手创作“科技漆扇”，体验蛋白与非遗手作的浪漫邂逅；沉浸式走进“生物合成芬芳”，领略生物科技匠心酿造自然香气的独特魅力；观摩“甜蜜健康糖”，解锁糖的变色魔法；“",
       "relatedTitles": [
         "天津工生所举办公众科学日"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLnNj",
-      "title": "镍基高温超导机制重要实验证据获发现",
-      "summary": "作者：陈欢欢 来源： 中国科学报 发布时间：2026/5/22 7:51:53 镍基高温超导机制重要实验证据获发现 本报讯（记者陈欢欢） 中国科学技术大学（以下简称中国科大）何俊峰教授研究组与南方科技大学薛其坤院士、陈卓昱副教授研究组合作，在新型镍基高温超导的机理研究中取得重大突破，首次在Ruddlesden-Popp",
-      "source": "中国科学报",
-      "sources": [
-        "中国科学报"
-      ],
-      "sourceTier": "research",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565119.shtm",
-      "sourceUrls": [
-        "https://news.sciencenet.cn/htmlnews/2026/5/565119.shtm"
-      ],
-      "publishedAt": "2026-05-22",
-      "date": "2026-05-22",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 79,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "作者：陈欢欢 来源： 中国科学报 发布时间：2026/5/22 7:51:53 镍基高温超导机制重要实验证据获发现 本报讯（记者陈欢欢） 中国科学技术大学（以下简称中国科大）何俊峰教授研究组与南方科技大学薛其坤院士、陈卓昱副教授研究组合作，在新型镍基高温超导的机理研究中取得重大突破，首次在Ruddlesden-Popper相双层镍氧化物高温超导薄膜中直接观测到无节点超导能隙并发现电子-玻色子耦合，为镍基高温超导机制的两个核心问题&mdash;&mdash;&ldquo;超导能隙对称性&rdquo;和&ldquo;超导配对机制&rdquo;提供了关键实验证据。相关成果5月21日发表于《科学》。",
-      "relatedTitles": [
-        "镍基高温超导机制重要实验证据获发现"
       ]
     },
     {
@@ -2490,7 +2385,7 @@
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "百亿梦落空 将目光转向打酒铺 仰韶困在小众赛道里",
-      "summary": "2026年，来自河南省的仰韶酒业动作频频。营销上，首先是冠名河南足球俱乐部，球队以“河南俱乐部彩陶坊队”征战中超。此外，还尝试跳出传统白酒消费边界，与花花牛乳业围绕“豫酒+酸奶”跨界合作展开交流，将酒和奶这两个差距较大的品类放到了同一张桌子...",
+      "summary": "来源：创业最前线 2026年，来自河南省的仰韶酒业动作频频。 营销上，首先是冠名河南足球俱乐部，球队以“河南俱乐部彩陶坊队”征战中超。 此外，还尝试跳出传统白酒消费边界，与花花牛乳业围绕“豫酒+酸奶”跨界合作展开交流，将酒和...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -2510,7 +2405,7 @@
       "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
       "status": "confirmed_today",
       "matchedTopic": "监管与安全动态",
-      "rawText": "2026年，来自河南省的仰韶酒业动作频频。营销上，首先是冠名河南足球俱乐部，球队以“河南俱乐部彩陶坊队”征战中超。此外，还尝试跳出传统白酒消费边界，与花花牛乳业围绕“豫酒+酸奶”跨界合作展开交流，将酒和奶这两个差距较大的品类放到了同一张桌子...",
+      "rawText": "来源：创业最前线 2026年，来自河南省的仰韶酒业动作频频。 营销上，首先是冠名河南足球俱乐部，球队以“河南俱乐部彩陶坊队”征战中超。 此外，还尝试跳出传统白酒消费边界，与花花牛乳业围绕“豫酒+酸奶”跨界合作展开交流，将酒和...",
       "relatedTitles": [
         "百亿梦落空 将目光转向打酒铺 仰韶困在小众赛道里"
       ]
@@ -3310,8 +3205,8 @@
       "status": "confirmed_today"
     }
   ],
-  "brief": "ChenChen 今日中国科技热点｜2026-05-22｜v2\n生成时间：2026/5/22 09:30:51\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2539｜确认今日 54｜国际背景 30\n\n本次更新：\n新增核心线索：国内 51 条｜国际 30 条\n延续跟踪线索：国内 3 条｜国际 0 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-22] 毕业论文将检测AIGC率，该如何界定使用边界？\n   中国科学报｜2026-05-22｜https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-22] 腾讯云联合TC601提出国产 Data+AI平台五步转型路径\n   新浪科技｜2026-05-22｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-22] 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版\n   新浪科技｜2026-05-22｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-22] 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！\n   新浪科技｜2026-05-22｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n5. [2026-05-22] AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05\n   网易科技｜2026-05-22｜https://www.163.com/dy/article/KTH7Q9CG0512B07B.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 毕业论文将检测AIGC率，该如何界定使用边界？｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm\n- 腾讯云联合TC601提出国产 Data+AI平台五步转型路径｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml\n- 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml\n- 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml\n- AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05｜网易科技｜https://www.163.com/dy/article/KTH7Q9CG0512B07B.html\n- Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/\n\n今日热点方向：\n- AI 应用：AI动态（97 条，11 个来源）\n- 芯片/半导体：半导体供应链（25 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（20 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（8 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（28 条，10 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/\n2. Deus ex machina: Half of US Christians trust AI's spiritual advice｜The Register｜https://www.theregister.com/ai-ml/2026/05/21/deus-ex-machina-half-of-us-christians-trust-ais-spiritual-advice/5244371\n3. Job training for robots: How China is getting machines ready to join the workforce｜CNBC Technology｜https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html\n4. Here we go again with Nvidia falling on earnings. What the sellers are missing｜CNBC Technology｜https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html\n5. SpaceX tries to launch a bigger version of Starship but hits a series of last-minute problems｜AP Technology｜https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-22｜v2\n生成时间：2026/5/22 09:30:51\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2539｜确认今日 54｜国际背景 30\n\n本次更新：\n新增核心线索：国内 51 条｜国际 30 条\n延续跟踪线索：国内 3 条｜国际 0 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-22] 毕业论文将检测AIGC率，该如何界定使用边界？\n   中国科学报｜2026-05-22｜https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-22] 腾讯云联合TC601提出国产 Data+AI平台五步转型路径\n   新浪科技｜2026-05-22｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-22] 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版\n   新浪科技｜2026-05-22｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-22] 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！\n   新浪科技｜2026-05-22｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n5. [2026-05-22] AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05\n   网易科技｜2026-05-22｜https://www.163.com/dy/article/KTH7Q9CG0512B07B.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 毕业论文将检测AIGC率，该如何界定使用边界？｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm\n- 腾讯云联合TC601提出国产 Data+AI平台五步转型路径｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml\n- 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml\n- 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml\n- AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05｜网易科技｜https://www.163.com/dy/article/KTH7Q9CG0512B07B.html\n- Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/\n\n今日热点方向：\n- AI 应用：AI动态（97 条，11 个来源）\n- 芯片/半导体：半导体供应链（25 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（20 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（8 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（28 条，10 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/\n2. Deus ex machina: Half of US Christians trust AI's spiritual advice｜The Register｜https://www.theregister.com/ai-ml/2026/05/21/deus-ex-machina-half-of-us-christians-trust-ais-spiritual-advice/5244371\n3. Job training for robots: How China is getting machines ready to join the workforce｜CNBC Technology｜https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html\n4. Here we go again with Nvidia falling on earnings. What the sellers are missing｜CNBC Technology｜https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html\n5. SpaceX tries to launch a bigger version of Starship but hits a series of last-minute problems｜AP Technology｜https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-22｜生成时间：2026/5/22 09:30:51｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2539｜确认今日 54｜国际背景 30</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 51 条｜国际 30 条<br>延续跟踪线索：国内 3 条｜国际 0 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-22] 毕业论文将检测AIGC率，该如何界定使用边界？</strong>\n      <span>中国科学报｜2026-05-22｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-22] 腾讯云联合TC601提出国产 Data+AI平台五步转型路径</strong>\n      <span>新浪科技｜2026-05-22｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-22] 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版</strong>\n      <span>新浪科技｜2026-05-22｜<a href=\"https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-22] 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！</strong>\n      <span>新浪科技｜2026-05-22｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-22] AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05</strong>\n      <span>网易科技｜2026-05-22｜<a href=\"https://www.163.com/dy/article/KTH7Q9CG0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?</strong>\n      <span>时间：Fri, 22 May 2026 00:04:25 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Deus ex machina: Half of US Christians trust AI's spiritual advice</strong>\n      <span>时间：Thu, 21 May 2026 18:36:47 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-ml/2026/05/21/deus-ex-machina-half-of-us-christians-trust-ais-spiritual-advice/5244371\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Job training for robots: How China is getting machines ready to join the workforce</strong>\n      <span>时间：Thu, 21 May 2026 21:07:25 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Here we go again with Nvidia falling on earnings. What the sellers are missing</strong>\n      <span>时间：Thu, 21 May 2026 16:20:02 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. SpaceX tries to launch a bigger version of Starship but hits a series of last-minute problems</strong>\n      <span>时间：2026-05-22｜来源：AP Technology｜<a href=\"https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global 太空与低空 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/22 09:30:51\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 51 条｜国际 30 条\n延续跟踪线索：国内 3 条｜国际 0 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-22] 毕业论文将检测AIGC率，该如何界定使用边界？\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-22] 腾讯云联合TC601提出国产 Data+AI平台五步转型路径\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-22] 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-22] 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml\n   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n5. [2026-05-22] AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KTH7Q9CG0512B07B.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 毕业论文将检测AIGC率，该如何界定使用边界？｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm\n- 腾讯云联合TC601提出国产 Data+AI平台五步转型路径｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml\n- 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml\n- 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml\n- AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05｜网易科技｜https://www.163.com/dy/article/KTH7Q9CG0512B07B.html\n- Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/\n\n今日热点方向：\n- AI 应用：AI动态（97 条，11 个来源）\n- 芯片/半导体：半导体供应链（25 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（20 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（8 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（28 条，10 个来源）\n\n国际科技背景：\n1. Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/\n2. Deus ex machina: Half of US Christians trust AI's spiritual advice｜The Register｜https://www.theregister.com/ai-ml/2026/05/21/deus-ex-machina-half-of-us-christians-trust-ais-spiritual-advice/5244371\n3. Job training for robots: How China is getting machines ready to join the workforce｜CNBC Technology｜https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html\n4. Here we go again with Nvidia falling on earnings. What the sellers are missing｜CNBC Technology｜https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html\n5. SpaceX tries to launch a bigger version of Starship but hits a series of last-minute problems｜AP Technology｜https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "ChenChen 今日中国科技热点｜2026-05-22｜v2\n生成时间：2026/5/22 09:35:06\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2613｜确认今日 54｜国际背景 30\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 51 条｜国际 30 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-22] 毕业论文将检测AIGC率，该如何界定使用边界？\n   中国科学报｜2026-05-22｜https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-22] 腾讯云联合TC601提出国产 Data+AI平台五步转型路径\n   新浪科技｜2026-05-22｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-22] 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版\n   新浪科技｜2026-05-22｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-22] 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！\n   新浪科技｜2026-05-22｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n5. [2026-05-22] AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05\n   网易科技｜2026-05-22｜https://www.163.com/dy/article/KTH7Q9CG0512B07B.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 阿里语音大模型获三项第一；智谱发布新成果：不 07:12｜网易科技｜https://www.163.com/dy/article/KTH1BGUI0512B07B.html\n- 新型NAND闪存问世：抗辐射能力达传统闪存30倍 可承受太空极端辐射｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqks8558771.shtml\n- 研究揭示低纬海陆过渡带MIS3期季风演变新机制｜中国科学院｜https://www.cas.cn/syky/202605/t20260521_5110194.shtml\n\n今日热点方向：\n- AI 应用：AI动态（97 条，11 个来源）\n- 芯片/半导体：半导体供应链（25 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（20 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（8 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（25 条，10 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/\n2. Deus ex machina: Half of US Christians trust AI's spiritual advice｜The Register｜https://www.theregister.com/ai-ml/2026/05/21/deus-ex-machina-half-of-us-christians-trust-ais-spiritual-advice/5244371\n3. Job training for robots: How China is getting machines ready to join the workforce｜CNBC Technology｜https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html\n4. Here we go again with Nvidia falling on earnings. What the sellers are missing｜CNBC Technology｜https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html\n5. SpaceX tries to launch a bigger version of Starship but hits a series of last-minute problems｜AP Technology｜https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-22｜v2\n生成时间：2026/5/22 09:35:06\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2613｜确认今日 54｜国际背景 30\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 51 条｜国际 30 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-22] 毕业论文将检测AIGC率，该如何界定使用边界？\n   中国科学报｜2026-05-22｜https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-22] 腾讯云联合TC601提出国产 Data+AI平台五步转型路径\n   新浪科技｜2026-05-22｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-22] 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版\n   新浪科技｜2026-05-22｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-22] 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！\n   新浪科技｜2026-05-22｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n5. [2026-05-22] AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05\n   网易科技｜2026-05-22｜https://www.163.com/dy/article/KTH7Q9CG0512B07B.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 阿里语音大模型获三项第一；智谱发布新成果：不 07:12｜网易科技｜https://www.163.com/dy/article/KTH1BGUI0512B07B.html\n- 新型NAND闪存问世：抗辐射能力达传统闪存30倍 可承受太空极端辐射｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqks8558771.shtml\n- 研究揭示低纬海陆过渡带MIS3期季风演变新机制｜中国科学院｜https://www.cas.cn/syky/202605/t20260521_5110194.shtml\n\n今日热点方向：\n- AI 应用：AI动态（97 条，11 个来源）\n- 芯片/半导体：半导体供应链（25 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（20 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（8 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（25 条，10 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/\n2. Deus ex machina: Half of US Christians trust AI's spiritual advice｜The Register｜https://www.theregister.com/ai-ml/2026/05/21/deus-ex-machina-half-of-us-christians-trust-ais-spiritual-advice/5244371\n3. Job training for robots: How China is getting machines ready to join the workforce｜CNBC Technology｜https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html\n4. Here we go again with Nvidia falling on earnings. What the sellers are missing｜CNBC Technology｜https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html\n5. SpaceX tries to launch a bigger version of Starship but hits a series of last-minute problems｜AP Technology｜https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-22｜生成时间：2026/5/22 09:35:06｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2613｜确认今日 54｜国际背景 30</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 51 条｜国际 30 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-22] 毕业论文将检测AIGC率，该如何界定使用边界？</strong>\n      <span>中国科学报｜2026-05-22｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-22] 腾讯云联合TC601提出国产 Data+AI平台五步转型路径</strong>\n      <span>新浪科技｜2026-05-22｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-22] 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版</strong>\n      <span>新浪科技｜2026-05-22｜<a href=\"https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-22] 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！</strong>\n      <span>新浪科技｜2026-05-22｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-22] AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05</strong>\n      <span>网易科技｜2026-05-22｜<a href=\"https://www.163.com/dy/article/KTH7Q9CG0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?</strong>\n      <span>时间：Fri, 22 May 2026 00:04:25 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Deus ex machina: Half of US Christians trust AI's spiritual advice</strong>\n      <span>时间：Thu, 21 May 2026 18:36:47 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-ml/2026/05/21/deus-ex-machina-half-of-us-christians-trust-ais-spiritual-advice/5244371\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Job training for robots: How China is getting machines ready to join the workforce</strong>\n      <span>时间：Thu, 21 May 2026 21:07:25 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Here we go again with Nvidia falling on earnings. What the sellers are missing</strong>\n      <span>时间：Thu, 21 May 2026 16:20:02 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. SpaceX tries to launch a bigger version of Starship but hits a series of last-minute problems</strong>\n      <span>时间：2026-05-22｜来源：AP Technology｜<a href=\"https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global 太空与低空 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/22 09:35:06\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 51 条｜国际 30 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-22] 毕业论文将检测AIGC率，该如何界定使用边界？\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-22] 腾讯云联合TC601提出国产 Data+AI平台五步转型路径\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-22] 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-22] 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml\n   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n5. [2026-05-22] AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KTH7Q9CG0512B07B.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 阿里语音大模型获三项第一；智谱发布新成果：不 07:12｜网易科技｜https://www.163.com/dy/article/KTH1BGUI0512B07B.html\n- 新型NAND闪存问世：抗辐射能力达传统闪存30倍 可承受太空极端辐射｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqks8558771.shtml\n- 研究揭示低纬海陆过渡带MIS3期季风演变新机制｜中国科学院｜https://www.cas.cn/syky/202605/t20260521_5110194.shtml\n\n今日热点方向：\n- AI 应用：AI动态（97 条，11 个来源）\n- 芯片/半导体：半导体供应链（25 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（20 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（8 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（25 条，10 个来源）\n\n国际科技背景：\n1. Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/\n2. Deus ex machina: Half of US Christians trust AI's spiritual advice｜The Register｜https://www.theregister.com/ai-ml/2026/05/21/deus-ex-machina-half-of-us-christians-trust-ais-spiritual-advice/5244371\n3. Job training for robots: How China is getting machines ready to join the workforce｜CNBC Technology｜https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html\n4. Here we go again with Nvidia falling on earnings. What the sellers are missing｜CNBC Technology｜https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html\n5. SpaceX tries to launch a bigger version of Starship but hits a series of last-minute problems｜AP Technology｜https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }

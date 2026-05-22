@@ -2,12 +2,12 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/22 09:30:51
+生成时间：2026/5/22 09:35:06
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 51 条｜国际 30 条
-延续跟踪线索：国内 3 条｜国际 0 条
+新增核心线索：国内 3 条｜国际 0 条
+延续跟踪线索：国内 51 条｜国际 30 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -37,12 +37,9 @@
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
 本次新增线索：
-- 毕业论文将检测AIGC率，该如何界定使用边界？｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm
-- 腾讯云联合TC601提出国产 Data+AI平台五步转型路径｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml
-- 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml
-- 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml
-- AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05｜网易科技｜https://www.163.com/dy/article/KTH7Q9CG0512B07B.html
-- Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/
+- 阿里语音大模型获三项第一；智谱发布新成果：不 07:12｜网易科技｜https://www.163.com/dy/article/KTH1BGUI0512B07B.html
+- 新型NAND闪存问世：抗辐射能力达传统闪存30倍 可承受太空极端辐射｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqks8558771.shtml
+- 研究揭示低纬海陆过渡带MIS3期季风演变新机制｜中国科学院｜https://www.cas.cn/syky/202605/t20260521_5110194.shtml
 
 今日热点方向：
 - AI 应用：AI动态（97 条，11 个来源）
@@ -50,7 +47,7 @@
 - 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（20 条，4 个来源）
 - 太空与低空经济：低空经济与无人机（8 条，4 个来源）
-- 科学前沿：科学前沿与科研设施（28 条，10 个来源）
+- 科学前沿：科学前沿与科研设施（25 条，10 个来源）
 
 国际科技背景：
 1. Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/
