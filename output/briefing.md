@@ -2,13 +2,13 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/22 18:33:54
+生成时间：2026/5/22 18:40:33
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 93 条｜国际 18 条
-延续跟踪线索：国内 18 条｜国际 22 条
-本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
+新增核心线索：国内 0 条｜国际 0 条
+延续跟踪线索：国内 111 条｜国际 40 条
+本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
 1. [2026-05-22] 连续3年全球销量第一 Ulike启动家用脱毛仪行业科学与标准白皮书
@@ -37,15 +37,10 @@
    角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
 
 本次新增线索：
-- 器件智能紧凑建模研究取得进展｜中国科学院｜https://www.cas.cn/syky/202605/t20260521_5110197.shtml
-- 中国贸促会：在筹备适时组织中国企业赴美交流，促进两国工商界深化务实合作｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytusq8578063.shtml
-- 最后一座隧道贯通！全国速度最快、标准最高高铁取得重大进展｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/22/content_520784.html
-- 极客物流②｜10秒能爬五层楼！菜鸟ZeeBot年内全 18:24｜网易科技｜https://www.163.com/dy/article/KTI7PSSV0512B07B.html
-- 现代AI系统通过图灵测试首获证实｜科技日报｜https://www.stdaily.com/web/gjxw/2026-05/21/content_520328.html
-- Intel reveals Project Firefly to make cheap Wildcat Lake laptops that rival MacBook Neo｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/intel-reveals-project-firefly-cheap-101816432.html
+- 暂无新增核心线索。
 
 今日热点方向：
-- AI 应用：AI动态（93 条，11 个来源）
+- AI 应用：AI动态（92 条，11 个来源）
 - 芯片/半导体：半导体供应链（26 条，7 个来源）
 - 机器人/具身智能：人形机器人与具身智能（18 条，9 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（10 条，4 个来源）
