@@ -2,62 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/21 18:52:37
+生成时间：2026/5/22 09:30:51
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 92 条｜国际 15 条
-延续跟踪线索：国内 24 条｜国际 25 条
+新增核心线索：国内 51 条｜国际 30 条
+延续跟踪线索：国内 3 条｜国际 0 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-05-21] 可穿戴机器人设备助力患儿神经肌肉恢复
+1. [2026-05-22] 毕业论文将检测AIGC率，该如何界定使用边界？
    来源：中国科学报
-   链接：http://news.sciencenet.cn/htmlnews/2026/5/565055.shtm
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
+   链接：https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm
+   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-2. [2026-05-21] 中美成功联合侦破一起跨国犯罪案件
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-05/21/content_520116.html
-   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
-
-3. [2026-05-21] 特斯拉最后一批Model S/X完成交付，原产线将量产机器人
+2. [2026-05-22] 腾讯云联合TC601提出国产 Data+AI平台五步转型路径
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/2026-05-21/doc-inhyrrtp6379574.shtml
-   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
+   链接：https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml
+   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-4. [2026-05-21] 机器人“顶流”直播火了！连续工作七天不出错 15:03
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KTF9T53D05198CJN.html
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
-
-5. [2026-05-21] 报道称白宫要强化AI尖端模型审查 17:28
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KTFI6N3P05198CJN.html
+3. [2026-05-22] 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml
    角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
+
+4. [2026-05-22] 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml
+   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
+
+5. [2026-05-22] AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KTH7Q9CG0512B07B.html
+   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
 本次新增线索：
-- 可穿戴机器人设备助力患儿神经肌肉恢复｜中国科学报｜http://news.sciencenet.cn/htmlnews/2026/5/565055.shtm
-- 中美成功联合侦破一起跨国犯罪案件｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/21/content_520116.html
-- 特斯拉最后一批Model S/X完成交付，原产线将量产机器人｜新浪科技｜https://finance.sina.com.cn/tech/2026-05-21/doc-inhyrrtp6379574.shtml
-- 机器人“顶流”直播火了！连续工作七天不出错 15:03｜网易科技｜https://www.163.com/dy/article/KTF9T53D05198CJN.html
-- 报道称白宫要强化AI尖端模型审查 17:28｜网易科技｜https://www.163.com/dy/article/KTFI6N3P05198CJN.html
-- Tech researchers are suing the Trump administration over the future of online safety｜MIT Technology Review｜https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/
+- 毕业论文将检测AIGC率，该如何界定使用边界？｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm
+- 腾讯云联合TC601提出国产 Data+AI平台五步转型路径｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkw6228204.shtml
+- 小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqku5358268.shtml
+- 中国科学家突破世界级医学难题 6名重度肌肉萎缩患儿肌肉逆转生长！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7732278.shtml
+- AI与机器人盘前速递丨华为发布AIDC数据基础设施 09:05｜网易科技｜https://www.163.com/dy/article/KTH7Q9CG0512B07B.html
+- Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/
 
 今日热点方向：
-- AI 应用：AI动态（98 条，12 个来源）
-- 芯片/半导体：半导体供应链（26 条，8 个来源）
+- AI 应用：AI动态（97 条，11 个来源）
+- 芯片/半导体：半导体供应链（25 条，7 个来源）
 - 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（18 条，5 个来源）
-- 太空与低空经济：低空经济与无人机（7 条，2 个来源）
-- 科学前沿：科学前沿与科研设施（23 条，9 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（20 条，4 个来源）
+- 太空与低空经济：低空经济与无人机（8 条，4 个来源）
+- 科学前沿：科学前沿与科研设施（28 条，10 个来源）
 
 国际科技背景：
-1. Tech researchers are suing the Trump administration over the future of online safety｜MIT Technology Review｜https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/
-2. Ubisoft shares plunge 14% after Assassin’s Creed maker warns of annual profit loss｜CNBC Technology｜https://www.cnbc.com/2026/05/21/ubisoft-fy-earnings-profit-loss-assassins-creed.html
-3. Samsung Electronics shares rally 6% after union suspends strike following tentative wage deal｜CNBC Technology｜https://www.cnbc.com/2026/05/21/samsung-electronics-union-strike-suspended-wage-deal-bonuses.html
-4. Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia｜TechCrunch｜https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/
-5. Sam Altman makes ‘mic drop’ offer to every Y Combinator startup｜TechCrunch｜https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/
+1. Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/
+2. Deus ex machina: Half of US Christians trust AI's spiritual advice｜The Register｜https://www.theregister.com/ai-ml/2026/05/21/deus-ex-machina-half-of-us-christians-trust-ais-spiritual-advice/5244371
+3. Job training for robots: How China is getting machines ready to join the workforce｜CNBC Technology｜https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html
+4. Here we go again with Nvidia falling on earnings. What the sellers are missing｜CNBC Technology｜https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html
+5. SpaceX tries to launch a bigger version of Starship but hits a series of last-minute problems｜AP Technology｜https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
