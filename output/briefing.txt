@@ -1,11 +1,11 @@
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/23 17:21:43
+生成时间：2026/5/23 17:26:05
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 39 条｜国际 10 条
-延续跟踪线索：国内 21 条｜国际 28 条
+新增核心线索：国内 4 条｜国际 0 条
+延续跟踪线索：国内 58 条｜国际 38 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -35,20 +35,18 @@
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
 本次新增线索：
-- 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml
-- 太蓝新能源无人机固态电芯批量交付：年产能将破千万支｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml
-- 有身份证了！人形机器人将实现全流程溯源｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html
-- 我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpn5314296.shtml
-- 2030年，中国将实现航天员登月｜新浪科技｜https://finance.sina.com.cn/wm/2026-05-23/doc-inhyvxru5576720.shtml
-- OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html
+- 人形机器人全生命周期管理服务平台已完成2.8万 11:41｜网易科技｜https://www.163.com/dy/article/KTK34VMH0512B07B.html
+- 从“堆算力”到“拼存力”，西部数据展示五年产品路线图｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpn5326450.shtml
+- 从“两弹一星”到AI时代，我们如何谈论科学家精神？｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-05-23/doc-inhywqph7575912.shtml
+- 续航缩水催生“续命”黑产 新能源汽车私改电池乱象调查｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpk4353189.shtml
 
 今日热点方向：
-- AI 应用：AI动态（81 条，11 个来源）
-- 芯片/半导体：半导体供应链（18 条，7 个来源）
-- 机器人/具身智能：人形机器人与具身智能（17 条，9 个来源）
-- 新能源车/智能驾驶：新能源车动态（14 条，4 个来源）
+- AI 应用：AI动态（82 条，12 个来源）
+- 芯片/半导体：半导体供应链（19 条，8 个来源）
+- 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）
+- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）
 - 太空与低空经济：太空与低空动态（10 条，4 个来源）
-- 科学前沿：科学前沿与科研设施（29 条，11 个来源）
+- 科学前沿：科学前沿与科研设施（30 条，11 个来源）
 
 国际科技背景：
 1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/

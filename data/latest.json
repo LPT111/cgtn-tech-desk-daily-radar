@@ -1,71 +1,40 @@
 {
-  "generatedAt": "2026-05-23T09:21:43.363Z",
+  "generatedAt": "2026-05-23T09:26:05.280Z",
   "radarVersion": "v2",
   "targetDate": "2026-05-23",
   "changeSummary": {
-    "domesticNew": 39,
-    "globalNew": 10,
-    "domesticContinued": 21,
-    "globalContinued": 28,
+    "domesticNew": 4,
+    "globalNew": 0,
+    "domesticContinued": 58,
+    "globalContinued": 38,
     "topNewDomestic": [
       {
-        "title": "消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml"
+        "title": "人形机器人全生命周期管理服务平台已完成2.8万 11:41",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/KTK34VMH0512B07B.html"
       },
       {
-        "title": "太蓝新能源无人机固态电芯批量交付：年产能将破千万支",
+        "title": "从“堆算力”到“拼存力”，西部数据展示五年产品路线图",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpn5326450.shtml"
       },
       {
-        "title": "有身份证了！人形机器人将实现全流程溯源",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html"
+        "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-05-23/doc-inhywqph7575912.shtml"
       },
       {
-        "title": "我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试",
+        "title": "续航缩水催生“续命”黑产 新能源汽车私改电池乱象调查",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpn5314296.shtml"
-      },
-      {
-        "title": "2030年，中国将实现航天员登月",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/wm/2026-05-23/doc-inhyvxru5576720.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpk4353189.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "OpenAI has a new website where you can check if an image is real or AI slop",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html"
-      },
-      {
-        "title": "‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59",
-        "source": "AP Technology",
-        "url": "https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1"
-      },
-      {
-        "title": "A 'Golden Orb' on the Ocean Floor Came From a Mysterious Animal",
-        "source": "WIRED Science",
-        "url": "https://www.wired.com/story/a-golden-orb-on-the-ocean-floor-came-from-a-mysterious-animal/"
-      },
-      {
-        "title": "These 4 overlooked Android settings made my cheap headphones sound like AirPods",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/audio/articles/4-overlooked-android-settings-made-194618618.html"
-      },
-      {
-        "title": "Yahoo Mail Offers 1 TB of Free Storage While Gmail Caps at 15 GB — but Reddit Found the Catch and It Is a Big One",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/general/articles/yahoo-mail-offers-1-tb-065915440.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 27,
   "failedSources": [
     {
       "name": "财联社",
@@ -101,11 +70,6 @@
       "name": "国家网信办-政策",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -148,11 +112,6 @@
       "name": "国家网信办-政策",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -381,9 +340,8 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -416,13 +374,13 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1297,
+  "itemsSeen": 1358,
   "itemsAfterEnrich": 900,
   "itemsAfterRelevantFilter": 544,
-  "itemsAfterDedupe": 346,
-  "todayItemsSeen": 60,
+  "itemsAfterDedupe": 348,
+  "todayItemsSeen": 62,
   "suspectedItemsSeen": 1,
-  "skippedNonToday": 286,
+  "skippedNonToday": 285,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -644,9 +602,8 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -868,11 +825,6 @@
       "optional": true
     },
     {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国务院政策文件",
       "error": "403 Forbidden",
       "optional": false
@@ -902,8 +854,8 @@
   "topics": [
     {
       "topic": "AI动态",
-      "count": 81,
-      "sourceCount": 11,
+      "count": 82,
+      "sourceCount": 12,
       "sources": [
         "新浪科技",
         "IT之家",
@@ -913,6 +865,7 @@
         "中国科学报",
         "TechNode",
         "科技日报",
+        "中国科学院",
         "人民网-科技",
         "新华网-科技",
         "光明网-科技"
@@ -927,7 +880,7 @@
     },
     {
       "topic": "科学前沿与科研设施",
-      "count": 29,
+      "count": 30,
       "sourceCount": 11,
       "sources": [
         "中国科学报",
@@ -945,14 +898,14 @@
       "items": [
         "使用AI虚构参考文献的作者将被arXiv封禁一年",
         "加密行业正严阵以待量子计算带来的安全威胁",
+        "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
         "巴基斯坦航天员与中国航天员一同训练！外国人上中国空间站先学中文",
-        "推翻“量子霸权”论断，笔记本电脑 + 新算法攻破量子难题",
-        "两名巴基斯坦航天员已进入中国航天员科研训练中 09:41"
+        "推翻“量子霸权”论断，笔记本电脑 + 新算法攻破量子难题"
       ]
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 58,
+      "count": 55,
       "sourceCount": 10,
       "sources": [
         "新浪科技",
@@ -976,7 +929,7 @@
     },
     {
       "topic": "人形机器人与具身智能",
-      "count": 17,
+      "count": 16,
       "sourceCount": 9,
       "sources": [
         "新浪科技",
@@ -992,9 +945,31 @@
       "items": [
         "川崎重工业与英伟达、微软在AI领域展开合作",
         "太蓝新能源无人机固态电芯批量交付：年产能将破千万支",
-        "人形机器人有了官方“身份证”，2万余台机器人获全生命周期赋码",
-        "让机器人拥有“肌肉记忆”，智元推出新一代二阶段 BFM-2 基座模型",
-        "人形机器人“身份证”来了，全国首个管理平台上 07:36"
+        "人形机器人“身份证”来了，全国首个管理平台上 07:36",
+        "人形机器人全生命周期管理服务平台已完成2.8万 11:41",
+        "独家对话原力灵机范浩强：做具身原生，我们"
+      ]
+    },
+    {
+      "topic": "半导体供应链",
+      "count": 19,
+      "sourceCount": 8,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "观察者网-产业科技",
+        "TechNode",
+        "中国科学院",
+        "中国科学报",
+        "新华网-科技"
+      ],
+      "items": [
+        "绿通科技净利连降三年拟1.2亿跨界光通信 曾5.3亿跨界半导体标的业绩增速远不及同行",
+        "法国总统马克龙：将投入 15 亿欧元，用于量子计算与高端芯片领域",
+        "顶级投资人：大型科技软件时代已然落幕",
+        "消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市",
+        "5月23日热门中概股多数下跌 富途控股跌27.53%，蔚来跌7.05%"
       ]
     },
     {
@@ -1042,7 +1017,7 @@
     },
     {
       "topic": "监管与安全动态",
-      "count": 19,
+      "count": 20,
       "sourceCount": 7,
       "sources": [
         "新浪科技",
@@ -1062,29 +1037,8 @@
       ]
     },
     {
-      "topic": "半导体供应链",
-      "count": 18,
-      "sourceCount": 7,
-      "sources": [
-        "新浪科技",
-        "IT之家",
-        "网易科技",
-        "观察者网-产业科技",
-        "TechNode",
-        "中国科学报",
-        "新华网-科技"
-      ],
-      "items": [
-        "绿通科技净利连降三年拟1.2亿跨界光通信 曾5.3亿跨界半导体标的业绩增速远不及同行",
-        "法国总统马克龙：将投入 15 亿欧元，用于量子计算与高端芯片领域",
-        "顶级投资人：大型科技软件时代已然落幕",
-        "消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市",
-        "5月23日热门中概股多数下跌 富途控股跌27.53%，蔚来跌7.05%"
-      ]
-    },
-    {
       "topic": "国产 GPU / 算力基础设施",
-      "count": 15,
+      "count": 16,
       "sourceCount": 7,
       "sources": [
         "新浪科技",
@@ -1098,9 +1052,9 @@
       "items": [
         "欧洲芯片和数据中心股票上涨 科技股表现优于大盘",
         "杨元庆：AI算力需求“爆发式”增长，未来推理将消耗70%算力",
+        "从“堆算力”到“拼存力”，西部数据展示五年产品路线图",
         "华为发布AI DC数据基础设施全栈方案 加速推进AI数据中心建设",
-        "Meta 美国在建 AI 数据中心被指恶化水源，当地居民靠外运水做饭洗澡",
-        "AI早报｜SpaceX拟打造超级太阳能工厂，助力太空 09:42"
+        "Meta 美国在建 AI 数据中心被指恶化水源，当地居民靠外运水做饭洗澡"
       ]
     },
     {
@@ -1124,7 +1078,7 @@
     },
     {
       "topic": "新能源车动态",
-      "count": 14,
+      "count": 15,
       "sourceCount": 4,
       "sources": [
         "新浪科技",
@@ -1133,11 +1087,11 @@
         "观察者网-产业科技"
       ],
       "items": [
+        "续航缩水催生“续命”黑产 新能源汽车私改电池乱象调查",
         "消息称Q1全球电动汽车电池新装车244GWh 宁德时代依旧遥遥领先",
         "送 1:64 合金车模：小米汽车试驾送车模活动回归",
         "雷军：输给特斯拉不丢人",
-        "特斯拉宣布：赛博无人驾驶电动车Cybercab正式量 16:31",
-        "小米发布YU7 GT，雷军回应YU7销量：输给特斯拉 13:23"
+        "特斯拉宣布：赛博无人驾驶电动车Cybercab正式量 16:31"
       ]
     },
     {
@@ -1487,17 +1441,17 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "人形机器人有了官方“身份证”，2万余台机器人获全生命周期赋码",
-      "summary": "新京报讯（记者吴婷婷）5月22日，人形机器人全生命周期管理服务平台工作推进会在北京经开区举行。截至目前，该平台已覆盖全国100余家人形机器人企业，完成200余个产品型号、2.8万余台机器人的全生命周期赋码。人形机器人全生命周期管理服务平台签...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "人形机器人全生命周期管理服务平台已完成2.8万 11:41",
+      "summary": "人形机器人全生命周期管理服务平台已完成2.8万余台机器人的全生命周期赋码,生命周期,企业微信,人形机器人",
+      "source": "网易科技",
       "sources": [
-        "新浪科技"
+        "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfp6951789.shtml",
+      "url": "https://www.163.com/dy/article/KTK34VMH0512B07B.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfp6951789.shtml"
+        "https://www.163.com/dy/article/KTK34VMH0512B07B.html"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
@@ -1509,37 +1463,9 @@
       "angle": "Show whether robotics is entering real production and service settings, not just product launches or demos.",
       "status": "confirmed_today",
       "matchedTopic": "人形机器人与具身智能",
-      "rawText": "新京报讯（记者吴婷婷）5月22日，人形机器人全生命周期管理服务平台工作推进会在北京经开区举行。截至目前，该平台已覆盖全国100余家人形机器人企业，完成200余个产品型号、2.8万余台机器人的全生命周期赋码。人形机器人全生命周期管理服务平台签...",
+      "rawText": "人形机器人全生命周期管理服务平台已完成2.8万余台机器人的全生命周期赋码,生命周期,企业微信,人形机器人",
       "relatedTitles": [
-        "人形机器人有了官方“身份证”，2万余台机器人获全生命周期赋码"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "让机器人拥有“肌肉记忆”，智元推出新一代二阶段 BFM-2 基座模型",
-      "summary": "IT之家 5 月 23 日消息，智元今天宣布推出新一代二阶段 Motion-Between 运控基座模型 BFM-2，号称让机器人拥有“肌肉记忆”。据介绍，该模型可在任意状态下（IT之家注：静态 or 预设动作 or 随机输入），让机器人自...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywkfq5414409.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywkfq5414409.shtml"
-      ],
-      "publishedAt": "2026-05-23",
-      "date": "2026-05-23",
-      "category": "机器人",
-      "keywords": "robotics, automation, smart manufacturing, embodied AI",
-      "priority": 5,
-      "score": 102,
-      "format": "video",
-      "angle": "Show whether robotics is entering real production and service settings, not just product launches or demos.",
-      "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "IT之家 5 月 23 日消息，智元今天宣布推出新一代二阶段 Motion-Between 运控基座模型 BFM-2，号称让机器人拥有“肌肉记忆”。据介绍，该模型可在任意状态下（IT之家注：静态 or 预设动作 or 随机输入），让机器人自...",
-      "relatedTitles": [
-        "让机器人拥有“肌肉记忆”，智元推出新一代二阶段 BFM-2 基座模型"
+        "人形机器人全生命周期管理服务平台已完成2.8万 11:41"
       ]
     },
     {
@@ -1708,6 +1634,62 @@
       "rawText": "作者： 帅俊全，褚尔嘉 来源：央视新闻客户端 发布时间：2026/5/23 11:00:12 9项科学实验将随神舟二十三号载人飞船上行中国空间站 记者从中国科学院空间应用工程与技术中心获悉，神舟二十三号载人飞船将携带9项科学实验上行中国空间站。上行样品及装置总重量约54公斤，主要包括肝脏细胞、水稻和拟南芥种子、纳米酶、放线菌、钙钛矿电池等实验材料。 将开展钙钛矿太阳能电池空间科学研究 本次神舟二十三号任务重点聚焦于两类钙钛矿太阳能电池材料和器件开展空间实验。 钙钛矿电池是一种新型光伏电池，它与我们日常生活中接触到的干电池或新能源车电池有本质区别，我们平时大多接触的是储能类电池，本身不能发电，而",
       "relatedTitles": [
         "神舟二十三号携9项科学实验上空间站"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "从“堆算力”到“拼存力”，西部数据展示五年产品路线图",
+      "summary": "“我们的目标非常明确：让客户能够更轻松地释放数据的全部潜力。”在西部数据的客户创新日上，西部数据首席产品官 Ahmed Shihab表示，AI基础设施的本质正在发生根本性转变——它不再仅仅是算力的堆砌，而是一个庞大的长期数据系统。从模型训练...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpn5326450.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpn5326450.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 92,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "“我们的目标非常明确：让客户能够更轻松地释放数据的全部潜力。”在西部数据的客户创新日上，西部数据首席产品官 Ahmed Shihab表示，AI基础设施的本质正在发生根本性转变——它不再仅仅是算力的堆砌，而是一个庞大的长期数据系统。从模型训练...",
+      "relatedTitles": [
+        "从“堆算力”到“拼存力”，西部数据展示五年产品路线图"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+      "summary": "5月23日，2026上海科技节在上海科技馆正式启幕，第五届上海科技传播大会同步召开。在上海科技传播大会的主旨大会上，演讲嘉宾多次聚焦科学家精神，并从不同时代切入，阐释科学家精神的内涵。中国科学院院士、复旦大学未来能源高等研究院院长包信和在主...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-05-23/doc-inhywqph7575912.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-05-23/doc-inhywqph7575912.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "科学前沿",
+      "keywords": "scientific research, frontier science, research infrastructure",
+      "priority": 5,
+      "score": 92,
+      "format": "package",
+      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿与科研设施",
+      "rawText": "5月23日，2026上海科技节在上海科技馆正式启幕，第五届上海科技传播大会同步召开。在上海科技传播大会的主旨大会上，演讲嘉宾多次聚焦科学家精神，并从不同时代切入，阐释科学家精神的内涵。中国科学院院士、复旦大学未来能源高等研究院院长包信和在主...",
+      "relatedTitles": [
+        "从“两弹一星”到AI时代，我们如何谈论科学家精神？"
       ]
     },
     {
@@ -2384,6 +2366,34 @@
       "rawText": "新浪科技讯 5月23日消息，蔚来举行一季度财报媒体交流会。针对市场关注的二季度毛利率和交付增长，蔚来创始人、董事长、CEO李斌表示，二季度开始，蔚来面临的成本压力较一季度有所加大，单车成本上涨“大体上一万多块钱”，不同车型情况不同，“高...",
       "relatedTitles": [
         "李斌：Q2成本压力加大，蔚来不靠降价换量"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "续航缩水催生“续命”黑产 新能源汽车私改电池乱象调查",
+      "summary": "中经记者 夏治斌 石英婧 上海报道近期，一则关于新能源汽车OTA（远程在线升级系统）升级后，标称500公里的续航实际跑不到300公里的公开报道，引发了外界的广泛关注。与此同时，市场上也流传出“8家车企因‘锁电’问题被约谈”的消息。尽管该消息...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpk4353189.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpk4353189.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 77,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "中经记者 夏治斌 石英婧 上海报道近期，一则关于新能源汽车OTA（远程在线升级系统）升级后，标称500公里的续航实际跑不到300公里的公开报道，引发了外界的广泛关注。与此同时，市场上也流传出“8家车企因‘锁电’问题被约谈”的消息。尽管该消息...",
+      "relatedTitles": [
+        "续航缩水催生“续命”黑产 新能源汽车私改电池乱象调查"
       ]
     },
     {
@@ -3625,8 +3635,8 @@
       "status": "confirmed_today"
     }
   ],
-  "brief": "ChenChen 今日中国科技热点｜2026-05-23｜v2\n生成时间：2026/5/23 17:21:43\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2537｜确认今日 60｜国际背景 38\n\n本次更新：\n新增核心线索：国内 39 条｜国际 10 条\n延续跟踪线索：国内 21 条｜国际 28 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36\n   网易科技｜2026-05-23｜https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源\n   科技日报｜2026-05-23｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n- 太蓝新能源无人机固态电芯批量交付：年产能将破千万支｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n- 有身份证了！人形机器人将实现全流程溯源｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n- 我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpn5314296.shtml\n- 2030年，中国将实现航天员登月｜新浪科技｜https://finance.sina.com.cn/wm/2026-05-23/doc-inhyvxru5576720.shtml\n- OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n\n今日热点方向：\n- AI 应用：AI动态（81 条，11 个来源）\n- 芯片/半导体：半导体供应链（18 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（17 条，9 个来源）\n- 新能源车/智能驾驶：新能源车动态（14 条，4 个来源）\n- 太空与低空经济：太空与低空动态（10 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（29 条，11 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\n2. OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\n4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\n5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59｜AP Technology｜https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-23｜v2\n生成时间：2026/5/23 17:21:43\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2537｜确认今日 60｜国际背景 38\n\n本次更新：\n新增核心线索：国内 39 条｜国际 10 条\n延续跟踪线索：国内 21 条｜国际 28 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36\n   网易科技｜2026-05-23｜https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源\n   科技日报｜2026-05-23｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n- 太蓝新能源无人机固态电芯批量交付：年产能将破千万支｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n- 有身份证了！人形机器人将实现全流程溯源｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n- 我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpn5314296.shtml\n- 2030年，中国将实现航天员登月｜新浪科技｜https://finance.sina.com.cn/wm/2026-05-23/doc-inhyvxru5576720.shtml\n- OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n\n今日热点方向：\n- AI 应用：AI动态（81 条，11 个来源）\n- 芯片/半导体：半导体供应链（18 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（17 条，9 个来源）\n- 新能源车/智能驾驶：新能源车动态（14 条，4 个来源）\n- 太空与低空经济：太空与低空动态（10 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（29 条，11 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\n2. OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\n4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\n5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59｜AP Technology｜https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-23｜生成时间：2026/5/23 17:21:43｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2537｜确认今日 60｜国际背景 38</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 39 条｜国际 10 条<br>延续跟踪线索：国内 21 条｜国际 28 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市</strong>\n      <span>新浪科技｜2026-05-23｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围</strong>\n      <span>新浪科技｜2026-05-23｜<a href=\"https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支</strong>\n      <span>新浪科技｜2026-05-23｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36</strong>\n      <span>网易科技｜2026-05-23｜<a href=\"https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源</strong>\n      <span>科技日报｜2026-05-23｜<a href=\"https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go</strong>\n      <span>时间：Fri, 22 May 2026 16:51:40 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI has a new website where you can check if an image is real or AI slop</strong>\n      <span>时间：2026-05-23｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers</strong>\n      <span>时间：Fri, 22 May 2026 16:27:57 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Shein Buying Everlane Actually Makes Perfect Sense</strong>\n      <span>时间：Fri, 22 May 2026 17:53:01 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59</strong>\n      <span>时间：2026-05-23｜来源：AP Technology｜<a href=\"https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/23 17:21:43\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 39 条｜国际 10 条\n延续跟踪线索：国内 21 条｜国际 28 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n- 太蓝新能源无人机固态电芯批量交付：年产能将破千万支｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n- 有身份证了！人形机器人将实现全流程溯源｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n- 我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpn5314296.shtml\n- 2030年，中国将实现航天员登月｜新浪科技｜https://finance.sina.com.cn/wm/2026-05-23/doc-inhyvxru5576720.shtml\n- OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n\n今日热点方向：\n- AI 应用：AI动态（81 条，11 个来源）\n- 芯片/半导体：半导体供应链（18 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（17 条，9 个来源）\n- 新能源车/智能驾驶：新能源车动态（14 条，4 个来源）\n- 太空与低空经济：太空与低空动态（10 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（29 条，11 个来源）\n\n国际科技背景：\n1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\n2. OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\n4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\n5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59｜AP Technology｜https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "ChenChen 今日中国科技热点｜2026-05-23｜v2\n生成时间：2026/5/23 17:26:05\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2598｜确认今日 62｜国际背景 38\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 58 条｜国际 38 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36\n   网易科技｜2026-05-23｜https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源\n   科技日报｜2026-05-23｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 人形机器人全生命周期管理服务平台已完成2.8万 11:41｜网易科技｜https://www.163.com/dy/article/KTK34VMH0512B07B.html\n- 从“堆算力”到“拼存力”，西部数据展示五年产品路线图｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpn5326450.shtml\n- 从“两弹一星”到AI时代，我们如何谈论科学家精神？｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-05-23/doc-inhywqph7575912.shtml\n- 续航缩水催生“续命”黑产 新能源汽车私改电池乱象调查｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpk4353189.shtml\n\n今日热点方向：\n- AI 应用：AI动态（82 条，12 个来源）\n- 芯片/半导体：半导体供应链（19 条，8 个来源）\n- 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）\n- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）\n- 太空与低空经济：太空与低空动态（10 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（30 条，11 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\n2. OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\n4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\n5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59｜AP Technology｜https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-23｜v2\n生成时间：2026/5/23 17:26:05\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2598｜确认今日 62｜国际背景 38\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 58 条｜国际 38 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36\n   网易科技｜2026-05-23｜https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源\n   科技日报｜2026-05-23｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 人形机器人全生命周期管理服务平台已完成2.8万 11:41｜网易科技｜https://www.163.com/dy/article/KTK34VMH0512B07B.html\n- 从“堆算力”到“拼存力”，西部数据展示五年产品路线图｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpn5326450.shtml\n- 从“两弹一星”到AI时代，我们如何谈论科学家精神？｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-05-23/doc-inhywqph7575912.shtml\n- 续航缩水催生“续命”黑产 新能源汽车私改电池乱象调查｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpk4353189.shtml\n\n今日热点方向：\n- AI 应用：AI动态（82 条，12 个来源）\n- 芯片/半导体：半导体供应链（19 条，8 个来源）\n- 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）\n- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）\n- 太空与低空经济：太空与低空动态（10 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（30 条，11 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\n2. OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\n4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\n5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59｜AP Technology｜https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-23｜生成时间：2026/5/23 17:26:05｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2598｜确认今日 62｜国际背景 38</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 58 条｜国际 38 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市</strong>\n      <span>新浪科技｜2026-05-23｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围</strong>\n      <span>新浪科技｜2026-05-23｜<a href=\"https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支</strong>\n      <span>新浪科技｜2026-05-23｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36</strong>\n      <span>网易科技｜2026-05-23｜<a href=\"https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源</strong>\n      <span>科技日报｜2026-05-23｜<a href=\"https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go</strong>\n      <span>时间：Fri, 22 May 2026 16:51:40 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI has a new website where you can check if an image is real or AI slop</strong>\n      <span>时间：2026-05-23｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers</strong>\n      <span>时间：Fri, 22 May 2026 16:27:57 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Shein Buying Everlane Actually Makes Perfect Sense</strong>\n      <span>时间：Fri, 22 May 2026 17:53:01 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59</strong>\n      <span>时间：2026-05-23｜来源：AP Technology｜<a href=\"https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/23 17:26:05\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 58 条｜国际 38 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 人形机器人全生命周期管理服务平台已完成2.8万 11:41｜网易科技｜https://www.163.com/dy/article/KTK34VMH0512B07B.html\n- 从“堆算力”到“拼存力”，西部数据展示五年产品路线图｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpn5326450.shtml\n- 从“两弹一星”到AI时代，我们如何谈论科学家精神？｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-05-23/doc-inhywqph7575912.shtml\n- 续航缩水催生“续命”黑产 新能源汽车私改电池乱象调查｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpk4353189.shtml\n\n今日热点方向：\n- AI 应用：AI动态（82 条，12 个来源）\n- 芯片/半导体：半导体供应链（19 条，8 个来源）\n- 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）\n- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）\n- 太空与低空经济：太空与低空动态（10 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（30 条，11 个来源）\n\n国际科技背景：\n1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\n2. OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\n4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\n5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59｜AP Technology｜https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
