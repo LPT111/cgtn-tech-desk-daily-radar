@@ -2,57 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/22 18:40:33
+生成时间：2026/5/23 09:24:24
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 0 条｜国际 0 条
-延续跟踪线索：国内 111 条｜国际 40 条
-本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
+新增核心线索：国内 25 条｜国际 29 条
+延续跟踪线索：国内 2 条｜国际 0 条
+本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-05-22] 连续3年全球销量第一 Ulike启动家用脱毛仪行业科学与标准白皮书
+1. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-05-22/doc-inhytqkv7789047.shtml
+   链接：https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml
+   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
+
+2. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KTJL4GGD0534A4SC.html
+   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
+
+3. [2026-05-23] 提供美国25%药物研发，药明康德为何屡遭打击？
+   来源：观察者网-产业科技
+   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
+   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
+
+4. [2026-05-23] 美国打压，能限制中国药企崛起吗？
+   来源：观察者网-产业科技
+   链接：https://www.guancha.cn/industry-science/2024_08_21_745527.shtml
    角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
 
-2. [2026-05-22] 器件智能紧凑建模研究取得进展
-   来源：中国科学院
-   链接：https://www.cas.cn/syky/202605/t20260521_5110197.shtml
-   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
-
-3. [2026-05-22] 毕业论文将检测AIGC率，该如何界定使用边界
-   来源：中国科学报
-   链接：https://news.sciencenet.cn/htmlnews/2026/5/565116.shtm
-   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
-
-4. [2026-05-22] 中国贸促会：在筹备适时组织中国企业赴美交流，促进两国工商界深化务实合作
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytusq8578063.shtml
-   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
-
-5. [2026-05-22] 最后一座隧道贯通！全国速度最快、标准最高高铁取得重大进展
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-05/22/content_520784.html
-   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
+5. [2026-05-23] 萝卜快跑，慢就是快
+   来源：观察者网-产业科技
+   链接：https://www.guancha.cn/industry-science/2024_08_21_745526.shtml
+   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
 
 本次新增线索：
-- 暂无新增核心线索。
+- 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围｜新浪科技｜https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml
+- 人形机器人“身份证”来了，全国首个管理平台上 07:36｜网易科技｜https://www.163.com/dy/article/KTJL4GGD0534A4SC.html
+- 提供美国25%药物研发，药明康德为何屡遭打击？｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
+- 萝卜快跑，慢就是快｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml
+- 欧盟港停满中国车？“产能过剩”不背锅｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_07_26_742793.shtml
+- Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/
 
 今日热点方向：
-- AI 应用：AI动态（92 条，11 个来源）
-- 芯片/半导体：半导体供应链（26 条，7 个来源）
-- 机器人/具身智能：人形机器人与具身智能（18 条，9 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（10 条，4 个来源）
-- 太空与低空经济：低空经济与无人机（6 条，4 个来源）
-- 科学前沿：科学前沿与科研设施（27 条，9 个来源）
+- AI 应用：AI动态（84 条，11 个来源）
+- 芯片/半导体：半导体供应链（19 条，6 个来源）
+- 机器人/具身智能：人形机器人与具身智能（15 条，10 个来源）
+- 新能源车/智能驾驶：新能源车动态（16 条，4 个来源）
+- 太空与低空经济：太空与低空动态（7 条，5 个来源）
+- 科学前沿：科学前沿与科研设施（33 条，11 个来源）
 
 国际科技背景：
-1. Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?｜WIRED Business｜https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/
-2. Deus ex machina: Half of US Christians trust AI's spiritual advice｜The Register｜https://www.theregister.com/ai-ml/2026/05/21/deus-ex-machina-half-of-us-christians-trust-ais-spiritual-advice/5244371
-3. Intel reveals Project Firefly to make cheap Wildcat Lake laptops that rival MacBook Neo｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/intel-reveals-project-firefly-cheap-101816432.html
-4. Job training for robots: How China is getting machines ready to join the workforce｜CNBC Technology｜https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html
-5. Here we go again with Nvidia falling on earnings. What the sellers are missing｜CNBC Technology｜https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html
+1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/
+2. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/
+3. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/
+4. Upcoming guidelines supporting the implementation of the AI Act｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines
+5. NIST Digital Archives｜NIST AI｜http://nistdigitalarchives.contentdm.oclc.org/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
