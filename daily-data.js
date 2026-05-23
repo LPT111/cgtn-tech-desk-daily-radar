@@ -1,76 +1,91 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-05-23T02:29:02.735Z",
+  "generatedAt": "2026-05-23T09:21:43.363Z",
   "radarVersion": "v2",
   "targetDate": "2026-05-23",
   "changeSummary": {
-    "domesticNew": 21,
-    "globalNew": 17,
-    "domesticContinued": 16,
-    "globalContinued": 21,
+    "domesticNew": 39,
+    "globalNew": 10,
+    "domesticContinued": 21,
+    "globalContinued": 28,
     "topNewDomestic": [
       {
-        "title": "AI早报｜SpaceX拟打造超级太阳能工厂，助力太空 09:42",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KTJSAQKJ0534A4SC.html"
-      },
-      {
-        "title": "推动人工智能扎根田间地头",
-        "source": "人民网-科技",
-        "url": "http://finance.people.com.cn/n1/2026/0523/c1004-40725830.html"
-      },
-      {
-        "title": "明日发射！香港女航天员将赴“天宫”",
+        "title": "消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxru5548015.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml"
       },
       {
-        "title": "嫦娥七号下半年择机发射 10:16",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KTJU8UU305198CJN.html"
-      },
-      {
-        "title": "阶跃星辰百亿估值背后，是AI变现的解药还是新焦虑？",
+        "title": "太蓝新能源无人机固态电芯批量交付：年产能将破千万支",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxrq7826815.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml"
+      },
+      {
+        "title": "有身份证了！人形机器人将实现全流程溯源",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html"
+      },
+      {
+        "title": "我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpn5314296.shtml"
+      },
+      {
+        "title": "2030年，中国将实现航天员登月",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/wm/2026-05-23/doc-inhyvxru5576720.shtml"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Chinese Memory Flood Could Finally Drop DRAM and SSD Prices",
+        "title": "OpenAI has a new website where you can check if an image is real or AI slop",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/chinese-memory-flood-could-finally-182237135.html"
+        "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html"
       },
       {
-        "title": "5 Tech Brands That Got Bought Up By Apple (And What Happened When They Did)",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/5-tech-brands-got-bought-223000115.html"
+        "title": "‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59",
+        "source": "AP Technology",
+        "url": "https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1"
       },
       {
-        "title": "Before it comes down, what should be saved from the International Space Station?",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/space/2026/05/before-it-comes-down-what-should-be-saved-from-the-international-space-station/"
+        "title": "A 'Golden Orb' on the Ocean Floor Came From a Mysterious Animal",
+        "source": "WIRED Science",
+        "url": "https://www.wired.com/story/a-golden-orb-on-the-ocean-floor-came-from-a-mysterious-animal/"
       },
       {
-        "title": "Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel",
+        "title": "These 4 overlooked Android settings made my cheap headphones sound like AirPods",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/audio/deals/articles/twelve-south-airfly-pro-2-180000266.html"
+        "url": "https://tech.yahoo.com/audio/articles/4-overlooked-android-settings-made-194618618.html"
       },
       {
-        "title": "New AI Spotify Feature Allows Listeners Create Covers And Remixes Of Songs By Participating UMG Artists",
+        "title": "Yahoo Mail Offers 1 TB of Free Storage While Gmail Caps at 15 GB — but Reddit Found the Catch and It Is a Big One",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/audio/articles/ai-spotify-feature-allows-listeners-163234248.html"
+        "url": "https://tech.yahoo.com/general/articles/yahoo-mail-offers-1-tb-065915440.html"
       }
     ],
     "hasPrevious": true
   },
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 26,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -78,9 +93,19 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -90,9 +115,24 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -100,9 +140,19 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -114,7 +164,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 179,
+      "parsed": 178,
       "failed": false,
       "optional": false
     },
@@ -163,8 +213,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "财联社",
       "tier": "mainstream",
-      "parsed": 1,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -277,14 +328,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -305,8 +358,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 13,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -314,7 +368,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -327,8 +381,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -361,18 +416,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1373,
+  "itemsSeen": 1297,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 550,
-  "itemsAfterDedupe": 344,
-  "todayItemsSeen": 37,
+  "itemsAfterRelevantFilter": 544,
+  "itemsAfterDedupe": 346,
+  "todayItemsSeen": 60,
   "suspectedItemsSeen": 1,
-  "skippedNonToday": 308,
+  "skippedNonToday": 286,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 179,
+      "parsed": 178,
       "failed": false,
       "optional": false
     },
@@ -421,8 +476,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "财联社",
       "tier": "mainstream",
-      "parsed": 1,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -535,14 +591,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -563,8 +621,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 13,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -572,7 +631,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -585,8 +644,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -773,9 +833,24 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -783,9 +858,19 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -813,7 +898,7 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
   "globalItemsSeen": 1240,
-  "globalItemsAfterRelevantFilter": 305,
+  "globalItemsAfterRelevantFilter": 292,
   "topics": [
     {
       "topic": "AI动态",
@@ -842,13 +927,13 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "科学前沿与科研设施",
-      "count": 32,
+      "count": 29,
       "sourceCount": 11,
       "sources": [
         "中国科学报",
         "新浪科技",
-        "网易科技",
         "IT之家",
+        "网易科技",
         "观察者网-产业科技",
         "量子位",
         "科技日报",
@@ -860,21 +945,21 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "使用AI虚构参考文献的作者将被arXiv封禁一年",
         "加密行业正严阵以待量子计算带来的安全威胁",
-        "神二十一乘组有望刷新中国航天员乘组在轨驻留最 09:14",
-        "外钛内铝：三星被曝正研发新型“双相”框架以提升折叠屏手机耐用与散热性能，应对苹果液态金属创新",
-        "苹果发布底层加密库，推进 iPhone / Mac 后量子安全"
+        "巴基斯坦航天员与中国航天员一同训练！外国人上中国空间站先学中文",
+        "推翻“量子霸权”论断，笔记本电脑 + 新算法攻破量子难题",
+        "两名巴基斯坦航天员已进入中国航天员科研训练中 09:41"
       ]
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 59,
+      "count": 58,
       "sourceCount": 10,
       "sources": [
         "新浪科技",
-        "IT之家",
-        "网易科技",
         "中国科学报",
         "量子位",
+        "IT之家",
+        "网易科技",
         "观察者网-产业科技",
         "TechNode",
         "中国科学院",
@@ -883,15 +968,15 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "Mac 版 Codex 更新 Appshots 功能，窗口可直接“喂”给 AI",
+        "神舟二十三号携9项科学实验上空间站",
         "从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围",
-        "Anthropic最快下周完成逾300亿美元融资轮",
-        "知情人士：宁德时代计划投资DeepSeek",
-        "王小川：大模型开始在更多场景下超越资深医生，78.6%盲评认为Al回答优于医生"
+        "我国首个AI应用伦理安全指引发布",
+        "知情人士：宁德时代计划投资DeepSeek"
       ]
     },
     {
       "topic": "人形机器人与具身智能",
-      "count": 15,
+      "count": 17,
       "sourceCount": 9,
       "sources": [
         "新浪科技",
@@ -906,39 +991,41 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "川崎重工业与英伟达、微软在AI领域展开合作",
-        "人形机器人“身份证”来了，全国首个管理平台上 07:36",
-        "200台“成都造”人形机器人集体“上岗”：如何 23:16",
-        "川崎重工在硅谷成立物理AI中心，联手英伟达和微 21:49",
-        "独家对话原力灵机范浩强：做具身原生，我们"
+        "太蓝新能源无人机固态电芯批量交付：年产能将破千万支",
+        "人形机器人有了官方“身份证”，2万余台机器人获全生命周期赋码",
+        "让机器人拥有“肌肉记忆”，智元推出新一代二阶段 BFM-2 基座模型",
+        "人形机器人“身份证”来了，全国首个管理平台上 07:36"
       ]
     },
     {
       "topic": "商业航天与卫星互联网",
       "count": 11,
-      "sourceCount": 7,
+      "sourceCount": 8,
       "sources": [
-        "中国科学报",
         "新浪科技",
+        "IT之家",
         "网易科技",
+        "中国科学报",
+        "观察者网-产业科技",
         "中国科学院",
-        "人民网-科技",
         "新华网-科技",
         "光明网-科技"
       ],
       "items": [
+        "2030年，中国将实现航天员登月",
         "美“星舰”第12次试飞因技术问题推迟",
-        "我国嫦娥七号计划下半年择机发射：登陆月球南极 需找水冰",
-        "巴基斯坦航天员已入列中国训练中心，将执行短期飞行任务",
-        "商业航天“国家队”添新丁 捷龙三号火箭有何特点？",
-        "火圣宇航发动机核心技术获突破 计划2028年发射 20:28"
+        "积累宝贵经验，神舟二十三号舷窗空间碎片防护已进行适应性改进",
+        "神舟二十三号航天员乘组首次亮相：朱杨柱、张志远、黎家盈",
+        "嫦娥七号计划于下半年择机发射：后续将按计划组织完成长征十号运载火箭技术验证飞行、梦舟载人飞船和揽月着陆器首次飞行等重要任务"
       ]
     },
     {
       "topic": "科学前沿动态",
       "count": 23,
-      "sourceCount": 6,
+      "sourceCount": 7,
       "sources": [
         "网易科技",
+        "观察者网-产业科技",
         "科技日报",
         "中国科学院",
         "中国科学报",
@@ -946,60 +1033,21 @@ window.CHENCHEN_DAILY_DATA = {
         "光明网-科技"
       ],
       "items": [
-        "9项科学实验将随神舟二十三号载人飞船上行中国 09:49",
+        "神二十三乘组在轨期间将新开展100余项科学与应 09:39",
         "杨雄里院士：脑机接口让人拥有读心术？有可",
-        "脊梁丨一生为稻 功济万民——追忆“共和国勋章”获得者、中国工程院院士袁隆平",
+        "美国打压，能限制中国药企崛起吗？",
         "翦知湣：极地研究进入“科学深耕”阶段",
         "工程热物理所等在压缩空气储能压缩机研发方面取得突破"
       ]
     },
     {
-      "topic": "半导体供应链",
-      "count": 17,
-      "sourceCount": 6,
-      "sources": [
-        "新浪科技",
-        "网易科技",
-        "观察者网-产业科技",
-        "TechNode",
-        "中国科学报",
-        "新华网-科技"
-      ],
-      "items": [
-        "绿通科技净利连降三年拟1.2亿跨界光通信 曾5.3亿跨界半导体标的业绩增速远不及同行",
-        "法国总统马克龙：将投入 15 亿欧元，用于量子计算与高端芯片领域",
-        "顶级投资人：大型科技软件时代已然落幕",
-        "5月23日热门中概股多数下跌 富途控股跌27.53%，蔚来跌7.05%",
-        "光刻机在华销售额显著下降！ASML最新发声：中国将加速自主替代"
-      ]
-    },
-    {
-      "topic": "国产 GPU / 算力基础设施",
-      "count": 15,
-      "sourceCount": 6,
-      "sources": [
-        "新浪科技",
-        "网易科技",
-        "观察者网-产业科技",
-        "量子位",
-        "TechNode",
-        "新华网-科技"
-      ],
-      "items": [
-        "欧洲芯片和数据中心股票上涨 科技股表现优于大盘",
-        "杨元庆：AI算力需求“爆发式”增长，未来推理将消耗70%算力",
-        "华为发布AI DC数据基础设施全栈方案 加速推进AI数据中心建设",
-        "AI早报｜SpaceX拟打造超级太阳能工厂，助力太空 09:42",
-        "达瑞电子：截至目前尚未在AI眼镜领域形成规模收 20:55"
-      ]
-    },
-    {
       "topic": "监管与安全动态",
-      "count": 14,
-      "sourceCount": 6,
+      "count": 19,
+      "sourceCount": 7,
       "sources": [
         "新浪科技",
         "中国科学院",
+        "网易科技",
         "观察者网-产业科技",
         "中国科学报",
         "人民网-科技",
@@ -1014,8 +1062,50 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "数字经济动态",
+      "topic": "半导体供应链",
+      "count": 18,
+      "sourceCount": 7,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "观察者网-产业科技",
+        "TechNode",
+        "中国科学报",
+        "新华网-科技"
+      ],
+      "items": [
+        "绿通科技净利连降三年拟1.2亿跨界光通信 曾5.3亿跨界半导体标的业绩增速远不及同行",
+        "法国总统马克龙：将投入 15 亿欧元，用于量子计算与高端芯片领域",
+        "顶级投资人：大型科技软件时代已然落幕",
+        "消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市",
+        "5月23日热门中概股多数下跌 富途控股跌27.53%，蔚来跌7.05%"
+      ]
+    },
+    {
+      "topic": "国产 GPU / 算力基础设施",
       "count": 15,
+      "sourceCount": 7,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "观察者网-产业科技",
+        "量子位",
+        "TechNode",
+        "新华网-科技"
+      ],
+      "items": [
+        "欧洲芯片和数据中心股票上涨 科技股表现优于大盘",
+        "杨元庆：AI算力需求“爆发式”增长，未来推理将消耗70%算力",
+        "华为发布AI DC数据基础设施全栈方案 加速推进AI数据中心建设",
+        "Meta 美国在建 AI 数据中心被指恶化水源，当地居民靠外运水做饭洗澡",
+        "AI早报｜SpaceX拟打造超级太阳能工厂，助力太空 09:42"
+      ]
+    },
+    {
+      "topic": "数字经济动态",
+      "count": 16,
       "sourceCount": 5,
       "sources": [
         "中国科学报",
@@ -1033,46 +1123,8 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "中美 AI 与科技政策",
-      "count": 9,
-      "sourceCount": 5,
-      "sources": [
-        "新浪科技",
-        "网易科技",
-        "观察者网-产业科技",
-        "TechNode",
-        "中国科学院"
-      ],
-      "items": [
-        "中国贸促会：在筹备适时组织中国企业赴美交流，促进两国工商界深化务实合作",
-        "扎克伯格深度专访：中美AI竞争完全错误，美国别想长期领先中国",
-        "提供美国25%药物研发，药明康德为何屡遭打击？",
-        "美国打压，能限制中国药企崛起吗？",
-        "萝卜快跑，慢就是快"
-      ]
-    },
-    {
-      "topic": "低空经济与无人机",
-      "count": 5,
-      "sourceCount": 5,
-      "sources": [
-        "新浪科技",
-        "网易科技",
-        "科技日报",
-        "中国科学报",
-        "人民网-科技"
-      ],
-      "items": [
-        "自研5吨级eVTOL！峰飞V5000天际龙正式进入适航取证阶段",
-        "美团无人机低空航网正式投入运营",
-        "全球出货第一！消费级无人机锂电硬核领跑",
-        "蜜蜂导航策略让远距离无人机成功返回",
-        "推动人工智能扎根田间地头"
-      ]
-    },
-    {
       "topic": "新能源车动态",
-      "count": 15,
+      "count": 14,
       "sourceCount": 4,
       "sources": [
         "新浪科技",
@@ -1081,11 +1133,11 @@ window.CHENCHEN_DAILY_DATA = {
         "观察者网-产业科技"
       ],
       "items": [
-        "小米汽车副总裁宋钢：小米与特斯拉非常像，希望把先进的制造理念、制造体系和制造技术带到小米",
-        "送 1:64 合金车模：小米汽车试驾送车模活动回归",
         "消息称Q1全球电动汽车电池新装车244GWh 宁德时代依旧遥遥领先",
-        "特斯拉在美召回14575辆Model Y：因缺失重量认证标签",
-        "万马科技：公司暂未与特斯拉达成合作"
+        "送 1:64 合金车模：小米汽车试驾送车模活动回归",
+        "雷军：输给特斯拉不丢人",
+        "特斯拉宣布：赛博无人驾驶电动车Cybercab正式量 16:31",
+        "小米发布YU7 GT，雷军回应YU7销量：输给特斯拉 13:23"
       ]
     },
     {
@@ -1099,16 +1151,16 @@ window.CHENCHEN_DAILY_DATA = {
         "TechNode"
       ],
       "items": [
+        "李斌谈三品牌长期结构：蔚来、乐道、萤火虫销量或为3:6:1，海外市场会放慢节奏",
+        "李斌：Q2成本压力加大，蔚来不靠降价换量",
         "出现低级错误？比亚迪第三代元PLUS发布会PPT将车型名称写错",
-        "全文|蔚来Q1业绩会实录：材料涨价导致单车成本上涨1万元 将维持价格稳定",
-        "报道：比亚迪正洽谈进军F1赛事",
-        "梅赛德斯-奔驰宣布年底在德推出城市自动驾驶系统",
+        "40.68 万元起，蔚来全新 ES8 完成第 11 万台新车交付",
         "引望李文广：纯视觉搞不定极端叠加场景 距离L4自动驾驶差距巨大"
       ]
     },
     {
       "topic": "太空与低空动态",
-      "count": 9,
+      "count": 10,
       "sourceCount": 4,
       "sources": [
         "新浪科技",
@@ -1117,20 +1169,55 @@ window.CHENCHEN_DAILY_DATA = {
         "科技日报"
       ],
       "items": [
-        "SpaceX第三代星舰首飞成功！释放星链模拟器后重返地球",
-        "中国2030年实现航天员登月 空间站将从这三方面 09:46",
-        "去年中国载人航天工程实施首次应急发射任务，为 09:25",
-        "神舟二十三号载人飞行任务新闻发布会将于今日上 07:31",
-        "我国瞄准明日23时08分发射神舟二十三号载人飞船"
+        "黎家盈：我国首位执行飞行任务的第四批航天员",
+        "我国瞄准明日23时08分发射神舟二十三号载人飞船",
+        "黎家盈，我国首位来自香港的航天员，我国第四位 16:09",
+        "神舟二十三号明天出征！乘组名单确定：朱杨柱、 16:00",
+        "嫦娥7号下半年择机发射 09:48"
       ]
     },
     {
-      "topic": "科技监管与数据安全",
-      "count": 7,
+      "topic": "中美 AI 与科技政策",
+      "count": 5,
       "sourceCount": 4,
       "sources": [
         "新浪科技",
         "网易科技",
+        "TechNode",
+        "中国科学院"
+      ],
+      "items": [
+        "中国贸促会：在筹备适时组织中国企业赴美交流，促进两国工商界深化务实合作",
+        "扎克伯格深度专访：中美AI竞争完全错误，美国别想长期领先中国",
+        "China summons eight EV makers over OTA battery locking practices",
+        "Spanish Prime Minister Pedro Sánchez visits Xiaomi Technology Park in Beijing",
+        "中国科学院—马普学会高层对话会议在京召开"
+      ]
+    },
+    {
+      "topic": "低空经济与无人机",
+      "count": 5,
+      "sourceCount": 4,
+      "sources": [
+        "网易科技",
+        "科技日报",
+        "中国科学报",
+        "人民网-科技"
+      ],
+      "items": [
+        "直击深圳无人机大会：无人机攻防博弈，谁更胜一 16:03",
+        "美团无人机低空航网正式投入运营",
+        "全球出货第一！消费级无人机锂电硬核领跑",
+        "蜜蜂导航策略让远距离无人机成功返回",
+        "推动人工智能扎根田间地头"
+      ]
+    },
+    {
+      "topic": "科技监管与数据安全",
+      "count": 8,
+      "sourceCount": 3,
+      "sources": [
+        "新浪科技",
         "观察者网-产业科技",
         "中国科学报"
       ],
@@ -1138,39 +1225,66 @@ window.CHENCHEN_DAILY_DATA = {
         "连续3年全球销量第一 Ulike启动家用脱毛仪行业科学与标准白皮书",
         "小米汽车发布YU7系列新款：新增23.35万标准版与38.99万高性能GT版",
         "荣耀携手阿莱打造电影工业影像实验室，将电影级影像技术和色彩科学引入移动影像领域",
-        "英特尔推出混合AI解决方案SuperClaw，主打隐私 21:07",
-        "全球首艘！能装一万多辆汽车的运输船今天试航"
-      ]
-    },
-    {
-      "topic": "数字基础设施与平台经济",
-      "count": 3,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "IT之家"
-      ],
-      "items": [
-        "鸿蒙智行问界 M9 系列新品发布会提至 5 月 27 日 14:30，会后即刻开启大定",
-        "鸿蒙智行全新一代问界 M9 系列旗舰 SUV 选配信息大公开，Ultimate 领世加长版大满配价格逼近百万",
-        "疑似华为 nova 16 系列手机外观曝光：依旧双筒镜组设计、新增类“天空之镜”渐变色"
+        "我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试",
+        "福耀科技大学发布招生章程：2026年本科招收100人 新增5个热门专业"
       ]
     },
     {
       "topic": "芯片动态",
-      "count": 2,
+      "count": 3,
       "sourceCount": 2,
       "sources": [
         "IT之家",
         "TechNode"
       ],
       "items": [
-        "Mozilla 解释火狐 Firefox 浏览器在英特尔第 13 / 第 14 代处理器系统上崩溃原因",
+        "英特尔四代 CPU 曝光：Hammer Lake 将引入 Thunder Hawk 统一核心，超线程技术重装上阵",
+        "联想推出 LOQ 15AHP11 游戏本：AMD 锐龙 7 250 CPU、RTX 5050/5060/5070 显卡",
         "Intel warns China of severe server CPU shortage as AI demand surges"
+      ]
+    },
+    {
+      "topic": "数字基础设施与平台经济",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "突破 600 万大关，曝华为 Mate 80 系列手机销量已达 609.35 万台",
+        "华为乾崑｜启境 GT7 车型官宣 5 月 29 日预售发布，同步开启预订"
       ]
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市",
+      "summary": "博主 @数码闲聊站 今日爆料，今年 9 月苹果可能会先上 iPhone 18 Pro 系列 + 首款阔折叠，iPhone 18 标准版放到 2027 年上半年，缓解内存和 2nm 芯片压力。最新消息是，安卓阵营可能会复刻这个打法，Pro 系列和标准版分开上。#苹果发布会# #安卓新机#",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "监管与安全",
+      "keywords": "data security, privacy protection, regulatory framework",
+      "priority": 5,
+      "score": 130,
+      "format": "live",
+      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "IT之家 5 月 23 日消息，博主 @数码闲聊站 今日爆料，今年 9 月苹果可能会先上 iPhone 18 Pro 系列 + 首款阔折叠，iPhone 18 标准版放到 2027 年上半年，缓解内存和 2nm 芯片压力。此外，他还爆料称，...",
+      "relatedTitles": [
+        "消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围",
@@ -1197,6 +1311,34 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "5月21日，第十届世界无人机大会暨国际低空经济与无人系统博览会在深圳开幕，汇聚1220家企业，预计吸引超20万专业观众。大疆、美团、顺丰丰翼等企业展示新成果，大疆发布白皮书，展出全系列飞行平台等，多地应用成果显著；美团无人机低空航网常态化运营并开放合作；顺丰丰翼展示城际物流机型，部分航线已盈亏平衡。同时，低空安全管控受关注，湖南坤雷科技、四川中子源集团等展示解决方案，低空经济安全防护正从硬件服务向综合解决方案转变。 (AI生成)",
       "relatedTitles": [
         "从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "太蓝新能源无人机固态电芯批量交付：年产能将破千万支",
+      "summary": "快科技5月23日消息，太蓝新能源在2026深圳国际无人机展上正式亮相，带来多款面向无人机、机器人的量产级固态电池，相关电芯已经实现批量交付。目前公司在湖北潜江的固态电池生产基地正在稳步建设，全面投产后，电芯年产能可达千万支级别，后续大批量供...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "priority": 5,
+      "score": 112,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "快科技5月23日消息，太蓝新能源在2026深圳国际无人机展上正式亮相，带来多款面向无人机、机器人的量产级固态电池，相关电芯已经实现批量交付。目前公司在湖北潜江的固态电池生产基地正在稳步建设，全面投产后，电芯年产能可达千万支级别，后续大批量供...",
+      "relatedTitles": [
+        "太蓝新能源无人机固态电芯批量交付：年产能将破千万支"
       ]
     },
     {
@@ -1228,115 +1370,176 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "提供美国25%药物研发，药明康德为何屡遭打击？",
-      "summary": "首页 提供美国25%药物研发，药明康德为何屡遭打击？ 分享到： 欧盟高官焦虑：对中国下手，快快快 “中国断了日本4个月” 马克龙不学好：这一招，可效仿美国 日本经产相：与中国沟通，理所应当 “卡塔尔派团德黑兰开展斡旋” “在两国境内，泽连斯基想跟我谈啥都行” “美国情报头子被逼辞职” “莫迪撺掇建立统一战线，减少对中美",
-      "source": "观察者网-产业科技",
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "有身份证了！人形机器人将实现全流程溯源",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 有身份证了！人形机器人将实现全流程溯源 2026-05-23 12:19:51 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
       "sources": [
-        "观察者网-产业科技"
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "机器人",
+      "keywords": "robotics, automation, smart manufacturing, embodied AI",
+      "priority": 5,
+      "score": 110,
+      "format": "video",
+      "angle": "Show whether robotics is entering real production and service settings, not just product launches or demos.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 有身份证了！人形机器人将实现全流程溯源 2026-05-23 12:19:51 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "有身份证了！人形机器人将实现全流程溯源"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试",
+      "summary": "IT之家 5 月 23 日消息，自 5 月 16 日起，我国第二艘国产大型邮轮“爱达 · 花城号”持续在东海指定海域开展试航工作。大型邮轮被誉为“海上移动城市”，振动噪声水平直接影响乘客的乘坐体验，也是衡量邮轮建造品质的重要标准之一。据新华...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/industry-science/2024_08_21_745528.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpn5314296.shtml",
       "sourceUrls": [
-        "https://www.guancha.cn/industry-science/2024_08_21_745528.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpn5314296.shtml"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
       "category": "监管与安全",
       "keywords": "data security, privacy protection, regulatory framework",
       "priority": 5,
-      "score": 103,
+      "score": 105,
       "format": "live",
       "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
       "status": "confirmed_today",
-      "matchedTopic": "中美 AI 与科技政策",
-      "rawText": "首页 提供美国25%药物研发，药明康德为何屡遭打击？ 分享到： 欧盟高官焦虑：对中国下手，快快快 “中国断了日本4个月” 马克龙不学好：这一招，可效仿美国 日本经产相：与中国沟通，理所应当 “卡塔尔派团德黑兰开展斡旋” “在两国境内，泽连斯基想跟我谈啥都行” “美国情报头子被逼辞职” “莫迪撺掇建立统一战线，减少对中美依赖” 德国最新数据：中国超美国冲上第一 马来西亚人怒了：这是变相支持美军打仗 要钻国际法空子 伊朗正和美盟友阿曼讨论这么收钱 “欧盟激怒中方，将举行关键谈判” ​“喜剧教父”黄百鸣，罪名成立 首次！中国考古走进古希腊，将获一手资料 因接触不明物质，美国3人死亡、18名急救人员被",
+      "matchedTopic": "科技监管与数据安全",
+      "rawText": "IT之家 5 月 23 日消息，自 5 月 16 日起，我国第二艘国产大型邮轮“爱达 · 花城号”持续在东海指定海域开展试航工作。大型邮轮被誉为“海上移动城市”，振动噪声水平直接影响乘客的乘坐体验，也是衡量邮轮建造品质的重要标准之一。据新华...",
       "relatedTitles": [
-        "提供美国25%药物研发，药明康德为何屡遭打击？"
+        "我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试"
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "美国打压，能限制中国药企崛起吗？",
-      "summary": "首页 美国打压，能限制中国药企崛起吗？ 分享到： 欧盟高官焦虑：对中国下手，快快快 “中国断了日本4个月” 马克龙不学好：这一招，可效仿美国 日本经产相：与中国沟通，理所应当 “卡塔尔派团德黑兰开展斡旋” “在两国境内，泽连斯基想跟我谈啥都行” “美国情报头子被逼辞职” “莫迪撺掇建立统一战线，减少对中美依赖” 德国最",
-      "source": "观察者网-产业科技",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "2030年，中国将实现航天员登月",
+      "summary": "5月23日上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开。发言人表示，中国空间站从三方面支撑月球探测工程。一是培养有丰富经验的航天员队伍，为载人登月提供人才储备；二是在轨近4年部署并验证载人登月关键技术，如天舟十号搭载微重力试验验证相关指标；三是新一代近地载人天地往返运输系统与月球探测工程系统一体化设计",
+      "source": "新浪科技",
       "sources": [
-        "观察者网-产业科技"
+        "新浪科技",
+        "IT之家",
+        "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/industry-science/2024_08_21_745527.shtml",
+      "url": "https://finance.sina.com.cn/wm/2026-05-23/doc-inhyvxru5576720.shtml",
       "sourceUrls": [
-        "https://www.guancha.cn/industry-science/2024_08_21_745527.shtml"
+        "https://finance.sina.com.cn/wm/2026-05-23/doc-inhyvxru5576720.shtml",
+        "https://www.ithome.com/0/954/257.htm",
+        "https://www.163.com/dy/article/KTJSI17Q05198CJN.html"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
       "priority": 5,
-      "score": 103,
+      "score": 102,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "5月23日上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开。发言人表示，中国空间站从三方面支撑月球探测工程。一是培养有丰富经验的航天员队伍，为载人登月提供人才储备；二是在轨近4年部署并验证载人登月关键技术，如天舟十号搭载微重力试验验证相关指标；三是新一代近地载人天地往返运输系统与月球探测工程系统一体化设计研制，未来两年经多次飞行任务验证提升技术成熟度与可靠性。此外，空间站长期运营可为月球科研和深空探测提供在轨平台服务。 (AI生成)",
+      "relatedTitles": [
+        "2030年，中国将实现航天员登月",
+        "中国2030年实现航天员登月 空间站将从这三方面 09:46"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "谷歌搜索智能体大升级，AI却直接「罢工」了？",
+      "summary": "没想到，用上智能体之后，全球最大的搜索引擎「不干活」了。本周的 I/O 大会上，谷歌推出了智能体（Agent）时代的全新搜索体验，号称 25 年来对自家搜索引擎的首次重大更新。就在大家满怀期待都开始大用特用的时候，却发现了一系列 bug。比...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427943.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427943.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 102,
       "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
       "status": "confirmed_today",
-      "matchedTopic": "中美 AI 与科技政策",
-      "rawText": "首页 美国打压，能限制中国药企崛起吗？ 分享到： 欧盟高官焦虑：对中国下手，快快快 “中国断了日本4个月” 马克龙不学好：这一招，可效仿美国 日本经产相：与中国沟通，理所应当 “卡塔尔派团德黑兰开展斡旋” “在两国境内，泽连斯基想跟我谈啥都行” “美国情报头子被逼辞职” “莫迪撺掇建立统一战线，减少对中美依赖” 德国最新数据：中国超美国冲上第一 马来西亚人怒了：这是变相支持美军打仗 要钻国际法空子 伊朗正和美盟友阿曼讨论这么收钱 “欧盟激怒中方，将举行关键谈判” ​“喜剧教父”黄百鸣，罪名成立 首次！中国考古走进古希腊，将获一手资料 因接触不明物质，美国3人死亡、18名急救人员被送医 李在明痛",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "没想到，用上智能体之后，全球最大的搜索引擎「不干活」了。本周的 I/O 大会上，谷歌推出了智能体（Agent）时代的全新搜索体验，号称 25 年来对自家搜索引擎的首次重大更新。就在大家满怀期待都开始大用特用的时候，却发现了一系列 bug。比...",
       "relatedTitles": [
-        "美国打压，能限制中国药企崛起吗？"
+        "谷歌搜索智能体大升级，AI却直接「罢工」了？"
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "萝卜快跑，慢就是快",
-      "summary": "首页 萝卜快跑，慢就是快 分享到： 欧盟高官焦虑：对中国下手，快快快 “中国断了日本4个月” 马克龙不学好：这一招，可效仿美国 日本经产相：与中国沟通，理所应当 “卡塔尔派团德黑兰开展斡旋” “在两国境内，泽连斯基想跟我谈啥都行” “美国情报头子被逼辞职” “莫迪撺掇建立统一战线，减少对中美依赖” 德国最新数据：中国超",
-      "source": "观察者网-产业科技",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "人形机器人有了官方“身份证”，2万余台机器人获全生命周期赋码",
+      "summary": "新京报讯（记者吴婷婷）5月22日，人形机器人全生命周期管理服务平台工作推进会在北京经开区举行。截至目前，该平台已覆盖全国100余家人形机器人企业，完成200余个产品型号、2.8万余台机器人的全生命周期赋码。人形机器人全生命周期管理服务平台签...",
+      "source": "新浪科技",
       "sources": [
-        "观察者网-产业科技"
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/industry-science/2024_08_21_745526.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfp6951789.shtml",
       "sourceUrls": [
-        "https://www.guancha.cn/industry-science/2024_08_21_745526.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfp6951789.shtml"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
-      "category": "新能源车",
-      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "category": "机器人",
+      "keywords": "robotics, automation, smart manufacturing, embodied AI",
       "priority": 5,
-      "score": 103,
+      "score": 102,
       "format": "video",
-      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "angle": "Show whether robotics is entering real production and service settings, not just product launches or demos.",
       "status": "confirmed_today",
-      "matchedTopic": "中美 AI 与科技政策",
-      "rawText": "首页 萝卜快跑，慢就是快 分享到： 欧盟高官焦虑：对中国下手，快快快 “中国断了日本4个月” 马克龙不学好：这一招，可效仿美国 日本经产相：与中国沟通，理所应当 “卡塔尔派团德黑兰开展斡旋” “在两国境内，泽连斯基想跟我谈啥都行” “美国情报头子被逼辞职” “莫迪撺掇建立统一战线，减少对中美依赖” 德国最新数据：中国超美国冲上第一 马来西亚人怒了：这是变相支持美军打仗 要钻国际法空子 伊朗正和美盟友阿曼讨论这么收钱 “欧盟激怒中方，将举行关键谈判” ​“喜剧教父”黄百鸣，罪名成立 首次！中国考古走进古希腊，将获一手资料 因接触不明物质，美国3人死亡、18名急救人员被送医 李在明痛批！韩媒就涉华",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "新京报讯（记者吴婷婷）5月22日，人形机器人全生命周期管理服务平台工作推进会在北京经开区举行。截至目前，该平台已覆盖全国100余家人形机器人企业，完成200余个产品型号、2.8万余台机器人的全生命周期赋码。人形机器人全生命周期管理服务平台签...",
       "relatedTitles": [
-        "萝卜快跑，慢就是快"
+        "人形机器人有了官方“身份证”，2万余台机器人获全生命周期赋码"
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "欧盟港停满中国车？“产能过剩”不背锅",
-      "summary": "首页 欧盟港停满中国车？“产能过剩”不背锅 分享到： 欧盟高官焦虑：对中国下手，快快快 “中国断了日本4个月” 马克龙不学好：这一招，可效仿美国 日本经产相：与中国沟通，理所应当 “卡塔尔派团德黑兰开展斡旋” “在两国境内，泽连斯基想跟我谈啥都行” “美国情报头子被逼辞职” “莫迪撺掇建立统一战线，减少对中美依赖” 德",
-      "source": "观察者网-产业科技",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "让机器人拥有“肌肉记忆”，智元推出新一代二阶段 BFM-2 基座模型",
+      "summary": "IT之家 5 月 23 日消息，智元今天宣布推出新一代二阶段 Motion-Between 运控基座模型 BFM-2，号称让机器人拥有“肌肉记忆”。据介绍，该模型可在任意状态下（IT之家注：静态 or 预设动作 or 随机输入），让机器人自...",
+      "source": "新浪科技",
       "sources": [
-        "观察者网-产业科技"
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/industry-science/2024_07_26_742793.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywkfq5414409.shtml",
       "sourceUrls": [
-        "https://www.guancha.cn/industry-science/2024_07_26_742793.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywkfq5414409.shtml"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
-      "category": "新能源车",
-      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "category": "机器人",
+      "keywords": "robotics, automation, smart manufacturing, embodied AI",
       "priority": 5,
-      "score": 103,
+      "score": 102,
       "format": "video",
-      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "angle": "Show whether robotics is entering real production and service settings, not just product launches or demos.",
       "status": "confirmed_today",
-      "matchedTopic": "中美 AI 与科技政策",
-      "rawText": "首页 欧盟港停满中国车？“产能过剩”不背锅 分享到： 欧盟高官焦虑：对中国下手，快快快 “中国断了日本4个月” 马克龙不学好：这一招，可效仿美国 日本经产相：与中国沟通，理所应当 “卡塔尔派团德黑兰开展斡旋” “在两国境内，泽连斯基想跟我谈啥都行” “美国情报头子被逼辞职” “莫迪撺掇建立统一战线，减少对中美依赖” 德国最新数据：中国超美国冲上第一 马来西亚人怒了：这是变相支持美军打仗 要钻国际法空子 伊朗正和美盟友阿曼讨论这么收钱 “欧盟激怒中方，将举行关键谈判” ​“喜剧教父”黄百鸣，罪名成立 首次！中国考古走进古希腊，将获一手资料 因接触不明物质，美国3人死亡、18名急救人员被送医 李在",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "IT之家 5 月 23 日消息，智元今天宣布推出新一代二阶段 Motion-Between 运控基座模型 BFM-2，号称让机器人拥有“肌肉记忆”。据介绍，该模型可在任意状态下（IT之家注：静态 or 预设动作 or 随机输入），让机器人自...",
       "relatedTitles": [
-        "欧盟港停满中国车？“产能过剩”不背锅"
+        "让机器人拥有“肌肉记忆”，智元推出新一代二阶段 BFM-2 基座模型"
       ]
     },
     {
@@ -1424,45 +1627,45 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "明日发射！香港女航天员将赴“天宫”",
-      "summary": "◎ 科技日报记者 付毅飞 何沛苁据中国载人航天工程办公室消息，经空间站应用与发展阶段飞行任务总指挥部研究决定，神舟二十三号航天员乘组由航天飞行工程师朱杨柱、航天驾驶员杨志远、载荷专家黎家盈3名航天员组成，朱杨柱任指令长。这是我国首个由第三批...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "2026文化强国建设高峰论坛“共建数智人文湾区”论坛举行 专家：AI时代，要守住精神的根",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 2026文化强国建设高峰论坛“共建数智人文湾区”论坛举行 专家指出——AI时代，更要守住精神的根 2026-05-23 11:47:41 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
       "sources": [
-        "新浪科技"
+        "科技日报"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxru5548015.shtml",
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/23/content_521280.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxru5548015.shtml"
+        "https://www.stdaily.com/web/gdxw/2026-05/23/content_521280.html"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
-      "category": "太空与低空",
-      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
       "priority": 5,
-      "score": 97,
-      "format": "video",
-      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "score": 100,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "◎ 科技日报记者 付毅飞 何沛苁据中国载人航天工程办公室消息，经空间站应用与发展阶段飞行任务总指挥部研究决定，神舟二十三号航天员乘组由航天飞行工程师朱杨柱、航天驾驶员杨志远、载荷专家黎家盈3名航天员组成，朱杨柱任指令长。这是我国首个由第三批...",
+      "matchedTopic": "AI动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 2026文化强国建设高峰论坛“共建数智人文湾区”论坛举行 专家指出——AI时代，更要守住精神的根 2026-05-23 11:47:41 来源: 科技日报 点击数： 热点",
       "relatedTitles": [
-        "明日发射！香港女航天员将赴“天宫”"
+        "2026文化强国建设高峰论坛“共建数智人文湾区”论坛举行 专家：AI时代，要守住精神的根"
       ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "嫦娥七号下半年择机发射 10:16",
-      "summary": "嫦娥七号下半年择机发射,择机,飞行,发射场,着陆器,嫦娥七号,载人飞船,国际空间站",
+      "title": "我国瞄准明日23时08分发射神舟二十三号载人飞船",
+      "summary": "神舟二十三号瞄准 5 月 24 日 23 时 08 分发射，将执行为期 1 年的在轨驻留试验。一是将实施我国首个太空人体研究计划，全面获取航天员更长期飞行数据，丰富任务实施经验；二是将验证航天员长期飞行健康保障能力，完善在轨医疗与防护体系；三是将为科学项目和相关技术验证提供更长期的延续性研究机遇。#神舟二十三号发射# ",
       "source": "网易科技",
       "sources": [
         "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KTJU8UU305198CJN.html",
+      "url": "https://www.163.com/dy/article/KTJQ9MVO0550WHYR.html",
       "sourceUrls": [
-        "https://www.163.com/dy/article/KTJU8UU305198CJN.html"
+        "https://www.163.com/dy/article/KTJQ9MVO0550WHYR.html"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
@@ -1474,23 +1677,51 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
       "status": "confirmed_today",
       "matchedTopic": "太空与低空动态",
-      "rawText": "嫦娥七号下半年择机发射,择机,飞行,发射场,着陆器,嫦娥七号,载人飞船,国际空间站",
+      "rawText": "神23瞄准24日23时08分发射",
       "relatedTitles": [
-        "嫦娥七号下半年择机发射 10:16"
+        "我国瞄准明日23时08分发射神舟二十三号载人飞船"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLnNj",
+      "title": "神舟二十三号携9项科学实验上空间站",
+      "summary": "作者： 帅俊全，褚尔嘉 来源：央视新闻客户端 发布时间：2026/5/23 11:00:12 9项科学实验将随神舟二十三号载人飞船上行中国空间站 记者从中国科学院空间应用工程与技术中心获悉，神舟二十三号载人飞船将携带9项科学实验上行中国空间站。上行样品及装置总重量约54公斤，主要包括肝脏细胞、水稻和拟南芥种子、纳米酶、",
+      "source": "中国科学报",
+      "sources": [
+        "中国科学报"
+      ],
+      "sourceTier": "research",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565175.shtm",
+      "sourceUrls": [
+        "https://news.sciencenet.cn/htmlnews/2026/5/565175.shtm"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "科学前沿",
+      "keywords": "scientific research, frontier science, research infrastructure",
+      "priority": 5,
+      "score": 94,
+      "format": "package",
+      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "作者： 帅俊全，褚尔嘉 来源：央视新闻客户端 发布时间：2026/5/23 11:00:12 9项科学实验将随神舟二十三号载人飞船上行中国空间站 记者从中国科学院空间应用工程与技术中心获悉，神舟二十三号载人飞船将携带9项科学实验上行中国空间站。上行样品及装置总重量约54公斤，主要包括肝脏细胞、水稻和拟南芥种子、纳米酶、放线菌、钙钛矿电池等实验材料。 将开展钙钛矿太阳能电池空间科学研究 本次神舟二十三号任务重点聚焦于两类钙钛矿太阳能电池材料和器件开展空间实验。 钙钛矿电池是一种新型光伏电池，它与我们日常生活中接触到的干电池或新能源车电池有本质区别，我们平时大多接触的是储能类电池，本身不能发电，而",
+      "relatedTitles": [
+        "神舟二十三号携9项科学实验上空间站"
       ]
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "Anthropic最快下周完成逾300亿美元融资轮",
-      "summary": "OpenAI第一季度营收约57亿美元，比Anthropic同期高出近10亿美元，编码智能体、企业销售和广告测试推动增长。但Anthropic已反超，近期年化收入逼近450亿美元，预计二季度营收达近110亿美元，外加近6亿美元利润。OpenAI获1220亿美元新融资，Anthropic正筹300亿美元，两家都为Q4 IP",
+      "title": "网购iPad Air 开箱说明书外壳印Aqqle 商家：设备是官方标配 包装盒是后配的",
+      "summary": "快科技5月23日消息，近日，有网友在社交媒体平台爆料称，她在某电商平台一家数码店铺购买了一台iPad Air 7，打开包装后发现产品说明书的外壳上写着“Designed by Aqqle”的字样，与正版“Apple”标识不符，疑惑是否买到假...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-23/doc-inhyvnzx7208730.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpm6845528.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-05-23/doc-inhyvnzx7208730.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpm6845528.shtml"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
@@ -1501,24 +1732,24 @@ window.CHENCHEN_DAILY_DATA = {
       "format": "package",
       "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "知情人士透露，Anthropic PBC最快下周完成新一轮融资，融资额或超300亿美元，公司估值超9000亿美元，将超越OpenAI成全球估值最高人工智能初创公司。红杉资本等4家机构预计联合领投，每家计划投资约20亿美元，Peter Thiel旗下Founders Fund等现有投资者也将参与。此次总投资预计超300亿美元目标，相关认购承诺在敲定，条款或调整。这轮融资数周内成形，显示投资者对其需求强劲。OpenAI 3月融资后估值8520亿美元，预计未来几天保密提交上市文件草案。 (AI生成)",
+      "matchedTopic": "AI动态",
+      "rawText": "快科技5月23日消息，近日，有网友在社交媒体平台爆料称，她在某电商平台一家数码店铺购买了一台iPad Air 7，打开包装后发现产品说明书的外壳上写着“Designed by Aqqle”的字样，与正版“Apple”标识不符，疑惑是否买到假...",
       "relatedTitles": [
-        "Anthropic最快下周完成逾300亿美元融资轮"
+        "网购iPad Air 开箱说明书外壳印Aqqle 商家：设备是官方标配 包装盒是后配的"
       ]
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "阶跃星辰百亿估值背后，是AI变现的解药还是新焦虑？",
-      "summary": "《投资者网》江寂当大模型赛道从“百模大战”步入“生态卡位”的深水区，阶跃星辰的港股IPO进程正成为市场观察中国AI商业化成色的关键样本。这家成立仅三年的企业，正加速拆除离岸架构，筹备赴港上市，计划募资约5亿美元，市场传闻上市目标估值直奔10...",
+      "title": "一家垂类 AI 创企的自救：当通用模型开始吃掉一切",
+      "summary": "智能开始非线性增长，AI 企业的底层逻辑正被改写。作者｜徐珊编辑｜郑玄90%，这是投资人给出 2026 年 AI 初创企业创业失败的概率。4 月，由 a16z 领投、手握 3300 万美元种子轮融资的 AI 模型评测平台 Yupp 突然宣布...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxrq7826815.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfp6963684.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxrq7826815.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfp6963684.shtml"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
@@ -1529,10 +1760,66 @@ window.CHENCHEN_DAILY_DATA = {
       "format": "package",
       "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "《投资者网》江寂当大模型赛道从“百模大战”步入“生态卡位”的深水区，阶跃星辰的港股IPO进程正成为市场观察中国AI商业化成色的关键样本。这家成立仅三年的企业，正加速拆除离岸架构，筹备赴港上市，计划募资约5亿美元，市场传闻上市目标估值直奔10...",
+      "matchedTopic": "AI动态",
+      "rawText": "智能开始非线性增长，AI 企业的底层逻辑正被改写。作者｜徐珊编辑｜郑玄90%，这是投资人给出 2026 年 AI 初创企业创业失败的概率。4 月，由 a16z 领投、手握 3300 万美元种子轮融资的 AI 模型评测平台 Yupp 突然宣布...",
       "relatedTitles": [
-        "阶跃星辰百亿估值背后，是AI变现的解药还是新焦虑？"
+        "一家垂类 AI 创企的自救：当通用模型开始吃掉一切"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "Linus Torvalds 称 AI 开发即便再强，也不代表你能少动脑",
+      "summary": "IT之家 5 月 23 日消息，在 Linux 基金会北美开源峰会上，Linus Torvalds 直言，AI 已开始改变 Linux 内核开发节奏。Torvalds 指出自 Git 确立发布流程以来，内核发布长期稳定了约 20 年，但过去...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywkfk7678468.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywkfk7678468.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 92,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 5 月 23 日消息，在 Linux 基金会北美开源峰会上，Linus Torvalds 直言，AI 已开始改变 Linux 内核开发节奏。Torvalds 指出自 Git 确立发布流程以来，内核发布长期稳定了约 20 年，但过去...",
+      "relatedTitles": [
+        "Linus Torvalds 称 AI 开发即便再强，也不代表你能少动脑"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "多方争议：新能源车充电，是否越快越好",
+      "summary": "超快充成为车圈军备竞赛，蜂巢能源杨红新、中国汽车安全专家朱西产呼吁冷静看待，因充电功率越大，电池安全性和寿命损耗担忧越大。今年初超快充掀起电动化竞赛，行业进入多路线协同新阶段，超充技术从4 - 5C向10 - 15C跃迁。但实现超快充需车、电池、桩全部打通，6C、8C等高倍率电池是趋势，企业将提示潜在风险，比亚迪年研发",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvxru5546343.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvxru5546343.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 92,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "超快充成为车圈军备竞赛，蜂巢能源杨红新、中国汽车安全专家朱西产呼吁冷静看待，因充电功率越大，电池安全性和寿命损耗担忧越大。今年初超快充掀起电动化竞赛，行业进入多路线协同新阶段，超充技术从4 - 5C向10 - 15C跃迁。但实现超快充需车、电池、桩全部打通，6C、8C等高倍率电池是趋势，企业将提示潜在风险，比亚迪年研发费约100亿。固态电池是方向，预计2027 - 2028年小规模生产，2030年后大规模应用，2026年或为混合固液电池元年。 (AI生成)",
+      "relatedTitles": [
+        "多方争议：新能源车充电，是否越快越好"
       ]
     },
     {
@@ -1592,73 +1879,73 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "我国嫦娥七号计划下半年择机发射：登陆月球南极 需找水冰",
-      "summary": "首页 两名巴基斯坦航天员与中方一同任务训练 分享到： 今天（5月23日）上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开。 发言人介绍，两名巴基斯坦航天员目前整体训练进度，核心训练科目包含的内容以及日常训练与在轨协作是否需要掌握中文的情况。 今年航天日，两名巴基斯坦航天员已进入中国航天员科研训练中心，与中",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly9uZXdzLnNj",
+      "title": "人类首次、刷新纪录！本周我国多领域迎来硬核突破",
+      "summary": "来源：央视新闻客户端 发布时间：2026/5/23 10:21:55 人类首次、刷新纪录！本周我国多领域迎来硬核突破 本周 我国在基建、找矿、空间科学等领域 好消息频传 “人类首次”“刷新纪录” 中国硬核实力再刷屏 人类首次！ “微笑”卫星将为地球磁层拍下全景照 5月19日，中欧联合研制的“微笑”卫星成功发射升空，将实",
+      "source": "中国科学报",
       "sources": [
-        "新浪科技"
+        "中国科学报"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxrq7826938.shtml",
+      "sourceTier": "research",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565174.shtm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxrq7826938.shtml"
+        "https://news.sciencenet.cn/htmlnews/2026/5/565174.shtm"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
       "category": "太空与低空",
       "keywords": "low-altitude economy, commercial space, satellite internet",
       "priority": 5,
-      "score": 87,
+      "score": 89,
       "format": "video",
       "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
       "status": "confirmed_today",
       "matchedTopic": "商业航天与卫星互联网",
-      "rawText": "快科技5月23日消息，今天上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开。发言人介绍，为充分利用载人航天工程、嫦娥工程几十年积累的技术积淀与实践经验，对现有载人登月和无人探月从任务、资源、队伍3个方面进行整合，整合后统称为“...",
+      "rawText": "来源：央视新闻客户端 发布时间：2026/5/23 10:21:55 人类首次、刷新纪录！本周我国多领域迎来硬核突破 本周 我国在基建、找矿、空间科学等领域 好消息频传 “人类首次”“刷新纪录” 中国硬核实力再刷屏 人类首次！ “微笑”卫星将为地球磁层拍下全景照 5月19日，中欧联合研制的“微笑”卫星成功发射升空，将实现人类首次对地球磁层的软X射线整体成像，为提升空间天气预报能力、保障航天和通信导航活动等提供核心科学支撑。",
       "relatedTitles": [
-        "我国嫦娥七号计划下半年择机发射：登陆月球南极 需找水冰"
+        "人类首次、刷新纪录！本周我国多领域迎来硬核突破"
       ]
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "巴基斯坦航天员已入列中国训练中心，将执行短期飞行任务",
-      "summary": "IT之家 5 月 23 日消息，今日上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心举行。新闻发言人提到，两名巴基斯坦航天员在中国航天员科研训练中心的训练情况，包括整体训练进度、核心训练科目的内容，以及日常训练与在轨协作中对中文能...",
+      "title": "李斌谈三品牌长期结构：蔚来、乐道、萤火虫销量或为3:6:1，海外市场会放慢节奏",
+      "summary": "新浪科技讯 5月23日消息，蔚来举行一季度财报媒体交流会。蔚来创始人、董事长、CEO李斌在会上谈及蔚来、乐道和萤火虫三品牌长期定位时表示，从终局销量结构看，三者大体可能是“3：6：1”，或者约为“35：55：10”。他强调，这一比例主要...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhyvxrt7089228.shtml",
+      "url": "https://finance.sina.com.cn/roll/2026-05-23/doc-inhywkfn4456233.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhyvxrt7089228.shtml"
+        "https://finance.sina.com.cn/roll/2026-05-23/doc-inhywkfn4456233.shtml"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
-      "category": "太空与低空",
-      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
       "priority": 5,
       "score": 87,
       "format": "video",
-      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
       "status": "confirmed_today",
-      "matchedTopic": "商业航天与卫星互联网",
-      "rawText": "IT之家 5 月 23 日消息，今日上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心举行。新闻发言人提到，两名巴基斯坦航天员在中国航天员科研训练中心的训练情况，包括整体训练进度、核心训练科目的内容，以及日常训练与在轨协作中对中文能...",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "新浪科技讯 5月23日消息，蔚来举行一季度财报媒体交流会。蔚来创始人、董事长、CEO李斌在会上谈及蔚来、乐道和萤火虫三品牌长期定位时表示，从终局销量结构看，三者大体可能是“3：6：1”，或者约为“35：55：10”。他强调，这一比例主要...",
       "relatedTitles": [
-        "巴基斯坦航天员已入列中国训练中心，将执行短期飞行任务"
+        "李斌谈三品牌长期结构：蔚来、乐道、萤火虫销量或为3:6:1，海外市场会放慢节奏"
       ]
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "SpaceX第三代星舰首飞成功！释放星链模拟器后重返地球",
-      "summary": "SpaceX 星舰进行了第 12 次试飞，首次启用全新 V3 飞船与超级重型助推器，搭载升级版猛禽发动机，并使用重新设计的发射台。主要目标是验证新系统在真实飞行环境中的性能。按计划，助推器将在墨西哥湾受控溅落，飞船则于印度洋溅落。#SpaceX 星舰 V3 首飞#",
+      "title": "黎家盈：我国首位执行飞行任务的第四批航天员",
+      "summary": "新京报讯（记者张建林）作为我国首位执行飞行任务的第四批航天员，也是工程面向港澳地区选拔出的我国首位女性载荷专家，黎家盈即将踏上个人首飞之旅。在5月23日的中外媒体记者集体见面会上，黎家盈说，“此刻，我的内心充满感恩与荣幸，也深感使命光荣、责...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvtiw5664365.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpn5321076.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvtiw5664365.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpn5321076.shtml"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
@@ -1670,23 +1957,139 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
       "status": "confirmed_today",
       "matchedTopic": "太空与低空动态",
-      "rawText": "快科技5月23日消息，今日，SpaceX星舰在德克萨斯州博卡奇卡基地进行第12次综合测试飞行，标志着第三代星舰（V3）正式首飞。第三代星舰由助推器B19与飞船S39组成。发射后，超重助推器B19在与飞船分离后出现问题，未能实现海上完整降落的...",
+      "rawText": "新京报讯（记者张建林）作为我国首位执行飞行任务的第四批航天员，也是工程面向港澳地区选拔出的我国首位女性载荷专家，黎家盈即将踏上个人首飞之旅。在5月23日的中外媒体记者集体见面会上，黎家盈说，“此刻，我的内心充满感恩与荣幸，也深感使命光荣、责...",
       "relatedTitles": [
-        "SpaceX第三代星舰首飞成功！释放星链模拟器后重返地球"
+        "黎家盈：我国首位执行飞行任务的第四批航天员"
       ]
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "自研5吨级eVTOL！峰飞V5000天际龙正式进入适航取证阶段",
-      "summary": "快科技5月23日消息，近日，5月21日，峰飞航空科技成功完成由1架V5000天际龙与2架V2000系列机型组成的“混合三机编队”演示飞行。本次飞行围绕5吨级与2吨级eVTOL平台之间的通信链路、航线规划、飞行协同和安全控制等关键环节，开展了...",
+      "title": "《异环》上架 Steam / Epic 商城，计划 7 月发行",
+      "summary": "幻塔工作室旗下超自然都市开放世界 RPG《异环》现已上架 Steam / Epic 商城，计划 7 月发行。游戏主打单人及在线合作玩法，故事从海特洛市启篇，玩家将扮演「异象猎人」探索城市谜团。支持 PC、Mac、移动端及 PS5 等多平台，且数据互通。#异环# #幻塔工作室#",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvtiw5658763.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywkfk7681597.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvtiw5658763.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywkfk7681597.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "监管与安全",
+      "keywords": "data security, privacy protection, regulatory framework",
+      "priority": 5,
+      "score": 87,
+      "format": "live",
+      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "IT之家 5 月 23 日消息，幻塔工作室旗下超自然都市开放世界 RPG 游戏《异环》今天上架 Steam / Epic 商城，计划 7 月发行。Steam 页面显示，本作主打单人、在线合作玩法，具备应用内购买功能，部分支持 Xbox、Pl...",
+      "relatedTitles": [
+        "《异环》上架 Steam / Epic 商城，计划 7 月发行"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "积累宝贵经验，神舟二十三号舷窗空间碎片防护已进行适应性改进",
+      "summary": "IT之家 5 月 23 日消息，2026 年 5 月 23 日上午 9 时，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开，中国载人航天工程新闻发言人、工程办公室综合计划局局长张静波介绍了本次任务的相关情况。去年底，中国载人航天工...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywkfq5424961.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywkfq5424961.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "priority": 5,
+      "score": 87,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "IT之家 5 月 23 日消息，2026 年 5 月 23 日上午 9 时，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开，中国载人航天工程新闻发言人、工程办公室综合计划局局长张静波介绍了本次任务的相关情况。去年底，中国载人航天工...",
+      "relatedTitles": [
+        "积累宝贵经验，神舟二十三号舷窗空间碎片防护已进行适应性改进"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "神舟二十三号航天员乘组首次亮相：朱杨柱、张志远、黎家盈",
+      "summary": "首页 神二十三乘组确定：朱杨柱、张志远、黎家盈（香港籍） 分享到： 今天（5月23日）上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开。 发言人介绍，飞行乘组由朱杨柱、张志远、黎家盈（香港籍）组成，朱杨柱担任指令长。 （记者 王刚 李昊） 美媒发现不对劲：打伊朗都这么吃力，还怎么应对中国 索赔80亿元！闻",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技",
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfp6950649.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfp6950649.shtml",
+        "https://www.guancha.cn/industry-science/2026_05_23_818102.shtml",
+        "https://www.guancha.cn/industry-science/2026_05_23_818100.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "priority": 5,
+      "score": 87,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "快科技5月23日消息，今天，神舟二十三号航天员乘组在酒泉卫星发射中心问天阁正式亮相，三名航天员分别是指令长朱杨柱、航天员张志远、来自香港的载荷专家黎家盈。这是该乘组第一次和中外媒体见面，也标志着任务进入出征前的关键阶段。这次任务亮点很多，创...",
+      "relatedTitles": [
+        "神舟二十三号航天员乘组首次亮相：朱杨柱、张志远、黎家盈",
+        "两名巴基斯坦航天员与中方一同任务训练"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "巴基斯坦航天员与中国航天员一同训练！外国人上中国空间站先学中文",
+      "summary": "快科技5月23日消息，今年航天日期间，两名来自巴基斯坦的航天员正式进入中国航天员科研训练中心，后续将和中国航天员共同开展空间站联合任务的相关训练。按照此前敲定的中巴航天合作计划，其中1名巴基斯坦航天员将作为载荷专家执行短期驻留飞行任务。目前...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-05-23/doc-inhywcxr7008055.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-05-23/doc-inhywcxr7008055.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "priority": 5,
+      "score": 87,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿与科研设施",
+      "rawText": "快科技5月23日消息，今年航天日期间，两名来自巴基斯坦的航天员正式进入中国航天员科研训练中心，后续将和中国航天员共同开展空间站联合任务的相关训练。按照此前敲定的中巴航天合作计划，其中1名巴基斯坦航天员将作为载荷专家执行短期驻留飞行任务。目前...",
+      "relatedTitles": [
+        "巴基斯坦航天员与中国航天员一同训练！外国人上中国空间站先学中文"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "直击深圳无人机大会：无人机攻防博弈，谁更胜一 16:03",
+      "summary": "直击深圳无人机大会：无人机攻防博弈，谁更胜一筹？,深圳,无人机大会",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KTKI53520512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KTKI53520512B07B.html"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
@@ -1698,23 +2101,23 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
       "status": "confirmed_today",
       "matchedTopic": "低空经济与无人机",
-      "rawText": "快科技5月23日消息，近日，5月21日，峰飞航空科技成功完成由1架V5000天际龙与2架V2000系列机型组成的“混合三机编队”演示飞行。本次飞行围绕5吨级与2吨级eVTOL平台之间的通信链路、航线规划、飞行协同和安全控制等关键环节，开展了...",
+      "rawText": "直击深圳无人机大会：无人机攻防博弈，谁更胜一筹？,深圳,无人机大会",
       "relatedTitles": [
-        "自研5吨级eVTOL！峰飞V5000天际龙正式进入适航取证阶段"
+        "直击深圳无人机大会：无人机攻防博弈，谁更胜一 16:03"
       ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "去年中国载人航天工程实施首次应急发射任务，为 09:25",
-      "summary": "中国载人航天首次实战应急发射任务细节披露。神舟二十号因疑似空间碎片撞击舷窗产生裂纹，为确保航天员绝对安全，果断启动应急预案，20 天内完成乘组换船返回与备份飞船发射对接，填补安全缺口。#中国航天# #神舟飞船# 此次任务验证了“打一备一”备份策略，并强化了航天员生命安全至上的理念。",
+      "title": "嫦娥7号下半年择机发射 09:48",
+      "summary": "嫦娥7号下半年择机发射",
       "source": "网易科技",
       "sources": [
         "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KTJRC2D80534A4SC.html",
+      "url": "https://www.163.com/dy/article/KTJSLRKS05198CJN.html",
       "sourceUrls": [
-        "https://www.163.com/dy/article/KTJRC2D80534A4SC.html"
+        "https://www.163.com/dy/article/KTJSLRKS05198CJN.html"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
@@ -1726,15 +2129,15 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
       "status": "confirmed_today",
       "matchedTopic": "太空与低空动态",
-      "rawText": "去年中国载人航天工程实施首次应急发射任务，为国际航天领域高效应对突发事件提供成功范例,中国,航天员,空间站,载人飞船,应急发射,载人航天工程",
+      "rawText": "嫦娥7号下半年择机发射",
       "relatedTitles": [
-        "去年中国载人航天工程实施首次应急发射任务，为 09:25"
+        "嫦娥7号下半年择机发射 09:48"
       ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "神舟二十三号载人飞行任务新闻发布会将于今日上 07:31",
-      "summary": "任务乘组将接替神舟二十一号开展空间站驻留，其中一名航天员将执行为期一年的太空驻留，探索长期驻留挑战，为深空飞行做准备。03 号航天员或为来自香港的女性载荷专家黎家盈。#神舟二十三号# #中国空间站#",
+      "summary": "神舟二十三号载人飞行任务发布会",
       "source": "网易科技",
       "sources": [
         "网易科技"
@@ -1757,34 +2160,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "神舟二十三号载人飞行任务发布会",
       "relatedTitles": [
         "神舟二十三号载人飞行任务新闻发布会将于今日上 07:31"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "我国瞄准明日23时08分发射神舟二十三号载人飞船",
-      "summary": "神舟二十三号瞄准明日23时08分发射",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KTJQ9MVO0550WHYR.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/KTJQ9MVO0550WHYR.html"
-      ],
-      "publishedAt": "2026-05-23",
-      "date": "2026-05-23",
-      "category": "太空与低空",
-      "keywords": "low-altitude economy, commercial space, satellite internet",
-      "priority": 5,
-      "score": 87,
-      "format": "video",
-      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
-      "status": "confirmed_today",
-      "matchedTopic": "太空与低空动态",
-      "rawText": "神23瞄准24日23时08分发射",
-      "relatedTitles": [
-        "我国瞄准明日23时08分发射神舟二十三号载人飞船"
       ]
     },
     {
@@ -1817,6 +2192,34 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cDovL2ZpbmFuY2Uu",
+      "title": "回放：神舟二十三号飞行任务航天员与记者见面会",
+      "summary": "人民网酒泉5月23日电（记者赵竹青、翁奇羽）据中国载人航天工程办公室消息，经空间站应用与发展阶段飞行任务总指挥部研究决定，神舟二十三号航天员乘组由航天飞行工程师朱杨柱、航天驾驶员张志远、载荷专家黎家盈",
+      "source": "人民网-科技",
+      "sources": [
+        "人民网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "http://finance.people.com.cn/n1/2026/0523/c1004-40725878.html",
+      "sourceUrls": [
+        "http://finance.people.com.cn/n1/2026/0523/c1004-40725878.html"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "priority": 5,
+      "score": 87,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "人民网酒泉5月23日电（记者赵竹青、翁奇羽）据中国载人航天工程办公室消息，经空间站应用与发展阶段飞行任务总指挥部研究决定，神舟二十三号航天员乘组由航天飞行工程师朱杨柱、航天驾驶员张志远、载荷专家黎家盈",
+      "relatedTitles": [
+        "回放：神舟二十三号飞行任务航天员与记者见面会"
+      ]
+    },
+    {
+      "id": "aHR0cDovL2ZpbmFuY2Uu",
       "title": "链接世界 共创未来",
       "summary": "第四届中国国际供应链促进博览会将于6月22日至26日在北京举办，主题是“链接世界，共创未来”。创办于2023年的链博会，是全球首个以供应链合作为主题的国家级展会。经过前三届的精心培育，已经成为全球瞩目",
       "source": "人民网-科技",
@@ -1844,37 +2247,37 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cDovL2ZpbmFuY2Uu",
-      "title": "神舟二十三号乘组确定：朱杨柱、张志远、黎家盈",
-      "summary": "神舟二十三号航天员乘组。中国载人航天工程办公室供图人民网酒泉5月23日电（记者赵竹青、翁奇羽）据中国载人航天工程办公室消息，经空间站应用与发展阶段飞行任务总指挥部研究决定，神舟二十三号航天员乘组由航天",
-      "source": "人民网-科技",
+      "id": "aHR0cHM6Ly90ZWNobm9k",
+      "title": "Samsung chairman secretly visits MediaTek seeking to trade memory chips for foundry orders",
+      "summary": "According to Taiwanese media outlets including DigiTimes, Samsung Electronics Chairman Lee Jae-yong reportedly led a senior executive team on May 21 in a",
+      "source": "TechNode",
       "sources": [
-        "人民网-科技"
+        "TechNode"
       ],
-      "sourceTier": "mainstream",
-      "url": "http://finance.people.com.cn/n1/2026/0523/c1004-40725836.html",
+      "sourceTier": "international",
+      "url": "https://technode.com/2026/05/23/samsungs-lee-jae-yong-secretly-visits-mediatek-seeking-to-trade-memory-chips-for-foundry-orders/",
       "sourceUrls": [
-        "http://finance.people.com.cn/n1/2026/0523/c1004-40725836.html"
+        "https://technode.com/2026/05/23/samsungs-lee-jae-yong-secretly-visits-mediatek-seeking-to-trade-memory-chips-for-foundry-orders/"
       ],
-      "publishedAt": "2026-05-23",
+      "publishedAt": "Sat, 23 May 2026 08:54:05 +0000",
       "date": "2026-05-23",
-      "category": "太空与低空",
-      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
       "priority": 5,
-      "score": 87,
-      "format": "video",
-      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "score": 85,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "神舟二十三号航天员乘组。中国载人航天工程办公室供图人民网酒泉5月23日电（记者赵竹青、翁奇羽）据中国载人航天工程办公室消息，经空间站应用与发展阶段飞行任务总指挥部研究决定，神舟二十三号航天员乘组由航天",
+      "matchedTopic": "AI动态",
+      "rawText": "According to Taiwanese media outlets including DigiTimes, Samsung Electronics Chairman Lee Jae-yong reportedly led a senior executive team on May 21 in a",
       "relatedTitles": [
-        "神舟二十三号乘组确定：朱杨柱、张志远、黎家盈"
+        "Samsung chairman secretly visits MediaTek seeking to trade memory chips for foundry orders"
       ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "神舟二十三号航天员乘组确定“天宫”将迎首位港籍航天员",
-      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 神舟二十三号航天员乘组确定“天宫”将迎首位港籍航天员 2026-05-23 09:31:31 来源: 科技日报 点击数： 热点",
+      "title": "神舟二十三号航天员乘组确定 “天宫”将迎首位港籍航天员",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 神舟二十三号航天员乘组确定 “天宫”将迎首位港籍航天员 2026-05-23 09:31:32 来源: 科技日报 点击数： 热点",
       "source": "科技日报",
       "sources": [
         "科技日报"
@@ -1894,9 +2297,37 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
       "status": "confirmed_today",
       "matchedTopic": "太空与低空动态",
-      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 神舟二十三号航天员乘组确定“天宫”将迎首位港籍航天员 2026-05-23 09:31:31 来源: 科技日报 点击数： 热点",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 神舟二十三号航天员乘组确定 “天宫”将迎首位港籍航天员 2026-05-23 09:31:32 来源: 科技日报 点击数： 热点",
       "relatedTitles": [
-        "神舟二十三号航天员乘组确定“天宫”将迎首位港籍航天员"
+        "神舟二十三号航天员乘组确定 “天宫”将迎首位港籍航天员"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "航天员黎家盈：中国人的飞船飞得有多高，我们的头就可以抬得有多高",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 航天员黎家盈：中国的飞船飞得有多高，我们的头就可以抬得有多高 2026-05-23 16:47:23 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/23/content_521405.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-05/23/content_521405.html"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "priority": 5,
+      "score": 85,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 航天员黎家盈：中国的飞船飞得有多高，我们的头就可以抬得有多高 2026-05-23 16:47:23 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "航天员黎家盈：中国人的飞船飞得有多高，我们的头就可以抬得有多高"
       ]
     },
     {
@@ -1929,16 +2360,72 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "小米通报两起空调安装抽真空造假事件：涉事工程师永久拉黑",
-      "summary": "IT之家 5 月 23 日消息，小米公司 5 月 19 日发布内部通报，针对在数字化抽真空服务专项稽核中发现的两起空调安装抽真空造假事件作出顶格处理。根据网上流传出的公告截图，涉事的两名合作工程师被直接永久拉黑清退，终止任何形式的合作；其所...",
+      "title": "李斌：Q2成本压力加大，蔚来不靠降价换量",
+      "summary": "5 月 23 日消息，蔚来举行一季度财报媒体交流会。针对市场关注的二季度毛利率和交付增长，蔚来创始人、董事长、CEO 李斌表示，二季度开始，蔚来面临的成本压力较一季度有所加大，单车成本上涨“大体上一万多块钱”，不同车型情况不同，“高的可能要...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhyvxrt7101065.shtml",
+      "url": "https://finance.sina.com.cn/roll/2026-05-23/doc-inhywkfq5425245.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhyvxrt7101065.shtml"
+        "https://finance.sina.com.cn/roll/2026-05-23/doc-inhywkfq5425245.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 77,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "新浪科技讯 5月23日消息，蔚来举行一季度财报媒体交流会。针对市场关注的二季度毛利率和交付增长，蔚来创始人、董事长、CEO李斌表示，二季度开始，蔚来面临的成本压力较一季度有所加大，单车成本上涨“大体上一万多块钱”，不同车型情况不同，“高...",
+      "relatedTitles": [
+        "李斌：Q2成本压力加大，蔚来不靠降价换量"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "40.68 万元起，蔚来全新 ES8 完成第 11 万台新车交付",
+      "summary": "IT之家 5 月 23 日消息，蔚来今日宣布在南京完成全新 ES8 第 110,000 台新车交付。一个月前，全新 ES8 刚刚刷新中国乘用车市场 40 万元以上高端车型最快达成十万台交付的全新纪录。蔚来官方称：“自 2025 年 9 月实...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywkfp6958594.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywkfp6958594.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 77,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "IT之家 5 月 23 日消息，蔚来今日宣布在南京完成全新 ES8 第 110,000 台新车交付。一个月前，全新 ES8 刚刚刷新中国乘用车市场 40 万元以上高端车型最快达成十万台交付的全新纪录。蔚来官方称：“自 2025 年 9 月实...",
+      "relatedTitles": [
+        "40.68 万元起，蔚来全新 ES8 完成第 11 万台新车交付"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "北科大招生政策发布：“零调剂”范围扩大、新增2个本科专业",
+      "summary": "5月23日，北京科技大学举行校园开放日暨高招联合咨询会。记者从会上获悉，今年北京科技大学新增集成电路设计与集成系统专业和知识产权专业两个新专业，本科招生专业规模增加至3690人，同时“零调剂”政策实施范围将扩大至所有高考改革省份。设14个特...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfp6951540.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfp6951540.shtml"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
@@ -1950,23 +2437,79 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
       "status": "confirmed_today",
       "matchedTopic": "监管与安全动态",
-      "rawText": "IT之家 5 月 23 日消息，小米公司 5 月 19 日发布内部通报，针对在数字化抽真空服务专项稽核中发现的两起空调安装抽真空造假事件作出顶格处理。根据网上流传出的公告截图，涉事的两名合作工程师被直接永久拉黑清退，终止任何形式的合作；其所...",
+      "rawText": "5月23日，北京科技大学举行校园开放日暨高招联合咨询会。记者从会上获悉，今年北京科技大学新增集成电路设计与集成系统专业和知识产权专业两个新专业，本科招生专业规模增加至3690人，同时“零调剂”政策实施范围将扩大至所有高考改革省份。设14个特...",
       "relatedTitles": [
-        "小米通报两起空调安装抽真空造假事件：涉事工程师永久拉黑"
+        "北科大招生政策发布：“零调剂”范围扩大、新增2个本科专业"
       ]
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "送 1:64 合金车模：小米汽车试驾送车模活动回归",
-      "summary": "本次试驾活动需要提前预约，试驾车型不限。单店活动周期内车模数量在 24 个至 660 个区间，具体数量以门店实际为准，数量有限先到先得。试驾者需年满 18 岁且持有合法机动车驾驶证、驾龄 1 年以上，满足小米汽车门店试驾相关要求。据IT之家...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "神二十三乘组1名航天员将开展1年期在轨驻留试验 09:34",
+      "summary": "神舟二十三号任务将进行航天员轮换、出舱活动、货物进出舱及多项空间科学实验，包括利用斑马鱼、小鼠及人工胚胎构建太空胚胎研究体系，并开展高性能稀土永磁合金等新材料制备。持续发挥 #中国空间站# 的综合应用效益。",
+      "source": "网易科技",
       "sources": [
-        "新浪科技"
+        "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhyvxru5556577.shtml",
+      "url": "https://www.163.com/dy/article/KTJRRV470534A4SC.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhyvxru5556577.shtml"
+        "https://www.163.com/dy/article/KTJRRV470534A4SC.html"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "priority": 5,
+      "score": 77,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "1名航天员将开展1年期在轨驻留试验",
+      "relatedTitles": [
+        "神二十三乘组1名航天员将开展1年期在轨驻留试验 09:34"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "DeepSeek-V4-Pro API永久降价 16:41",
+      "summary": "DeepSeek released a preview version of its new V4 model series and made it open source. The model supports an ultra-long context of up to one million",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KTKKAI9T0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KTKKAI9T0512B07B.html"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 77,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "DeepSeek-V4-Pro API永久降价,永久降价,deepseek",
+      "relatedTitles": [
+        "DeepSeek-V4-Pro API永久降价 16:41"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "特斯拉宣布：赛博无人驾驶电动车Cybercab正式量 16:31",
+      "summary": "特斯拉宣布：赛博无人驾驶电动车Cybercab正式量产，没有方向盘、没有脚踏板、没有后视镜,赛博,电动车,后视镜,方向盘,脚踏板,无人驾驶,电动卡车,特斯拉(公司)",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KTKJNRPI0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KTKJNRPI0512B07B.html"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
@@ -1978,51 +2521,23 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
       "status": "confirmed_today",
       "matchedTopic": "新能源车动态",
-      "rawText": "本次试驾活动需要提前预约，试驾车型不限。单店活动周期内车模数量在 24 个至 660 个区间，具体数量以门店实际为准，数量有限先到先得。试驾者需年满 18 岁且持有合法机动车驾驶证、驾龄 1 年以上，满足小米汽车门店试驾相关要求。据IT之家...",
+      "rawText": "特斯拉宣布：赛博无人驾驶电动车Cybercab正式量产，没有方向盘、没有脚踏板、没有后视镜,赛博,电动车,后视镜,方向盘,脚踏板,无人驾驶,电动卡车,特斯拉(公司)",
       "relatedTitles": [
-        "送 1:64 合金车模：小米汽车试驾送车模活动回归"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "鸿蒙智行问界 M9 系列新品发布会提至 5 月 27 日 14:30，会后即刻开启大定",
-      "summary": "IT之家 5 月 23 日消息，问界官方今日宣布，鸿蒙智行问界 M9 系列新品发布会从 5 月 27 日 19:00 提前至 14:30 举行，发布会后即刻开启大定。据IT之家此前报道，鸿蒙智行已在 5 月 16 日宣布，全新一代问界 M9...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhyvxrq7813578.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhyvxrq7813578.shtml"
-      ],
-      "publishedAt": "2026-05-23",
-      "date": "2026-05-23",
-      "category": "数字经济",
-      "keywords": "digital economy, data infrastructure, cloud computing",
-      "priority": 5,
-      "score": 77,
-      "format": "graphic",
-      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
-      "status": "confirmed_today",
-      "matchedTopic": "数字基础设施与平台经济",
-      "rawText": "IT之家 5 月 23 日消息，问界官方今日宣布，鸿蒙智行问界 M9 系列新品发布会从 5 月 27 日 19:00 提前至 14:30 举行，发布会后即刻开启大定。据IT之家此前报道，鸿蒙智行已在 5 月 16 日宣布，全新一代问界 M9...",
-      "relatedTitles": [
-        "鸿蒙智行问界 M9 系列新品发布会提至 5 月 27 日 14:30，会后即刻开启大定"
+        "特斯拉宣布：赛博无人驾驶电动车Cybercab正式量 16:31"
       ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "中国2030年实现航天员登月 空间站将从这三方面 09:46",
-      "summary": "空间站不仅是太空实验室，更是登月前的重要练兵场。它通过培养航天员队伍、在轨验证关键技术、以及一体化研制新一代天地往返系统，为 2030 年前实现载人登月目标提供坚实支撑。#中国空间站##载人登月#",
+      "title": "黎家盈，我国首位来自香港的航天员，我国第四位 16:09",
+      "summary": "黎家盈，我国首位来自香港的航天员，我国第四位女航天员，“有个华侨曾说过，飞船飞得有多高，我们中国人的头就抬得有多高”,飞船,香港,航天员,黎家盈,我们中国人,中国航天日",
       "source": "网易科技",
       "sources": [
         "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KTJSI17Q05198CJN.html",
+      "url": "https://www.163.com/dy/article/KTKIG9J50512B07B.html",
       "sourceUrls": [
-        "https://www.163.com/dy/article/KTJSI17Q05198CJN.html"
+        "https://www.163.com/dy/article/KTKIG9J50512B07B.html"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
@@ -2034,23 +2549,23 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
       "status": "confirmed_today",
       "matchedTopic": "太空与低空动态",
-      "rawText": "中国2030年实现航天员登月",
+      "rawText": "黎家盈，我国首位来自香港的航天员，我国第四位女航天员，“有个华侨曾说过，飞船飞得有多高，我们中国人的头就抬得有多高”,飞船,香港,航天员,黎家盈,我们中国人,中国航天日",
       "relatedTitles": [
-        "中国2030年实现航天员登月 空间站将从这三方面 09:46"
+        "黎家盈，我国首位来自香港的航天员，我国第四位 16:09"
       ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "神二十一乘组有望刷新中国航天员乘组在轨驻留最 09:14",
-      "summary": "神舟二十一号乘组在轨驻留已 203 天，各项工作进展顺利，3 名航天员状态良好。任务期间共进行 3 次出舱活动，并在空间生命科学、材料科学、航天医学等领域取得多项突破性成果，包括首次实现小鼠空间密闭饲养、在轨生成低缺陷硒化铟晶体等。#神舟二十一号##中国航天#",
+      "title": "神舟二十三号明天出征！乘组名单确定：朱杨柱、 16:00",
+      "summary": "神舟二十三号明天出征！乘组名单确定：朱杨柱、张志远、黎家盈，中国官宣第4位女航天员：首位香港籍航天员黎家盈,航天员,朱杨柱,黎家盈,中国航天日,神舟二十三号,张志远(赛艇运动员)",
       "source": "网易科技",
       "sources": [
         "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KTJQO38Q05198CJN.html",
+      "url": "https://www.163.com/dy/article/KTKHV50L0512B07B.html",
       "sourceUrls": [
-        "https://www.163.com/dy/article/KTJQO38Q05198CJN.html"
+        "https://www.163.com/dy/article/KTKHV50L0512B07B.html"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
@@ -2061,44 +2576,100 @@ window.CHENCHEN_DAILY_DATA = {
       "format": "video",
       "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
       "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "神21乘组有望刷新在轨时长纪录",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "神舟二十三号明天出征！乘组名单确定：朱杨柱、张志远、黎家盈，中国官宣第4位女航天员：首位香港籍航天员黎家盈,航天员,朱杨柱,黎家盈,中国航天日,神舟二十三号,张志远(赛艇运动员)",
       "relatedTitles": [
-        "神二十一乘组有望刷新中国航天员乘组在轨驻留最 09:14"
+        "神舟二十三号明天出征！乘组名单确定：朱杨柱、 16:00"
       ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "9项科学实验将随神舟二十三号载人飞船上行中国 09:49",
-      "summary": "9项科学实验将随神舟二十三号载人飞船上行中国空间站,神舟,载人飞船,科学实验,二十三号,中国空间站",
+      "title": "独家丨钟睒睒首次出手新能源，其看中的固态电池 15:13",
+      "summary": "独家丨钟睒睒首次出手新能源，其看中的固态电池材料公司，究竟藏了怎样的技术掌舵人？,储能,钟睒睒,新能源,锂电池,动力电池,固态电池材料",
       "source": "网易科技",
       "sources": [
         "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KTJSNJFM0534A4SC.html",
+      "url": "https://www.163.com/dy/article/KTKF8FPE0512B07B.html",
       "sourceUrls": [
-        "https://www.163.com/dy/article/KTJSNJFM0534A4SC.html"
+        "https://www.163.com/dy/article/KTKF8FPE0512B07B.html"
       ],
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
       "priority": 5,
       "score": 77,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
       "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "9项科学实验将随神舟二十三号载人飞船上行中国空间站,神舟,载人飞船,科学实验,二十三号,中国空间站",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "独家丨钟睒睒首次出手新能源，其看中的固态电池材料公司，究竟藏了怎样的技术掌舵人？,储能,钟睒睒,新能源,锂电池,动力电池,固态电池材料",
       "relatedTitles": [
-        "9项科学实验将随神舟二十三号载人飞船上行中国 09:49"
+        "独家丨钟睒睒首次出手新能源，其看中的固态电池 15:13"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "康斯特回应是否有计划与SpaceX扩大合作：单一用 14:56",
+      "summary": "康斯特回应是否有计划与SpaceX扩大合作：单一用户影响有限,康斯特,特斯拉,知名企业,spacex,战略合作协议",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KTKE99IF0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KTKE99IF0534A4SC.html"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "监管与安全",
+      "keywords": "data security, privacy protection, regulatory framework",
+      "priority": 5,
+      "score": 77,
+      "format": "live",
+      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
+      "status": "confirmed_today",
+      "matchedTopic": "监管与安全动态",
+      "rawText": "康斯特回应是否有计划与SpaceX扩大合作：单一用户影响有限,康斯特,特斯拉,知名企业,spacex,战略合作协议",
+      "relatedTitles": [
+        "康斯特回应是否有计划与SpaceX扩大合作：单一用 14:56"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "小米发布YU7 GT，雷军回应YU7销量：输给特斯拉 13:23",
+      "summary": "小米发布YU7 GT，雷军回应YU7销量：输给特斯拉不丢人,雷军,小米手机,特斯拉(公司)",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KTK90JNV0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KTK90JNV0534A4SC.html"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 77,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "小米发布YU7 GT，雷军回应YU7销量：输给特斯拉不丢人,雷军,小米手机,特斯拉(公司)",
+      "relatedTitles": [
+        "小米发布YU7 GT，雷军回应YU7销量：输给特斯拉 13:23"
       ]
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "两名巴基斯坦航天员已进入中国航天员科研训练中 09:41",
-      "summary": "巴基斯坦航天员与中国航天员一同训练",
+      "summary": "香港航天员训练时学会地道东北话",
       "source": "网易科技",
       "sources": [
         "网易科技"
@@ -2118,7 +2689,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
       "status": "confirmed_today",
       "matchedTopic": "科学前沿与科研设施",
-      "rawText": "巴基斯坦航天员与中国航天员一同训练",
+      "rawText": "香港航天员训练时学会地道东北话",
       "relatedTitles": [
         "两名巴基斯坦航天员已进入中国航天员科研训练中 09:41"
       ]
@@ -2126,7 +2697,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "神二十三乘组在轨期间将新开展100余项科学与应 09:39",
-      "summary": "神二十三乘组在轨期间将新开展100余项科学与应用项目,太空,航天员,空间站,载人飞船,空间生命科学,神二十三乘组",
+      "summary": "神二十三乘组将开展100余项科学项目",
       "source": "网易科技",
       "sources": [
         "网易科技"
@@ -2145,10 +2716,38 @@ window.CHENCHEN_DAILY_DATA = {
       "format": "package",
       "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "神二十三乘组在轨期间将新开展100余项科学与应用项目,太空,航天员,空间站,载人飞船,空间生命科学,神二十三乘组",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "神二十三乘组将开展100余项科学项目",
       "relatedTitles": [
         "神二十三乘组在轨期间将新开展100余项科学与应 09:39"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "神二十一乘组有望刷新中国航天员乘组在轨驻留最 09:14",
+      "summary": "神21乘组有望刷新在轨时长纪录",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KTJQO38Q05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KTJQO38Q05198CJN.html"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "priority": 5,
+      "score": 77,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "神21乘组有望刷新在轨时长纪录",
+      "relatedTitles": [
+        "神二十一乘组有望刷新中国航天员乘组在轨驻留最 09:14"
       ]
     },
     {
@@ -2177,6 +2776,146 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "最近，中国电信、中国移动、中国联通三大运营商，齐刷刷推出了“词元套餐”。最低资费9.9元可获得1000万词元（Token）额度。 很多人可能会问：我天天用大模型聊天对话，也没交过钱，“词元套餐”",
       "relatedTitles": [
         "“词元套餐”来了，未来能像流量那样花吗"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "美国打压，能限制中国药企崛起吗？",
+      "summary": "首页 美国打压，能限制中国药企崛起吗？ 分享到： 美媒发现不对劲：打伊朗都这么吃力，还怎么应对中国 索赔80亿元！闻泰科技起诉安世荷兰 “特朗普变卦前，接到电话警告‘会输给中国’” “这些景象让我们哑口无言”，美国防部公布第二批UFO文件 《歌手》有多卷，歌手就有多卷 “中国这一转变，欧亚车企抬不起头” “台湾偷偷联系",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2024_08_21_745527.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2024_08_21_745527.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "科学前沿",
+      "keywords": "scientific research, frontier science, research infrastructure",
+      "priority": 5,
+      "score": 75,
+      "format": "package",
+      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "首页 美国打压，能限制中国药企崛起吗？ 分享到： 美媒发现不对劲：打伊朗都这么吃力，还怎么应对中国 索赔80亿元！闻泰科技起诉安世荷兰 “特朗普变卦前，接到电话警告‘会输给中国’” “这些景象让我们哑口无言”，美国防部公布第二批UFO文件 《歌手》有多卷，歌手就有多卷 “中国这一转变，欧亚车企抬不起头” “台湾偷偷联系乌克兰，企图‘取经’” 美媒不爽，“欧盟给中塞画红线，武契奇在逼近” 欧盟高官焦虑：对中国下手，快快快 “中国断了日本4个月” 马克龙不学好：这一招，可效仿美国 日本经产相：与中国沟通，理所应当 “卡塔尔派团德黑兰开展斡旋” “在两国境内，泽连斯基想跟我谈啥都行” “美国情报头子",
+      "relatedTitles": [
+        "美国打压，能限制中国药企崛起吗？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "萝卜快跑，慢就是快",
+      "summary": "首页 萝卜快跑，慢就是快 分享到： 美媒发现不对劲：打伊朗都这么吃力，还怎么应对中国 索赔80亿元！闻泰科技起诉安世荷兰 “特朗普变卦前，接到电话警告‘会输给中国’” “这些景象让我们哑口无言”，美国防部公布第二批UFO文件 《歌手》有多卷，歌手就有多卷 “中国这一转变，欧亚车企抬不起头” “台湾偷偷联系乌克兰，企图‘",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2024_08_21_745526.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2024_08_21_745526.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 75,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "首页 萝卜快跑，慢就是快 分享到： 美媒发现不对劲：打伊朗都这么吃力，还怎么应对中国 索赔80亿元！闻泰科技起诉安世荷兰 “特朗普变卦前，接到电话警告‘会输给中国’” “这些景象让我们哑口无言”，美国防部公布第二批UFO文件 《歌手》有多卷，歌手就有多卷 “中国这一转变，欧亚车企抬不起头” “台湾偷偷联系乌克兰，企图‘取经’” 美媒不爽，“欧盟给中塞画红线，武契奇在逼近” 欧盟高官焦虑：对中国下手，快快快 “中国断了日本4个月” 马克龙不学好：这一招，可效仿美国 日本经产相：与中国沟通，理所应当 “卡塔尔派团德黑兰开展斡旋” “在两国境内，泽连斯基想跟我谈啥都行” “美国情报头子被逼辞职” “",
+      "relatedTitles": [
+        "萝卜快跑，慢就是快"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "欧盟港停满中国车？“产能过剩”不背锅",
+      "summary": "首页 欧盟港停满中国车？“产能过剩”不背锅 分享到： 美媒发现不对劲：打伊朗都这么吃力，还怎么应对中国 索赔80亿元！闻泰科技起诉安世荷兰 “特朗普变卦前，接到电话警告‘会输给中国’” “这些景象让我们哑口无言”，美国防部公布第二批UFO文件 《歌手》有多卷，歌手就有多卷 “中国这一转变，欧亚车企抬不起头” “台湾偷偷",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2024_07_26_742793.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2024_07_26_742793.shtml"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 75,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "首页 欧盟港停满中国车？“产能过剩”不背锅 分享到： 美媒发现不对劲：打伊朗都这么吃力，还怎么应对中国 索赔80亿元！闻泰科技起诉安世荷兰 “特朗普变卦前，接到电话警告‘会输给中国’” “这些景象让我们哑口无言”，美国防部公布第二批UFO文件 《歌手》有多卷，歌手就有多卷 “中国这一转变，欧亚车企抬不起头” “台湾偷偷联系乌克兰，企图‘取经’” 美媒不爽，“欧盟给中塞画红线，武契奇在逼近” 欧盟高官焦虑：对中国下手，快快快 “中国断了日本4个月” 马克龙不学好：这一招，可效仿美国 日本经产相：与中国沟通，理所应当 “卡塔尔派团德黑兰开展斡旋” “在两国境内，泽连斯基想跟我谈啥都行” “美国情报",
+      "relatedTitles": [
+        "欧盟港停满中国车？“产能过剩”不背锅"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "稻浪千重，种子有翼",
+      "summary": "在全国科学家故事馆校众创展演活动上，海南科技馆带来的原创科普剧《种子的翅膀》在舞台上重现的那段峥嵘岁月，献给这位“杂交水稻之父”最动人的怀念。",
+      "source": "光明网-科技",
+      "sources": [
+        "光明网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://tech.gmw.cn/2026-05/23/content_38784155.htm",
+      "sourceUrls": [
+        "https://tech.gmw.cn/2026-05/23/content_38784155.htm"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "科学前沿",
+      "keywords": "scientific research, frontier science, research infrastructure",
+      "priority": 5,
+      "score": 75,
+      "format": "package",
+      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿与科研设施",
+      "rawText": "在全国科学家故事馆校众创展演活动上，海南科技馆带来的原创科普剧《种子的翅膀》在舞台上重现的那段峥嵘岁月，献给这位“杂交水稻之父”最动人的怀念。",
+      "relatedTitles": [
+        "稻浪千重，种子有翼"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "隐姓埋名17载，他是烽火中的微光！",
+      "summary": "四川科技馆带来的原创科普剧《烽火中的微光》，在这部微剧中，演员李黎饰演了我国著名核物理学家、“两弹一星”功勋奖章获得者王淦昌院士。谈及角色塑造，主创团队表示，王淦昌院士是一位默默奉献的幕后英雄，饰演这个人物无需浮夸的表演和过多的肢体语言，关键在于精准传达他对科学事业的执着追求和忘我的奉献精神。",
+      "source": "光明网-科技",
+      "sources": [
+        "光明网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://tech.gmw.cn/2026-05/23/content_38784154.htm",
+      "sourceUrls": [
+        "https://tech.gmw.cn/2026-05/23/content_38784154.htm"
+      ],
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "priority": 5,
+      "score": 75,
+      "format": "graphic",
+      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字经济动态",
+      "rawText": "四川科技馆带来的原创科普剧《烽火中的微光》，在这部微剧中，演员李黎饰演了我国著名核物理学家、“两弹一星”功勋奖章获得者王淦昌院士。谈及角色塑造，主创团队表示，王淦昌院士是一位默默奉献的幕后英雄，饰演这个人物无需浮夸的表演和过多的肢体语言，关键在于精准传达他对科学事业的执着追求和忘我的奉献精神。",
+      "relatedTitles": [
+        "隐姓埋名17载，他是烽火中的微光！"
       ]
     },
     {
@@ -2258,10 +2997,10 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Chinese Memory Flood Could Finally Drop DRAM and SSD Prices",
-      "summary": "Chinese DRAM and SSD production surge could break AI-driven memory price increases, offering relief for PC builders facing 20-50% RAM cost spikes.",
+      "title": "OpenAI has a new website where you can check if an image is real or AI slop",
+      "summary": "OpenAI is teaming up with Google to make AI-generated images easier to spot using invisible watermarks, metadata, and a public verification tool you can use right now.",
       "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/chinese-memory-flood-could-finally-182237135.html",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html",
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
       "region": "US",
@@ -2309,19 +3048,19 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "5 Tech Brands That Got Bought Up By Apple (And What Happened When They Did)",
-      "summary": "Apple may not own a stable of other companies, but that doesn't mean it avoids making acquisitions. The company's made some huge purchases over the years.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/5-tech-brands-got-bought-223000115.html",
+      "title": "‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59",
+      "summary": "Rapper Rob Base has died after a battle with cancer. He was 59. His team shared the news of his death on his Instagram page.",
+      "source": "AP Technology",
+      "url": "https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1",
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
       "region": "US",
-      "category": "数字经济",
-      "keywords": "digital economy, data infrastructure, cloud computing",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
       "priority": 4,
-      "score": 45,
+      "score": 63,
       "status": "confirmed_today"
     },
     {
@@ -2337,23 +3076,6 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, large language models, AI governance, productivity",
       "relevanceToChina": "medium",
       "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
-      "priority": 4,
-      "score": 62,
-      "status": "confirmed_today"
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
-      "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
-      "publishedAt": "Fri, 22 May 2026 22:55:57 +0000",
-      "date": "2026-05-23",
-      "region": "US",
-      "category": "太空与低空",
-      "keywords": "low-altitude economy, commercial space, satellite internet",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use this as background for global 太空与低空 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
       "priority": 4,
       "score": 62,
       "status": "confirmed_today"
@@ -2411,11 +3133,11 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "You can no longer Google the word ‘disregard’",
-      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "publishedAt": "Fri, 22 May 2026 16:16:48 +0000",
+      "title": "A 'Golden Orb' on the Ocean Floor Came From a Mysterious Animal",
+      "summary": "A fascinating, unclassifiable orb found in the Gulf of Alaska is not an alien object, as some speculated, but the remains of a poorly documented animal.",
+      "source": "WIRED Science",
+      "url": "https://www.wired.com/story/a-golden-orb-on-the-ocean-floor-came-from-a-mysterious-animal/",
+      "publishedAt": "Sat, 23 May 2026 09:00:00 +0000",
       "date": "2026-05-23",
       "region": "US",
       "category": "AI",
@@ -2423,7 +3145,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relevanceToChina": "medium",
       "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
       "priority": 4,
-      "score": 62,
+      "score": 61,
       "status": "confirmed_today"
     },
     {
@@ -2530,6 +3252,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "These 4 overlooked Android settings made my cheap headphones sound like AirPods",
+      "summary": "You don't need better earbuds, you need better settings.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/audio/articles/4-overlooked-android-settings-made-194618618.html",
+      "publishedAt": "2026-05-23",
+      "date": "2026-05-23",
+      "region": "US",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
+      "priority": 4,
+      "score": 60,
+      "status": "confirmed_today"
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel",
       "summary": "If you’re flying this summer, the adapter lets you connect your wireless earbuds with in-flight entertainment systems.",
       "source": "Yahoo News Technology",
@@ -2632,10 +3371,10 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "4 AI Prompts to Build a One-Person Business in 2026 (No Team, No Funding, No Guessing)",
-      "summary": "Find the bottleneck that could become your next multimillion-dollar idea.",
+      "title": "Yahoo Mail Offers 1 TB of Free Storage While Gmail Caps at 15 GB — but Reddit Found the Catch and It Is a Big One",
+      "summary": "Financial planner Jeff Rose’s post has brought up a nostalgic conversation about Yahoo Mail, and how much seemingly free storage it gives. Several Reddit users have responded to hi",
       "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/deals/articles/4-ai-prompts-build-one-000000251.html",
+      "url": "https://tech.yahoo.com/general/articles/yahoo-mail-offers-1-tb-065915440.html",
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
       "region": "US",
@@ -2649,10 +3388,10 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Only 2 Of These US Fighter Jets Were Ever Built",
-      "summary": "Specialized aircraft is nothing new when it comes to military aviation, but this particular variant of an otherwise common plane only produced two aircraft.",
+      "title": "10 landscape photography techniques that pros use for better results",
+      "summary": "Expand your skills and elevate your images, as pro Jeremy Flint explains how to shoot powerful landscape photography",
       "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/transportation/articles/only-2-us-fighter-jets-234500337.html",
+      "url": "https://tech.yahoo.com/cameras/articles/10-landscape-photography-techniques-pros-061500798.html",
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
       "region": "US",
@@ -2717,6 +3456,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
+      "summary": "Europe is vulnerable with a non-state actor like Starlink having the power to switch off the continent's connectivity.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+      "publishedAt": "Sat, 23 May 2026 07:01:00 +0000",
+      "date": "2026-05-23",
+      "region": "US",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
+      "priority": 4,
+      "score": 47,
+      "status": "confirmed_today"
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
       "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
       "source": "TechCrunch",
@@ -2730,6 +3486,40 @@ window.CHENCHEN_DAILY_DATA = {
       "cgtAngle": "Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
       "priority": 4,
       "score": 47,
+      "status": "confirmed_today"
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "You can no longer Google the word ‘disregard’",
+      "summary": "If you’ve ever quickly Googled a word mid-conversation—just to double-check the meaning—you’re not alone. It’s one of the most common uses of Google. But right now, that simple hab",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "publishedAt": "Fri, 22 May 2026 16:16:48 +0000",
+      "date": "2026-05-23",
+      "region": "US",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
+      "priority": 4,
+      "score": 47,
+      "status": "confirmed_today"
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
+      "summary": "This capability is not common for satellites conducting typical missions.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+      "publishedAt": "Fri, 22 May 2026 22:50:23 +0000",
+      "date": "2026-05-23",
+      "region": "US",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
+      "priority": 4,
+      "score": 46,
       "status": "confirmed_today"
     },
     {
@@ -2751,11 +3541,11 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "The Steam Controller Has The Funniest Easter Egg Ever",
-      "summary": "Valve released its new Steam Controller on May 4, 2026, with many gamers eager to get their hands on it, as it sold out the same day it launched.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/gaming/articles/steam-controller-funniest-easter-egg-211700596.html",
-      "publishedAt": "2026-05-23",
+      "title": "The Steam Controller’s “drop-in” charger almost started a fire for this owner",
+      "summary": "Keep the charging puck’s exposed pins far away from anything metal.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/",
+      "publishedAt": "Fri, 22 May 2026 16:24:11 +0000",
       "date": "2026-05-23",
       "region": "US",
       "category": "数字经济",
@@ -2763,32 +3553,15 @@ window.CHENCHEN_DAILY_DATA = {
       "relevanceToChina": "medium",
       "cgtAngle": "Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
       "priority": 4,
-      "score": 45,
+      "score": 46,
       "status": "confirmed_today"
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "‘Zero Parades’ Review: The Opera Never Tires",
-      "summary": "This is my review of Zero Parades: For Dead Spies, the second game from Disco Elysium developer ZA/UM Studio. As of this moment, it’s a strong game-of-the-year contender.",
+      "title": "Mova’s new budget robot mower range is designed specifically for small gardens",
+      "summary": "There are three models included",
       "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/gaming/articles/zero-parades-review-opera-never-200208689.html",
-      "publishedAt": "2026-05-23",
-      "date": "2026-05-23",
-      "region": "US",
-      "category": "数字经济",
-      "keywords": "digital economy, data infrastructure, cloud computing",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
-      "priority": 4,
-      "score": 45,
-      "status": "confirmed_today"
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "LEGO Batman: Legacy of the Dark Knight review: A stellar chapter in the hero's history",
-      "summary": "LEGO Batman: Legacy of the Dark Knight tries to pay homage to the hero's most iconic moments, and ends up becoming one of them in the process.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/gaming/articles/lego-batman-legacy-dark-knight-193718167.html",
+      "url": "https://tech.yahoo.com/home/articles/mova-budget-robot-mower-range-070000403.html",
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
       "region": "US",
@@ -2806,40 +3579,6 @@ window.CHENCHEN_DAILY_DATA = {
       "summary": "Scientists are attempting to build exercise equipment to be used on future space flights.",
       "source": "Yahoo News Technology",
       "url": "https://tech.yahoo.com/science/articles/space-race-create-gym-equipment-234212825.html",
-      "publishedAt": "2026-05-23",
-      "date": "2026-05-23",
-      "region": "US",
-      "category": "数字经济",
-      "keywords": "digital economy, data infrastructure, cloud computing",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
-      "priority": 4,
-      "score": 45,
-      "status": "confirmed_today"
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Snarky post from Valorant dev Riot ignites controversy, fuels misunderstanding about Vanguard anti-cheat",
-      "summary": "A new controversial post from Valorant studio Riot Games has sparked an uproar in the game's community, fueling a misunderstanding about its anti-cheat.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/gaming/articles/snarky-post-valorant-dev-riot-211221118.html",
-      "publishedAt": "2026-05-23",
-      "date": "2026-05-23",
-      "region": "US",
-      "category": "数字经济",
-      "keywords": "digital economy, data infrastructure, cloud computing",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
-      "priority": 4,
-      "score": 45,
-      "status": "confirmed_today"
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google and Xreal’s Project Aura smart glasses will ship later this year",
-      "summary": "Xreal's Project Aura smart glasses throw built-in display units into the mix with a wide field of view,",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ar-vr/articles/google-xreal-project-aura-smart-210750459.html",
       "publishedAt": "2026-05-23",
       "date": "2026-05-23",
       "region": "US",
@@ -2886,8 +3625,8 @@ window.CHENCHEN_DAILY_DATA = {
       "status": "confirmed_today"
     }
   ],
-  "brief": "ChenChen 今日中国科技热点｜2026-05-23｜v2\n生成时间：2026/5/23 10:29:02\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2613｜确认今日 37｜国际背景 38\n\n本次更新：\n新增核心线索：国内 21 条｜国际 17 条\n延续跟踪线索：国内 16 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n2. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36\n   网易科技｜2026-05-23｜https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-23] 提供美国25%药物研发，药明康德为何屡遭打击？\n   观察者网-产业科技｜2026-05-23｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-23] 美国打压，能限制中国药企崛起吗？\n   观察者网-产业科技｜2026-05-23｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n5. [2026-05-23] 萝卜快跑，慢就是快\n   观察者网-产业科技｜2026-05-23｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n本次新增线索：\n- AI早报｜SpaceX拟打造超级太阳能工厂，助力太空 09:42｜网易科技｜https://www.163.com/dy/article/KTJSAQKJ0534A4SC.html\n- 推动人工智能扎根田间地头｜人民网-科技｜http://finance.people.com.cn/n1/2026/0523/c1004-40725830.html\n- 明日发射！香港女航天员将赴“天宫”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxru5548015.shtml\n- 嫦娥七号下半年择机发射 10:16｜网易科技｜https://www.163.com/dy/article/KTJU8UU305198CJN.html\n- 阶跃星辰百亿估值背后，是AI变现的解药还是新焦虑？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxrq7826815.shtml\n- Chinese Memory Flood Could Finally Drop DRAM and SSD Prices｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/chinese-memory-flood-could-finally-182237135.html\n\n今日热点方向：\n- AI 应用：AI动态（81 条，11 个来源）\n- 芯片/半导体：半导体供应链（17 条，6 个来源）\n- 机器人/具身智能：人形机器人与具身智能（15 条，9 个来源）\n- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（5 条，5 个来源）\n- 科学前沿：科学前沿与科研设施（32 条，11 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\n2. Chinese Memory Flood Could Finally Drop DRAM and SSD Prices｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/chinese-memory-flood-could-finally-182237135.html\n3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\n4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\n5. 5 Tech Brands That Got Bought Up By Apple (And What Happened When They Did)｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/5-tech-brands-got-bought-223000115.html",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-23｜v2\n生成时间：2026/5/23 10:29:02\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2613｜确认今日 37｜国际背景 38\n\n本次更新：\n新增核心线索：国内 21 条｜国际 17 条\n延续跟踪线索：国内 16 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n2. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36\n   网易科技｜2026-05-23｜https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-23] 提供美国25%药物研发，药明康德为何屡遭打击？\n   观察者网-产业科技｜2026-05-23｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-23] 美国打压，能限制中国药企崛起吗？\n   观察者网-产业科技｜2026-05-23｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n5. [2026-05-23] 萝卜快跑，慢就是快\n   观察者网-产业科技｜2026-05-23｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n本次新增线索：\n- AI早报｜SpaceX拟打造超级太阳能工厂，助力太空 09:42｜网易科技｜https://www.163.com/dy/article/KTJSAQKJ0534A4SC.html\n- 推动人工智能扎根田间地头｜人民网-科技｜http://finance.people.com.cn/n1/2026/0523/c1004-40725830.html\n- 明日发射！香港女航天员将赴“天宫”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxru5548015.shtml\n- 嫦娥七号下半年择机发射 10:16｜网易科技｜https://www.163.com/dy/article/KTJU8UU305198CJN.html\n- 阶跃星辰百亿估值背后，是AI变现的解药还是新焦虑？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxrq7826815.shtml\n- Chinese Memory Flood Could Finally Drop DRAM and SSD Prices｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/chinese-memory-flood-could-finally-182237135.html\n\n今日热点方向：\n- AI 应用：AI动态（81 条，11 个来源）\n- 芯片/半导体：半导体供应链（17 条，6 个来源）\n- 机器人/具身智能：人形机器人与具身智能（15 条，9 个来源）\n- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（5 条，5 个来源）\n- 科学前沿：科学前沿与科研设施（32 条，11 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\n2. Chinese Memory Flood Could Finally Drop DRAM and SSD Prices｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/chinese-memory-flood-could-finally-182237135.html\n3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\n4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\n5. 5 Tech Brands That Got Bought Up By Apple (And What Happened When They Did)｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/5-tech-brands-got-bought-223000115.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-23｜生成时间：2026/5/23 10:29:02｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2613｜确认今日 37｜国际背景 38</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 21 条｜国际 17 条<br>延续跟踪线索：国内 16 条｜国际 21 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围</strong>\n      <span>新浪科技｜2026-05-23｜<a href=\"https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36</strong>\n      <span>网易科技｜2026-05-23｜<a href=\"https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-23] 提供美国25%药物研发，药明康德为何屡遭打击？</strong>\n      <span>观察者网-产业科技｜2026-05-23｜<a href=\"https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-23] 美国打压，能限制中国药企崛起吗？</strong>\n      <span>观察者网-产业科技｜2026-05-23｜<a href=\"https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-23] 萝卜快跑，慢就是快</strong>\n      <span>观察者网-产业科技｜2026-05-23｜<a href=\"https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go</strong>\n      <span>时间：Fri, 22 May 2026 16:51:40 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Chinese Memory Flood Could Finally Drop DRAM and SSD Prices</strong>\n      <span>时间：2026-05-23｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/chinese-memory-flood-could-finally-182237135.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers</strong>\n      <span>时间：Fri, 22 May 2026 16:27:57 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Shein Buying Everlane Actually Makes Perfect Sense</strong>\n      <span>时间：Fri, 22 May 2026 17:53:01 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. 5 Tech Brands That Got Bought Up By Apple (And What Happened When They Did)</strong>\n      <span>时间：2026-05-23｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/apple-intelligence/articles/5-tech-brands-got-bought-223000115.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/23 10:29:02\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 21 条｜国际 17 条\n延续跟踪线索：国内 16 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n2. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-23] 提供美国25%药物研发，药明康德为何屡遭打击？\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-23] 美国打压，能限制中国药企崛起吗？\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n5. [2026-05-23] 萝卜快跑，慢就是快\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n本次新增线索：\n- AI早报｜SpaceX拟打造超级太阳能工厂，助力太空 09:42｜网易科技｜https://www.163.com/dy/article/KTJSAQKJ0534A4SC.html\n- 推动人工智能扎根田间地头｜人民网-科技｜http://finance.people.com.cn/n1/2026/0523/c1004-40725830.html\n- 明日发射！香港女航天员将赴“天宫”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxru5548015.shtml\n- 嫦娥七号下半年择机发射 10:16｜网易科技｜https://www.163.com/dy/article/KTJU8UU305198CJN.html\n- 阶跃星辰百亿估值背后，是AI变现的解药还是新焦虑？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhyvxrq7826815.shtml\n- Chinese Memory Flood Could Finally Drop DRAM and SSD Prices｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/chinese-memory-flood-could-finally-182237135.html\n\n今日热点方向：\n- AI 应用：AI动态（81 条，11 个来源）\n- 芯片/半导体：半导体供应链（17 条，6 个来源）\n- 机器人/具身智能：人形机器人与具身智能（15 条，9 个来源）\n- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（5 条，5 个来源）\n- 科学前沿：科学前沿与科研设施（32 条，11 个来源）\n\n国际科技背景：\n1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\n2. Chinese Memory Flood Could Finally Drop DRAM and SSD Prices｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/chinese-memory-flood-could-finally-182237135.html\n3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\n4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\n5. 5 Tech Brands That Got Bought Up By Apple (And What Happened When They Did)｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/5-tech-brands-got-bought-223000115.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "ChenChen 今日中国科技热点｜2026-05-23｜v2\n生成时间：2026/5/23 17:21:43\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2537｜确认今日 60｜国际背景 38\n\n本次更新：\n新增核心线索：国内 39 条｜国际 10 条\n延续跟踪线索：国内 21 条｜国际 28 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36\n   网易科技｜2026-05-23｜https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源\n   科技日报｜2026-05-23｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n- 太蓝新能源无人机固态电芯批量交付：年产能将破千万支｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n- 有身份证了！人形机器人将实现全流程溯源｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n- 我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpn5314296.shtml\n- 2030年，中国将实现航天员登月｜新浪科技｜https://finance.sina.com.cn/wm/2026-05-23/doc-inhyvxru5576720.shtml\n- OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n\n今日热点方向：\n- AI 应用：AI动态（81 条，11 个来源）\n- 芯片/半导体：半导体供应链（18 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（17 条，9 个来源）\n- 新能源车/智能驾驶：新能源车动态（14 条，4 个来源）\n- 太空与低空经济：太空与低空动态（10 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（29 条，11 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\n2. OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\n4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\n5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59｜AP Technology｜https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-23｜v2\n生成时间：2026/5/23 17:21:43\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2537｜确认今日 60｜国际背景 38\n\n本次更新：\n新增核心线索：国内 39 条｜国际 10 条\n延续跟踪线索：国内 21 条｜国际 28 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支\n   新浪科技｜2026-05-23｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36\n   网易科技｜2026-05-23｜https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源\n   科技日报｜2026-05-23｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n- 太蓝新能源无人机固态电芯批量交付：年产能将破千万支｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n- 有身份证了！人形机器人将实现全流程溯源｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n- 我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpn5314296.shtml\n- 2030年，中国将实现航天员登月｜新浪科技｜https://finance.sina.com.cn/wm/2026-05-23/doc-inhyvxru5576720.shtml\n- OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n\n今日热点方向：\n- AI 应用：AI动态（81 条，11 个来源）\n- 芯片/半导体：半导体供应链（18 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（17 条，9 个来源）\n- 新能源车/智能驾驶：新能源车动态（14 条，4 个来源）\n- 太空与低空经济：太空与低空动态（10 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（29 条，11 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\n2. OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\n4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\n5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59｜AP Technology｜https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-23｜生成时间：2026/5/23 17:21:43｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2537｜确认今日 60｜国际背景 38</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 39 条｜国际 10 条<br>延续跟踪线索：国内 21 条｜国际 28 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市</strong>\n      <span>新浪科技｜2026-05-23｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围</strong>\n      <span>新浪科技｜2026-05-23｜<a href=\"https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支</strong>\n      <span>新浪科技｜2026-05-23｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36</strong>\n      <span>网易科技｜2026-05-23｜<a href=\"https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源</strong>\n      <span>科技日报｜2026-05-23｜<a href=\"https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go</strong>\n      <span>时间：Fri, 22 May 2026 16:51:40 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI has a new website where you can check if an image is real or AI slop</strong>\n      <span>时间：2026-05-23｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers</strong>\n      <span>时间：Fri, 22 May 2026 16:27:57 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Shein Buying Everlane Actually Makes Perfect Sense</strong>\n      <span>时间：Fri, 22 May 2026 17:53:01 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59</strong>\n      <span>时间：2026-05-23｜来源：AP Technology｜<a href=\"https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/23 17:21:43\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 39 条｜国际 10 条\n延续跟踪线索：国内 21 条｜国际 28 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KTJL4GGD0534A4SC.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml\n- 太蓝新能源无人机固态电芯批量交付：年产能将破千万支｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml\n- 有身份证了！人形机器人将实现全流程溯源｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html\n- 我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpn5314296.shtml\n- 2030年，中国将实现航天员登月｜新浪科技｜https://finance.sina.com.cn/wm/2026-05-23/doc-inhyvxru5576720.shtml\n- OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n\n今日热点方向：\n- AI 应用：AI动态（81 条，11 个来源）\n- 芯片/半导体：半导体供应链（18 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（17 条，9 个来源）\n- 新能源车/智能驾驶：新能源车动态（14 条，4 个来源）\n- 太空与低空经济：太空与低空动态（10 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（29 条，11 个来源）\n\n国际科技背景：\n1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/\n2. OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html\n3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/\n4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/\n5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59｜AP Technology｜https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
