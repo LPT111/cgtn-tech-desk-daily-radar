@@ -2,60 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/23 17:26:05
+生成时间：2026/5/24 09:30:28
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 4 条｜国际 0 条
-延续跟踪线索：国内 58 条｜国际 38 条
+新增核心线索：国内 28 条｜国际 10 条
+延续跟踪线索：国内 3 条｜国际 1 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-05-23] 消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市
+1. [2026-05-24] 全球首款机器人手机 荣耀Robot Phone高清真机图出炉：颠覆传统形态
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-05-23/doc-inhywqpk4342804.shtml
-   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
+   链接：https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyxwhw4734389.shtml
+   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
-2. [2026-05-23] 从飞起来到飞得好 大疆、美团、顺丰丰翼低空突围
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-05-23/doc-inhyvtis7876736.shtml
-   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
-
-3. [2026-05-23] 太蓝新能源无人机固态电芯批量交付：年产能将破千万支
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywkfq5427907.shtml
-   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
-
-4. [2026-05-23] 人形机器人“身份证”来了，全国首个管理平台上 07:36
+2. [2026-05-24] 全国首个人形机器人全生命周期管理服务平台发布 07:45
    来源：网易科技
-   链接：https://www.163.com/dy/article/KTJL4GGD0534A4SC.html
+   链接：https://www.163.com/dy/article/KTM81AH605198CJN.html
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
-5. [2026-05-23] 有身份证了！人形机器人将实现全流程溯源
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html
+3. [2026-05-24] 从备胎到领跑，他让中国变压器实现逆袭
+   来源：中国科学报
+   链接：https://news.sciencenet.cn/htmlnews/2026/5/565234.shtm
+   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
+
+4. [2026-05-24] 山西留神峪煤矿事故救援现场：凌晨三点 救援侦测机器人下井探测
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyaqu4622368.shtml
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
+
+5. [2026-05-24] 台积电 Q1 净利大增 58% 反而被曝降薪？有员工喊出“学三星罢工”
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyxwhs6977581.shtml
+   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
 
 本次新增线索：
-- 人形机器人全生命周期管理服务平台已完成2.8万 11:41｜网易科技｜https://www.163.com/dy/article/KTK34VMH0512B07B.html
-- 从“堆算力”到“拼存力”，西部数据展示五年产品路线图｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpn5326450.shtml
-- 从“两弹一星”到AI时代，我们如何谈论科学家精神？｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-05-23/doc-inhywqph7575912.shtml
-- 续航缩水催生“续命”黑产 新能源汽车私改电池乱象调查｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-23/doc-inhywqpk4353189.shtml
+- 全球首款机器人手机 荣耀Robot Phone高清真机图出炉：颠覆传统形态｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyxwhw4734389.shtml
+- 全国首个人形机器人全生命周期管理服务平台发布 07:45｜网易科技｜https://www.163.com/dy/article/KTM81AH605198CJN.html
+- 从备胎到领跑，他让中国变压器实现逆袭｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565234.shtm
+- 山西留神峪煤矿事故救援现场：凌晨三点 救援侦测机器人下井探测｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyaqu4622368.shtml
+- 台积电 Q1 净利大增 58% 反而被曝降薪？有员工喊出“学三星罢工”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyxwhs6977581.shtml
+- These special phone and app features can help protect you from spyware｜TechCrunch｜https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/
 
 今日热点方向：
-- AI 应用：AI动态（82 条，12 个来源）
-- 芯片/半导体：半导体供应链（19 条，8 个来源）
-- 机器人/具身智能：人形机器人与具身智能（16 条，9 个来源）
-- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）
-- 太空与低空经济：太空与低空动态（10 条，4 个来源）
-- 科学前沿：科学前沿与科研设施（30 条，11 个来源）
+- AI 应用：AI动态（87 条，11 个来源）
+- 芯片/半导体：半导体供应链（22 条，7 个来源）
+- 机器人/具身智能：人形机器人与具身智能（15 条，9 个来源）
+- 新能源车/智能驾驶：新能源车动态（16 条，4 个来源）
+- 太空与低空经济：低空经济与无人机（8 条，5 个来源）
+- 科学前沿：科学前沿与科研设施（32 条，10 个来源）
 
 国际科技背景：
-1. Trump abruptly cancels EO signing event after top AI firm CEOs declined to go｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/
-2. OpenAI has a new website where you can check if an image is real or AI slop｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-website-where-check-image-080041504.html
-3. Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers｜TechCrunch｜https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/
-4. Shein Buying Everlane Actually Makes Perfect Sense｜WIRED Business｜https://www.wired.com/story/made-in-china-why-shein-bought-everlane/
-5. ‘It Takes Two’ rapper Rob Base, who helped bring hip-hop mainstream, dies at 59｜AP Technology｜https://apnews.com/article/rob-base-death-dj-ez-rock-5048b6d56838fac387c4d1e9cf33bfb1
+1. These special phone and app features can help protect you from spyware｜TechCrunch｜https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/
+2. Sony XM6 Vs. Apple AirPods Max 2: Which High-End Headphones Are Better?｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/sony-xm6-vs-apple-airpods-171700942.html
+3. Apple iPhone Air’s Struggles Force Rare New Price Drop｜Yahoo News Technology｜https://tech.yahoo.com/phones/deals/articles/apple-iphone-air-struggles-force-221019292.html
+4. SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest｜TechCrunch｜https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/
+5. Gamesir G7 Pro 8K PC Aimlabs Edition Controller Review｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/gamesir-g7-pro-8k-pc-180000463.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
