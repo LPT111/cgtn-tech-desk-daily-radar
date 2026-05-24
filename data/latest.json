@@ -1,71 +1,30 @@
 {
-  "generatedAt": "2026-05-24T09:28:49.485Z",
+  "generatedAt": "2026-05-24T09:45:28.862Z",
   "radarVersion": "v2",
   "targetDate": "2026-05-24",
   "changeSummary": {
-    "domesticNew": 39,
-    "globalNew": 11,
-    "domesticContinued": 10,
-    "globalContinued": 5,
+    "domesticNew": 2,
+    "globalNew": 0,
+    "domesticContinued": 48,
+    "globalContinued": 16,
     "topNewDomestic": [
       {
-        "title": "全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码",
+        "title": "全新设计、V8 声浪，宝马 M5 旅行版中期改款测试车曝光",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyyxue6506018.shtml"
       },
       {
-        "title": "西工大最新研究让机器人“带着思考”行动",
-        "source": "中国科学报",
-        "url": "https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm"
-      },
-      {
-        "title": "存储热潮愈演愈烈！奖金拿到手软 三星、SK海力 14:00",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KTMTFV2C05198CJN.html"
-      },
-      {
-        "title": "芬兰大学说新型AI聊天机器人有助抵抗错误健康信息",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-05/24/content_521642.html"
-      },
-      {
-        "title": "【5月第四周】人工智能时代来临，被错杀的低位机器人龙头需要关注！",
+        "title": "39岁男子减肥靠喝可乐：右眼差点瞎了",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5935155.shtml"
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-05-24/doc-inhyyxuk4290705.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Could anything but profit steer AI? The OpenAI trial offered clues but no verdict",
-        "source": "AP Technology",
-        "url": "https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0"
-      },
-      {
-        "title": "No captain, my captain: Navantia floats crewless warship",
-        "source": "The Register",
-        "url": "https://www.theregister.com/offbeat/2026/05/24/no-captain-my-captain-navantia-floats-crewless-warship/5244332"
-      },
-      {
-        "title": "Amazon Ember QLED review: Future Black Friday bargain",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/amazon-ember-qled-review-future-070000367.html"
-      },
-      {
-        "title": "Kingdom Come Dev Confirms Next Installment Is an 'Open-World RPG' Set to Launch Next Fiscal Year",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/gaming/articles/kingdom-come-dev-confirms-next-194440782.html"
-      },
-      {
-        "title": "Google Announced Gemini Spark, But Left Out An Uncomfortable Warning",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/gemini/articles/google-announced-gemini-spark-left-085044437.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 27,
   "failedSources": [
     {
       "name": "财联社",
@@ -101,11 +60,6 @@
       "name": "国家网信办-政策",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -150,11 +104,6 @@
       "optional": true
     },
     {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国务院政策文件",
       "error": "403 Forbidden",
       "optional": false
@@ -164,7 +113,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 138,
+      "parsed": 136,
       "failed": false,
       "optional": false
     },
@@ -381,9 +330,8 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -416,18 +364,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1261,
+  "itemsSeen": 1320,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 574,
-  "itemsAfterDedupe": 377,
-  "todayItemsSeen": 49,
+  "itemsAfterRelevantFilter": 572,
+  "itemsAfterDedupe": 375,
+  "todayItemsSeen": 50,
   "suspectedItemsSeen": 1,
-  "skippedNonToday": 322,
+  "skippedNonToday": 319,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 138,
+      "parsed": 136,
       "failed": false,
       "optional": false
     },
@@ -644,9 +592,8 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -868,11 +815,6 @@
       "optional": true
     },
     {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国务院政策文件",
       "error": "403 Forbidden",
       "optional": false
@@ -902,17 +844,17 @@
   "topics": [
     {
       "topic": "AI动态",
-      "count": 92,
+      "count": 91,
       "sourceCount": 11,
       "sources": [
         "新浪科技",
         "IT之家",
-        "中国科学报",
         "网易科技",
         "观察者网-产业科技",
         "量子位",
         "TechNode",
         "科技日报",
+        "中国科学报",
         "人民网-科技",
         "新华网-科技",
         "光明网-科技"
@@ -920,9 +862,9 @@
       "items": [
         "允许订阅用户创作 AI 翻唱、Remix 音乐，Spotify 与环球音乐达成合作",
         "交易员押注沃什领导下的美联储将在今年年底前加息",
-        "渣打行政总裁就“低价值人力资本”言论道歉",
         "OpenClaw工程师警告：AI正生成大量劣质且危险的代码",
-        "华硕 ROG 幻 16 Air、枪神 10 Plus 超竞版新增 RTX 5090 版本，42999~59999 元"
+        "华硕 ROG 幻 16 Air、枪神 10 Plus 超竞版新增 RTX 5090 版本，42999~59999 元",
+        "离谱！朱自清的《荷塘月色》AI率超60% 专家：大家对AI率有误解"
       ]
     },
     {
@@ -999,6 +941,29 @@
       ]
     },
     {
+      "topic": "商业航天与卫星互联网",
+      "count": 11,
+      "sourceCount": 9,
+      "sources": [
+        "新浪科技",
+        "中国科学报",
+        "IT之家",
+        "人民网-科技",
+        "中国科学院",
+        "网易科技",
+        "观察者网-产业科技",
+        "新华网-科技",
+        "光明网-科技"
+      ],
+      "items": [
+        "2030年，中国将实现航天员登月",
+        "美“星舰”第12次试飞因技术问题推迟",
+        "蓝色起源新格伦号火箭获准恢复发射：此前发射事故致卫星焚毁",
+        "商业航天“国家队”添新丁 捷龙三号火箭有何特点？",
+        "“微笑”卫星成功发射 中欧携手守望地球家园"
+      ]
+    },
+    {
       "topic": "科学前沿与科研设施",
       "count": 29,
       "sourceCount": 8,
@@ -1042,50 +1007,49 @@
       ]
     },
     {
-      "topic": "商业航天与卫星互联网",
-      "count": 11,
-      "sourceCount": 7,
-      "sources": [
-        "新浪科技",
-        "中国科学报",
-        "中国科学院",
-        "网易科技",
-        "观察者网-产业科技",
-        "新华网-科技",
-        "光明网-科技"
-      ],
-      "items": [
-        "2030年，中国将实现航天员登月",
-        "美“星舰”第12次试飞因技术问题推迟",
-        "蓝色起源新格伦号火箭获准恢复发射：此前发射事故致卫星焚毁",
-        "商业航天“国家队”添新丁 捷龙三号火箭有何特点？",
-        "“微笑”卫星成功发射 中欧携手守望地球家园"
-      ]
-    },
-    {
       "topic": "监管与安全动态",
       "count": 11,
       "sourceCount": 7,
       "sources": [
         "新浪科技",
+        "中国科学院",
         "网易科技",
         "观察者网-产业科技",
-        "中国科学院",
         "中国科学报",
         "人民网-科技",
         "光明网-科技"
       ],
       "items": [
         "伴鱼袁志强：未来三年AI+教育最大变量是政策，而非技术",
-        "耐克中国华北新物流中心落地北京：平均履约时效缩短至3天内，北京、天津消费者有望实现当日达",
-        "欧洲央行管委Demarco：欧洲央行或于6月加息 以示实现2%通胀目标决心",
+        "过程工程所安全氢基能源供热示范项目完成工况运行验证",
         "小米通报两起空调安装抽真空造假事件：涉事工程师永久拉黑",
-        "康斯特回应是否与SpaceX扩大合作 19:53"
+        "康斯特回应是否与SpaceX扩大合作 19:53",
+        "官方披露：张雪机车将出口欧洲"
+      ]
+    },
+    {
+      "topic": "数字经济动态",
+      "count": 23,
+      "sourceCount": 6,
+      "sources": [
+        "新浪科技",
+        "网易科技",
+        "观察者网-产业科技",
+        "中国科学院",
+        "中国科学报",
+        "光明网-科技"
+      ],
+      "items": [
+        "39岁男子减肥靠喝可乐：右眼差点瞎了",
+        "四问我国多地强降雨，今明两天为降雨最强时段",
+        "刘强东联手宿迁国资等成立10亿元投资基金；美团 15:50",
+        "钟睒睒最新出手！ 22:26",
+        "抖音电商否认“上半年GMV未达预期”传闻"
       ]
     },
     {
       "topic": "科学前沿动态",
-      "count": 24,
+      "count": 23,
       "sourceCount": 6,
       "sources": [
         "网易科技",
@@ -1104,28 +1068,8 @@
       ]
     },
     {
-      "topic": "数字经济动态",
-      "count": 22,
-      "sourceCount": 6,
-      "sources": [
-        "新浪科技",
-        "网易科技",
-        "观察者网-产业科技",
-        "中国科学院",
-        "中国科学报",
-        "光明网-科技"
-      ],
-      "items": [
-        "四问我国多地强降雨，今明两天为降雨最强时段",
-        "刘强东联手宿迁国资等成立10亿元投资基金；美团 15:50",
-        "钟睒睒最新出手！ 22:26",
-        "抖音电商否认“上半年GMV未达预期”传闻",
-        "小红书变局：卖老股、边裁员边扩招，为上市“加速”"
-      ]
-    },
-    {
       "topic": "太空与低空动态",
-      "count": 8,
+      "count": 7,
       "sourceCount": 6,
       "sources": [
         "中国科学报",
@@ -1140,7 +1084,7 @@
         "航天员也分工种！央视详解驾驶员、飞行工程师、载荷专家三大类别",
         "提前 5 个月发射，神舟二十三号研制团队上演“极限冲刺”",
         "大幅升级改造！神舟二十三号飞船有何新特点？",
-        "发射流程进入临射倒计时，神舟二十三号船箭组合体蓄势待发"
+        "黎家盈，我国首位来自香港的航天员，我国第四位 16:09"
       ]
     },
     {
@@ -1174,11 +1118,29 @@
         "光明网-科技"
       ],
       "items": [
+        "全新设计、V8 声浪，宝马 M5 旅行版中期改款测试车曝光",
         "长信基金因内部问题被监管警示 总经理覃波需要加强重视",
         "荣耀影像实验室官宣对标阿莱 ARRI 标准，正式升级为电影工业影像实验室",
-        "小米 YU7 标准版汽车更多信息公布：首销期下定 5 年低息，23.35 万元起",
         "全球首艘！能装一万多辆汽车的运输船今天试航",
         "荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 15,
+      "sourceCount": 4,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "观察者网-产业科技"
+      ],
+      "items": [
+        "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
+        "韩某等人内幕交易“长安汽车”案，案情披露",
+        "消息称Q1全球电动汽车电池新装车244GWh 宁德时代依旧遥遥领先",
+        "吉利帝豪向上系列汽车上市：搭载全新 1.5L 直列四缸发动机，限时感恩价 5.59 万元起",
+        "小米发布YU7 GT，雷军回应YU7销量：输给特斯拉 13:23"
       ]
     },
     {
@@ -1201,7 +1163,7 @@
     },
     {
       "topic": "新能源车与智能驾驶",
-      "count": 15,
+      "count": 14,
       "sourceCount": 3,
       "sources": [
         "新浪科技",
@@ -1211,26 +1173,9 @@
       "items": [
         "李斌谈三品牌长期结构：蔚来、乐道、萤火虫销量或为3:6:1，海外市场会放慢节奏",
         "李斌：Q2成本压力加大，蔚来不靠降价换量",
-        "商业承兑汇票猛增727%，迪链“大搬家”？",
         "小鹏总裁回应小鹏GX销量暴涨致MONA新车延期发布：假新闻 L03不受任何影响",
-        "车企自己出手降价！燃油车集体骨折清仓：行业向新能源车时代大转型"
-      ]
-    },
-    {
-      "topic": "新能源车动态",
-      "count": 14,
-      "sourceCount": 3,
-      "sources": [
-        "新浪科技",
-        "网易科技",
-        "观察者网-产业科技"
-      ],
-      "items": [
-        "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
-        "韩某等人内幕交易“长安汽车”案，案情披露",
-        "消息称Q1全球电动汽车电池新装车244GWh 宁德时代依旧遥遥领先",
-        "小米发布YU7 GT，雷军回应YU7销量：输给特斯拉 13:23",
-        "雷军：输给特斯拉不丢人"
+        "车企自己出手降价！燃油车集体骨折清仓：行业向新能源车时代大转型",
+        "40.68 万元起，蔚来全新 ES8 完成第 11 万台新车交付"
       ]
     },
     {
@@ -1458,6 +1403,34 @@
       "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 芬兰大学说新型AI聊天机器人有助抵抗错误健康信息 2026-05-24 13:35:37 来源: 新华社 点击数： 热点",
       "relatedTitles": [
         "芬兰大学说新型AI聊天机器人有助抵抗错误健康信息"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "全新设计、V8 声浪，宝马 M5 旅行版中期改款测试车曝光",
+      "summary": "IT之家 5 月 24 日消息，第七代宝马 M5 上市尚且不久，我们就已频繁看到身披伪装的测试原型车在纽博格林赛道上路测试。为何节奏如此紧凑？宝马计划让 G90 车型贴合新世代平台的设计风格与技术标准。轿车版本频频被汽车摄影师抓拍，如今旅行...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyyxue6506018.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyyxue6506018.shtml"
+      ],
+      "publishedAt": "2026-05-24",
+      "date": "2026-05-24",
+      "category": "监管与安全",
+      "keywords": "data security, privacy protection, regulatory framework",
+      "priority": 5,
+      "score": 105,
+      "format": "live",
+      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
+      "status": "confirmed_today",
+      "matchedTopic": "科技监管与数据安全",
+      "rawText": "IT之家 5 月 24 日消息，第七代宝马 M5 上市尚且不久，我们就已频繁看到身披伪装的测试原型车在纽博格林赛道上路测试。为何节奏如此紧凑？宝马计划让 G90 车型贴合新世代平台的设计风格与技术标准。轿车版本频频被汽车摄影师抓拍，如今旅行...",
+      "relatedTitles": [
+        "全新设计、V8 声浪，宝马 M5 旅行版中期改款测试车曝光"
       ]
     },
     {
@@ -2302,6 +2275,34 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "39岁男子减肥靠喝可乐：右眼差点瞎了",
+      "summary": "快科技5月24日消息，年仅39岁的男子为了减肥走了极端偏路，几乎天天拿可乐当主食喝，最后眼睛几乎濒临失明。近日，这名患者向接诊的医生讲述了自己的荒唐经历，当初他在网上刷到完全没有科学依据的另类减肥偏方，声称戒断主食只喝碳酸饮料就能快速掉秤。...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-05-24/doc-inhyyxuk4290705.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-05-24/doc-inhyyxuk4290705.shtml"
+      ],
+      "publishedAt": "2026-05-24",
+      "date": "2026-05-24",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "priority": 5,
+      "score": 77,
+      "format": "graphic",
+      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字经济动态",
+      "rawText": "快科技5月24日消息，年仅39岁的男子为了减肥走了极端偏路，几乎天天拿可乐当主食喝，最后眼睛几乎濒临失明。近日，这名患者向接诊的医生讲述了自己的荒唐经历，当初他在网上刷到完全没有科学依据的另类减肥偏方，声称戒断主食只喝碳酸饮料就能快速掉秤。...",
+      "relatedTitles": [
+        "39岁男子减肥靠喝可乐：右眼差点瞎了"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "冲上热搜！DeepSeek又崩了：一月内宕机了三次",
       "summary": "快科技5月24日消息，今日，DeepSeek再次出现大规模服务故障，“DeepSeek崩了”话题迅速冲上微博热搜。大量用户反馈使用时遭遇“服务器繁忙”提示，平台服务波动频繁，正常使用受到严重影响。这已是本月以来DeepSeek第三次发生大范...",
       "source": "新浪科技",
@@ -2410,34 +2411,6 @@
       "rawText": "入汛以来，我国多地接连出现强降雨天气。“今年暴雨为何来得这么早这么强”“南北方降雨同步上线”等话题引发公众广泛热议。对此，国家气候中心、国家气象中心、国家气象信息中心、中国气象科学研究院和广东省气象台专家进行解读。一问：降雨最强时段何时到来...",
       "relatedTitles": [
         "四问我国多地强降雨，今明两天为降雨最强时段"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "商业承兑汇票猛增727%，迪链“大搬家”？",
-      "summary": "中国基金报记者 闻言时隔近一年，汽车行业“反内卷”有何成效？中国基金报记者调研发现，比亚迪作为新能源汽车行业龙头企业，“反内卷”成效仍有待提升。截至2025年年末，比亚迪应付票据下的商业承兑汇票金额，同比增长727.87%至104.14亿元...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnn4371986.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnn4371986.shtml"
-      ],
-      "publishedAt": "2026-05-24",
-      "date": "2026-05-24",
-      "category": "新能源车",
-      "keywords": "EVs, smart mobility, battery technology, globalization",
-      "priority": 5,
-      "score": 77,
-      "format": "video",
-      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "中国基金报记者 闻言时隔近一年，汽车行业“反内卷”有何成效？中国基金报记者调研发现，比亚迪作为新能源汽车行业龙头企业，“反内卷”成效仍有待提升。截至2025年年末，比亚迪应付票据下的商业承兑汇票金额，同比增长727.87%至104.14亿元...",
-      "relatedTitles": [
-        "商业承兑汇票猛增727%，迪链“大搬家”？"
       ]
     },
     {
@@ -2941,8 +2914,8 @@
       "status": "confirmed_today"
     }
   ],
-  "brief": "ChenChen 今日中国科技热点｜2026-05-24｜v2\n生成时间：2026/5/24 17:28:49\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2502｜确认今日 49｜国际背景 16\n\n本次更新：\n新增核心线索：国内 39 条｜国际 11 条\n延续跟踪线索：国内 10 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-24] 全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码\n   新浪科技｜2026-05-24｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n2. [2026-05-24] 西工大最新研究让机器人“带着思考”行动\n   中国科学报｜2026-05-24｜https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-24] 美国打压，能限制中国药企崛起吗？\n   观察者网-产业科技｜2026-05-24｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n4. [2026-05-24] 萝卜快跑，慢就是快\n   观察者网-产业科技｜2026-05-24｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n5. [2026-05-24] 欧盟港停满中国车？“产能过剩”不背锅\n   观察者网-产业科技｜2026-05-24｜https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n本次新增线索：\n- 全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml\n- 西工大最新研究让机器人“带着思考”行动｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm\n- 存储热潮愈演愈烈！奖金拿到手软 三星、SK海力 14:00｜网易科技｜https://www.163.com/dy/article/KTMTFV2C05198CJN.html\n- 芬兰大学说新型AI聊天机器人有助抵抗错误健康信息｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/24/content_521642.html\n- 【5月第四周】人工智能时代来临，被错杀的低位机器人龙头需要关注！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5935155.shtml\n- Could anything but profit steer AI? The OpenAI trial offered clues but no verdict｜AP Technology｜https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0\n\n今日热点方向：\n- AI 应用：AI动态（92 条，11 个来源）\n- 芯片/半导体：半导体供应链（19 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（19 条，11 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（15 条，3 个来源）\n- 太空与低空经济：太空与低空动态（8 条，6 个来源）\n- 科学前沿：科学前沿与科研设施（29 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Could anything but profit steer AI? The OpenAI trial offered clues but no verdict｜AP Technology｜https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0\n2. These special phone and app features can help protect you from spyware｜TechCrunch｜https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/\n3. Apple iPhone Air’s Struggles Force Rare New Price Drop｜Yahoo News Technology｜https://tech.yahoo.com/phones/deals/articles/apple-iphone-air-struggles-force-221019292.html\n4. SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest｜TechCrunch｜https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/\n5. No captain, my captain: Navantia floats crewless warship｜The Register｜https://www.theregister.com/offbeat/2026/05/24/no-captain-my-captain-navantia-floats-crewless-warship/5244332",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-24｜v2\n生成时间：2026/5/24 17:28:49\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2502｜确认今日 49｜国际背景 16\n\n本次更新：\n新增核心线索：国内 39 条｜国际 11 条\n延续跟踪线索：国内 10 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-24] 全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码\n   新浪科技｜2026-05-24｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n2. [2026-05-24] 西工大最新研究让机器人“带着思考”行动\n   中国科学报｜2026-05-24｜https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-24] 美国打压，能限制中国药企崛起吗？\n   观察者网-产业科技｜2026-05-24｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n4. [2026-05-24] 萝卜快跑，慢就是快\n   观察者网-产业科技｜2026-05-24｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n5. [2026-05-24] 欧盟港停满中国车？“产能过剩”不背锅\n   观察者网-产业科技｜2026-05-24｜https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n本次新增线索：\n- 全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml\n- 西工大最新研究让机器人“带着思考”行动｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm\n- 存储热潮愈演愈烈！奖金拿到手软 三星、SK海力 14:00｜网易科技｜https://www.163.com/dy/article/KTMTFV2C05198CJN.html\n- 芬兰大学说新型AI聊天机器人有助抵抗错误健康信息｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/24/content_521642.html\n- 【5月第四周】人工智能时代来临，被错杀的低位机器人龙头需要关注！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5935155.shtml\n- Could anything but profit steer AI? The OpenAI trial offered clues but no verdict｜AP Technology｜https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0\n\n今日热点方向：\n- AI 应用：AI动态（92 条，11 个来源）\n- 芯片/半导体：半导体供应链（19 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（19 条，11 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（15 条，3 个来源）\n- 太空与低空经济：太空与低空动态（8 条，6 个来源）\n- 科学前沿：科学前沿与科研设施（29 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Could anything but profit steer AI? The OpenAI trial offered clues but no verdict｜AP Technology｜https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0\n2. These special phone and app features can help protect you from spyware｜TechCrunch｜https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/\n3. Apple iPhone Air’s Struggles Force Rare New Price Drop｜Yahoo News Technology｜https://tech.yahoo.com/phones/deals/articles/apple-iphone-air-struggles-force-221019292.html\n4. SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest｜TechCrunch｜https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/\n5. No captain, my captain: Navantia floats crewless warship｜The Register｜https://www.theregister.com/offbeat/2026/05/24/no-captain-my-captain-navantia-floats-crewless-warship/5244332",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-24｜生成时间：2026/5/24 17:28:49｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2502｜确认今日 49｜国际背景 16</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 39 条｜国际 11 条<br>延续跟踪线索：国内 10 条｜国际 5 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-24] 全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码</strong>\n      <span>新浪科技｜2026-05-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-24] 西工大最新研究让机器人“带着思考”行动</strong>\n      <span>中国科学报｜2026-05-24｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-24] 美国打压，能限制中国药企崛起吗？</strong>\n      <span>观察者网-产业科技｜2026-05-24｜<a href=\"https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-24] 萝卜快跑，慢就是快</strong>\n      <span>观察者网-产业科技｜2026-05-24｜<a href=\"https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-24] 欧盟港停满中国车？“产能过剩”不背锅</strong>\n      <span>观察者网-产业科技｜2026-05-24｜<a href=\"https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Could anything but profit steer AI? The OpenAI trial offered clues but no verdict</strong>\n      <span>时间：2026-05-24｜来源：AP Technology｜<a href=\"https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. These special phone and app features can help protect you from spyware</strong>\n      <span>时间：Sat, 23 May 2026 16:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Apple iPhone Air’s Struggles Force Rare New Price Drop</strong>\n      <span>时间：2026-05-24｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/deals/articles/apple-iphone-air-struggles-force-221019292.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest</strong>\n      <span>时间：Sat, 23 May 2026 20:03:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. No captain, my captain: Navantia floats crewless warship</strong>\n      <span>时间：Sun, 24 May 2026 10:30:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/offbeat/2026/05/24/no-captain-my-captain-navantia-floats-crewless-warship/5244332\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/24 17:28:49\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 39 条｜国际 11 条\n延续跟踪线索：国内 10 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-24] 全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n2. [2026-05-24] 西工大最新研究让机器人“带着思考”行动\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-24] 美国打压，能限制中国药企崛起吗？\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n4. [2026-05-24] 萝卜快跑，慢就是快\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n5. [2026-05-24] 欧盟港停满中国车？“产能过剩”不背锅\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\n   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n本次新增线索：\n- 全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml\n- 西工大最新研究让机器人“带着思考”行动｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm\n- 存储热潮愈演愈烈！奖金拿到手软 三星、SK海力 14:00｜网易科技｜https://www.163.com/dy/article/KTMTFV2C05198CJN.html\n- 芬兰大学说新型AI聊天机器人有助抵抗错误健康信息｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/24/content_521642.html\n- 【5月第四周】人工智能时代来临，被错杀的低位机器人龙头需要关注！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5935155.shtml\n- Could anything but profit steer AI? The OpenAI trial offered clues but no verdict｜AP Technology｜https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0\n\n今日热点方向：\n- AI 应用：AI动态（92 条，11 个来源）\n- 芯片/半导体：半导体供应链（19 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（19 条，11 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（15 条，3 个来源）\n- 太空与低空经济：太空与低空动态（8 条，6 个来源）\n- 科学前沿：科学前沿与科研设施（29 条，8 个来源）\n\n国际科技背景：\n1. Could anything but profit steer AI? The OpenAI trial offered clues but no verdict｜AP Technology｜https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0\n2. These special phone and app features can help protect you from spyware｜TechCrunch｜https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/\n3. Apple iPhone Air’s Struggles Force Rare New Price Drop｜Yahoo News Technology｜https://tech.yahoo.com/phones/deals/articles/apple-iphone-air-struggles-force-221019292.html\n4. SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest｜TechCrunch｜https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/\n5. No captain, my captain: Navantia floats crewless warship｜The Register｜https://www.theregister.com/offbeat/2026/05/24/no-captain-my-captain-navantia-floats-crewless-warship/5244332\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "ChenChen 今日中国科技热点｜2026-05-24｜v2\n生成时间：2026/5/24 17:45:28\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2561｜确认今日 50｜国际背景 16\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 48 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-24] 全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码\n   新浪科技｜2026-05-24｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n2. [2026-05-24] 西工大最新研究让机器人“带着思考”行动\n   中国科学报｜2026-05-24｜https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-24] 美国打压，能限制中国药企崛起吗？\n   观察者网-产业科技｜2026-05-24｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n4. [2026-05-24] 萝卜快跑，慢就是快\n   观察者网-产业科技｜2026-05-24｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n5. [2026-05-24] 欧盟港停满中国车？“产能过剩”不背锅\n   观察者网-产业科技｜2026-05-24｜https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n本次新增线索：\n- 全新设计、V8 声浪，宝马 M5 旅行版中期改款测试车曝光｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyyxue6506018.shtml\n- 39岁男子减肥靠喝可乐：右眼差点瞎了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-05-24/doc-inhyyxuk4290705.shtml\n\n今日热点方向：\n- AI 应用：AI动态（91 条，11 个来源）\n- 芯片/半导体：半导体供应链（19 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（19 条，11 个来源）\n- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）\n- 太空与低空经济：太空与低空动态（7 条，6 个来源）\n- 科学前沿：科学前沿与科研设施（29 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Could anything but profit steer AI? The OpenAI trial offered clues but no verdict｜AP Technology｜https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0\n2. These special phone and app features can help protect you from spyware｜TechCrunch｜https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/\n3. Apple iPhone Air’s Struggles Force Rare New Price Drop｜Yahoo News Technology｜https://tech.yahoo.com/phones/deals/articles/apple-iphone-air-struggles-force-221019292.html\n4. SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest｜TechCrunch｜https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/\n5. No captain, my captain: Navantia floats crewless warship｜The Register｜https://www.theregister.com/offbeat/2026/05/24/no-captain-my-captain-navantia-floats-crewless-warship/5244332",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-24｜v2\n生成时间：2026/5/24 17:45:28\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2561｜确认今日 50｜国际背景 16\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 48 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-24] 全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码\n   新浪科技｜2026-05-24｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n2. [2026-05-24] 西工大最新研究让机器人“带着思考”行动\n   中国科学报｜2026-05-24｜https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-24] 美国打压，能限制中国药企崛起吗？\n   观察者网-产业科技｜2026-05-24｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n4. [2026-05-24] 萝卜快跑，慢就是快\n   观察者网-产业科技｜2026-05-24｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n5. [2026-05-24] 欧盟港停满中国车？“产能过剩”不背锅\n   观察者网-产业科技｜2026-05-24｜https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n本次新增线索：\n- 全新设计、V8 声浪，宝马 M5 旅行版中期改款测试车曝光｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyyxue6506018.shtml\n- 39岁男子减肥靠喝可乐：右眼差点瞎了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-05-24/doc-inhyyxuk4290705.shtml\n\n今日热点方向：\n- AI 应用：AI动态（91 条，11 个来源）\n- 芯片/半导体：半导体供应链（19 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（19 条，11 个来源）\n- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）\n- 太空与低空经济：太空与低空动态（7 条，6 个来源）\n- 科学前沿：科学前沿与科研设施（29 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Could anything but profit steer AI? The OpenAI trial offered clues but no verdict｜AP Technology｜https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0\n2. These special phone and app features can help protect you from spyware｜TechCrunch｜https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/\n3. Apple iPhone Air’s Struggles Force Rare New Price Drop｜Yahoo News Technology｜https://tech.yahoo.com/phones/deals/articles/apple-iphone-air-struggles-force-221019292.html\n4. SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest｜TechCrunch｜https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/\n5. No captain, my captain: Navantia floats crewless warship｜The Register｜https://www.theregister.com/offbeat/2026/05/24/no-captain-my-captain-navantia-floats-crewless-warship/5244332",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-24｜生成时间：2026/5/24 17:45:28｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2561｜确认今日 50｜国际背景 16</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 0 条<br>延续跟踪线索：国内 48 条｜国际 16 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-24] 全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码</strong>\n      <span>新浪科技｜2026-05-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-24] 西工大最新研究让机器人“带着思考”行动</strong>\n      <span>中国科学报｜2026-05-24｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-24] 美国打压，能限制中国药企崛起吗？</strong>\n      <span>观察者网-产业科技｜2026-05-24｜<a href=\"https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-24] 萝卜快跑，慢就是快</strong>\n      <span>观察者网-产业科技｜2026-05-24｜<a href=\"https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-24] 欧盟港停满中国车？“产能过剩”不背锅</strong>\n      <span>观察者网-产业科技｜2026-05-24｜<a href=\"https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Could anything but profit steer AI? The OpenAI trial offered clues but no verdict</strong>\n      <span>时间：2026-05-24｜来源：AP Technology｜<a href=\"https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. These special phone and app features can help protect you from spyware</strong>\n      <span>时间：Sat, 23 May 2026 16:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Apple iPhone Air’s Struggles Force Rare New Price Drop</strong>\n      <span>时间：2026-05-24｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/deals/articles/apple-iphone-air-struggles-force-221019292.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest</strong>\n      <span>时间：Sat, 23 May 2026 20:03:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. No captain, my captain: Navantia floats crewless warship</strong>\n      <span>时间：Sun, 24 May 2026 10:30:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/offbeat/2026/05/24/no-captain-my-captain-navantia-floats-crewless-warship/5244332\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/24 17:45:28\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 48 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-24] 全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n2. [2026-05-24] 西工大最新研究让机器人“带着思考”行动\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-24] 美国打压，能限制中国药企崛起吗？\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n4. [2026-05-24] 萝卜快跑，慢就是快\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n5. [2026-05-24] 欧盟港停满中国车？“产能过剩”不背锅\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\n   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n本次新增线索：\n- 全新设计、V8 声浪，宝马 M5 旅行版中期改款测试车曝光｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyyxue6506018.shtml\n- 39岁男子减肥靠喝可乐：右眼差点瞎了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-05-24/doc-inhyyxuk4290705.shtml\n\n今日热点方向：\n- AI 应用：AI动态（91 条，11 个来源）\n- 芯片/半导体：半导体供应链（19 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（19 条，11 个来源）\n- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）\n- 太空与低空经济：太空与低空动态（7 条，6 个来源）\n- 科学前沿：科学前沿与科研设施（29 条，8 个来源）\n\n国际科技背景：\n1. Could anything but profit steer AI? The OpenAI trial offered clues but no verdict｜AP Technology｜https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0\n2. These special phone and app features can help protect you from spyware｜TechCrunch｜https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/\n3. Apple iPhone Air’s Struggles Force Rare New Price Drop｜Yahoo News Technology｜https://tech.yahoo.com/phones/deals/articles/apple-iphone-air-struggles-force-221019292.html\n4. SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest｜TechCrunch｜https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/\n5. No captain, my captain: Navantia floats crewless warship｜The Register｜https://www.theregister.com/offbeat/2026/05/24/no-captain-my-captain-navantia-floats-crewless-warship/5244332\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }

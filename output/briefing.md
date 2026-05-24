@@ -2,12 +2,12 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/24 17:28:49
+生成时间：2026/5/24 17:45:28
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 39 条｜国际 11 条
-延续跟踪线索：国内 10 条｜国际 5 条
+新增核心线索：国内 2 条｜国际 0 条
+延续跟踪线索：国内 48 条｜国际 16 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -37,19 +37,15 @@
    角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
 
 本次新增线索：
-- 全国首个！人形机器人全生命周期管理服务平台发布：出厂时赋予唯一编码｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5910946.shtml
-- 西工大最新研究让机器人“带着思考”行动｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565248.shtm
-- 存储热潮愈演愈烈！奖金拿到手软 三星、SK海力 14:00｜网易科技｜https://www.163.com/dy/article/KTMTFV2C05198CJN.html
-- 芬兰大学说新型AI聊天机器人有助抵抗错误健康信息｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/24/content_521642.html
-- 【5月第四周】人工智能时代来临，被错杀的低位机器人龙头需要关注！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyytnm5935155.shtml
-- Could anything but profit steer AI? The OpenAI trial offered clues but no verdict｜AP Technology｜https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0
+- 全新设计、V8 声浪，宝马 M5 旅行版中期改款测试车曝光｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyyxue6506018.shtml
+- 39岁男子减肥靠喝可乐：右眼差点瞎了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-05-24/doc-inhyyxuk4290705.shtml
 
 今日热点方向：
-- AI 应用：AI动态（92 条，11 个来源）
+- AI 应用：AI动态（91 条，11 个来源）
 - 芯片/半导体：半导体供应链（19 条，7 个来源）
 - 机器人/具身智能：人形机器人与具身智能（19 条，11 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（15 条，3 个来源）
-- 太空与低空经济：太空与低空动态（8 条，6 个来源）
+- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）
+- 太空与低空经济：太空与低空动态（7 条，6 个来源）
 - 科学前沿：科学前沿与科研设施（29 条，8 个来源）
 
 国际科技背景：
