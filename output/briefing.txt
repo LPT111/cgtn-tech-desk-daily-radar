@@ -1,12 +1,12 @@
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/24 09:35:18
+生成时间：2026/5/24 10:39:18
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 0 条｜国际 0 条
-延续跟踪线索：国内 31 条｜国际 11 条
-本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
+新增核心线索：国内 10 条｜国际 0 条
+延续跟踪线索：国内 21 条｜国际 11 条
+本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
 1. [2026-05-24] 全球首款机器人手机 荣耀Robot Phone高清真机图出炉：颠覆传统形态
@@ -19,31 +19,35 @@
    链接：https://www.163.com/dy/article/KTM81AH605198CJN.html
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
-3. [2026-05-24] 从备胎到领跑，他让中国变压器实现逆袭
+3. [2026-05-24] Agent 从「优等生」到「好员工」还差什么？
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyaqu4650946.shtml
+   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
+
+4. [2026-05-24] 央视澄清网络热词“碳水脸”：制造畸形审美标准，进而贩卖焦虑收割钱包
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyyaqt6184389.shtml
+   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
+
+5. [2026-05-24] 从备胎到领跑，他让中国变压器实现逆袭
    来源：中国科学报
    链接：https://news.sciencenet.cn/htmlnews/2026/5/565234.shtm
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-4. [2026-05-24] 山西留神峪煤矿事故救援现场：凌晨三点 救援侦测机器人下井探测
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyaqu4622368.shtml
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
-
-5. [2026-05-24] 台积电 Q1 净利大增 58% 反而被曝降薪？有员工喊出“学三星罢工”
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyxwhs6977581.shtml
-   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
-
 本次新增线索：
-- 暂无新增核心线索。
+- Agent 从「优等生」到「好员工」还差什么？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyaqu4650946.shtml
+- 央视澄清网络热词“碳水脸”：制造畸形审美标准，进而贩卖焦虑收割钱包｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyyaqt6184389.shtml
+- 夹缝中的果链龙头：蓝思科技靠什么撑起“AI平台”梦？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyaqu4661476.shtml
+- “天韵相机”负责人：港航天员操作港研仪器意义重｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565235.shtm
+- 23日漫剧&AI真人剧日榜：《赎罪从宠妻开始了》漫剧第一｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyaqu4664564.shtml
 
 今日热点方向：
 - AI 应用：AI动态（88 条，11 个来源）
 - 芯片/半导体：半导体供应链（22 条，7 个来源）
-- 机器人/具身智能：人形机器人与具身智能（15 条，9 个来源）
-- 新能源车/智能驾驶：新能源车动态（16 条，4 个来源）
-- 太空与低空经济：低空经济与无人机（8 条，5 个来源）
-- 科学前沿：科学前沿与科研设施（32 条，10 个来源）
+- 机器人/具身智能：人形机器人与具身智能（17 条，9 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（15 条，4 个来源）
+- 太空与低空经济：太空与低空动态（12 条，6 个来源）
+- 科学前沿：科学前沿与科研设施（31 条，10 个来源）
 
 国际科技背景：
 1. These special phone and app features can help protect you from spyware｜TechCrunch｜https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/
