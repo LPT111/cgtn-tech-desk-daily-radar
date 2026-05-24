@@ -2,13 +2,13 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/24 09:30:28
+生成时间：2026/5/24 09:35:18
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 28 条｜国际 10 条
-延续跟踪线索：国内 3 条｜国际 1 条
-本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
+新增核心线索：国内 0 条｜国际 0 条
+延续跟踪线索：国内 31 条｜国际 11 条
+本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
 1. [2026-05-24] 全球首款机器人手机 荣耀Robot Phone高清真机图出炉：颠覆传统形态
@@ -37,15 +37,10 @@
    角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
 
 本次新增线索：
-- 全球首款机器人手机 荣耀Robot Phone高清真机图出炉：颠覆传统形态｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyxwhw4734389.shtml
-- 全国首个人形机器人全生命周期管理服务平台发布 07:45｜网易科技｜https://www.163.com/dy/article/KTM81AH605198CJN.html
-- 从备胎到领跑，他让中国变压器实现逆袭｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565234.shtm
-- 山西留神峪煤矿事故救援现场：凌晨三点 救援侦测机器人下井探测｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-24/doc-inhyyaqu4622368.shtml
-- 台积电 Q1 净利大增 58% 反而被曝降薪？有员工喊出“学三星罢工”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyxwhs6977581.shtml
-- These special phone and app features can help protect you from spyware｜TechCrunch｜https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/
+- 暂无新增核心线索。
 
 今日热点方向：
-- AI 应用：AI动态（87 条，11 个来源）
+- AI 应用：AI动态（88 条，11 个来源）
 - 芯片/半导体：半导体供应链（22 条，7 个来源）
 - 机器人/具身智能：人形机器人与具身智能（15 条，9 个来源）
 - 新能源车/智能驾驶：新能源车动态（16 条，4 个来源）
