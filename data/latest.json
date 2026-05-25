@@ -1,71 +1,30 @@
 {
-  "generatedAt": "2026-05-25T11:35:42.598Z",
+  "generatedAt": "2026-05-25T11:42:47.977Z",
   "radarVersion": "v2",
   "targetDate": "2026-05-25",
   "changeSummary": {
-    "domesticNew": 87,
-    "globalNew": 22,
-    "domesticContinued": 31,
-    "globalContinued": 6,
+    "domesticNew": 2,
+    "globalNew": 0,
+    "domesticContinued": 113,
+    "globalContinued": 28,
     "topNewDomestic": [
       {
-        "title": "美团、腾讯参投！机器人公司天机智能完成10亿元 14:35",
+        "title": "华为发表“韬（τ）定律”，中国首次提出全球半 19:38",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KTPHS5F90534A4SC.html"
+        "url": "https://www.163.com/dy/article/KTQ37J7T0512B07B.html"
       },
       {
-        "title": "美芯晟战略投资金钢科技，深化机器人智能感知产 13:46",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KTPF31840512B07B.html"
-      },
-      {
-        "title": "2026世界无人机大会低空经济国际论坛举办",
-        "source": "光明网-科技",
-        "url": "https://tech.gmw.cn/2026-05/25/content_38788437.htm"
-      },
-      {
-        "title": "脉脉林凡：机器人还没到GPT-3.5阶段，但机器人创业正当时",
+        "title": "方盒子 SUV 再添新玩家，吉利银河战舰 700 量产版实车曝光",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tob/2026-05-25/doc-inhzchzh3471017.shtml"
-      },
-      {
-        "title": "贝莱德分析师：已有足够因素支持美联储降息",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-25/doc-inhzawmm5129439.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-05-25/doc-inhzchzh3490257.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Memory prices are finally about to drop, and you can thank China for it",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/memory-prices-finally-drop-thank-080148382.html"
-      },
-      {
-        "title": "Huawei touts new chipmaking technology to sidestep US restrictions",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/huawei-touts-chipmaking-technology-sidestep-055223771.html"
-      },
-      {
-        "title": "Samsung memory workers call off strike and may score six-figure bonuses",
-        "source": "The Register",
-        "url": "https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573"
-      },
-      {
-        "title": "Global shares gain and oil prices fall after Trump says talks on ending the war are proceeding",
-        "source": "AP Technology",
-        "url": "https://apnews.com/article/stocks-markets-iran-trump-oil-0b569925695e498e6fd7ece7b183e085"
-      },
-      {
-        "title": "Toshifumi Suzuki, creator of the 7-Eleven convenience store empire, dies at 93",
-        "source": "AP Technology",
-        "url": "https://apnews.com/article/convenience-7eleven-retail-japan-stores-shopping-82f19832401a8f37247d557066d45cdd"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 29,
   "failedSources": [
     {
       "name": "财联社",
@@ -76,6 +35,11 @@
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -105,6 +69,11 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -124,7 +93,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 158,
+      "parsed": 159,
       "failed": false,
       "optional": false
     },
@@ -288,7 +257,8 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -372,18 +342,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1359,
+  "itemsSeen": 1360,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 551,
-  "itemsAfterDedupe": 370,
-  "todayItemsSeen": 118,
+  "itemsAfterRelevantFilter": 547,
+  "itemsAfterDedupe": 367,
+  "todayItemsSeen": 115,
   "suspectedItemsSeen": 1,
   "skippedNonToday": 247,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 158,
+      "parsed": 159,
       "failed": false,
       "optional": false
     },
@@ -547,7 +517,8 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -795,6 +766,11 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -834,7 +810,7 @@
   "topics": [
     {
       "topic": "AI 应用与智能体",
-      "count": 66,
+      "count": 64,
       "sourceCount": 11,
       "sources": [
         "新浪科技",
@@ -859,7 +835,7 @@
     },
     {
       "topic": "AI动态",
-      "count": 84,
+      "count": 83,
       "sourceCount": 10,
       "sources": [
         "新浪科技",
@@ -878,12 +854,12 @@
         "欧洲央行约谈各大银行，督促其修补最新人工智能模型暴露出的漏洞",
         "贝莱德分析师：已有足够因素支持美联储降息",
         "高德问店选址Skill接入钉钉悟空，AI辅助商家开店选址",
-        "这种“半光半物质”粒子，有望补上AI光计算最后一块拼图"
+        "方盒子 SUV 再添新玩家，吉利银河战舰 700 量产版实车曝光"
       ]
     },
     {
       "topic": "商业航天与卫星互联网",
-      "count": 10,
+      "count": 11,
       "sourceCount": 10,
       "sources": [
         "中国科学报",
@@ -907,7 +883,7 @@
     },
     {
       "topic": "国产 GPU / 算力基础设施",
-      "count": 21,
+      "count": 20,
       "sourceCount": 9,
       "sources": [
         "新浪科技",
@@ -924,13 +900,13 @@
         "威联通Qu605一步到位打造家庭数据中心",
         "日本东证指数创历史新高 因人工智能热潮和伊朗协议希望提振市场情绪",
         "AI GPU在中国市场归零 黄仁勋仍不甘心：CPU市场大有可为",
-        "接连卷入芯片走私案 黄仁勋隔空喊话美超微：管好自己的公司",
-        "华为昇腾AI芯片获清华大学等机构超级优化：内存用量直降6倍"
+        "华为昇腾AI芯片获清华大学等机构超级优化：内存用量直降6倍",
+        "上海：支持微短剧企业租用智能算力，对租用智能 17:38"
       ]
     },
     {
       "topic": "科学前沿与科研设施",
-      "count": 26,
+      "count": 28,
       "sourceCount": 8,
       "sources": [
         "中国科学报",
@@ -952,7 +928,7 @@
     },
     {
       "topic": "人形机器人与具身智能",
-      "count": 19,
+      "count": 17,
       "sourceCount": 8,
       "sources": [
         "新浪科技",
@@ -974,7 +950,7 @@
     },
     {
       "topic": "半导体供应链",
-      "count": 27,
+      "count": 28,
       "sourceCount": 7,
       "sources": [
         "新浪科技",
@@ -1016,7 +992,7 @@
     },
     {
       "topic": "科学前沿动态",
-      "count": 23,
+      "count": 21,
       "sourceCount": 6,
       "sources": [
         "网易科技",
@@ -1041,8 +1017,8 @@
       "sources": [
         "新浪科技",
         "IT之家",
-        "科技日报",
         "观察者网-产业科技",
+        "科技日报",
         "人民网-科技",
         "新华网-科技"
       ],
@@ -1096,7 +1072,7 @@
     },
     {
       "topic": "新能源车与智能驾驶",
-      "count": 13,
+      "count": 14,
       "sourceCount": 5,
       "sources": [
         "新浪科技",
@@ -1110,7 +1086,7 @@
         "前首富钟睒睒杀入电池局：背靠养生堂，造了一个商业帝国",
         "新能源车超重隐忧：4吨的车来了，路快撑不住了",
         "小鹏副总裁：小鹏可能是唯一欢迎特斯拉FSD入华的车企",
-        "工信部开展 2026 年新能源汽车安全排查，起火燃烧事故 24 小时内完成基本信息上报"
+        "中国前首富钟睒睒杀入固态电池赛道，养生堂 5 亿元战略入股智邦锂电"
       ]
     },
     {
@@ -1226,62 +1202,6 @@
       "rawText": "5月25日，近日，央视新闻携君乐宝奶粉品牌代言人杨幂、总台主持人尼格买提，走进君乐宝奶粉工厂、优致牧场和科学营养研究院。 此次直播，杨幂、尼格买提与“懂妈”代表组成“真探团”，从牧场、实验室到工厂，就检测标准、配方、牧场饲养、国产与...",
       "relatedTitles": [
         "杨幂成为君乐宝全球品牌代言人，与尼格买提等走进工厂探访揭秘"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "美团、腾讯参投！机器人公司天机智能完成10亿元 14:35",
-      "summary": "6/05/423455.html\" target=\"_blank\"> 华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资 用“人类心智”重做具身智能 邓思邈 9小",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KTPHS5F90534A4SC.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/KTPHS5F90534A4SC.html"
-      ],
-      "publishedAt": "2026-05-25",
-      "date": "2026-05-25",
-      "category": "机器人",
-      "keywords": "robotics, automation, smart manufacturing, embodied AI",
-      "priority": 5,
-      "score": 112,
-      "format": "video",
-      "angle": "Show whether robotics is entering real production and service settings, not just product launches or demos.",
-      "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "美团、腾讯参投！机器人公司天机智能完成10亿元融资,融资,创投,美团,腾讯,天机智能,视障人士,知名企业,智能机器人,机器人公司",
-      "relatedTitles": [
-        "美团、腾讯参投！机器人公司天机智能完成10亿元 14:35"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "美芯晟战略投资金钢科技，深化机器人智能感知产 13:46",
-      "summary": "美芯晟战略投资金钢科技，深化机器人智能感知产业布局,美芯晟,金钢科技,智能感知,世界机器人大会",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KTPF31840512B07B.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/KTPF31840512B07B.html"
-      ],
-      "publishedAt": "2026-05-25",
-      "date": "2026-05-25",
-      "category": "机器人",
-      "keywords": "robotics, automation, smart manufacturing, embodied AI",
-      "priority": 5,
-      "score": 112,
-      "format": "video",
-      "angle": "Show whether robotics is entering real production and service settings, not just product launches or demos.",
-      "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "美芯晟战略投资金钢科技，深化机器人智能感知产业布局,美芯晟,金钢科技,智能感知,世界机器人大会",
-      "relatedTitles": [
-        "美芯晟战略投资金钢科技，深化机器人智能感知产 13:46"
       ]
     },
     {
@@ -1622,6 +1542,34 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "华为发表“韬（τ）定律”，中国首次提出全球半 19:38",
+      "summary": "华为发表“韬（τ）定律”，中国首次提出全球半导体产业新指导原则！,华为,中国,指导原则,知名企业,半导体产业",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KTQ37J7T0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KTQ37J7T0512B07B.html"
+      ],
+      "publishedAt": "2026-05-25",
+      "date": "2026-05-25",
+      "category": "芯片",
+      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
+      "priority": 5,
+      "score": 102,
+      "format": "graphic",
+      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "华为发表“韬（τ）定律”，中国首次提出全球半导体产业新指导原则！,华为,中国,指导原则,知名企业,半导体产业",
+      "relatedTitles": [
+        "华为发表“韬（τ）定律”，中国首次提出全球半 19:38"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "速腾聚创与石头科技达成深度合作 19:28",
       "summary": "速腾聚创与石头科技达成深度合作,割草,机器人,智能化,石头科技,速腾聚创",
       "source": "网易科技",
@@ -1706,6 +1654,34 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "美团、腾讯参投！机器人公司天机智能完成10亿元 14:35",
+      "summary": "美团、腾讯参投！机器人公司天机智能完成10亿元融资,融资,创投,美团,腾讯,天机智能,视障人士,知名企业,智能机器人,机器人公司",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KTPHS5F90534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KTPHS5F90534A4SC.html"
+      ],
+      "publishedAt": "2026-05-25",
+      "date": "2026-05-25",
+      "category": "机器人",
+      "keywords": "robotics, automation, smart manufacturing, embodied AI",
+      "priority": 5,
+      "score": 102,
+      "format": "video",
+      "angle": "Show whether robotics is entering real production and service settings, not just product launches or demos.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "美团、腾讯参投！机器人公司天机智能完成10亿元融资,融资,创投,美团,腾讯,天机智能,视障人士,知名企业,智能机器人,机器人公司",
+      "relatedTitles": [
+        "美团、腾讯参投！机器人公司天机智能完成10亿元 14:35"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "智能筛查机器人 提前识别健康风险",
       "summary": "智能筛查机器人 提前识别健康风险,中医,无创,机器人,骨质疏松,健康风险",
       "source": "网易科技",
@@ -1763,7 +1739,7 @@
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "实名购药、严禁AI替代审方 《处方药网络零售合规指南》发布",
-      "summary": "国家药监局发布新规，明确网售处方药必须凭真实处方、实名制销售，并严禁 AI 替代药师审方。新规还要求配备药师、信息真实、风险预警及加强未成年人保护，旨在从源头防控风险，促进行业健康发展。#处方药网络零售合规指南# #网售处方药新规#",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 实名购药、严禁AI替代审方 《处方药网络零售合规指南》发布 2026-05-25 15:12:12 来源: 央视新闻客户端 点击数： 热点",
       "source": "科技日报",
       "sources": [
         "科技日报"
@@ -1790,8 +1766,36 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuY2Fz",
+      "title": "重编程血小板止血材料研究取得进展",
+      "summary": "//www.cas.cn/../../syky/\">/ 更多 科研人员构建可扩展的分子胶降解剂发现平台 重编程血小板止血材料研究取得进展 巨型基因组形成与维持机制研究获进展 <a href=\"//www.cas.cn/../../syky/202605/t20260525_5110433.shtml\" title=\"科",
+      "source": "中国科学院",
+      "sources": [
+        "中国科学院"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.cas.cn/syky/202605/t20260525_5110427.shtml",
+      "sourceUrls": [
+        "https://www.cas.cn/syky/202605/t20260525_5110427.shtml"
+      ],
+      "publishedAt": "2026-05-25",
+      "date": "2026-05-25",
+      "category": "科学前沿",
+      "keywords": "scientific research, frontier science, research infrastructure",
+      "priority": 5,
+      "score": 100,
+      "format": "package",
+      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿与科研设施",
+      "rawText": "//www.cas.cn/../../syky/\">/ 更多 科研人员构建可扩展的分子胶降解剂发现平台 重编程血小板止血材料研究取得进展 巨型基因组形成与维持机制研究获进展 <a href=\"//www.cas.cn/../../syky/202605/t20260525_5110433.shtml\" title=\"科研人员开发出可解释AI模型精",
+      "relatedTitles": [
+        "重编程血小板止血材料研究取得进展"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY2Fz",
       "title": "科研人员开发出可解释AI模型精准鉴定细胞谱系特征基因",
-      "summary": "首页 > 科研进展 细胞类型的精准识别是单细胞转录组学分析的基础，而发现细胞类型特异性的标记基因是实现这一目标的关键。传统方法多依赖统计阈值或聚类启发式策略，易受数据噪声、注释偏差及基因高表达但非特异性等问题的干扰。 近日，中国科学院广州生物医药与健康研究院科研团队 基于可解释神经网络框架， 提出了scMarkerGe",
+      "summary": "427.shtml\" title=\"重编程血小板止血材料研究取得进展\" target=\"_blank\" ignoreapd=\"1\" >重编程血小板止血材料研究取得进展 巨型基因组形成与维持机制研究获进展 科研人员开发出可解释AI模型精准鉴定细胞谱系特征基因 微生物资源助力盐碱稻田修复研究获进展 <a href=\"//w",
       "source": "中国科学院",
       "sources": [
         "中国科学院"
@@ -1811,7 +1815,7 @@
       "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
       "status": "confirmed_today",
       "matchedTopic": "科学前沿与科研设施",
-      "rawText": "首页 > 科研进展 细胞类型的精准识别是单细胞转录组学分析的基础，而发现细胞类型特异性的标记基因是实现这一目标的关键。传统方法多依赖统计阈值或聚类启发式策略，易受数据噪声、注释偏差及基因高表达但非特异性等问题的干扰。 近日，中国科学院广州生物医药与健康研究院科研团队 基于可解释神经网络框架， 提出了scMarkerGene模型。该模型通过构建“贡献分数矩阵”，将神经网络模型中每个基因对细胞类型判别的影响量化为可解释的贡献值，并结合集成学习与特异性过滤策略，实现了对不同物种、不同测序技术、不同细胞群体规模及高稀疏性数据的稳健标记基因识别。 scMarkerGene的工作流程主要包括两个步骤。第一",
+      "rawText": "427.shtml\" title=\"重编程血小板止血材料研究取得进展\" target=\"_blank\" ignoreapd=\"1\" >重编程血小板止血材料研究取得进展 巨型基因组形成与维持机制研究获进展 科研人员开发出可解释AI模型精准鉴定细胞谱系特征基因 微生物资源助力盐碱稻田修复研究获进展 <a href=\"//www.cas.cn/../../syky/202605/t20260522_5110267.shtml\" title=\"科学家发现镍基高温超导机制",
       "relatedTitles": [
         "科研人员开发出可解释AI模型精准鉴定细胞谱系特征基因"
       ]
@@ -1982,34 +1986,6 @@
       "rawText": "所在位置： 国际科技频道 > 总编辑圈点 > 正文 新型全息3D打印技术效率提升70倍，制造人体器官模型仅需几分钟 2026-05-25 01:45:00 来源: 科技日报 点击数： 热点",
       "relatedTitles": [
         "新型全息3D打印技术效率提升70倍，制造人体器官模型仅需几分钟"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "微生物资源助力盐碱稻田修复研究获进展",
-      "summary": "首页 > 科研进展 土壤盐碱化是全球农业可持续发展的重要制约因素。传统物理化学修复方法存在成本高、易产生二次污染等问题，开发绿色高效的生物修复技术成为当务之急。 近期， 中国科学院青岛生物能源与过程研究所研究团队聚焦盐碱稻田干湿交替引发的氧化还原波动环境，系统研究了沼泽红假单胞菌（ R. palustris ）及其胞外",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/syky/202605/t20260521_5110192.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/syky/202605/t20260521_5110192.shtml"
-      ],
-      "publishedAt": "2026-05-25",
-      "date": "2026-05-25",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 95,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "首页 > 科研进展 土壤盐碱化是全球农业可持续发展的重要制约因素。传统物理化学修复方法存在成本高、易产生二次污染等问题，开发绿色高效的生物修复技术成为当务之急。 近期， 中国科学院青岛生物能源与过程研究所研究团队聚焦盐碱稻田干湿交替引发的氧化还原波动环境，系统研究了沼泽红假单胞菌（ R. palustris ）及其胞外聚合物（EPS）在土壤改良中的作用机制。研究发现，该菌株在厌氧—好氧交替的水稻土环境中可显著降低土壤pH值和电导率。 在厌氧阶段， R. palustris 通过分泌有机酸降低土壤碱度，同时促进EPS合成。EPS中的蛋白质和多糖通过功能基团络合吸附盐离子，直接降低土壤盐度。其对碱",
-      "relatedTitles": [
-        "微生物资源助力盐碱稻田修复研究获进展"
       ]
     },
     {
@@ -2238,6 +2214,34 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "方盒子 SUV 再添新玩家，吉利银河战舰 700 量产版实车曝光",
+      "summary": "IT之家 5 月 25 日消息，博主 @SugarDesign 今日在社交平台分享了吉利银河战舰 700 量产版无伪装实车图，方盒子 SUV 再添新玩家。IT之家注意到，吉利已经公布这款新车的官图，定位旗下首款 AI 全地形硬核 SUV。其...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-25/doc-inhzchzh3490257.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-05-25/doc-inhzchzh3490257.shtml"
+      ],
+      "publishedAt": "2026-05-25",
+      "date": "2026-05-25",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 92,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 5 月 25 日消息，博主 @SugarDesign 今日在社交平台分享了吉利银河战舰 700 量产版无伪装实车图，方盒子 SUV 再添新玩家。IT之家注意到，吉利已经公布这款新车的官图，定位旗下首款 AI 全地形硬核 SUV。其...",
+      "relatedTitles": [
+        "方盒子 SUV 再添新玩家，吉利银河战舰 700 量产版实车曝光"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "这种“半光半物质”粒子，有望补上AI光计算最后一块拼图",
       "summary": "来源：DeepTech深科技1946 年，宾夕法尼亚大学的 J.Presper Eckert 和 John Mauchly 让 ENIAC 正式亮相。这台机器用电子的流动求解弹道方程，开启了电子计算的时代。80 年后的 2026 年 4 月...",
       "source": "新浪科技",
@@ -2346,34 +2350,6 @@
       "rawText": "快科技5月24日消息，尽管美国政府最近又批准了H200显卡对华出口，然而国内并不打算购买，NVIDIA CEO黄仁勋也无奈表示他们的AI GPU在国内市场几乎归零，都让给华为等公司了。但在另一个方向上，NVIDIA并不会甘心，那就是CPU市...",
       "relatedTitles": [
         "AI GPU在中国市场归零 黄仁勋仍不甘心：CPU市场大有可为"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "接连卷入芯片走私案 黄仁勋隔空喊话美超微：管好自己的公司",
-      "summary": "快科技5月24日消息，英伟达CEO黄仁勋近日抵达中国台北后公开点名合作伙伴美超微公司，要求其强化法规遵循管理。据悉，中国台湾本周拘留了三名涉嫌虚假申报AI服务器出口的人员，该案被视为中国台湾地区首次针对半导体走私展开的大规模执法行动。黄仁勋...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-25/doc-inhyzkke4096820.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-25/doc-inhyzkke4096820.shtml"
-      ],
-      "publishedAt": "2026-05-25",
-      "date": "2026-05-25",
-      "category": "芯片",
-      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
-      "priority": 5,
-      "score": 92,
-      "format": "graphic",
-      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "快科技5月24日消息，英伟达CEO黄仁勋近日抵达中国台北后公开点名合作伙伴美超微公司，要求其强化法规遵循管理。据悉，中国台湾本周拘留了三名涉嫌虚假申报AI服务器出口的人员，该案被视为中国台湾地区首次针对半导体走私展开的大规模执法行动。黄仁勋...",
-      "relatedTitles": [
-        "接连卷入芯片走私案 黄仁勋隔空喊话美超微：管好自己的公司"
       ]
     },
     {
@@ -3410,90 +3386,6 @@
       "rawText": "所在位置： 中国科技网首页 > 正文 快讯：中国和塞尔维亚将发表两份联合声明 2026-05-25 18:45:33 来源: 新华社 点击数： 热点",
       "relatedTitles": [
         "中国和塞尔维亚将发表两份联合声明"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "科研人员构建可扩展的分子胶降解剂发现平台",
-      "summary": "首页 > 科研进展 分子胶降解剂是一类可诱导E3泛素连接酶与靶标蛋白发生特异性相互作用的小分子化合物，通过动态诱导E3泛素连接酶与靶标蛋白，形成非天然的新形态蛋白质—蛋白质相互作用，凭借E3泛素连接酶重编程机制，实现靶向传统“难成药”靶标蛋白，突破传统药物局限。然而，分子胶降解剂的研究仍面临多重挑战。 近日，中国科学院",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/syky/202605/t20260521_5110193.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/syky/202605/t20260521_5110193.shtml"
-      ],
-      "publishedAt": "2026-05-25",
-      "date": "2026-05-25",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 85,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "首页 > 科研进展 分子胶降解剂是一类可诱导E3泛素连接酶与靶标蛋白发生特异性相互作用的小分子化合物，通过动态诱导E3泛素连接酶与靶标蛋白，形成非天然的新形态蛋白质—蛋白质相互作用，凭借E3泛素连接酶重编程机制，实现靶向传统“难成药”靶标蛋白，突破传统药物局限。然而，分子胶降解剂的研究仍面临多重挑战。 近日，中国科学院上海药物研究所科研团队构建了可扩展的分子胶降解剂发现平台。该平台 整合模块化、免纯化的原位分子组装建库方法与直接生物学表型筛选策略，推动分子胶降解剂从偶然性发现向系统化、高通量筛选转变。这加速了新型分子胶降解剂的鉴定，并发现了多类高活性、高选择性的分子胶降解剂，为“难成药”靶标干",
-      "relatedTitles": [
-        "科研人员构建可扩展的分子胶降解剂发现平台"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "重编程血小板止血材料研究取得进展",
-      "summary": "首页 > 科研进展 长期以来，不可控制性大出血仍是创伤急救、外科手术以及内镜干预中的常见问题和严峻挑战。 近日，中国科学院国家纳米科学中心等在难治性出血的止血治疗研究领域取得进展。 研究团队受血小板在生理性凝血中关键作用的启发，创新性地提出了“血小板凋亡重编程策略”，研制出一种高磷脂酰丝氨酸（PS）表达的促凝血小板衍生",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/syky/202605/t20260525_5110427.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/syky/202605/t20260525_5110427.shtml"
-      ],
-      "publishedAt": "2026-05-25",
-      "date": "2026-05-25",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 85,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "首页 > 科研进展 长期以来，不可控制性大出血仍是创伤急救、外科手术以及内镜干预中的常见问题和严峻挑战。 近日，中国科学院国家纳米科学中心等在难治性出血的止血治疗研究领域取得进展。 研究团队受血小板在生理性凝血中关键作用的启发，创新性地提出了“血小板凋亡重编程策略”，研制出一种高磷脂酰丝氨酸（PS）表达的促凝血小板衍生物（hPPL）。进一步机制研究发现，hPPL能够通过表面高密度暴露的PS显著加速凝血酶生成以及纤维蛋白网形成；更重要的是hPPL能够独特性地激活PTGES/PGE 2 /EP3信号通路，开启血小板促凝新机制，从而有效代偿因抗血小板药物（如阿司匹林、替格瑞洛）使用引起的内源性血小板",
-      "relatedTitles": [
-        "重编程血小板止血材料研究取得进展"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "巨型基因组形成与维持机制研究获进展",
-      "summary": "首页 > 科研进展 真核生物（包括动物、植物、真菌和原生生物）的细胞核内DNA含量跨度极大，碱基对数量从2M到160G跨越5个数量级。其中超过10G的巨型基因组如何形成并长期维持，仍是进化生物学领域的重要科学问题。 近日，中国科学院成都生物研究所等研究团队系统综述了巨型基因组的形成与维持机制。该研究揭示了基因组扩张与物",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/syky/202605/t20260520_5110076.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/syky/202605/t20260520_5110076.shtml"
-      ],
-      "publishedAt": "2026-05-25",
-      "date": "2026-05-25",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 85,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "首页 > 科研进展 真核生物（包括动物、植物、真菌和原生生物）的细胞核内DNA含量跨度极大，碱基对数量从2M到160G跨越5个数量级。其中超过10G的巨型基因组如何形成并长期维持，仍是进化生物学领域的重要科学问题。 近日，中国科学院成都生物研究所等研究团队系统综述了巨型基因组的形成与维持机制。该研究揭示了基因组扩张与物种适应性进化之间的复杂关系，为理解生命演化过程中基因组大小的动态变化提供了新视角。 研究发现，巨型基因组在生命演化过程中呈离散分布，松柏类植物、南极磷虾、非洲肺鱼和蝾螈等关键类群均具有巨型基因组。基因组扩张未必导致演化负荷，特定条件下可成为适应性进化的重要基础。例如，南极磷虾和非",
-      "relatedTitles": [
-        "巨型基因组形成与维持机制研究获进展"
       ]
     },
     {
@@ -5013,8 +4905,8 @@
       "status": "confirmed_today"
     }
   ],
-  "brief": "ChenChen 今日中国科技热点｜2026-05-25｜v2\n生成时间：2026/5/25 19:35:42\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2600｜确认今日 118｜国际背景 28\n\n本次更新：\n新增核心线索：国内 87 条｜国际 22 条\n延续跟踪线索：国内 31 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-25] 杨幂成为君乐宝全球品牌代言人，与尼格买提等走进工厂探访揭秘\n   新浪科技｜2026-05-25｜https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvq2656576.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-25] 美团、腾讯参投！机器人公司天机智能完成10亿元 14:35\n   网易科技｜2026-05-25｜https://www.163.com/dy/article/KTPHS5F90534A4SC.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-25] 美芯晟战略投资金钢科技，深化机器人智能感知产 13:46\n   网易科技｜2026-05-25｜https://www.163.com/dy/article/KTPF31840512B07B.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-05-25] 在世界无人机大会看见低空经济“飞”向未来\n   新华网-科技｜2026-05-25｜http://www.news.cn/tech/20260525/b9b9171ffe2a4d2e8cdae85c2adce742/c.html\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n5. [2026-05-25] 2026世界无人机大会低空经济国际论坛举办\n   光明网-科技｜2026-05-25｜https://tech.gmw.cn/2026-05/25/content_38788437.htm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 美团、腾讯参投！机器人公司天机智能完成10亿元 14:35｜网易科技｜https://www.163.com/dy/article/KTPHS5F90534A4SC.html\n- 美芯晟战略投资金钢科技，深化机器人智能感知产 13:46｜网易科技｜https://www.163.com/dy/article/KTPF31840512B07B.html\n- 2026世界无人机大会低空经济国际论坛举办｜光明网-科技｜https://tech.gmw.cn/2026-05/25/content_38788437.htm\n- 脉脉林凡：机器人还没到GPT-3.5阶段，但机器人创业正当时｜新浪科技｜https://finance.sina.com.cn/tob/2026-05-25/doc-inhzchzh3471017.shtml\n- 贝莱德分析师：已有足够因素支持美联储降息｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-05-25/doc-inhzawmm5129439.shtml\n- Memory prices are finally about to drop, and you can thank China for it｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/memory-prices-finally-drop-thank-080148382.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（66 条，11 个来源）\n- 芯片/半导体：半导体供应链（27 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（19 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（13 条，5 个来源）\n- 太空与低空经济：太空与低空动态（7 条，6 个来源）\n- 科学前沿：科学前沿与科研设施（26 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. JBL made the most stunning transparent earbuds, and they look straight out of The Matrix｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/jbl-made-most-stunning-transparent-214219080.html\n2. Memory prices are finally about to drop, and you can thank China for it｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/memory-prices-finally-drop-thank-080148382.html\n3. Huawei touts new chipmaking technology to sidestep US restrictions｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/huawei-touts-chipmaking-technology-sidestep-055223771.html\n4. Samsung memory workers call off strike and may score six-figure bonuses｜The Register｜https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573\n5. Global shares gain and oil prices fall after Trump says talks on ending the war are proceeding｜AP Technology｜https://apnews.com/article/stocks-markets-iran-trump-oil-0b569925695e498e6fd7ece7b183e085",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-25｜v2\n生成时间：2026/5/25 19:35:42\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2600｜确认今日 118｜国际背景 28\n\n本次更新：\n新增核心线索：国内 87 条｜国际 22 条\n延续跟踪线索：国内 31 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-25] 杨幂成为君乐宝全球品牌代言人，与尼格买提等走进工厂探访揭秘\n   新浪科技｜2026-05-25｜https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvq2656576.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-25] 美团、腾讯参投！机器人公司天机智能完成10亿元 14:35\n   网易科技｜2026-05-25｜https://www.163.com/dy/article/KTPHS5F90534A4SC.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-25] 美芯晟战略投资金钢科技，深化机器人智能感知产 13:46\n   网易科技｜2026-05-25｜https://www.163.com/dy/article/KTPF31840512B07B.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-05-25] 在世界无人机大会看见低空经济“飞”向未来\n   新华网-科技｜2026-05-25｜http://www.news.cn/tech/20260525/b9b9171ffe2a4d2e8cdae85c2adce742/c.html\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n5. [2026-05-25] 2026世界无人机大会低空经济国际论坛举办\n   光明网-科技｜2026-05-25｜https://tech.gmw.cn/2026-05/25/content_38788437.htm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 美团、腾讯参投！机器人公司天机智能完成10亿元 14:35｜网易科技｜https://www.163.com/dy/article/KTPHS5F90534A4SC.html\n- 美芯晟战略投资金钢科技，深化机器人智能感知产 13:46｜网易科技｜https://www.163.com/dy/article/KTPF31840512B07B.html\n- 2026世界无人机大会低空经济国际论坛举办｜光明网-科技｜https://tech.gmw.cn/2026-05/25/content_38788437.htm\n- 脉脉林凡：机器人还没到GPT-3.5阶段，但机器人创业正当时｜新浪科技｜https://finance.sina.com.cn/tob/2026-05-25/doc-inhzchzh3471017.shtml\n- 贝莱德分析师：已有足够因素支持美联储降息｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-05-25/doc-inhzawmm5129439.shtml\n- Memory prices are finally about to drop, and you can thank China for it｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/memory-prices-finally-drop-thank-080148382.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（66 条，11 个来源）\n- 芯片/半导体：半导体供应链（27 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（19 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（13 条，5 个来源）\n- 太空与低空经济：太空与低空动态（7 条，6 个来源）\n- 科学前沿：科学前沿与科研设施（26 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. JBL made the most stunning transparent earbuds, and they look straight out of The Matrix｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/jbl-made-most-stunning-transparent-214219080.html\n2. Memory prices are finally about to drop, and you can thank China for it｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/memory-prices-finally-drop-thank-080148382.html\n3. Huawei touts new chipmaking technology to sidestep US restrictions｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/huawei-touts-chipmaking-technology-sidestep-055223771.html\n4. Samsung memory workers call off strike and may score six-figure bonuses｜The Register｜https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573\n5. Global shares gain and oil prices fall after Trump says talks on ending the war are proceeding｜AP Technology｜https://apnews.com/article/stocks-markets-iran-trump-oil-0b569925695e498e6fd7ece7b183e085",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-25｜生成时间：2026/5/25 19:35:42｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2600｜确认今日 118｜国际背景 28</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 87 条｜国际 22 条<br>延续跟踪线索：国内 31 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-25] 杨幂成为君乐宝全球品牌代言人，与尼格买提等走进工厂探访揭秘</strong>\n      <span>新浪科技｜2026-05-25｜<a href=\"https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvq2656576.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-25] 美团、腾讯参投！机器人公司天机智能完成10亿元 14:35</strong>\n      <span>网易科技｜2026-05-25｜<a href=\"https://www.163.com/dy/article/KTPHS5F90534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-25] 美芯晟战略投资金钢科技，深化机器人智能感知产 13:46</strong>\n      <span>网易科技｜2026-05-25｜<a href=\"https://www.163.com/dy/article/KTPF31840512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-25] 在世界无人机大会看见低空经济“飞”向未来</strong>\n      <span>新华网-科技｜2026-05-25｜<a href=\"http://www.news.cn/tech/20260525/b9b9171ffe2a4d2e8cdae85c2adce742/c.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-25] 2026世界无人机大会低空经济国际论坛举办</strong>\n      <span>光明网-科技｜2026-05-25｜<a href=\"https://tech.gmw.cn/2026-05/25/content_38788437.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. JBL made the most stunning transparent earbuds, and they look straight out of The Matrix</strong>\n      <span>时间：2026-05-25｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/audio/articles/jbl-made-most-stunning-transparent-214219080.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Memory prices are finally about to drop, and you can thank China for it</strong>\n      <span>时间：2026-05-25｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/memory-prices-finally-drop-thank-080148382.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Huawei touts new chipmaking technology to sidestep US restrictions</strong>\n      <span>时间：2026-05-25｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/huawei-touts-chipmaking-technology-sidestep-055223771.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Samsung memory workers call off strike and may score six-figure bonuses</strong>\n      <span>时间：Mon, 25 May 2026 06:14:46 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Global shares gain and oil prices fall after Trump says talks on ending the war are proceeding</strong>\n      <span>时间：2026-05-25｜来源：AP Technology｜<a href=\"https://apnews.com/article/stocks-markets-iran-trump-oil-0b569925695e498e6fd7ece7b183e085\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/25 19:35:42\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 87 条｜国际 22 条\n延续跟踪线索：国内 31 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-25] 杨幂成为君乐宝全球品牌代言人，与尼格买提等走进工厂探访揭秘\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvq2656576.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-25] 美团、腾讯参投！机器人公司天机智能完成10亿元 14:35\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KTPHS5F90534A4SC.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-05-25] 美芯晟战略投资金钢科技，深化机器人智能感知产 13:46\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KTPF31840512B07B.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-05-25] 在世界无人机大会看见低空经济“飞”向未来\n   来源：新华网-科技\n   链接：http://www.news.cn/tech/20260525/b9b9171ffe2a4d2e8cdae85c2adce742/c.html\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n5. [2026-05-25] 2026世界无人机大会低空经济国际论坛举办\n   来源：光明网-科技\n   链接：https://tech.gmw.cn/2026-05/25/content_38788437.htm\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 美团、腾讯参投！机器人公司天机智能完成10亿元 14:35｜网易科技｜https://www.163.com/dy/article/KTPHS5F90534A4SC.html\n- 美芯晟战略投资金钢科技，深化机器人智能感知产 13:46｜网易科技｜https://www.163.com/dy/article/KTPF31840512B07B.html\n- 2026世界无人机大会低空经济国际论坛举办｜光明网-科技｜https://tech.gmw.cn/2026-05/25/content_38788437.htm\n- 脉脉林凡：机器人还没到GPT-3.5阶段，但机器人创业正当时｜新浪科技｜https://finance.sina.com.cn/tob/2026-05-25/doc-inhzchzh3471017.shtml\n- 贝莱德分析师：已有足够因素支持美联储降息｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-05-25/doc-inhzawmm5129439.shtml\n- Memory prices are finally about to drop, and you can thank China for it｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/memory-prices-finally-drop-thank-080148382.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（66 条，11 个来源）\n- 芯片/半导体：半导体供应链（27 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（19 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（13 条，5 个来源）\n- 太空与低空经济：太空与低空动态（7 条，6 个来源）\n- 科学前沿：科学前沿与科研设施（26 条，8 个来源）\n\n国际科技背景：\n1. JBL made the most stunning transparent earbuds, and they look straight out of The Matrix｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/jbl-made-most-stunning-transparent-214219080.html\n2. Memory prices are finally about to drop, and you can thank China for it｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/memory-prices-finally-drop-thank-080148382.html\n3. Huawei touts new chipmaking technology to sidestep US restrictions｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/huawei-touts-chipmaking-technology-sidestep-055223771.html\n4. Samsung memory workers call off strike and may score six-figure bonuses｜The Register｜https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573\n5. Global shares gain and oil prices fall after Trump says talks on ending the war are proceeding｜AP Technology｜https://apnews.com/article/stocks-markets-iran-trump-oil-0b569925695e498e6fd7ece7b183e085\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "ChenChen 今日中国科技热点｜2026-05-25｜v2\n生成时间：2026/5/25 19:42:47\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2601｜确认今日 115｜国际背景 28\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 113 条｜国际 28 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-25] 杨幂成为君乐宝全球品牌代言人，与尼格买提等走进工厂探访揭秘\n   新浪科技｜2026-05-25｜https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvq2656576.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-25] 在世界无人机大会看见低空经济“飞”向未来\n   新华网-科技｜2026-05-25｜http://www.news.cn/tech/20260525/b9b9171ffe2a4d2e8cdae85c2adce742/c.html\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n3. [2026-05-25] 2026世界无人机大会低空经济国际论坛举办\n   光明网-科技｜2026-05-25｜https://tech.gmw.cn/2026-05/25/content_38788437.htm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-05-25] 东风奕派M8首秀，将首批搭载华为乾崑智驾ADS 5 Pro\n   新浪科技｜2026-05-25｜https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvs3627772.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-05-25] 划定人工智能终端“聪明标尺”\n   人民网-科技｜2026-05-25｜http://finance.people.com.cn/n1/2026/0525/c1004-40726627.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n本次新增线索：\n- 华为发表“韬（τ）定律”，中国首次提出全球半 19:38｜网易科技｜https://www.163.com/dy/article/KTQ37J7T0512B07B.html\n- 方盒子 SUV 再添新玩家，吉利银河战舰 700 量产版实车曝光｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-25/doc-inhzchzh3490257.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（64 条，11 个来源）\n- 芯片/半导体：半导体供应链（28 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（17 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（14 条，5 个来源）\n- 太空与低空经济：太空与低空动态（7 条，6 个来源）\n- 科学前沿：科学前沿与科研设施（28 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. JBL made the most stunning transparent earbuds, and they look straight out of The Matrix｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/jbl-made-most-stunning-transparent-214219080.html\n2. Memory prices are finally about to drop, and you can thank China for it｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/memory-prices-finally-drop-thank-080148382.html\n3. Huawei touts new chipmaking technology to sidestep US restrictions｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/huawei-touts-chipmaking-technology-sidestep-055223771.html\n4. Samsung memory workers call off strike and may score six-figure bonuses｜The Register｜https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573\n5. Global shares gain and oil prices fall after Trump says talks on ending the war are proceeding｜AP Technology｜https://apnews.com/article/stocks-markets-iran-trump-oil-0b569925695e498e6fd7ece7b183e085",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-25｜v2\n生成时间：2026/5/25 19:42:47\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2601｜确认今日 115｜国际背景 28\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 113 条｜国际 28 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-25] 杨幂成为君乐宝全球品牌代言人，与尼格买提等走进工厂探访揭秘\n   新浪科技｜2026-05-25｜https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvq2656576.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-25] 在世界无人机大会看见低空经济“飞”向未来\n   新华网-科技｜2026-05-25｜http://www.news.cn/tech/20260525/b9b9171ffe2a4d2e8cdae85c2adce742/c.html\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n3. [2026-05-25] 2026世界无人机大会低空经济国际论坛举办\n   光明网-科技｜2026-05-25｜https://tech.gmw.cn/2026-05/25/content_38788437.htm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-05-25] 东风奕派M8首秀，将首批搭载华为乾崑智驾ADS 5 Pro\n   新浪科技｜2026-05-25｜https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvs3627772.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-05-25] 划定人工智能终端“聪明标尺”\n   人民网-科技｜2026-05-25｜http://finance.people.com.cn/n1/2026/0525/c1004-40726627.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n本次新增线索：\n- 华为发表“韬（τ）定律”，中国首次提出全球半 19:38｜网易科技｜https://www.163.com/dy/article/KTQ37J7T0512B07B.html\n- 方盒子 SUV 再添新玩家，吉利银河战舰 700 量产版实车曝光｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-25/doc-inhzchzh3490257.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（64 条，11 个来源）\n- 芯片/半导体：半导体供应链（28 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（17 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（14 条，5 个来源）\n- 太空与低空经济：太空与低空动态（7 条，6 个来源）\n- 科学前沿：科学前沿与科研设施（28 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. JBL made the most stunning transparent earbuds, and they look straight out of The Matrix｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/jbl-made-most-stunning-transparent-214219080.html\n2. Memory prices are finally about to drop, and you can thank China for it｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/memory-prices-finally-drop-thank-080148382.html\n3. Huawei touts new chipmaking technology to sidestep US restrictions｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/huawei-touts-chipmaking-technology-sidestep-055223771.html\n4. Samsung memory workers call off strike and may score six-figure bonuses｜The Register｜https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573\n5. Global shares gain and oil prices fall after Trump says talks on ending the war are proceeding｜AP Technology｜https://apnews.com/article/stocks-markets-iran-trump-oil-0b569925695e498e6fd7ece7b183e085",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-25｜生成时间：2026/5/25 19:42:47｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2601｜确认今日 115｜国际背景 28</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 0 条<br>延续跟踪线索：国内 113 条｜国际 28 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-25] 杨幂成为君乐宝全球品牌代言人，与尼格买提等走进工厂探访揭秘</strong>\n      <span>新浪科技｜2026-05-25｜<a href=\"https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvq2656576.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-25] 在世界无人机大会看见低空经济“飞”向未来</strong>\n      <span>新华网-科技｜2026-05-25｜<a href=\"http://www.news.cn/tech/20260525/b9b9171ffe2a4d2e8cdae85c2adce742/c.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-25] 2026世界无人机大会低空经济国际论坛举办</strong>\n      <span>光明网-科技｜2026-05-25｜<a href=\"https://tech.gmw.cn/2026-05/25/content_38788437.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-25] 东风奕派M8首秀，将首批搭载华为乾崑智驾ADS 5 Pro</strong>\n      <span>新浪科技｜2026-05-25｜<a href=\"https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvs3627772.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-25] 划定人工智能终端“聪明标尺”</strong>\n      <span>人民网-科技｜2026-05-25｜<a href=\"http://finance.people.com.cn/n1/2026/0525/c1004-40726627.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. JBL made the most stunning transparent earbuds, and they look straight out of The Matrix</strong>\n      <span>时间：2026-05-25｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/audio/articles/jbl-made-most-stunning-transparent-214219080.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Memory prices are finally about to drop, and you can thank China for it</strong>\n      <span>时间：2026-05-25｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/memory-prices-finally-drop-thank-080148382.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Huawei touts new chipmaking technology to sidestep US restrictions</strong>\n      <span>时间：2026-05-25｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/huawei-touts-chipmaking-technology-sidestep-055223771.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Samsung memory workers call off strike and may score six-figure bonuses</strong>\n      <span>时间：Mon, 25 May 2026 06:14:46 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Global shares gain and oil prices fall after Trump says talks on ending the war are proceeding</strong>\n      <span>时间：2026-05-25｜来源：AP Technology｜<a href=\"https://apnews.com/article/stocks-markets-iran-trump-oil-0b569925695e498e6fd7ece7b183e085\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/25 19:42:47\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 113 条｜国际 28 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-25] 杨幂成为君乐宝全球品牌代言人，与尼格买提等走进工厂探访揭秘\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvq2656576.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-05-25] 在世界无人机大会看见低空经济“飞”向未来\n   来源：新华网-科技\n   链接：http://www.news.cn/tech/20260525/b9b9171ffe2a4d2e8cdae85c2adce742/c.html\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n3. [2026-05-25] 2026世界无人机大会低空经济国际论坛举办\n   来源：光明网-科技\n   链接：https://tech.gmw.cn/2026-05/25/content_38788437.htm\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-05-25] 东风奕派M8首秀，将首批搭载华为乾崑智驾ADS 5 Pro\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvs3627772.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-05-25] 划定人工智能终端“聪明标尺”\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0525/c1004-40726627.html\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n本次新增线索：\n- 华为发表“韬（τ）定律”，中国首次提出全球半 19:38｜网易科技｜https://www.163.com/dy/article/KTQ37J7T0512B07B.html\n- 方盒子 SUV 再添新玩家，吉利银河战舰 700 量产版实车曝光｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-25/doc-inhzchzh3490257.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（64 条，11 个来源）\n- 芯片/半导体：半导体供应链（28 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（17 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（14 条，5 个来源）\n- 太空与低空经济：太空与低空动态（7 条，6 个来源）\n- 科学前沿：科学前沿与科研设施（28 条，8 个来源）\n\n国际科技背景：\n1. JBL made the most stunning transparent earbuds, and they look straight out of The Matrix｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/jbl-made-most-stunning-transparent-214219080.html\n2. Memory prices are finally about to drop, and you can thank China for it｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/memory-prices-finally-drop-thank-080148382.html\n3. Huawei touts new chipmaking technology to sidestep US restrictions｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/huawei-touts-chipmaking-technology-sidestep-055223771.html\n4. Samsung memory workers call off strike and may score six-figure bonuses｜The Register｜https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573\n5. Global shares gain and oil prices fall after Trump says talks on ending the war are proceeding｜AP Technology｜https://apnews.com/article/stocks-markets-iran-trump-oil-0b569925695e498e6fd7ece7b183e085\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
