@@ -2,12 +2,12 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/27 19:04:37
+生成时间：2026/5/27 19:24:20
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 85 条｜国际 23 条
-延续跟踪线索：国内 29 条｜国际 17 条
+新增核心线索：国内 8 条｜国际 3 条
+延续跟踪线索：国内 109 条｜国际 37 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -37,20 +37,20 @@
    角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
 
 本次新增线索：
-- 亚洲首个合成细胞技术路线图发布｜中国科学院｜https://www.cas.cn/syky/202605/t20260527_5110994.shtml
-- 我国在算电协同相关国际标准化布局方面取得积极 12:32｜网易科技｜https://www.163.com/dy/article/KTUFKSDV05198CJN.html
-- 普渡机器人张涛：具身智能“ChatGPT时刻”至少还需3-5年｜新浪科技｜https://finance.sina.com.cn/roll/2026-05-27/doc-inhziqxm1678828.shtml
-- 【禾商禾企】天通瑞宏高端制造，长期配套华为、特斯拉！｜新浪科技｜https://finance.sina.com.cn/wm/2026-05-27/doc-inhziqxq9303278.shtml
-- 武契奇在小米汽车工厂下单：都买了啥｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-27/doc-inhzhawh1214425.shtml
-- AI-generated podcasts flooding Spotify and Apple Podcasts｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/ai-generated-podcasts-flooding-spotify-090000008.html
+- NBBOSS发布AI决策机器人R1｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-05-27/doc-inhzikrq8437817.shtml
+- ICRA 2026 | 用于消化道微创活检的仿生剪纸胶囊机器人｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-27/doc-inhzivfn0767433.shtml
+- 欧洲委员会宣布明年将推出新的移动卫星频谱分配 19:09｜网易科技｜https://www.163.com/dy/article/KTV6BQLA05198CJN.html
+- 挖矿的改行干AI！IREN豪掷16亿美元：从戴尔打包购买NVIDIA Blackwell算力系统｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-27/doc-inhzivfn0766224.shtml
+- Kimi封号双标实锤！海外用户秒解封 国内付费用户被无视：官方致歉｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-27/doc-inhzivfn9233745.shtml
+- National Vulnerability Database｜NIST AI｜https://nvd.nist.gov/
 
 今日热点方向：
-- AI 应用：AI动态（88 条，10 个来源）
+- AI 应用：AI动态（87 条，10 个来源）
 - 芯片/半导体：半导体供应链（37 条，8 个来源）
-- 机器人/具身智能：人形机器人与具身智能（19 条，7 个来源）
-- 新能源车/智能驾驶：新能源车动态（15 条，6 个来源）
+- 机器人/具身智能：人形机器人与具身智能（21 条，7 个来源）
+- 新能源车/智能驾驶：新能源车动态（14 条，6 个来源）
 - 太空与低空经济：太空与低空动态（7 条，4 个来源）
-- 科学前沿：科学前沿与科研设施（31 条，9 个来源）
+- 科学前沿：科学前沿与科研设施（33 条，9 个来源）
 
 国际科技背景：
 1. Trump administration wants nuclear startups to use plutonium for their reactors｜TechCrunch｜https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/
