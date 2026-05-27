@@ -2,62 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/26 10:36:44
+生成时间：2026/5/27 09:34:51
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 39 条｜国际 4 条
-延续跟踪线索：国内 46 条｜国际 6 条
+新增核心线索：国内 57 条｜国际 38 条
+延续跟踪线索：国内 0 条｜国际 0 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-05-26] 全球岩溶领域首项国际标准发布
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-05/26/content_38789685.htm
-   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
-
-2. [2026-05-26] 我国已累计发布1750项食品安全标准
-   来源：光明网-科技
-   链接：http://news.gmw.cn/2026-05/26/content_38789155.htm
-   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
-
-3. [2026-05-26] 彻底告别铜互连：英特尔玻璃基板量产计划曝光 改写半导体未来十年
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-05-26/doc-inhzevaw1564202.shtml
+1. [2026-05-27] 首批AI训练推理芯片通过国家安全可靠测评 08:54
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KTU35P7005198CJN.html
    角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
 
-4. [2026-05-26] 海尔发布AI运动外骨骼机器人：1.75kg超轻机身破纪录 全碳纤维+钛合金设计
+2. [2026-05-27] 雷军幽默回应武契奇“买不起小米汽车”：总统先生，YU7 标准版 23.35 万元
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-05-26/doc-inhzevaq2915259.shtml
+   链接：https://finance.sina.com.cn/tech/digi/2026-05-27/doc-inhzhxzw0873962.shtml
+   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
+
+3. [2026-05-27] 长七改火箭成功发射通信技术试验卫星二十四号
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-05/27/content_522941.html
+   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
+
+4. [2026-05-27] 外卖骑手不用再进楼，全国首个机器人配送社区在成都落地
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-05-27/doc-inhzhxzw0873542.shtml
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
-5. [2026-05-26] 轻盈穿戴，奔赴热AI：海尔发布全球最轻AI运动外骨骼机器人！
+5. [2026-05-27] 华为“韬定律”，全网刷屏！新机遇来了→
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-05-26/doc-inhzevat2308072.shtml
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
+   链接：https://finance.sina.com.cn/roll/2026-05-27/doc-inhzhtts2308715.shtml
+   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
 
 本次新增线索：
-- 全球岩溶领域首项国际标准发布｜光明网-科技｜https://tech.gmw.cn/2026-05/26/content_38789685.htm
-- 我国已累计发布1750项食品安全标准｜光明网-科技｜http://news.gmw.cn/2026-05/26/content_38789155.htm
-- 彻底告别铜互连：英特尔玻璃基板量产计划曝光 改写半导体未来十年｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-26/doc-inhzevaw1564202.shtml
-- 海尔发布AI运动外骨骼机器人：1.75kg超轻机身破纪录 全碳纤维+钛合金设计｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-05-26/doc-inhzevaq2915259.shtml
-- 轻盈穿戴，奔赴热AI：海尔发布全球最轻AI运动外骨骼机器人！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-26/doc-inhzevat2308072.shtml
-- Today’s NYT Strands Hints, Spangram, Answers For Tuesday, May 26 (On The Nature Trail)｜Yahoo News Technology｜https://tech.yahoo.com/puzzles/strands/articles/today-nyt-strands-hints-spangram-020005643.html
+- 首批AI训练推理芯片通过国家安全可靠测评 08:54｜网易科技｜https://www.163.com/dy/article/KTU35P7005198CJN.html
+- 雷军幽默回应武契奇“买不起小米汽车”：总统先生，YU7 标准版 23.35 万元｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-27/doc-inhzhxzw0873962.shtml
+- 长七改火箭成功发射通信技术试验卫星二十四号｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/27/content_522941.html
+- 外卖骑手不用再进楼，全国首个机器人配送社区在成都落地｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-27/doc-inhzhxzw0873542.shtml
+- 华为“韬定律”，全网刷屏！新机遇来了→｜新浪科技｜https://finance.sina.com.cn/roll/2026-05-27/doc-inhzhtts2308715.shtml
+- Trump administration wants nuclear startups to use plutonium for their reactors｜TechCrunch｜https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/
 
 今日热点方向：
-- AI 应用：AI动态（94 条，11 个来源）
-- 芯片/半导体：半导体供应链（32 条，8 个来源）
-- 机器人/具身智能：人形机器人与具身智能（19 条，8 个来源）
+- AI 应用：AI动态（87 条，11 个来源）
+- 芯片/半导体：半导体供应链（40 条，10 个来源）
+- 机器人/具身智能：人形机器人与具身智能（14 条，8 个来源）
 - 新能源车/智能驾驶：新能源车动态（15 条，5 个来源）
-- 太空与低空经济：太空与低空动态（6 条，5 个来源）
-- 科学前沿：科学前沿与科研设施（22 条，9 个来源）
+- 太空与低空经济：太空与低空动态（7 条，5 个来源）
+- 科学前沿：科学前沿与科研设施（18 条，9 个来源）
 
 国际科技背景：
-1. 4 Apple Products You Should Avoid Buying Used｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/4-apple-products-avoid-buying-234700710.html
-2. What ClickUp’s mass layoff tells us about the future of work｜TechCrunch｜https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/
-3. Citing Gandalf, Pope Leo says we must "disarm" AI｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/
-4. Today’s NYT Strands Hints, Spangram, Answers For Tuesday, May 26 (On The Nature Trail)｜Yahoo News Technology｜https://tech.yahoo.com/puzzles/strands/articles/today-nyt-strands-hints-spangram-020005643.html
-5. Sennheiser Reveals New And Improved Momentum 5 Wireless Headphones｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/sennheiser-reveals-improved-momentum-5-225628226.html
+1. Trump administration wants nuclear startups to use plutonium for their reactors｜TechCrunch｜https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/
+2. Trump administration permits Volvo to keep selling connected cars in the US｜TechCrunch｜https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/
+3. We're starting to see some PC makers respond to Apple's MacBook Neo｜Ars Technica｜https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/
+4. European companies double down on China manufacturing despite EU de-risking push｜CNBC Technology｜https://www.cnbc.com/2026/05/27/european-companies-expand-china-supply-chains-automation-costs.html
+5. Trump officials split over Pope Leo’s AI warning as Vatican feud enters new front｜CNBC Technology｜https://www.cnbc.com/2026/05/26/pope-leo-xiv-ai-warning-trump-jd-vance-doug-burgum-anthropic-iran.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
