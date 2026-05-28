@@ -2,12 +2,12 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/28 10:34:06
+生成时间：2026/5/28 19:06:15
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 41 条｜国际 4 条
-延续跟踪线索：国内 32 条｜国际 36 条
+新增核心线索：国内 89 条｜国际 13 条
+延续跟踪线索：国内 21 条｜国际 27 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -16,48 +16,48 @@
    链接：http://finance.people.com.cn/n1/2026/0528/c1004-40729208.html
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
-2. [2026-05-28] GT版试驾排队、标准版引流拉新，小米YU7想重新 08:44
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KU0L14JB0534A4SC.html
-   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
-
-3. [2026-05-28] 工信部发布2026年汽车标准化工作要点；宁德时代 07:10
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KU0FJVUU0512B07B.html
-   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
-
-4. [2026-05-28] AI浪潮下，香港加速布局未来产业
+2. [2026-05-28] 新手父母听豆包建议每顿给婴儿只喂 60ml 奶？豆包官方回应
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/t/2026-05-28/doc-inhzkwsy8800717.shtml
+   链接：https://finance.sina.com.cn/tech/digi/2026-05-28/doc-inhzmyer8229300.shtml
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-5. [2026-05-28] Meta开启“付费时代”：AI聊天机器人、社交流量全装进订阅服务
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/t/2026-05-28/doc-inhzksma0416052.shtml
+3. [2026-05-28] 种子大小的机器人能执行五种手术功能
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gjxw/2026-05/27/content_523383.html
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
+4. [2026-05-28] 提供美国25%药物研发，药明康德为何屡遭打击？
+   来源：观察者网-产业科技
+   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
+   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
+
+5. [2026-05-28] 习近平复信参加“共航蔚蓝：中美青年友谊行”活动的两国学生
+   来源：科技日报
+   链接：https://www.stdaily.com/web/2026-05/28/content_523797.html
+   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
+
 本次新增线索：
-- GT版试驾排队、标准版引流拉新，小米YU7想重新 08:44｜网易科技｜https://www.163.com/dy/article/KU0L14JB0534A4SC.html
-- 联想发布“百应AI生态2026星河计划”：提供万亿Token、亿级曝光、5000万投资｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-05-28/doc-inhzmihs7874724.shtml
-- 连尚集团宣布许鹏出任集团首席执行官，加速AI战略纵深突破｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-05-28/doc-inhzmayu7994136.shtml
-- 英伟达推出 AI 框架 Polar，让 Codex 跑分暴涨 594.74%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-28/doc-inhzmihu0210264.shtml
-- 西班牙推进 AI 使用领域立法：未来违规面临最高 3500 万欧元罚款｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-28/doc-inhzmihr1121081.shtml
-- AI leaders soften warnings on job losses as industry reassesses impact｜France24 Technology｜https://www.france24.com/en/technology/20260528-ai-leaders-soften-warnings-on-job-losses-as-industry-reassesses-impact
+- 新手父母听豆包建议每顿给婴儿只喂 60ml 奶？豆包官方回应｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-28/doc-inhzmyer8229300.shtml
+- 种子大小的机器人能执行五种手术功能｜科技日报｜https://www.stdaily.com/web/gjxw/2026-05/27/content_523383.html
+- 习近平复信参加“共航蔚蓝：中美青年友谊行”活动的两国学生｜科技日报｜https://www.stdaily.com/web/2026-05/28/content_523797.html
+- 商务部回应中美关税谈判进展｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/28/content_523910.html
+- 杨元庆：2025年联想在津业务营收443亿元，发展战略全面落地｜新浪科技｜https://finance.sina.com.cn/tech/2026-05-28/doc-inhzmpqp1172908.shtml
+- AP Exclusive: Trump administration tells prosecutors to stand down on Venezuela leader, sources say｜AP Technology｜https://apnews.com/article/federal-prosecutors-venezuela-rodriguez-avoid-criminal-investigations-07226dea025e16afcf8ca3e39280fd76
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（57 条，11 个来源）
-- 芯片/半导体：半导体供应链（32 条，7 个来源）
-- 机器人/具身智能：人形机器人与具身智能（23 条，7 个来源）
-- 新能源车/智能驾驶：新能源车动态（20 条，5 个来源）
-- 太空与低空经济：太空与低空动态（8 条，4 个来源）
-- 科学前沿：科学前沿与科研设施（34 条，8 个来源）
+- AI 应用：AI动态（92 条，11 个来源）
+- 芯片/半导体：半导体供应链（29 条，8 个来源）
+- 机器人/具身智能：人形机器人与具身智能（20 条，9 个来源）
+- 新能源车/智能驾驶：新能源车动态（22 条，7 个来源）
+- 太空与低空经济：太空与低空动态（7 条，6 个来源）
+- 科学前沿：科学前沿与科研设施（18 条，9 个来源）
 
 国际科技背景：
-1. ICANN again intervenes to defend AFRINIC｜The Register｜https://www.theregister.com/networks/2026/05/27/icann-again-intervenes-to-defend-afrinic/5246790
-2. In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips｜TechCrunch｜https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/
-3. Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill｜WIRED Business｜https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/
-4. California defeats Tesla's attempt to throw out racial discrimination lawsuit｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/
-5. Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires｜Ars Technica｜https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/
+1. AP Exclusive: Trump administration tells prosecutors to stand down on Venezuela leader, sources say｜AP Technology｜https://apnews.com/article/federal-prosecutors-venezuela-rodriguez-avoid-criminal-investigations-07226dea025e16afcf8ca3e39280fd76
+2. ICANN again intervenes to defend AFRINIC｜The Register｜https://www.theregister.com/networks/2026/05/27/icann-again-intervenes-to-defend-afrinic/5246790
+3. Fans Already Have A Cool Theory About The Protagonist For ‘Dragon Quest XII’｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/fans-already-cool-theory-protagonist-044334624.html
+4. In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips｜TechCrunch｜https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/
+5. Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill｜WIRED Business｜https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
