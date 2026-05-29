@@ -2,62 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/28 19:24:21
+生成时间：2026/5/29 09:33:14
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 19 条｜国际 1 条
-延续跟踪线索：国内 98 条｜国际 39 条
+新增核心线索：国内 57 条｜国际 40 条
+延续跟踪线索：国内 0 条｜国际 0 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-05-28] 卫星激光测距技术研究获进展
-   来源：中国科学院
-   链接：https://www.cas.cn/syky/202605/t20260526_5110890.shtml
-   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
-
-2. [2026-05-28] 人形机器人为何也要“持证上岗”
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0528/c1004-40729208.html
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
-
-3. [2026-05-28] 新手父母听豆包建议每顿给婴儿只喂 60ml 奶？豆包官方回应
+1. [2026-05-29] 财经早报：股价大涨多只牛股发布异动公告 全球原油库存逼近“百日警戒线”丨2026年5月29日
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-05-28/doc-inhzmyer8229300.shtml
+   链接：https://finance.sina.com.cn/stock/y/2026-05-29/doc-inhzpfxw8120624.shtml
+   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
+
+2. [2026-05-29] 精度跃升数百倍，芯片级陀螺仪来了
+   来源：中国科学报
+   链接：https://news.sciencenet.cn/htmlnews/2026/5/565582.shtm
+   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
+
+3. [2026-05-29] 华为“韬定律”要打败“摩尔定律”？
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-05-29/doc-inhznrai7973498.shtml
+   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
+
+4. [2026-05-29] 苹果Siri迎来近十五年最大改版 更多人工智能功能将推出
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrai7984972.shtml
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-4. [2026-05-28] 种子大小的机器人能执行五种手术功能
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gjxw/2026-05/27/content_523383.html
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
-
-5. [2026-05-28] 提供美国25%药物研发，药明康德为何屡遭打击？
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
-   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
+5. [2026-05-29] 存储芯片产业“超级周期”能走多远
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-05-29/doc-inhzpnfu8032526.shtml
+   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
 
 本次新增线索：
-- 卫星激光测距技术研究获进展｜中国科学院｜https://www.cas.cn/syky/202605/t20260526_5110890.shtml
-- 李云飞：比亚迪是全球唯一拥有芯片全流程制造能力的车企｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-28/doc-inhznenp8116827.shtml
-- 京东外卖首发行业最严堂食标准，启动“堂食看得见”行动｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-28/doc-inhznenp8110805.shtml
-- 研究人员构建首个人源“生物起搏器”类器官｜中国科学院｜https://www.cas.cn/syky/202605/t20260527_5111039.shtml
-- AI闯祸学会撒谎了！Gemini 3.5删2.9万行代码：事后伪造多轮日志｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-28/doc-inhznenk8507348.shtml
-- X by Xreal dropped an entry-level pair of AR glasses that we all needed｜Yahoo News Technology｜https://tech.yahoo.com/ar-vr/articles/x-xreal-dropped-entry-level-091100667.html
+- 财经早报：股价大涨多只牛股发布异动公告 全球原油库存逼近“百日警戒线”丨2026年5月29日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-05-29/doc-inhzpfxw8120624.shtml
+- 精度跃升数百倍，芯片级陀螺仪来了｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565582.shtm
+- 华为“韬定律”要打败“摩尔定律”？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-29/doc-inhznrai7973498.shtml
+- 苹果Siri迎来近十五年最大改版 更多人工智能功能将推出｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrai7984972.shtml
+- 存储芯片产业“超级周期”能走多远｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-29/doc-inhzpnfu8032526.shtml
+- Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders｜TechCrunch｜https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/
 
 今日热点方向：
-- AI 应用：AI动态（89 条，10 个来源）
-- 芯片/半导体：半导体供应链（26 条，7 个来源）
-- 机器人/具身智能：人形机器人与具身智能（20 条，9 个来源）
-- 新能源车/智能驾驶：新能源车动态（21 条，6 个来源）
-- 太空与低空经济：太空与低空动态（6 条，5 个来源）
-- 科学前沿：科学前沿与科研设施（26 条，8 个来源）
+- AI 应用：AI动态（90 条，11 个来源）
+- 芯片/半导体：半导体供应链（33 条，8 个来源）
+- 机器人/具身智能：人形机器人与具身智能（19 条，10 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（16 条，5 个来源）
+- 太空与低空经济：太空与低空动态（4 条，4 个来源）
+- 科学前沿：科学前沿与科研设施（16 条，8 个来源）
 
 国际科技背景：
-1. AP Exclusive: Trump administration tells prosecutors to stand down on Venezuela leader, sources say｜AP Technology｜https://apnews.com/article/federal-prosecutors-venezuela-rodriguez-avoid-criminal-investigations-07226dea025e16afcf8ca3e39280fd76
-2. ICANN again intervenes to defend AFRINIC｜The Register｜https://www.theregister.com/networks/2026/05/27/icann-again-intervenes-to-defend-afrinic/5246790
-3. Fans Already Have A Cool Theory About The Protagonist For ‘Dragon Quest XII’｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/fans-already-cool-theory-protagonist-044334624.html
-4. In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips｜TechCrunch｜https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/
-5. Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill｜WIRED Business｜https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/
+1. Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders｜TechCrunch｜https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/
+2. US says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’｜TechCrunch｜https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/
+3. The $6 Billion Chinese Startup Trying to Build Hands for Every Robot｜WIRED Business｜https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/
+4. Apple working to cram massive Gemini model into iPhone to power new Siri｜Ars Technica｜https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/
+5. ACSI Data Says This Android Phone Brand Has The Highest Customer Satisfaction｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/acsi-data-says-android-phone-211500188.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
