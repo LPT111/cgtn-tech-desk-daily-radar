@@ -2,62 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/29 18:56:54
+生成时间：2026/5/30 09:28:47
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 106 条｜国际 12 条
-延续跟踪线索：国内 20 条｜国际 28 条
+新增核心线索：国内 29 条｜国际 40 条
+延续跟踪线索：国内 1 条｜国际 0 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-05-29] 市场监管总局批准发布血管芯片国家标准
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-05/29/content_524600.html
+1. [2026-05-30] 芝奇展示 CU-DIMM 内存条低压高频实力：1.1V 实现 9200CL74
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-05-30/doc-inhzrrex7180949.shtml
    角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
 
-2. [2026-05-29] 联发科首款2nm芯片！天玑9600系列完整前瞻：9月首批商用
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-05-29/doc-inhzqimk7898192.shtml
-   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
-
-3. [2026-05-29] 研究发现生态系统氮固持能力存在关键降水阈值
-   来源：中国科学院
-   链接：https://www.cas.cn/syky/202605/t20260528_5111059.shtml
-   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
-
-4. [2026-05-29] 对话矩阵超智张海星：从特斯拉到创业，人形机器人进家门还需几年？
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccm9450064.shtml
-   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
-
-5. [2026-05-29] 广州：推动人工智能产业跻身全国第一方阵 15:45
+2. [2026-05-30] 40余款AI大模型集中亮相2026世界智能产业博览会 08:50
    来源：网易科技
-   链接：https://www.163.com/dy/article/KU3VFP4E05198CJN.html
+   链接：https://www.163.com/dy/article/KU5Q5P010534A4SC.html
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
+3. [2026-05-30] 汽车早报｜启境GT7开启预售 特斯拉Optimus专属 08:34
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KU5P74BA0534A4SC.html
+   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
+
+4. [2026-05-30] 提供美国25%药物研发，药明康德为何屡遭打击？
+   来源：观察者网-产业科技
+   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
+   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
+
+5. [2026-05-30] 美国打压，能限制中国药企崛起吗？
+   来源：观察者网-产业科技
+   链接：https://www.guancha.cn/industry-science/2024_08_21_745527.shtml
+   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
+
 本次新增线索：
-- 市场监管总局批准发布血管芯片国家标准｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/29/content_524600.html
-- 联发科首款2nm芯片！天玑9600系列完整前瞻：9月首批商用｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-05-29/doc-inhzqimk7898192.shtml
-- 对话矩阵超智张海星：从特斯拉到创业，人形机器人进家门还需几年？｜新浪科技｜https://finance.sina.com.cn/roll/2026-05-29/doc-inhzqccm9450064.shtml
-- 广州：推动人工智能产业跻身全国第一方阵 15:45｜网易科技｜https://www.163.com/dy/article/KU3VFP4E05198CJN.html
-- 英伟达全球副总裁蒋涛：未来每一家企业都需要自 14:50｜网易科技｜https://www.163.com/dy/article/KU3SB4IF05198CJN.html
-- With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war｜AP Technology｜https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7
+- 芝奇展示 CU-DIMM 内存条低压高频实力：1.1V 实现 9200CL74｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-30/doc-inhzrrex7180949.shtml
+- 40余款AI大模型集中亮相2026世界智能产业博览会 08:50｜网易科技｜https://www.163.com/dy/article/KU5Q5P010534A4SC.html
+- 汽车早报｜启境GT7开启预售 特斯拉Optimus专属 08:34｜网易科技｜https://www.163.com/dy/article/KU5P74BA0534A4SC.html
+- 美国打压，能限制中国药企崛起吗？｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml
+- 萝卜快跑，慢就是快｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml
+- After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M｜TechCrunch｜https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（71 条，11 个来源）
-- 芯片/半导体：半导体供应链（26 条，8 个来源）
-- 机器人/具身智能：人形机器人与具身智能（22 条，8 个来源）
-- 新能源车/智能驾驶：新能源车动态（20 条，5 个来源）
-- 太空与低空经济：太空与低空动态（5 条，4 个来源）
-- 科学前沿：科学前沿与科研设施（30 条，8 个来源）
+- AI 应用：AI 应用与智能体（72 条，11 个来源）
+- 芯片/半导体：半导体供应链（23 条，8 个来源）
+- 机器人/具身智能：人形机器人与具身智能（22 条，10 个来源）
+- 新能源车/智能驾驶：新能源车动态（15 条，5 个来源）
+- 太空与低空经济：太空与低空动态（11 条，5 个来源）
+- 科学前沿：科学前沿与科研设施（35 条，9 个来源）
 
 国际科技背景：
-1. With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war｜AP Technology｜https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7
-2. Waymo dominates autonomous vehicle registrations as Tesla trails behind｜TechCrunch｜https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/
-3. Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders｜TechCrunch｜https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/
-4. The $6 Billion Chinese Startup Trying to Build Hands for Every Robot｜WIRED Business｜https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/
-5. Apple working to cram massive Gemini model into iPhone to power new Siri｜Ars Technica｜https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/
+1. After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M｜TechCrunch｜https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/
+2. Apple Loop: iPhone 18 Pro Details, WWDC’s Focus, Apple’s 2026 Hardware Plans｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-loop-iphone-18-pro-232830657.html
+3. New Apple iOS 27 Details Show It’s Time To Upgrade Your iPhone｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-ios-27-details-show-204216656.html
+4. 5 Older Apple Products Still Worth Buying In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/5-older-apple-products-still-223000588.html
+5. It’s Not You: Apple Music Outage Confirmed As Users Report Global Issues｜Yahoo News Technology｜https://tech.yahoo.com/streaming/articles/not-apple-music-outage-confirmed-212038381.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
