@@ -2,62 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/30 17:46:52
+生成时间：2026/5/31 09:35:20
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 6 条｜国际 1 条
-延续跟踪线索：国内 64 条｜国际 39 条
+新增核心线索：国内 21 条｜国际 12 条
+延续跟踪线索：国内 0 条｜国际 0 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-05-30] 提供美国25%药物研发，药明康德为何屡遭打击？
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
+1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响
+   来源：中国科学报
+   链接：https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm
+   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
+
+2. [2026-05-31] 国际参展人士在中国感知AI“热潮”
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-2. [2026-05-30] 美国打压，能限制中国药企崛起吗？
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/industry-science/2024_08_21_745527.shtml
-   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
-
-3. [2026-05-30] 萝卜快跑，慢就是快
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/industry-science/2024_08_21_745526.shtml
-   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
-
-4. [2026-05-30] 欧盟港停满中国车？“产能过剩”不背锅
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/industry-science/2024_07_26_742793.shtml
-   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
-
-5. [2026-05-30] AI 开始给人类打分：Claude 评分标准曝光，优秀人类得 7.5 分
+3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-05-30/doc-inhzshaq0195999.shtml
+   链接：https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml
    角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
 
+4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml
+   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
+
+5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html
+   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
+
 本次新增线索：
-- 澳大利亚一软件公司因转向 AI 裁掉数千名员工，CEO 收到暴力威胁｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-30/doc-inhzsnkn0119647.shtml
-- AI时代Win11安全神器沙箱值得强推 可惜被微软限制了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-30/doc-inhzsnki8643736.shtml
-- 多名特斯拉前员工坦言不信赖 FSD，更有人称“给钱我都不坐 Robotaxi”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-30/doc-inhzsnki8648203.shtml
-- 追觅拿下C罗和刘亦菲两大顶流代言！俞浩：虽然他们最贵 但想成为第一就和第一名同行｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-30/doc-inhzsnki8648632.shtml
-- 乘联分会崔东树：2026 年 1-4 月中国占世界汽车份额 31%，下半年预计逐步走强｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-30/doc-inhzsnkk7115466.shtml
-- It’s Not You: Apple Music Outage Confirmed As Users Report Global Issues — Now Resolved｜Yahoo News Technology｜https://tech.yahoo.com/streaming/articles/not-apple-music-outage-confirmed-212038381.html
+- 一颗流星在美国马萨诸塞州上空爆炸引发巨响｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm
+- 国际参展人士在中国感知AI“热潮”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html
+- 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml
+- 美防长：美伊谈判仍在继续 保留动武选项｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml
+- 我国成功发射卫星互联网技术试验卫星｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html
+- AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html
 
 今日热点方向：
-- AI 应用：AI动态（92 条，11 个来源）
-- 芯片/半导体：半导体供应链（21 条，9 个来源）
-- 机器人/具身智能：人形机器人与具身智能（19 条，8 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（12 条，5 个来源）
-- 太空与低空经济：太空与低空动态（5 条，5 个来源）
-- 科学前沿：科学前沿与科研设施（18 条，7 个来源）
+- AI 应用：AI动态（82 条，11 个来源）
+- 芯片/半导体：半导体供应链（20 条，8 个来源）
+- 机器人/具身智能：人形机器人与具身智能（24 条，8 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（14 条，5 个来源）
+- 太空与低空经济：太空与低空动态（5 条，4 个来源）
+- 科学前沿：科学前沿与科研设施（20 条，9 个来源）
 
 国际科技背景：
-1. After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M｜TechCrunch｜https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/
-2. Apple Loop: iPhone 18 Pro Details, WWDC’s Focus, Apple’s 2026 Hardware Plans｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-loop-iphone-18-pro-232830657.html
-3. OpenAI's proclaimed 'Toy Story' moment stalls after Sora shutdown sinks Cannes film debut｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/openais-proclaimed-toy-story-moment-072000047.html
-4. Apple iOS 27 Release Date: When You Can Download And Test The New iPhone Update｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/apple-ios-27-release-date-090000054.html
-5. Chinese solar leaders set new cell record with 28.2% efficiency｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/chinese-solar-leaders-set-cell-022000244.html
+1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html
+2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html
+3. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html
+4. SoftBank says it will invest up to €75 billion to build French data centers｜TechCrunch｜https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/
+5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs｜TechCrunch｜https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
