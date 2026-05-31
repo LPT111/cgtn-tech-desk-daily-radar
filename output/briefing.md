@@ -2,62 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/31 10:48:30
+生成时间：2026/5/31 18:00:53
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 13 条｜国际 2 条
-延续跟踪线索：国内 16 条｜国际 11 条
+新增核心线索：国内 47 条｜国际 10 条
+延续跟踪线索：国内 12 条｜国际 7 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-05-31] 提供美国25%药物研发，药明康德为何屡遭打击？
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
+1. [2026-05-31] 预售价21.99万元起，启境GT7同时瞄准尚界与小米SU7！
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhzuris4822218.shtml
+   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
+
+2. [2026-05-31] 国际参展人士在中国感知AI“热潮”
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-2. [2026-05-31] 美国打压，能限制中国药企崛起吗？
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/industry-science/2024_08_21_745527.shtml
-   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
+3. [2026-05-31] 桂海潮期待机器人航天员早日上太空
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-05/31/content_525433.html
+   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
-3. [2026-05-31] 萝卜快跑，慢就是快
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/industry-science/2024_08_21_745526.shtml
-   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
-
-4. [2026-05-31] 欧盟港停满中国车？“产能过剩”不背锅
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/industry-science/2024_07_26_742793.shtml
-   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
-
-5. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响
-   来源：中国科学报
-   链接：https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm
+4. [2026-05-31] 新职业新生活丨低空经济的新主角：无人机群飞行规划员
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-05/31/content_525387.html
    角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
 
+5. [2026-05-31] 难治肺癌迎新选择，靶向药疗效优于传统化疗
+   来源：中国科学报
+   链接：https://news.sciencenet.cn/htmlnews/2026/5/565741.shtm
+   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
+
 本次新增线索：
-- 提供美国25%药物研发，药明康德为何屡遭打击？｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
-- 美国打压，能限制中国药企崛起吗？｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml
-- 萝卜快跑，慢就是快｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml
-- 欧盟港停满中国车？“产能过剩”不背锅｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_07_26_742793.shtml
-- “超智算一号”算力卫星正式发布，北京石景山加速打造未来空间产业高地｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525276.html
-- Australian researchers teach brain cells to play 'Doom'｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/australian-researchers-teach-brain-cells-021519957.html
+- 预售价21.99万元起，启境GT7同时瞄准尚界与小米SU7！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhzuris4822218.shtml
+- 桂海潮期待机器人航天员早日上太空｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525433.html
+- 新职业新生活丨低空经济的新主角：无人机群飞行规划员｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525387.html
+- 难治肺癌迎新选择，靶向药疗效优于传统化疗｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565741.shtm
+- 2026年全国信标委“标准周”活动开启｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhzuvrm5890116.shtml
+- China’s factory activity slows in May, raising questions over its economy｜AP Technology｜https://apnews.com/article/china-manufacturing-economy-pmi-exports-783cddb4560c1ecf53b1678801cabf34
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（73 条，11 个来源）
-- 芯片/半导体：半导体供应链（20 条，7 个来源）
-- 机器人/具身智能：人形机器人与具身智能（24 条，9 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（14 条，4 个来源）
-- 太空与低空经济：太空与低空动态（4 条，3 个来源）
-- 科学前沿：科学前沿与科研设施（30 条，8 个来源）
+- AI 应用：AI 应用与智能体（80 条，11 个来源）
+- 芯片/半导体：半导体供应链（20 条，8 个来源）
+- 机器人/具身智能：人形机器人与具身智能（25 条，10 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（18 条，5 个来源）
+- 太空与低空经济：低空经济与无人机（4 条，3 个来源）
+- 科学前沿：科学前沿与科研设施（37 条，10 个来源）
 
 国际科技背景：
-1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html
-2. Australian researchers teach brain cells to play 'Doom'｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/australian-researchers-teach-brain-cells-021519957.html
-3. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html
-4. Anthropic Debuts More Honest AI Model As Competition Intensifies｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-debuts-more-honest-ai-013113830.html
-5. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html
+1. China’s factory activity slows in May, raising questions over its economy｜AP Technology｜https://apnews.com/article/china-manufacturing-economy-pmi-exports-783cddb4560c1ecf53b1678801cabf34
+2. How Turkey Hacked the Hair Transplant Industry｜WIRED Science｜https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/
+3. Netflix wiz creates app to slash AI bills, then open sources it｜The Register｜https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702
+4. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html
+5. Australian researchers teach brain cells to play 'Doom'｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/australian-researchers-teach-brain-cells-021519957.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
