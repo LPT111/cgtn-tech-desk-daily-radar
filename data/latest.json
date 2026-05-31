@@ -1,40 +1,76 @@
 {
-  "generatedAt": "2026-05-31T01:51:23.956Z",
+  "generatedAt": "2026-05-31T02:48:30.963Z",
   "radarVersion": "v2",
   "targetDate": "2026-05-31",
   "changeSummary": {
-    "domesticNew": 3,
-    "globalNew": 0,
-    "domesticContinued": 21,
-    "globalContinued": 12,
+    "domesticNew": 13,
+    "globalNew": 2,
+    "domesticContinued": 16,
+    "globalContinued": 11,
     "topNewDomestic": [
       {
-        "title": "6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6435249.shtml"
+        "title": "提供美国25%药物研发，药明康德为何屡遭打击？",
+        "source": "观察者网-产业科技",
+        "url": "https://www.guancha.cn/industry-science/2024_08_21_745528.shtml"
       },
       {
-        "title": "凌晨，发射成功！",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml"
+        "title": "美国打压，能限制中国药企崛起吗？",
+        "source": "观察者网-产业科技",
+        "url": "https://www.guancha.cn/industry-science/2024_08_21_745527.shtml"
       },
       {
-        "title": "海南省卫生健康科技创新联合项目立项清单公布",
-        "source": "中国科学报",
-        "url": "https://news.sciencenet.cn/htmlnews/2026/5/565711.shtm"
+        "title": "萝卜快跑，慢就是快",
+        "source": "观察者网-产业科技",
+        "url": "https://www.guancha.cn/industry-science/2024_08_21_745526.shtml"
+      },
+      {
+        "title": "欧盟港停满中国车？“产能过剩”不背锅",
+        "source": "观察者网-产业科技",
+        "url": "https://www.guancha.cn/industry-science/2024_07_26_742793.shtml"
+      },
+      {
+        "title": "“超智算一号”算力卫星正式发布，北京石景山加速打造未来空间产业高地",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-05/31/content_525276.html"
       }
     ],
-    "topNewGlobal": [],
+    "topNewGlobal": [
+      {
+        "title": "Australian researchers teach brain cells to play 'Doom'",
+        "source": "Yahoo News Technology",
+        "url": "https://tech.yahoo.com/science/articles/australian-researchers-teach-brain-cells-021519957.html"
+      },
+      {
+        "title": "Anthropic Debuts More Honest AI Model As Competition Intensifies",
+        "source": "Yahoo News Technology",
+        "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-debuts-more-honest-ai-013113830.html"
+      }
+    ],
     "hasPrevious": true
   },
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 28,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -54,9 +90,24 @@
   ],
   "failures": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -78,7 +129,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 183,
+      "parsed": 178,
       "failed": false,
       "optional": false
     },
@@ -128,7 +179,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -241,14 +293,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -325,18 +379,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1368,
+  "itemsSeen": 1363,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 540,
-  "itemsAfterDedupe": 376,
-  "todayItemsSeen": 24,
+  "itemsAfterRelevantFilter": 539,
+  "itemsAfterDedupe": 378,
+  "todayItemsSeen": 29,
   "suspectedItemsSeen": 1,
-  "skippedNonToday": 353,
+  "skippedNonToday": 347,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 183,
+      "parsed": 178,
       "failed": false,
       "optional": false
     },
@@ -386,7 +440,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -499,14 +554,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -623,7 +680,7 @@
     {
       "name": "Yahoo News Technology",
       "tier": "international",
-      "parsed": 233,
+      "parsed": 235,
       "failed": false,
       "optional": false
     },
@@ -737,9 +794,24 @@
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -776,8 +848,8 @@
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1225,
-  "globalItemsAfterRelevantFilter": 261,
+  "globalItemsSeen": 1227,
+  "globalItemsAfterRelevantFilter": 264,
   "topics": [
     {
       "topic": "AI 应用与智能体",
@@ -806,7 +878,7 @@
     },
     {
       "topic": "AI动态",
-      "count": 76,
+      "count": 79,
       "sourceCount": 10,
       "sources": [
         "新浪科技",
@@ -829,55 +901,32 @@
       ]
     },
     {
-      "topic": "科学前沿与科研设施",
-      "count": 33,
-      "sourceCount": 9,
-      "sources": [
-        "新浪科技",
-        "IT之家",
-        "网易科技",
-        "观察者网-产业科技",
-        "量子位",
-        "科技日报",
-        "中国科学院",
-        "中国科学报",
-        "新华网-科技"
-      ],
-      "items": [
-        "长安汽车董事长朱华荣：未来五年智能汽车将投入超1000亿元，新增10000科研人",
-        "OPPO Reno16 系列：“悬浮星球”背后，一项比美元防伪更难的工艺",
-        "希夏雕塑个展 用不锈钢材料赋予参与环境的特质",
-        "红魔散热器 8 Pro 霜月白特别版开售，首发 229 元",
-        "北京太空智算研究院在北京亦庄成立 19:15"
-      ]
-    },
-    {
       "topic": "人形机器人与具身智能",
-      "count": 25,
+      "count": 24,
       "sourceCount": 9,
       "sources": [
         "新浪科技",
         "IT之家",
         "网易科技",
+        "人民网-科技",
         "观察者网-产业科技",
         "量子位",
-        "中国科学院",
         "中国科学报",
-        "人民网-科技",
-        "新华网-科技"
+        "新华网-科技",
+        "光明网-科技"
       ],
       "items": [
         "不止伴舞还开嗓演唱！宇树机器人亮相王力宏演唱会 拿起话筒那一刻全场嗨翻",
-        "2B 参数“四两拨千斤”，智元自研世界模型 GE 2.0 登顶 WorldArena 榜单",
+        "20 亿美元机器人独角兽将民宿当实验室：多套 Airbnb 房源受损，房东发起诉讼",
         "小米米家扫拖机器人 6 Pro 国补探新低：水箱版 2343 元、上下水版 2665 元",
-        "大平层一次扫完：科沃斯 T90 PRO 活水洗地机器人 4499 → 3099 元上下水新低",
-        "4599 → 1699 元：石头 P10S Pro 扫拖机器人上市 2 年立打 3.69 折"
+        "2B 参数“四两拨千斤”，智元自研世界模型 GE 2.0 登顶 WorldArena 榜单",
+        "大平层一次扫完：科沃斯 T90 PRO 活水洗地机器人 4499 → 3099 元上下水新低"
       ]
     },
     {
       "topic": "国产 GPU / 算力基础设施",
-      "count": 22,
-      "sourceCount": 8,
+      "count": 23,
+      "sourceCount": 9,
       "sources": [
         "新浪科技",
         "IT之家",
@@ -885,6 +934,7 @@
         "观察者网-产业科技",
         "量子位",
         "TechNode",
+        "科技日报",
         "人民网-科技",
         "新华网-科技"
       ],
@@ -897,51 +947,52 @@
       ]
     },
     {
+      "topic": "科学前沿与科研设施",
+      "count": 30,
+      "sourceCount": 8,
+      "sources": [
+        "新浪科技",
+        "网易科技",
+        "观察者网-产业科技",
+        "量子位",
+        "科技日报",
+        "中国科学院",
+        "中国科学报",
+        "新华网-科技"
+      ],
+      "items": [
+        "城事日记津彩有你｜科幻照进现实！不用手不用嘴，脑机真的可以改变生活",
+        "长安汽车董事长朱华荣：未来五年智能汽车将投入超1000亿元，新增10000科研人",
+        "OPPO Reno16 系列：“悬浮星球”背后，一项比美元防伪更难的工艺",
+        "北京太空智算研究院在北京亦庄成立 19:15",
+        "“985”博导不如初中辍学的张雪？"
+      ]
+    },
+    {
       "topic": "商业航天与卫星互联网",
       "count": 14,
       "sourceCount": 8,
       "sources": [
         "新浪科技",
-        "科技日报",
+        "中国科学院",
         "中国科学报",
         "IT之家",
         "观察者网-产业科技",
-        "中国科学院",
+        "科技日报",
         "人民网-科技",
         "光明网-科技"
       ],
       "items": [
         "蓝色起源火箭在发射台爆炸 波及亚马逊卫星网络部署",
-        "凌晨，发射成功！",
-        "我国成功发射卫星互联网技术试验卫星",
+        "“微笑”卫星成功发射 中欧携手守望地球家园",
+        "NASA称将评估“新格伦”火箭爆炸对近期任务影响",
         "商业航天“国家队”添新丁 捷龙三号火箭有何特点？",
-        "NASA称将评估“新格伦”火箭爆炸对近期任务影响"
-      ]
-    },
-    {
-      "topic": "数字经济动态",
-      "count": 23,
-      "sourceCount": 7,
-      "sources": [
-        "新浪科技",
-        "中国科学报",
-        "IT之家",
-        "网易科技",
-        "观察者网-产业科技",
-        "中国科学院",
-        "光明网-科技"
-      ],
-      "items": [
-        "智利国家铜业公司新掌门强调利润优先与治理整顿 或放慢扩产步伐",
-        "海南省卫生健康科技创新联合项目立项清单公布",
-        "数字牛皮癣！人民日报评App窗口乱跳转：病根在畸形营利模式",
-        "白帽黑客公开 Windows 零日漏洞，微软强硬回应引争议",
-        "国际月经日：让“月经”被大方谈论"
+        "火箭大爆炸后，消息称蓝色起源发射至少中断 6 个月"
       ]
     },
     {
       "topic": "科学前沿动态",
-      "count": 23,
+      "count": 28,
       "sourceCount": 7,
       "sources": [
         "网易科技",
@@ -957,12 +1008,12 @@
         "杨雄里院士：脑机接口让人拥有读心术？有可",
         "翦知湣：极地研究进入“科学深耕”阶段",
         "工程热物理所等在压缩空气储能压缩机研发方面取得突破",
-        "南京地理所召开党委理论学习中心组学习（扩大）会"
+        "紫金山天文台举办公众科学日"
       ]
     },
     {
       "topic": "半导体供应链",
-      "count": 19,
+      "count": 20,
       "sourceCount": 7,
       "sources": [
         "新浪科技",
@@ -1003,27 +1054,47 @@
       ]
     },
     {
+      "topic": "数字经济动态",
+      "count": 20,
+      "sourceCount": 6,
+      "sources": [
+        "新浪科技",
+        "中国科学报",
+        "网易科技",
+        "观察者网-产业科技",
+        "中国科学院",
+        "光明网-科技"
+      ],
+      "items": [
+        "智利国家铜业公司新掌门强调利润优先与治理整顿 或放慢扩产步伐",
+        "海南省卫生健康科技创新联合项目立项清单公布",
+        "数字牛皮癣！人民日报评App窗口乱跳转：病根在畸形营利模式",
+        "国际月经日：让“月经”被大方谈论",
+        "ID.ERA 9X交付超7000辆，合资新能源大车挤入大 17:16"
+      ]
+    },
+    {
       "topic": "监管与安全动态",
       "count": 10,
       "sourceCount": 5,
       "sources": [
         "新浪科技",
-        "中国科学院",
         "网易科技",
         "观察者网-产业科技",
+        "中国科学院",
         "中国科学报"
       ],
       "items": [
-        "过程工程所安全氢基能源供热示范项目完成工况运行验证",
+        "东风奕派M8亮相粤港澳车展：搭载华为乾崑技术，将于三季度正式上市",
+        "小红书获世界杯版权，知情人士：价格未高于往届，保持理性克制",
         "深化供需战略协同 锚定星辰发展蓝图I中集车辆高层走访江浙核心合作伙伴，共筑全球领先产业生态",
-        "头部玩家争抢养老万亿蓝海 远洋椿萱茂轻资产模式能否突出重围？",
-        "微软启动 Win11 老式对话框大规模现代化重构，文件复制对话框已完成升级",
-        "宣布推迟期限：Wildberries中俄卖家佣金统一政策暂缓实施"
+        "工信部：前 4 个月我国软件业务收入 46686 亿元，同比增长 10.9%",
+        "微软启动 Win11 老式对话框大规模现代化重构，文件复制对话框已完成升级"
       ]
     },
     {
       "topic": "新能源车与智能驾驶",
-      "count": 13,
+      "count": 14,
       "sourceCount": 4,
       "sources": [
         "新浪科技",
@@ -1036,25 +1107,7 @@
         "10名中国车主起诉特斯拉FSD欺诈 索赔395万元",
         "新能源汽车动力电池退役高峰将至 回收赛道成掘金风口？",
         "一场发布会，比亚迪完成从车企到科技公司的身份重构",
-        "养护成本暴增40%！超重电车让全民买单 该不该限重引热议"
-      ]
-    },
-    {
-      "topic": "中美 AI 与科技政策",
-      "count": 5,
-      "sourceCount": 4,
-      "sources": [
-        "新浪科技",
-        "网易科技",
-        "TechNode",
-        "中国科学院"
-      ],
-      "items": [
-        "美防长：美伊谈判仍在继续 保留动武选项",
-        "扎克伯格深度专访：中美AI竞争完全错误，美国别想长期领先中国",
-        "China summons eight EV makers over OTA battery locking practices",
-        "Spanish Prime Minister Pedro Sánchez visits Xiaomi Technology Park in Beijing",
-        "中国科学院—马普学会高层对话会议在京召开"
+        "宁德时代首席科学家吴凯：今年将实现钠离子电池规模量产"
       ]
     },
     {
@@ -1075,22 +1128,6 @@
       ]
     },
     {
-      "topic": "芯片动态",
-      "count": 4,
-      "sourceCount": 3,
-      "sources": [
-        "新浪科技",
-        "IT之家",
-        "TechNode"
-      ],
-      "items": [
-        "让私有云存储更简单更可靠，海康存储MAGE50X",
-        "跑赢英伟达的，为什么是这群PC“老登”？",
-        "618 原价预约开启：英伟达 RTX 5070 FE 公版显卡京东 4599 元 20:00 开抢",
-        "Intel warns China of severe server CPU shortage as AI demand surges"
-      ]
-    },
-    {
       "topic": "太空与低空动态",
       "count": 4,
       "sourceCount": 3,
@@ -1107,16 +1144,45 @@
       ]
     },
     {
-      "topic": "数字基础设施与平台经济",
-      "count": 2,
+      "topic": "中美 AI 与科技政策",
+      "count": 4,
+      "sourceCount": 3,
+      "sources": [
+        "新浪科技",
+        "网易科技",
+        "TechNode"
+      ],
+      "items": [
+        "美防长：美伊谈判仍在继续 保留动武选项",
+        "扎克伯格深度专访：中美AI竞争完全错误，美国别想长期领先中国",
+        "China summons eight EV makers over OTA battery locking practices",
+        "Spanish Prime Minister Pedro Sánchez visits Xiaomi Technology Park in Beijing"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 4,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
-        "IT之家"
+        "TechNode"
       ],
       "items": [
-        "欧足联宣布阿里巴巴为官方独家AI、云计算和电商合作伙伴",
-        "工信部：前 4 个月我国软件业务收入 46686 亿元，同比增长 10.9%"
+        "让私有云存储更简单更可靠，海康存储MAGE50X",
+        "跑赢英伟达的，为什么是这群PC“老登”？",
+        "联想 NVIDIA N1X 笔电现身保加利亚电商，处理器包含 \"675\" \"650\" 等款式",
+        "Intel warns China of severe server CPU shortage as AI demand surges"
+      ]
+    },
+    {
+      "topic": "数字基础设施与平台经济",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "欧足联宣布阿里巴巴为官方独家AI、云计算和电商合作伙伴"
       ]
     },
     {
@@ -1132,6 +1198,118 @@
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "提供美国25%药物研发，药明康德为何屡遭打击？",
+      "summary": "首页 提供美国25%药物研发，药明康德为何屡遭打击？ 分享到： 美国如此敲打，德国仍“上赶着”… “美国没打算给欧洲留缓冲期” 美国多地传出巨响，还有人“看到了火球” 三部国产片入围主竞赛，张颂文、文淇分头冲击金爵帝后 又来，“中国要2027‘武统’，美军悄悄准备了…” 奔驰要被美国禁了，全怪中国？！ 最新报告：两岸厂",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2024_08_21_745528.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2024_08_21_745528.shtml"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 128,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "首页 提供美国25%药物研发，药明康德为何屡遭打击？ 分享到： 美国如此敲打，德国仍“上赶着”… “美国没打算给欧洲留缓冲期” 美国多地传出巨响，还有人“看到了火球” 三部国产片入围主竞赛，张颂文、文淇分头冲击金爵帝后 又来，“中国要2027‘武统’，美军悄悄准备了…” 奔驰要被美国禁了，全怪中国？！ 最新报告：两岸厂商崛起，日本20年掉10% “敏昂莱更依赖中国，但首访选了印度” 演员刘洵离世，曾出演《九品芝麻官》 “苏林避免批评中美” 美防长在香会对华“降调”，对欧“施压” 贝佐斯火箭一炸，“美国比中国慢了” AI中心遭抵制，美政客甩锅：中国在捣鬼 对华态度，德国硬起来了？ 美法官裁定：特",
+      "relatedTitles": [
+        "提供美国25%药物研发，药明康德为何屡遭打击？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "美国打压，能限制中国药企崛起吗？",
+      "summary": "首页 美国打压，能限制中国药企崛起吗？ 分享到： 美国如此敲打，德国仍“上赶着”… “美国没打算给欧洲留缓冲期” 美国多地传出巨响，还有人“看到了火球” 三部国产片入围主竞赛，张颂文、文淇分头冲击金爵帝后 又来，“中国要2027‘武统’，美军悄悄准备了…” 奔驰要被美国禁了，全怪中国？！ 最新报告：两岸厂商崛起，日本2",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2024_08_21_745527.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2024_08_21_745527.shtml"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "科学前沿",
+      "keywords": "scientific research, frontier science, research infrastructure",
+      "priority": 5,
+      "score": 128,
+      "format": "package",
+      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "首页 美国打压，能限制中国药企崛起吗？ 分享到： 美国如此敲打，德国仍“上赶着”… “美国没打算给欧洲留缓冲期” 美国多地传出巨响，还有人“看到了火球” 三部国产片入围主竞赛，张颂文、文淇分头冲击金爵帝后 又来，“中国要2027‘武统’，美军悄悄准备了…” 奔驰要被美国禁了，全怪中国？！ 最新报告：两岸厂商崛起，日本20年掉10% “敏昂莱更依赖中国，但首访选了印度” 演员刘洵离世，曾出演《九品芝麻官》 “苏林避免批评中美” 美防长在香会对华“降调”，对欧“施压” 贝佐斯火箭一炸，“美国比中国慢了” AI中心遭抵制，美政客甩锅：中国在捣鬼 对华态度，德国硬起来了？ 美法官裁定：特朗普，NO 美",
+      "relatedTitles": [
+        "美国打压，能限制中国药企崛起吗？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "萝卜快跑，慢就是快",
+      "summary": "首页 萝卜快跑，慢就是快 分享到： 美国如此敲打，德国仍“上赶着”… “美国没打算给欧洲留缓冲期” 美国多地传出巨响，还有人“看到了火球” 三部国产片入围主竞赛，张颂文、文淇分头冲击金爵帝后 又来，“中国要2027‘武统’，美军悄悄准备了…” 奔驰要被美国禁了，全怪中国？！ 最新报告：两岸厂商崛起，日本20年掉10% ",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2024_08_21_745526.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2024_08_21_745526.shtml"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 128,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "首页 萝卜快跑，慢就是快 分享到： 美国如此敲打，德国仍“上赶着”… “美国没打算给欧洲留缓冲期” 美国多地传出巨响，还有人“看到了火球” 三部国产片入围主竞赛，张颂文、文淇分头冲击金爵帝后 又来，“中国要2027‘武统’，美军悄悄准备了…” 奔驰要被美国禁了，全怪中国？！ 最新报告：两岸厂商崛起，日本20年掉10% “敏昂莱更依赖中国，但首访选了印度” 演员刘洵离世，曾出演《九品芝麻官》 “苏林避免批评中美” 美防长在香会对华“降调”，对欧“施压” 贝佐斯火箭一炸，“美国比中国慢了” AI中心遭抵制，美政客甩锅：中国在捣鬼 对华态度，德国硬起来了？ 美法官裁定：特朗普，NO 美财长尬吹：面对",
+      "relatedTitles": [
+        "萝卜快跑，慢就是快"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "欧盟港停满中国车？“产能过剩”不背锅",
+      "summary": "首页 欧盟港停满中国车？“产能过剩”不背锅 分享到： 美国如此敲打，德国仍“上赶着”… “美国没打算给欧洲留缓冲期” 美国多地传出巨响，还有人“看到了火球” 三部国产片入围主竞赛，张颂文、文淇分头冲击金爵帝后 又来，“中国要2027‘武统’，美军悄悄准备了…” 奔驰要被美国禁了，全怪中国？！ 最新报告：两岸厂商崛起，日",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2024_07_26_742793.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2024_07_26_742793.shtml"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 128,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "首页 欧盟港停满中国车？“产能过剩”不背锅 分享到： 美国如此敲打，德国仍“上赶着”… “美国没打算给欧洲留缓冲期” 美国多地传出巨响，还有人“看到了火球” 三部国产片入围主竞赛，张颂文、文淇分头冲击金爵帝后 又来，“中国要2027‘武统’，美军悄悄准备了…” 奔驰要被美国禁了，全怪中国？！ 最新报告：两岸厂商崛起，日本20年掉10% “敏昂莱更依赖中国，但首访选了印度” 演员刘洵离世，曾出演《九品芝麻官》 “苏林避免批评中美” 美防长在香会对华“降调”，对欧“施压” 贝佐斯火箭一炸，“美国比中国慢了” AI中心遭抵制，美政客甩锅：中国在捣鬼 对华态度，德国硬起来了？ 美法官裁定：特朗普，NO",
+      "relatedTitles": [
+        "欧盟港停满中国车？“产能过剩”不背锅"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly9uZXdzLnNj",
       "title": "一颗流星在美国马萨诸塞州上空爆炸引发巨响",
@@ -1190,34 +1368,6 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」",
-      "summary": "IT之家 5 月 31 日消息，小米汽车官方昨日发布答网友问（第 250 集），针对 YU7 GT 的车身材质和 YU7 其他配置是否有区别、天际屏放歌词功能如何开启等问题进行了解答。IT之家附本期小米汽车答网友问重点内容如下：小米人车家全...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml"
-      ],
-      "publishedAt": "2026-05-31",
-      "date": "2026-05-31",
-      "category": "监管与安全",
-      "keywords": "data security, privacy protection, regulatory framework",
-      "priority": 5,
-      "score": 105,
-      "format": "live",
-      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
-      "status": "confirmed_today",
-      "matchedTopic": "科技监管与数据安全",
-      "rawText": "IT之家 5 月 31 日消息，小米汽车官方昨日发布答网友问（第 250 集），针对 YU7 GT 的车身材质和 YU7 其他配置是否有区别、天际屏放歌词功能如何开启等问题进行了解答。IT之家附本期小米汽车答网友问重点内容如下：小米人车家全...",
-      "relatedTitles": [
-        "小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "美防长：美伊谈判仍在继续 保留动武选项",
       "summary": "据央视新闻消息，当地时间5月30日，美国国防部长赫格塞思在新加坡香格里拉对话会上表示，美方力求美伊谈判达成协议，但若双方谈判无果，美方已做好重启军事打击的准备。△赫格塞思（资料图）此前一天，美国总统特朗普就伊朗局势在白宫战情室召开会议，但未...",
       "source": "新浪科技",
@@ -1247,7 +1397,7 @@
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "我国成功发射卫星互联网技术试验卫星",
-      "summary": "首页 我国成功发射通信技术试验卫星二十四号 分享到： 微信公众号“我们的太空”消息，北京时间2026年5月27日00时16分，我国在文昌航天发射场使用长征七号改运载火箭，成功将通信技术试验卫星二十四号发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于开展多频段、高速率卫星通信技术验证。 此次任务是长征",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 我国成功发射卫星互联网技术试验卫星 2026-05-31 08:46:38 来源: 新华网 点击数： 热点",
       "source": "科技日报",
       "sources": [
         "科技日报"
@@ -1273,17 +1423,73 @@
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "“超智算一号”算力卫星正式发布，北京石景山加速打造未来空间产业高地",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 “超智算一号”算力卫星正式发布，北京石景山加速打造未来空间产业高地 2026-05-31 10:13:36 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/31/content_525276.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-05/31/content_525276.html"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "priority": 5,
+      "score": 95,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 “超智算一号”算力卫星正式发布，北京石景山加速打造未来空间产业高地 2026-05-31 10:13:36 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "“超智算一号”算力卫星正式发布，北京石景山加速打造未来空间产业高地"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "软银豪掷 750 亿欧元，在法国建设 5 吉瓦 AI 数据中心",
-      "summary": "IT之家 5 月 31 日消息，软银集团今日宣布，计划投入至多 750 亿欧元（IT之家注：现汇率约合 5921.39 亿元人民币），在法国扩建数据中心。该企业表示，此次规划旨在新增建设并运营总功率最高达 5 吉瓦的数据中心设施。项目首期将...",
+      "title": "AI权威清洗： 一张肉眼难辨的图片，就能让GPT-5.4、Claude Opus 4.6集体造谣",
+      "summary": "Claude Mythos架构被22岁小伙“逆推”开源了！MoE和注意力借鉴DeepSeek 整合了公开研究和目前对Claude Mythos架构的主流推测 梦晨 2026-04-20 Claude Claude实名认证引众怒！强制验证是为了更精准封号 Opus自己都看不下去了 梦晨 2026-04-16 Claude",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztucv9533345.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5086320.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztucv9533345.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5086320.shtml"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 92,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "不知道你有没有发现，最近一两年，\"问问 AI\" 已经悄悄变成了很多人求证信息时的默认姿势。在 推特（X）上刷到一张耸人听闻的现场图，第一反应是 @Grok 让它鉴定真伪；小红书上看到一份帖子，可以直接 @问一问 ai 让它回...",
+      "relatedTitles": [
+        "AI权威清洗： 一张肉眼难辨的图片，就能让GPT-5.4、Claude Opus 4.6集体造谣"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "戴尔诺基亚又回来了！AI重估老牌科技公司",
+      "summary": "戴尔诺基亚又回来了！市值暴涨1.7万亿美元，AI开始重估老牌科技公司,服务器,思科,戴尔,内存,诺基亚,美光",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/tech/article/KU8GIRNA00097U7T.html",
+      "sourceUrls": [
+        "https://www.163.com/tech/article/KU8GIRNA00097U7T.html"
       ],
       "publishedAt": "2026-05-31",
       "date": "2026-05-31",
@@ -1295,37 +1501,9 @@
       "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
       "status": "confirmed_today",
       "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "IT之家 5 月 31 日消息，软银集团今日宣布，计划投入至多 750 亿欧元（IT之家注：现汇率约合 5921.39 亿元人民币），在法国扩建数据中心。该企业表示，此次规划旨在新增建设并运营总功率最高达 5 吉瓦的数据中心设施。项目首期将...",
+      "rawText": "戴尔诺基亚又回来了！市值暴涨1.7万亿美元，AI开始重估老牌科技公司,服务器,思科,戴尔,内存,诺基亚,美光",
       "relatedTitles": [
-        "软银豪掷 750 亿欧元，在法国建设 5 吉瓦 AI 数据中心"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "AI时代，艺术创作更需要“好创意”+“好表达”",
-      "summary": "■知名美术评论家 陈国辉 技术迭代的加速，让“AI取代画家”的焦虑正在艺术界蔓延。算法能生成逼真的肖像、模仿梵高的笔触、合成梦幻的风景，甚至在几分钟内完成人类数小时的劳作。面对这样的冲击，艺术创作的核心竞争力究竟何在？在“诗性...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztiqh5343640.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztiqh5343640.shtml"
-      ],
-      "publishedAt": "2026-05-31",
-      "date": "2026-05-31",
-      "category": "AI",
-      "keywords": "AI applications, large language models, AI governance, productivity",
-      "priority": 5,
-      "score": 92,
-      "format": "package",
-      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "■知名美术评论家 陈国辉 技术迭代的加速，让“AI取代画家”的焦虑正在艺术界蔓延。算法能生成逼真的肖像、模仿梵高的笔触、合成梦幻的风景，甚至在几分钟内完成人类数小时的劳作。面对这样的冲击，艺术创作的核心竞争力究竟何在？在“诗性...",
-      "relatedTitles": [
-        "AI时代，艺术创作更需要“好创意”+“好表达”"
+        "戴尔诺基亚又回来了！AI重估老牌科技公司"
       ]
     },
     {
@@ -1386,6 +1564,62 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "城事日记津彩有你｜科幻照进现实！不用手不用嘴，脑机真的可以改变生活",
+      "summary": "本文转自【津融媒】；2026世界智能产业博览会在天津举办期间，天津全市16家脑机接口企业集中亮相。在N25综合馆，脑机接口展区备受各界瞩目，其展示的脑机海河实验室、孵化企业中电云脑和南开大学相关科研团队成果，成为媒体聚焦、市民踊跃参观体验的...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/roll/2026-05-31/doc-inhztymy5078291.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/roll/2026-05-31/doc-inhztymy5078291.shtml"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "科学前沿",
+      "keywords": "scientific research, frontier science, research infrastructure",
+      "priority": 5,
+      "score": 87,
+      "format": "package",
+      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿与科研设施",
+      "rawText": "本文转自【津融媒】；2026世界智能产业博览会在天津举办期间，天津全市16家脑机接口企业集中亮相。在N25综合馆，脑机接口展区备受各界瞩目，其展示的脑机海河实验室、孵化企业中电云脑和南开大学相关科研团队成果，成为媒体聚焦、市民踊跃参观体验的...",
+      "relatedTitles": [
+        "城事日记津彩有你｜科幻照进现实！不用手不用嘴，脑机真的可以改变生活"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "低价替代品要来了！尼康CEO：将以价格优势打破ASML光刻机垄断",
+      "summary": "快科技5月31日消息，在荷兰ASML几乎垄断全球光刻机市场的背景下，日本光刻巨头尼康正准备发起反击。日本尼康新任总裁兼CEO大村泰弘（Yasuhiro Omura）近日接受《日经亚洲》专访时透露，公司将通过大幅降低ArF（氟化氩）沉浸式光刻...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-05-31/doc-inhztymt9472078.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-05-31/doc-inhztymt9472078.shtml"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "芯片",
+      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
+      "priority": 5,
+      "score": 87,
+      "format": "graphic",
+      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "快科技5月31日消息，在荷兰ASML几乎垄断全球光刻机市场的背景下，日本光刻巨头尼康正准备发起反击。日本尼康新任总裁兼CEO大村泰弘（Yasuhiro Omura）近日接受《日经亚洲》专访时透露，公司将通过大幅降低ArF（氟化氩）沉浸式光刻...",
+      "relatedTitles": [
+        "低价替代品要来了！尼康CEO：将以价格优势打破ASML光刻机垄断"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶",
       "summary": "一群特斯拉爱好者，驾驶车辆从温哥华到哈利法克斯，全程 3760 英里（约 6051 公里）完全由 FSD V14.3.3 版本系统自主完成，包括驶入高速、应对天气、通过施工路段及自动泊车，全程无任何人工介入。这标志着自动驾驶技术向无监督落地迈出关键一步。#特斯拉 FSD# #自动驾驶#",
       "source": "新浪科技",
@@ -1410,62 +1644,6 @@
       "rawText": "IT之家 5 月 31 日消息，特斯拉车主在北美成功完成了一项曾被视作自动驾驶测试领域终极目标的挑战。一群热衷电动汽车的爱好者，完成了全球首趟全程无人工干预、横穿加拿大的不间断自动驾驶之旅，车辆在纵贯整个加拿大的行驶过程中，所有操作全部由 ...",
       "relatedTitles": [
         "6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "凌晨，发射成功！",
-      "summary": "◎ 科技日报记者 付毅飞记者从中国航天科技集团获悉，5月31日2时07分，长征二号丁运载火箭在西昌卫星发射中心点火起飞，随后将卫星互联网技术试验卫星送入预定轨道，发射任务取得圆满成功。长征二号丁运载火箭是中国航天科技集团八院抓总研制的常温液...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml"
-      ],
-      "publishedAt": "2026-05-31",
-      "date": "2026-05-31",
-      "category": "太空与低空",
-      "keywords": "low-altitude economy, commercial space, satellite internet",
-      "priority": 5,
-      "score": 87,
-      "format": "video",
-      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
-      "status": "confirmed_today",
-      "matchedTopic": "商业航天与卫星互联网",
-      "rawText": "◎ 科技日报记者 付毅飞记者从中国航天科技集团获悉，5月31日2时07分，长征二号丁运载火箭在西昌卫星发射中心点火起飞，随后将卫星互联网技术试验卫星送入预定轨道，发射任务取得圆满成功。长征二号丁运载火箭是中国航天科技集团八院抓总研制的常温液...",
-      "relatedTitles": [
-        "凌晨，发射成功！"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "白帽黑客公开 Windows 零日漏洞，微软强硬回应引争议",
-      "summary": "IT之家 5 月 31 日消息，Windows 是全球使用范围最广的操作系统，它和微软旗下云服务 Azure 频频成为黑客攻击与漏洞利用的目标。据IT之家了解，为应对网络攻击，微软长期和各类安全研究员（也就是常说的白帽黑客）展开合作。这些研...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztucu6511709.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztucu6511709.shtml"
-      ],
-      "publishedAt": "2026-05-31",
-      "date": "2026-05-31",
-      "category": "数字经济",
-      "keywords": "digital economy, data infrastructure, cloud computing",
-      "priority": 5,
-      "score": 87,
-      "format": "graphic",
-      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
-      "status": "confirmed_today",
-      "matchedTopic": "数字经济动态",
-      "rawText": "IT之家 5 月 31 日消息，Windows 是全球使用范围最广的操作系统，它和微软旗下云服务 Azure 频频成为黑客攻击与漏洞利用的目标。据IT之家了解，为应对网络攻击，微软长期和各类安全研究员（也就是常说的白帽黑客）展开合作。这些研...",
-      "relatedTitles": [
-        "白帽黑客公开 Windows 零日漏洞，微软强硬回应引争议"
       ]
     },
     {
@@ -1578,6 +1756,118 @@
       "rawText": "来源：央视新闻客户端 发布时间：2026/5/31 7:49:42 神舟二十一号乘组实现多个首次突破 5月29日20时11分，神舟二十二号飞船返回舱以难得的直立姿态准确着陆在了东风着陆场的预定区域，神舟二十一号乘组三名航天员张陆、武飞、张洪章结束太空出差，顺利回家。每一次向着浩瀚宇宙出发，航天员不仅要在空间站里完成一系列既定任务，更要带着丰硕成果平安归来，任务才算是画上圆满句号。这次神舟二十一号乘组在轨近7个月，不仅从太空家园带回了珍贵的实验样品，带回了面对计划外状况应变的宝贵经验，也带回了我国航天员单个乘组在轨驻留的最长时间纪录。 5月30日凌晨，在中国科学院空间应用工程与技术中心，聚集了一",
       "relatedTitles": [
         "神舟二十一号乘组实现多个首次突破"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLnNj",
+      "title": "福建省科技厅征集省“揭榜挂帅”项目重大技术需求",
+      "summary": "来源：福建省科学技术厅 发布时间：2026/5/31 10:22:02 福建省科技厅征集省“揭榜挂帅”项目重大技术需求 福建省科学技术厅关于征集2026年度第一轮省“揭榜挂帅”项目重大技术需求的通知 各有关单位： 为深入贯彻习近平总书记来闽考察时的重要讲话精神，聚焦科技创新与产业创新深度融合，按照省委、省政府工作部署，",
+      "source": "中国科学报",
+      "sources": [
+        "中国科学报"
+      ],
+      "sourceTier": "research",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565712.shtm",
+      "sourceUrls": [
+        "https://news.sciencenet.cn/htmlnews/2026/5/565712.shtm"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "科学前沿",
+      "keywords": "scientific research, frontier science, research infrastructure",
+      "priority": 5,
+      "score": 79,
+      "format": "package",
+      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿与科研设施",
+      "rawText": "来源：福建省科学技术厅 发布时间：2026/5/31 10:22:02 福建省科技厅征集省“揭榜挂帅”项目重大技术需求 福建省科学技术厅关于征集2026年度第一轮省“揭榜挂帅”项目重大技术需求的通知 各有关单位： 为深入贯彻习近平总书记来闽考察时的重要讲话精神，聚焦科技创新与产业创新深度融合，按照省委、省政府工作部署，深入推行“揭榜挂帅”等科研攻关机制，梳理我省重点产业发展中亟须解决的关键技术难题，大力推进关键核心技术攻关，进一步提升重点产业自主创新能力和核心竞争力。 经研究，决定面向福建省内（不含计划单列市）龙头企业、骨干企业、高等院校、科研院所等征集2026年度省“揭榜挂帅”项目需求，征集",
+      "relatedTitles": [
+        "福建省科技厅征集省“揭榜挂帅”项目重大技术需求"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "123 云盘：将对长期未登录的免费用户进行服务冻结",
+      "summary": "IT之家 5 月 31 日消息，123 云盘今日发布《关于沉默用户服务冻结的通知》，称为积极响应国家绿色低碳发展号召，合理优化服务器资源，提升整体服务稳定性与用户体验，同时更好地保障活跃用户的数据安全，将对长期未登录的免费用户进行服务冻结。...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6445665.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6445665.shtml"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "priority": 5,
+      "score": 77,
+      "format": "graphic",
+      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "IT之家 5 月 31 日消息，123 云盘今日发布《关于沉默用户服务冻结的通知》，称为积极响应国家绿色低碳发展号召，合理优化服务器资源，提升整体服务稳定性与用户体验，同时更好地保障活跃用户的数据安全，将对长期未登录的免费用户进行服务冻结。...",
+      "relatedTitles": [
+        "123 云盘：将对长期未登录的免费用户进行服务冻结"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "联想 NVIDIA N1X 笔电现身保加利亚电商，处理器包含 \"675\" \"650\" 等款式",
+      "summary": "IT之家 5 月 31 日消息，参考德媒 WinFuture 报道和IT之家搜索确认，已有个别保加利亚电商平台上架了搭载 NVIDIA（英伟达）N1X / N1 处理器的联想 (Lenovo) Yoga Pro 7 创意笔记本电脑：这一笔记...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztymy5080798.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztymy5080798.shtml"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "芯片",
+      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
+      "priority": 5,
+      "score": 77,
+      "format": "graphic",
+      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "IT之家 5 月 31 日消息，参考德媒 WinFuture 报道和IT之家搜索确认，已有个别保加利亚电商平台上架了搭载 NVIDIA（英伟达）N1X / N1 处理器的联想 (Lenovo) Yoga Pro 7 创意笔记本电脑：这一笔记...",
+      "relatedTitles": [
+        "联想 NVIDIA N1X 笔电现身保加利亚电商，处理器包含 \"675\" \"650\" 等款式"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "工信部：前 4 个月我国软件业务收入 46686 亿元，同比增长 10.9%",
+      "summary": "IT之家 5 月 31 日消息，工信部今日发布公告，2026 年前 4 个月，我国软件和信息技术服务业（IT之家注意：以下简称“软件业”）运行平稳，软件业务收入稳健增长，利润总额增势放缓，软件业务出口保持正增长。前 4 个月，我国软件业务收...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6439255.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6439255.shtml"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "监管与安全",
+      "keywords": "data security, privacy protection, regulatory framework",
+      "priority": 5,
+      "score": 77,
+      "format": "live",
+      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
+      "status": "confirmed_today",
+      "matchedTopic": "监管与安全动态",
+      "rawText": "IT之家 5 月 31 日消息，工信部今日发布公告，2026 年前 4 个月，我国软件和信息技术服务业（IT之家注意：以下简称“软件业”）运行平稳，软件业务收入稳健增长，利润总额增势放缓，软件业务出口保持正增长。前 4 个月，我国软件业务收...",
+      "relatedTitles": [
+        "工信部：前 4 个月我国软件业务收入 46686 亿元，同比增长 10.9%"
       ]
     },
     {
@@ -1719,90 +2009,6 @@
       "relatedTitles": [
         "因北汽、吉利两家中国车企持股近20% 奔驰或会被“赶出”美国"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "宣布推迟期限：Wildberries中俄卖家佣金统一政策暂缓实施",
-      "summary": "【亿邦原创】5月31日消息，日前，Wildberries原定统一俄罗斯与中国卖家佣金政策的最后期限悄然过去，平但台并未实施任何变更。该公司新闻处已向俄新社证实，相关计划已被推迟，且未公布新的实施日期。今年4月初，运营Wildberries的...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztucv9522333.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztucv9522333.shtml"
-      ],
-      "publishedAt": "2026-05-31",
-      "date": "2026-05-31",
-      "category": "监管与安全",
-      "keywords": "data security, privacy protection, regulatory framework",
-      "priority": 5,
-      "score": 77,
-      "format": "live",
-      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
-      "status": "confirmed_today",
-      "matchedTopic": "监管与安全动态",
-      "rawText": "【亿邦原创】5月31日消息，日前，Wildberries原定统一俄罗斯与中国卖家佣金政策的最后期限悄然过去，平但台并未实施任何变更。该公司新闻处已向俄新社证实，相关计划已被推迟，且未公布新的实施日期。今年4月初，运营Wildberries的...",
-      "relatedTitles": [
-        "宣布推迟期限：Wildberries中俄卖家佣金统一政策暂缓实施"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "书法不是信手涂鸦 是与心灵的深度对话",
-      "summary": "■收藏周刊记者 梁志钦 实习生 梁德浩 ●编者按 毕加索曾说：“我能用很短的时间就画得像一位大师，却要用一生去学习画得像一个儿童。”儿童笔下的天真、真诚、大胆在毕加索看来是如此的难能可贵，我们也尝尝从成人的视角去评判儿童...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztipz9717771.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztipz9717771.shtml"
-      ],
-      "publishedAt": "2026-05-31",
-      "date": "2026-05-31",
-      "category": "监管与安全",
-      "keywords": "data security, privacy protection, regulatory framework",
-      "priority": 5,
-      "score": 77,
-      "format": "live",
-      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
-      "status": "confirmed_today",
-      "matchedTopic": "监管与安全动态",
-      "rawText": "■收藏周刊记者 梁志钦 实习生 梁德浩 ●编者按 毕加索曾说：“我能用很短的时间就画得像一位大师，却要用一生去学习画得像一个儿童。”儿童笔下的天真、真诚、大胆在毕加索看来是如此的难能可贵，我们也尝尝从成人的视角去评判儿童...",
-      "relatedTitles": [
-        "书法不是信手涂鸦 是与心灵的深度对话"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "希夏雕塑个展 用不锈钢材料赋予参与环境的特质",
-      "summary": "日前，“四季倒影：光之镜中的自然——赫利顿·希夏个展”在广东美术馆新馆开展。本次展览集中呈现希夏近期围绕光、自然与环境创作的多件大型雕塑作品，如基于珠江水流形态创作的《珠江之光》，以及通过色彩与材料变化表现四季感知差异的《春光》《夏...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztipy6701845.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztipy6701845.shtml"
-      ],
-      "publishedAt": "2026-05-31",
-      "date": "2026-05-31",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 77,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "日前，“四季倒影：光之镜中的自然——赫利顿·希夏个展”在广东美术馆新馆开展。本次展览集中呈现希夏近期围绕光、自然与环境创作的多件大型雕塑作品，如基于珠江水流形态创作的《珠江之光》，以及通过色彩与材料变化表现四季感知差异的《春光》《夏...",
-      "relatedTitles": [
-        "希夏雕塑个展 用不锈钢材料赋予参与环境的特质"
-      ]
     }
   ],
   "suspectedLeads": [
@@ -1855,10 +2061,44 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Australian researchers teach brain cells to play 'Doom'",
+      "summary": "Australian researchers have trained lab-grown brain cells on a silicon computer chip to play the nineties shooter \"Doom\" and say they are just scratching the surface of what the ne",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/science/articles/australian-researchers-teach-brain-cells-021519957.html",
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "region": "US",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
+      "priority": 4,
+      "score": 60,
+      "status": "confirmed_today"
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "What Happened To CompUSA? Why The Nostalgic Tech Store Failed",
       "summary": "Once upon a time, CompUSA was one of the biggest electronics retailers in the market, so what caused the tech giant to suddenly fail?",
       "source": "Yahoo News Technology",
       "url": "https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html",
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "region": "US",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
+      "priority": 4,
+      "score": 60,
+      "status": "confirmed_today"
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic Debuts More Honest AI Model As Competition Intensifies",
+      "summary": "Anthropic has rolled out Claude Opus 4.8, replacing Opus 4.7 with improved performance and new controls for consumers and developers. The update delivers stronger results across a ",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-debuts-more-honest-ai-013113830.html",
       "publishedAt": "2026-05-31",
       "date": "2026-05-31",
       "region": "US",
@@ -2022,27 +2262,10 @@
       "priority": 4,
       "score": 45,
       "status": "confirmed_today"
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "10 Brutal Mistakes Every New Drone Pilot Makes",
-      "summary": "Being a new drone pilot, you can make a lot of mistakes. Join Danny as he shows off some of the most common occurrences.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/cameras/articles/10-brutal-mistakes-every-drone-190002604.html",
-      "publishedAt": "2026-05-31",
-      "date": "2026-05-31",
-      "region": "US",
-      "category": "数字经济",
-      "keywords": "digital economy, data infrastructure, cloud computing",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
-      "priority": 4,
-      "score": 45,
-      "status": "confirmed_today"
     }
   ],
-  "brief": "ChenChen 今日中国科技热点｜2026-05-31｜v2\n生成时间：2026/5/31 09:51:23\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2593｜确认今日 24｜国际背景 12\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 21 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响\n   中国科学报｜2026-05-31｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n2. [2026-05-31] 国际参展人士在中国感知AI“热潮”\n   科技日报｜2026-05-31｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」\n   新浪科技｜2026-05-31｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项\n   新浪科技｜2026-05-31｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星\n   科技日报｜2026-05-31｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6435249.shtml\n- 凌晨，发射成功！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml\n- 海南省卫生健康科技创新联合项目立项清单公布｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565711.shtm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（73 条，11 个来源）\n- 芯片/半导体：半导体供应链（19 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（25 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（13 条，4 个来源）\n- 太空与低空经济：太空与低空动态（4 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（33 条，9 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\n3. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\n4. SoftBank says it will invest up to €75 billion to build French data centers｜TechCrunch｜https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\n5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs｜TechCrunch｜https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-31｜v2\n生成时间：2026/5/31 09:51:23\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2593｜确认今日 24｜国际背景 12\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 21 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响\n   中国科学报｜2026-05-31｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n2. [2026-05-31] 国际参展人士在中国感知AI“热潮”\n   科技日报｜2026-05-31｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」\n   新浪科技｜2026-05-31｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项\n   新浪科技｜2026-05-31｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星\n   科技日报｜2026-05-31｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6435249.shtml\n- 凌晨，发射成功！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml\n- 海南省卫生健康科技创新联合项目立项清单公布｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565711.shtm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（73 条，11 个来源）\n- 芯片/半导体：半导体供应链（19 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（25 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（13 条，4 个来源）\n- 太空与低空经济：太空与低空动态（4 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（33 条，9 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\n3. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\n4. SoftBank says it will invest up to €75 billion to build French data centers｜TechCrunch｜https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\n5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs｜TechCrunch｜https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-31｜生成时间：2026/5/31 09:51:23｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2593｜确认今日 24｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 21 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响</strong>\n      <span>中国科学报｜2026-05-31｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-31] 国际参展人士在中国感知AI“热潮”</strong>\n      <span>科技日报｜2026-05-31｜<a href=\"https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」</strong>\n      <span>新浪科技｜2026-05-31｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项</strong>\n      <span>新浪科技｜2026-05-31｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星</strong>\n      <span>科技日报｜2026-05-31｜<a href=\"https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. AWOL Aetherion Pro Projector Now Commercially Available</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. 5 Free AI Tools That Might Actually Save You Time In 2026</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. SoftBank says it will invest up to €75 billion to build French data centers</strong>\n      <span>时间：Sat, 30 May 2026 21:45:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs</strong>\n      <span>时间：Sat, 30 May 2026 16:30:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/31 09:51:23\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 21 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n2. [2026-05-31] 国际参展人士在中国感知AI“热潮”\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6435249.shtml\n- 凌晨，发射成功！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml\n- 海南省卫生健康科技创新联合项目立项清单公布｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565711.shtm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（73 条，11 个来源）\n- 芯片/半导体：半导体供应链（19 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（25 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（13 条，4 个来源）\n- 太空与低空经济：太空与低空动态（4 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（33 条，9 个来源）\n\n国际科技背景：\n1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\n3. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\n4. SoftBank says it will invest up to €75 billion to build French data centers｜TechCrunch｜https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\n5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs｜TechCrunch｜https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "ChenChen 今日中国科技热点｜2026-05-31｜v2\n生成时间：2026/5/31 10:48:30\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2590｜确认今日 29｜国际背景 13\n\n本次更新：\n新增核心线索：国内 13 条｜国际 2 条\n延续跟踪线索：国内 16 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-31] 提供美国25%药物研发，药明康德为何屡遭打击？\n   观察者网-产业科技｜2026-05-31｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-31] 美国打压，能限制中国药企崛起吗？\n   观察者网-产业科技｜2026-05-31｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n3. [2026-05-31] 萝卜快跑，慢就是快\n   观察者网-产业科技｜2026-05-31｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n4. [2026-05-31] 欧盟港停满中国车？“产能过剩”不背锅\n   观察者网-产业科技｜2026-05-31｜https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n5. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响\n   中国科学报｜2026-05-31｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 提供美国25%药物研发，药明康德为何屡遭打击？｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n- 美国打压，能限制中国药企崛起吗？｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n- 萝卜快跑，慢就是快｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n- 欧盟港停满中国车？“产能过剩”不背锅｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\n- “超智算一号”算力卫星正式发布，北京石景山加速打造未来空间产业高地｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525276.html\n- Australian researchers teach brain cells to play 'Doom'｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/australian-researchers-teach-brain-cells-021519957.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（73 条，11 个来源）\n- 芯片/半导体：半导体供应链（20 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（24 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（14 条，4 个来源）\n- 太空与低空经济：太空与低空动态（4 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（30 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n2. Australian researchers teach brain cells to play 'Doom'｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/australian-researchers-teach-brain-cells-021519957.html\n3. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\n4. Anthropic Debuts More Honest AI Model As Competition Intensifies｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-debuts-more-honest-ai-013113830.html\n5. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-31｜v2\n生成时间：2026/5/31 10:48:30\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2590｜确认今日 29｜国际背景 13\n\n本次更新：\n新增核心线索：国内 13 条｜国际 2 条\n延续跟踪线索：国内 16 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-31] 提供美国25%药物研发，药明康德为何屡遭打击？\n   观察者网-产业科技｜2026-05-31｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-31] 美国打压，能限制中国药企崛起吗？\n   观察者网-产业科技｜2026-05-31｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n3. [2026-05-31] 萝卜快跑，慢就是快\n   观察者网-产业科技｜2026-05-31｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n4. [2026-05-31] 欧盟港停满中国车？“产能过剩”不背锅\n   观察者网-产业科技｜2026-05-31｜https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\n   报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n5. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响\n   中国科学报｜2026-05-31｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 提供美国25%药物研发，药明康德为何屡遭打击？｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n- 美国打压，能限制中国药企崛起吗？｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n- 萝卜快跑，慢就是快｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n- 欧盟港停满中国车？“产能过剩”不背锅｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\n- “超智算一号”算力卫星正式发布，北京石景山加速打造未来空间产业高地｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525276.html\n- Australian researchers teach brain cells to play 'Doom'｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/australian-researchers-teach-brain-cells-021519957.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（73 条，11 个来源）\n- 芯片/半导体：半导体供应链（20 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（24 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（14 条，4 个来源）\n- 太空与低空经济：太空与低空动态（4 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（30 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n2. Australian researchers teach brain cells to play 'Doom'｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/australian-researchers-teach-brain-cells-021519957.html\n3. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\n4. Anthropic Debuts More Honest AI Model As Competition Intensifies｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-debuts-more-honest-ai-013113830.html\n5. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-31｜生成时间：2026/5/31 10:48:30｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2590｜确认今日 29｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 13 条｜国际 2 条<br>延续跟踪线索：国内 16 条｜国际 11 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-31] 提供美国25%药物研发，药明康德为何屡遭打击？</strong>\n      <span>观察者网-产业科技｜2026-05-31｜<a href=\"https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-31] 美国打压，能限制中国药企崛起吗？</strong>\n      <span>观察者网-产业科技｜2026-05-31｜<a href=\"https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-31] 萝卜快跑，慢就是快</strong>\n      <span>观察者网-产业科技｜2026-05-31｜<a href=\"https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-31] 欧盟港停满中国车？“产能过剩”不背锅</strong>\n      <span>观察者网-产业科技｜2026-05-31｜<a href=\"https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响</strong>\n      <span>中国科学报｜2026-05-31｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. AWOL Aetherion Pro Projector Now Commercially Available</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Australian researchers teach brain cells to play 'Doom'</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/australian-researchers-teach-brain-cells-021519957.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. What Happened To CompUSA? Why The Nostalgic Tech Store Failed</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Anthropic Debuts More Honest AI Model As Competition Intensifies</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/claude/articles/anthropic-debuts-more-honest-ai-013113830.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. 5 Free AI Tools That Might Actually Save You Time In 2026</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/31 10:48:30\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 13 条｜国际 2 条\n延续跟踪线索：国内 16 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-31] 提供美国25%药物研发，药明康德为何屡遭打击？\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n2. [2026-05-31] 美国打压，能限制中国药企崛起吗？\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n3. [2026-05-31] 萝卜快跑，慢就是快\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n4. [2026-05-31] 欧盟港停满中国车？“产能过剩”不背锅\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\n   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.\n\n5. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 提供美国25%药物研发，药明康德为何屡遭打击？｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n- 美国打压，能限制中国药企崛起吗？｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745527.shtml\n- 萝卜快跑，慢就是快｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_08_21_745526.shtml\n- 欧盟港停满中国车？“产能过剩”不背锅｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2024_07_26_742793.shtml\n- “超智算一号”算力卫星正式发布，北京石景山加速打造未来空间产业高地｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525276.html\n- Australian researchers teach brain cells to play 'Doom'｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/australian-researchers-teach-brain-cells-021519957.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（73 条，11 个来源）\n- 芯片/半导体：半导体供应链（20 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（24 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（14 条，4 个来源）\n- 太空与低空经济：太空与低空动态（4 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（30 条，8 个来源）\n\n国际科技背景：\n1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n2. Australian researchers teach brain cells to play 'Doom'｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/australian-researchers-teach-brain-cells-021519957.html\n3. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\n4. Anthropic Debuts More Honest AI Model As Competition Intensifies｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-debuts-more-honest-ai-013113830.html\n5. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
