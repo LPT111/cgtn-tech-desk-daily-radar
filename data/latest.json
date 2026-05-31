@@ -1,82 +1,36 @@
 {
-  "generatedAt": "2026-05-31T01:35:20.571Z",
+  "generatedAt": "2026-05-31T01:51:23.956Z",
   "radarVersion": "v2",
   "targetDate": "2026-05-31",
   "changeSummary": {
-    "domesticNew": 21,
-    "globalNew": 12,
-    "domesticContinued": 0,
-    "globalContinued": 0,
+    "domesticNew": 3,
+    "globalNew": 0,
+    "domesticContinued": 21,
+    "globalContinued": 12,
     "topNewDomestic": [
       {
-        "title": "一颗流星在美国马萨诸塞州上空爆炸引发巨响",
+        "title": "6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6435249.shtml"
+      },
+      {
+        "title": "凌晨，发射成功！",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml"
+      },
+      {
+        "title": "海南省卫生健康科技创新联合项目立项清单公布",
         "source": "中国科学报",
-        "url": "https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm"
-      },
-      {
-        "title": "国际参展人士在中国感知AI“热潮”",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html"
-      },
-      {
-        "title": "小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml"
-      },
-      {
-        "title": "美防长：美伊谈判仍在继续 保留动武选项",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml"
-      },
-      {
-        "title": "我国成功发射卫星互联网技术试验卫星",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html"
+        "url": "https://news.sciencenet.cn/htmlnews/2026/5/565711.shtm"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "AWOL Aetherion Pro Projector Now Commercially Available",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html"
-      },
-      {
-        "title": "What Happened To CompUSA? Why The Nostalgic Tech Store Failed",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html"
-      },
-      {
-        "title": "5 Free AI Tools That Might Actually Save You Time In 2026",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html"
-      },
-      {
-        "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/"
-      },
-      {
-        "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 28,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -91,11 +45,6 @@
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -105,16 +54,6 @@
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -128,11 +67,6 @@
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -144,7 +78,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 182,
+      "parsed": 183,
       "failed": false,
       "optional": false
     },
@@ -194,8 +128,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -243,9 +176,8 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -359,9 +291,8 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -394,18 +325,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1243,
+  "itemsSeen": 1368,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 513,
-  "itemsAfterDedupe": 358,
-  "todayItemsSeen": 21,
+  "itemsAfterRelevantFilter": 540,
+  "itemsAfterDedupe": 376,
+  "todayItemsSeen": 24,
   "suspectedItemsSeen": 1,
-  "skippedNonToday": 336,
+  "skippedNonToday": 353,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 182,
+      "parsed": 183,
       "failed": false,
       "optional": false
     },
@@ -455,8 +386,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -504,9 +434,8 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -620,9 +549,8 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -809,16 +737,6 @@
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -832,11 +750,6 @@
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -867,33 +780,8 @@
   "globalItemsAfterRelevantFilter": 261,
   "topics": [
     {
-      "topic": "AI动态",
-      "count": 82,
-      "sourceCount": 11,
-      "sources": [
-        "新浪科技",
-        "IT之家",
-        "网易科技",
-        "量子位",
-        "TechNode",
-        "科技日报",
-        "中国科学报",
-        "人民网-科技",
-        "新华网-科技",
-        "光明网-科技",
-        "央广网-科技"
-      ],
-      "items": [
-        "AI正在重写医药研发的人才结构",
-        "雷鸟创新发布首款专业影视级AR眼镜GT系列，售价1899元起",
-        "“盐中甜×果实进化”联合打造江西AI智慧工厂",
-        "接近字节人士：AI4S团队完成调整，由杨震原负责，没有考虑分拆",
-        "扎堆做AI眼镜！苹果、三星等科技巨头到底在赌什么？"
-      ]
-    },
-    {
       "topic": "AI 应用与智能体",
-      "count": 68,
+      "count": 73,
       "sourceCount": 11,
       "sources": [
         "新浪科技",
@@ -904,9 +792,9 @@
         "量子位",
         "TechNode",
         "科技日报",
+        "中国科学院",
         "人民网-科技",
-        "新华网-科技",
-        "光明网-科技"
+        "新华网-科技"
       ],
       "items": [
         "国产也要有LPU芯片了：能让豆包变聪明",
@@ -917,8 +805,32 @@
       ]
     },
     {
+      "topic": "AI动态",
+      "count": 76,
+      "sourceCount": 10,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "量子位",
+        "TechNode",
+        "科技日报",
+        "中国科学报",
+        "人民网-科技",
+        "新华网-科技",
+        "光明网-科技"
+      ],
+      "items": [
+        "AI正在重写医药研发的人才结构",
+        "雷鸟创新发布首款专业影视级AR眼镜GT系列，售价1899元起",
+        "“盐中甜×果实进化”联合打造江西AI智慧工厂",
+        "接近字节人士：AI4S团队完成调整，由杨震原负责，没有考虑分拆",
+        "扎堆做AI眼镜！苹果、三星等科技巨头到底在赌什么？"
+      ]
+    },
+    {
       "topic": "科学前沿与科研设施",
-      "count": 20,
+      "count": 33,
       "sourceCount": 9,
       "sources": [
         "新浪科技",
@@ -927,9 +839,9 @@
         "观察者网-产业科技",
         "量子位",
         "科技日报",
+        "中国科学院",
         "中国科学报",
-        "新华网-科技",
-        "光明网-科技"
+        "新华网-科技"
       ],
       "items": [
         "长安汽车董事长朱华荣：未来五年智能汽车将投入超1000亿元，新增10000科研人",
@@ -940,8 +852,31 @@
       ]
     },
     {
+      "topic": "人形机器人与具身智能",
+      "count": 25,
+      "sourceCount": 9,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "观察者网-产业科技",
+        "量子位",
+        "中国科学院",
+        "中国科学报",
+        "人民网-科技",
+        "新华网-科技"
+      ],
+      "items": [
+        "不止伴舞还开嗓演唱！宇树机器人亮相王力宏演唱会 拿起话筒那一刻全场嗨翻",
+        "2B 参数“四两拨千斤”，智元自研世界模型 GE 2.0 登顶 WorldArena 榜单",
+        "小米米家扫拖机器人 6 Pro 国补探新低：水箱版 2343 元、上下水版 2665 元",
+        "大平层一次扫完：科沃斯 T90 PRO 活水洗地机器人 4499 → 3099 元上下水新低",
+        "4599 → 1699 元：石头 P10S Pro 扫拖机器人上市 2 年立打 3.69 折"
+      ]
+    },
+    {
       "topic": "国产 GPU / 算力基础设施",
-      "count": 24,
+      "count": 22,
       "sourceCount": 8,
       "sources": [
         "新浪科技",
@@ -951,7 +886,7 @@
         "量子位",
         "TechNode",
         "人民网-科技",
-        "光明网-科技"
+        "新华网-科技"
       ],
       "items": [
         "AI算力霸榜，25只基金近一年回报超300％，前十最低也赚了360％",
@@ -962,31 +897,73 @@
       ]
     },
     {
-      "topic": "人形机器人与具身智能",
-      "count": 24,
+      "topic": "商业航天与卫星互联网",
+      "count": 14,
       "sourceCount": 8,
       "sources": [
+        "新浪科技",
+        "科技日报",
+        "中国科学报",
+        "IT之家",
+        "观察者网-产业科技",
+        "中国科学院",
+        "人民网-科技",
+        "光明网-科技"
+      ],
+      "items": [
+        "蓝色起源火箭在发射台爆炸 波及亚马逊卫星网络部署",
+        "凌晨，发射成功！",
+        "我国成功发射卫星互联网技术试验卫星",
+        "商业航天“国家队”添新丁 捷龙三号火箭有何特点？",
+        "NASA称将评估“新格伦”火箭爆炸对近期任务影响"
+      ]
+    },
+    {
+      "topic": "数字经济动态",
+      "count": 23,
+      "sourceCount": 7,
+      "sources": [
+        "新浪科技",
+        "中国科学报",
         "IT之家",
         "网易科技",
-        "人民网-科技",
         "观察者网-产业科技",
-        "量子位",
+        "中国科学院",
+        "光明网-科技"
+      ],
+      "items": [
+        "智利国家铜业公司新掌门强调利润优先与治理整顿 或放慢扩产步伐",
+        "海南省卫生健康科技创新联合项目立项清单公布",
+        "数字牛皮癣！人民日报评App窗口乱跳转：病根在畸形营利模式",
+        "白帽黑客公开 Windows 零日漏洞，微软强硬回应引争议",
+        "国际月经日：让“月经”被大方谈论"
+      ]
+    },
+    {
+      "topic": "科学前沿动态",
+      "count": 23,
+      "sourceCount": 7,
+      "sources": [
+        "网易科技",
+        "科技日报",
+        "中国科学院",
         "中国科学报",
+        "人民网-科技",
         "新华网-科技",
         "光明网-科技"
       ],
       "items": [
-        "2B 参数“四两拨千斤”，智元自研世界模型 GE 2.0 登顶 WorldArena 榜单",
-        "小米米家扫拖机器人 6 Pro 国补探新低：水箱版 2343 元、上下水版 2665 元",
-        "大平层一次扫完：科沃斯 T90 PRO 活水洗地机器人 4499 → 3099 元上下水新低",
-        "4599 → 1699 元：石头 P10S Pro 扫拖机器人上市 2 年立打 3.69 折",
-        "6799 元 → 4174 元：大疆 ROMO P 透明机身扫拖机器人 6 折国补新低"
+        "华为与光明科学城公司、深圳先进院签署产学研协 22:12",
+        "杨雄里院士：脑机接口让人拥有读心术？有可",
+        "翦知湣：极地研究进入“科学深耕”阶段",
+        "工程热物理所等在压缩空气储能压缩机研发方面取得突破",
+        "南京地理所召开党委理论学习中心组学习（扩大）会"
       ]
     },
     {
       "topic": "半导体供应链",
-      "count": 20,
-      "sourceCount": 8,
+      "count": 19,
+      "sourceCount": 7,
       "sources": [
         "新浪科技",
         "中国科学报",
@@ -994,8 +971,7 @@
         "网易科技",
         "观察者网-产业科技",
         "TechNode",
-        "人民网-科技",
-        "光明网-科技"
+        "人民网-科技"
       ],
       "items": [
         "华为“韬定律”要打败“摩尔定律”？",
@@ -1006,35 +982,15 @@
       ]
     },
     {
-      "topic": "商业航天与卫星互联网",
-      "count": 13,
+      "topic": "科技监管与数据安全",
+      "count": 17,
       "sourceCount": 7,
       "sources": [
         "新浪科技",
-        "科技日报",
-        "中国科学报",
-        "IT之家",
-        "观察者网-产业科技",
-        "人民网-科技",
-        "光明网-科技"
-      ],
-      "items": [
-        "蓝色起源火箭在发射台爆炸 波及亚马逊卫星网络部署",
-        "我国成功发射卫星互联网技术试验卫星",
-        "商业航天“国家队”添新丁 捷龙三号火箭有何特点？",
-        "NASA称将评估“新格伦”火箭爆炸对近期任务影响",
-        "火箭大爆炸后，消息称蓝色起源发射至少中断 6 个月"
-      ]
-    },
-    {
-      "topic": "科技监管与数据安全",
-      "count": 18,
-      "sourceCount": 6,
-      "sources": [
-        "新浪科技",
         "IT之家",
         "观察者网-产业科技",
         "科技日报",
+        "中国科学院",
         "中国科学报",
         "新华网-科技"
       ],
@@ -1047,98 +1003,58 @@
       ]
     },
     {
-      "topic": "数字经济动态",
-      "count": 17,
-      "sourceCount": 6,
-      "sources": [
-        "新浪科技",
-        "网易科技",
-        "观察者网-产业科技",
-        "中国科学报",
-        "人民网-科技",
-        "光明网-科技"
-      ],
-      "items": [
-        "智利国家铜业公司新掌门强调利润优先与治理整顿 或放慢扩产步伐",
-        "数字牛皮癣！人民日报评App窗口乱跳转：病根在畸形营利模式",
-        "白帽黑客公开 Windows 零日漏洞，微软强硬回应引争议",
-        "国际月经日：让“月经”被大方谈论",
-        "ID.ERA 9X交付超7000辆，合资新能源大车挤入大 17:16"
-      ]
-    },
-    {
-      "topic": "科学前沿动态",
-      "count": 17,
-      "sourceCount": 6,
-      "sources": [
-        "网易科技",
-        "科技日报",
-        "中国科学报",
-        "人民网-科技",
-        "新华网-科技",
-        "光明网-科技"
-      ],
-      "items": [
-        "华为与光明科学城公司、深圳先进院签署产学研协 22:12",
-        "杨雄里院士：脑机接口让人拥有读心术？有可",
-        "翦知湣：极地研究进入“科学深耕”阶段",
-        "中国科学报社社会责任报告（2025年度）",
-        "梁栋材：“科学的道路上，永远有啃不"
-      ]
-    },
-    {
-      "topic": "新能源车与智能驾驶",
-      "count": 14,
+      "topic": "监管与安全动态",
+      "count": 10,
       "sourceCount": 5,
       "sources": [
         "新浪科技",
-        "IT之家",
-        "网易科技",
-        "新华网-科技",
-        "光明网-科技"
-      ],
-      "items": [
-        "10名中国车主起诉特斯拉FSD欺诈 索赔395万元",
-        "新能源汽车动力电池退役高峰将至 回收赛道成掘金风口？",
-        "一场发布会，比亚迪完成从车企到科技公司的身份重构",
-        "养护成本暴增40%！超重电车让全民买单 该不该限重引热议",
-        "宁德时代首席科学家吴凯：今年将实现钠离子电池规模量产"
-      ]
-    },
-    {
-      "topic": "监管与安全动态",
-      "count": 13,
-      "sourceCount": 4,
-      "sources": [
-        "新浪科技",
+        "中国科学院",
         "网易科技",
         "观察者网-产业科技",
         "中国科学报"
       ],
       "items": [
-        "东风奕派M8亮相粤港澳车展：搭载华为乾崑技术，将于三季度正式上市",
-        "小红书获世界杯版权，知情人士：价格未高于往届，保持理性克制",
+        "过程工程所安全氢基能源供热示范项目完成工况运行验证",
         "深化供需战略协同 锚定星辰发展蓝图I中集车辆高层走访江浙核心合作伙伴，共筑全球领先产业生态",
         "头部玩家争抢养老万亿蓝海 远洋椿萱茂轻资产模式能否突出重围？",
-        "北京市住建委赴远洋集团调研 政企协力推动城更项目提速增效"
+        "微软启动 Win11 老式对话框大规模现代化重构，文件复制对话框已完成升级",
+        "宣布推迟期限：Wildberries中俄卖家佣金统一政策暂缓实施"
       ]
     },
     {
-      "topic": "太空与低空动态",
+      "topic": "新能源车与智能驾驶",
+      "count": 13,
+      "sourceCount": 4,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "新华网-科技"
+      ],
+      "items": [
+        "6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶",
+        "10名中国车主起诉特斯拉FSD欺诈 索赔395万元",
+        "新能源汽车动力电池退役高峰将至 回收赛道成掘金风口？",
+        "一场发布会，比亚迪完成从车企到科技公司的身份重构",
+        "养护成本暴增40%！超重电车让全民买单 该不该限重引热议"
+      ]
+    },
+    {
+      "topic": "中美 AI 与科技政策",
       "count": 5,
       "sourceCount": 4,
       "sources": [
         "新浪科技",
-        "科技日报",
-        "人民网-科技",
-        "光明网-科技"
+        "网易科技",
+        "TechNode",
+        "中国科学院"
       ],
       "items": [
-        "神舟二十二号载人飞船顺利撤离空间站组合体",
-        "神舟二十一号航天员乘组安全顺利出舱",
-        "科普一下 | 航天员回家，为啥还要“兜圈子”？",
-        "神舟二十二号载人飞船返回舱成功着陆",
-        "神舟二十一号和神舟二十三号航天员乘组完成在轨交接"
+        "美防长：美伊谈判仍在继续 保留动武选项",
+        "扎克伯格深度专访：中美AI竞争完全错误，美国别想长期领先中国",
+        "China summons eight EV makers over OTA battery locking practices",
+        "Spanish Prime Minister Pedro Sánchez visits Xiaomi Technology Park in Beijing",
+        "中国科学院—马普学会高层对话会议在京召开"
       ]
     },
     {
@@ -1175,19 +1091,19 @@
       ]
     },
     {
-      "topic": "中美 AI 与科技政策",
+      "topic": "太空与低空动态",
       "count": 4,
       "sourceCount": 3,
       "sources": [
         "新浪科技",
-        "网易科技",
-        "TechNode"
+        "科技日报",
+        "人民网-科技"
       ],
       "items": [
-        "美防长：美伊谈判仍在继续 保留动武选项",
-        "扎克伯格深度专访：中美AI竞争完全错误，美国别想长期领先中国",
-        "China summons eight EV makers over OTA battery locking practices",
-        "Spanish Prime Minister Pedro Sánchez visits Xiaomi Technology Park in Beijing"
+        "神舟二十二号载人飞船顺利撤离空间站组合体",
+        "神舟二十一号航天员乘组安全顺利出舱",
+        "科普一下 | 航天员回家，为啥还要“兜圈子”？",
+        "神舟二十二号载人飞船返回舱成功着陆"
       ]
     },
     {
@@ -1196,11 +1112,11 @@
       "sourceCount": 2,
       "sources": [
         "新浪科技",
-        "光明网-科技"
+        "IT之家"
       ],
       "items": [
         "欧足联宣布阿里巴巴为官方独家AI、云计算和电商合作伙伴",
-        "鸿蒙6.1正式发布，这些华为机型可升级！"
+        "工信部：前 4 个月我国软件业务收入 46686 亿元，同比增长 10.9%"
       ]
     },
     {
@@ -1470,6 +1386,62 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶",
+      "summary": "一群特斯拉爱好者，驾驶车辆从温哥华到哈利法克斯，全程 3760 英里（约 6051 公里）完全由 FSD V14.3.3 版本系统自主完成，包括驶入高速、应对天气、通过施工路段及自动泊车，全程无任何人工介入。这标志着自动驾驶技术向无监督落地迈出关键一步。#特斯拉 FSD# #自动驾驶#",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6435249.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6435249.shtml"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "新能源车",
+      "keywords": "EVs, smart mobility, battery technology, globalization",
+      "priority": 5,
+      "score": 87,
+      "format": "video",
+      "angle": "Focus on smart mobility, battery innovation, industrial competition and overseas market implications.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "IT之家 5 月 31 日消息，特斯拉车主在北美成功完成了一项曾被视作自动驾驶测试领域终极目标的挑战。一群热衷电动汽车的爱好者，完成了全球首趟全程无人工干预、横穿加拿大的不间断自动驾驶之旅，车辆在纵贯整个加拿大的行驶过程中，所有操作全部由 ...",
+      "relatedTitles": [
+        "6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "凌晨，发射成功！",
+      "summary": "◎ 科技日报记者 付毅飞记者从中国航天科技集团获悉，5月31日2时07分，长征二号丁运载火箭在西昌卫星发射中心点火起飞，随后将卫星互联网技术试验卫星送入预定轨道，发射任务取得圆满成功。长征二号丁运载火箭是中国航天科技集团八院抓总研制的常温液...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "priority": 5,
+      "score": 87,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "◎ 科技日报记者 付毅飞记者从中国航天科技集团获悉，5月31日2时07分，长征二号丁运载火箭在西昌卫星发射中心点火起飞，随后将卫星互联网技术试验卫星送入预定轨道，发射任务取得圆满成功。长征二号丁运载火箭是中国航天科技集团八院抓总研制的常温液...",
+      "relatedTitles": [
+        "凌晨，发射成功！"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "白帽黑客公开 Windows 零日漏洞，微软强硬回应引争议",
       "summary": "IT之家 5 月 31 日消息，Windows 是全球使用范围最广的操作系统，它和微软旗下云服务 Azure 频频成为黑客攻击与漏洞利用的目标。据IT之家了解，为应对网络攻击，微软长期和各类安全研究员（也就是常说的白帽黑客）展开合作。这些研...",
       "source": "新浪科技",
@@ -1550,6 +1522,34 @@
       "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 南开大学通报论文数据存疑问题情况 2026-05-31 08:42:46 来源: 新华网 点击数： 热点",
       "relatedTitles": [
         "南开大学通报论文数据存疑问题情况"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLnNj",
+      "title": "海南省卫生健康科技创新联合项目立项清单公布",
+      "summary": "来源：海南省科学技术厅 发布时间：2026/5/31 9:33:58 海南省卫生健康科技创新联合项目立项清单公布 海南省科学技术厅 海南省卫生健康委员会关于2026年海南省卫生健康科技创新联合项目立项的通知 各有关单位： 根据《海南省卫生健康科技创新联合项目管理暂行办法》（琼科规〔2023〕2号）等文件要求，2026年",
+      "source": "中国科学报",
+      "sources": [
+        "中国科学报"
+      ],
+      "sourceTier": "research",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565711.shtm",
+      "sourceUrls": [
+        "https://news.sciencenet.cn/htmlnews/2026/5/565711.shtm"
+      ],
+      "publishedAt": "2026-05-31",
+      "date": "2026-05-31",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "priority": 5,
+      "score": 79,
+      "format": "graphic",
+      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字经济动态",
+      "rawText": "来源：海南省科学技术厅 发布时间：2026/5/31 9:33:58 海南省卫生健康科技创新联合项目立项清单公布 海南省科学技术厅 海南省卫生健康委员会关于2026年海南省卫生健康科技创新联合项目立项的通知 各有关单位： 根据《海南省卫生健康科技创新联合项目管理暂行办法》（琼科规〔2023〕2号）等文件要求，2026年海南省卫生健康科技创新联合项目按照公开申报、形式审查、专家评审、公示和行政决策等程序，决定立项支持294个项目，安排经费2990万元（详见附件）。现就有关事项通知如下： 一、请各承担单位切实履行好项目法人责任，认真做好组织实施工作，确保项目按计划实施。项目管理和资金使用要严格按照",
+      "relatedTitles": [
+        "海南省卫生健康科技创新联合项目立项清单公布"
       ]
     },
     {
@@ -2041,8 +2041,8 @@
       "status": "confirmed_today"
     }
   ],
-  "brief": "ChenChen 今日中国科技热点｜2026-05-31｜v2\n生成时间：2026/5/31 09:35:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2468｜确认今日 21｜国际背景 12\n\n本次更新：\n新增核心线索：国内 21 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 0 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响\n   中国科学报｜2026-05-31｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n2. [2026-05-31] 国际参展人士在中国感知AI“热潮”\n   科技日报｜2026-05-31｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」\n   新浪科技｜2026-05-31｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项\n   新浪科技｜2026-05-31｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星\n   科技日报｜2026-05-31｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 一颗流星在美国马萨诸塞州上空爆炸引发巨响｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n- 国际参展人士在中国感知AI“热潮”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\n- 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\n- 美防长：美伊谈判仍在继续 保留动武选项｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\n- 我国成功发射卫星互联网技术试验卫星｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\n- AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n\n今日热点方向：\n- AI 应用：AI动态（82 条，11 个来源）\n- 芯片/半导体：半导体供应链（20 条，8 个来源）\n- 机器人/具身智能：人形机器人与具身智能（24 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（14 条，5 个来源）\n- 太空与低空经济：太空与低空动态（5 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（20 条，9 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\n3. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\n4. SoftBank says it will invest up to €75 billion to build French data centers｜TechCrunch｜https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\n5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs｜TechCrunch｜https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-31｜v2\n生成时间：2026/5/31 09:35:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2468｜确认今日 21｜国际背景 12\n\n本次更新：\n新增核心线索：国内 21 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 0 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响\n   中国科学报｜2026-05-31｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n2. [2026-05-31] 国际参展人士在中国感知AI“热潮”\n   科技日报｜2026-05-31｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」\n   新浪科技｜2026-05-31｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项\n   新浪科技｜2026-05-31｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星\n   科技日报｜2026-05-31｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 一颗流星在美国马萨诸塞州上空爆炸引发巨响｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n- 国际参展人士在中国感知AI“热潮”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\n- 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\n- 美防长：美伊谈判仍在继续 保留动武选项｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\n- 我国成功发射卫星互联网技术试验卫星｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\n- AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n\n今日热点方向：\n- AI 应用：AI动态（82 条，11 个来源）\n- 芯片/半导体：半导体供应链（20 条，8 个来源）\n- 机器人/具身智能：人形机器人与具身智能（24 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（14 条，5 个来源）\n- 太空与低空经济：太空与低空动态（5 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（20 条，9 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\n3. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\n4. SoftBank says it will invest up to €75 billion to build French data centers｜TechCrunch｜https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\n5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs｜TechCrunch｜https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-31｜生成时间：2026/5/31 09:35:20｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2468｜确认今日 21｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 21 条｜国际 12 条<br>延续跟踪线索：国内 0 条｜国际 0 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响</strong>\n      <span>中国科学报｜2026-05-31｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-31] 国际参展人士在中国感知AI“热潮”</strong>\n      <span>科技日报｜2026-05-31｜<a href=\"https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」</strong>\n      <span>新浪科技｜2026-05-31｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项</strong>\n      <span>新浪科技｜2026-05-31｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星</strong>\n      <span>科技日报｜2026-05-31｜<a href=\"https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. AWOL Aetherion Pro Projector Now Commercially Available</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. 5 Free AI Tools That Might Actually Save You Time In 2026</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. SoftBank says it will invest up to €75 billion to build French data centers</strong>\n      <span>时间：Sat, 30 May 2026 21:45:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs</strong>\n      <span>时间：Sat, 30 May 2026 16:30:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/31 09:35:20\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 21 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 0 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n2. [2026-05-31] 国际参展人士在中国感知AI“热潮”\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 一颗流星在美国马萨诸塞州上空爆炸引发巨响｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n- 国际参展人士在中国感知AI“热潮”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\n- 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\n- 美防长：美伊谈判仍在继续 保留动武选项｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\n- 我国成功发射卫星互联网技术试验卫星｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\n- AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n\n今日热点方向：\n- AI 应用：AI动态（82 条，11 个来源）\n- 芯片/半导体：半导体供应链（20 条，8 个来源）\n- 机器人/具身智能：人形机器人与具身智能（24 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（14 条，5 个来源）\n- 太空与低空经济：太空与低空动态（5 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（20 条，9 个来源）\n\n国际科技背景：\n1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\n3. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\n4. SoftBank says it will invest up to €75 billion to build French data centers｜TechCrunch｜https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\n5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs｜TechCrunch｜https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "ChenChen 今日中国科技热点｜2026-05-31｜v2\n生成时间：2026/5/31 09:51:23\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2593｜确认今日 24｜国际背景 12\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 21 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响\n   中国科学报｜2026-05-31｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n2. [2026-05-31] 国际参展人士在中国感知AI“热潮”\n   科技日报｜2026-05-31｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」\n   新浪科技｜2026-05-31｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项\n   新浪科技｜2026-05-31｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星\n   科技日报｜2026-05-31｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6435249.shtml\n- 凌晨，发射成功！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml\n- 海南省卫生健康科技创新联合项目立项清单公布｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565711.shtm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（73 条，11 个来源）\n- 芯片/半导体：半导体供应链（19 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（25 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（13 条，4 个来源）\n- 太空与低空经济：太空与低空动态（4 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（33 条，9 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\n3. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\n4. SoftBank says it will invest up to €75 billion to build French data centers｜TechCrunch｜https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\n5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs｜TechCrunch｜https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-05-31｜v2\n生成时间：2026/5/31 09:51:23\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2593｜确认今日 24｜国际背景 12\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 21 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响\n   中国科学报｜2026-05-31｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n2. [2026-05-31] 国际参展人士在中国感知AI“热潮”\n   科技日报｜2026-05-31｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」\n   新浪科技｜2026-05-31｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项\n   新浪科技｜2026-05-31｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星\n   科技日报｜2026-05-31｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6435249.shtml\n- 凌晨，发射成功！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml\n- 海南省卫生健康科技创新联合项目立项清单公布｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565711.shtm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（73 条，11 个来源）\n- 芯片/半导体：半导体供应链（19 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（25 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（13 条，4 个来源）\n- 太空与低空经济：太空与低空动态（4 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（33 条，9 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\n3. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\n4. SoftBank says it will invest up to €75 billion to build French data centers｜TechCrunch｜https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\n5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs｜TechCrunch｜https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-05-31｜生成时间：2026/5/31 09:51:23｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2593｜确认今日 24｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 21 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响</strong>\n      <span>中国科学报｜2026-05-31｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-05-31] 国际参展人士在中国感知AI“热潮”</strong>\n      <span>科技日报｜2026-05-31｜<a href=\"https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」</strong>\n      <span>新浪科技｜2026-05-31｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项</strong>\n      <span>新浪科技｜2026-05-31｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星</strong>\n      <span>科技日报｜2026-05-31｜<a href=\"https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. AWOL Aetherion Pro Projector Now Commercially Available</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. 5 Free AI Tools That Might Actually Save You Time In 2026</strong>\n      <span>时间：2026-05-31｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. SoftBank says it will invest up to €75 billion to build French data centers</strong>\n      <span>时间：Sat, 30 May 2026 21:45:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs</strong>\n      <span>时间：Sat, 30 May 2026 16:30:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/5/31 09:51:23\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 21 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-05-31] 一颗流星在美国马萨诸塞州上空爆炸引发巨响\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n2. [2026-05-31] 国际参展人士在中国感知AI“热潮”\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-05-31] 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n4. [2026-05-31] 美防长：美伊谈判仍在继续 保留动武选项\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-05-31] 我国成功发射卫星互联网技术试验卫星\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n本次新增线索：\n- 6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6435249.shtml\n- 凌晨，发射成功！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml\n- 海南省卫生健康科技创新联合项目立项清单公布｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565711.shtm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（73 条，11 个来源）\n- 芯片/半导体：半导体供应链（19 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（25 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（13 条，4 个来源）\n- 太空与低空经济：太空与低空动态（4 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（33 条，9 个来源）\n\n国际科技背景：\n1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html\n2. What Happened To CompUSA? Why The Nostalgic Tech Store Failed｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/happened-compusa-why-nostalgic-tech-234700105.html\n3. 5 Free AI Tools That Might Actually Save You Time In 2026｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/5-free-ai-tools-might-234500237.html\n4. SoftBank says it will invest up to €75 billion to build French data centers｜TechCrunch｜https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\n5. ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs｜TechCrunch｜https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }

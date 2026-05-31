@@ -2,12 +2,12 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/5/31 09:35:20
+生成时间：2026/5/31 09:51:23
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 21 条｜国际 12 条
-延续跟踪线索：国内 0 条｜国际 0 条
+新增核心线索：国内 3 条｜国际 0 条
+延续跟踪线索：国内 21 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -37,20 +37,17 @@
    角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
 
 本次新增线索：
-- 一颗流星在美国马萨诸塞州上空爆炸引发巨响｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm
-- 国际参展人士在中国感知AI“热潮”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525251.html
-- 小米汽车：YU7 全系，从标准版到 GT 均采用「铠甲笼式钢铝混合车身」｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztuea5153197.shtml
-- 美防长：美伊谈判仍在继续 保留动武选项｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztyms6418552.shtml
-- 我国成功发射卫星互联网技术试验卫星｜科技日报｜https://www.stdaily.com/web/gdxw/2026-05/31/content_525271.html
-- AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html
+- 6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-05-31/doc-inhztyms6435249.shtml
+- 凌晨，发射成功！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-05-31/doc-inhztymy5075173.shtml
+- 海南省卫生健康科技创新联合项目立项清单公布｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/5/565711.shtm
 
 今日热点方向：
-- AI 应用：AI动态（82 条，11 个来源）
-- 芯片/半导体：半导体供应链（20 条，8 个来源）
-- 机器人/具身智能：人形机器人与具身智能（24 条，8 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（14 条，5 个来源）
-- 太空与低空经济：太空与低空动态（5 条，4 个来源）
-- 科学前沿：科学前沿与科研设施（20 条，9 个来源）
+- AI 应用：AI 应用与智能体（73 条，11 个来源）
+- 芯片/半导体：半导体供应链（19 条，7 个来源）
+- 机器人/具身智能：人形机器人与具身智能（25 条，9 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（13 条，4 个来源）
+- 太空与低空经济：太空与低空动态（4 条，3 个来源）
+- 科学前沿：科学前沿与科研设施（33 条，9 个来源）
 
 国际科技背景：
 1. AWOL Aetherion Pro Projector Now Commercially Available｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/awol-aetherion-pro-projector-now-232923216.html
