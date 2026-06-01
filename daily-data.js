@@ -1,71 +1,40 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-06-01T13:12:15.051Z",
+  "generatedAt": "2026-06-01T13:17:45.833Z",
   "radarVersion": "v2",
   "targetDate": "2026-06-01",
   "changeSummary": {
-    "domesticNew": 97,
-    "globalNew": 36,
-    "domesticContinued": 23,
-    "globalContinued": 4,
+    "domesticNew": 4,
+    "globalNew": 0,
+    "domesticContinued": 116,
+    "globalContinued": 40,
     "topNewDomestic": [
       {
-        "title": "英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出",
+        "title": "贾跃亭：FF 机器人五月出货 69 台，超三四月总和",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4085485.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwcks5482924.shtml"
       },
       {
-        "title": "OpenAI官宣进军机器人赛道",
-        "source": "中国科学报",
-        "url": "https://news.sciencenet.cn/htmlnews/2026/6/565775.shtm"
+        "title": "“微笑”卫星成功发射 中欧携手守望地球家园",
+        "source": "中国科学院",
+        "url": "https://www.cas.cn/yw/202605/t20260519_5109973.shtml"
       },
       {
-        "title": "涉及毛绒玩具、电动童车……一批儿童相关国家标准正式发布",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-06/01/content_525990.html"
+        "title": "NVIDIA重新发明PC！黄仁勋正式发布Windows专用处理器RTX Spark：所有老电脑都可以扔了",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-06-01/doc-inhzwuhs3971933.shtml"
       },
       {
-        "title": "煎饼果子机器人、智能导盲犬齐登场 直击2026年 20:47",
+        "title": "黄仁勋演讲实录|40年来PC首次重设计！",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KUC7U8960512B07B.html"
-      },
-      {
-        "title": "OpenAI、英伟达杀入同一个赛道！山姆·奥特曼： 17:00",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KUBQVA330512B07B.html"
+        "url": "https://www.163.com/tech/article/KUBQDKRC00097U7T.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes",
-        "source": "AP Technology",
-        "url": "https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c"
-      },
-      {
-        "title": "Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks",
-        "source": "The Register",
-        "url": "https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068"
-      },
-      {
-        "title": "The Download: China’s brain implant ambitions",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/"
-      },
-      {
-        "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
-      },
-      {
-        "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 28,
+  "successSources": 26,
   "failedSources": [
     {
       "name": "财联社",
@@ -81,6 +50,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -120,6 +99,16 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -144,7 +133,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 179,
+      "parsed": 181,
       "failed": false,
       "optional": false
     },
@@ -309,14 +298,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -394,18 +385,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1270,
+  "itemsSeen": 1272,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 556,
-  "itemsAfterDedupe": 375,
+  "itemsAfterRelevantFilter": 548,
+  "itemsAfterDedupe": 368,
   "todayItemsSeen": 120,
   "suspectedItemsSeen": 1,
-  "skippedNonToday": 253,
+  "skippedNonToday": 247,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 179,
+      "parsed": 181,
       "failed": false,
       "optional": false
     },
@@ -570,14 +561,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -824,6 +817,16 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -864,11 +867,35 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
   "globalItemsSeen": 1228,
-  "globalItemsAfterRelevantFilter": 284,
+  "globalItemsAfterRelevantFilter": 285,
   "topics": [
     {
+      "topic": "AI动态",
+      "count": 84,
+      "sourceCount": 10,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "TechNode",
+        "科技日报",
+        "中国科学院",
+        "中国科学报",
+        "人民网-科技",
+        "新华网-科技",
+        "光明网-科技"
+      ],
+      "items": [
+        "被AI吞没的人：数据劳工的创伤与沉默",
+        "“你的帖子还在”！天涯社区今天回归",
+        "王兴：美团AI助手“小美”与腾讯元宝的合作将于近期上线",
+        "AI驱动科技巨头海外发债潮 重塑全球公司债市场格局",
+        "贝恩调查：AI降本效果不理想 四成受访公司成本降幅未超10%"
+      ]
+    },
+    {
       "topic": "AI 应用与智能体",
-      "count": 67,
+      "count": 64,
       "sourceCount": 10,
       "sources": [
         "新浪科技",
@@ -891,31 +918,8 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "AI动态",
-      "count": 84,
-      "sourceCount": 9,
-      "sources": [
-        "新浪科技",
-        "IT之家",
-        "网易科技",
-        "TechNode",
-        "科技日报",
-        "中国科学报",
-        "人民网-科技",
-        "新华网-科技",
-        "光明网-科技"
-      ],
-      "items": [
-        "被AI吞没的人：数据劳工的创伤与沉默",
-        "“你的帖子还在”！天涯社区今天回归",
-        "王兴：美团AI助手“小美”与腾讯元宝的合作将于近期上线",
-        "AI驱动科技巨头海外发债潮 重塑全球公司债市场格局",
-        "贝恩调查：AI降本效果不理想 四成受访公司成本降幅未超10%"
-      ]
-    },
-    {
       "topic": "科学前沿与科研设施",
-      "count": 32,
+      "count": 27,
       "sourceCount": 8,
       "sources": [
         "新浪科技",
@@ -981,7 +985,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "人形机器人与具身智能",
-      "count": 17,
+      "count": 18,
       "sourceCount": 8,
       "sources": [
         "新浪科技",
@@ -997,13 +1001,13 @@ window.CHENCHEN_DAILY_DATA = {
         "尊界S800再推200万元典藏版背后：口碑不佳销量暴跌8成 江淮连亏6季度、大量研发支出仍未计入",
         "机甲“大圣”现身 荣耀机器人燃动西电毕业季",
         "英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出",
-        "英伟达和宇树要联手造机器人服务科研场景 20:56",
-        "VC/PE周报｜产业资本涌动：酒企出资做LP，理想 19:42"
+        "贾跃亭：FF 机器人五月出货 69 台，超三四月总和",
+        "英伟达和宇树要联手造机器人服务科研场景 20:56"
       ]
     },
     {
       "topic": "数字经济动态",
-      "count": 26,
+      "count": 25,
       "sourceCount": 7,
       "sources": [
         "新浪科技",
@@ -1040,7 +1044,28 @@ window.CHENCHEN_DAILY_DATA = {
         "英伟达新芯片提振股价盘前上涨 英特尔和AMD下跌",
         "新款Windows PC芯片提振英伟达与Arm股价盘前上涨 高通和AMD走低",
         "软银时隔二十余年超越丰田，登顶日本市值榜首",
-        "NVIDIA发RTX Spark抢占PC市场 英特尔首度回应"
+        "NVIDIA重新发明PC！黄仁勋正式发布Windows专用处理器RTX Spark：所有老电脑都可以扔了"
+      ]
+    },
+    {
+      "topic": "商业航天与卫星互联网",
+      "count": 12,
+      "sourceCount": 7,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "科技日报",
+        "网易科技",
+        "中国科学报",
+        "中国科学院",
+        "光明网-科技"
+      ],
+      "items": [
+        "首飞成功！商业航天，大消息",
+        "全球运载能力最大！星火空间官宣研发我国首款电循环液体运载火箭“进化一号”",
+        "隐藏特性曝光：华为 MatePad Pro Max 平板 20GB+1TB“皇帝版”系列独占卫星通信功能",
+        "华为 nova 16 系列新机重点参数配置差异公布，一表看懂",
+        "长征十二号乙火箭首飞成功 将推动商业航天迈向“效益最优”"
       ]
     },
     {
@@ -1065,29 +1090,8 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "商业航天与卫星互联网",
-      "count": 10,
-      "sourceCount": 7,
-      "sources": [
-        "新浪科技",
-        "中国科学院",
-        "IT之家",
-        "科技日报",
-        "网易科技",
-        "中国科学报",
-        "光明网-科技"
-      ],
-      "items": [
-        "首飞成功！商业航天，大消息",
-        "“微笑”卫星成功发射 中欧携手守望地球家园",
-        "隐藏特性曝光：华为 MatePad Pro Max 平板 20GB+1TB“皇帝版”系列独占卫星通信功能",
-        "华为 nova 16 系列新机重点参数配置差异公布，一表看懂",
-        "长征十二号乙火箭首飞成功 将推动商业航天迈向“效益最优”"
-      ]
-    },
-    {
       "topic": "新能源车与智能驾驶",
-      "count": 21,
+      "count": 20,
       "sourceCount": 5,
       "sources": [
         "新浪科技",
@@ -1106,7 +1110,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "监管与安全动态",
-      "count": 7,
+      "count": 8,
       "sourceCount": 5,
       "sources": [
         "新浪科技",
@@ -1118,9 +1122,9 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "花旗上调铜价预期，主因供应紧张及美国关税政策存不确定性",
         "酒鬼酒总经理程军称维护与胖东来友好关系？合作半年已成公司第一大客户",
-        "成都辰显光电：瞄准先进制造业发展机遇，以Micro-LED技术赋能新型显示新赛道",
         "蓝电更名赛豆，赛力斯字节合作新品牌首款车或年 18:18",
-        "官方披露：张雪机车将出口欧洲"
+        "官方披露：张雪机车将出口欧洲",
+        "上海高研院等研发的360度旋转束质子治疗系统获批注册并开始首批患者治疗"
       ]
     },
     {
@@ -1139,22 +1143,6 @@ window.CHENCHEN_DAILY_DATA = {
         "零跑汽车：2026年5月交付量81569台创新高，新势力首破8万台",
         "第100,000,000辆！中国首个“亿级”车企诞生",
         "关税从100%骤降至6%！中国电动车进军加拿大 美国全程紧盯"
-      ]
-    },
-    {
-      "topic": "中美 AI 与科技政策",
-      "count": 4,
-      "sourceCount": 3,
-      "sources": [
-        "网易科技",
-        "TechNode",
-        "中国科学院"
-      ],
-      "items": [
-        "扎克伯格深度专访：中美AI竞争完全错误，美国别想长期领先中国",
-        "China summons eight EV makers over OTA battery locking practices",
-        "Spanish Prime Minister Pedro Sánchez visits Xiaomi Technology Park in Beijing",
-        "中国科学院—马普学会高层对话会议在京召开"
       ]
     },
     {
@@ -1199,6 +1187,20 @@ window.CHENCHEN_DAILY_DATA = {
         "AI助力产业发展迈向生态协同 企业加速智能化转型",
         "新一代华为鸿蒙智家发布：升级“1+3+N”解决方案，AI 管家小艺 Claw 还能养猫",
         "鸿蒙智行焕新升级款尚界 H5 汽车选配信息公开，预售价 16.98 万元起"
+      ]
+    },
+    {
+      "topic": "中美 AI 与科技政策",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "TechNode"
+      ],
+      "items": [
+        "扎克伯格深度专访：中美AI竞争完全错误，美国别想长期领先中国",
+        "China summons eight EV makers over OTA battery locking practices",
+        "Spanish Prime Minister Pedro Sánchez visits Xiaomi Technology Park in Beijing"
       ]
     },
     {
@@ -1273,6 +1275,34 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "加速产业规模化 具身智能标准持续完善-\"相关标准的不断完善，既守住了人机协同作业的“安全底线”，也为工业场景的具身智能人形机器人搭建起完整的规范框架，让产品有标准、安全有底线、数据有底座，推动产业规模化发展告别盲目试错，迈入有标可循的良性发展阶段。\"",
       "relatedTitles": [
         "加速产业规模化 具身智能标准持续完善"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "贾跃亭：FF 机器人五月出货 69 台，超三四月总和",
+      "summary": "IT之家 6 月 1 日消息，法拉第未来创始人贾跃亭今日透露，FF 机器人五月出货 69 台超三四月总和，并且公司已经正式向 SEC 提交了针对非法做空及市场操纵行为的监管调查线索函，持续打击非法做空。他表示：“5 月机器人终端销售出货量创...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwcks5482924.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwcks5482924.shtml"
+      ],
+      "publishedAt": "2026-06-01",
+      "date": "2026-06-01",
+      "category": "机器人",
+      "keywords": "robotics, automation, smart manufacturing, embodied AI",
+      "priority": 5,
+      "score": 120,
+      "format": "video",
+      "angle": "Show whether robotics is entering real production and service settings, not just product launches or demos.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "IT之家 6 月 1 日消息，法拉第未来创始人贾跃亭今日透露，FF 机器人五月出货 69 台超三四月总和，并且公司已经正式向 SEC 提交了针对非法做空及市场操纵行为的监管调查线索函，持续打击非法做空。他表示：“5 月机器人终端销售出货量创...",
+      "relatedTitles": [
+        "贾跃亭：FF 机器人五月出货 69 台，超三四月总和"
       ]
     },
     {
@@ -1388,34 +1418,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "成功率99.25%，越疆空弈DobotWAM具身大模型发布，LIBERO排名第一",
-      "summary": "WIKO 推出 AI 萌宠“星仔”，搭载华为小艺大模型，支持多模态互动。它能听声辨位、循声转头，还拥有养成系统，亲密度达 700 可解锁“地球语”。支持 Wi-Fi+4G，内置“心情日记”功能。6 月 30 日 10:08 开售。#AI 萌宠##华为小艺#",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/wm/2026-06-01/doc-inhzwuhp5257116.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/wm/2026-06-01/doc-inhzwuhp5257116.shtml"
-      ],
-      "publishedAt": "2026-06-01",
-      "date": "2026-06-01",
-      "category": "AI",
-      "keywords": "AI applications, large language models, AI governance, productivity",
-      "priority": 5,
-      "score": 110,
-      "format": "package",
-      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "新浪科技讯 6月1日下午消息，深圳具身智能企业越疆发布自研世界动作模型空弈DobotWAM具身大模型，该模型在具身智能标准评测基准LIBERO上分别完成LIBERO-Spatial、LIBERO-Object、LIBERO-Goal和L...",
-      "relatedTitles": [
-        "成功率99.25%，越疆空弈DobotWAM具身大模型发布，LIBERO排名第一"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "长征十二号乙火箭首飞成功 将推动商业航天迈向“效益最优”",
       "summary": "6 月 1 日 16 时 40 分，长征十二号乙运载火箭在东风商业航天创新试验区点火升空，随后将千帆星座第十批组网卫星送入预定轨道，首飞任务取得圆满成功。我国大规模互联网星座组网任务再添一型大运力商业火箭。",
@@ -1441,6 +1443,34 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 长征十二号乙火箭首飞成功 将推动商业航天迈向“效益最优” 2026-06-01 17:24:27 来源: 科技日报 点击数： 热点",
       "relatedTitles": [
         "长征十二号乙火箭首飞成功 将推动商业航天迈向“效益最优”"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "成功率99.25%，越疆空弈DobotWAM具身大模型发布，LIBERO排名第一",
+      "summary": "新浪科技讯 6月1日下午消息，深圳具身智能企业越疆发布自研世界动作模型空弈DobotWAM具身大模型，该模型在具身智能标准评测基准LIBERO上分别完成LIBERO-Spatial、LIBERO-Object、LIBERO-Goal和L...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/wm/2026-06-01/doc-inhzwuhp5257116.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/wm/2026-06-01/doc-inhzwuhp5257116.shtml"
+      ],
+      "publishedAt": "2026-06-01",
+      "date": "2026-06-01",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "priority": 5,
+      "score": 105,
+      "format": "package",
+      "angle": "Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "新浪科技讯 6月1日下午消息，深圳具身智能企业越疆发布自研世界动作模型空弈DobotWAM具身大模型，该模型在具身智能标准评测基准LIBERO上分别完成LIBERO-Spatial、LIBERO-Object、LIBERO-Goal和L...",
+      "relatedTitles": [
+        "成功率99.25%，越疆空弈DobotWAM具身大模型发布，LIBERO排名第一"
       ]
     },
     {
@@ -2144,6 +2174,34 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cuY2Fz",
+      "title": "“微笑”卫星成功发射 中欧携手守望地球家园",
+      "summary": "itle=\"侯建国在地化所调研\" target=\"_blank\" >侯建国在地化所调研 2026年06月01日 中国科学院党组举办树立和践行正确政绩观学习教育读书班 深入学习习近平总书记重要论述 2026年05月27日 “微笑”卫星成功发射 中欧携手守望地球家园 2026年05月19日 中国科学院召开学术委员会会议咨询",
+      "source": "中国科学院",
+      "sources": [
+        "中国科学院"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.cas.cn/yw/202605/t20260519_5109973.shtml",
+      "sourceUrls": [
+        "https://www.cas.cn/yw/202605/t20260519_5109973.shtml"
+      ],
+      "publishedAt": "2026-06-01",
+      "date": "2026-06-01",
+      "category": "太空与低空",
+      "keywords": "low-altitude economy, commercial space, satellite internet",
+      "priority": 5,
+      "score": 95,
+      "format": "video",
+      "angle": "Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "itle=\"侯建国在地化所调研\" target=\"_blank\" >侯建国在地化所调研 2026年06月01日 中国科学院党组举办树立和践行正确政绩观学习教育读书班 深入学习习近平总书记重要论述 2026年05月27日 “微笑”卫星成功发射 中欧携手守望地球家园 2026年05月19日 中国科学院召开学术委员会会议咨询评议院“十五五”发展规划 2026年05月19日 <a href=\"./202605/t20260514_5109611.shtml\" title=\"“九章四号”量子计算原型机研制成功\" targe",
+      "relatedTitles": [
+        "“微笑”卫星成功发射 中欧携手守望地球家园"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "被AI吞没的人：数据劳工的创伤与沉默",
       "summary": "本文讲述肯尼亚数据劳工迈克尔的故事，揭示AI繁荣背后被忽视的劳动链。迈克尔原本学航空货运代理，因家庭危机进入数据劳动行业。他指出AI依赖人类劳动，如数据标注，且大多基础工作由非洲劳动者完成，却服务欧美市场。他从事色情内容标注和“聊天”工作，身心受创，同行也面临类似困境，且平台切断责任链条。肯尼亚约50万人从事数据劳工工",
@@ -2737,34 +2795,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "NVIDIA发RTX Spark抢占PC市场 英特尔首度回应",
-      "summary": "快科技6月1日消息，NVIDIA今日在COMPUTEX 2026上正式发布了面向Windows PC的ARM架构超级芯片RTX Spark，直接进军由英特尔把持的PC核心处理器市场。首批搭载RTX Spark的轻薄本和台式机将于今年秋季上市...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-01/doc-inhzxewp2340211.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-01/doc-inhzxewp2340211.shtml"
-      ],
-      "publishedAt": "2026-06-01",
-      "date": "2026-06-01",
-      "category": "芯片",
-      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
-      "priority": 5,
-      "score": 92,
-      "format": "graphic",
-      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "快科技6月1日消息，NVIDIA今日在COMPUTEX 2026上正式发布了面向Windows PC的ARM架构超级芯片RTX Spark，直接进军由英特尔把持的PC核心处理器市场。首批搭载RTX Spark的轻薄本和台式机将于今年秋季上市...",
-      "relatedTitles": [
-        "NVIDIA发RTX Spark抢占PC市场 英特尔首度回应"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "领克：5月销量20732台，新能源车型占比约70.8%",
       "summary": "6月1日，领克品牌宣布，5月品牌全系销量20732台。其中，领克新能源车型占比约70.8%。从第一款车型上市至今，领克历史累计销量已超181万台。...",
       "source": "新浪科技",
@@ -2789,6 +2819,34 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "6月1日，领克品牌宣布，5月品牌全系销量20732台。其中，领克新能源车型占比约70.8%。从第一款车型上市至今，领克历史累计销量已超181万台。...",
       "relatedTitles": [
         "领克：5月销量20732台，新能源车型占比约70.8%"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "NVIDIA重新发明PC！黄仁勋正式发布Windows专用处理器RTX Spark：所有老电脑都可以扔了",
+      "summary": "快科技6月1日消息，靴子落地，传闻已久的NVIDIA首款面向Windows平台的N1X处理器，正式命名为RTX Spark。台北GTC大会现场，NVIDIA创始人兼CEO黄仁勋亲手揭开了这款超级芯片的面纱。它绝非一款普通的SoC，而是NVI...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-06-01/doc-inhzwuhs3971933.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-06-01/doc-inhzwuhs3971933.shtml"
+      ],
+      "publishedAt": "2026-06-01",
+      "date": "2026-06-01",
+      "category": "芯片",
+      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
+      "priority": 5,
+      "score": 92,
+      "format": "graphic",
+      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "快科技6月1日消息，靴子落地，传闻已久的NVIDIA首款面向Windows平台的N1X处理器，正式命名为RTX Spark。台北GTC大会现场，NVIDIA创始人兼CEO黄仁勋亲手揭开了这款超级芯片的面纱。它绝非一款普通的SoC，而是NVI...",
+      "relatedTitles": [
+        "NVIDIA重新发明PC！黄仁勋正式发布Windows专用处理器RTX Spark：所有老电脑都可以扔了"
       ]
     },
     {
@@ -3212,34 +3270,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "英伟达首款Windows专用处理器N1/N1X规格曝光：20核CPU+6144核GPU血洗x86",
-      "summary": "快科技6月1日消息，今天上午11点，NVIDIA创始人黄仁勋在台北国际电脑展发表主题演讲，有望正式发布旗下首款Windows专用Arm架构处理器N1与N1X。此前NVIDIA与微软同步发布\"PC的新时代\"神秘预告，已将这款跨...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-06-01/doc-inhzwpyv2509388.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/discovery/2026-06-01/doc-inhzwpyv2509388.shtml"
-      ],
-      "publishedAt": "2026-06-01",
-      "date": "2026-06-01",
-      "category": "芯片",
-      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
-      "priority": 5,
-      "score": 87,
-      "format": "graphic",
-      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "快科技6月1日消息，今天上午11点，NVIDIA创始人黄仁勋在台北国际电脑展发表主题演讲，有望正式发布旗下首款Windows专用Arm架构处理器N1与N1X。此前NVIDIA与微软同步发布\"PC的新时代\"神秘预告，已将这款跨...",
-      "relatedTitles": [
-        "英伟达首款Windows专用处理器N1/N1X规格曝光：20核CPU+6144核GPU血洗x86"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "长征十二号乙运载火箭首飞成功 17:15",
       "summary": "长征十二号乙运载火箭首飞成功",
@@ -3461,34 +3491,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "首页 > 科研进展 近日，中国科学院合肥物质科学研究院在环境有害物检测技术研究方面取得进展。研究团队构建出一款 由钯 — 铂— 铱三种金属组成的 新型复合介孔状纳米酶探针，可同步实现细菌类大分子污染物与激素类小分子污染物的高精度检测。 环境、食品污染的污染源主要分为生物性有害物、化学性有害物两类。在环境监测、公共卫生安全防护、食品生产等场景中，这类污染物的精准检测与溯源至关重要。然而，这两类有害物之间的分子量差异大，同步检测往往需要依靠不同的技术平台，操作繁琐且检测速度较慢。 针对以上问题，团队以钯—铂—铱三金属介孔纳米酶为信号标签，构建了夹心—竞争联用的免疫检测体系，实现了不同分子量有害物的",
       "relatedTitles": [
         "科研人员研发出新型复合介孔状纳米酶探针"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "代谢小分子抗衰老功能研究取得进展",
-      "summary": "首页 > 科研进展 肠道菌群失衡和宿主代谢紊乱是推动衰老过程的两个主要因素。人类肠道微生物群的多样性、组成和功能随着衰老发生明显变化，维持相对“年轻”的微生物群落已被证明可缓解年龄相关衰退。因此，识别衰老过程中的菌群失衡和宿主代谢紊乱生物特征，对于理解人类长寿并指导年龄相关疾病的精准老年医学干预具有重要意义。 近日，中",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/syky/202605/t20260529_5111132.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/syky/202605/t20260529_5111132.shtml"
-      ],
-      "publishedAt": "2026-06-01",
-      "date": "2026-06-01",
-      "category": "科学前沿",
-      "keywords": "scientific research, frontier science, research infrastructure",
-      "priority": 5,
-      "score": 85,
-      "format": "package",
-      "angle": "Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "首页 > 科研进展 肠道菌群失衡和宿主代谢紊乱是推动衰老过程的两个主要因素。人类肠道微生物群的多样性、组成和功能随着衰老发生明显变化，维持相对“年轻”的微生物群落已被证明可缓解年龄相关衰退。因此，识别衰老过程中的菌群失衡和宿主代谢紊乱生物特征，对于理解人类长寿并指导年龄相关疾病的精准老年医学干预具有重要意义。 近日，中国科学院精密测量科学与技术创新研究院等科研团队在代谢小分子延缓衰老并改善老年慢病的功能研究中取得进展。团队运用微生物组学和代谢组学等多组学技术，结合生物信息学，系统分析了不同年龄段（年轻、年老和百岁）人群粪样的微生物组和代谢组特征，鉴定了衰老过程中的关键肠道菌株和代谢标志物，并进",
-      "relatedTitles": [
-        "代谢小分子抗衰老功能研究取得进展"
       ]
     },
     {
@@ -4081,34 +4083,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "成都辰显光电：瞄准先进制造业发展机遇，以Micro-LED技术赋能新型显示新赛道",
-      "summary": "6月1日，成都市加快建设全国先进制造业基地大会召开。作为成都新型显示领域代表企业之一，成都辰显光电有限公司（以下简称“辰显光电”）公共事务经理白萍表示，此次会上成都出台的关于加快建设全国先进制造业基地的一系列政策，对企业而言是重大利好，机遇...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-01/doc-inhzxewf8351520.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-01/doc-inhzxewf8351520.shtml"
-      ],
-      "publishedAt": "2026-06-01",
-      "date": "2026-06-01",
-      "category": "监管与安全",
-      "keywords": "data security, privacy protection, regulatory framework",
-      "priority": 5,
-      "score": 77,
-      "format": "live",
-      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
-      "status": "confirmed_today",
-      "matchedTopic": "监管与安全动态",
-      "rawText": "6月1日，成都市加快建设全国先进制造业基地大会召开。作为成都新型显示领域代表企业之一，成都辰显光电有限公司（以下简称“辰显光电”）公共事务经理白萍表示，此次会上成都出台的关于加快建设全国先进制造业基地的一系列政策，对企业而言是重大利好，机遇...",
-      "relatedTitles": [
-        "成都辰显光电：瞄准先进制造业发展机遇，以Micro-LED技术赋能新型显示新赛道"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "QQ 鸿蒙版 App 获 9.2.25 尝鲜升级，新增在线状态设置、邮箱 / 钱包插件等功能",
       "summary": "IT之家 6 月 1 日消息，QQ 鸿蒙版 App 今日在华为应用市场（App Gallery）开启 9.2.25 (3050) 版本尝鲜升级（可能量少，未来得及安装需等待官方“补货”），测试时间为 2026/6/1-2026/6/30。I...",
       "source": "新浪科技",
@@ -4217,6 +4191,34 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "快科技6月1日消息，最新披露的2025财年财报数据显示，日本三大主流车企正在遭遇前所未有的集体失速危机。丰田虽然整体营收创下历史新高，但归属母公司的净利润同比下滑接近两成；本田直接爆出品牌成立上市近70年以来的首次年度亏损，全年亏损额折合人...",
       "relatedTitles": [
         "80%都去看比亚迪、问界等国产车！日系车集体崩了 国人现在买车习惯真变了"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "黄仁勋演讲实录|40年来PC首次重设计！",
+      "summary": "演讲实录|40年来首次PC重设计！黄仁勋发布首款“不是为人设计”的中央处理器,黄仁勋,英伟达,gpu,nvidia,pc",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/tech/article/KUBQDKRC00097U7T.html",
+      "sourceUrls": [
+        "https://www.163.com/tech/article/KUBQDKRC00097U7T.html"
+      ],
+      "publishedAt": "2026-06-01",
+      "date": "2026-06-01",
+      "category": "芯片",
+      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
+      "priority": 5,
+      "score": 77,
+      "format": "graphic",
+      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "演讲实录|40年来首次PC重设计！黄仁勋发布首款“不是为人设计”的中央处理器,黄仁勋,英伟达,gpu,nvidia,pc",
+      "relatedTitles": [
+        "黄仁勋演讲实录|40年来PC首次重设计！"
       ]
     },
     {
@@ -5296,8 +5298,8 @@ window.CHENCHEN_DAILY_DATA = {
       "status": "confirmed_today"
     }
   ],
-  "brief": "ChenChen 今日中国科技热点｜2026-06-01｜v2\n生成时间：2026/6/1 21:12:15\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2498｜确认今日 120｜国际背景 40\n\n本次更新：\n新增核心线索：国内 97 条｜国际 36 条\n延续跟踪线索：国内 23 条｜国际 4 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-01] 英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出\n   新浪科技｜2026-06-01｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4085485.shtml\n   报道角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.\n\n2. [2026-06-01] 加速产业规模化 具身智能标准持续完善\n   新华网-科技｜2026-06-01｜http://www.news.cn/tech/20260601/c43d3fc5d9974da9b4e933f35bd1af5b/c.html\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n3. [2026-06-01] OpenAI官宣进军机器人赛道\n   中国科学报｜2026-06-01｜https://news.sciencenet.cn/htmlnews/2026/6/565775.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-06-01] 涉及毛绒玩具、电动童车……一批儿童相关国家标准正式发布\n   科技日报｜2026-06-01｜https://www.stdaily.com/web/gdxw/2026-06/01/content_525990.html\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-06-01] 煎饼果子机器人、智能导盲犬齐登场 直击2026年 20:47\n   网易科技｜2026-06-01｜https://www.163.com/dy/article/KUC7U8960512B07B.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4085485.shtml\n- OpenAI官宣进军机器人赛道｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565775.shtm\n- 涉及毛绒玩具、电动童车……一批儿童相关国家标准正式发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/01/content_525990.html\n- 煎饼果子机器人、智能导盲犬齐登场 直击2026年 20:47｜网易科技｜https://www.163.com/dy/article/KUC7U8960512B07B.html\n- OpenAI、英伟达杀入同一个赛道！山姆·奥特曼： 17:00｜网易科技｜https://www.163.com/dy/article/KUBQVA330512B07B.html\n- Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes｜AP Technology｜https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（67 条，10 个来源）\n- 芯片/半导体：半导体供应链（16 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（17 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（21 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（32 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes｜AP Technology｜https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c\n2. Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks｜The Register｜https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068\n3. The Download: China’s brain implant ambitions｜MIT Technology Review｜https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/\n4. China has approved the world’s first invasive brain-computer chip—here’s what’s next｜MIT Technology Review｜https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/\n5. An OpenAI model solved a famous math problem that stumped humans for 80 years｜Ars Technica｜https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-06-01｜v2\n生成时间：2026/6/1 21:12:15\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2498｜确认今日 120｜国际背景 40\n\n本次更新：\n新增核心线索：国内 97 条｜国际 36 条\n延续跟踪线索：国内 23 条｜国际 4 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-01] 英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出\n   新浪科技｜2026-06-01｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4085485.shtml\n   报道角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.\n\n2. [2026-06-01] 加速产业规模化 具身智能标准持续完善\n   新华网-科技｜2026-06-01｜http://www.news.cn/tech/20260601/c43d3fc5d9974da9b4e933f35bd1af5b/c.html\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n3. [2026-06-01] OpenAI官宣进军机器人赛道\n   中国科学报｜2026-06-01｜https://news.sciencenet.cn/htmlnews/2026/6/565775.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-06-01] 涉及毛绒玩具、电动童车……一批儿童相关国家标准正式发布\n   科技日报｜2026-06-01｜https://www.stdaily.com/web/gdxw/2026-06/01/content_525990.html\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-06-01] 煎饼果子机器人、智能导盲犬齐登场 直击2026年 20:47\n   网易科技｜2026-06-01｜https://www.163.com/dy/article/KUC7U8960512B07B.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4085485.shtml\n- OpenAI官宣进军机器人赛道｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565775.shtm\n- 涉及毛绒玩具、电动童车……一批儿童相关国家标准正式发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/01/content_525990.html\n- 煎饼果子机器人、智能导盲犬齐登场 直击2026年 20:47｜网易科技｜https://www.163.com/dy/article/KUC7U8960512B07B.html\n- OpenAI、英伟达杀入同一个赛道！山姆·奥特曼： 17:00｜网易科技｜https://www.163.com/dy/article/KUBQVA330512B07B.html\n- Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes｜AP Technology｜https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（67 条，10 个来源）\n- 芯片/半导体：半导体供应链（16 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（17 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（21 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（32 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes｜AP Technology｜https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c\n2. Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks｜The Register｜https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068\n3. The Download: China’s brain implant ambitions｜MIT Technology Review｜https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/\n4. China has approved the world’s first invasive brain-computer chip—here’s what’s next｜MIT Technology Review｜https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/\n5. An OpenAI model solved a famous math problem that stumped humans for 80 years｜Ars Technica｜https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-06-01｜生成时间：2026/6/1 21:12:15｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2498｜确认今日 120｜国际背景 40</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 97 条｜国际 36 条<br>延续跟踪线索：国内 23 条｜国际 4 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-01] 英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出</strong>\n      <span>新浪科技｜2026-06-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4085485.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-01] 加速产业规模化 具身智能标准持续完善</strong>\n      <span>新华网-科技｜2026-06-01｜<a href=\"http://www.news.cn/tech/20260601/c43d3fc5d9974da9b4e933f35bd1af5b/c.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-01] OpenAI官宣进军机器人赛道</strong>\n      <span>中国科学报｜2026-06-01｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/6/565775.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-01] 涉及毛绒玩具、电动童车……一批儿童相关国家标准正式发布</strong>\n      <span>科技日报｜2026-06-01｜<a href=\"https://www.stdaily.com/web/gdxw/2026-06/01/content_525990.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-01] 煎饼果子机器人、智能导盲犬齐登场 直击2026年 20:47</strong>\n      <span>网易科技｜2026-06-01｜<a href=\"https://www.163.com/dy/article/KUC7U8960512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes</strong>\n      <span>时间：2026-06-01｜来源：AP Technology｜<a href=\"https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks</strong>\n      <span>时间：Mon, 01 Jun 2026 13:45:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. The Download: China’s brain implant ambitions</strong>\n      <span>时间：Mon, 01 Jun 2026 12:10:00 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. China has approved the world’s first invasive brain-computer chip—here’s what’s next</strong>\n      <span>时间：Mon, 01 Jun 2026 09:09:00 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. An OpenAI model solved a famous math problem that stumped humans for 80 years</strong>\n      <span>时间：Mon, 01 Jun 2026 11:00:00 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/6/1 21:12:15\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 97 条｜国际 36 条\n延续跟踪线索：国内 23 条｜国际 4 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-01] 英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4085485.shtml\n   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.\n\n2. [2026-06-01] 加速产业规模化 具身智能标准持续完善\n   来源：新华网-科技\n   链接：http://www.news.cn/tech/20260601/c43d3fc5d9974da9b4e933f35bd1af5b/c.html\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n3. [2026-06-01] OpenAI官宣进军机器人赛道\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/6/565775.shtm\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-06-01] 涉及毛绒玩具、电动童车……一批儿童相关国家标准正式发布\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-06/01/content_525990.html\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n5. [2026-06-01] 煎饼果子机器人、智能导盲犬齐登场 直击2026年 20:47\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KUC7U8960512B07B.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4085485.shtml\n- OpenAI官宣进军机器人赛道｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565775.shtm\n- 涉及毛绒玩具、电动童车……一批儿童相关国家标准正式发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/01/content_525990.html\n- 煎饼果子机器人、智能导盲犬齐登场 直击2026年 20:47｜网易科技｜https://www.163.com/dy/article/KUC7U8960512B07B.html\n- OpenAI、英伟达杀入同一个赛道！山姆·奥特曼： 17:00｜网易科技｜https://www.163.com/dy/article/KUBQVA330512B07B.html\n- Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes｜AP Technology｜https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（67 条，10 个来源）\n- 芯片/半导体：半导体供应链（16 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（17 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（21 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（32 条，8 个来源）\n\n国际科技背景：\n1. Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes｜AP Technology｜https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c\n2. Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks｜The Register｜https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068\n3. The Download: China’s brain implant ambitions｜MIT Technology Review｜https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/\n4. China has approved the world’s first invasive brain-computer chip—here’s what’s next｜MIT Technology Review｜https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/\n5. An OpenAI model solved a famous math problem that stumped humans for 80 years｜Ars Technica｜https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "ChenChen 今日中国科技热点｜2026-06-01｜v2\n生成时间：2026/6/1 21:17:45\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2500｜确认今日 120｜国际背景 40\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 116 条｜国际 40 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-01] 英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出\n   新浪科技｜2026-06-01｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4085485.shtml\n   报道角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.\n\n2. [2026-06-01] 加速产业规模化 具身智能标准持续完善\n   新华网-科技｜2026-06-01｜http://www.news.cn/tech/20260601/c43d3fc5d9974da9b4e933f35bd1af5b/c.html\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n3. [2026-06-01] 贾跃亭：FF 机器人五月出货 69 台，超三四月总和\n   新浪科技｜2026-06-01｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwcks5482924.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-06-01] OpenAI官宣进军机器人赛道\n   中国科学报｜2026-06-01｜https://news.sciencenet.cn/htmlnews/2026/6/565775.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n5. [2026-06-01] 涉及毛绒玩具、电动童车……一批儿童相关国家标准正式发布\n   科技日报｜2026-06-01｜https://www.stdaily.com/web/gdxw/2026-06/01/content_525990.html\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n本次新增线索：\n- 贾跃亭：FF 机器人五月出货 69 台，超三四月总和｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwcks5482924.shtml\n- “微笑”卫星成功发射 中欧携手守望地球家园｜中国科学院｜https://www.cas.cn/yw/202605/t20260519_5109973.shtml\n- NVIDIA重新发明PC！黄仁勋正式发布Windows专用处理器RTX Spark：所有老电脑都可以扔了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-01/doc-inhzwuhs3971933.shtml\n- 黄仁勋演讲实录|40年来PC首次重设计！｜网易科技｜https://www.163.com/tech/article/KUBQDKRC00097U7T.html\n\n今日热点方向：\n- AI 应用：AI动态（84 条，10 个来源）\n- 芯片/半导体：半导体供应链（16 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（18 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（20 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（27 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes｜AP Technology｜https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c\n2. Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks｜The Register｜https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068\n3. The Download: China’s brain implant ambitions｜MIT Technology Review｜https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/\n4. China has approved the world’s first invasive brain-computer chip—here’s what’s next｜MIT Technology Review｜https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/\n5. An OpenAI model solved a famous math problem that stumped humans for 80 years｜Ars Technica｜https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-06-01｜v2\n生成时间：2026/6/1 21:17:45\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2500｜确认今日 120｜国际背景 40\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 116 条｜国际 40 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-01] 英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出\n   新浪科技｜2026-06-01｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4085485.shtml\n   报道角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.\n\n2. [2026-06-01] 加速产业规模化 具身智能标准持续完善\n   新华网-科技｜2026-06-01｜http://www.news.cn/tech/20260601/c43d3fc5d9974da9b4e933f35bd1af5b/c.html\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n3. [2026-06-01] 贾跃亭：FF 机器人五月出货 69 台，超三四月总和\n   新浪科技｜2026-06-01｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwcks5482924.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-06-01] OpenAI官宣进军机器人赛道\n   中国科学报｜2026-06-01｜https://news.sciencenet.cn/htmlnews/2026/6/565775.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n5. [2026-06-01] 涉及毛绒玩具、电动童车……一批儿童相关国家标准正式发布\n   科技日报｜2026-06-01｜https://www.stdaily.com/web/gdxw/2026-06/01/content_525990.html\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n本次新增线索：\n- 贾跃亭：FF 机器人五月出货 69 台，超三四月总和｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwcks5482924.shtml\n- “微笑”卫星成功发射 中欧携手守望地球家园｜中国科学院｜https://www.cas.cn/yw/202605/t20260519_5109973.shtml\n- NVIDIA重新发明PC！黄仁勋正式发布Windows专用处理器RTX Spark：所有老电脑都可以扔了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-01/doc-inhzwuhs3971933.shtml\n- 黄仁勋演讲实录|40年来PC首次重设计！｜网易科技｜https://www.163.com/tech/article/KUBQDKRC00097U7T.html\n\n今日热点方向：\n- AI 应用：AI动态（84 条，10 个来源）\n- 芯片/半导体：半导体供应链（16 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（18 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（20 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（27 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes｜AP Technology｜https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c\n2. Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks｜The Register｜https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068\n3. The Download: China’s brain implant ambitions｜MIT Technology Review｜https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/\n4. China has approved the world’s first invasive brain-computer chip—here’s what’s next｜MIT Technology Review｜https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/\n5. An OpenAI model solved a famous math problem that stumped humans for 80 years｜Ars Technica｜https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-06-01｜生成时间：2026/6/1 21:17:45｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2500｜确认今日 120｜国际背景 40</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 116 条｜国际 40 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-01] 英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出</strong>\n      <span>新浪科技｜2026-06-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4085485.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-01] 加速产业规模化 具身智能标准持续完善</strong>\n      <span>新华网-科技｜2026-06-01｜<a href=\"http://www.news.cn/tech/20260601/c43d3fc5d9974da9b4e933f35bd1af5b/c.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-01] 贾跃亭：FF 机器人五月出货 69 台，超三四月总和</strong>\n      <span>新浪科技｜2026-06-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwcks5482924.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-01] OpenAI官宣进军机器人赛道</strong>\n      <span>中国科学报｜2026-06-01｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/6/565775.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-01] 涉及毛绒玩具、电动童车……一批儿童相关国家标准正式发布</strong>\n      <span>科技日报｜2026-06-01｜<a href=\"https://www.stdaily.com/web/gdxw/2026-06/01/content_525990.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes</strong>\n      <span>时间：2026-06-01｜来源：AP Technology｜<a href=\"https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks</strong>\n      <span>时间：Mon, 01 Jun 2026 13:45:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. The Download: China’s brain implant ambitions</strong>\n      <span>时间：Mon, 01 Jun 2026 12:10:00 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. China has approved the world’s first invasive brain-computer chip—here’s what’s next</strong>\n      <span>时间：Mon, 01 Jun 2026 09:09:00 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. An OpenAI model solved a famous math problem that stumped humans for 80 years</strong>\n      <span>时间：Mon, 01 Jun 2026 11:00:00 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/6/1 21:17:45\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 116 条｜国际 40 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-01] 英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4085485.shtml\n   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.\n\n2. [2026-06-01] 加速产业规模化 具身智能标准持续完善\n   来源：新华网-科技\n   链接：http://www.news.cn/tech/20260601/c43d3fc5d9974da9b4e933f35bd1af5b/c.html\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n3. [2026-06-01] 贾跃亭：FF 机器人五月出货 69 台，超三四月总和\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwcks5482924.shtml\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-06-01] OpenAI官宣进军机器人赛道\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/6/565775.shtm\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n5. [2026-06-01] 涉及毛绒玩具、电动童车……一批儿童相关国家标准正式发布\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-06/01/content_525990.html\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n本次新增线索：\n- 贾跃亭：FF 机器人五月出货 69 台，超三四月总和｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwcks5482924.shtml\n- “微笑”卫星成功发射 中欧携手守望地球家园｜中国科学院｜https://www.cas.cn/yw/202605/t20260519_5109973.shtml\n- NVIDIA重新发明PC！黄仁勋正式发布Windows专用处理器RTX Spark：所有老电脑都可以扔了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-01/doc-inhzwuhs3971933.shtml\n- 黄仁勋演讲实录|40年来PC首次重设计！｜网易科技｜https://www.163.com/tech/article/KUBQDKRC00097U7T.html\n\n今日热点方向：\n- AI 应用：AI动态（84 条，10 个来源）\n- 芯片/半导体：半导体供应链（16 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（18 条，8 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（20 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（27 条，8 个来源）\n\n国际科技背景：\n1. Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes｜AP Technology｜https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c\n2. Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks｜The Register｜https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068\n3. The Download: China’s brain implant ambitions｜MIT Technology Review｜https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/\n4. China has approved the world’s first invasive brain-computer chip—here’s what’s next｜MIT Technology Review｜https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/\n5. An OpenAI model solved a famous math problem that stumped humans for 80 years｜Ars Technica｜https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
