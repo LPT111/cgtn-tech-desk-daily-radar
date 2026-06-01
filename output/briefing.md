@@ -2,12 +2,12 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/6/1 21:17:45
+生成时间：2026/6/1 21:25:16
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 4 条｜国际 0 条
-延续跟踪线索：国内 116 条｜国际 40 条
+新增核心线索：国内 1 条｜国际 2 条
+延续跟踪线索：国内 112 条｜国际 38 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -37,18 +37,17 @@
    角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
 
 本次新增线索：
-- 贾跃亭：FF 机器人五月出货 69 台，超三四月总和｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwcks5482924.shtml
-- “微笑”卫星成功发射 中欧携手守望地球家园｜中国科学院｜https://www.cas.cn/yw/202605/t20260519_5109973.shtml
-- NVIDIA重新发明PC！黄仁勋正式发布Windows专用处理器RTX Spark：所有老电脑都可以扔了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-01/doc-inhzwuhs3971933.shtml
-- 黄仁勋演讲实录|40年来PC首次重设计！｜网易科技｜https://www.163.com/tech/article/KUBQDKRC00097U7T.html
+- 中国企业用“介入式”突围脑机接口医疗刚需 21:16｜网易科技｜https://www.163.com/dy/article/KUC9KF6H0512B07B.html
+- Denon Home 400 review: A serious soundstage to rival Sonos｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/denon-home-400-review-serious-050000370.html
+- Minecraft Is Down For Everyone, Not Just You｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/minecraft-down-everyone-not-just-104641156.html
 
 今日热点方向：
-- AI 应用：AI动态（84 条，10 个来源）
+- AI 应用：AI动态（85 条，11 个来源）
 - 芯片/半导体：半导体供应链（16 条，7 个来源）
 - 机器人/具身智能：人形机器人与具身智能（18 条，8 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（20 条，5 个来源）
-- 太空与低空经济：低空经济与无人机（3 条，3 个来源）
-- 科学前沿：科学前沿与科研设施（27 条，8 个来源）
+- 太空与低空经济：太空与低空动态（4 条，2 个来源）
+- 科学前沿：科学前沿与科研设施（19 条，8 个来源）
 
 国际科技背景：
 1. Wall Street poised to open with gains, oil jumps again after the US and Iran trade strikes｜AP Technology｜https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c
