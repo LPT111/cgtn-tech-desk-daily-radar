@@ -2,62 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/6/2 10:54:34
+生成时间：2026/6/2 19:50:13
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 36 条｜国际 3 条
-延续跟踪线索：国内 43 条｜国际 34 条
+新增核心线索：国内 85 条｜国际 17 条
+延续跟踪线索：国内 30 条｜国际 23 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-02] 快递领域首个国际标准化机构在中国成立
+1. [2026-06-02] 我国牵头制定的安全协议测试国际标准发布
    来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-06/02/content_526281.html
+   链接：https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html
    角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
 
-2. [2026-06-02] 空间单粒子效应动态风险评估的天地等效研究获进展
+2. [2026-06-02] 提供美国25%药物研发，药明康德为何屡遭打击？
+   来源：观察者网-产业科技
+   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
+   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
+
+3. [2026-06-02] 空间单粒子效应动态风险评估的天地等效研究获进展
    来源：中国科学院
    链接：https://www.cas.cn/syky/202606/t20260601_5111344.shtml
    角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
 
-3. [2026-06-02] 优必选：全球首款全尺寸超仿生人形机器人开启预 08:48
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KUDH85PF0534A4SC.html
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
+4. [2026-06-02] 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml
+   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-4. [2026-06-02] AI与机器人盘前速递丨OpenAI布局研发机器人；成 08:45
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KUDH1JBF0512B07B.html
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
-
-5. [2026-06-02] 智博会上，具身智能馆火热的背后
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0602/c1004-40732291.html
+5. [2026-06-02] 张海星：具身智能最快18个月洗牌
+   来源：中国科学报
+   链接：https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
 本次新增线索：
-- 快递领域首个国际标准化机构在中国成立｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/02/content_526281.html
-- 空间单粒子效应动态风险评估的天地等效研究获进展｜中国科学院｜https://www.cas.cn/syky/202606/t20260601_5111344.shtml
-- 优必选：全球首款全尺寸超仿生人形机器人开启预 08:48｜网易科技｜https://www.163.com/dy/article/KUDH85PF0534A4SC.html
-- HKC惠科深度参与《电子竞技运动用设备配置与要求》国标制定｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-02/doc-inhzysxv1755544.shtml
-- 权威认证叠加技术创新 可喜安筑牢家用温热医疗器械信任基石｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-02/doc-inhzynrx1868075.shtml
-- Summer Game Fest 2026: How to watch the biggest events from PlayStation, Xbox and more｜Yahoo News Technology｜https://tech.yahoo.com/gaming/article/summer-game-fest-2026-how-to-watch-the-biggest-events-from-playstation-xbox-and-more-182828496.html
+- 我国牵头制定的安全协议测试国际标准发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html
+- 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml
+- 张海星：具身智能最快18个月洗牌｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm
+- 优必选全尺寸超仿生人形机器人京东预售｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzysxr4645017.shtml
+- AI直接生成完整电池电解液配方｜科技日报｜https://www.stdaily.com/web/gjxw/2026-06/01/content_525841.html
+- Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html
 
 今日热点方向：
-- AI 应用：AI动态（91 条，10 个来源）
-- 芯片/半导体：半导体供应链（30 条，7 个来源）
-- 机器人/具身智能：人形机器人与具身智能（21 条，8 个来源）
-- 新能源车/智能驾驶：新能源车动态（18 条，4 个来源）
-- 太空与低空经济：低空经济与无人机（3 条，3 个来源）
-- 科学前沿：科学前沿动态（26 条，8 个来源）
+- AI 应用：AI动态（73 条，10 个来源）
+- 芯片/半导体：半导体供应链（36 条，7 个来源）
+- 机器人/具身智能：人形机器人与具身智能（21 条，7 个来源）
+- 新能源车/智能驾驶：新能源车动态（12 条，4 个来源）
+- 太空与低空经济：低空经济与无人机（4 条，4 个来源）
+- 科学前沿：科学前沿与科研设施（31 条，8 个来源）
 
 国际科技背景：
 1. Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP｜TechCrunch｜https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/
-2. Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents｜TechCrunch｜https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/
-3. Nvidia Releases Its Best Open AI Model Yet—But Still Lags Behind China｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/nvidia-releases-best-open-ai-224604458.html
+2. Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html
+3. Nvidia ‘reinvents PC’ with AI chip that replaces mouse and keyboard｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/nvidia-reinvents-pc-ai-chip-103637694.html
 4. US firms still dominate chip subsidies｜The Register｜https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668
-5. This AI weather startup is out-forecasting government agencies｜TechCrunch｜https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/
+5. EVs are getting more affordable worldwide — except in the U.S.｜Rest of World｜https://restofworld.org/2026/iea-global-ev-outlook-us-sales-drop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
