@@ -2,12 +2,12 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/6/2 19:50:13
+生成时间：2026/6/2 19:56:57
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 85 条｜国际 17 条
-延续跟踪线索：国内 30 条｜国际 23 条
+新增核心线索：国内 3 条｜国际 2 条
+延续跟踪线索：国内 113 条｜国际 38 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -37,17 +37,16 @@
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
 本次新增线索：
-- 我国牵头制定的安全协议测试国际标准发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html
-- 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml
-- 张海星：具身智能最快18个月洗牌｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm
-- 优必选全尺寸超仿生人形机器人京东预售｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzysxr4645017.shtml
-- AI直接生成完整电池电解液配方｜科技日报｜https://www.stdaily.com/web/gjxw/2026-06/01/content_525841.html
-- Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html
+- 荣耀 600 系列手机首销：2 亿像素主摄、4K Live 直出，3299 元起｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-02/doc-inhzzqcm1503285.shtml
+- 黄仁勋：公司应该尽可能多地奖励员工 19:53｜网易科技｜https://www.163.com/dy/article/KUEN8RQ90512B07B.html
+- 算力筑基支撑具身智能场景化突破｜新华网-科技｜http://www.news.cn/tech/20260602/2aa5546feb894aacb88dca3343ae13e3/c.html
+- Meta expands teen content controls globally, tests new Instagram tool to diversify feeds｜Yahoo News Technology｜https://tech.yahoo.com/social-media/articles/meta-expands-teen-content-controls-115137413.html
+- Samsung Frame Pro (2026) review: A better, brighter take on the art TV concept｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/review/samsung-frame-pro-2026-review-a-better-brighter-take-on-the-art-tv-concept-115144462.html
 
 今日热点方向：
 - AI 应用：AI动态（73 条，10 个来源）
-- 芯片/半导体：半导体供应链（36 条，7 个来源）
-- 机器人/具身智能：人形机器人与具身智能（21 条，7 个来源）
+- 芯片/半导体：半导体供应链（37 条，7 个来源）
+- 机器人/具身智能：人形机器人与具身智能（22 条，7 个来源）
 - 新能源车/智能驾驶：新能源车动态（12 条，4 个来源）
 - 太空与低空经济：低空经济与无人机（4 条，4 个来源）
 - 科学前沿：科学前沿与科研设施（31 条，8 个来源）

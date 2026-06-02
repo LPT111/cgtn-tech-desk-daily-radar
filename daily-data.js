@@ -1,77 +1,47 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-06-02T11:50:13.474Z",
+  "generatedAt": "2026-06-02T11:56:57.837Z",
   "radarVersion": "v2",
   "targetDate": "2026-06-02",
   "changeSummary": {
-    "domesticNew": 85,
-    "globalNew": 17,
-    "domesticContinued": 30,
-    "globalContinued": 23,
+    "domesticNew": 3,
+    "globalNew": 2,
+    "domesticContinued": 113,
+    "globalContinued": 38,
     "topNewDomestic": [
       {
-        "title": "我国牵头制定的安全协议测试国际标准发布",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html"
-      },
-      {
-        "title": "中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争",
+        "title": "荣耀 600 系列手机首销：2 亿像素主摄、4K Live 直出，3299 元起",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-06-02/doc-inhzzqcm1503285.shtml"
       },
       {
-        "title": "张海星：具身智能最快18个月洗牌",
-        "source": "中国科学报",
-        "url": "https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm"
+        "title": "黄仁勋：公司应该尽可能多地奖励员工 19:53",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/KUEN8RQ90512B07B.html"
       },
       {
-        "title": "优必选全尺寸超仿生人形机器人京东预售",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzysxr4645017.shtml"
-      },
-      {
-        "title": "AI直接生成完整电池电解液配方",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gjxw/2026-06/01/content_525841.html"
+        "title": "算力筑基支撑具身智能场景化突破",
+        "source": "新华网-科技",
+        "url": "http://www.news.cn/tech/20260602/2aa5546feb894aacb88dca3343ae13e3/c.html"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims",
+        "title": "Meta expands teen content controls globally, tests new Instagram tool to diversify feeds",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html"
+        "url": "https://tech.yahoo.com/social-media/articles/meta-expands-teen-content-controls-115137413.html"
       },
       {
-        "title": "Nvidia ‘reinvents PC’ with AI chip that replaces mouse and keyboard",
+        "title": "Samsung Frame Pro (2026) review: A better, brighter take on the art TV concept",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/nvidia-reinvents-pc-ai-chip-103637694.html"
-      },
-      {
-        "title": "EVs are getting more affordable worldwide — except in the U.S.",
-        "source": "Rest of World",
-        "url": "https://restofworld.org/2026/iea-global-ev-outlook-us-sales-drop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "AP Top 25 Poll Alerts Get email alerts for every college football Top 25 Poll release.",
-        "source": "AP Technology",
-        "url": "https://apnews.com/newsletters?id=AP_CFB_Top_25_Poll_Alerts"
-      },
-      {
-        "title": "Rehumanizing global health care with agentic AI",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/"
+        "url": "https://tech.yahoo.com/home-entertainment/tvs/review/samsung-frame-pro-2026-review-a-better-brighter-take-on-the-art-tv-concept-115144462.html"
       }
     ],
     "hasPrevious": true
   },
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -94,11 +64,6 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "failures": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -174,8 +139,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -375,10 +339,10 @@ window.CHENCHEN_DAILY_DATA = {
   "itemsSeen": 1373,
   "itemsAfterEnrich": 900,
   "itemsAfterRelevantFilter": 569,
-  "itemsAfterDedupe": 369,
-  "todayItemsSeen": 115,
+  "itemsAfterDedupe": 372,
+  "todayItemsSeen": 116,
   "suspectedItemsSeen": 1,
-  "skippedNonToday": 250,
+  "skippedNonToday": 251,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -433,8 +397,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -785,11 +748,6 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -858,19 +816,19 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 64,
+      "count": 65,
       "sourceCount": 10,
       "sources": [
         "中国科学报",
         "新浪科技",
-        "观察者网-产业科技",
         "IT之家",
         "网易科技",
+        "观察者网-产业科技",
         "量子位",
+        "新华网-科技",
         "TechNode",
         "中国科学院",
-        "人民网-科技",
-        "新华网-科技"
+        "人民网-科技"
       ],
       "items": [
         "一线兽医师讲述：AI真的可以帮我养好猪",
@@ -927,7 +885,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "半导体供应链",
-      "count": 36,
+      "count": 37,
       "sourceCount": 7,
       "sources": [
         "新浪科技",
@@ -968,29 +926,8 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "数字经济动态",
-      "count": 22,
-      "sourceCount": 7,
-      "sources": [
-        "新浪科技",
-        "网易科技",
-        "观察者网-产业科技",
-        "中国科学院",
-        "中国科学报",
-        "人民网-科技",
-        "光明网-科技"
-      ],
-      "items": [
-        "小红书：月内处置涉未成年人违规笔记超10万条，违规账号1.3万",
-        "企业健身房器材怎么选？Precor必确高端商用健身房配置方案解析",
-        "烧掉千亿后，美团、阿里、京东谁先止血？",
-        "“完美肠菌与全生命周期健康专题研讨会”在沪圆 16:06",
-        "抖音电商否认“上半年GMV未达预期”传闻"
-      ]
-    },
-    {
       "topic": "人形机器人与具身智能",
-      "count": 21,
+      "count": 22,
       "sourceCount": 7,
       "sources": [
         "新浪科技",
@@ -1010,8 +947,29 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "数字经济动态",
+      "count": 21,
+      "sourceCount": 7,
+      "sources": [
+        "新浪科技",
+        "网易科技",
+        "观察者网-产业科技",
+        "中国科学院",
+        "中国科学报",
+        "人民网-科技",
+        "光明网-科技"
+      ],
+      "items": [
+        "小红书：月内处置涉未成年人违规笔记超10万条，违规账号1.3万",
+        "烧掉千亿后，美团、阿里、京东谁先止血？",
+        "“完美肠菌与全生命周期健康专题研讨会”在沪圆 16:06",
+        "抖音电商否认“上半年GMV未达预期”传闻",
+        "小红书变局：卖老股、边裁员边扩招，为上市“加速”"
+      ]
+    },
+    {
       "topic": "科技监管与数据安全",
-      "count": 14,
+      "count": 15,
       "sourceCount": 7,
       "sources": [
         "新浪科技",
@@ -1024,10 +982,10 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "心血管医疗器械步入国产时代：靠医生手感还是标准化？",
+        "荣耀 600 系列手机首销：2 亿像素主摄、4K Live 直出，3299 元起",
         "多燕瘦正规吗？国家食品安全抽检可查资质与三年质量诚信承诺给出答案",
         "赛力斯康波：超级增程历经五次迭代，2025 年增程器业务市占率 37.5% 居行业第一",
-        "马斯克重金挖掘中文AI优质资源，面向全世界招募语音标注人才，本土数据服务行业迎来景气发展阶段",
-        "行业第一再升级：华为凌霄子母路由 Q7 电线版定义高端组网新标准"
+        "马斯克重金挖掘中文AI优质资源，面向全世界招募语音标注人才，本土数据服务行业迎来景气发展阶段"
       ]
     },
     {
@@ -1047,6 +1005,25 @@ window.CHENCHEN_DAILY_DATA = {
         "美“新格伦”火箭爆炸致发射台瘫痪",
         "两名巴基斯坦航天员与中方一同任务训练",
         "“天关”卫星获得超新星遗迹W28迄今最完整X射线图像"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 7,
+      "sourceCount": 5,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技",
+        "量子位",
+        "TechNode"
+      ],
+      "items": [
+        "黄仁勋预测下一个万亿美元公司，Marvell盘前涨超27%",
+        "英特尔高管谈内存涨价：长期来看“总得有所改变”，将继续支持 DDR4 并加速中国、印尼品牌内存认证",
+        "CPU 需求与日俱增，英特尔陈立武自曝许多公司 CEO 来电“求供货”",
+        "英伟达Spectrum-X以太网硅光技术全面量产 19:10",
+        "黄仁勋的大刀砍向了英特尔"
       ]
     },
     {
@@ -1083,24 +1060,6 @@ window.CHENCHEN_DAILY_DATA = {
         "过程工程所安全氢基能源供热示范项目完成工况运行验证",
         "李宁品牌与斯蒂芬·库里及库里品牌达成长期合作",
         "腾讯客服：微信正与华为、荣耀、小米、OPPO、vivo 等合作，通过手机语音助理发起音视频通话或向指定好友发送消息"
-      ]
-    },
-    {
-      "topic": "芯片动态",
-      "count": 7,
-      "sourceCount": 4,
-      "sources": [
-        "新浪科技",
-        "网易科技",
-        "量子位",
-        "TechNode"
-      ],
-      "items": [
-        "黄仁勋预测下一个万亿美元公司，Marvell盘前涨超27%",
-        "英特尔高管谈内存涨价：长期来看“总得有所改变”，将继续支持 DDR4 并加速中国、印尼品牌内存认证",
-        "英伟达Spectrum-X以太网硅光技术全面量产 19:10",
-        "SK集团会长崔泰源会见英伟达CEO黄仁勋 15:44",
-        "黄仁勋的大刀砍向了英特尔"
       ]
     },
     {
@@ -1462,6 +1421,34 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "一方呼吁打破国外企业主导的标准化框架，强调中国医生独特的临床经验与操作手感；另一方则认为，个人经验难以复制与传承，唯有建立在可视化、客观证据基础上的“标准化”，才能真正造福更广泛的患者群体。近日，在由市科委、市卫健委等部门联合主办的第二期“...",
       "relatedTitles": [
         "心血管医疗器械步入国产时代：靠医生手感还是标准化？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "荣耀 600 系列手机首销：2 亿像素主摄、4K Live 直出，3299 元起",
+      "summary": "荣耀 600 系列手机今日正式首销，系列包含荣耀 600 和荣耀 600 Pro 两款机型。最大亮点是搭载 2 亿像素主摄，支持 4K Live Photo 直出功能。荣耀 600 标准版售价 3299 元起，Pro 版售价 3999 ...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-02/doc-inhzzqcm1503285.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-06-02/doc-inhzzqcm1503285.shtml"
+      ],
+      "publishedAt": "2026-06-02",
+      "date": "2026-06-02",
+      "category": "监管与安全",
+      "keywords": "data security, privacy protection, regulatory framework",
+      "priority": 5,
+      "score": 105,
+      "format": "live",
+      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
+      "status": "confirmed_today",
+      "matchedTopic": "科技监管与数据安全",
+      "rawText": "荣耀 600 系列手机今日正式首销，系列包含荣耀 600 和荣耀 600 Pro 两款机型。最大亮点是搭载 2 亿像素主摄，支持 4K Live Photo 直出功能。荣耀 600 标准版售价 3299 元起，Pro 版售价 3999 ...",
+      "relatedTitles": [
+        "荣耀 600 系列手机首销：2 亿像素主摄、4K Live 直出，3299 元起"
       ]
     },
     {
@@ -1914,6 +1901,34 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "黄仁勋：公司应该尽可能多地奖励员工 19:53",
+      "summary": "黄仁勋：公司应该尽可能多地奖励员工,三星,黄仁勋,台积电,英伟达,海力士,知名企业,全球半导体",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KUEN8RQ90512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KUEN8RQ90512B07B.html"
+      ],
+      "publishedAt": "2026-06-02",
+      "date": "2026-06-02",
+      "category": "芯片",
+      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
+      "priority": 5,
+      "score": 102,
+      "format": "graphic",
+      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "黄仁勋：公司应该尽可能多地奖励员工,三星,黄仁勋,台积电,英伟达,海力士,知名企业,全球半导体",
+      "relatedTitles": [
+        "黄仁勋：公司应该尽可能多地奖励员工 19:53"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "三星电子HBM5细节曝光 或采用铜基HPB散热技术 17:35",
       "summary": "三星电子HBM5细节曝光 或采用铜基HPB散热技术 预计2028年实现量产,芯片,海力士,hpb,三星电子,hbm5,散热技术,全球半导体领域",
       "source": "网易科技",
@@ -1994,6 +2009,34 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "根据国家统计局数据，截至2025年末，我国60岁及以上人口已达3.21亿人，占总人口的22.86%。但与此同时，据业内推算，我国养老护理人员缺口接近1000万人，供需失衡的矛盾日益凸显。面对“老有所养",
       "relatedTitles": [
         "机器人养老距离我们还有多远？"
+      ]
+    },
+    {
+      "id": "aHR0cDovL3d3dy5uZXdz",
+      "title": "算力筑基支撑具身智能场景化突破",
+      "summary": "LLM三段式训练 材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破 叠加LLM“训练buff”，材料AI终于学会了“物理直觉” 邓思邈 3分钟前 LLM三段式训练 材料基座模型 深度原理 热门文章 刚刚，国产AI自己造了AI，全球首例！ 卡帕西Anthropic最新头衔：技术员工（MT",
+      "source": "新华网-科技",
+      "sources": [
+        "新华网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "http://www.news.cn/tech/20260602/2aa5546feb894aacb88dca3343ae13e3/c.html",
+      "sourceUrls": [
+        "http://www.news.cn/tech/20260602/2aa5546feb894aacb88dca3343ae13e3/c.html"
+      ],
+      "publishedAt": "2026-06-02",
+      "date": "2026-06-02",
+      "category": "机器人",
+      "keywords": "robotics, automation, smart manufacturing, embodied AI",
+      "priority": 5,
+      "score": 102,
+      "format": "video",
+      "angle": "Show whether robotics is entering real production and service settings, not just product launches or demos.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "算力筑基支撑具身智能场景化突破-\"因此，具身智能的数据训练集群更多体现为中试场地建设与企业私有数据积累，其产业链规模与AI大模型所需的通用算力集群存在显著差异。\"",
+      "relatedTitles": [
+        "算力筑基支撑具身智能场景化突破"
       ]
     },
     {
@@ -3765,34 +3808,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "企业健身房器材怎么选？Precor必确高端商用健身房配置方案解析",
-      "summary": "2026年06月02日 18:16:05近年来，越来越多的企业开始关注员工健康，企业健身房已成为提升员工福利、增强团队凝聚力的重要投资。然而，如何科学配置健身空间、选择适合的器材，是许多企业在规划阶段面临的核心问题。总部位于美国西雅图的必确...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-02/doc-inhzzivn3132661.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-02/doc-inhzzivn3132661.shtml"
-      ],
-      "publishedAt": "2026-06-02",
-      "date": "2026-06-02",
-      "category": "数字经济",
-      "keywords": "digital economy, data infrastructure, cloud computing",
-      "priority": 5,
-      "score": 77,
-      "format": "graphic",
-      "angle": "Connect the item to digital infrastructure, data flows, platform economy and how technology supports the real economy.",
-      "status": "confirmed_today",
-      "matchedTopic": "数字经济动态",
-      "rawText": "2026年06月02日 18:16:05近年来，越来越多的企业开始关注员工健康，企业健身房已成为提升员工福利、增强团队凝聚力的重要投资。然而，如何科学配置健身空间、选择适合的器材，是许多企业在规划阶段面临的核心问题。总部位于美国西雅图的必确...",
-      "relatedTitles": [
-        "企业健身房器材怎么选？Precor必确高端商用健身房配置方案解析"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "腾讯客服：微信正与华为、荣耀、小米、OPPO、vivo 等合作，通过手机语音助理发起音视频通话或向指定好友发送消息",
       "summary": "IT之家 6 月 2 日消息，据IT之家小伙伴今日反馈，腾讯客服最新回复显示，微信正在与华为、荣耀、小米、OPPO、vivo 等手机厂商合作推出 A2A 助手能力。用户可以通过手机语音助理发起微信音视频通话或向指定好友发送消息。该功能基于 ...",
       "source": "新浪科技",
@@ -4069,34 +4084,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "“完美肠菌与全生命周期健康专题研讨会”在沪圆满举行,科学,完美,肠菌,微生态,微生物,生命周期,肠道菌群,健康专题研讨会",
       "relatedTitles": [
         "“完美肠菌与全生命周期健康专题研讨会”在沪圆 16:06"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "SK集团会长崔泰源会见英伟达CEO黄仁勋 15:44",
-      "summary": "SK集团会长崔泰源会见英伟达CEO黄仁勋,韩国,黄仁勋,崔泰源,英伟达,SK集团,首席执行官,sk集团会长",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KUE9145305198CJN.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/KUE9145305198CJN.html"
-      ],
-      "publishedAt": "2026-06-02",
-      "date": "2026-06-02",
-      "category": "芯片",
-      "keywords": "semiconductors, advanced packaging, supply-chain resilience",
-      "priority": 5,
-      "score": 77,
-      "format": "graphic",
-      "angle": "Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "SK集团会长崔泰源会见英伟达CEO黄仁勋,韩国,黄仁勋,崔泰源,英伟达,SK集团,首席执行官,sk集团会长",
-      "relatedTitles": [
-        "SK集团会长崔泰源会见英伟达CEO黄仁勋 15:44"
       ]
     },
     {
@@ -4832,6 +4819,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Meta expands teen content controls globally, tests new Instagram tool to diversify feeds",
+      "summary": "June 2 (Reuters) - Meta is expanding its content settings for teen accounts on Instagram, Facebook and Messenger globally to ensure age-appropriate experiences for younger users, i",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/social-media/articles/meta-expands-teen-content-controls-115137413.html",
+      "publishedAt": "2026-06-02",
+      "date": "2026-06-02",
+      "region": "US",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
+      "priority": 4,
+      "score": 60,
+      "status": "confirmed_today"
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Qualcomm Says 2026 Is the ‘Year of Agents,’ Unveils Dragonfly AI Data Center Brand",
       "summary": "COMPUTEX 2026 opened in Taipei with organizers framing artificial intelligence as the central force reshaping the global technology industry, while Qualcomm (NASDAQ:QCOM) President",
       "source": "Yahoo News Technology",
@@ -5070,6 +5074,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung Frame Pro (2026) review: A better, brighter take on the art TV concept",
+      "summary": "I just wish more people could afford it.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/home-entertainment/tvs/review/samsung-frame-pro-2026-review-a-better-brighter-take-on-the-art-tv-concept-115144462.html",
+      "publishedAt": "2026-06-02",
+      "date": "2026-06-02",
+      "region": "US",
+      "category": "数字经济",
+      "keywords": "digital economy, data infrastructure, cloud computing",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
+      "priority": 4,
+      "score": 45,
+      "status": "confirmed_today"
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "No delays, no buffering: Tech tips for watching World Cup matches",
       "summary": "For many football fans who can't be at the stadiums in the United States, Canada or Mexico for the football World Cup (June 11 to July 19), a projector or a giant television is the",
       "source": "Yahoo News Technology",
@@ -5084,44 +5105,10 @@ window.CHENCHEN_DAILY_DATA = {
       "priority": 4,
       "score": 45,
       "status": "confirmed_today"
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Why Your Smart TV Doesn't Have DisplayPorts (And Probably Never Will)",
-      "summary": "The latest iteration of DisplayPort blows the commonly used HDMI 2.1 out of the water — so why isn't it the norm on smart TVs? There are a couple reasons.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/why-smart-tv-doesnt-displayports-021700173.html",
-      "publishedAt": "2026-06-02",
-      "date": "2026-06-02",
-      "region": "US",
-      "category": "数字经济",
-      "keywords": "digital economy, data infrastructure, cloud computing",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
-      "priority": 4,
-      "score": 45,
-      "status": "confirmed_today"
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Android 17 Is Coming To Every Samsung Phone On This List",
-      "summary": "Android 17 is almost here, and Samsung's rollout plans could affect millions of users. See how the update is shaping up and what it could mean for your device.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/android-17-coming-every-samsung-014500404.html",
-      "publishedAt": "2026-06-02",
-      "date": "2026-06-02",
-      "region": "US",
-      "category": "数字经济",
-      "keywords": "digital economy, data infrastructure, cloud computing",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use this as background for global 数字经济 trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
-      "priority": 4,
-      "score": 45,
-      "status": "confirmed_today"
     }
   ],
-  "brief": "ChenChen 今日中国科技热点｜2026-06-02｜v2\n生成时间：2026/6/2 19:50:13\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2601｜确认今日 115｜国际背景 40\n\n本次更新：\n新增核心线索：国内 85 条｜国际 17 条\n延续跟踪线索：国内 30 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-02] 我国牵头制定的安全协议测试国际标准发布\n   科技日报｜2026-06-02｜https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n2. [2026-06-02] 提供美国25%药物研发，药明康德为何屡遭打击？\n   观察者网-产业科技｜2026-06-02｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-06-02] 空间单粒子效应动态风险评估的天地等效研究获进展\n   中国科学院｜2026-06-02｜https://www.cas.cn/syky/202606/t20260601_5111344.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-06-02] 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争\n   新浪科技｜2026-06-02｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-06-02] 张海星：具身智能最快18个月洗牌\n   中国科学报｜2026-06-02｜https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 我国牵头制定的安全协议测试国际标准发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html\n- 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml\n- 张海星：具身智能最快18个月洗牌｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm\n- 优必选全尺寸超仿生人形机器人京东预售｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzysxr4645017.shtml\n- AI直接生成完整电池电解液配方｜科技日报｜https://www.stdaily.com/web/gjxw/2026-06/01/content_525841.html\n- Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html\n\n今日热点方向：\n- AI 应用：AI动态（73 条，10 个来源）\n- 芯片/半导体：半导体供应链（36 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（21 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（12 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（31 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP｜TechCrunch｜https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/\n2. Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html\n3. Nvidia ‘reinvents PC’ with AI chip that replaces mouse and keyboard｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/nvidia-reinvents-pc-ai-chip-103637694.html\n4. US firms still dominate chip subsidies｜The Register｜https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668\n5. EVs are getting more affordable worldwide — except in the U.S.｜Rest of World｜https://restofworld.org/2026/iea-global-ev-outlook-us-sales-drop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-06-02｜v2\n生成时间：2026/6/2 19:50:13\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2601｜确认今日 115｜国际背景 40\n\n本次更新：\n新增核心线索：国内 85 条｜国际 17 条\n延续跟踪线索：国内 30 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-02] 我国牵头制定的安全协议测试国际标准发布\n   科技日报｜2026-06-02｜https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n2. [2026-06-02] 提供美国25%药物研发，药明康德为何屡遭打击？\n   观察者网-产业科技｜2026-06-02｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-06-02] 空间单粒子效应动态风险评估的天地等效研究获进展\n   中国科学院｜2026-06-02｜https://www.cas.cn/syky/202606/t20260601_5111344.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-06-02] 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争\n   新浪科技｜2026-06-02｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-06-02] 张海星：具身智能最快18个月洗牌\n   中国科学报｜2026-06-02｜https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 我国牵头制定的安全协议测试国际标准发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html\n- 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml\n- 张海星：具身智能最快18个月洗牌｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm\n- 优必选全尺寸超仿生人形机器人京东预售｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzysxr4645017.shtml\n- AI直接生成完整电池电解液配方｜科技日报｜https://www.stdaily.com/web/gjxw/2026-06/01/content_525841.html\n- Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html\n\n今日热点方向：\n- AI 应用：AI动态（73 条，10 个来源）\n- 芯片/半导体：半导体供应链（36 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（21 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（12 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（31 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP｜TechCrunch｜https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/\n2. Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html\n3. Nvidia ‘reinvents PC’ with AI chip that replaces mouse and keyboard｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/nvidia-reinvents-pc-ai-chip-103637694.html\n4. US firms still dominate chip subsidies｜The Register｜https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668\n5. EVs are getting more affordable worldwide — except in the U.S.｜Rest of World｜https://restofworld.org/2026/iea-global-ev-outlook-us-sales-drop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-06-02｜生成时间：2026/6/2 19:50:13｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2601｜确认今日 115｜国际背景 40</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 85 条｜国际 17 条<br>延续跟踪线索：国内 30 条｜国际 23 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-02] 我国牵头制定的安全协议测试国际标准发布</strong>\n      <span>科技日报｜2026-06-02｜<a href=\"https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-02] 提供美国25%药物研发，药明康德为何屡遭打击？</strong>\n      <span>观察者网-产业科技｜2026-06-02｜<a href=\"https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-02] 空间单粒子效应动态风险评估的天地等效研究获进展</strong>\n      <span>中国科学院｜2026-06-02｜<a href=\"https://www.cas.cn/syky/202606/t20260601_5111344.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-02] 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争</strong>\n      <span>新浪科技｜2026-06-02｜<a href=\"https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-02] 张海星：具身智能最快18个月洗牌</strong>\n      <span>中国科学报｜2026-06-02｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP</strong>\n      <span>时间：Mon, 01 Jun 2026 21:35:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 芯片.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims</strong>\n      <span>时间：2026-06-02｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia ‘reinvents PC’ with AI chip that replaces mouse and keyboard</strong>\n      <span>时间：2026-06-02｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/nvidia-reinvents-pc-ai-chip-103637694.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. US firms still dominate chip subsidies</strong>\n      <span>时间：Mon, 01 Jun 2026 18:21:06 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. EVs are getting more affordable worldwide — except in the U.S.</strong>\n      <span>时间：Tue, 02 Jun 2026 10:00:00 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/iea-global-ev-outlook-us-sales-drop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/6/2 19:50:13\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 85 条｜国际 17 条\n延续跟踪线索：国内 30 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-02] 我国牵头制定的安全协议测试国际标准发布\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html\n   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n2. [2026-06-02] 提供美国25%药物研发，药明康德为何屡遭打击？\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-06-02] 空间单粒子效应动态风险评估的天地等效研究获进展\n   来源：中国科学院\n   链接：https://www.cas.cn/syky/202606/t20260601_5111344.shtml\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-06-02] 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-06-02] 张海星：具身智能最快18个月洗牌\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 我国牵头制定的安全协议测试国际标准发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html\n- 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml\n- 张海星：具身智能最快18个月洗牌｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm\n- 优必选全尺寸超仿生人形机器人京东预售｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzysxr4645017.shtml\n- AI直接生成完整电池电解液配方｜科技日报｜https://www.stdaily.com/web/gjxw/2026-06/01/content_525841.html\n- Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html\n\n今日热点方向：\n- AI 应用：AI动态（73 条，10 个来源）\n- 芯片/半导体：半导体供应链（36 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（21 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（12 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（31 条，8 个来源）\n\n国际科技背景：\n1. Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP｜TechCrunch｜https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/\n2. Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html\n3. Nvidia ‘reinvents PC’ with AI chip that replaces mouse and keyboard｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/nvidia-reinvents-pc-ai-chip-103637694.html\n4. US firms still dominate chip subsidies｜The Register｜https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668\n5. EVs are getting more affordable worldwide — except in the U.S.｜Rest of World｜https://restofworld.org/2026/iea-global-ev-outlook-us-sales-drop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "ChenChen 今日中国科技热点｜2026-06-02｜v2\n生成时间：2026/6/2 19:56:57\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2601｜确认今日 116｜国际背景 40\n\n本次更新：\n新增核心线索：国内 3 条｜国际 2 条\n延续跟踪线索：国内 113 条｜国际 38 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-02] 我国牵头制定的安全协议测试国际标准发布\n   科技日报｜2026-06-02｜https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n2. [2026-06-02] 提供美国25%药物研发，药明康德为何屡遭打击？\n   观察者网-产业科技｜2026-06-02｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-06-02] 空间单粒子效应动态风险评估的天地等效研究获进展\n   中国科学院｜2026-06-02｜https://www.cas.cn/syky/202606/t20260601_5111344.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-06-02] 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争\n   新浪科技｜2026-06-02｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-06-02] 张海星：具身智能最快18个月洗牌\n   中国科学报｜2026-06-02｜https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 荣耀 600 系列手机首销：2 亿像素主摄、4K Live 直出，3299 元起｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-02/doc-inhzzqcm1503285.shtml\n- 黄仁勋：公司应该尽可能多地奖励员工 19:53｜网易科技｜https://www.163.com/dy/article/KUEN8RQ90512B07B.html\n- 算力筑基支撑具身智能场景化突破｜新华网-科技｜http://www.news.cn/tech/20260602/2aa5546feb894aacb88dca3343ae13e3/c.html\n- Meta expands teen content controls globally, tests new Instagram tool to diversify feeds｜Yahoo News Technology｜https://tech.yahoo.com/social-media/articles/meta-expands-teen-content-controls-115137413.html\n- Samsung Frame Pro (2026) review: A better, brighter take on the art TV concept｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/review/samsung-frame-pro-2026-review-a-better-brighter-take-on-the-art-tv-concept-115144462.html\n\n今日热点方向：\n- AI 应用：AI动态（73 条，10 个来源）\n- 芯片/半导体：半导体供应链（37 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（22 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（12 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（31 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP｜TechCrunch｜https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/\n2. Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html\n3. Nvidia ‘reinvents PC’ with AI chip that replaces mouse and keyboard｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/nvidia-reinvents-pc-ai-chip-103637694.html\n4. US firms still dominate chip subsidies｜The Register｜https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668\n5. EVs are getting more affordable worldwide — except in the U.S.｜Rest of World｜https://restofworld.org/2026/iea-global-ev-outlook-us-sales-drop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-06-02｜v2\n生成时间：2026/6/2 19:56:57\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2601｜确认今日 116｜国际背景 40\n\n本次更新：\n新增核心线索：国内 3 条｜国际 2 条\n延续跟踪线索：国内 113 条｜国际 38 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-02] 我国牵头制定的安全协议测试国际标准发布\n   科技日报｜2026-06-02｜https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html\n   报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n2. [2026-06-02] 提供美国25%药物研发，药明康德为何屡遭打击？\n   观察者网-产业科技｜2026-06-02｜https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-06-02] 空间单粒子效应动态风险评估的天地等效研究获进展\n   中国科学院｜2026-06-02｜https://www.cas.cn/syky/202606/t20260601_5111344.shtml\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-06-02] 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争\n   新浪科技｜2026-06-02｜https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-06-02] 张海星：具身智能最快18个月洗牌\n   中国科学报｜2026-06-02｜https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 荣耀 600 系列手机首销：2 亿像素主摄、4K Live 直出，3299 元起｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-02/doc-inhzzqcm1503285.shtml\n- 黄仁勋：公司应该尽可能多地奖励员工 19:53｜网易科技｜https://www.163.com/dy/article/KUEN8RQ90512B07B.html\n- 算力筑基支撑具身智能场景化突破｜新华网-科技｜http://www.news.cn/tech/20260602/2aa5546feb894aacb88dca3343ae13e3/c.html\n- Meta expands teen content controls globally, tests new Instagram tool to diversify feeds｜Yahoo News Technology｜https://tech.yahoo.com/social-media/articles/meta-expands-teen-content-controls-115137413.html\n- Samsung Frame Pro (2026) review: A better, brighter take on the art TV concept｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/review/samsung-frame-pro-2026-review-a-better-brighter-take-on-the-art-tv-concept-115144462.html\n\n今日热点方向：\n- AI 应用：AI动态（73 条，10 个来源）\n- 芯片/半导体：半导体供应链（37 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（22 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（12 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（31 条，8 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP｜TechCrunch｜https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/\n2. Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html\n3. Nvidia ‘reinvents PC’ with AI chip that replaces mouse and keyboard｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/nvidia-reinvents-pc-ai-chip-103637694.html\n4. US firms still dominate chip subsidies｜The Register｜https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668\n5. EVs are getting more affordable worldwide — except in the U.S.｜Rest of World｜https://restofworld.org/2026/iea-global-ev-outlook-us-sales-drop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-06-02｜生成时间：2026/6/2 19:56:57｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2601｜确认今日 116｜国际背景 40</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 2 条<br>延续跟踪线索：国内 113 条｜国际 38 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-02] 我国牵头制定的安全协议测试国际标准发布</strong>\n      <span>科技日报｜2026-06-02｜<a href=\"https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-02] 提供美国25%药物研发，药明康德为何屡遭打击？</strong>\n      <span>观察者网-产业科技｜2026-06-02｜<a href=\"https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-02] 空间单粒子效应动态风险评估的天地等效研究获进展</strong>\n      <span>中国科学院｜2026-06-02｜<a href=\"https://www.cas.cn/syky/202606/t20260601_5111344.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-02] 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争</strong>\n      <span>新浪科技｜2026-06-02｜<a href=\"https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-02] 张海星：具身智能最快18个月洗牌</strong>\n      <span>中国科学报｜2026-06-02｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP</strong>\n      <span>时间：Mon, 01 Jun 2026 21:35:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 芯片.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims</strong>\n      <span>时间：2026-06-02｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia ‘reinvents PC’ with AI chip that replaces mouse and keyboard</strong>\n      <span>时间：2026-06-02｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/nvidia-reinvents-pc-ai-chip-103637694.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. US firms still dominate chip subsidies</strong>\n      <span>时间：Mon, 01 Jun 2026 18:21:06 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. EVs are getting more affordable worldwide — except in the U.S.</strong>\n      <span>时间：Tue, 02 Jun 2026 10:00:00 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/iea-global-ev-outlook-us-sales-drop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around 数字经济.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/6/2 19:56:57\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 3 条｜国际 2 条\n延续跟踪线索：国内 113 条｜国际 38 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-02] 我国牵头制定的安全协议测试国际标准发布\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html\n   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.\n\n2. [2026-06-02] 提供美国25%药物研发，药明康德为何屡遭打击？\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n3. [2026-06-02] 空间单粒子效应动态风险评估的天地等效研究获进展\n   来源：中国科学院\n   链接：https://www.cas.cn/syky/202606/t20260601_5111344.shtml\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n4. [2026-06-02] 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n5. [2026-06-02] 张海星：具身智能最快18个月洗牌\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n本次新增线索：\n- 荣耀 600 系列手机首销：2 亿像素主摄、4K Live 直出，3299 元起｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-02/doc-inhzzqcm1503285.shtml\n- 黄仁勋：公司应该尽可能多地奖励员工 19:53｜网易科技｜https://www.163.com/dy/article/KUEN8RQ90512B07B.html\n- 算力筑基支撑具身智能场景化突破｜新华网-科技｜http://www.news.cn/tech/20260602/2aa5546feb894aacb88dca3343ae13e3/c.html\n- Meta expands teen content controls globally, tests new Instagram tool to diversify feeds｜Yahoo News Technology｜https://tech.yahoo.com/social-media/articles/meta-expands-teen-content-controls-115137413.html\n- Samsung Frame Pro (2026) review: A better, brighter take on the art TV concept｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/review/samsung-frame-pro-2026-review-a-better-brighter-take-on-the-art-tv-concept-115144462.html\n\n今日热点方向：\n- AI 应用：AI动态（73 条，10 个来源）\n- 芯片/半导体：半导体供应链（37 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（22 条，7 个来源）\n- 新能源车/智能驾驶：新能源车动态（12 条，4 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（31 条，8 个来源）\n\n国际科技背景：\n1. Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP｜TechCrunch｜https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/\n2. Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html\n3. Nvidia ‘reinvents PC’ with AI chip that replaces mouse and keyboard｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/nvidia-reinvents-pc-ai-chip-103637694.html\n4. US firms still dominate chip subsidies｜The Register｜https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668\n5. EVs are getting more affordable worldwide — except in the U.S.｜Rest of World｜https://restofworld.org/2026/iea-global-ev-outlook-us-sales-drop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
