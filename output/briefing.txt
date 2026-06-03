@@ -1,11 +1,11 @@
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/6/3 11:29:37
+生成时间：2026/6/3 20:20:38
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 37 条｜国际 5 条
-延续跟踪线索：国内 45 条｜国际 34 条
+新增核心线索：国内 97 条｜国际 20 条
+延续跟踪线索：国内 30 条｜国际 20 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -19,43 +19,43 @@
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-3. [2026-06-03] 我国牵头修订的通用模件熔断体国际标准发布
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-03/doc-iniaavwv1060189.shtml
-   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
+3. [2026-06-03] 多种陆地“行走”鱼类共享相似运动法则
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html
+   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
-4. [2026-06-03] 提供美国25%药物研发，药明康德为何屡遭打击？
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
+4. [2026-06-03] 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩
+   来源：中国科学报
+   链接：https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm
+   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
+
+5. [2026-06-03] 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-5. [2026-06-03] AI与机器人盘前速递丨马斯克疑似为芯片厂Terafa 08:54
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KUG3UQDQ0512B07B.html
-   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
-
 本次新增线索：
-- 我国牵头修订的通用模件熔断体国际标准发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-03/doc-iniaavwv1060189.shtml
-- 小米米家电动直柄螺丝刀开启众筹：三档扭力可调，2000mAh 大电池，首发价 99 元｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-03/doc-iniaavww4306114.shtml
-- “细胞机器人”能促进受损脊髓再生｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565867.shtm
-- 联通沃悦读深耕数字文化赛道 以数智赋能助力文化产业高质量发展｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-03/doc-iniaavwv1067476.shtml
-- 黄仁勋：员工的薪水应该越高越好 水管工都能拿六位数｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-03/doc-iniaavwv1067607.shtml
-- New Ill trailer sets a new bar for videogame ultraviolence, with at least three skull crushings｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/ill-trailer-sets-bar-videogame-002038567.html
+- 多种陆地“行走”鱼类共享相似运动法则｜科技日报｜https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html
+- 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm
+- 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题｜新浪科技｜https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml
+- 机器人进校潮背后：AI产业正在争夺“真实世界入口”｜新浪科技｜https://finance.sina.com.cn/tech/csj/2026-06-03/doc-iniachnr0935547.shtml
+- 芯片巨头达成新共识！AI Agent时代或全面到来 17:52｜网易科技｜https://www.163.com/dy/article/KUH2OJ5C05198CJN.html
+- Chinese-linked tech company uses AI to predict who might become a dissident｜France24 Technology｜https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（72 条，10 个来源）
-- 芯片/半导体：半导体供应链（27 条，6 个来源）
-- 机器人/具身智能：人形机器人与具身智能（18 条，7 个来源）
-- 新能源车/智能驾驶：新能源车动态（11 条，4 个来源）
-- 太空与低空经济：太空与低空动态（6 条，5 个来源）
-- 科学前沿：科学前沿与科研设施（32 条，8 个来源）
+- AI 应用：AI动态（92 条，12 个来源）
+- 芯片/半导体：半导体供应链（21 条，7 个来源）
+- 机器人/具身智能：人形机器人与具身智能（26 条，9 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（17 条，5 个来源）
+- 太空与低空经济：低空经济与无人机（4 条，4 个来源）
+- 科学前沿：科学前沿与科研设施（22 条，7 个来源）
 
 国际科技背景：
-1. OpenAI launches new Codex tools for white-collar work｜TechCrunch｜https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/
-2. Palo Alto CEO says customer meeting requests have surged amid AI security concerns｜CNBC Technology｜https://www.cnbc.com/2026/06/02/palo-alto-ceo-customer-meeting-requests-surged-ai-security-concerns.html
-3. Cyera eyes $12B valuation at 80x ARR multiple despite operating losses｜TechCrunch｜https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/
-4. In a surprise launch, China debuts another big rocket designed for reusability｜Ars Technica｜https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/
-5. Nintendo's Music App Now Works With Apple CarPlay And Android Auto｜Yahoo News Technology｜https://tech.yahoo.com/apps/articles/nintendos-music-app-now-works-204700070.html
+1. Chinese-linked tech company uses AI to predict who might become a dissident｜France24 Technology｜https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident
+2. OpenAI launches new Codex tools for white-collar work｜TechCrunch｜https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/
+3. Trump signs order seeking govt access to new AI releases｜France24 Technology｜https://www.france24.com/en/americas/20260602-trump-signs-order-allowing-ai-companies-to-give-government-access-to-models-before-release
+4. UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion｜The Register｜https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450
+5. France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
