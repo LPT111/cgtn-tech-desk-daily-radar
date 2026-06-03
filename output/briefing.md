@@ -2,12 +2,12 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/6/3 10:10:08
+生成时间：2026/6/3 11:29:37
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 71 条｜国际 40 条
-延续跟踪线索：国内 1 条｜国际 0 条
+新增核心线索：国内 37 条｜国际 5 条
+延续跟踪线索：国内 45 条｜国际 34 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -21,43 +21,43 @@
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-3. [2026-06-03] 提供美国25%药物研发，药明康德为何屡遭打击？
+3. [2026-06-03] 我国牵头修订的通用模件熔断体国际标准发布
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-03/doc-iniaavwv1060189.shtml
+   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
+
+4. [2026-06-03] 提供美国25%药物研发，药明康德为何屡遭打击？
    来源：观察者网-产业科技
    链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-4. [2026-06-03] AI与机器人盘前速递丨马斯克疑似为芯片厂Terafa 08:54
+5. [2026-06-03] AI与机器人盘前速递丨马斯克疑似为芯片厂Terafa 08:54
    来源：网易科技
    链接：https://www.163.com/dy/article/KUG3UQDQ0512B07B.html
    角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
 
-5. [2026-06-03] 中信建投：国产燃机出海趋势明确，人形机器人是 07:30
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KUFV5GBJ0534A4SC.html
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
-
 本次新增线索：
-- 老虎国际最新发布，管理层回应新规影响｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-03/doc-iniaarqy4291808.shtml
-- 6月3日隔夜要闻：美股收高 迈威尔股价飙升 油价上涨 特朗普继续获税务审计豁免 鲁比奥称美伊有望达成协议｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml
-- AI与机器人盘前速递丨马斯克疑似为芯片厂Terafa 08:54｜网易科技｜https://www.163.com/dy/article/KUG3UQDQ0512B07B.html
-- 中信建投：国产燃机出海趋势明确，人形机器人是 07:30｜网易科技｜https://www.163.com/dy/article/KUFV5GBJ0534A4SC.html
-- 影响市场重大事件：太空圈地运动开启，中国卫星 06:17｜网易科技｜https://www.163.com/dy/article/KUFQVBKD0512B07B.html
-- OpenAI launches new Codex tools for white-collar work｜TechCrunch｜https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/
+- 我国牵头修订的通用模件熔断体国际标准发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-03/doc-iniaavwv1060189.shtml
+- 小米米家电动直柄螺丝刀开启众筹：三档扭力可调，2000mAh 大电池，首发价 99 元｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-03/doc-iniaavww4306114.shtml
+- “细胞机器人”能促进受损脊髓再生｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565867.shtm
+- 联通沃悦读深耕数字文化赛道 以数智赋能助力文化产业高质量发展｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-03/doc-iniaavwv1067476.shtml
+- 黄仁勋：员工的薪水应该越高越好 水管工都能拿六位数｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-03/doc-iniaavwv1067607.shtml
+- New Ill trailer sets a new bar for videogame ultraviolence, with at least three skull crushings｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/ill-trailer-sets-bar-videogame-002038567.html
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（72 条，10 个来源）
-- 芯片/半导体：半导体供应链（25 条，6 个来源）
-- 机器人/具身智能：人形机器人与具身智能（20 条，7 个来源）
-- 新能源车/智能驾驶：新能源车动态（10 条，3 个来源）
-- 太空与低空经济：太空与低空动态（5 条，4 个来源）
-- 科学前沿：科学前沿与科研设施（31 条，7 个来源）
+- 芯片/半导体：半导体供应链（27 条，6 个来源）
+- 机器人/具身智能：人形机器人与具身智能（18 条，7 个来源）
+- 新能源车/智能驾驶：新能源车动态（11 条，4 个来源）
+- 太空与低空经济：太空与低空动态（6 条，5 个来源）
+- 科学前沿：科学前沿与科研设施（32 条，8 个来源）
 
 国际科技背景：
 1. OpenAI launches new Codex tools for white-collar work｜TechCrunch｜https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/
-2. Apple iOS 26.5.1 Software Restricted To iPhone 17 Series, iPhone Air Only: Should You Upgrade?｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-ios-26-5-1-200048787.html
-3. 5 Of The Coolest Reveals From Nvidia's 2026 Computex Event｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/5-coolest-reveals-nvidias-2026-194700422.html
-4. Palo Alto CEO says customer meeting requests have surged amid AI security concerns｜CNBC Technology｜https://www.cnbc.com/2026/06/02/palo-alto-ceo-customer-meeting-requests-surged-ai-security-concerns.html
-5. Cyera eyes $12B valuation at 80x ARR multiple despite operating losses｜TechCrunch｜https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/
+2. Palo Alto CEO says customer meeting requests have surged amid AI security concerns｜CNBC Technology｜https://www.cnbc.com/2026/06/02/palo-alto-ceo-customer-meeting-requests-surged-ai-security-concerns.html
+3. Cyera eyes $12B valuation at 80x ARR multiple despite operating losses｜TechCrunch｜https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/
+4. In a surprise launch, China debuts another big rocket designed for reusability｜Ars Technica｜https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/
+5. Nintendo's Music App Now Works With Apple CarPlay And Android Auto｜Yahoo News Technology｜https://tech.yahoo.com/apps/articles/nintendos-music-app-now-works-204700070.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
