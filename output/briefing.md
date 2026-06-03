@@ -2,61 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/6/2 19:56:57
+生成时间：2026/6/3 10:10:08
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 3 条｜国际 2 条
-延续跟踪线索：国内 113 条｜国际 38 条
+新增核心线索：国内 71 条｜国际 40 条
+延续跟踪线索：国内 1 条｜国际 0 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-02] 我国牵头制定的安全协议测试国际标准发布
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-06/02/content_526513.html
-   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
-
-2. [2026-06-02] 提供美国25%药物研发，药明康德为何屡遭打击？
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
-   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
-
-3. [2026-06-02] 空间单粒子效应动态风险评估的天地等效研究获进展
-   来源：中国科学院
-   链接：https://www.cas.cn/syky/202606/t20260601_5111344.shtml
-   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.
-
-4. [2026-06-02] 中电建协王思强：推动行业从低价中标恶性竞争转向高质量建设价值竞争
+1. [2026-06-03] 老虎国际最新发布，管理层回应新规影响
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-06-02/doc-inhzyxfp4567610.shtml
+   链接：https://finance.sina.com.cn/roll/2026-06-03/doc-iniaarqy4291808.shtml
+   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
+
+2. [2026-06-03] 6月3日隔夜要闻：美股收高 迈威尔股价飙升 油价上涨 特朗普继续获税务审计豁免 鲁比奥称美伊有望达成协议
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
-5. [2026-06-02] 张海星：具身智能最快18个月洗牌
-   来源：中国科学报
-   链接：https://news.sciencenet.cn/htmlnews/2026/6/565853.shtm
+3. [2026-06-03] 提供美国25%药物研发，药明康德为何屡遭打击？
+   来源：观察者网-产业科技
+   链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
+   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
+
+4. [2026-06-03] AI与机器人盘前速递丨马斯克疑似为芯片厂Terafa 08:54
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KUG3UQDQ0512B07B.html
+   角度：Explain how the development fits into China’s semiconductor supply chain, industrial resilience and global technology competition.
+
+5. [2026-06-03] 中信建投：国产燃机出海趋势明确，人形机器人是 07:30
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KUFV5GBJ0534A4SC.html
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
 本次新增线索：
-- 荣耀 600 系列手机首销：2 亿像素主摄、4K Live 直出，3299 元起｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-02/doc-inhzzqcm1503285.shtml
-- 黄仁勋：公司应该尽可能多地奖励员工 19:53｜网易科技｜https://www.163.com/dy/article/KUEN8RQ90512B07B.html
-- 算力筑基支撑具身智能场景化突破｜新华网-科技｜http://www.news.cn/tech/20260602/2aa5546feb894aacb88dca3343ae13e3/c.html
-- Meta expands teen content controls globally, tests new Instagram tool to diversify feeds｜Yahoo News Technology｜https://tech.yahoo.com/social-media/articles/meta-expands-teen-content-controls-115137413.html
-- Samsung Frame Pro (2026) review: A better, brighter take on the art TV concept｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/review/samsung-frame-pro-2026-review-a-better-brighter-take-on-the-art-tv-concept-115144462.html
+- 老虎国际最新发布，管理层回应新规影响｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-03/doc-iniaarqy4291808.shtml
+- 6月3日隔夜要闻：美股收高 迈威尔股价飙升 油价上涨 特朗普继续获税务审计豁免 鲁比奥称美伊有望达成协议｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml
+- AI与机器人盘前速递丨马斯克疑似为芯片厂Terafa 08:54｜网易科技｜https://www.163.com/dy/article/KUG3UQDQ0512B07B.html
+- 中信建投：国产燃机出海趋势明确，人形机器人是 07:30｜网易科技｜https://www.163.com/dy/article/KUFV5GBJ0534A4SC.html
+- 影响市场重大事件：太空圈地运动开启，中国卫星 06:17｜网易科技｜https://www.163.com/dy/article/KUFQVBKD0512B07B.html
+- OpenAI launches new Codex tools for white-collar work｜TechCrunch｜https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/
 
 今日热点方向：
-- AI 应用：AI动态（73 条，10 个来源）
-- 芯片/半导体：半导体供应链（37 条，7 个来源）
-- 机器人/具身智能：人形机器人与具身智能（22 条，7 个来源）
-- 新能源车/智能驾驶：新能源车动态（12 条，4 个来源）
-- 太空与低空经济：低空经济与无人机（4 条，4 个来源）
-- 科学前沿：科学前沿与科研设施（31 条，8 个来源）
+- AI 应用：AI 应用与智能体（72 条，10 个来源）
+- 芯片/半导体：半导体供应链（25 条，6 个来源）
+- 机器人/具身智能：人形机器人与具身智能（20 条，7 个来源）
+- 新能源车/智能驾驶：新能源车动态（10 条，3 个来源）
+- 太空与低空经济：太空与低空动态（5 条，4 个来源）
+- 科学前沿：科学前沿与科研设施（31 条，7 个来源）
 
 国际科技背景：
-1. Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP｜TechCrunch｜https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/
-2. Apple iPhone 18 Pro To Debut Camera Upgrade That Costs 50% More To Make, Analyst Claims｜Yahoo News Technology｜https://tech.yahoo.com/cameras/articles/apple-iphone-18-pro-debut-100034106.html
-3. Nvidia ‘reinvents PC’ with AI chip that replaces mouse and keyboard｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/nvidia-reinvents-pc-ai-chip-103637694.html
-4. US firms still dominate chip subsidies｜The Register｜https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668
-5. EVs are getting more affordable worldwide — except in the U.S.｜Rest of World｜https://restofworld.org/2026/iea-global-ev-outlook-us-sales-drop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+1. OpenAI launches new Codex tools for white-collar work｜TechCrunch｜https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/
+2. Apple iOS 26.5.1 Software Restricted To iPhone 17 Series, iPhone Air Only: Should You Upgrade?｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-ios-26-5-1-200048787.html
+3. 5 Of The Coolest Reveals From Nvidia's 2026 Computex Event｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/5-coolest-reveals-nvidias-2026-194700422.html
+4. Palo Alto CEO says customer meeting requests have surged amid AI security concerns｜CNBC Technology｜https://www.cnbc.com/2026/06/02/palo-alto-ceo-customer-meeting-requests-surged-ai-security-concerns.html
+5. Cyera eyes $12B valuation at 80x ARR multiple despite operating losses｜TechCrunch｜https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
