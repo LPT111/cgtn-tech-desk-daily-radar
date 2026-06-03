@@ -2,12 +2,12 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/6/3 20:20:38
+生成时间：2026/6/3 20:29:00
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 97 条｜国际 20 条
-延续跟踪线索：国内 30 条｜国际 20 条
+新增核心线索：国内 0 条｜国际 1 条
+延续跟踪线索：国内 126 条｜国际 39 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -37,12 +37,7 @@
    角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
 
 本次新增线索：
-- 多种陆地“行走”鱼类共享相似运动法则｜科技日报｜https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html
-- 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm
-- 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题｜新浪科技｜https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml
-- 机器人进校潮背后：AI产业正在争夺“真实世界入口”｜新浪科技｜https://finance.sina.com.cn/tech/csj/2026-06-03/doc-iniachnr0935547.shtml
-- 芯片巨头达成新共识！AI Agent时代或全面到来 17:52｜网易科技｜https://www.163.com/dy/article/KUH2OJ5C05198CJN.html
-- Chinese-linked tech company uses AI to predict who might become a dissident｜France24 Technology｜https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident
+- The Download: Trump’s new AI order, and smart glasses for warfare｜MIT Technology Review｜https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/
 
 今日热点方向：
 - AI 应用：AI动态（92 条，12 个来源）

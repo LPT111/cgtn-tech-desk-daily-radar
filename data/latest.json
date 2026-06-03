@@ -1,71 +1,25 @@
 {
-  "generatedAt": "2026-06-03T12:20:38.197Z",
+  "generatedAt": "2026-06-03T12:29:00.741Z",
   "radarVersion": "v2",
   "targetDate": "2026-06-03",
   "changeSummary": {
-    "domesticNew": 97,
-    "globalNew": 20,
-    "domesticContinued": 30,
-    "globalContinued": 20,
-    "topNewDomestic": [
-      {
-        "title": "多种陆地“行走”鱼类共享相似运动法则",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html"
-      },
-      {
-        "title": "我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩",
-        "source": "中国科学报",
-        "url": "https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm"
-      },
-      {
-        "title": "欧盟建设大型AI数据中心的计划据悉面临延误和资金问题",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml"
-      },
-      {
-        "title": "机器人进校潮背后：AI产业正在争夺“真实世界入口”",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/csj/2026-06-03/doc-iniachnr0935547.shtml"
-      },
-      {
-        "title": "芯片巨头达成新共识！AI Agent时代或全面到来 17:52",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KUH2OJ5C05198CJN.html"
-      }
-    ],
+    "domesticNew": 0,
+    "globalNew": 1,
+    "domesticContinued": 126,
+    "globalContinued": 39,
+    "topNewDomestic": [],
     "topNewGlobal": [
       {
-        "title": "Chinese-linked tech company uses AI to predict who might become a dissident",
-        "source": "France24 Technology",
-        "url": "https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident"
-      },
-      {
-        "title": "Trump signs order seeking govt access to new AI releases",
-        "source": "France24 Technology",
-        "url": "https://www.france24.com/en/americas/20260602-trump-signs-order-allowing-ai-companies-to-give-government-access-to-models-before-release"
-      },
-      {
-        "title": "UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion",
-        "source": "The Register",
-        "url": "https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450"
-      },
-      {
-        "title": "France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html"
-      },
-      {
-        "title": "China is training a robot future — one folded shirt at a time",
-        "source": "Rest of World",
-        "url": "https://restofworld.org/2026/china-ai-robotics-training-data/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+        "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/"
       }
     ],
     "hasPrevious": true
   },
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 28,
   "failedSources": [
     {
       "name": "财联社",
@@ -83,29 +37,19 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
+      "name": "国家网信办-政策",
+      "error": "404 Not Found",
+      "optional": true
     },
     {
-      "name": "国家网信办-政策",
+      "name": "市场监管总局",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -130,29 +74,19 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
+      "name": "国家网信办-政策",
+      "error": "404 Not Found",
+      "optional": true
     },
     {
-      "name": "国家网信办-政策",
+      "name": "市场监管总局",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -329,16 +263,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -359,9 +291,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 11,
+      "failed": false,
       "optional": false
     },
     {
@@ -369,7 +300,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -382,8 +313,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -416,13 +348,13 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1294,
+  "itemsSeen": 1244,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 534,
-  "itemsAfterDedupe": 362,
-  "todayItemsSeen": 127,
+  "itemsAfterRelevantFilter": 535,
+  "itemsAfterDedupe": 361,
+  "todayItemsSeen": 126,
   "suspectedItemsSeen": 1,
-  "skippedNonToday": 232,
+  "skippedNonToday": 231,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -592,16 +524,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -622,9 +552,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 11,
+      "failed": false,
       "optional": false
     },
     {
@@ -632,7 +561,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -645,8 +574,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -719,7 +649,7 @@
     {
       "name": "Yahoo News Technology",
       "tier": "international",
-      "parsed": 236,
+      "parsed": 237,
       "failed": false,
       "optional": false
     },
@@ -848,29 +778,19 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
+      "name": "国家网信办-政策",
+      "error": "404 Not Found",
+      "optional": true
     },
     {
-      "name": "国家网信办-政策",
+      "name": "市场监管总局",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -897,8 +817,8 @@
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1232,
-  "globalItemsAfterRelevantFilter": 303,
+  "globalItemsSeen": 1233,
+  "globalItemsAfterRelevantFilter": 305,
   "topics": [
     {
       "topic": "AI动态",
@@ -1120,7 +1040,7 @@
     },
     {
       "topic": "新能源车动态",
-      "count": 15,
+      "count": 14,
       "sourceCount": 5,
       "sources": [
         "新浪科技",
@@ -1628,34 +1548,6 @@
       "rawText": "IT之家 6 月 3 日消息，在 2026 台北国际电脑展期间，AMD 公布了全新的 EXPO Ultra Low Latency（简称 EXPO ULL）内存技术，并表示该技术将由多家内存合作伙伴提供支持。AMD 副总裁兼 Ryzen 与...",
       "relatedTitles": [
         "AMD EXPO ULL 超低延迟内存条定价预计持平现有产品，DDR5-6000 游戏性能最高提升 13%"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "大渡河老鹰岩二级水电站成功截流",
-      "summary": "首页 大渡河老鹰岩二级水电站成功截流 实现关键节点目标 分享到： 记者今天（23日）从国家能源集团获悉，大渡河老鹰岩二级水电站河道截流圆满完成，顺利实现关键节点目标。 大江截流是水电工程建设中具有里程碑意义的控制性环节，标志着项目由辅助工程正式转入主体工程施工，为后续主体工程混凝土浇筑提供无水干地条件。此次电站截流的围",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/politics/2026_04_23_814684.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/politics/2026_04_23_814684.shtml"
-      ],
-      "publishedAt": "2026-06-03",
-      "date": "2026-06-03",
-      "category": "监管与安全",
-      "keywords": "data security, privacy protection, regulatory framework",
-      "priority": 5,
-      "score": 103,
-      "format": "live",
-      "angle": "Frame it around the balance between innovation, safety, privacy, compliance and public trust.",
-      "status": "confirmed_today",
-      "matchedTopic": "科技监管与数据安全",
-      "rawText": "首页 大渡河老鹰岩二级水电站成功截流 实现关键节点目标 分享到： 记者今天（23日）从国家能源集团获悉，大渡河老鹰岩二级水电站河道截流圆满完成，顺利实现关键节点目标。 大江截流是水电工程建设中具有里程碑意义的控制性环节，标志着项目由辅助工程正式转入主体工程施工，为后续主体工程混凝土浇筑提供无水干地条件。此次电站截流的围堰最大填筑量约65万立方米，采用混凝土防渗墙，墙体厚度达1米，最大深度达91米，以应对河床60至90米深厚覆盖层的复杂地质条件。 老鹰岩二级水电站计划于2029年首台机组投产，总装机容量420兆瓦，设计年发电量18.38亿千瓦时，每年可节约标准煤超50万吨、减少二氧化碳排放超15",
-      "relatedTitles": [
-        "大渡河老鹰岩二级水电站成功截流"
       ]
     },
     {
@@ -5217,6 +5109,23 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+      "summary": "SpaceX plans to raise $75 billion in IPO at $135 per share.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+      "publishedAt": "Wed, 03 Jun 2026 12:10:00 +0000",
+      "date": "2026-06-03",
+      "region": "US",
+      "category": "AI",
+      "keywords": "AI applications, large language models, AI governance, productivity",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
+      "priority": 4,
+      "score": 61,
+      "status": "confirmed_today"
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Automattic's CMS empire shows cracks as WordPress share falls",
       "summary": "Web publishing giant remains dominant, but 6 straight months of decline suggest era of uninterrupted growth may be over",
       "source": "The Register",
@@ -5537,27 +5446,10 @@
       "priority": 4,
       "score": 60,
       "status": "confirmed_today"
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Jim Cramer says look to buy these 5 stocks outside the AI trade for diversification",
-      "summary": "CNBC's Jim Cramer said investors should consider adding exposure to out-of-favor sectors if investors begin rotating away from high-flying technology stocks.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/02/jim-cramer-these-stocks-outside-ai-for-diversification.html",
-      "publishedAt": "Tue, 02 Jun 2026 22:24:15 GMT",
-      "date": "2026-06-03",
-      "region": "US",
-      "category": "AI",
-      "keywords": "AI applications, large language models, AI governance, productivity",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use this as background for global AI trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.",
-      "priority": 4,
-      "score": 60,
-      "status": "confirmed_today"
     }
   ],
-  "brief": "ChenChen 今日中国科技热点｜2026-06-03｜v2\n生成时间：2026/6/3 20:20:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2526｜确认今日 127｜国际背景 40\n\n本次更新：\n新增核心线索：国内 97 条｜国际 20 条\n延续跟踪线索：国内 30 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-03] 老虎国际最新发布，管理层回应新规影响\n   新浪科技｜2026-06-03｜https://finance.sina.com.cn/roll/2026-06-03/doc-iniaarqy4291808.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-06-03] 6月3日隔夜要闻：美股收高 迈威尔股价飙升 油价上涨 特朗普继续获税务审计豁免 鲁比奥称美伊有望达成协议\n   新浪科技｜2026-06-03｜https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-06-03] 多种陆地“行走”鱼类共享相似运动法则\n   科技日报｜2026-06-03｜https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-06-03] 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩\n   中国科学报｜2026-06-03｜https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n5. [2026-06-03] 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题\n   新浪科技｜2026-06-03｜https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n本次新增线索：\n- 多种陆地“行走”鱼类共享相似运动法则｜科技日报｜https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html\n- 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm\n- 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题｜新浪科技｜https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml\n- 机器人进校潮背后：AI产业正在争夺“真实世界入口”｜新浪科技｜https://finance.sina.com.cn/tech/csj/2026-06-03/doc-iniachnr0935547.shtml\n- 芯片巨头达成新共识！AI Agent时代或全面到来 17:52｜网易科技｜https://www.163.com/dy/article/KUH2OJ5C05198CJN.html\n- Chinese-linked tech company uses AI to predict who might become a dissident｜France24 Technology｜https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident\n\n今日热点方向：\n- AI 应用：AI动态（92 条，12 个来源）\n- 芯片/半导体：半导体供应链（21 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（26 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（17 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（22 条，7 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese-linked tech company uses AI to predict who might become a dissident｜France24 Technology｜https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident\n2. OpenAI launches new Codex tools for white-collar work｜TechCrunch｜https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/\n3. Trump signs order seeking govt access to new AI releases｜France24 Technology｜https://www.france24.com/en/americas/20260602-trump-signs-order-allowing-ai-companies-to-give-government-access-to-models-before-release\n4. UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion｜The Register｜https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450\n5. France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html",
-  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-06-03｜v2\n生成时间：2026/6/3 20:20:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2526｜确认今日 127｜国际背景 40\n\n本次更新：\n新增核心线索：国内 97 条｜国际 20 条\n延续跟踪线索：国内 30 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-03] 老虎国际最新发布，管理层回应新规影响\n   新浪科技｜2026-06-03｜https://finance.sina.com.cn/roll/2026-06-03/doc-iniaarqy4291808.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-06-03] 6月3日隔夜要闻：美股收高 迈威尔股价飙升 油价上涨 特朗普继续获税务审计豁免 鲁比奥称美伊有望达成协议\n   新浪科技｜2026-06-03｜https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-06-03] 多种陆地“行走”鱼类共享相似运动法则\n   科技日报｜2026-06-03｜https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-06-03] 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩\n   中国科学报｜2026-06-03｜https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n5. [2026-06-03] 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题\n   新浪科技｜2026-06-03｜https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n本次新增线索：\n- 多种陆地“行走”鱼类共享相似运动法则｜科技日报｜https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html\n- 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm\n- 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题｜新浪科技｜https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml\n- 机器人进校潮背后：AI产业正在争夺“真实世界入口”｜新浪科技｜https://finance.sina.com.cn/tech/csj/2026-06-03/doc-iniachnr0935547.shtml\n- 芯片巨头达成新共识！AI Agent时代或全面到来 17:52｜网易科技｜https://www.163.com/dy/article/KUH2OJ5C05198CJN.html\n- Chinese-linked tech company uses AI to predict who might become a dissident｜France24 Technology｜https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident\n\n今日热点方向：\n- AI 应用：AI动态（92 条，12 个来源）\n- 芯片/半导体：半导体供应链（21 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（26 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（17 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（22 条，7 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese-linked tech company uses AI to predict who might become a dissident｜France24 Technology｜https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident\n2. OpenAI launches new Codex tools for white-collar work｜TechCrunch｜https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/\n3. Trump signs order seeking govt access to new AI releases｜France24 Technology｜https://www.france24.com/en/americas/20260602-trump-signs-order-allowing-ai-companies-to-give-government-access-to-models-before-release\n4. UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion｜The Register｜https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450\n5. France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-06-03｜生成时间：2026/6/3 20:20:38｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2526｜确认今日 127｜国际背景 40</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 97 条｜国际 20 条<br>延续跟踪线索：国内 30 条｜国际 20 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-03] 老虎国际最新发布，管理层回应新规影响</strong>\n      <span>新浪科技｜2026-06-03｜<a href=\"https://finance.sina.com.cn/roll/2026-06-03/doc-iniaarqy4291808.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-03] 6月3日隔夜要闻：美股收高 迈威尔股价飙升 油价上涨 特朗普继续获税务审计豁免 鲁比奥称美伊有望达成协议</strong>\n      <span>新浪科技｜2026-06-03｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-03] 多种陆地“行走”鱼类共享相似运动法则</strong>\n      <span>科技日报｜2026-06-03｜<a href=\"https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-03] 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩</strong>\n      <span>中国科学报｜2026-06-03｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-03] 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题</strong>\n      <span>新浪科技｜2026-06-03｜<a href=\"https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese-linked tech company uses AI to predict who might become a dissident</strong>\n      <span>时间：2026-06-03｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI launches new Codex tools for white-collar work</strong>\n      <span>时间：Tue, 02 Jun 2026 16:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Trump signs order seeking govt access to new AI releases</strong>\n      <span>时间：2026-06-03｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/americas/20260602-trump-signs-order-allowing-ai-companies-to-give-government-access-to-models-before-release\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion</strong>\n      <span>时间：Wed, 03 Jun 2026 13:04:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC</strong>\n      <span>时间：Wed, 03 Jun 2026 11:16:25 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/6/3 20:20:38\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 97 条｜国际 20 条\n延续跟踪线索：国内 30 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-03] 老虎国际最新发布，管理层回应新规影响\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-06-03/doc-iniaarqy4291808.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-06-03] 6月3日隔夜要闻：美股收高 迈威尔股价飙升 油价上涨 特朗普继续获税务审计豁免 鲁比奥称美伊有望达成协议\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-06-03] 多种陆地“行走”鱼类共享相似运动法则\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-06-03] 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n5. [2026-06-03] 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n本次新增线索：\n- 多种陆地“行走”鱼类共享相似运动法则｜科技日报｜https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html\n- 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩｜中国科学报｜https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm\n- 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题｜新浪科技｜https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml\n- 机器人进校潮背后：AI产业正在争夺“真实世界入口”｜新浪科技｜https://finance.sina.com.cn/tech/csj/2026-06-03/doc-iniachnr0935547.shtml\n- 芯片巨头达成新共识！AI Agent时代或全面到来 17:52｜网易科技｜https://www.163.com/dy/article/KUH2OJ5C05198CJN.html\n- Chinese-linked tech company uses AI to predict who might become a dissident｜France24 Technology｜https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident\n\n今日热点方向：\n- AI 应用：AI动态（92 条，12 个来源）\n- 芯片/半导体：半导体供应链（21 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（26 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（17 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（22 条，7 个来源）\n\n国际科技背景：\n1. Chinese-linked tech company uses AI to predict who might become a dissident｜France24 Technology｜https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident\n2. OpenAI launches new Codex tools for white-collar work｜TechCrunch｜https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/\n3. Trump signs order seeking govt access to new AI releases｜France24 Technology｜https://www.france24.com/en/americas/20260602-trump-signs-order-allowing-ai-companies-to-give-government-access-to-models-before-release\n4. UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion｜The Register｜https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450\n5. France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "ChenChen 今日中国科技热点｜2026-06-03｜v2\n生成时间：2026/6/3 20:29:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2477｜确认今日 126｜国际背景 40\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 126 条｜国际 39 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-03] 老虎国际最新发布，管理层回应新规影响\n   新浪科技｜2026-06-03｜https://finance.sina.com.cn/roll/2026-06-03/doc-iniaarqy4291808.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-06-03] 6月3日隔夜要闻：美股收高 迈威尔股价飙升 油价上涨 特朗普继续获税务审计豁免 鲁比奥称美伊有望达成协议\n   新浪科技｜2026-06-03｜https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-06-03] 多种陆地“行走”鱼类共享相似运动法则\n   科技日报｜2026-06-03｜https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-06-03] 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩\n   中国科学报｜2026-06-03｜https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n5. [2026-06-03] 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题\n   新浪科技｜2026-06-03｜https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n本次新增线索：\n- The Download: Trump’s new AI order, and smart glasses for warfare｜MIT Technology Review｜https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/\n\n今日热点方向：\n- AI 应用：AI动态（92 条，12 个来源）\n- 芯片/半导体：半导体供应链（21 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（26 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（17 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（22 条，7 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese-linked tech company uses AI to predict who might become a dissident｜France24 Technology｜https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident\n2. OpenAI launches new Codex tools for white-collar work｜TechCrunch｜https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/\n3. Trump signs order seeking govt access to new AI releases｜France24 Technology｜https://www.france24.com/en/americas/20260602-trump-signs-order-allowing-ai-companies-to-give-government-access-to-models-before-release\n4. UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion｜The Register｜https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450\n5. France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html",
+  "copyBriefingText": "ChenChen 今日中国科技热点｜2026-06-03｜v2\n生成时间：2026/6/3 20:29:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2477｜确认今日 126｜国际背景 40\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 126 条｜国际 39 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-03] 老虎国际最新发布，管理层回应新规影响\n   新浪科技｜2026-06-03｜https://finance.sina.com.cn/roll/2026-06-03/doc-iniaarqy4291808.shtml\n   报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-06-03] 6月3日隔夜要闻：美股收高 迈威尔股价飙升 油价上涨 特朗普继续获税务审计豁免 鲁比奥称美伊有望达成协议\n   新浪科技｜2026-06-03｜https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-06-03] 多种陆地“行走”鱼类共享相似运动法则\n   科技日报｜2026-06-03｜https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html\n   报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-06-03] 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩\n   中国科学报｜2026-06-03｜https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm\n   报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n5. [2026-06-03] 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题\n   新浪科技｜2026-06-03｜https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml\n   报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n本次新增线索：\n- The Download: Trump’s new AI order, and smart glasses for warfare｜MIT Technology Review｜https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/\n\n今日热点方向：\n- AI 应用：AI动态（92 条，12 个来源）\n- 芯片/半导体：半导体供应链（21 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（26 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（17 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（22 条，7 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese-linked tech company uses AI to predict who might become a dissident｜France24 Technology｜https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident\n2. OpenAI launches new Codex tools for white-collar work｜TechCrunch｜https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/\n3. Trump signs order seeking govt access to new AI releases｜France24 Technology｜https://www.france24.com/en/americas/20260602-trump-signs-order-allowing-ai-companies-to-give-government-access-to-models-before-release\n4. UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion｜The Register｜https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450\n5. France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>ChenChen 今日中国科技热点 <small>v2</small></h3>\n      <p>日期：2026-06-03｜生成时间：2026/6/3 20:29:00｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2477｜确认今日 126｜国际背景 40</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 1 条<br>延续跟踪线索：国内 126 条｜国际 39 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-03] 老虎国际最新发布，管理层回应新规影响</strong>\n      <span>新浪科技｜2026-06-03｜<a href=\"https://finance.sina.com.cn/roll/2026-06-03/doc-iniaarqy4291808.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-03] 6月3日隔夜要闻：美股收高 迈威尔股价飙升 油价上涨 特朗普继续获税务审计豁免 鲁比奥称美伊有望达成协议</strong>\n      <span>新浪科技｜2026-06-03｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-03] 多种陆地“行走”鱼类共享相似运动法则</strong>\n      <span>科技日报｜2026-06-03｜<a href=\"https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Show whether robotics is entering real production and service settings, not just product launches or demos.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-03] 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩</strong>\n      <span>中国科学报｜2026-06-03｜<a href=\"https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-03] 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题</strong>\n      <span>新浪科技｜2026-06-03｜<a href=\"https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>报道角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese-linked tech company uses AI to predict who might become a dissident</strong>\n      <span>时间：2026-06-03｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI launches new Codex tools for white-collar work</strong>\n      <span>时间：Tue, 02 Jun 2026 16:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Trump signs order seeking govt access to new AI releases</strong>\n      <span>时间：2026-06-03｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/americas/20260602-trump-signs-order-allowing-ai-companies-to-give-government-access-to-models-before-release\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion</strong>\n      <span>时间：Wed, 03 Jun 2026 13:04:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC</strong>\n      <span>时间：Wed, 03 Jun 2026 11:16:25 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around AI.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【ChenChen 今日 Briefing｜v2】\n\n生成时间：2026/6/3 20:29:00\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 126 条｜国际 39 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-03] 老虎国际最新发布，管理层回应新规影响\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-06-03/doc-iniaarqy4291808.shtml\n   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.\n\n2. [2026-06-03] 6月3日隔夜要闻：美股收高 迈威尔股价飙升 油价上涨 特朗普继续获税务审计豁免 鲁比奥称美伊有望达成协议\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-iniaamie1173057.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n3. [2026-06-03] 多种陆地“行走”鱼类共享相似运动法则\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gjxw/2026-06/02/content_526443.html\n   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.\n\n4. [2026-06-03] 我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩\n   来源：中国科学报\n   链接：https://news.sciencenet.cn/htmlnews/2026/6/565917.shtm\n   角度：Link aerospace and low-altitude applications to logistics, urban services, safety, industry policy and commercial use cases.\n\n5. [2026-06-03] 欧盟建设大型AI数据中心的计划据悉面临延误和资金问题\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/world/2026-06-03/doc-iniactaq0852680.shtml\n   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.\n\n本次新增线索：\n- The Download: Trump’s new AI order, and smart glasses for warfare｜MIT Technology Review｜https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/\n\n今日热点方向：\n- AI 应用：AI动态（92 条，12 个来源）\n- 芯片/半导体：半导体供应链（21 条，7 个来源）\n- 机器人/具身智能：人形机器人与具身智能（26 条，9 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（17 条，5 个来源）\n- 太空与低空经济：低空经济与无人机（4 条，4 个来源）\n- 科学前沿：科学前沿与科研设施（22 条，7 个来源）\n\n国际科技背景：\n1. Chinese-linked tech company uses AI to predict who might become a dissident｜France24 Technology｜https://www.france24.com/en/tv-shows/press-review/20260603-chinese-linked-tech-company-uses-ai-to-predict-who-might-become-a-dissident\n2. OpenAI launches new Codex tools for white-collar work｜TechCrunch｜https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/\n3. Trump signs order seeking govt access to new AI releases｜France24 Technology｜https://www.france24.com/en/americas/20260602-trump-signs-order-allowing-ai-companies-to-give-government-access-to-models-before-release\n4. UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion｜The Register｜https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450\n5. France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
