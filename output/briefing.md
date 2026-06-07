@@ -2,59 +2,62 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/6/6 17:48:38
+生成时间：2026/6/7 09:38:19
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 2 条｜国际 1 条
-延续跟踪线索：国内 60 条｜国际 39 条
+新增核心线索：国内 22 条｜国际 17 条
+延续跟踪线索：国内 4 条｜国际 0 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-06] 瑞幸回应“去冰仅半杯”：支持去冰的饮品，门店会按标准补液
+1. [2026-06-07] 国产机器人凭什么让世界“买账”？
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-06/07/content_528732.html
+   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
+
+2. [2026-06-07] 全国首个家庭通用机器人在武汉开启体验
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-06/07/content_528735.html
+   角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
+
+3. [2026-06-07] 小米 17 Max 新机首销情况出炉，同期约为 17 的 25%
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-06-06/doc-iniamxrr8795104.shtml
+   链接：https://finance.sina.com.cn/tech/digi/2026-06-07/doc-iniapryy6787322.shtml
    角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
 
-2. [2026-06-06] 字节跳动：没有造车或推出汽车品牌的计划 12:55
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KUO8UL1O05198CJN.html
-   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
-
-3. [2026-06-06] 微软 CEO 纳德拉要把公司内部的智能体“管起来”，为其设定身份与权限边界
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-06-06/doc-iniancxr0740367.shtml
-   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
-
-4. [2026-06-06] 下一个是OpenAI？特朗普证实：政府考虑入股人工 03:38
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KUN92DQ005198CJN.html
-   角度：Frame it around how China is moving AI from model capability into real-world productivity, governance and public-service scenarios.
-
-5. [2026-06-06] 提供美国25%药物研发，药明康德为何屡遭打击？
+4. [2026-06-07] 提供美国25%药物研发，药明康德为何屡遭打击？
    来源：观察者网-产业科技
    链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
    角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
 
+5. [2026-06-07] 美国打压，能限制中国药企崛起吗？
+   来源：观察者网-产业科技
+   链接：https://www.guancha.cn/industry-science/2024_08_21_745527.shtml
+   角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
+
 本次新增线索：
-- 机械臂“上天”！空中具身智能技术取得新进展｜光明网-科技｜https://tech.gmw.cn/2026-06/06/content_38814584.htm
-- OnexPlayer 第二款英特尔锐炫 G 系列处理器掌机曝光，屏幕更大｜IT之家｜https://www.ithome.com/0/960/920.htm
-- Google Play Books is getting an AI reading companion that remembers where you left off｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-play-books-getting-ai-084726043.html
+- 国产机器人凭什么让世界“买账”？｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/07/content_528732.html
+- 全国首个家庭通用机器人在武汉开启体验｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/07/content_528735.html
+- 小米 17 Max 新机首销情况出炉，同期约为 17 的 25%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-07/doc-iniapryy6787322.shtml
+- 国际航空运输协会副总裁：因伊朗战争推迟喷气式飞机订单将使中东航空公司付出高昂代价｜新浪科技｜https://finance.sina.com.cn/7x24/2026-06-07/doc-inianzca1534201.shtml
+- “驼峰”1500H 重载无人机在重庆首飞：最大起飞 1.5 吨、载重 700 公斤｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-07/doc-iniapwhs1102717.shtml
+- OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks｜TechCrunch｜https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/
 
 今日热点方向：
-- AI 应用：AI动态（77 条，10 个来源）
-- 芯片/半导体：半导体供应链（20 条，8 个来源）
-- 机器人/具身智能：人形机器人与具身智能（25 条，9 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（19 条，5 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（32 条，9 个来源）
+- AI 应用：AI动态（81 条，11 个来源）
+- 芯片/半导体：半导体供应链（17 条，8 个来源）
+- 机器人/具身智能：人形机器人与具身智能（28 条，9 个来源）
+- 新能源车/智能驾驶：新能源车动态（14 条，6 个来源）
+- 太空与低空经济：低空经济与无人机（4 条，3 个来源）
+- 科学前沿：科学前沿与科研设施（37 条，9 个来源）
 
 国际科技背景：
-1. If you don't fall for these extortionists' calls, they'll show up with USB sticks｜The Register｜https://www.theregister.com/cyber-crime/2026/06/05/if-you-dont-fall-for-these-extortionists-calls-theyll-show-up-with-usb-sticks/5251891
-2. Robot Kicks Child In Stomach During Demo In China｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/robot-kicks-child-stomach-during-183155795.html
-3. Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference as CEO｜CNBC Technology｜https://www.cnbc.com/2026/06/05/apple-wwdc-tim-cook-ai-siri-ternus.html
-4. Former cyber executive turned whistleblower accuses IBM of covering up several data breaches｜TechCrunch｜https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/
-5. Apple Loop: iPhone 18 Pro Specs, An Apple History Podcast, iPhone 17 Battery Fix｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-loop-iphone-18-pro-232249921.html
+1. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks｜TechCrunch｜https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/
+2. Sriram Krishnan is leaving his role as White House AI advisor｜TechCrunch｜https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/
+3. Apple iPhone 18 Pro Display Upgrade Will Enhance Battery Life, Report Claims｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/apple-iphone-18-pro-display-180036746.html
+4. 5 Apple Watch Features Seniors Will Appreciate Daily｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/5-apple-watch-features-seniors-221700206.html
+5. Apple iOS 27 Release Date: Every iPhone Dropped And What It Costs You｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-ios-27-release-date-202811529.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
