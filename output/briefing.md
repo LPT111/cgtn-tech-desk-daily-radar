@@ -2,12 +2,12 @@
 
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/6/7 09:53:52
+生成时间：2026/6/7 10:52:44
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 2 条｜国际 0 条
-延续跟踪线索：国内 25 条｜国际 17 条
+新增核心线索：国内 11 条｜国际 1 条
+延续跟踪线索：国内 21 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -21,39 +21,43 @@
    链接：https://www.stdaily.com/web/gdxw/2026-06/07/content_528735.html
    角度：Show whether robotics is entering real production and service settings, not just product launches or demos.
 
-3. [2026-06-07] 小米 17 Max 新机首销情况出炉，同期约为 17 的 25%
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-06-07/doc-iniapryy6787322.shtml
-   角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
-
-4. [2026-06-07] 提供美国25%药物研发，药明康德为何屡遭打击？
+3. [2026-06-07] 提供美国25%药物研发，药明康德为何屡遭打击？
    来源：观察者网-产业科技
    链接：https://www.guancha.cn/industry-science/2024_08_21_745528.shtml
    角度：Frame it around the balance between innovation, safety, privacy, compliance and public trust.
 
-5. [2026-06-07] 美国打压，能限制中国药企崛起吗？
+4. [2026-06-07] 美国打压，能限制中国药企崛起吗？
    来源：观察者网-产业科技
    链接：https://www.guancha.cn/industry-science/2024_08_21_745527.shtml
    角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
 
+5. [2026-06-07] 萝卜快跑，慢就是快
+   来源：观察者网-产业科技
+   链接：https://www.guancha.cn/industry-science/2024_08_21_745526.shtml
+   角度：Focus on smart mobility, battery innovation, industrial competition and overseas market implications.
+
 本次新增线索：
-- 比亚迪回应自研人形机器人代号“尧舜禹”、年内部署2万台传闻：均不属实｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-07/doc-iniapwhw6669604.shtml
-- 神舟战神 P7R9 台式机发售：R7 9850X3D + 32G + 1T + RTX5070 售 17999 元｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-07/doc-iniapwhw6670899.shtml
+- 英伟达VS英特尔互攻腹地：全球芯片格局彻底改写｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-07/doc-iniapwhu9902702.shtml
+- 工业需求提振业绩，树莓派上调全年盈利预期后股价创历史新高｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-07/doc-iniapwhu9906845.shtml
+- 端侧模型会成为设备现场的「第一层智能」吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-07/doc-iniapwhw6680273.shtml
+- 交友软件滑不动了，都市男女开始做PPT找对象｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-07/doc-iniapwhw6679248.shtml
+- 乘联分会崔东树：2025 年以来全国乘用车行业促销与降级均回归理性｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-07/doc-iniapwhw6678295.shtml
+- This E-Reader Runs Android But Borrows A Popular Apple Watch Feature｜Yahoo News Technology｜https://tech.yahoo.com/apps/articles/e-reader-runs-android-borrows-234700235.html
 
 今日热点方向：
-- AI 应用：AI动态（80 条，11 个来源）
+- AI 应用：AI动态（81 条，11 个来源）
 - 芯片/半导体：半导体供应链（19 条，8 个来源）
 - 机器人/具身智能：人形机器人与具身智能（28 条，9 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（19 条，5 个来源）
-- 太空与低空经济：低空经济与无人机（4 条，3 个来源）
-- 科学前沿：科学前沿与科研设施（37 条，9 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（20 条，5 个来源）
+- 太空与低空经济：低空经济与无人机（3 条，3 个来源）
+- 科学前沿：科学前沿与科研设施（38 条，10 个来源）
 
 国际科技背景：
 1. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks｜TechCrunch｜https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/
 2. Sriram Krishnan is leaving his role as White House AI advisor｜TechCrunch｜https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/
-3. Apple iPhone 18 Pro Display Upgrade Will Enhance Battery Life, Report Claims｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/apple-iphone-18-pro-display-180036746.html
-4. 5 Apple Watch Features Seniors Will Appreciate Daily｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/5-apple-watch-features-seniors-221700206.html
-5. Apple iOS 27 Release Date: Every iPhone Dropped And What It Costs You｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-ios-27-release-date-202811529.html
+3. This E-Reader Runs Android But Borrows A Popular Apple Watch Feature｜Yahoo News Technology｜https://tech.yahoo.com/apps/articles/e-reader-runs-android-borrows-234700235.html
+4. Apple iOS 27 Release Date: Every iPhone Dropped And What It Costs You｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-ios-27-release-date-202811529.html
+5. Halloween: The Game’s Scary New Story Trailer Shows Michael Myers Finding His Mask And Knife｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/halloween-game-scary-story-trailer-213320941.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
