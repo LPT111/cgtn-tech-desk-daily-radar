@@ -1,11 +1,11 @@
 【ChenChen 今日 Briefing｜v2】
 
-生成时间：2026/6/7 09:38:19
+生成时间：2026/6/7 09:53:52
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 
 本次更新：
-新增核心线索：国内 22 条｜国际 17 条
-延续跟踪线索：国内 4 条｜国际 0 条
+新增核心线索：国内 2 条｜国际 0 条
+延续跟踪线索：国内 25 条｜国际 17 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -35,18 +35,14 @@
    角度：Explain the scientific finding or research infrastructure in plain language, then connect it to wider innovation capacity.
 
 本次新增线索：
-- 国产机器人凭什么让世界“买账”？｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/07/content_528732.html
-- 全国首个家庭通用机器人在武汉开启体验｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/07/content_528735.html
-- 小米 17 Max 新机首销情况出炉，同期约为 17 的 25%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-07/doc-iniapryy6787322.shtml
-- 国际航空运输协会副总裁：因伊朗战争推迟喷气式飞机订单将使中东航空公司付出高昂代价｜新浪科技｜https://finance.sina.com.cn/7x24/2026-06-07/doc-inianzca1534201.shtml
-- “驼峰”1500H 重载无人机在重庆首飞：最大起飞 1.5 吨、载重 700 公斤｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-07/doc-iniapwhs1102717.shtml
-- OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks｜TechCrunch｜https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/
+- 比亚迪回应自研人形机器人代号“尧舜禹”、年内部署2万台传闻：均不属实｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-07/doc-iniapwhw6669604.shtml
+- 神舟战神 P7R9 台式机发售：R7 9850X3D + 32G + 1T + RTX5070 售 17999 元｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-07/doc-iniapwhw6670899.shtml
 
 今日热点方向：
-- AI 应用：AI动态（81 条，11 个来源）
-- 芯片/半导体：半导体供应链（17 条，8 个来源）
+- AI 应用：AI动态（80 条，11 个来源）
+- 芯片/半导体：半导体供应链（19 条，8 个来源）
 - 机器人/具身智能：人形机器人与具身智能（28 条，9 个来源）
-- 新能源车/智能驾驶：新能源车动态（14 条，6 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（19 条，5 个来源）
 - 太空与低空经济：低空经济与无人机（4 条，3 个来源）
 - 科学前沿：科学前沿与科研设施（37 条，9 个来源）
 
