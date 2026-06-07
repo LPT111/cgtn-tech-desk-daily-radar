@@ -1,17 +1,17 @@
-name: CGTN Tech Desk Daily Radar
+name: ChenChen CGTN Tech Desk Daily Radar V3
 
 on:
   schedule:
-    # v2 two-edition windows with fallbacks.
-    # Beijing morning edition around 07:40: 23:30 / 23:45 / 23:59 UTC previous day.
-    # Beijing afternoon edition around 15:40: 07:30 / 07:45 / 07:59 UTC.
+    # V3 two-edition windows with fallbacks.
+    # Beijing morning edition around 07:00: 22:50 / 23:05 / 23:20 UTC previous day.
+    # Beijing afternoon edition around 14:00: 05:50 / 06:05 / 06:20 UTC.
     # send_feishu.mjs gates duplicate pushes by edition, so fallback runs are safe.
-    - cron: '30 23 * * *'
-    - cron: '45 23 * * *'
-    - cron: '59 23 * * *'
-    - cron: '30 7 * * *'
-    - cron: '45 7 * * *'
-    - cron: '59 7 * * *'
+    - cron: '50 22 * * *'
+    - cron: '5 23 * * *'
+    - cron: '20 23 * * *'
+    - cron: '50 5 * * *'
+    - cron: '5 6 * * *'
+    - cron: '20 6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -28,8 +28,9 @@ jobs:
       TZ: Asia/Shanghai
       FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
       PUBLIC_DASHBOARD_URL: ${{ secrets.PUBLIC_DASHBOARD_URL }}
+      GITHUB_EVENT_NAME: ${{ github.event_name }}
       GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
-      RADAR_VERSION: v2
+      RADAR_VERSION: v3
 
     steps:
       - name: Checkout
@@ -66,6 +67,9 @@ jobs:
           test -f data/latest.json
           test -f output/briefing.md
           test -f output/briefing.txt
+
+      - name: Run V3 content-engine regression tests
+        run: node tests/content_engine.test.mjs
 
       - name: Send Feishu briefing
         run: node send_feishu.mjs

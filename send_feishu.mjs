@@ -6,7 +6,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const latestJsonPath = path.join(__dirname, 'data', 'latest.json');
 const briefingTxtPath = path.join(__dirname, 'output', 'briefing.txt');
 const pushStatePath = path.join(__dirname, 'data', 'feishu-push-state.json');
-const radarVersion = process.env.RADAR_VERSION || 'v2';
+const radarVersion = process.env.RADAR_VERSION || 'v3';
 
 function cnNowParts() {
   const date = new Intl.DateTimeFormat('en-CA', {
@@ -38,8 +38,8 @@ function getScheduleSlot(date, time) {
   const [hour, minute] = time.split(':').map(Number);
   const current = hour * 60 + minute;
   const slots = [
-    { name: 'morning', label: '07:40', start: 7 * 60 + 25, end: 8 * 60 + 15 },
-    { name: 'afternoon', label: '15:40', start: 15 * 60 + 25, end: 16 * 60 + 15 }
+    { name: 'morning', label: '07:00', start: 6 * 60 + 45, end: 7 * 60 + 40 },
+    { name: 'afternoon', label: '14:00', start: 13 * 60 + 45, end: 14 * 60 + 40 }
   ];
   const slot = slots.find((item) => current >= item.start && current <= item.end);
   if (!slot) return null;
@@ -51,12 +51,12 @@ function getScheduleSlot(date, time) {
 
 function getScheduleSlotFromCron(date, cron) {
   const map = {
-    '30 23 * * *': { name: 'morning', label: '07:40' },
-    '45 23 * * *': { name: 'morning', label: '07:40' },
-    '59 23 * * *': { name: 'morning', label: '07:40' },
-    '30 7 * * *': { name: 'afternoon', label: '15:40' },
-    '45 7 * * *': { name: 'afternoon', label: '15:40' },
-    '59 7 * * *': { name: 'afternoon', label: '15:40' }
+    '50 22 * * *': { name: 'morning', label: '07:00' },
+    '5 23 * * *': { name: 'morning', label: '07:00' },
+    '20 23 * * *': { name: 'morning', label: '07:00' },
+    '50 5 * * *': { name: 'afternoon', label: '14:00' },
+    '5 6 * * *': { name: 'afternoon', label: '14:00' },
+    '20 6 * * *': { name: 'afternoon', label: '14:00' }
   };
   const slot = map[cron];
   if (!slot) return null;

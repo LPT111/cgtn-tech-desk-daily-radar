@@ -19,6 +19,7 @@ export function stripTags(value = '') {
 export function cleanTitle(value = '') {
   return stripTags(value)
     .replace(/^[·•\-\s]+/, '')
+    .replace(/\s+\d{1,2}:\d{2}(?::\d{2})?$/, '')
     .replace(/\.\.\.$/, '')
     .replace(/…$/, '')
     .replace(/\s+/g, ' ')
@@ -75,6 +76,8 @@ export function isBadTitle(title = '') {
   const text = cleanTitle(title).replace(/\s+/g, '');
   if (!text || text.length < 6 || text.length > 96) return true;
   if (/^(更多|首页|返回|上一页|下一页|上一篇|下一篇|视频|图片|专题|进入|点击|分享到|客户端|栏目|频道|登录|注册|广告服务)/.test(text)) return true;
+  if (/^(PrintasPDF|ExpressionofInterestForm|Commerce\.gov|FeatureStories|MailingList|Legalnotice|Wasthispagehelpful\??|Languagesonourwebsites|DigitalEUonMastodon|AboutDirectorate-GeneralCONNECT|NISTResearchLibrary|NISTDigitalArchives|NationalVulnerabilityDatabase)$/i.test(text)) return true;
+  if (/^(nlNederlands|skSlovenčina|ptPortuguês|bgБългарски|frFrançais|deDeutsch|esEspañol|itItaliano|plPolski)$/i.test(text)) return true;
   if (/更多(时政|网信|科技|要闻|新闻|推荐|精彩)/.test(text)) return true;
   if (/^(中国社会科学院|国家互联网信息办公室|市场监管总局|科技部|工业和信息化部|国家发展和改革委员会|中国科学院|科学网电子杂志)$/.test(text)) return true;
   if (/版权所有|联系我们|友情链接|ICP备|公网安备|责任编辑|来源[:：]|作者[:：]/.test(text)) return true;

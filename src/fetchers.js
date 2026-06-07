@@ -33,6 +33,21 @@ function articleScope(html) {
   return blocks.join(' ') || html.slice(0, 14000);
 }
 
+function structuredPublishedDate(html, targetDate) {
+  const jsonLdDate =
+    (html.match(/["']datePublished["']\s*:\s*["']([^"']+)["']/i) || [])[1] ||
+    (html.match(/["']dateCreated["']\s*:\s*["']([^"']+)["']/i) || [])[1] ||
+    '';
+  const timeDate =
+    (html.match(/<time[^>]+datetime=["']([^"']+)["'][^>]*>/i) || [])[1] ||
+    '';
+  const labeledDate =
+    (articleScope(html).match(/(?:发布时间|发布日期|发布于|更新于|Published|Updated)\s*[:：]?\s*((?:20\d{2})[-/.年]\d{1,2}[-/.月]\d{1,2}(?:日)?(?:\s+\d{1,2}:\d{2}(?::\d{2})?)?)/i) || [])[1] ||
+    '';
+  const candidate = jsonLdDate || timeDate || labeledDate;
+  return dateKeyFromDate(candidate) || dateKeyFromText(candidate, targetDate);
+}
+
 export function extractDetail(html, targetDate) {
   const metaDate =
     extractMeta(html, 'article:published_time') ||
@@ -41,30 +56,33 @@ export function extractDetail(html, targetDate) {
     extractMeta(html, 'date') ||
     extractMeta(html, 'og:release_date') ||
     extractMeta(html, 'weibo: article:create_at');
-  const scoped = `${html.slice(0, 5000)} ${articleScope(html)}`;
-  const date = dateKeyFromDate(metaDate) || dateKeyFromText(scoped, targetDate);
+  const date = dateKeyFromDate(metaDate) || structuredPublishedDate(html, targetDate);
   const summary = firstText(
     extractMeta(html, 'description') ||
     extractMeta(html, 'og:description') ||
     articleScope(html),
-    300
+    500
   );
-  return { date, summary, rawText: summary };
+  return { date, summary, rawText: summary, dateConfidence: date ? 'detail' : 'none' };
 }
 
 function push(items, source, title, url, context = '', targetDate = '') {
   const clean = cleanTitle(title);
   if (!url || !clean || isBadTitle(clean)) return;
+  const absolute = absoluteUrl(url, source.url);
+  const urlDate = dateKeyFromText(absolute, targetDate);
+  const listDate = dateKeyFromText(`${clean} ${context}`, targetDate);
   items.push({
     id: '',
     title: clean,
     summary: firstText(context, 180),
     source: source.name,
     sourceTier: source.tier,
-    url: absoluteUrl(url, source.url),
+    url: absolute,
     publishedAt: '',
-    date: dateKeyFromText(`${url} ${clean} ${context}`, targetDate),
-    rawText: firstText(context, 300),
+    date: urlDate || listDate,
+    dateConfidence: urlDate ? 'url' : (listDate ? 'list' : 'none'),
+    rawText: firstText(context, 500),
     sourceWeight: source.weight
   });
 }
@@ -89,7 +107,9 @@ export function parseRss(xml, source, targetDate) {
     const last = items.at(-1);
     if (last) {
       last.publishedAt = pubDate;
-      last.date = dateKeyFromDate(pubDate) || last.date;
+      const rssDate = dateKeyFromDate(pubDate);
+      last.date = rssDate || last.date;
+      if (rssDate) last.dateConfidence = 'rss';
     }
   }
   return items;
@@ -139,7 +159,9 @@ export async function enrichItem(item, targetDate) {
   try {
     const html = await fetchText(item.url, 'html', 10000);
     const detail = extractDetail(html, targetDate);
-    const date = detail.date || item.date;
+    const urlDate = dateKeyFromText(item.url, targetDate);
+    const trustedItemDate = ['rss', 'url'].includes(item.dateConfidence) ? item.date : '';
+    const date = urlDate || detail.date || trustedItemDate;
     const status = date === targetDate ? 'confirmed_today' : (date ? 'old' : 'suspected_today');
     return {
       ...item,
@@ -147,13 +169,17 @@ export async function enrichItem(item, targetDate) {
       rawText: detail.rawText || item.rawText,
       publishedAt: item.publishedAt || date,
       date,
+      dateConfidence: urlDate ? 'url' : (detail.date ? 'detail' : (trustedItemDate ? item.dateConfidence : 'none')),
       status,
       detailChecked: true
     };
   } catch {
+    const trustedDate = ['rss', 'url'].includes(item.dateConfidence) ? item.date : '';
     return {
       ...item,
-      status: item.date === targetDate ? 'confirmed_today' : (item.date ? 'old' : 'suspected_today'),
+      date: trustedDate,
+      dateConfidence: trustedDate ? item.dateConfidence : 'none',
+      status: trustedDate === targetDate ? 'confirmed_today' : (trustedDate ? 'old' : 'suspected_today'),
       detailChecked: false
     };
   }

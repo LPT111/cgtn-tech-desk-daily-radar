@@ -42,7 +42,7 @@ function topicText(topics) {
 }
 
 function changeText(changeSummary = {}) {
-  if (!changeSummary.hasPrevious) return '本次为 v2 首次生成，后续会标记新增与延续线索。';
+  if (!changeSummary.hasPrevious) return '本次为 V3 首次生成，后续会标记新增与延续线索。';
   const totalNew = (changeSummary.domesticNew || 0) + (changeSummary.globalNew || 0);
   const totalContinued = (changeSummary.domesticContinued || 0) + (changeSummary.globalContinued || 0);
   const note = totalNew === 0
@@ -63,11 +63,13 @@ function newItemsText(changeSummary = {}) {
 
 export function makeFeishuBriefing(leads, topics, targetDate, globalLeads = [], stats = {}, dashboardUrl = '') {
   const generated = formatGenerated(stats.generatedAt);
-  const version = stats.radarVersion || 'v2';
-  return `【ChenChen 今日 Briefing｜${version}】
+  const version = String(stats.radarVersion || 'v3').toUpperCase();
+  return `【CGTN Tech Desk Daily Radar V3】
+ChenChen 今日 Briefing｜${version}
 
 生成时间：${generated}
 网页链接：${dashboardUrl || 'PUBLIC_DASHBOARD_URL 未配置'}
+模式：Reporter Mode｜硬科技优先
 
 本次更新：
 ${changeText(stats.changeSummary)}
@@ -90,11 +92,13 @@ ${globalText(globalLeads, 5) || '暂无国际科技背景。'}
 
 export function makeBriefing(leads, topics, failures, targetDate, globalLeads = [], stats = {}) {
   const generated = formatGenerated(stats.generatedAt);
-  const version = stats.radarVersion || 'v2';
-  const copyText = `ChenChen 今日中国科技热点｜${targetDate}｜${version}
+  const version = String(stats.radarVersion || 'v3').toUpperCase();
+  const copyText = `CGTN Tech Desk Daily Radar V3
+ChenChen 今日中国科技热点｜${targetDate}｜${version}
 生成时间：${generated}
 抓取时间范围：00:00–当前时间
 数据统计：抓取总数 ${stats.itemsSeen || 0}｜确认今日 ${stats.confirmedToday || leads.length}｜国际背景 ${globalLeads.length}
+模式：Reporter Mode｜硬科技优先
 
 本次更新：
 ${changeText(stats.changeSummary)}
@@ -121,6 +125,7 @@ ${globalText(globalLeads, 5) || '暂无国际科技背景。'}`;
     <article class="brief-item">
       <strong>${index + 1}. [${timePart(lead.publishedAt || lead.date)}] ${lead.title}</strong>
       <span>${lead.source}｜${lead.date || targetDate}｜<a href="${lead.url}" target="_blank" rel="noopener">原文链接</a></span>
+      <span>硬科技优先级：${lead.hardTechPriority || 0}｜记者分：${lead.reporterScore || lead.score || 0}｜${lead.isPrimarySource ? '一手来源' : '需核验来源'}</span>
       <p>报道角度：${lead.angle}</p>
     </article>
   `).join('');
@@ -134,7 +139,8 @@ ${globalText(globalLeads, 5) || '暂无国际科技背景。'}`;
 
   const displayHtml = `
     <div class="brief-display">
-      <h3>ChenChen 今日中国科技热点 <small>${version}</small></h3>
+      <h3>CGTN Tech Desk Daily Radar <small>${version}</small></h3>
+      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>
       <p>日期：${targetDate}｜生成时间：${generated}｜抓取时间范围：00:00–当前时间</p>
       <p>数据统计：抓取总数 ${stats.itemsSeen || 0}｜确认今日 ${stats.confirmedToday || leads.length}｜国际背景 ${globalLeads.length}</p>
       <h4>本次更新</h4>

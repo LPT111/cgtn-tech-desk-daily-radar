@@ -50,6 +50,10 @@ function actions(item) {
   return ACTION_WORDS.filter(word => text.includes(word));
 }
 
+const DISTINCT_EVENT_PATTERNS = [
+  /(算电岛|预制算力中心|词元用电成本|Token用电成本)/i
+];
+
 function sameEvent(a, b) {
   if (canonicalUrl(a.url) && canonicalUrl(a.url) === canonicalUrl(b.url)) return true;
   const aKey = titleKey(a.title);
@@ -58,6 +62,9 @@ function sameEvent(a, b) {
   if (longestCommonSubstringLength(aKey, bKey) >= 12) return true;
   const tokenScore = jaccard(similarityTokens(a.title), similarityTokens(b.title));
   if (tokenScore >= 0.58) return true;
+  const aText = `${a.title || ''} ${a.summary || ''}`;
+  const bText = `${b.title || ''} ${b.summary || ''}`;
+  if (DISTINCT_EVENT_PATTERNS.some(pattern => pattern.test(aText) && pattern.test(bText))) return true;
 
   const aEntities = new Set(entities(a));
   const bEntities = new Set(entities(b));

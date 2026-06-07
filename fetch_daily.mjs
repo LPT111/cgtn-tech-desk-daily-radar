@@ -1,11 +1,22 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { angleFor, classify, formatFor, hasInternationalValue, keywordString, matchedTopic, titleCategory } from './src/classifier.js';
+import {
+  angleFor,
+  classifyWithEvidence,
+  formatFor,
+  globalRelevanceScore,
+  hardTechWeight,
+  isDirectReject,
+  isGlobalWhitelistMatch,
+  keywordString,
+  matchedTopic,
+  reporterSignals
+} from './src/classifier.js';
 import { dedupeAndCluster } from './src/dedupe.js';
 import { enrichItem, fetchSource } from './src/fetchers.js';
 import { makeBriefing, makeFeishuBriefing } from './src/briefing.js';
-import { scoreItem, priorityFromScore } from './src/scorer.js';
+import { priorityFromScore, scoreItemDetailed } from './src/scorer.js';
 import { GLOBAL_SOURCES, SOURCES } from './src/sources.js';
 import { firstText, isBadTitle, titleHasOtherDate } from './src/normalize.js';
 
@@ -16,7 +27,7 @@ const latestJsonPath = path.join(dataDir, 'latest.json');
 const briefingDir = path.join(__dirname, 'output');
 const briefingMdPath = path.join(briefingDir, 'briefing.md');
 const briefingTxtPath = path.join(briefingDir, 'briefing.txt');
-const radarVersion = process.env.RADAR_VERSION || 'v2';
+const radarVersion = process.env.RADAR_VERSION || 'v3';
 const targetDate = process.env.CGTN_RADAR_DATE || new Intl.DateTimeFormat('en-CA', {
   timeZone: 'Asia/Shanghai',
   year: 'numeric',
@@ -32,52 +43,78 @@ function chunk(array, size) {
 
 function isRelevant(item) {
   if (!item.url || isBadTitle(item.title) || titleHasOtherDate(item.title, targetDate)) return false;
-  if (/任天堂|游戏库|城市体检|城市更新|袭击|致\d+死|ICP备|公网安备|概念股行情|四大证券报|头版头条|财经新闻|股市|个股|涨停|党务|党建|培训班|干部培训|会议通知|耳机|导热垫|充电宝|手机壳|保护壳|Complaint Center|不良信息举报|特朗普儿子|IPO|报告会$|新闻发布会$|先进事迹报告会|可以说|关键科学问题|人类负责提出问题/.test(item.title)) return false;
-  const text = `${item.title} ${item.summary || ''} ${item.rawText || ''}`;
-  const titleCat = titleCategory(item.title);
-  const textHasTech = /(AI|人工智能|大模型|智能体|多模态|算力|芯片|半导体|GPU|CPU|机器人|具身智能|新能源|智能驾驶|自动驾驶|卫星|火箭|低空|无人机|量子|科研|科学|材料|数据安全|网信|算法|数字经济|云计算|数据中心|鸿蒙|电商|平台经济|药企|生物医药|生命科学|中美|合作|对话|治理|政策|标准|出口管制|技术管制|AI安全|人工智能安全)/i.test(text);
-  if (item.status === 'suspected_today' && !titleCat) return false;
-  return Boolean(titleCat || textHasTech);
+  if (isDirectReject(item)) return false;
+  if (/城市体检|城市更新|袭击|致\d+死|ICP备|公网安备|概念股行情|四大证券报|头版头条|股市|个股|涨停|党务|党建|培训班|干部培训|会议通知|Complaint Center|不良信息举报|IPO|先进事迹报告会/.test(item.title)) return false;
+  const classification = classifyWithEvidence(item);
+  const weight = hardTechWeight({ ...item, category: classification.category });
+  if (classification.category === '其他' || classification.category === '游戏娱乐') return false;
+  if (classification.category === '交通与航空' || classification.category === '消费互联网') return false;
+  if (item.status === 'suspected_today' && classification.confidence < 0.68) return false;
+  return classification.confidence >= 0.64 && weight >= 70;
 }
 
 function isGlobalRelevant(item) {
   if (!item.url || isBadTitle(item.title)) return false;
+  if (isDirectReject(item)) return false;
   if (/stock-trading|financial filings|Vance|Trump financial|election|senate|campaign/i.test(item.title)) return false;
   if (/apnews\.com\/hub\/(?!technology)/i.test(item.url)) return false;
   if (/\/hub\/(russia-ukraine|donald-trump|politics|sports|world-news|entertainment)/i.test(item.url)) return false;
   if (/^(Español|English|Video|Photos|Podcasts|Newsletters|Sports|Business|Science|Technology|World|US|Europe|Menu|Search)$/i.test(item.title)) return false;
   if (item.title.length < 12) return false;
-  const text = `${item.title} ${item.summary || ''}`;
-  const titleHasSignal = /(AI|artificial intelligence|OpenAI|Google|Meta|Apple|Microsoft|NVIDIA|Tesla|SpaceX|Amazon|Anthropic|chip|semiconductor|robot|autonomous|EV|electric vehicle|space|rocket|satellite|energy|cybersecurity|data|export control|regulation|China|Chinese|US-China|supply chain|quantum|technology|tech|NIST|BIS|White House|AI Safety|AI governance|AI Act|standards)/i.test(item.title);
-  const textHasSignal = /(AI|artificial intelligence|OpenAI|Google|Meta|Apple|Microsoft|NVIDIA|Tesla|SpaceX|Amazon|Anthropic|chip|semiconductor|robot|autonomous|EV|electric vehicle|space|rocket|satellite|energy|cybersecurity|data|export control|regulation|China|Chinese|US-China|supply chain|quantum|technology|tech|NIST|BIS|White House|AI Safety|AI governance|AI Act|standards)/i.test(text);
-  if (['AP Technology', 'France24 Technology', 'Reuters Technology', 'Yahoo News Technology'].includes(item.source)) return titleHasSignal;
-  return titleHasSignal || (textHasSignal && item.status === 'confirmed_today');
+  return isGlobalWhitelistMatch(item);
+}
+
+function repairTruncatedTitle(item = {}) {
+  const title = String(item.title || '').replace(/\s+/g, ' ').trim();
+  const summary = String(item.summary || item.rawText || '').replace(/\s+/g, ' ').trim();
+  if (!title || !summary) return title;
+
+  const candidate = summary.split(/[，,。；;\n]/)[0].trim();
+  const sharedPrefix = title.slice(0, Math.max(8, title.length - 2));
+  const visiblyTruncated = /[“"'（(:：]$/.test(title);
+  const looksLikeCompletion = candidate.length > title.length
+    && candidate.length <= 120
+    && (visiblyTruncated || (sharedPrefix.length >= 8 && candidate.startsWith(sharedPrefix)));
+  return looksLikeCompletion ? candidate : title;
 }
 
 function completeItem(item, topicSourceCounts) {
-  const category = classify(item);
-  const topic = matchedTopic({ ...item, category });
-  const score = scoreItem({ ...item, category, matchedTopic: topic }, topicSourceCounts.get(topic) || 1);
+  const normalizedItem = { ...item, title: repairTruncatedTitle(item) };
+  const classification = classifyWithEvidence(normalizedItem);
+  const category = classification.category;
+  const topic = matchedTopic({ ...normalizedItem, category });
+  const scoring = scoreItemDetailed({ ...normalizedItem, category, matchedTopic: topic }, topicSourceCounts.get(topic) || 1);
+  const signals = reporterSignals({ ...normalizedItem, category });
   return {
-    id: Buffer.from(`${item.url}-${item.title}`).toString('base64url').slice(0, 20),
-    title: item.title,
-    summary: firstText(item.summary || item.rawText || '', 160),
-    source: item.source,
-    sources: item.sources || [item.source],
-    sourceTier: item.sourceTier,
-    url: item.url,
-    sourceUrls: item.sourceUrls || [item.url],
-    publishedAt: item.publishedAt || item.date || '',
-    date: item.date || '',
+    id: Buffer.from(`${normalizedItem.url}-${normalizedItem.title}`).toString('base64url').slice(0, 20),
+    title: normalizedItem.title,
+    summary: firstText(normalizedItem.summary || normalizedItem.rawText || '', 160),
+    source: normalizedItem.source,
+    sources: normalizedItem.sources || [normalizedItem.source],
+    sourceTier: normalizedItem.sourceTier,
+    url: normalizedItem.url,
+    sourceUrls: normalizedItem.sourceUrls || [normalizedItem.url],
+    publishedAt: normalizedItem.publishedAt || normalizedItem.date || '',
+    date: normalizedItem.date || '',
     category,
+    classificationConfidence: classification.confidence,
+    classificationEvidence: classification.evidenceFields,
+    hardTechPriority: hardTechWeight({ ...normalizedItem, category }),
     keywords: keywordString(category),
-    priority: priorityFromScore(score),
-    score,
+    priority: priorityFromScore(scoring.score),
+    score: scoring.score,
+    reporterScore: scoring.reporterScore,
+    scoreBreakdown: scoring.breakdown,
+    reporterSignals: signals,
+    isPrimarySource: signals.primary,
+    hasInterviewValue: signals.interview,
+    hasVisualValue: signals.visual,
+    hasInternationalValue: signals.international,
     format: formatFor(category),
-    angle: angleFor(category),
-    status: item.status || 'no_date',
+    angle: angleFor(category, normalizedItem),
+    status: normalizedItem.status || 'no_date',
     matchedTopic: topic,
-    rawText: firstText(item.rawText || item.summary || '', 300)
+    rawText: firstText(normalizedItem.rawText || normalizedItem.summary || '', 500)
   };
 }
 
@@ -112,6 +149,10 @@ function buildChangeSummary(previous, domesticLeads, globalLeads) {
   const newGlobal = globalLeads.filter(item => !previousGlobal.has(itemSignature(item)));
   const continuedDomestic = domesticLeads.filter(item => previousDomestic.has(itemSignature(item)));
   const continuedGlobal = globalLeads.filter(item => previousGlobal.has(itemSignature(item)));
+  newDomestic.forEach(item => { item.isNewSinceLastRun = true; });
+  newGlobal.forEach(item => { item.isNewSinceLastRun = true; });
+  continuedDomestic.forEach(item => { item.isNewSinceLastRun = false; });
+  continuedGlobal.forEach(item => { item.isNewSinceLastRun = false; });
   return {
     domesticNew: newDomestic.length,
     globalNew: newGlobal.length,
@@ -123,34 +164,73 @@ function buildChangeSummary(previous, domesticLeads, globalLeads) {
   };
 }
 
-function globalAngle(item, category) {
-  const relation = relevanceToChina(item);
-  if (relation === 'high') {
-    return `Use this as a direct international context item for China tech reporting: compare policy, supply-chain pressure, market competition or governance choices around ${category}.`;
-  }
-  return `Use this as background for global ${category} trends, then localize the CGTN angle by asking how Chinese firms, regulators or researchers are responding.`;
+function percentage(numerator, denominator) {
+  return denominator ? Number(((numerator / denominator) * 100).toFixed(1)) : 0;
+}
+
+function isWithinDays(date, target, days) {
+  if (!date || !target) return false;
+  const current = new Date(`${target}T12:00:00Z`);
+  const candidate = new Date(`${date}T12:00:00Z`);
+  if (Number.isNaN(current.getTime()) || Number.isNaN(candidate.getTime())) return false;
+  const ageDays = (current.getTime() - candidate.getTime()) / 86400000;
+  return ageDays >= 0 && ageDays <= days;
+}
+
+function angleDuplicateRate(items) {
+  const angles = items.map(item => item.angle || item.cgtAngle).filter(Boolean);
+  const unique = new Set(angles);
+  return percentage(angles.length - unique.size, angles.length);
+}
+
+function contentQualityMetrics(domesticItems, globalItems, domesticCandidates, globalCandidates) {
+  const classified = domesticItems.filter(item => Number(item.classificationConfidence || 0) >= 0.64).length;
+  const globalWhitelisted = globalItems.filter(item => Number(item.globalWhitelistScore || 0) > 0).length;
+  return {
+    classificationValidationRate: percentage(classified, domesticItems.length),
+    globalWhitelistRate: percentage(globalWhitelisted, globalItems.length),
+    angleDuplicateRate: angleDuplicateRate([...domesticItems, ...globalItems]),
+    domesticRejected: Math.max(0, domesticCandidates.length - domesticItems.length),
+    globalRejected: Math.max(0, globalCandidates.length - globalItems.length),
+    targets: {
+      classificationValidationRate: '>90%',
+      globalWhitelistRate: '>85%',
+      angleDuplicateRate: '<10%'
+    }
+  };
 }
 
 function completeGlobalItem(item) {
-  const category = classify(item);
-  const score = scoreItem({ ...item, category, sourceTier: 'international' }, 1) + (hasInternationalValue(item) ? 10 : 0);
-  const relevance = relevanceToChina(item);
+  const normalizedItem = { ...item, title: repairTruncatedTitle(item) };
+  const classification = classifyWithEvidence(normalizedItem);
+  const category = classification.category;
+  const recentStatus = isWithinDays(normalizedItem.date, targetDate, 2) ? 'confirmed_today' : normalizedItem.status;
+  const scoring = scoreItemDetailed({ ...normalizedItem, category, status: recentStatus, sourceTier: 'international' }, 1);
+  const relevance = relevanceToChina(normalizedItem);
+  const whitelistScore = globalRelevanceScore(normalizedItem);
+  const score = scoring.score + Math.round(whitelistScore * 0.25);
+  const signals = reporterSignals({ ...normalizedItem, category, sourceTier: 'international' });
   return {
-    id: Buffer.from(`global-${item.url}-${item.title}`).toString('base64url').slice(0, 20),
-    title: item.title,
-    summary: firstText(item.summary || item.rawText || '', 180),
-    source: item.source,
-    url: item.url,
-    publishedAt: item.publishedAt || item.date || '',
-    date: item.date || '',
-    region: item.region || 'Global',
+    id: Buffer.from(`global-${normalizedItem.url}-${normalizedItem.title}`).toString('base64url').slice(0, 20),
+    title: normalizedItem.title,
+    summary: firstText(normalizedItem.summary || normalizedItem.rawText || '', 180),
+    source: normalizedItem.source,
+    url: normalizedItem.url,
+    publishedAt: normalizedItem.publishedAt || normalizedItem.date || '',
+    date: normalizedItem.date || '',
+    region: normalizedItem.region || 'Global',
     category,
+    classificationConfidence: classification.confidence,
+    hardTechPriority: hardTechWeight({ ...normalizedItem, category }),
+    globalWhitelistScore: whitelistScore,
     keywords: keywordString(category),
     relevanceToChina: relevance,
-    cgtAngle: globalAngle(item, category),
+    cgtAngle: angleFor(category, normalizedItem),
     priority: priorityFromScore(score + (relevance === 'high' ? 15 : relevance === 'medium' ? 5 : 0)),
     score,
-    status: item.status || 'no_date'
+    reporterScore: scoring.reporterScore + Math.round(whitelistScore * 0.25),
+    reporterSignals: signals,
+    status: normalizedItem.date === targetDate ? 'confirmed_today' : (recentStatus === 'confirmed_today' ? 'recent_48h' : (normalizedItem.status || 'no_date'))
   };
 }
 
@@ -202,11 +282,13 @@ async function main() {
   topics = finalDomestic.topics;
   const confirmed = finalDomestic.items
     .filter(item => item.status === 'confirmed_today' && item.date === targetDate && item.priority >= 3)
-    .sort((a, b) => b.score - a.score);
+    .filter(item => item.classificationConfidence >= 0.64 && item.hardTechPriority >= 70)
+    .sort((a, b) => (b.reporterScore - a.reporterScore) || (b.score - a.score));
   const suspected = finalDomestic.items
     .filter(item => item.status === 'suspected_today' || item.status === 'no_date')
     .filter(item => item.priority >= 3)
-    .sort((a, b) => b.score - a.score);
+    .filter(item => item.classificationConfidence >= 0.68 && item.hardTechPriority >= 70)
+    .sort((a, b) => (b.reporterScore - a.reporterScore) || (b.score - a.score));
   const oldCount = completed.filter(item => item.status === 'old').length;
 
   const globalEnriched = await enrichAll(global.allItems);
@@ -214,16 +296,27 @@ async function main() {
   const { items: globalDeduped } = dedupeAndCluster(globalRelevant);
   const globalLeads = globalDeduped
     .map(completeGlobalItem)
-    .filter(item => item.priority >= 3 && item.url)
-    .filter(item => item.status !== 'old')
-    .filter(item => !item.date || item.date === targetDate)
+    .filter(item => item.priority >= 3 && item.url && item.globalWhitelistScore > 0)
+    .filter(item => item.classificationConfidence >= 0.58 && item.hardTechPriority >= 70)
+    .filter(item => isWithinDays(item.date, targetDate, 2))
     .sort((a, b) => {
       const relevanceRank = { high: 3, medium: 2, low: 1 };
-      return (relevanceRank[b.relevanceToChina] - relevanceRank[a.relevanceToChina]) || (b.priority - a.priority) || (b.score - a.score);
+      return (b.reporterScore - a.reporterScore) ||
+        (relevanceRank[b.relevanceToChina] - relevanceRank[a.relevanceToChina]) ||
+        (b.priority - a.priority) ||
+        (b.score - a.score);
     })
     .slice(0, 40);
 
   const changeSummary = buildChangeSummary(previousPayload, confirmed, globalLeads);
+  confirmed.sort((a, b) =>
+    ((b.reporterScore + (b.isNewSinceLastRun ? 12 : 0)) - (a.reporterScore + (a.isNewSinceLastRun ? 12 : 0))) ||
+    (b.score - a.score));
+  globalLeads.sort((a, b) =>
+    ((b.reporterScore + (b.isNewSinceLastRun ? 12 : 0)) - (a.reporterScore + (a.isNewSinceLastRun ? 12 : 0))) ||
+    (b.score - a.score));
+  topics = dedupeAndCluster(confirmed).topics;
+  const qualityMetrics = contentQualityMetrics(confirmed, globalLeads, enriched, globalEnriched);
 
   const allFailures = [...failures, ...global.failures];
   const briefing = makeBriefing(confirmed, topics, allFailures, targetDate, globalLeads, {
@@ -248,6 +341,9 @@ async function main() {
     radarVersion,
     targetDate,
     changeSummary,
+    qualityMetrics,
+    reporterModeDefault: true,
+    updateSchedule: ['07:00 Beijing Time', '14:00 Beijing Time'],
     todayOnly: true,
     sourcesChecked: SOURCES.length,
     successSources: sourceStats.filter(item => !item.failed).length,
@@ -268,6 +364,7 @@ async function main() {
     globalSourcesChecked: GLOBAL_SOURCES.length,
     globalSuccessSources: global.sourceStats.filter(item => !item.failed).length,
     globalItemsSeen: global.allItems.length,
+    globalWindow: 'latest_48h',
     globalItemsAfterRelevantFilter: globalRelevant.length,
     topics,
     leads: confirmed,
@@ -284,7 +381,7 @@ async function main() {
   await fs.writeFile(outputPath, `window.CHENCHEN_DAILY_DATA = ${JSON.stringify(payload, null, 2)};\n`, 'utf8');
   await fs.writeFile(latestJsonPath, `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
   await fs.writeFile(briefingTxtPath, `${feishuBriefing}\n`, 'utf8');
-  await fs.writeFile(briefingMdPath, `# ChenChen 今日 Briefing\n\n${feishuBriefing}\n`, 'utf8');
+  await fs.writeFile(briefingMdPath, `# CGTN Tech Desk Daily Radar V3\n\n${feishuBriefing}\n`, 'utf8');
   console.log(`wrote ${outputPath}`);
   console.log(`wrote ${latestJsonPath}`);
   console.log(`wrote ${briefingMdPath}`);
@@ -294,6 +391,7 @@ async function main() {
     globalFetched: payload.globalItemsSeen,
     confirmedToday: payload.leads.length,
     suspectedToday: payload.suspectedLeads.length,
+    qualityMetrics: payload.qualityMetrics,
     filteredOld: payload.skippedNonToday,
     domesticFailedSources: payload.domesticFailedSources.map(item => item.name),
     globalFailedSources: payload.globalFailedSources.map(item => item.name)

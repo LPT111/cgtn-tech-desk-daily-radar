@@ -1,6 +1,48 @@
-# ChenChen CGTN Tech Desk Daily Radar
+# ChenChen CGTN Tech Desk Daily Radar V3
 
-这是给 ChenChen 使用的 CGTN 科技记者每日热点看板。
+这是面向 ChenChen 的 CGTN 科技记者每日选题驾驶舱，不以最大化新闻数量为目标，而以内容质量、分类准确率和记者可用性为核心。
+
+## V3 核心能力
+
+- 标题、摘要、正文前 500 字和来源联合分类
+- 国际科技背景白名单
+- 游戏、购物、促销和消费导购直接过滤
+- 国家科技战略、AI 治理、芯片、机器人、航天和重大科研优先
+- Reporter Mode 默认开启，优先今日新增、一手来源、可采访、有画面和国际传播价值
+- 动态 CGTN Angle，避免重复套话
+- 页面展示分类校验率、国际白名单率和 Angle 重复率
+
+## 更新与推送
+
+- 北京时间 07:00：晨会前版
+- 北京时间 14:00：午后选题会前版
+- GitHub Actions 使用窗口 fallback，`send_feishu.mjs` 按 `v3-日期-时段` 去重
+- `workflow_dispatch` 手动运行会立即发送飞书测试消息
+- 手机备用手动入口：`manual-update.html`
+
+## 本地更新
+
+```bash
+cd /Users/lpt/Codex/outputs/cgtn_tech_dashboard
+CGTN_RADAR_DATE=$(date +%F) RADAR_VERSION=v3 node fetch_daily.mjs
+```
+
+生成：
+
+```text
+daily-data.js
+data/latest.json
+output/briefing.md
+output/briefing.txt
+```
+
+## 内容引擎测试
+
+```bash
+node tests/content_engine.test.mjs
+```
+
+测试覆盖航空误判 AI、交友软件误判 AI、游戏预告和购物导购污染国际池、国际白名单、硬科技权重与 Angle 去重。
 
 ## 打开看板
 
@@ -10,51 +52,4 @@
 /Users/lpt/Codex/outputs/cgtn_tech_dashboard/index.html
 ```
 
-## v2 定时更新与飞书推送
-
-v2 改为每天两更，减少内容变化不大时的重复推送：
-
-- 北京时间 07:40：晨间选题会前版
-- 北京时间 15:40：下午更新版
-- 手机备用手动入口：`manual-update.html`
-
-GitHub Actions 使用窗口 fallback 触发，`send_feishu.mjs` 会按 `v2-日期-时段` 去重，避免同一时段重复推送。手动运行 `workflow_dispatch` 会立即发送一条飞书测试消息。
-
-v2 还新增了 Policy Radar：中美 AI、AI 治理、出口管制、标准、监管、数据安全等主题会被单独加权，并在页面中独立展示。
-
-## 本地更新自动早报
-
-在终端运行：
-
-```bash
-cd /Users/lpt/Codex/outputs/cgtn_tech_dashboard
-CGTN_RADAR_DATE=$(date +%F) RADAR_VERSION=v2 node fetch_daily.mjs
-```
-
-脚本会抓取 RSS / 官网页面，生成：
-
-```text
-daily-data.js
-data/latest.json
-output/briefing.md
-output/briefing.txt
-```
-
-重新打开或刷新 `index.html` 后，页面会自动读取最新数据。也可以点顶部的 `⇣` 按钮，把自动抓取数据覆盖到当前看板。
-
-## 调整信息源
-
-主要编辑：
-
-```text
-src/sources.js
-```
-
-支持两种类型：
-
-- `rss`：RSS / Atom 源
-- `html`：普通官网页面，脚本会提取链接标题并按科技关键词筛选
-
-## 备注
-
-自动抓取是选题雷达，不是最终稿件判断。发稿前仍建议核实原文、官方口径、企业回应、数据时间和国际背景。
+自动抓取是选题雷达，不是最终稿件判断。发稿前仍需核实原文、官方口径、企业回应、数据时间和国际背景。

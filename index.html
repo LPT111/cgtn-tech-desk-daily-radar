@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ChenChen CGTN Tech Desk Daily Radar</title>
+  <title>ChenChen CGTN Tech Desk Daily Radar V3</title>
   <style>
     :root {
       color-scheme: light;
@@ -227,6 +227,24 @@
       background: var(--ink);
       color: #fff;
       border-color: var(--ink);
+    }
+
+    .text-btn.mode-active {
+      background: var(--brand);
+      color: #fff;
+      border-color: var(--brand);
+    }
+
+    .version-footer {
+      margin-top: 22px;
+      padding-top: 14px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 12px;
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
     }
 
     .metric-row {
@@ -815,8 +833,8 @@
       <div class="brand">
         <div class="mark" aria-hidden="true"></div>
         <div>
-          <h1>CGTN Tech Desk<br>Daily Radar</h1>
-          <p>ChenChen's China tech story cockpit · v2</p>
+          <h1>CGTN Tech Desk<br>Daily Radar V3</h1>
+          <p>CGTN Tech Story Cockpit · Reporter Mode</p>
         </div>
       </div>
 
@@ -884,6 +902,7 @@
           <p id="todaySub">ChenChen 的 CGTN 科技报道一页式选题雷达</p>
         </div>
         <div class="actions">
+          <button class="text-btn mode-active" id="reporterMode" title="优先显示一手来源、采访价值、画面价值和国际传播价值">Reporter Mode: ON</button>
           <button class="icon-btn" id="copyBrief" title="复制早报">⧉</button>
           <button class="icon-btn" id="useAutoData" title="使用自动抓取数据">⇣</button>
           <button class="icon-btn" id="resetData" title="恢复示例数据">↺</button>
@@ -916,10 +935,10 @@
       </section>
 
       <section class="brief">
-        <h3>ChenChen 今日 Briefing</h3>
+        <h3>CGTN Tech Desk Daily Radar V3</h3>
         <textarea class="copy-buffer" id="briefText" spellcheck="false" aria-label="复制用纯文本早报"></textarea>
         <div id="briefDisplay"></div>
-        <div class="data-status" id="dataStatus">仅显示 2026-05-17 当日新闻；自动抓取数据尚未载入，可运行 fetch_daily.mjs 生成。</div>
+        <div class="data-status" id="dataStatus">V3 内容引擎尚未载入今日数据，可运行 fetch_daily.mjs 生成。</div>
       </section>
 
       <section>
@@ -932,8 +951,8 @@
 
       <section>
         <div class="section-head">
-          <h3 class="section-title">Global Tech Radar / 国际科技新闻</h3>
-          <span class="section-note">单独作为国际背景池，不混入国内主列表。</span>
+          <h3 class="section-title">Global Tech Radar / 国际科技背景</h3>
+          <span class="section-note">最近 48 小时白名单科技信源，仅作国际背景，不混入国内主列表。</span>
         </div>
         <div class="grid" id="globalCards"></div>
       </section>
@@ -941,7 +960,7 @@
       <section>
         <div class="section-head">
           <h3 class="section-title">Policy Radar / 科技政策与中美 AI</h3>
-          <span class="section-note">v2 增强：政策、标准、AI 治理、出口管制与中美科技互动单独抬高优先级。</span>
+          <span class="section-note">V3：国家科技战略、政策、标准、AI 治理、出口管制与中美科技互动处于最高权重层。</span>
         </div>
         <div class="grid" id="policyCards"></div>
       </section>
@@ -953,6 +972,11 @@
         </div>
         <div class="video-grid" id="topicGrid"></div>
       </section>
+
+      <footer class="version-footer">
+        <span>Version: V3.0</span>
+        <span>CGTN Tech Story Cockpit · Content quality first</span>
+      </footer>
 
     </main>
 
@@ -975,6 +999,14 @@
       <section class="panel">
         <h3>抓取状态</h3>
         <div class="stack" id="fetchStatus"></div>
+      </section>
+
+      <section class="panel">
+        <h3>Daily Update Schedule</h3>
+        <div class="stack">
+          <div class="mini"><strong>Morning Edition</strong>07:00 Beijing Time</div>
+          <div class="mini"><strong>Afternoon Edition</strong>14:00 Beijing Time</div>
+        </div>
       </section>
 
       <section class="panel">
@@ -1213,10 +1245,11 @@
       'global competitiveness', 'regulatory framework', 'real-world applications'
     ];
 
-    const storageKey = 'chenchen-cgtn-tech-desk-leads-v4-2026-05-17';
-    const briefKey = 'chenchen-cgtn-tech-desk-brief-v4-2026-05-17';
+    const storageKey = 'chenchen-cgtn-tech-desk-leads-v3';
+    const briefKey = 'chenchen-cgtn-tech-desk-brief-v3';
     const autoData = window.CHENCHEN_DAILY_DATA || null;
     let selectedCategory = '全部';
+    let reporterMode = autoData?.reporterModeDefault !== false;
     let leads = loadLeads();
     let globalLeads = autoData?.globalLeads || [];
 
@@ -1270,7 +1303,7 @@
         .map((item, index) => `${index + 1}. ${item.title}｜${item.angle}`)
         .join('\n');
 
-      return `ChenChen 今日中国科技热点｜2026-05-17\n\n最值得关注：\n${top || '今日严格模式下暂无自动命中的科技新闻。'}\n\n需要核实：官方来源、企业回应、国际背景、可视化素材。\n\n可采访方向：政策研究者、企业工程师、行业分析师、真实用户。`;
+      return `CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜${autoData?.targetDate || '今日'}\n模式：Reporter Mode｜硬科技优先\n\n最值得关注：\n${top || '今日严格模式下暂无自动命中的科技新闻。'}\n\n需要核实：官方来源、企业回应、国际背景、可视化素材。\n\n可采访方向：政策研究者、企业工程师、行业分析师、真实用户。`;
     }
 
     function renderFilters() {
@@ -1313,7 +1346,10 @@
     }
 
     function renderCards() {
-      const visible = leads.filter(matches);
+      const visible = leads.filter(matches).sort((a, b) => reporterMode
+        ? (Number(Boolean(b.isNewSinceLastRun)) - Number(Boolean(a.isNewSinceLastRun))) ||
+          (Number(b.reporterScore || b.score || 0) - Number(a.reporterScore || a.score || 0))
+        : (Number(b.score || 0) - Number(a.score || 0)));
       cards.innerHTML = visible.map((item, index) => `
         <article class="card">
           <div class="card-head">
@@ -1321,6 +1357,12 @@
               <div class="tag-row">
                 <span class="tag field">${item.category}</span>
                 <span class="tag hot">${formatLabel(item.format)}</span>
+                ${item.isNewSinceLastRun ? '<span class="tag hot">今日新增</span>' : ''}
+                ${item.hardTechPriority ? `<span class="tag">硬科技 ${item.hardTechPriority}</span>` : ''}
+                ${item.isPrimarySource ? '<span class="tag field">一手来源</span>' : ''}
+                ${item.hasInterviewValue ? '<span class="tag">可采访</span>' : ''}
+                ${item.hasVisualValue ? '<span class="tag hot">有画面</span>' : ''}
+                ${item.hasInternationalValue ? '<span class="tag">国际价值</span>' : ''}
               </div>
               <h3>${item.title}</h3>
             </div>
@@ -1356,7 +1398,12 @@
     }
 
     function renderGlobalCards() {
-      const visible = globalLeads.slice(0, 24);
+      const visible = [...globalLeads]
+        .sort((a, b) => reporterMode
+          ? (Number(Boolean(b.isNewSinceLastRun)) - Number(Boolean(a.isNewSinceLastRun))) ||
+            (Number(b.reporterScore || b.score || 0) - Number(a.reporterScore || a.score || 0))
+          : (Number(b.score || 0) - Number(a.score || 0)))
+        .slice(0, 24);
       globalCards.innerHTML = visible.length ? visible.map((item) => `
         <article class="card">
           <div class="card-head">
@@ -1364,7 +1411,10 @@
               <div class="tag-row">
                 <span class="tag field">${item.region || 'Global'}</span>
                 <span class="tag hot">${item.category || 'Tech'}</span>
+                ${item.isNewSinceLastRun ? '<span class="tag hot">今日新增</span>' : ''}
                 <span class="tag">China relevance: ${item.relevanceToChina || 'medium'}</span>
+                ${item.hardTechPriority ? `<span class="tag">硬科技 ${item.hardTechPriority}</span>` : ''}
+                ${item.globalWhitelistScore ? `<span class="tag field">白名单 ${item.globalWhitelistScore}</span>` : ''}
               </div>
               <h3>${item.title}</h3>
             </div>
@@ -1469,7 +1519,8 @@
         failureBlock('Global', globalFailures)
       ].join('');
       document.getElementById('fetchStatus').innerHTML = `
-        <div class="mini"><strong>版本</strong>${autoData?.radarVersion || 'v2'}｜两更：07:40 / 15:40 北京时间｜手动运行立即推送飞书</div>
+        <div class="mini"><strong>版本</strong>${String(autoData?.radarVersion || 'v3').toUpperCase()}｜两更：07:00 / 14:00 北京时间｜手动运行立即推送飞书</div>
+        <div class="mini"><strong>内容质量</strong>分类校验率 ${autoData?.qualityMetrics?.classificationValidationRate || 0}%｜国际白名单率 ${autoData?.qualityMetrics?.globalWhitelistRate || 0}%｜Angle 重复率 ${autoData?.qualityMetrics?.angleDuplicateRate || 0}%</div>
         <div class="mini"><strong>国内新闻抓取</strong>信源 ${autoData?.sourcesChecked || 0}｜成功 ${autoData?.successSources || 0}｜失败 ${domesticFailures.length}｜抓取 ${autoData?.itemsSeen || 0}</div>
         <div class="mini"><strong>国际新闻抓取</strong>信源 ${autoData?.globalSourcesChecked || 0}｜成功 ${autoData?.globalSuccessSources || 0}｜失败 ${globalFailures.length}｜抓取 ${autoData?.globalItemsSeen || 0}</div>
         <div class="mini"><strong>确认今日 / 国际背景</strong>${autoData?.leads?.length || 0} / ${autoData?.globalLeads?.length || 0}</div>
@@ -1485,16 +1536,22 @@
       renderPolicyCards();
       renderTopics();
       renderMetrics();
-      document.getElementById('todayTitle').textContent = `ChenChen 今日中国科技热点｜${autoData?.targetDate || '今日'}｜${autoData?.radarVersion || 'v2'}`;
+      const modeButton = document.getElementById('reporterMode');
+      modeButton.textContent = `Reporter Mode: ${reporterMode ? 'ON' : 'OFF'}`;
+      modeButton.classList.toggle('mode-active', reporterMode);
+      document.getElementById('todayTitle').textContent = `ChenChen CGTN Tech Desk Daily Radar V3｜${autoData?.targetDate || '今日'}`;
+      document.getElementById('todaySub').textContent = reporterMode
+        ? 'Reporter Mode：今日新增 · 一手来源 · 可采访 · 有画面 · 国际传播价值'
+        : 'Archive Mode：按内容评分浏览全部合格线索';
       if (autoData?.generatedAt) {
-        dataStatus.textContent = `仅显示 ${autoData.targetDate || '2026-05-17'}｜自动抓取：${new Date(autoData.generatedAt).toLocaleString('zh-CN')}｜国内核心事件 ${autoData.leads?.length || 0} 条｜国际背景 ${autoData.globalLeads?.length || 0} 条｜过滤旧闻 ${autoData.skippedNonToday || 0} 条`;
+        dataStatus.textContent = `仅显示 ${autoData.targetDate || '今日'}｜自动抓取：${new Date(autoData.generatedAt).toLocaleString('zh-CN')}｜国内核心事件 ${autoData.leads?.length || 0} 条｜国际白名单背景 ${autoData.globalLeads?.length || 0} 条｜分类校验率 ${autoData?.qualityMetrics?.classificationValidationRate || 0}%｜Angle 重复率 ${autoData?.qualityMetrics?.angleDuplicateRate || 0}%`;
       }
     }
 
     function setupBrief() {
       const copyText = localStorage.getItem(briefKey) || autoData?.copyBriefingText || autoData?.brief || defaultBrief();
       briefText.value = copyText;
-      briefDisplay.innerHTML = autoData?.displayBriefingHtml || `<div class="brief-display"><h3>ChenChen 今日中国科技热点</h3><p>${copyText.replace(/\n/g, '<br>')}</p></div>`;
+      briefDisplay.innerHTML = autoData?.displayBriefingHtml || `<div class="brief-display"><h3>CGTN Tech Desk Daily Radar V3</h3><p>${copyText.replace(/\n/g, '<br>')}</p></div>`;
       briefText.addEventListener('input', () => {
         localStorage.setItem(briefKey, briefText.value);
       });
@@ -1528,6 +1585,11 @@
 
     function setupActions() {
       [searchInput, priorityFilter, formatFilter].forEach(el => el.addEventListener('input', render));
+      document.getElementById('reporterMode').addEventListener('click', () => {
+        reporterMode = !reporterMode;
+        render();
+        showToast(reporterMode ? 'Reporter Mode 已开启' : 'Reporter Mode 已关闭');
+      });
       document.getElementById('copyBrief').addEventListener('click', async () => {
         const text = briefText.value;
         try {
@@ -1548,7 +1610,7 @@
         globalLeads = autoData.globalLeads || [];
         saveLeads();
         briefText.value = autoData.copyBriefingText || autoData.brief || defaultBrief();
-        briefDisplay.innerHTML = autoData.displayBriefingHtml || `<div class="brief-display"><h3>ChenChen 今日中国科技热点</h3><p>${briefText.value.replace(/\n/g, '<br>')}</p></div>`;
+        briefDisplay.innerHTML = autoData.displayBriefingHtml || `<div class="brief-display"><h3>CGTN Tech Desk Daily Radar V3</h3><p>${briefText.value.replace(/\n/g, '<br>')}</p></div>`;
         localStorage.setItem(briefKey, briefText.value);
         selectedCategory = '全部';
         render();
@@ -1560,7 +1622,7 @@
         globalLeads = [];
         saveLeads();
         briefText.value = defaultBrief();
-        briefDisplay.innerHTML = `<div class="brief-display"><h3>ChenChen 今日中国科技热点</h3><p>${briefText.value.replace(/\n/g, '<br>')}</p></div>`;
+        briefDisplay.innerHTML = `<div class="brief-display"><h3>CGTN Tech Desk Daily Radar V3</h3><p>${briefText.value.replace(/\n/g, '<br>')}</p></div>`;
         localStorage.setItem(briefKey, briefText.value);
         render();
         renderSide();
