@@ -1,63 +1,47 @@
 {
-  "generatedAt": "2026-06-07T23:53:46.363Z",
+  "generatedAt": "2026-06-08T00:19:33.314Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-08",
   "changeSummary": {
-    "domesticNew": 11,
-    "globalNew": 3,
-    "domesticContinued": 0,
-    "globalContinued": 3,
+    "domesticNew": 10,
+    "globalNew": 0,
+    "domesticContinued": 8,
+    "globalContinued": 6,
     "topNewDomestic": [
       {
-        "title": "全球海洋现象智能预报大模型“琅琊”2.0发布",
+        "title": "英伟达与SK海力士签署多年合作协议，联合研发下一代芯片",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruye4137174.shtml"
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-08/doc-iniaruxw9016133.shtml"
       },
       {
-        "title": "SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20",
+        "title": "美媒：OpenAI最重要的产品已不再是ChatGPT",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KUSR9G750534A4SC.html"
+        "url": "https://www.163.com/tech/article/KUSSNJ6000097U7T.html"
       },
       {
-        "title": "英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存",
+        "title": "人形机器人价格大跳水！“5万元一车”",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-08/doc-iniarzfu8890702.shtml"
+        "url": "https://finance.sina.com.cn/roll/2026-06-08/doc-iniaruxw9015538.shtml"
       },
       {
-        "title": "湖北加快培育AI OPC创新生态",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruya7358154.shtml"
+        "title": "人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/KUST6S7905198CJN.html"
       },
       {
-        "title": "机器人为高考考生加油！",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruxy5776196.shtml"
+        "title": "AI早报 | ChatGPT将转型成超级应用；黄仁勋会见",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/KUSTOJRA0534A4SC.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/visited-intels-robot-run-ai-154759560.html"
-      },
-      {
-        "title": "OpenAI is still working on that ‘super app’",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/"
-      },
-      {
-        "title": "Notion restores access to Anthropic after service disruption",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 889,
+    "domesticRejected": 882,
     "globalRejected": 894,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -72,13 +56,8 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -101,11 +80,6 @@
     }
   ],
   "failures": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -131,7 +105,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 126,
+      "parsed": 125,
       "failed": false,
       "optional": false
     },
@@ -181,8 +155,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -379,18 +352,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1312,
+  "itemsSeen": 1311,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 315,
-  "itemsAfterDedupe": 218,
-  "todayItemsSeen": 11,
+  "itemsAfterRelevantFilter": 322,
+  "itemsAfterDedupe": 213,
+  "todayItemsSeen": 18,
   "suspectedItemsSeen": 16,
-  "skippedNonToday": 189,
+  "skippedNonToday": 175,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 126,
+      "parsed": 125,
       "failed": false,
       "optional": false
     },
@@ -440,8 +413,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -792,11 +764,6 @@
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -838,11 +805,25 @@
   "globalSuccessSources": 18,
   "globalItemsSeen": 1217,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 107,
+  "globalItemsAfterRelevantFilter": 105,
   "topics": [
     {
+      "topic": "AI 应用与智能体",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "美媒：OpenAI最重要的产品已不再是ChatGPT",
+        "模型替换、数据倒卖、远控后门！国安部提醒“AI中转站”风险",
+        "湖北加快培育AI OPC创新生态"
+      ]
+    },
+    {
       "topic": "AI动态",
-      "count": 2,
+      "count": 3,
       "sourceCount": 2,
       "sources": [
         "网易科技",
@@ -850,19 +831,34 @@
       ],
       "items": [
         "SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20",
+        "AI早报 | ChatGPT将转型成超级应用；黄仁勋会见",
         "AI赋能丨AI技术为金属矿业装上“智慧大脑”"
       ]
     },
     {
-      "topic": "AI 应用与智能体",
+      "topic": "人形机器人与具身智能",
       "count": 2,
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": [
-        "新浪科技"
+        "新浪科技",
+        "网易科技"
       ],
       "items": [
-        "全球海洋现象智能预报大模型“琅琊”2.0发布",
-        "湖北加快培育AI OPC创新生态"
+        "人形机器人价格大跳水！“5万元一车”",
+        "人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "黄仁勋最新表态：存储芯片供应紧张的局面将持续数年",
+        "科技早报 | 英伟达CEO黄仁勋将与三星电子副董事长全永铉会面"
       ]
     },
     {
@@ -873,7 +869,29 @@
         "新浪科技"
       ],
       "items": [
-        "英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存"
+        "英伟达与SK海力士签署多年合作协议，联合研发下一代芯片"
+      ]
+    },
+    {
+      "topic": "监管与安全动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "警惕“AI中转站”数据安全风险"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "新宙邦签大单 宁德时代三年采购电解液约30万吨"
       ]
     },
     {
@@ -885,17 +903,6 @@
       ],
       "items": [
         "机器人为高考考生加油！"
-      ]
-    },
-    {
-      "topic": "监管与安全动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "警惕“AI中转站”数据安全风险，国家安全部发布"
       ]
     },
     {
@@ -946,21 +953,21 @@
   "leads": [
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "全球海洋现象智能预报大模型“琅琊”2.0发布",
-      "summary": "本报讯（记者廖洋 通讯员刘思哲）6月6日，在山东青岛举行的第四届中国数字地球大会上，全球海洋现象智能预报大模型——“琅琊”海洋大模型2.0版本正式发布。该模型可更好地“预见”海洋现象的变化。“琅琊”海洋大模型由中国科学院海洋研究所自主研发，...",
+      "title": "英伟达与SK海力士签署多年合作协议，联合研发下一代芯片",
+      "summary": "双方宣布建立多年期技术合作，将围绕下一代 AI 内存展开联合研发，并应用于半导体制造。SK 海力士将为英伟达 Vera Rubin AI 超级计算机、RTX Spark PC 等平台开发专用内存。同时，英伟达的 CUDA-X、PhysicsNeMo 等技术将用于加速芯片设计和晶圆厂数字孪生。#AI 芯片# #半导体#",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruye4137174.shtml",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-08/doc-iniaruxw9016133.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruye4137174.shtml"
+        "https://finance.sina.com.cn/stock/usstock/c/2026-06-08/doc-iniaruxw9016133.shtml"
       ],
       "publishedAt": "2026-06-08",
       "date": "2026-06-08",
-      "category": "AI",
-      "classificationConfidence": 0.98,
+      "category": "芯片",
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -968,10 +975,10 @@
         "source"
       ],
       "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 184,
-      "reporterScore": 200,
+      "score": 175,
+      "reporterScore": 183,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
@@ -979,7 +986,7 @@
         "multiSource": 22,
         "cgtFocus": 12,
         "visual": 0,
-        "international": 9,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
@@ -991,24 +998,228 @@
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": true,
+        "international": false,
         "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 130
+        "reporterScore": 120
       },
       "isPrimarySource": false,
       "hasInterviewValue": true,
       "hasVisualValue": false,
-      "hasInternationalValue": true,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达与SK海力士签署多年合作协议，联合研发下一代芯片” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "英伟达公司与SK海力士达成合作，共同研发面向人工智能的新一代存储芯片，这对于这家韩国高端半导体龙头企业而言是一大利好。 两家企业在声明中表示，已签订多年协议，携手推进芯片设计与制造业务。英伟达将助力合作方拓展新业务领域，覆盖基础设施...",
+      "relatedTitles": [
+        "英伟达与SK海力士签署多年合作协议，联合研发下一代芯片"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "美媒：OpenAI最重要的产品已不再是ChatGPT",
+      "summary": "ChatGPT将转型成超级应用，OpenAI筹划上市,上市,机器人,人工智能,超级应用,openai,chatgpt",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/tech/article/KUSSNJ6000097U7T.html",
+      "sourceUrls": [
+        "https://www.163.com/tech/article/KUSSNJ6000097U7T.html"
+      ],
+      "publishedAt": "2026-06-08",
+      "date": "2026-06-08",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 175,
+      "reporterScore": 181,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
       "format": "package",
-      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “全球海洋现象智能预报大模型“琅琊”2.0发布” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美媒：OpenAI最重要的产品已不再是ChatGPT” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "本报讯（记者廖洋 通讯员刘思哲）6月6日，在山东青岛举行的第四届中国数字地球大会上，全球海洋现象智能预报大模型——“琅琊”海洋大模型2.0版本正式发布。该模型可更好地“预见”海洋现象的变化。“琅琊”海洋大模型由中国科学院海洋研究所自主研发，...",
+      "rawText": "美媒：OpenAI最重要的产品已不再是ChatGPT,openai,chatgpt,编程,代码,工作流",
       "relatedTitles": [
-        "全球海洋现象智能预报大模型“琅琊”2.0发布"
+        "美媒：OpenAI最重要的产品已不再是ChatGPT"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "人形机器人价格大跳水！“5万元一车”",
+      "summary": "本文转自【长春晚报】；2026年5月，是人形机器人从“奢侈品”到“白菜价”的分水岭。 一年前需要花近百万元排队预购的工程样机，在二手网站和拆机市场上，以“5万元一车”的价格打包清仓。全新的宇树和松延动力人形机器人，卷到了2.99万元、999...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/roll/2026-06-08/doc-iniaruxw9015538.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/roll/2026-06-08/doc-iniaruxw9015538.shtml"
+      ],
+      "publishedAt": "2026-06-08",
+      "date": "2026-06-08",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 170,
+      "reporterScore": 176,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人价格大跳水！“5万元一车”” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "本文转自【长春晚报】；2026年5月，是人形机器人从“奢侈品”到“白菜价”的分水岭。 一年前需要花近百万元排队预购的工程样机，在二手网站和拆机市场上，以“5万元一车”的价格打包清仓。全新的宇树和松延动力人形机器人，卷到了2.99万元、999...",
+      "relatedTitles": [
+        "人形机器人价格大跳水！“5万元一车”"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期",
+      "summary": "人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期,滚珠,发展期,爆发式,丝杠市场,人形机器人,机器人战略",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KUST6S7905198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KUST6S7905198CJN.html"
+      ],
+      "publishedAt": "2026-06-08",
+      "date": "2026-06-08",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 170,
+      "reporterScore": 176,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期,滚珠,发展期,爆发式,丝杠市场,人形机器人,机器人战略",
+      "relatedTitles": [
+        "人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期"
       ],
       "isNewSinceLastRun": true
     },
@@ -1078,20 +1289,88 @@
       "relatedTitles": [
         "SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "AI早报 | ChatGPT将转型成超级应用；黄仁勋会见",
+      "summary": "AI早报 | ChatGPT将转型成超级应用；黄仁勋会见韩国两大游戏公司代表，讨论游戏AI合作方案,韩国,黄仁勋,大游戏,英伟达,机器人,chatgpt",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KUSTOJRA0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KUSTOJRA0534A4SC.html"
+      ],
+      "publishedAt": "2026-06-08",
+      "date": "2026-06-08",
+      "category": "AI",
+      "classificationConfidence": 0.98,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 169,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI早报 | ChatGPT将转型成超级应用；黄仁勋会见” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "AI早报 | ChatGPT将转型成超级应用；黄仁勋会见韩国两大游戏公司代表，讨论游戏AI合作方案,韩国,黄仁勋,大游戏,英伟达,机器人,chatgpt",
+      "relatedTitles": [
+        "AI早报 | ChatGPT将转型成超级应用；黄仁勋会见"
+      ],
       "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存",
-      "summary": "双方宣布建立多年期技术合作，将围绕下一代 AI 内存展开联合研发，并应用于半导体制造。SK 海力士将为英伟达 Vera Rubin AI 超级计算机、RTX Spark PC 等平台开发专用内存。同时，英伟达的 CUDA-X、PhysicsNeMo 等技术将用于加速芯片设计和晶圆厂数字孪生。#AI 芯片# #半导体#",
+      "title": "黄仁勋最新表态：存储芯片供应紧张的局面将持续数年",
+      "summary": "当地时间6月7日，英伟达CEO黄仁勋在韩国表示，存储芯片供应紧张的局面将持续数年。 另据韩国媒体报道，黄仁勋与SK集团会长崔泰源将于周一（6月8日）宣布合作计划。黄仁勋说：“我们的合作覆盖多个领域，包括人工智能超级计算机、中央处理器...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-08/doc-iniarzfu8890702.shtml",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-08/doc-iniarzfy7254014.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-06-08/doc-iniarzfu8890702.shtml"
+        "https://finance.sina.com.cn/stock/bxjj/2026-06-08/doc-iniarzfy7254014.shtml"
       ],
       "publishedAt": "2026-06-08",
       "date": "2026-06-08",
@@ -1139,12 +1418,284 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存” against primary-source evidence.",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “黄仁勋最新表态：存储芯片供应紧张的局面将持续数年” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "IT之家 6 月 8 日消息，英伟达与 SK 海力士今日宣布建立多年期技术合作伙伴关系，围绕全球 AI 工厂建设所需的下一代内存展开联合研发，并将 AI 技术应用于半导体芯片设计与制造。根据协议，SK 海力士将为英伟达 Vera Rubin...",
+      "matchedTopic": "芯片动态",
+      "rawText": "当地时间6月7日，英伟达CEO黄仁勋在韩国表示，存储芯片供应紧张的局面将持续数年。 另据韩国媒体报道，黄仁勋与SK集团会长崔泰源将于周一（6月8日）宣布合作计划。黄仁勋说：“我们的合作覆盖多个领域，包括人工智能超级计算机、中央处理器...",
       "relatedTitles": [
-        "英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存"
+        "黄仁勋最新表态：存储芯片供应紧张的局面将持续数年"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "模型替换、数据倒卖、远控后门！国安部提醒“AI中转站”风险",
+      "summary": "快科技6月8日消息，国家安全部官方公众号今日发文提醒，防范“AI中转站”的数据安全风险。其介绍，随着人工智能应用需求的迅猛增长，批量提供海内外大模型访问服务的“AI中转站”在国内迅速走红。然而，当前“AI中转”市场鱼龙混杂，部分“AI中转站...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniarzfu8894171.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniarzfu8894171.shtml"
+      ],
+      "publishedAt": "2026-06-08",
+      "date": "2026-06-08",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “模型替换、数据倒卖、远控后门！国安部提醒“AI中转站”风险” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技6月8日消息，国家安全部官方公众号今日发文提醒，防范“AI中转站”的数据安全风险。其介绍，随着人工智能应用需求的迅猛增长，批量提供海内外大模型访问服务的“AI中转站”在国内迅速走红。然而，当前“AI中转”市场鱼龙混杂，部分“AI中转站...",
+      "relatedTitles": [
+        "模型替换、数据倒卖、远控后门！国安部提醒“AI中转站”风险"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "科技早报 | 英伟达CEO黄仁勋将与三星电子副董事长全永铉会面",
+      "summary": "科技早报 | 英伟达CEO黄仁勋将与三星电子副董事长全永铉会面；字节跳动再度否认造车,谷歌,黄仁勋,全永铉,字节跳动,美光科技,科技早报,三星电子,知名企业,英伟达芯片,英伟达ceo",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KUST69LT0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KUST69LT0534A4SC.html"
+      ],
+      "publishedAt": "2026-06-08",
+      "date": "2026-06-08",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “科技早报 | 英伟达CEO黄仁勋将与三星电子副董事长全永铉会面” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "科技早报 | 英伟达CEO黄仁勋将与三星电子副董事长全永铉会面；字节跳动再度否认造车,谷歌,黄仁勋,全永铉,字节跳动,美光科技,科技早报,三星电子,知名企业,英伟达芯片,英伟达ceo",
+      "relatedTitles": [
+        "科技早报 | 英伟达CEO黄仁勋将与三星电子副董事长全永铉会面"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "警惕“AI中转站”数据安全风险",
+      "summary": "国家安全部发布安全提示，指出当前流行的“AI 中转站”服务存在数据泄露、模型缩水、恶意植入等多重安全风险。这些第三方平台因运营不规范、安全防护薄弱，可能导致用户隐私、商业机密甚至国家秘密外泄。#AI 安全# #数据安全# 提醒用户选择正规平台，加强个人防护。",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KUSSGD010514R9P4.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KUSSGD010514R9P4.html"
+      ],
+      "publishedAt": "2026-06-08",
+      "date": "2026-06-08",
+      "category": "监管与安全",
+      "classificationConfidence": 0.88,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "technology policy, AI governance, safety and standards",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 163,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 12,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "live",
+      "angle": "Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “警惕“AI中转站”数据安全风险” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "监管与安全动态",
+      "rawText": "警惕“AI中转站”数据安全风险,调用,中转站,应用程序,数据安全风险",
+      "relatedTitles": [
+        "警惕“AI中转站”数据安全风险"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "新宙邦签大单 宁德时代三年采购电解液约30万吨",
+      "summary": "6月7日财联社消息，新宙邦(300037.SZ)公告与宁德时代签订《电解液合作协议》。2026 - 2028年，宁德时代预计分别采购电解液5万吨、10万吨和15万吨，合计30万吨。协议有效期至2028年12月31日，具体采购以实际订单为准。若违约需赔偿2500万元，此协议预计对新宙邦2026 - 2028年经营成果产生",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-08/doc-iniarkka9231837.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/jjxw/2026-06-08/doc-iniarkka9231837.shtml"
+      ],
+      "publishedAt": "2026-06-08",
+      "date": "2026-06-08",
+      "category": "新能源车",
+      "classificationConfidence": 0.7,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “新宙邦签大单 宁德时代三年采购电解液约30万吨” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "证券时报记者 吴志 新宙邦（300037）6月7日晚间公告，公司与宁德时代签订《电解液合作协议》，协议约定未来三年宁德时代向新宙邦采购电解液。 根据公告内容，宁德时代、新宙邦将在协议有效期内就电解液物料进行购销合作，具体产品名称...",
+      "relatedTitles": [
+        "新宙邦签大单 宁德时代三年采购电解液约30万吨"
       ],
       "isNewSinceLastRun": true
     },
@@ -1214,7 +1765,7 @@
       "relatedTitles": [
         "湖北加快培育AI OPC创新生态"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1282,75 +1833,7 @@
       "relatedTitles": [
         "机器人为高考考生加油！"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "警惕“AI中转站”数据安全风险，国家安全部发布",
-      "summary": "警惕“AI中转站”数据安全风险，国家安全部发布安全提示,调用,密钥,服务器,国家安全部,ai中转站,数据安全风险",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KUSQVOV30534A4SC.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/KUSQVOV30534A4SC.html"
-      ],
-      "publishedAt": "2026-06-08",
-      "date": "2026-06-08",
-      "category": "监管与安全",
-      "classificationConfidence": 0.88,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "technology policy, AI governance, safety and standards",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 163,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 12,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "live",
-      "angle": "Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “警惕“AI中转站”数据安全风险，国家安全部发布” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "监管与安全动态",
-      "rawText": "警惕“AI中转站”数据安全风险，国家安全部发布安全提示,调用,密钥,服务器,国家安全部,ai中转站,数据安全风险",
-      "relatedTitles": [
-        "警惕“AI中转站”数据安全风险，国家安全部发布"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1418,7 +1901,7 @@
       "relatedTitles": [
         "AI赋能丨AI技术为金属矿业装上“智慧大脑”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1486,7 +1969,7 @@
       "relatedTitles": [
         "智能技术消除无人机感知盲区"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1554,7 +2037,7 @@
       "relatedTitles": [
         "数字“超级大脑”大幅提升光学材料筛选速度"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1622,7 +2105,7 @@
       "relatedTitles": [
         "“东风OpenVAN”推出4款无人物流车产品；字节跳"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1690,22 +2173,22 @@
       "relatedTitles": [
         "马来西亚5G与科技经济：释放尚未开发的潜力"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
     {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "Anthropic呼吁全球暂停AI开发，打压同行、营销策略还是真有问题？",
-      "summary": "【文/观察者网阮佳琪】据《华尔街日报》4日报道，美国人工智能（AI）初创公司Anthropic周四发布公开",
-      "source": "观察者网-产业科技",
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "MEET大会",
+      "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
+      "source": "量子位",
       "sources": [
-        "观察者网-产业科技"
+        "量子位"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/internation/2026_06_05_819494.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/meet/meet2026/",
       "sourceUrls": [
-        "https://www.guancha.cn/internation/2026_06_05_819494.shtml"
+        "https://www.qbitai.com/meet/meet2026/"
       ],
       "publishedAt": "",
       "date": "",
@@ -1720,18 +2203,18 @@
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 156,
-      "reporterScore": 172,
+      "score": 158,
+      "reporterScore": 180,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": -10,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 12,
-        "visual": 0,
+        "visual": 8,
         "international": 9,
         "policy": 0,
-        "sourceWeight": 8,
+        "sourceWeight": 6,
         "primarySource": 0,
         "interviewValue": 8,
         "marketingPenalty": 0,
@@ -1740,25 +2223,25 @@
       },
       "reporterSignals": {
         "primary": false,
-        "visual": false,
+        "visual": true,
         "international": true,
         "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 115
+        "reporterScore": 123
       },
       "isPrimarySource": false,
       "hasInterviewValue": true,
-      "hasVisualValue": false,
+      "hasVisualValue": true,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic呼吁全球暂停AI开发，打压同行、营销策略还是真有问题？” against primary-source evidence.",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MEET大会” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "【文/观察者网阮佳琪】据《华尔街日报》4日报道，美国人工智能（AI）初创公司Anthropic周四发布公开",
+      "rawText": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势。量子位在会上发布了「2025人工智能年度榜单」与「2025年度AI十大趋势报告」。 大会直播回顾 MEET2025 回顾 MEET2024 回顾 MEET2023 回顾 特邀嘉宾 &times; 重磅发布 2025人工智能年度榜单 我们希望为关注前沿科技创新的人提供一个独立的第三方参照系 为在技术与产业一线摸索前行的团队加一份笃定 为仍在押注长期主义的建设者刻下年度坐标 2025年度AI十大趋势报告 报告由量子位智库打造 基于对全球AI技术发展、产业应用和社会影响的深度调研与分析 全面呈现了人工智能领域的最新现状与未来发展趋势 独家观点 张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 百",
       "relatedTitles": [
-        "Anthropic呼吁全球暂停AI开发，打压同行、营销策略还是真有问题？"
+        "MEET大会"
       ]
     },
     {
@@ -2030,6 +2513,73 @@
       ]
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "突发！OpenAI芯片元老加入Anthropic",
+      "summary": "OpenAI GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价 OpenAI上新三款实时语音模型 听雨 前天 12:35 OpenAI 马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全美最恶人」 马斯克胜诉概率应声下降 henry 2026-05-06 OpenAI 马斯克 刚刚，Ch",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/2026-06-07/doc-iniaqaqs9792187.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/2026-06-07/doc-iniaqaqs9792187.shtml"
+      ],
+      "publishedAt": "2026-06-07",
+      "date": "2026-06-07",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 147,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “突发！OpenAI芯片元老加入Anthropic” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "来源：智东西 特斯拉、谷歌、SpaceX都是他的老东家。 作者 | 江宇 编辑 | 心缘 智东西6月7日报道，今日，OpenAI自研芯片“002号员工”Clive Chan在X平台发文宣布，自己...",
+      "relatedTitles": [
+        "突发！OpenAI芯片元老加入Anthropic"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "高市早苗的芯片迷梦",
       "summary": "高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰，以台积电熊本工厂为锚点——正在从多个维度遭遇严峻挑战。这位日本首位女首相的芯片野心，很可能正在走向一场代价高昂的落空。",
@@ -2228,73 +2778,6 @@
       "rawText": "首页 全球首艘！能装一万多辆汽车的运输船今天试航 分享到： 3月31日，中船广船国际为韩国HMM公司建造的10800车LNG双燃料汽车运输船（PCTC）1号船出海试航，这是目前全球在建的首艘万车级双燃料汽车运输船。 据了解，该船体总长230米，型宽40米，结构吃水10.5米，航速约19节，在高效运输与稳定航行间实现完美平衡。其中14层车库甲板设计，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。按5米一台标准车，所装载的车首尾相连，超过50公里。 这艘船采用燃油和LNG双燃料推进系统，配置轴带发电机，可以一边航行一边完成发电，从而达到节能减排的目的。这艘船环保性能卓越，满足国际海事组织Tier Ⅲ排放标准。 据广船国际相关负责人介绍，汽车运输船是高技术、高附加值船型，其建造难度大、技术含量高。一是需大量采用薄板建造，广船国际建造团队成功攻克了薄板变形控制的难题；二是滚装设备多，机械化程度高，而且过去这些滚装设备大都依赖进口，如今全都实现了国产化。万车船完成建造试航，标志着广船国际完全掌握了此类船型的建造技术，在该细分市场保持领先地位。 （总台记者 魏星",
       "relatedTitles": [
         "全球首艘！能装一万多辆汽车的运输船今天试航"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "OpenAI 升级 ChatGPT 记忆系统：算力降至 1/5，瞄准过时与错误两大痛点",
-      "summary": "OpenAI GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价 OpenAI上新三款实时语音模型 听雨 前天 12:35 OpenAI 马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全美最恶人」 马斯克胜诉概率应声下降 henry 2026-05-06 OpenAI 马斯克 刚刚，Ch",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-05/doc-iniaicva8708629.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-06-05/doc-iniaicva8708629.shtml"
-      ],
-      "publishedAt": "2026-06-05",
-      "date": "2026-06-05",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 135,
-      "reporterScore": 143,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 升级 ChatGPT 记忆系统：算力降至 1/5，瞄准过时与错误两大痛点” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "IT之家 6 月 5 日消息，OpenAI 公司昨日（6 月 4 日）宣布升级 ChatGPT 记忆功能，新系统基于 Dreaming V3 机制，重点改善记忆过时、准确性和大规模服务能力。ChatGPT 记忆系统原本用于记住用户偏好和长期...",
-      "relatedTitles": [
-        "OpenAI 升级 ChatGPT 记忆系统：算力降至 1/5，瞄准过时与错误两大痛点"
       ]
     },
     {
@@ -2798,7 +3281,7 @@
         "reporterScore": 103
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2830,39 +3313,7 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Notion restores access to Anthropic after service disruption",
-      "summary": "Anthropic, the firm behind AI assistant Claude, submitted a confidential filing to go public with the US Securities and Exchange Commission on Monday. The firm, valued at close to ",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "publishedAt": "Sun, 07 Jun 2026 17:56:22 +0000",
-      "date": "2026-06-07",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Notion restores access to Anthropic after service disruption” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2880,6 +3331,38 @@
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI unveils Lockdown Mode to protect sensitive data from prompt injec” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Notion restores access to Anthropic after service disruption",
+      "summary": "Anthropic, the firm behind AI assistant Claude, submitted a confidential filing to go public with the US Securities and Exchange Commission on Monday. The firm, valued at close to ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "publishedAt": "Sun, 07 Jun 2026 17:56:22 +0000",
+      "date": "2026-06-07",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Notion restores access to Anthropic after service disruption” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -2961,8 +3444,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-08｜V3\n生成时间：2026/6/8 07:53:46\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2529｜确认今日 11｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 3 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-08] 全球海洋现象智能预报大模型“琅琊”2.0发布\n   新浪科技｜2026-06-08｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruye4137174.shtml\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “全球海洋现象智能预报大模型“琅琊”2.0发布” against primary-source evidence.\n\n2. [2026-06-08] SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20\n   网易科技｜2026-06-08｜https://www.163.com/dy/article/KUSR9G750534A4SC.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20” against primary-source evidence.\n\n3. [2026-06-08] 英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存\n   新浪科技｜2026-06-08｜https://finance.sina.com.cn/tech/digi/2026-06-08/doc-iniarzfu8890702.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存” against primary-source evidence.\n\n4. [2026-06-08] 湖北加快培育AI OPC创新生态\n   新浪科技｜2026-06-08｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruya7358154.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “湖北加快培育AI OPC创新生态” against primary-source evidence.\n\n5. [2026-06-08] 机器人为高考考生加油！\n   新浪科技｜2026-06-08｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruxy5776196.shtml\n   报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “机器人为高考考生加油！” against primary-source evidence.\n\n本次新增线索：\n- 全球海洋现象智能预报大模型“琅琊”2.0发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruye4137174.shtml\n- SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20｜网易科技｜https://www.163.com/dy/article/KUSR9G750534A4SC.html\n- 英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-08/doc-iniarzfu8890702.shtml\n- 湖北加快培育AI OPC创新生态｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruya7358154.shtml\n- 机器人为高考考生加油！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruxy5776196.shtml\n- I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/visited-intels-robot-run-ai-154759560.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/visited-intels-robot-run-ai-154759560.html\n2. OpenAI is still working on that ‘super app’｜TechCrunch｜https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/\n3. Notion restores access to Anthropic after service disruption｜TechCrunch｜https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/\n4. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks｜TechCrunch｜https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/\n5. Google says it isn't planning to send searches straight to AI Mode in Chrome｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/google-says-it-isnt-planning-to-send-searches-straight-to-ai-mode-in-chrome-175458365.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-08｜V3\n生成时间：2026/6/8 07:53:46\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2529｜确认今日 11｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 3 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-08] 全球海洋现象智能预报大模型“琅琊”2.0发布\n   新浪科技｜2026-06-08｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruye4137174.shtml\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “全球海洋现象智能预报大模型“琅琊”2.0发布” against primary-source evidence.\n\n2. [2026-06-08] SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20\n   网易科技｜2026-06-08｜https://www.163.com/dy/article/KUSR9G750534A4SC.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20” against primary-source evidence.\n\n3. [2026-06-08] 英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存\n   新浪科技｜2026-06-08｜https://finance.sina.com.cn/tech/digi/2026-06-08/doc-iniarzfu8890702.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存” against primary-source evidence.\n\n4. [2026-06-08] 湖北加快培育AI OPC创新生态\n   新浪科技｜2026-06-08｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruya7358154.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “湖北加快培育AI OPC创新生态” against primary-source evidence.\n\n5. [2026-06-08] 机器人为高考考生加油！\n   新浪科技｜2026-06-08｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruxy5776196.shtml\n   报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “机器人为高考考生加油！” against primary-source evidence.\n\n本次新增线索：\n- 全球海洋现象智能预报大模型“琅琊”2.0发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruye4137174.shtml\n- SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20｜网易科技｜https://www.163.com/dy/article/KUSR9G750534A4SC.html\n- 英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-08/doc-iniarzfu8890702.shtml\n- 湖北加快培育AI OPC创新生态｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruya7358154.shtml\n- 机器人为高考考生加油！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruxy5776196.shtml\n- I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/visited-intels-robot-run-ai-154759560.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/visited-intels-robot-run-ai-154759560.html\n2. OpenAI is still working on that ‘super app’｜TechCrunch｜https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/\n3. Notion restores access to Anthropic after service disruption｜TechCrunch｜https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/\n4. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks｜TechCrunch｜https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/\n5. Google says it isn't planning to send searches straight to AI Mode in Chrome｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/google-says-it-isnt-planning-to-send-searches-straight-to-ai-mode-in-chrome-175458365.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-08｜生成时间：2026/6/8 07:53:46｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2529｜确认今日 11｜国际背景 6</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 11 条｜国际 3 条<br>延续跟踪线索：国内 0 条｜国际 3 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-08] 全球海洋现象智能预报大模型“琅琊”2.0发布</strong>\n      <span>新浪科技｜2026-06-08｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruye4137174.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “全球海洋现象智能预报大模型“琅琊”2.0发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-08] SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20</strong>\n      <span>网易科技｜2026-06-08｜<a href=\"https://www.163.com/dy/article/KUSR9G750534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-08] 英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存</strong>\n      <span>新浪科技｜2026-06-08｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-08/doc-iniarzfu8890702.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-08] 湖北加快培育AI OPC创新生态</strong>\n      <span>新浪科技｜2026-06-08｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruya7358154.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “湖北加快培育AI OPC创新生态” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-08] 机器人为高考考生加油！</strong>\n      <span>新浪科技｜2026-06-08｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruxy5776196.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：164｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “机器人为高考考生加油！” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair</strong>\n      <span>时间：2026-06-07｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/visited-intels-robot-run-ai-154759560.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “I visited Intel's robot-run AI chip factory, where the biggest danger is” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI is still working on that ‘super app’</strong>\n      <span>时间：Sun, 07 Jun 2026 16:23:22 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI is still working on that ‘super app’” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Notion restores access to Anthropic after service disruption</strong>\n      <span>时间：Sun, 07 Jun 2026 17:56:22 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Notion restores access to Anthropic after service disruption” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks</strong>\n      <span>时间：Sat, 06 Jun 2026 20:32:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI unveils Lockdown Mode to protect sensitive data from prompt injec” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google says it isn't planning to send searches straight to AI Mode in Chrome</strong>\n      <span>时间：2026-06-06｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/article/google-says-it-isnt-planning-to-send-searches-straight-to-ai-mode-in-chrome-175458365.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google says it isn't planning to send searches straight to AI Mode in Ch” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/8 07:53:46\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 3 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-08] 全球海洋现象智能预报大模型“琅琊”2.0发布\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruye4137174.shtml\n   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “全球海洋现象智能预报大模型“琅琊”2.0发布” against primary-source evidence.\n\n2. [2026-06-08] SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KUSR9G750534A4SC.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20” against primary-source evidence.\n\n3. [2026-06-08] 英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-08/doc-iniarzfu8890702.shtml\n   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存” against primary-source evidence.\n\n4. [2026-06-08] 湖北加快培育AI OPC创新生态\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruya7358154.shtml\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “湖北加快培育AI OPC创新生态” against primary-source evidence.\n\n5. [2026-06-08] 机器人为高考考生加油！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruxy5776196.shtml\n   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “机器人为高考考生加油！” against primary-source evidence.\n\n本次新增线索：\n- 全球海洋现象智能预报大模型“琅琊”2.0发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruye4137174.shtml\n- SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20｜网易科技｜https://www.163.com/dy/article/KUSR9G750534A4SC.html\n- 英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-08/doc-iniarzfu8890702.shtml\n- 湖北加快培育AI OPC创新生态｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruya7358154.shtml\n- 机器人为高考考生加油！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaruxy5776196.shtml\n- I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/visited-intels-robot-run-ai-154759560.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/visited-intels-robot-run-ai-154759560.html\n2. OpenAI is still working on that ‘super app’｜TechCrunch｜https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/\n3. Notion restores access to Anthropic after service disruption｜TechCrunch｜https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/\n4. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks｜TechCrunch｜https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/\n5. Google says it isn't planning to send searches straight to AI Mode in Chrome｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/google-says-it-isnt-planning-to-send-searches-straight-to-ai-mode-in-chrome-175458365.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-08｜V3\n生成时间：2026/6/8 08:19:33\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2528｜确认今日 18｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 10 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-08] 英伟达与SK海力士签署多年合作协议，联合研发下一代芯片\n   新浪科技｜2026-06-08｜https://finance.sina.com.cn/stock/usstock/c/2026-06-08/doc-iniaruxw9016133.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达与SK海力士签署多年合作协议，联合研发下一代芯片” against primary-source evidence.\n\n2. [2026-06-08] 美媒：OpenAI最重要的产品已不再是ChatGPT\n   网易科技｜2026-06-08｜https://www.163.com/tech/article/KUSSNJ6000097U7T.html\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美媒：OpenAI最重要的产品已不再是ChatGPT” against primary-source evidence.\n\n3. [2026-06-08] 人形机器人价格大跳水！“5万元一车”\n   新浪科技｜2026-06-08｜https://finance.sina.com.cn/roll/2026-06-08/doc-iniaruxw9015538.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人价格大跳水！“5万元一车”” against primary-source evidence.\n\n4. [2026-06-08] 人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期\n   网易科技｜2026-06-08｜https://www.163.com/dy/article/KUST6S7905198CJN.html\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期” against primary-source evidence.\n\n5. [2026-06-08] SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20\n   网易科技｜2026-06-08｜https://www.163.com/dy/article/KUSR9G750534A4SC.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20” against primary-source evidence.\n\n本次新增线索：\n- 英伟达与SK海力士签署多年合作协议，联合研发下一代芯片｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-08/doc-iniaruxw9016133.shtml\n- 美媒：OpenAI最重要的产品已不再是ChatGPT｜网易科技｜https://www.163.com/tech/article/KUSSNJ6000097U7T.html\n- 人形机器人价格大跳水！“5万元一车”｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-08/doc-iniaruxw9015538.shtml\n- 人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期｜网易科技｜https://www.163.com/dy/article/KUST6S7905198CJN.html\n- AI早报 | ChatGPT将转型成超级应用；黄仁勋会见｜网易科技｜https://www.163.com/dy/article/KUSTOJRA0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/visited-intels-robot-run-ai-154759560.html\n2. OpenAI is still working on that ‘super app’｜TechCrunch｜https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/\n3. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks｜TechCrunch｜https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/\n4. Notion restores access to Anthropic after service disruption｜TechCrunch｜https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/\n5. Google says it isn't planning to send searches straight to AI Mode in Chrome｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/google-says-it-isnt-planning-to-send-searches-straight-to-ai-mode-in-chrome-175458365.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-08｜V3\n生成时间：2026/6/8 08:19:33\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2528｜确认今日 18｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 10 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-08] 英伟达与SK海力士签署多年合作协议，联合研发下一代芯片\n   新浪科技｜2026-06-08｜https://finance.sina.com.cn/stock/usstock/c/2026-06-08/doc-iniaruxw9016133.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达与SK海力士签署多年合作协议，联合研发下一代芯片” against primary-source evidence.\n\n2. [2026-06-08] 美媒：OpenAI最重要的产品已不再是ChatGPT\n   网易科技｜2026-06-08｜https://www.163.com/tech/article/KUSSNJ6000097U7T.html\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美媒：OpenAI最重要的产品已不再是ChatGPT” against primary-source evidence.\n\n3. [2026-06-08] 人形机器人价格大跳水！“5万元一车”\n   新浪科技｜2026-06-08｜https://finance.sina.com.cn/roll/2026-06-08/doc-iniaruxw9015538.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人价格大跳水！“5万元一车”” against primary-source evidence.\n\n4. [2026-06-08] 人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期\n   网易科技｜2026-06-08｜https://www.163.com/dy/article/KUST6S7905198CJN.html\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期” against primary-source evidence.\n\n5. [2026-06-08] SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20\n   网易科技｜2026-06-08｜https://www.163.com/dy/article/KUSR9G750534A4SC.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20” against primary-source evidence.\n\n本次新增线索：\n- 英伟达与SK海力士签署多年合作协议，联合研发下一代芯片｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-08/doc-iniaruxw9016133.shtml\n- 美媒：OpenAI最重要的产品已不再是ChatGPT｜网易科技｜https://www.163.com/tech/article/KUSSNJ6000097U7T.html\n- 人形机器人价格大跳水！“5万元一车”｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-08/doc-iniaruxw9015538.shtml\n- 人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期｜网易科技｜https://www.163.com/dy/article/KUST6S7905198CJN.html\n- AI早报 | ChatGPT将转型成超级应用；黄仁勋会见｜网易科技｜https://www.163.com/dy/article/KUSTOJRA0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/visited-intels-robot-run-ai-154759560.html\n2. OpenAI is still working on that ‘super app’｜TechCrunch｜https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/\n3. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks｜TechCrunch｜https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/\n4. Notion restores access to Anthropic after service disruption｜TechCrunch｜https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/\n5. Google says it isn't planning to send searches straight to AI Mode in Chrome｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/google-says-it-isnt-planning-to-send-searches-straight-to-ai-mode-in-chrome-175458365.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-08｜生成时间：2026/6/8 08:19:33｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2528｜确认今日 18｜国际背景 6</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 10 条｜国际 0 条<br>延续跟踪线索：国内 8 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-08] 英伟达与SK海力士签署多年合作协议，联合研发下一代芯片</strong>\n      <span>新浪科技｜2026-06-08｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-08/doc-iniaruxw9016133.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达与SK海力士签署多年合作协议，联合研发下一代芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-08] 美媒：OpenAI最重要的产品已不再是ChatGPT</strong>\n      <span>网易科技｜2026-06-08｜<a href=\"https://www.163.com/tech/article/KUSSNJ6000097U7T.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美媒：OpenAI最重要的产品已不再是ChatGPT” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-08] 人形机器人价格大跳水！“5万元一车”</strong>\n      <span>新浪科技｜2026-06-08｜<a href=\"https://finance.sina.com.cn/roll/2026-06-08/doc-iniaruxw9015538.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人价格大跳水！“5万元一车”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-08] 人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期</strong>\n      <span>网易科技｜2026-06-08｜<a href=\"https://www.163.com/dy/article/KUST6S7905198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-08] SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20</strong>\n      <span>网易科技｜2026-06-08｜<a href=\"https://www.163.com/dy/article/KUSR9G750534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair</strong>\n      <span>时间：2026-06-07｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/visited-intels-robot-run-ai-154759560.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “I visited Intel's robot-run AI chip factory, where the biggest danger is” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI is still working on that ‘super app’</strong>\n      <span>时间：Sun, 07 Jun 2026 16:23:22 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI is still working on that ‘super app’” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks</strong>\n      <span>时间：Sat, 06 Jun 2026 20:32:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI unveils Lockdown Mode to protect sensitive data from prompt injec” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Notion restores access to Anthropic after service disruption</strong>\n      <span>时间：Sun, 07 Jun 2026 17:56:22 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Notion restores access to Anthropic after service disruption” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google says it isn't planning to send searches straight to AI Mode in Chrome</strong>\n      <span>时间：2026-06-06｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/article/google-says-it-isnt-planning-to-send-searches-straight-to-ai-mode-in-chrome-175458365.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google says it isn't planning to send searches straight to AI Mode in Ch” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/8 08:19:33\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 10 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-08] 英伟达与SK海力士签署多年合作协议，联合研发下一代芯片\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-08/doc-iniaruxw9016133.shtml\n   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达与SK海力士签署多年合作协议，联合研发下一代芯片” against primary-source evidence.\n\n2. [2026-06-08] 美媒：OpenAI最重要的产品已不再是ChatGPT\n   来源：网易科技\n   链接：https://www.163.com/tech/article/KUSSNJ6000097U7T.html\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美媒：OpenAI最重要的产品已不再是ChatGPT” against primary-source evidence.\n\n3. [2026-06-08] 人形机器人价格大跳水！“5万元一车”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-06-08/doc-iniaruxw9015538.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人价格大跳水！“5万元一车”” against primary-source evidence.\n\n4. [2026-06-08] 人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KUST6S7905198CJN.html\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期” against primary-source evidence.\n\n5. [2026-06-08] SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KUSR9G750534A4SC.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “SK电讯携手英伟达打造吉瓦级AI云，首座AI工厂20” against primary-source evidence.\n\n本次新增线索：\n- 英伟达与SK海力士签署多年合作协议，联合研发下一代芯片｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-08/doc-iniaruxw9016133.shtml\n- 美媒：OpenAI最重要的产品已不再是ChatGPT｜网易科技｜https://www.163.com/tech/article/KUSSNJ6000097U7T.html\n- 人形机器人价格大跳水！“5万元一车”｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-08/doc-iniaruxw9015538.shtml\n- 人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期｜网易科技｜https://www.163.com/dy/article/KUST6S7905198CJN.html\n- AI早报 | ChatGPT将转型成超级应用；黄仁勋会见｜网易科技｜https://www.163.com/dy/article/KUSTOJRA0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/visited-intels-robot-run-ai-154759560.html\n2. OpenAI is still working on that ‘super app’｜TechCrunch｜https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/\n3. OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks｜TechCrunch｜https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/\n4. Notion restores access to Anthropic after service disruption｜TechCrunch｜https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/\n5. Google says it isn't planning to send searches straight to AI Mode in Chrome｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/google-says-it-isnt-planning-to-send-searches-straight-to-ai-mode-in-chrome-175458365.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
