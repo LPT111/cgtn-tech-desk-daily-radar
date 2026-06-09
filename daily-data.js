@@ -1,73 +1,47 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-06-08T23:54:35.027Z",
+  "generatedAt": "2026-06-09T00:13:43.757Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-09",
   "changeSummary": {
-    "domesticNew": 30,
-    "globalNew": 13,
-    "domesticContinued": 0,
-    "globalContinued": 1,
+    "domesticNew": 8,
+    "globalNew": 0,
+    "domesticContinued": 26,
+    "globalContinued": 14,
     "topNewDomestic": [
       {
-        "title": "谷歌、英伟达考虑将英特尔作为后备芯片代工厂",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml"
+        "title": "国产GPU全栈支撑原生训练，北大5D世界模型登顶",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/KUVEPCVV0534A4SC.html"
       },
       {
-        "title": "苹果Siri AI来了",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml"
+        "title": "苹果发布新一代AI平台及升级版Siri",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/KUVCLMTB0534A4SC.html"
       },
       {
-        "title": "iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniatxxf5378508.shtml"
+        "title": "苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/961/707.htm"
       },
       {
-        "title": "城堡证券：通胀压力或迫使美联储很快加息",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml"
+        "title": "马斯克谈SpaceX未来规划，展示AI数据中心卫星更",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/KUVF2OF70534A4SC.html"
       },
       {
-        "title": "苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml"
+        "title": "一文看尽WWDC2026：库克“谢幕之作”，苹果AI大",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/KUVFHRLG0534A4SC.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/"
-      },
-      {
-        "title": "Apple bets cheaper AI will woo small developers",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/"
-      },
-      {
-        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/"
-      },
-      {
-        "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/"
-      },
-      {
-        "title": "Apple’s Photos app is getting new AI editing features",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 870,
+    "domesticRejected": 866,
     "globalRejected": 886,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,7 +56,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 27,
+  "successSources": 25,
   "failedSources": [
     {
       "name": "财联社",
@@ -105,13 +79,23 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -147,13 +131,23 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -344,7 +338,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -365,8 +360,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 11,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -374,7 +370,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -422,13 +418,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1250,
+  "itemsSeen": 1239,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 310,
-  "itemsAfterDedupe": 200,
-  "todayItemsSeen": 30,
+  "itemsAfterRelevantFilter": 308,
+  "itemsAfterDedupe": 201,
+  "todayItemsSeen": 34,
   "suspectedItemsSeen": 16,
-  "skippedNonToday": 155,
+  "skippedNonToday": 152,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -606,7 +602,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -627,8 +624,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 11,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -636,7 +634,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -858,13 +856,23 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -904,17 +912,33 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "topic": "AI动态",
       "count": 12,
-      "sourceCount": 2,
+      "sourceCount": 3,
       "sources": [
         "新浪科技",
-        "IT之家"
+        "IT之家",
+        "网易科技"
       ],
       "items": [
         "苹果Siri AI来了",
-        "iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜",
         "城堡证券：通胀压力或迫使美联储很快加息",
         "无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图",
-        "苹果提升账号安全，iOS 27 版 Passwords 应用支持 AI 自动更换密码"
+        "苹果提升账号安全，iOS 27 版 Passwords 应用支持 AI 自动更换密码",
+        "苹果发布新一代AI平台及升级版Siri"
+      ]
+    },
+    {
+      "topic": "国产 GPU / 算力基础设施",
+      "count": 4,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "国产GPU全栈支撑原生训练，北大5D世界模型登顶",
+        "马斯克展示AI数据中心卫星的更多细节 剑指太空算力网络",
+        "马斯克谈SpaceX未来规划，展示AI数据中心卫星更",
+        "Meta推出“劳工学院”，培训数据中心建设工人"
       ]
     },
     {
@@ -946,16 +970,30 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "国产 GPU / 算力基础设施",
+      "topic": "新能源车动态",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "永太科技拿下宁德时代大单 三年供货电解液约47万吨",
+        "充电功率是特斯拉V3桩6倍！比亚迪德国首座闪充站落成",
+        "研究：特斯拉行驶里程突破 40 万公里的概率高于多数燃油车"
+      ]
+    },
+    {
+      "topic": "AI 应用与智能体",
       "count": 2,
       "sourceCount": 2,
       "sources": [
-        "网易科技",
-        "新浪科技"
+        "新浪科技",
+        "网易科技"
       ],
       "items": [
-        "马斯克展示AI数据中心卫星的更多细节 剑指太空算力网络",
-        "Meta推出“劳工学院”，培训数据中心建设工人"
+        "苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行",
+        "得物与微信就AI Agent达成首批合作"
       ]
     },
     {
@@ -982,29 +1020,6 @@ window.CHENCHEN_DAILY_DATA = {
         "冷冻大鼠染色体在小鼠体内“复活”了",
         "科学家发现人体抗感染“第二道防线”",
         "科研人员预言天然同位素中的结团放射性候选核"
-      ]
-    },
-    {
-      "topic": "新能源车动态",
-      "count": 2,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "永太科技拿下宁德时代大单 三年供货电解液约47万吨",
-        "充电功率是特斯拉V3桩6倍！比亚迪德国首座闪充站落成"
-      ]
-    },
-    {
-      "topic": "AI 应用与智能体",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行"
       ]
     },
     {
@@ -1097,7 +1112,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌、英伟达考虑将英特尔作为后备芯片代工厂"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1165,75 +1180,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "苹果Siri AI来了"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜",
-      "summary": "作为库克最后一次主讲的苹果发布会，WWDC26 放慢脚步，将前两年确定的新方向做深做稳。iOS 27 求稳，主打优化，提升系统基础品质，设备操作响应和动画更顺畅，App 开启速度提升 30%，搜索更智能，还开放 iCloud 共享相册等。此外，系统新增儿童保护措施。Apple 智能是本次重点，苹果与 Google 合作",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniatxxf5378508.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniatxxf5378508.shtml"
-      ],
-      "publishedAt": "2026-06-09",
-      "date": "2026-06-09",
-      "category": "AI",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 171,
-      "reporterScore": 185,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 128
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "作为库克最后一次主讲的苹果发布会，WWDC26 放慢脚步，将前两年确定的新方向做深做稳。iOS 27 求稳，主打优化，提升系统基础品质，设备操作响应和动画更顺畅，App 开启速度提升 30%，搜索更智能，还开放 iCloud 共享相册等。此外，系统新增儿童保护措施。Apple 智能是本次重点，苹果与 Google 合作创建模型，Siri 有重大升级，与灵动岛深度整合，能力扩展到多设备。AI 深入各 App，如 Safari 自动分组网页等。开发者可当天试用新版 Siri，普通用户今年晚些时候获 Beta 版，国行因监管暂不上线。 (AI生成)",
-      "relatedTitles": [
-        "iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1301,7 +1248,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "城堡证券：通胀压力或迫使美联储很快加息"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1369,7 +1316,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1437,7 +1384,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1504,6 +1451,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果为 iOS 27 的密码（Passwords）应用引入新 AI 功能，可在不少场景中自动替用户修改密码，减少账号修复步骤。",
       "relatedTitles": [
         "苹果提升账号安全，iOS 27 版 Passwords 应用支持 AI 自动更换密码"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "国产GPU全栈支撑原生训练，北大5D世界模型登顶",
+      "summary": "国产GPU全栈支撑原生训练，北大5D世界模型登顶斯坦福WorldScore榜单,摩尔,北大,gpu,原生训练,斯坦福大学,worldscore,查尔斯·维利尔斯·斯坦福",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KUVEPCVV0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KUVEPCVV0534A4SC.html"
+      ],
+      "publishedAt": "2026-06-09",
+      "date": "2026-06-09",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “国产GPU全栈支撑原生训练，北大5D世界模型登顶” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "国产GPU全栈支撑原生训练，北大5D世界模型登顶斯坦福WorldScore榜单,摩尔,北大,gpu,原生训练,斯坦福大学,worldscore,查尔斯·维利尔斯·斯坦福",
+      "relatedTitles": [
+        "国产GPU全栈支撑原生训练，北大5D世界模型登顶"
       ],
       "isNewSinceLastRun": true
     },
@@ -1573,6 +1588,74 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "6月9日隔夜要闻：以色列暂缓对伊朗开火 苹果发布新一代AI平台 英特尔获谷歌300万颗TPU大单"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "苹果发布新一代AI平台及升级版Siri",
+      "summary": "在今日的 WWDC26 主题演讲中，苹果发布了 Siri AI 和多项 Apple 智能新功能。目前苹果官网已公布苹果智能和 Siri AI 适配机型。另外，苹果最强端侧模型仅限 iPhone Air、iPhone 17 Pro 系列手机，以及 M4 iPad 和 M3 Mac 及后续机型。",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KUVCLMTB0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KUVCLMTB0534A4SC.html"
+      ],
+      "publishedAt": "2026-06-09",
+      "date": "2026-06-09",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果发布新一代AI平台及升级版Siri” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "苹果发布新一代AI平台及升级版Siri,谷歌,siri,ai平台,苹果公司,普通用户,知名企业,apple,全球开发者大会",
+      "relatedTitles": [
+        "苹果发布新一代AI平台及升级版Siri"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1641,7 +1724,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "马斯克展示AI数据中心卫星的更多细节 剑指太空算力网络"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1708,6 +1791,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "中信建投：低轨卫星组网加速，Computex多款新品发布,火箭,中信建投,低轨卫星,computex",
       "relatedTitles": [
         "中信建投：低轨卫星组网加速，Computex多款新品"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件",
+      "summary": "在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果在 iOS 27 系统中为日历（Calendar）与提醒事项（Reminders）加入多项 AI 功能。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/961/707.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/961/707.htm"
+      ],
+      "publishedAt": "Mon, 08 Jun 2026 21:13:01 GMT",
+      "date": "2026-06-09",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 160,
+      "reporterScore": 168,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果在 iOS 27 系统中为日历（Calendar）与提醒事项（Reminders）加入多项 AI 功能。",
+      "relatedTitles": [
+        "苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件"
       ],
       "isNewSinceLastRun": true
     },
@@ -1777,7 +1928,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "冷冻大鼠染色体在小鼠体内“复活”了"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1845,209 +1996,73 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中信建投：火箭降本开启商业航天新周期，柔性化"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "用AI猜胜负！Kimi官宣将公开预测104场世界杯赛事：德国队或爆冷夺冠",
-      "summary": "快科技6月9日消息，2026年美加墨世界杯即将揭幕。据了解，这届扩军至48支球队的历史性赛事，将在小组赛、32强、16强、四分之一决赛、半决赛和决赛的完整赛程中，带来总计104场对决。昨日，Kimi宣布将公开预测2026美加墨世界杯104场...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "马斯克谈SpaceX未来规划，展示AI数据中心卫星更",
+      "summary": "马斯克谈SpaceX未来规划，展示AI数据中心卫星更多细节,星舰,特斯拉,知名企业,spacex,埃隆_马斯克,ai数据中心卫星,太空探索技术公司",
+      "source": "网易科技",
       "sources": [
-        "新浪科技"
+        "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniaueey6589963.shtml",
+      "url": "https://www.163.com/dy/article/KUVF2OF70534A4SC.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniaueey6589963.shtml"
+        "https://www.163.com/dy/article/KUVF2OF70534A4SC.html"
       ],
       "publishedAt": "2026-06-09",
       "date": "2026-06-09",
-      "category": "AI",
-      "classificationConfidence": 0.93,
+      "category": "太空与低空",
+      "classificationConfidence": 0.88,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
       "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
+      "score": 158,
+      "reporterScore": 164,
       "scoreBreakdown": {
-        "hardTech": 95,
+        "hardTech": 90,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “用AI猜胜负！Kimi官宣将公开预测104场世界杯赛事：德国队或爆冷夺冠” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "快科技6月9日消息，2026年美加墨世界杯即将揭幕。据了解，这届扩军至48支球队的历史性赛事，将在小组赛、32强、16强、四分之一决赛、半决赛和决赛的完整赛程中，带来总计104场对决。昨日，Kimi宣布将公开预测2026美加墨世界杯104场...",
-      "relatedTitles": [
-        "用AI猜胜负！Kimi官宣将公开预测104场世界杯赛事：德国队或爆冷夺冠"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件",
-      "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果在 iOS 27 系统中为日历（Calendar）与提醒事项（Reminders）加入多项 AI 功能。科技媒体 MacRumors...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-09/doc-iniatxxe3470301.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-06-09/doc-iniatxxe3470301.shtml"
-      ],
-      "publishedAt": "2026-06-09",
-      "date": "2026-06-09",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果在 iOS 27 系统中为日历（Calendar）与提醒事项（Reminders）加入多项 AI 功能。科技媒体 MacRumors...",
-      "relatedTitles": [
-        "苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "苹果 iOS 27 的 Siri AI 语音助手可自定义声音节奏、表现力",
-      "summary": "IT之家 6 月 9 日消息，苹果今日宣布，Siri AI 将提供“全新的语音体验”，让用户可以自定义语音助手的声音。在支持苹果最新端侧模型的设备上，Siri AI 将带来更具表现力的声音，同时系统范围内的语音输入准确度也会显著提升。从截图...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-09/doc-iniatxxf5380121.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-06-09/doc-iniatxxf5380121.shtml"
-      ],
-      "publishedAt": "2026-06-09",
-      "date": "2026-06-09",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
+        "visual": 8,
         "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
       },
       "reporterSignals": {
         "primary": false,
-        "visual": false,
+        "visual": true,
         "international": false,
-        "interview": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
+        "hardTechWeight": 90,
+        "reporterScore": 113
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
       "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 iOS 27 的 Siri AI 语音助手可自定义声音节奏、表现力” against primary-source evidence.",
+      "format": "video",
+      "angle": "Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克谈SpaceX未来规划，展示AI数据中心卫星更” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "IT之家 6 月 9 日消息，苹果今日宣布，Siri AI 将提供“全新的语音体验”，让用户可以自定义语音助手的声音。在支持苹果最新端侧模型的设备上，Siri AI 将带来更具表现力的声音，同时系统范围内的语音输入准确度也会显著提升。从截图...",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "马斯克谈SpaceX未来规划，展示AI数据中心卫星更多细节,星舰,特斯拉,知名企业,spacex,埃隆_马斯克,ai数据中心卫星,太空探索技术公司",
       "relatedTitles": [
-        "苹果 iOS 27 的 Siri AI 语音助手可自定义声音节奏、表现力"
+        "马斯克谈SpaceX未来规划，展示AI数据中心卫星更"
       ],
       "isNewSinceLastRun": true
     },
@@ -2117,7 +2132,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英伟达扩容算力应用“朋友圈”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2185,7 +2200,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI检测率不应成为扭曲毕业论文撰写的“帮凶”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2253,7 +2268,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Meta 智能眼镜暗藏人脸识别代码，曝光仅一天后被紧急移除"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2321,7 +2336,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "新型晶体管能同时执行多重电路功能"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2388,6 +2403,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "IT之家从 WWDC26 了解到，快捷指令也接入了 Siri AI，支持用户直接用自然语言快速创建快捷指令，不用像以前那样逐个配置。不过需要注意的是，这项功能依赖 Apple 智能。",
       "relatedTitles": [
         "省去繁琐步骤：苹果 Siri AI 官宣支持自然语言生成快捷指令"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "一文看尽WWDC2026：库克“谢幕之作”，苹果AI大",
+      "summary": "一文看尽WWDC2026：库克“谢幕之作”，苹果AI大更新,谷歌,ios,wwdc,苹果ai,苹果公司,液态玻璃,蒂姆·库克,apple,提姆·库克",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KUVFHRLG0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KUVFHRLG0534A4SC.html"
+      ],
+      "publishedAt": "2026-06-09",
+      "date": "2026-06-09",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “一文看尽WWDC2026：库克“谢幕之作”，苹果AI大” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "一文看尽WWDC2026：库克“谢幕之作”，苹果AI大更新,谷歌,ios,wwdc,苹果ai,苹果公司,液态玻璃,蒂姆·库克,apple,提姆·库克",
+      "relatedTitles": [
+        "一文看尽WWDC2026：库克“谢幕之作”，苹果AI大"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "得物与微信就AI Agent达成首批合作",
+      "summary": "得物与微信就AI Agent达成首批合作,微信,调用,得物,agent",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KUVFDCHN0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KUVFDCHN0534A4SC.html"
+      ],
+      "publishedAt": "2026-06-09",
+      "date": "2026-06-09",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “得物与微信就AI Agent达成首批合作” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "得物与微信就AI Agent达成首批合作,微信,调用,得物,agent",
+      "relatedTitles": [
+        "得物与微信就AI Agent达成首批合作"
       ],
       "isNewSinceLastRun": true
     },
@@ -2457,6 +2608,74 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "苹果 macOS 27 不再支持英特尔处理器，要求搭载 Apple 芯片的 Mac 设备"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "苹果 iOS 27 的 Siri AI 语音助手可自定义声音节奏、表现力",
+      "summary": "在支持苹果最新端侧模型的设备上，Siri AI 将带来更具表现力的声音，同时系统范围内的语音输入准确度也会显著提升。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/961/710.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/961/710.htm"
+      ],
+      "publishedAt": "Mon, 08 Jun 2026 21:30:32 GMT",
+      "date": "2026-06-09",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “苹果 iOS 27 的 Siri AI 语音助手可自定义声音节奏、表现力” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "在支持苹果最新端侧模型的设备上，Siri AI 将带来更具表现力的声音，同时系统范围内的语音输入准确度也会显著提升。",
+      "relatedTitles": [
+        "苹果 iOS 27 的 Siri AI 语音助手可自定义声音节奏、表现力"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -2525,7 +2744,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "永太科技拿下宁德时代大单 三年供货电解液约47万吨"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2593,7 +2812,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "充电功率是特斯拉V3桩6倍！比亚迪德国首座闪充站落成"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2660,6 +2879,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "本报讯 当病原体突破血液中的免疫防线、成功侵入人体细胞时，细胞并非束手无策。科学家近日阐明了一种此前未被描述的免疫机制——抗体指导的异体自噬（ADX），它能让被感染的细胞从内部主动“消化”掉入侵的细菌和病毒，包括沙门氏菌和腺病毒。相关成果6...",
       "relatedTitles": [
         "科学家发现人体抗感染“第二道防线”"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "研究：特斯拉行驶里程突破 40 万公里的概率高于多数燃油车",
+      "summary": "iSeeCars 最新研究显示，特斯拉车型行驶里程达到 25 万英里（约 40.2 万公里）的概率为 4.6%，领先于榜单中 26 个汽车品牌。这项基于 1.74 亿辆乘用车的统计，有力反驳了“电动汽车不耐用”的普遍误解。#电动汽车耐用性# #特斯拉#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/961/736.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/961/736.htm"
+      ],
+      "publishedAt": "Tue, 09 Jun 2026 00:11:21 GMT",
+      "date": "2026-06-09",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 141,
+      "reporterScore": 141,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “研究：特斯拉行驶里程突破 40 万公里的概率高于多数燃油车” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "iSeeCars 最新研究显示，特斯拉车型行驶里程达到 25 万英里（约 40.2 万公里）的概率为 4.6%，领先于榜单中 26 个汽车品牌。这项基于 1.74 亿辆乘用车的统计，有力反驳了“电动汽车不耐用”的普遍误解。#电动汽车耐用性# #特斯拉#",
+      "relatedTitles": [
+        "研究：特斯拉行驶里程突破 40 万公里的概率高于多数燃油车"
       ],
       "isNewSinceLastRun": true
     },
@@ -2729,7 +3016,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "从“画饼”到实机展示，苹果 WWDC26 改变 AI 功能演示方式"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2797,7 +3084,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "三星电子全永铉：正与英伟达商讨下一代 Groq LPU 合作事宜"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -2865,7 +3152,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "最美科技工作者丨金海族：敢为人先，深耕动力电池“无人区”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2933,7 +3220,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Meta推出“劳工学院”，培训数据中心建设工人"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3001,7 +3288,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "科研人员预言天然同位素中的结团放射性候选核"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3069,7 +3356,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "新能源汽车被悄悄“锁电”？车主维权指南来了"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -4149,6 +4436,38 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Apple unveils an upgraded Siri voice assistant with new AI features at its annual conference",
+      "summary": "Apple is unveiling new artificial intelligence features at its annual developers conference. The World Wide Developers Conference started Monday.",
+      "source": "AP Technology",
+      "url": "https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9",
+      "publishedAt": "2026-06-08",
+      "date": "2026-06-08",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple unveils an upgraded Siri voice assistant with new AI features at i” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
       "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in ha",
       "source": "TechCrunch",
@@ -4177,7 +4496,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4209,7 +4528,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4241,7 +4560,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4273,7 +4592,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4305,7 +4624,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4337,7 +4656,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4369,7 +4688,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4401,7 +4720,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4433,7 +4752,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4465,7 +4784,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4497,7 +4816,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4529,7 +4848,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4561,43 +4880,11 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Apple unveils an upgraded Siri voice assistant with new AI features at its annual conference",
-      "summary": "Apple is unveiling new artificial intelligence features at its annual developers conference. The World Wide Developers Conference started Monday.",
-      "source": "AP Technology",
-      "url": "https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9",
-      "publishedAt": "2026-06-08",
-      "date": "2026-06-08",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple unveils an upgraded Siri voice assistant with new AI features at i” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "recent_48h",
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-09｜V3\n生成时间：2026/6/9 07:54:35\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2467｜确认今日 30｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 30 条｜国际 13 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-09] 谷歌、英伟达考虑将英特尔作为后备芯片代工厂\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “谷歌、英伟达考虑将英特尔作为后备芯片代工厂” against primary-source evidence.\n\n2. [2026-06-09] 苹果Siri AI来了\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果Siri AI来了” against primary-source evidence.\n\n3. [2026-06-09] iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniatxxf5378508.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜” against primary-source evidence.\n\n4. [2026-06-09] 城堡证券：通胀压力或迫使美联储很快加息\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城堡证券：通胀压力或迫使美联储很快加息” against primary-source evidence.\n\n5. [2026-06-09] 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行” against primary-source evidence.\n\n本次新增线索：\n- 谷歌、英伟达考虑将英特尔作为后备芯片代工厂｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml\n- 苹果Siri AI来了｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml\n- iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniatxxf5378508.shtml\n- 城堡证券：通胀压力或迫使美联储很快加息｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml\n- 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行｜新浪科技｜https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml\n- Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/\n\n今日热点方向：\n- AI 应用：AI动态（12 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/\n2. Apple bets cheaper AI will woo small developers｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/\n3. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more｜TechCrunch｜https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n4. Apple will let you build workflows using AI in its new Shortcuts app｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/\n5. Apple’s Photos app is getting new AI editing features｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-09｜V3\n生成时间：2026/6/9 07:54:35\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2467｜确认今日 30｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 30 条｜国际 13 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-09] 谷歌、英伟达考虑将英特尔作为后备芯片代工厂\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “谷歌、英伟达考虑将英特尔作为后备芯片代工厂” against primary-source evidence.\n\n2. [2026-06-09] 苹果Siri AI来了\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果Siri AI来了” against primary-source evidence.\n\n3. [2026-06-09] iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniatxxf5378508.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜” against primary-source evidence.\n\n4. [2026-06-09] 城堡证券：通胀压力或迫使美联储很快加息\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城堡证券：通胀压力或迫使美联储很快加息” against primary-source evidence.\n\n5. [2026-06-09] 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行” against primary-source evidence.\n\n本次新增线索：\n- 谷歌、英伟达考虑将英特尔作为后备芯片代工厂｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml\n- 苹果Siri AI来了｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml\n- iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniatxxf5378508.shtml\n- 城堡证券：通胀压力或迫使美联储很快加息｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml\n- 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行｜新浪科技｜https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml\n- Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/\n\n今日热点方向：\n- AI 应用：AI动态（12 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/\n2. Apple bets cheaper AI will woo small developers｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/\n3. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more｜TechCrunch｜https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n4. Apple will let you build workflows using AI in its new Shortcuts app｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/\n5. Apple’s Photos app is getting new AI editing features｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-09｜生成时间：2026/6/9 07:54:35｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2467｜确认今日 30｜国际背景 14</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 30 条｜国际 13 条<br>延续跟踪线索：国内 0 条｜国际 1 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-09] 谷歌、英伟达考虑将英特尔作为后备芯片代工厂</strong>\n      <span>新浪科技｜2026-06-09｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “谷歌、英伟达考虑将英特尔作为后备芯片代工厂” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-09] 苹果Siri AI来了</strong>\n      <span>新浪科技｜2026-06-09｜<a href=\"https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果Siri AI来了” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-09] iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜</strong>\n      <span>新浪科技｜2026-06-09｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniatxxf5378508.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：185｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-09] 城堡证券：通胀压力或迫使美联储很快加息</strong>\n      <span>新浪科技｜2026-06-09｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城堡证券：通胀压力或迫使美联储很快加息” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-09] 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行</strong>\n      <span>新浪科技｜2026-06-09｜<a href=\"https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Apple’s WWDC AI demos looked more real after $250M false ad settlement</strong>\n      <span>时间：Mon, 08 Jun 2026 22:39:57 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Apple’s WWDC AI demos looked more real after $250M false ad settlement” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Apple bets cheaper AI will woo small developers</strong>\n      <span>时间：Mon, 08 Jun 2026 20:53:55 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple bets cheaper AI will woo small developers” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more</strong>\n      <span>时间：Mon, 08 Jun 2026 19:41:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence a” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Apple will let you build workflows using AI in its new Shortcuts app</strong>\n      <span>时间：Mon, 08 Jun 2026 18:45:12 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Apple will let you build workflows using AI in its new Shortcuts app” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Apple’s Photos app is getting new AI editing features</strong>\n      <span>时间：Mon, 08 Jun 2026 18:36:04 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple’s Photos app is getting new AI editing features” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/9 07:54:35\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 30 条｜国际 13 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-09] 谷歌、英伟达考虑将英特尔作为后备芯片代工厂\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “谷歌、英伟达考虑将英特尔作为后备芯片代工厂” against primary-source evidence.\n\n2. [2026-06-09] 苹果Siri AI来了\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果Siri AI来了” against primary-source evidence.\n\n3. [2026-06-09] iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniatxxf5378508.shtml\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜” against primary-source evidence.\n\n4. [2026-06-09] 城堡证券：通胀压力或迫使美联储很快加息\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城堡证券：通胀压力或迫使美联储很快加息” against primary-source evidence.\n\n5. [2026-06-09] 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml\n   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行” against primary-source evidence.\n\n本次新增线索：\n- 谷歌、英伟达考虑将英特尔作为后备芯片代工厂｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml\n- 苹果Siri AI来了｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml\n- iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniatxxf5378508.shtml\n- 城堡证券：通胀压力或迫使美联储很快加息｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml\n- 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行｜新浪科技｜https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml\n- Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/\n\n今日热点方向：\n- AI 应用：AI动态（12 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，1 个来源）\n\n国际科技背景：\n1. Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/\n2. Apple bets cheaper AI will woo small developers｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/\n3. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more｜TechCrunch｜https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n4. Apple will let you build workflows using AI in its new Shortcuts app｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/\n5. Apple’s Photos app is getting new AI editing features｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-09｜V3\n生成时间：2026/6/9 08:13:43\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2456｜确认今日 34｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 26 条｜国际 14 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-09] 谷歌、英伟达考虑将英特尔作为后备芯片代工厂\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “谷歌、英伟达考虑将英特尔作为后备芯片代工厂” against primary-source evidence.\n\n2. [2026-06-09] 苹果Siri AI来了\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果Siri AI来了” against primary-source evidence.\n\n3. [2026-06-09] 城堡证券：通胀压力或迫使美联储很快加息\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城堡证券：通胀压力或迫使美联储很快加息” against primary-source evidence.\n\n4. [2026-06-09] 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行” against primary-source evidence.\n\n5. [19:53] 无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图\n   IT之家｜2026-06-09｜https://www.ithome.com/0/961/699.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图” against primary-source evidence.\n\n本次新增线索：\n- 国产GPU全栈支撑原生训练，北大5D世界模型登顶｜网易科技｜https://www.163.com/dy/article/KUVEPCVV0534A4SC.html\n- 苹果发布新一代AI平台及升级版Siri｜网易科技｜https://www.163.com/dy/article/KUVCLMTB0534A4SC.html\n- 苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件｜IT之家｜https://www.ithome.com/0/961/707.htm\n- 马斯克谈SpaceX未来规划，展示AI数据中心卫星更｜网易科技｜https://www.163.com/dy/article/KUVF2OF70534A4SC.html\n- 一文看尽WWDC2026：库克“谢幕之作”，苹果AI大｜网易科技｜https://www.163.com/dy/article/KUVFHRLG0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI动态（12 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Apple unveils an upgraded Siri voice assistant with new AI features at its annual conference｜AP Technology｜https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9\n2. Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/\n3. Apple bets cheaper AI will woo small developers｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/\n4. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more｜TechCrunch｜https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n5. Apple will let you build workflows using AI in its new Shortcuts app｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-09｜V3\n生成时间：2026/6/9 08:13:43\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2456｜确认今日 34｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 26 条｜国际 14 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-09] 谷歌、英伟达考虑将英特尔作为后备芯片代工厂\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “谷歌、英伟达考虑将英特尔作为后备芯片代工厂” against primary-source evidence.\n\n2. [2026-06-09] 苹果Siri AI来了\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果Siri AI来了” against primary-source evidence.\n\n3. [2026-06-09] 城堡证券：通胀压力或迫使美联储很快加息\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城堡证券：通胀压力或迫使美联储很快加息” against primary-source evidence.\n\n4. [2026-06-09] 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行\n   新浪科技｜2026-06-09｜https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行” against primary-source evidence.\n\n5. [19:53] 无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图\n   IT之家｜2026-06-09｜https://www.ithome.com/0/961/699.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图” against primary-source evidence.\n\n本次新增线索：\n- 国产GPU全栈支撑原生训练，北大5D世界模型登顶｜网易科技｜https://www.163.com/dy/article/KUVEPCVV0534A4SC.html\n- 苹果发布新一代AI平台及升级版Siri｜网易科技｜https://www.163.com/dy/article/KUVCLMTB0534A4SC.html\n- 苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件｜IT之家｜https://www.ithome.com/0/961/707.htm\n- 马斯克谈SpaceX未来规划，展示AI数据中心卫星更｜网易科技｜https://www.163.com/dy/article/KUVF2OF70534A4SC.html\n- 一文看尽WWDC2026：库克“谢幕之作”，苹果AI大｜网易科技｜https://www.163.com/dy/article/KUVFHRLG0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI动态（12 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Apple unveils an upgraded Siri voice assistant with new AI features at its annual conference｜AP Technology｜https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9\n2. Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/\n3. Apple bets cheaper AI will woo small developers｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/\n4. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more｜TechCrunch｜https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n5. Apple will let you build workflows using AI in its new Shortcuts app｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-09｜生成时间：2026/6/9 08:13:43｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2456｜确认今日 34｜国际背景 14</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 8 条｜国际 0 条<br>延续跟踪线索：国内 26 条｜国际 14 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-09] 谷歌、英伟达考虑将英特尔作为后备芯片代工厂</strong>\n      <span>新浪科技｜2026-06-09｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “谷歌、英伟达考虑将英特尔作为后备芯片代工厂” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-09] 苹果Siri AI来了</strong>\n      <span>新浪科技｜2026-06-09｜<a href=\"https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果Siri AI来了” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-09] 城堡证券：通胀压力或迫使美联储很快加息</strong>\n      <span>新浪科技｜2026-06-09｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城堡证券：通胀压力或迫使美联储很快加息” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-09] 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行</strong>\n      <span>新浪科技｜2026-06-09｜<a href=\"https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [19:53] 无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图</strong>\n      <span>IT之家｜2026-06-09｜<a href=\"https://www.ithome.com/0/961/699.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Apple unveils an upgraded Siri voice assistant with new AI features at its annual conference</strong>\n      <span>时间：2026-06-08｜来源：AP Technology｜<a href=\"https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple unveils an upgraded Siri voice assistant with new AI features at i” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Apple’s WWDC AI demos looked more real after $250M false ad settlement</strong>\n      <span>时间：Mon, 08 Jun 2026 22:39:57 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Apple’s WWDC AI demos looked more real after $250M false ad settlement” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Apple bets cheaper AI will woo small developers</strong>\n      <span>时间：Mon, 08 Jun 2026 20:53:55 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple bets cheaper AI will woo small developers” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more</strong>\n      <span>时间：Mon, 08 Jun 2026 19:41:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence a” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Apple will let you build workflows using AI in its new Shortcuts app</strong>\n      <span>时间：Mon, 08 Jun 2026 18:45:12 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Apple will let you build workflows using AI in its new Shortcuts app” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/9 08:13:43\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 26 条｜国际 14 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-09] 谷歌、英伟达考虑将英特尔作为后备芯片代工厂\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “谷歌、英伟达考虑将英特尔作为后备芯片代工厂” against primary-source evidence.\n\n2. [2026-06-09] 苹果Siri AI来了\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果Siri AI来了” against primary-source evidence.\n\n3. [2026-06-09] 城堡证券：通胀压力或迫使美联储很快加息\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城堡证券：通胀压力或迫使美联储很快加息” against primary-source evidence.\n\n4. [2026-06-09] 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml\n   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行” against primary-source evidence.\n\n5. [19:53] 无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图\n   来源：IT之家\n   链接：https://www.ithome.com/0/961/699.htm\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图” against primary-source evidence.\n\n本次新增线索：\n- 国产GPU全栈支撑原生训练，北大5D世界模型登顶｜网易科技｜https://www.163.com/dy/article/KUVEPCVV0534A4SC.html\n- 苹果发布新一代AI平台及升级版Siri｜网易科技｜https://www.163.com/dy/article/KUVCLMTB0534A4SC.html\n- 苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件｜IT之家｜https://www.ithome.com/0/961/707.htm\n- 马斯克谈SpaceX未来规划，展示AI数据中心卫星更｜网易科技｜https://www.163.com/dy/article/KUVF2OF70534A4SC.html\n- 一文看尽WWDC2026：库克“谢幕之作”，苹果AI大｜网易科技｜https://www.163.com/dy/article/KUVFHRLG0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI动态（12 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，1 个来源）\n\n国际科技背景：\n1. Apple unveils an upgraded Siri voice assistant with new AI features at its annual conference｜AP Technology｜https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9\n2. Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/\n3. Apple bets cheaper AI will woo small developers｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/\n4. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more｜TechCrunch｜https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n5. Apple will let you build workflows using AI in its new Shortcuts app｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };

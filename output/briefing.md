@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/9 07:54:35
+生成时间：2026/6/9 08:13:43
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 30 条｜国际 13 条
-延续跟踪线索：国内 0 条｜国际 1 条
+新增核心线索：国内 8 条｜国际 0 条
+延续跟踪线索：国内 26 条｜国际 14 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -23,43 +23,42 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml
    角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果Siri AI来了” against primary-source evidence.
 
-3. [2026-06-09] iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniatxxf5378508.shtml
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜” against primary-source evidence.
-
-4. [2026-06-09] 城堡证券：通胀压力或迫使美联储很快加息
+3. [2026-06-09] 城堡证券：通胀压力或迫使美联储很快加息
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城堡证券：通胀压力或迫使美联储很快加息” against primary-source evidence.
 
-5. [2026-06-09] 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行
+4. [2026-06-09] 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行
    来源：新浪科技
    链接：https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml
    角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行” against primary-source evidence.
 
+5. [19:53] 无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图
+   来源：IT之家
+   链接：https://www.ithome.com/0/961/699.htm
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图” against primary-source evidence.
+
 本次新增线索：
-- 谷歌、英伟达考虑将英特尔作为后备芯片代工厂｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml
-- 苹果Siri AI来了｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefa3392700.shtml
-- iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-09/doc-iniatxxf5378508.shtml
-- 城堡证券：通胀压力或迫使美联储很快加息｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml
-- 苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行｜新浪科技｜https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml
-- Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/
+- 国产GPU全栈支撑原生训练，北大5D世界模型登顶｜网易科技｜https://www.163.com/dy/article/KUVEPCVV0534A4SC.html
+- 苹果发布新一代AI平台及升级版Siri｜网易科技｜https://www.163.com/dy/article/KUVCLMTB0534A4SC.html
+- 苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件｜IT之家｜https://www.ithome.com/0/961/707.htm
+- 马斯克谈SpaceX未来规划，展示AI数据中心卫星更｜网易科技｜https://www.163.com/dy/article/KUVF2OF70534A4SC.html
+- 一文看尽WWDC2026：库克“谢幕之作”，苹果AI大｜网易科技｜https://www.163.com/dy/article/KUVFHRLG0534A4SC.html
 
 今日热点方向：
-- AI 应用：AI动态（12 条，2 个来源）
+- AI 应用：AI动态（12 条，3 个来源）
 - 芯片/半导体：半导体供应链（3 条，2 个来源）
 - 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（3 条，1 个来源）
 
 国际科技背景：
-1. Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/
-2. Apple bets cheaper AI will woo small developers｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/
-3. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more｜TechCrunch｜https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
-4. Apple will let you build workflows using AI in its new Shortcuts app｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/
-5. Apple’s Photos app is getting new AI editing features｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/
+1. Apple unveils an upgraded Siri voice assistant with new AI features at its annual conference｜AP Technology｜https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9
+2. Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/
+3. Apple bets cheaper AI will woo small developers｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/
+4. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more｜TechCrunch｜https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+5. Apple will let you build workflows using AI in its new Shortcuts app｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
