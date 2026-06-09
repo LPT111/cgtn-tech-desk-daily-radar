@@ -3,14 +3,14 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/9 08:13:43
+生成时间：2026/6/9 08:17:27
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 0 条
-延续跟踪线索：国内 26 条｜国际 14 条
-本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
+新增核心线索：国内 0 条｜国际 0 条
+延续跟踪线索：国内 34 条｜国际 14 条
+本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
 1. [2026-06-09] 谷歌、英伟达考虑将英特尔作为后备芯片代工厂
@@ -39,11 +39,7 @@ ChenChen 今日 Briefing｜V3
    角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图” against primary-source evidence.
 
 本次新增线索：
-- 国产GPU全栈支撑原生训练，北大5D世界模型登顶｜网易科技｜https://www.163.com/dy/article/KUVEPCVV0534A4SC.html
-- 苹果发布新一代AI平台及升级版Siri｜网易科技｜https://www.163.com/dy/article/KUVCLMTB0534A4SC.html
-- 苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件｜IT之家｜https://www.ithome.com/0/961/707.htm
-- 马斯克谈SpaceX未来规划，展示AI数据中心卫星更｜网易科技｜https://www.163.com/dy/article/KUVF2OF70534A4SC.html
-- 一文看尽WWDC2026：库克“谢幕之作”，苹果AI大｜网易科技｜https://www.163.com/dy/article/KUVFHRLG0534A4SC.html
+- 暂无新增核心线索。
 
 今日热点方向：
 - AI 应用：AI动态（12 条，3 个来源）
