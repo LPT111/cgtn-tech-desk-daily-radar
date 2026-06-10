@@ -3,61 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/9 18:04:53
+生成时间：2026/6/10 08:01:51
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 0 条
-延续跟踪线索：国内 56 条｜国际 17 条
+新增核心线索：国内 21 条｜国际 10 条
+延续跟踪线索：国内 0 条｜国际 5 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-09] 我国首次成为工业机器人净出口国
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0609/c1004-40736619.html
-   角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “我国首次成为工业机器人净出口国” against primary-source evidence.
-
-2. [2026-06-09] 美团发布AI浏览器Tabbit 1.0 Agent任务成功率超90%
+1. [2026-06-10] 苹果官宣AI升级 国内“果链”企业抢抓机遇
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-06-09/doc-iniauzks3241162.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美团发布AI浏览器Tabbit 1.0 Agent任务成功率超90%” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果官宣AI升级 国内“果链”企业抢抓机遇” against primary-source evidence.
 
-3. [2026-06-09] 谷歌、英伟达考虑将英特尔作为后备芯片代工厂
+2. [2026-06-10] 仅限成年人购买使用！首款超仿生机器人小订破3000台
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatpia8450543.shtml
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “谷歌、英伟达考虑将英特尔作为后备芯片代工厂” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “仅限成年人购买使用！首款超仿生机器人小订破3000台” against primary-source evidence.
 
-4. [08:18] 李柯：比亚迪目标 75% 欧洲销售车型实现本土化生产
-   来源：IT之家
-   链接：https://www.ithome.com/0/961/989.htm
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “李柯：比亚迪目标 75% 欧洲销售车型实现本土化生产” against primary-source evidence.
+3. [2026-06-10] 欧洲人工智能产业版图：初创企业如何驱动变革
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲人工智能产业版图：初创企业如何驱动变革” against primary-source evidence.
 
-5. [07:02] 截至 2025 年底我国智能算力规模达 159 万 PFLOPS，位居全球第二
-   来源：IT之家
-   链接：https://www.ithome.com/0/961/955.htm
-   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “截至 2025 年底我国智能算力规模达 159 万 PFLOPS，位居全球第二” against primary-source evidence.
+4. [2026-06-10] OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-06-10/doc-iniawpmz4600004.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器” against primary-source evidence.
+
+5. [2026-06-10] 美国科技股在全面抛售中下跌 芯片制造商表现不佳
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4819604.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国科技股在全面抛售中下跌 芯片制造商表现不佳” against primary-source evidence.
 
 本次新增线索：
-- 广东：2027年底前全省累计建成300万个以上充电｜网易科技｜https://www.163.com/dy/article/KV0GKR1A0534A4SC.html
-- 中国下饺子式发射卫星：央视称这不只是商业竞赛，而是一次必须打赢的战略突围｜IT之家｜https://www.ithome.com/0/962/060.htm
-- 销量暴涨 766%，英伟达 CEO 黄仁勋韩国行意外带火“HBM 薯片”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-09/doc-iniavfsr4986076.shtml
-- 蔚来全新 ES8 汽车 5 月零售销量超 1.1 万台，连续六个月获大型 SUV 市场销量第一｜IT之家｜https://www.ithome.com/0/962/012.htm
+- 苹果官宣AI升级 国内“果链”企业抢抓机遇｜新浪科技｜https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml
+- 仅限成年人购买使用！首款超仿生机器人小订破3000台｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml
+- 欧洲人工智能产业版图：初创企业如何驱动变革｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml
+- OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-10/doc-iniawpmz4600004.shtml
+- 美国科技股在全面抛售中下跌 芯片制造商表现不佳｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4819604.shtml
+- WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more｜TechCrunch｜https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
 
 今日热点方向：
-- AI 应用：AI动态（12 条，4 个来源）
-- 芯片/半导体：半导体供应链（11 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（8 条，2 个来源）
-- 太空与低空经济：商业航天与卫星互联网（3 条，2 个来源）
+- AI 应用：AI 应用与智能体（2 条，1 个来源）
+- 芯片/半导体：半导体供应链（3 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
+- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
 - 科学前沿：
 
 国际科技背景：
-1. Taiwan's Asus unveils 'AI City' and Nvidia-powered laptops at Computex｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/taiwans-asus-unveils-ai-city-132059953.html
-2. Apple unveils an upgraded Siri voice assistant with new AI features at its annual conference｜AP Technology｜https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9
-3. Why Apple’s slow-and-steady AI bet is starting to look pretty smart｜TechCrunch｜https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/
-4. Apple’s WWDC AI demos looked more real after $250M false ad settlement｜TechCrunch｜https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/
-5. Apple bets cheaper AI will woo small developers｜TechCrunch｜https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/
+1. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more｜TechCrunch｜https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+2. Anthropic’s Claude Fable 5 is a version of Mythos the public can access today｜TechCrunch｜https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/
+3. It’s not FAANG anymore. It’s MANGOS.｜TechCrunch｜https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/
+4. Apple says its AI is still private, even when it's running on Google's servers｜Ars Technica｜https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/
+5. How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund｜TechCrunch｜https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
