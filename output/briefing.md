@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/10 17:31:39
+生成时间：2026/6/10 18:04:19
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 62 条｜国际 0 条
-延续跟踪线索：国内 5 条｜国际 15 条
+新增核心线索：国内 20 条｜国际 0 条
+延续跟踪线索：国内 50 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,39 +18,39 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml
    角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果官宣AI升级 国内“果链”企业抢抓机遇” against primary-source evidence.
 
-2. [2026-06-10] 千问发布高考志愿填报Agent，免费提供志愿填报咨询
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-06-10/doc-iniaxeiv1292508.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “千问发布高考志愿填报Agent，免费提供志愿填报咨询” against primary-source evidence.
-
-3. [2026-06-10] 摩尔线程宣布开源MusaCoder：首个国产全功能GPU全栈训练代码大模型
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniaxkrq2672781.shtml
-   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摩尔线程宣布开源MusaCoder：首个国产全功能GPU全栈训练代码大模型” against primary-source evidence.
-
-4. [2026-06-10] 人形机器人拥有“身份证” 行业探索全生命周期管理-"近日
+2. [2026-06-10] 人形机器人拥有“身份证” 行业探索全生命周期管理-"近日
    来源：新华网-科技
    链接：http://www.news.cn/tech/20260610/779774b0e0d04ae89cc9ed4cb8cdfbf6/c.html
    角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “人形机器人拥有“身份证” 行业探索全生命周期管理-"近日” against primary-source evidence.
 
-5. [2026-06-10] 断层摩擦微观力学机制研究获进展
-   来源：中国科学院
-   链接：https://www.cas.cn/syky/202606/t20260610_5112225.shtml
-   角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “断层摩擦微观力学机制研究获进展” against primary-source evidence.
+3. [2026-06-10] 朱雀二号改进型遥六运载火箭发射成功
+   来源：光明网-科技
+   链接：https://news.gmw.cn/2026-06/10/content_38820128.htm
+   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “朱雀二号改进型遥六运载火箭发射成功” against primary-source evidence.
+
+4. [2026-06-10] 千问发布高考志愿填报Agent，免费提供志愿填报咨询
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/roll/2026-06-10/doc-iniaxeiv1292508.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “千问发布高考志愿填报Agent，免费提供志愿填报咨询” against primary-source evidence.
+
+5. [2026-06-10] 消息人士：韩国SK海力士计划最早于8月在美国上市
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniaxkrq2694858.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “消息人士：韩国SK海力士计划最早于8月在美国上市” against primary-source evidence.
 
 本次新增线索：
-- 苹果官宣AI升级 国内“果链”企业抢抓机遇｜新浪科技｜https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml
-- 千问发布高考志愿填报Agent，免费提供志愿填报咨询｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-10/doc-iniaxeiv1292508.shtml
-- 摩尔线程宣布开源MusaCoder：首个国产全功能GPU全栈训练代码大模型｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniaxkrq2672781.shtml
-- 断层摩擦微观力学机制研究获进展｜中国科学院｜https://www.cas.cn/syky/202606/t20260610_5112225.shtml
-- 训练机器人、创作AI漫剧 人工智能催生就业新蓝海｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/10/content_530036.html
+- 朱雀二号改进型遥六运载火箭发射成功｜光明网-科技｜https://news.gmw.cn/2026-06/10/content_38820128.htm
+- 消息人士：韩国SK海力士计划最早于8月在美国上市｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniaxkrq2694858.shtml
+- 六氟化钨价格狂飙，中船特气一年暴涨超770%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniaxkrt1263820.shtml
+- 摩尔线程开源面向GPU底层算子生成的专用代码大｜网易科技｜https://www.163.com/dy/article/KV2TVA1Q0534A4SC.html
+- 美国国防部更新限制名单！比亚迪、蔚来、宁德时代等在列｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniaxkrr4498844.shtml
 
 今日热点方向：
-- AI 应用：AI动态（18 条，6 个来源）
-- 芯片/半导体：半导体供应链（5 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（4 条，3 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- AI 应用：AI动态（16 条，6 个来源）
+- 芯片/半导体：半导体供应链（7 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（6 条，3 个来源）
+- 太空与低空经济：太空与低空动态（3 条，2 个来源）
 - 科学前沿：科学前沿动态（3 条，1 个来源）
 
 国际科技背景：
