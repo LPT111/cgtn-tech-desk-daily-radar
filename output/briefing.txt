@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/10 18:04:19
+生成时间：2026/6/10 18:35:46
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 20 条｜国际 0 条
-延续跟踪线索：国内 50 条｜国际 15 条
+新增核心线索：国内 24 条｜国际 0 条
+延续跟踪线索：国内 48 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -21,35 +21,35 @@ ChenChen 今日 Briefing｜V3
    链接：http://www.news.cn/tech/20260610/779774b0e0d04ae89cc9ed4cb8cdfbf6/c.html
    角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “人形机器人拥有“身份证” 行业探索全生命周期管理-"近日” against primary-source evidence.
 
-3. [2026-06-10] 朱雀二号改进型遥六运载火箭发射成功
+3. [2026-06-10] 中企加速布局欧洲自动驾驶出行市场
    来源：光明网-科技
-   链接：https://news.gmw.cn/2026-06/10/content_38820128.htm
-   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “朱雀二号改进型遥六运载火箭发射成功” against primary-source evidence.
+   链接：https://tech.gmw.cn/2026-06/10/content_38820691.htm
+   角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “中企加速布局欧洲自动驾驶出行市场” against primary-source evidence.
 
 4. [2026-06-10] 千问发布高考志愿填报Agent，免费提供志愿填报咨询
    来源：新浪科技
    链接：https://finance.sina.com.cn/roll/2026-06-10/doc-iniaxeiv1292508.shtml
    角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “千问发布高考志愿填报Agent，免费提供志愿填报咨询” against primary-source evidence.
 
-5. [2026-06-10] 消息人士：韩国SK海力士计划最早于8月在美国上市
+5. [2026-06-10] 荣耀YOYO与微信首个A2A合作正式上线， 携手共建繁荣AI生态
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniaxkrq2694858.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “消息人士：韩国SK海力士计划最早于8月在美国上市” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniaxkrt1285898.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “荣耀YOYO与微信首个A2A合作正式上线， 携手共建繁荣AI生态” against primary-source evidence.
 
 本次新增线索：
-- 朱雀二号改进型遥六运载火箭发射成功｜光明网-科技｜https://news.gmw.cn/2026-06/10/content_38820128.htm
-- 消息人士：韩国SK海力士计划最早于8月在美国上市｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniaxkrq2694858.shtml
-- 六氟化钨价格狂飙，中船特气一年暴涨超770%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniaxkrt1263820.shtml
-- 摩尔线程开源面向GPU底层算子生成的专用代码大｜网易科技｜https://www.163.com/dy/article/KV2TVA1Q0534A4SC.html
-- 美国国防部更新限制名单！比亚迪、蔚来、宁德时代等在列｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniaxkrr4498844.shtml
+- 中企加速布局欧洲自动驾驶出行市场｜光明网-科技｜https://tech.gmw.cn/2026-06/10/content_38820691.htm
+- 荣耀YOYO与微信首个A2A合作正式上线， 携手共建繁荣AI生态｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniaxkrt1285898.shtml
+- 美的与阿里巴巴达成战略合作 依托千问大模型联合研发智慧家居AI大脑｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-10/doc-iniaxkrn5945500.shtml
+- Counterpoint：2026 年 Q1 智能手机芯片出货下滑 8%，联发科 32% 稳居榜首、高通 23%、苹果 19%、紫光展锐 14%｜IT之家｜https://www.ithome.com/0/962/610.htm
+- 工信部：加强高端光电芯片和器件研发，开展光电混合组网试验｜IT之家｜https://www.ithome.com/0/962/498.htm
 
 今日热点方向：
-- AI 应用：AI动态（16 条，6 个来源）
-- 芯片/半导体：半导体供应链（7 条，2 个来源）
+- AI 应用：AI动态（16 条，7 个来源）
+- 芯片/半导体：半导体供应链（5 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（6 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（11 条，4 个来源）
 - 太空与低空经济：太空与低空动态（3 条，2 个来源）
-- 科学前沿：科学前沿动态（3 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more｜TechCrunch｜https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
