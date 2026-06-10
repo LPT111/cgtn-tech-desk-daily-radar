@@ -1,64 +1,39 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-06-10T00:01:51.670Z",
+  "generatedAt": "2026-06-10T00:22:38.750Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-10",
   "changeSummary": {
-    "domesticNew": 21,
-    "globalNew": 10,
-    "domesticContinued": 0,
-    "globalContinued": 5,
+    "domesticNew": 4,
+    "globalNew": 1,
+    "domesticContinued": 21,
+    "globalContinued": 15,
     "topNewDomestic": [
       {
-        "title": "苹果官宣AI升级 国内“果链”企业抢抓机遇",
+        "title": "人形机器人拥有“身份证” 行业探索全生命周期管理",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmz4614332.shtml"
       },
       {
-        "title": "仅限成年人购买使用！首款超仿生机器人小订破3000台",
+        "title": "“发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpnc1390352.shtml"
       },
       {
-        "title": "欧洲人工智能产业版图：初创企业如何驱动变革",
+        "title": "比亚迪千人股东会半数是车主，王传福豪言2030年做到全球第一",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml"
+        "url": "https://finance.sina.com.cn/jjxw/2026-06-10/doc-iniawiec4714299.shtml"
       },
       {
-        "title": "OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-10/doc-iniawpmz4600004.shtml"
-      },
-      {
-        "title": "美国科技股在全面抛售中下跌 芯片制造商表现不佳",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4819604.shtml"
+        "title": "中信建投：维持看多机器人产业趋势",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/KV21UDLI0512B07B.html"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/"
-      },
-      {
-        "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/"
-      },
-      {
-        "title": "It’s not FAANG anymore. It’s MANGOS.",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/"
-      },
-      {
-        "title": "Apple says its AI is still private, even when it's running on Google's servers",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/"
-      },
-      {
-        "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/"
+        "title": "I tried Sony's new surround system –it asks big questions of Samsung and LG",
+        "source": "Yahoo News Technology",
+        "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/tried-sonys-tv-surround-system-160000515.html"
       }
     ],
     "hasPrevious": true
@@ -67,8 +42,8 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 879,
-    "globalRejected": 885,
+    "domesticRejected": 875,
+    "globalRejected": 884,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,32 +57,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 27,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -127,29 +82,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -221,8 +156,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -270,9 +204,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -336,16 +269,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -422,13 +353,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1314,
+  "itemsSeen": 1377,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 288,
-  "itemsAfterDedupe": 183,
-  "todayItemsSeen": 21,
-  "suspectedItemsSeen": 15,
-  "skippedNonToday": 149,
+  "itemsAfterRelevantFilter": 326,
+  "itemsAfterDedupe": 198,
+  "todayItemsSeen": 25,
+  "suspectedItemsSeen": 13,
+  "skippedNonToday": 162,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -483,8 +414,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -532,9 +462,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -598,16 +527,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -838,29 +765,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -899,11 +806,11 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1217,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 99,
+  "globalItemsAfterRelevantFilter": 100,
   "topics": [
     {
       "topic": "新能源车动态",
-      "count": 4,
+      "count": 5,
       "sourceCount": 3,
       "sources": [
         "新浪科技",
@@ -911,6 +818,7 @@ window.CHENCHEN_DAILY_DATA = {
         "IT之家"
       ],
       "items": [
+        "比亚迪千人股东会半数是车主，王传福豪言2030年做到全球第一",
         "再下一城：特斯拉 FSD 监督版获丹麦上路许可",
         "东风汽车全新固态电池下半年量产装车；广东：积",
         "特斯拉公布欧洲 FSD 安全数据：荷兰道路安全性达人工驾驶 3 倍以上",
@@ -961,14 +869,27 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 2,
+      "count": 3,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
         "苹果官宣AI升级 国内“果链”企业抢抓机遇",
+        "“发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升",
         "Anthropic深夜炸场，推出新模型：5000万行代码1天搞定"
+      ]
+    },
+    {
+      "topic": "人形机器人与具身智能",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "人形机器人拥有“身份证” 行业探索全生命周期管理",
+        "仅限成年人购买使用！首款超仿生机器人小订破3000台"
       ]
     },
     {
@@ -996,17 +917,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "人形机器人与具身智能",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "仅限成年人购买使用！首款超仿生机器人小订破3000台"
-      ]
-    },
-    {
       "topic": "商业航天与卫星互联网",
       "count": 1,
       "sourceCount": 1,
@@ -1016,9 +926,88 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "没信号也能刷视频？朱雀2号干了件大事：手机直连卫星上天"
       ]
+    },
+    {
+      "topic": "机器人动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "中信建投：维持看多机器人产业趋势"
+      ]
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "人形机器人拥有“身份证” 行业探索全生命周期管理",
+      "summary": "人形机器人迎来了自己的“身份证”，从出厂到报废，可实现全链条追溯。 近日，由工业和信息化部人形机器人与具身智能标准化技术委员会牵头搭建的全国首个人形机器人全生命周期管理服务平台发布，配套的《人形机器人 全生命周期管理规范》标准也同步出...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmz4614332.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmz4614332.shtml"
+      ],
+      "publishedAt": "2026-06-10",
+      "date": "2026-06-10",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 187,
+      "reporterScore": 209,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 133
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人拥有“身份证” 行业探索全生命周期管理” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "人形机器人迎来了自己的“身份证”，从出厂到报废，可实现全链条追溯。 近日，由工业和信息化部人形机器人与具身智能标准化技术委员会牵头搭建的全国首个人形机器人全生命周期管理服务平台发布，配套的《人形机器人 全生命周期管理规范》标准也同步出...",
+      "relatedTitles": [
+        "人形机器人拥有“身份证” 行业探索全生命周期管理"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "苹果官宣AI升级 国内“果链”企业抢抓机遇",
@@ -1085,7 +1074,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "苹果官宣AI升级 国内“果链”企业抢抓机遇"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1153,7 +1142,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "仅限成年人购买使用！首款超仿生机器人小订破3000台"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1220,6 +1209,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "欧洲人工智能正在进入结构性扩张阶段，其发展路径呈现出“算力、模型、应用”三层分化格局。数据显示，欧洲仅占全球AI算力约4.8%，远低于其16%的数据中心占比，但欧盟已投入200亿欧元建设AI超级工厂，试图弥补基础设施短板。与此同时，在模型层...",
       "relatedTitles": [
         "欧洲人工智能产业版图：初创企业如何驱动变革"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "“发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升",
+      "summary": "当前，全球主要经济体正加快推进以人工智能为核心的新一轮科技革命与产业变革，我国也前瞻布局战略性新兴产业和谋划未来产业。其核心在于构建科技创新与产业创新深度融合的良性循环体系，着力打通成果转化关键环节，以新质生产力重塑产业发展动能。 近...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpnc1390352.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpnc1390352.shtml"
+      ],
+      "publishedAt": "2026-06-10",
+      "date": "2026-06-10",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "当前，全球主要经济体正加快推进以人工智能为核心的新一轮科技革命与产业变革，我国也前瞻布局战略性新兴产业和谋划未来产业。其核心在于构建科技创新与产业创新深度融合的良性循环体系，着力打通成果转化关键环节，以新质生产力重塑产业发展动能。 近...",
+      "relatedTitles": [
+        "“发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "比亚迪千人股东会半数是车主，王传福豪言2030年做到全球第一",
+      "summary": "6月9日，比亚迪、蔚来发布公告，回应被美国国防部列入“中国军工企业名单”“中国军事企业”名单一事。两公司均称自身并非相关企业，被列入名单缺乏正当理由，且名单并非制裁名单，相关美国政府采购限制不影响业务，证券交易也不受限。蔚来将积极与美国防部沟通，必要时采取法律行动。美东时间6月8日，美国国防部更新“中国军工企业清单”，",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-10/doc-iniawiec4714299.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/jjxw/2026-06-10/doc-iniawiec4714299.shtml"
+      ],
+      "publishedAt": "2026-06-10",
+      "date": "2026-06-10",
+      "category": "新能源车",
+      "classificationConfidence": 0.88,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 178,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “比亚迪千人股东会半数是车主，王传福豪言2030年做到全球第一” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "6月9日，深圳比亚迪总部，启迪厅座无虚席。这座承载着比亚迪无数重大战略发布的会议厅，迎来了公司历史上人数最多的一次股东会，现场参会股东接近千人，董秘李黔介绍，其中约一半是比亚迪车主。股东会现场，比亚迪董事长王传福对外界最关切的智能化突破、出...",
+      "relatedTitles": [
+        "比亚迪千人股东会半数是车主，王传福豪言2030年做到全球第一"
       ],
       "isNewSinceLastRun": true
     },
@@ -1289,7 +1414,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1357,7 +1482,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美国科技股在全面抛售中下跌 芯片制造商表现不佳"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1425,7 +1550,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "我国智能算力规模位居全球第二；国产GPU首次全"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1493,7 +1618,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "消息称三星电子计划在韩国光州新建先进半导体封装工厂，强化 AI 芯片产业链布局"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1561,7 +1686,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "没信号也能刷视频？朱雀2号干了件大事：手机直连卫星上天"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1629,7 +1754,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "SpaceX发布首颗轨道数据中心卫星，马斯克称其“比星链卫星简易得多”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1697,7 +1822,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "再下一城：特斯拉 FSD 监督版获丹麦上路许可"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1769,7 +1894,7 @@ window.CHENCHEN_DAILY_DATA = {
         "Anthropic深夜炸场，推出新模型：5000万行代码1天搞定",
         "刚刚，Claude最强模型Fable 5发布：性能爆炸，价格翻倍"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1837,7 +1962,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "欧盟要求Meta暂停对AI竞争对手的WhatsApp接入限制"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1905,7 +2030,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "飞利浦北美CEO：人工智能正在提升临床医生的准确性"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1973,7 +2098,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "三星、海力士或将公布韩国投资计划"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2040,6 +2165,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "无线芯片嵌入单晶金刚石后突破散热瓶颈,单晶,金刚石,氮化镓,高功率,无线芯片",
       "relatedTitles": [
         "无线芯片嵌入单晶金刚石后突破散热瓶颈"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "中信建投：维持看多机器人产业趋势",
+      "summary": "中信建投：维持看多机器人产业趋势,机器人,主机厂,中信建投",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KV21UDLI0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KV21UDLI0512B07B.html"
+      ],
+      "publishedAt": "2026-06-10",
+      "date": "2026-06-10",
+      "category": "机器人",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 148,
+      "reporterScore": 154,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “中信建投：维持看多机器人产业趋势” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "中信建投：维持看多机器人产业趋势,机器人,主机厂,中信建投",
+      "relatedTitles": [
+        "中信建投：维持看多机器人产业趋势"
       ],
       "isNewSinceLastRun": true
     },
@@ -2109,7 +2302,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "东风汽车全新固态电池下半年量产装车；广东：积"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2177,7 +2370,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉公布欧洲 FSD 安全数据：荷兰道路安全性达人工驾驶 3 倍以上"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2245,7 +2438,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "新能源车越来越胖：正制造三重风险"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2313,7 +2506,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉辅助驾驶系统在丹麦获批"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2381,7 +2574,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "通用汽车入局储能市场，研发钠离子电池服务数据中心与电网"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2449,7 +2642,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "比亚迪：已为实现更高级别自动驾驶做好准备"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2590,7 +2783,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "车圈最新认知",
-      "summary": "车圈最新认知 “豆包汽车”，目标市场10万-20万 国资入主，赛力斯让权 杰西卡 1小时前 火山引擎 赛力斯 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robota",
+      "summary": "车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 昨天 13:37 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 前天 16:48 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 3",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2649,7 +2842,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Use battery innovation and infrastructure to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “车圈最新认知” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "车圈最新认知 “豆包汽车”，目标市场10万-20万 国资入主，赛力斯让权 杰西卡 1小时前 火山引擎 赛力斯 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 2026-05-25 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 39万！雷军发布小米最贵SUV 特斯拉前厂长宋钢加盟后首秀 杰西卡 2026-05-22 小米YU7 GT 小米汽车 车圈最新认知 百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了 落地全球27城 杰西卡 2026-05-19 穿透财报招股书 萝卜快跑 车圈最新认知 15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点” 共享蔚来超8800座充换电站 杰西卡 2026-05-16 乐道L80 蔚来 车圈最新认知 Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 2026-05-14 文远知行 无人车往哪里开？ 车圈最",
+      "rawText": "车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 昨天 13:37 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 前天 16:48 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 39万！雷军发布小米最贵SUV 特斯拉前厂长宋钢加盟后首秀 杰西卡 2026-05-22 小米YU7 GT 小米汽车 车圈最新认知 百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了 落地全球27城 杰西卡 2026-05-19 穿透财报招股书 萝卜快跑 车圈最新认知 15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点” 共享蔚来超8800座充换电站 杰西卡 2026-05-16 乐道L80 蔚来 车圈最新认知 Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 2026-05-14 文远知行 无人车往哪里开？ 车圈最新认知 重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展 牵引中国汽车“走出去”、“走上去” 杰西卡 2026",
       "relatedTitles": [
         "车圈最新认知"
       ]
@@ -2991,73 +3184,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "新型晶体管，研制成功！刷新世界纪录",
-      "summary": "首页 我国科研人员研制新型高频晶体管刷新全球纪录 分享到： 据中国科学院金属研究所8日消息，金属所等联合团队发明高频硅-石墨烯-锗势垒晶体管。 据介绍，随着5G的规模化部署与6G技术的前瞻性探索，物联网（IoT）、超高速传感及智能通信系统对晶体管的运行速度提出了前所未有的要求，即其截止频率需突破1太赫兹（THz）的关键",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/industry-science/2026_06_08_819805.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/industry-science/2026_06_08_819805.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "科学前沿",
-      "classificationConfidence": 0.84,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 4,
-      "score": 126,
-      "reporterScore": 134,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “新型晶体管，研制成功！刷新世界纪录” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "首页 我国科研人员研制新型高频晶体管刷新全球纪录 分享到： 据中国科学院金属研究所8日消息，金属所等联合团队发明高频硅-石墨烯-锗势垒晶体管。 据介绍，随着5G的规模化部署与6G技术的前瞻性探索，物联网（IoT）、超高速传感及智能通信系统对晶体管的运行速度提出了前所未有的要求，即其截止频率需突破1太赫兹（THz）的关键门槛。然而，传统高频晶体管，如高电子迁移率晶体管（HEMT）和异质结双极型晶体管（HBT），其性能受限于载流子在沟道或体材料基区中的渡越时间，难以满足太赫兹频段的应用需求。 近年来，垂直二维基区晶体管采用石墨烯等二维材料作为基区，凭借原子级厚度大幅缩短载流子的垂直渡越时间，在构筑太赫兹晶体管方面展现出巨大潜力。然而，该类器件普遍存在的量子隧穿势垒与界面缺陷问题，会导致严重的载流子散射，从而限制其电流增益与高频性能。因此，如何通过新型调控机制克服界面瓶颈，实现高增益并提升截止频率，已成为发展垂直二维基区晶体管的核心科学挑战。 针对这一难题，中国科学院金属研究所联合多家研究单位，提出了一种创新性的高频器件架构——硅-石墨烯-锗势垒晶体管（Si-Graphene-Ge Barr",
-      "relatedTitles": [
-        "新型晶体管，研制成功！刷新世界纪录"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "“985”博导不如初中辍学的张雪？",
       "summary": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻",
       "source": "观察者网-产业科技",
@@ -3258,40 +3384,40 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoLmNu",
-      "title": "��ѧ����",
-      "summary": "��ҳ > �Ƽ�Ƶ�� > ��ѧ���� �ೡ�����AI ҵ���ƶ������ջݷ�չ ��ǰ�����д�ģ�͡�AIGC���˹����ܼ������������ڶ���Ƶ��ҵ�������������ֵĵ�һ�߽磬��AI���������ؾ�ҵ���ա�������ˡ�������ѧ��ʵ�徭�ø�",
-      "source": "央广网-科技",
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "一台晚会能办成什么样，取决于机器人",
+      "summary": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
+      "source": "观察者网-产业科技",
       "sources": [
-        "央广网-科技"
+        "观察者网-产业科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://tech.cnr.cn/techgsrw/",
+      "url": "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml",
       "sourceUrls": [
-        "https://tech.cnr.cn/techgsrw/"
+        "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml"
       ],
       "publishedAt": "",
       "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.84,
+      "category": "机器人",
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
       "priority": 4,
-      "score": 127,
-      "reporterScore": 127,
+      "score": 120,
+      "reporterScore": 126,
       "scoreBreakdown": {
-        "hardTech": 95,
+        "hardTech": 90,
         "today": -10,
         "sourceAuthority": 12,
-        "multiSource": 22,
+        "multiSource": 12,
         "cgtFocus": 0,
-        "visual": 0,
+        "visual": 8,
         "international": 0,
         "policy": 0,
         "sourceWeight": 8,
@@ -3303,25 +3429,25 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "reporterSignals": {
         "primary": false,
-        "visual": false,
+        "visual": true,
         "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
+        "hardTechWeight": 90,
+        "reporterScore": 98
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
-      "hasVisualValue": false,
+      "hasVisualValue": true,
       "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “��ѧ����” against primary-source evidence.",
+      "format": "video",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “一台晚会能办成什么样，取决于机器人” against primary-source evidence.",
       "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "��ҳ > �Ƽ�Ƶ�� > ��ѧ���� �ೡ�����AI ҵ���ƶ������ջݷ�չ ��ǰ�����д�ģ�͡�AIGC���˹����ܼ������������ڶ���Ƶ��ҵ�������������ֵĵ�һ�߽磬��AI���������ؾ�ҵ���ա�������ˡ�������ѧ��ʵ�徭�ø��ܵȶ�Ԫ������ 2026-06-04 09:39",
+      "matchedTopic": "机器人动态",
+      "rawText": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
       "relatedTitles": [
-        "��ѧ����"
+        "一台晚会能办成什么样，取决于机器人"
       ]
     },
     {
@@ -3390,76 +3516,41 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉把电池制造的“圣杯”搞定了"
       ]
-    },
+    }
+  ],
+  "globalLeads": [
     {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "一台晚会能办成什么样，取决于机器人",
-      "summary": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "机器人",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 3,
-      "score": 108,
-      "reporterScore": 114,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 0,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "I tried Sony's new surround system –it asks big questions of Samsung and LG",
+      "summary": "Sony's Bravia Theatre Trio with Sub 9 and Rear 9 speakers is outrageously good",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/tried-sonys-tv-surround-system-160000515.html",
+      "publishedAt": "2026-06-09",
+      "date": "2026-06-09",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “I tried Sony's new surround system –it asks big questions of Samsung and” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
-        "visual": true,
+        "visual": false,
         "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 98
+        "hardTechWeight": 95,
+        "reporterScore": 95
       },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “一台晚会能办成什么样，取决于机器人” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "机器人动态",
-      "rawText": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
-      "relatedTitles": [
-        "一台晚会能办成什么样，取决于机器人"
-      ]
-    }
-  ],
-  "globalLeads": [
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
@@ -3490,7 +3581,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3522,7 +3613,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3554,231 +3645,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Apple says its AI is still private, even when it's running on Google's servers",
-      "summary": "Some models run in Google's cloud, but without giving Google any kind of access.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
-      "publishedAt": "Tue, 09 Jun 2026 13:05:49 +0000",
-      "date": "2026-06-09",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple says its AI is still private, even when it's running on Google's s” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
-      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest startups like Anthropic, Anduril, and SpaceX.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
-      "publishedAt": "Tue, 09 Jun 2026 23:17:51 +0000",
-      "date": "2026-06-09",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.63,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “How Justin Ernest invested nearly $400M into hot startups without a trad” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
-      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-      "publishedAt": "Tue, 09 Jun 2026 20:37:49 +0000",
-      "date": "2026-06-09",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.85,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic’s Fable 5 can make weirdly fun video games with the click of a” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Apple shares slide after big Siri AI reveal",
-      "summary": "Apple unveiled new artificial intelligence software at WWDC, highlighted by its long-awaited update to Siri.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/09/apple-stock-siri-ai-reaction.html",
-      "publishedAt": "Tue, 09 Jun 2026 20:35:14 GMT",
-      "date": "2026-06-09",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Apple shares slide after big Siri AI reveal” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Upstart chipmakers keep challenging Nvidia. This time it's Microsoft-backed D-Matrix",
-      "summary": "Nvidia challenger D-Matrix is entering full production of an AI chip it says is 10 times faster than a GPU and bypasses the memory shortage.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/09/nvidia-d-matrix-chip-production-microsoft.html",
-      "publishedAt": "Tue, 09 Jun 2026 13:16:47 GMT",
-      "date": "2026-06-09",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.94,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “Upstart chipmakers keep challenging Nvidia. This time it's Microsoft-bac” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "AMD head hopes DDR5 supply will start returning to normal in the next two years",
-      "summary": "And some companies even reckon prices will get worse before they get better.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/amd-head-hopes-ddr5-supply-163927122.html",
-      "publishedAt": "2026-06-10",
-      "date": "2026-06-10",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AMD head hopes DDR5 supply will start returning to normal in the next tw” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung To Bring Back Qualcomm’s Snapdragon For The Galaxy Z Flip8",
-      "summary": "When looking at Samsung smartphones, the community invariably has one immediate question… Snapdragon or Exynos? We now have an answer for the upcoming Galaxy Z Flip8.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/samsung-bring-back-qualcomm-snapdragon-231533600.html",
-      "publishedAt": "2026-06-10",
-      "date": "2026-06-10",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung To Bring Back Qualcomm’s Snapdragon For The Galaxy Z Flip8” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3846,6 +3713,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Apple says its AI is still private, even when it's running on Google's servers",
+      "summary": "Some models run in Google's cloud, but without giving Google any kind of access.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+      "publishedAt": "Tue, 09 Jun 2026 13:05:49 +0000",
+      "date": "2026-06-09",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple says its AI is still private, even when it's running on Google's s” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
       "summary": "You'll need an M1 or better to run the next release of macOS.",
       "source": "Ars Technica",
@@ -3863,6 +3762,134 @@ window.CHENCHEN_DAILY_DATA = {
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+      "publishedAt": "Tue, 09 Jun 2026 23:17:51 +0000",
+      "date": "2026-06-09",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.63,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “How Justin Ernest invested nearly $500M into hot startups without a trad” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "publishedAt": "Tue, 09 Jun 2026 20:37:49 +0000",
+      "date": "2026-06-09",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.85,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic’s Fable 5 can make weirdly fun video games with the click of a” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Apple shares slide after big Siri AI reveal",
+      "summary": "Apple unveiled new artificial intelligence software at WWDC, highlighted by its long-awaited update to Siri.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/09/apple-stock-siri-ai-reaction.html",
+      "publishedAt": "Tue, 09 Jun 2026 20:35:14 GMT",
+      "date": "2026-06-09",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Apple shares slide after big Siri AI reveal” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Upstart chipmakers keep challenging Nvidia. This time it's Microsoft-backed D-Matrix",
+      "summary": "Nvidia challenger D-Matrix is entering full production of an AI chip it says is 10 times faster than a GPU and bypasses the memory shortage.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/09/nvidia-d-matrix-chip-production-microsoft.html",
+      "publishedAt": "Tue, 09 Jun 2026 13:16:47 GMT",
+      "date": "2026-06-09",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.94,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “Upstart chipmakers keep challenging Nvidia. This time it's Microsoft-bac” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -3910,6 +3937,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "AMD head hopes DDR5 supply will start returning to normal in the next two years",
+      "summary": "And some companies even reckon prices will get worse before they get better.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/amd-head-hopes-ddr5-supply-163927122.html",
+      "publishedAt": "2026-06-10",
+      "date": "2026-06-10",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AMD head hopes DDR5 supply will start returning to normal in the next tw” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S.",
       "summary": "Amazon is the latest megacap company to announce a massive deal with Corning, which is rapidly becoming a critical player in the AI buildout.",
       "source": "CNBC Technology",
@@ -3939,10 +3998,42 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung To Bring Back Qualcomm’s Snapdragon For The Galaxy Z Flip8",
+      "summary": "When looking at Samsung smartphones, the community invariably has one immediate question… Snapdragon or Exynos? We now have an answer for the upcoming Galaxy Z Flip8.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/articles/samsung-bring-back-qualcomm-snapdragon-231533600.html",
+      "publishedAt": "2026-06-10",
+      "date": "2026-06-10",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung To Bring Back Qualcomm’s Snapdragon For The Galaxy Z Flip8” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-10｜V3\n生成时间：2026/6/10 08:01:51\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2531｜确认今日 21｜国际背景 15\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 21 条｜国际 10 条\n延续跟踪线索：国内 0 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-10] 苹果官宣AI升级 国内“果链”企业抢抓机遇\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果官宣AI升级 国内“果链”企业抢抓机遇” against primary-source evidence.\n\n2. [2026-06-10] 仅限成年人购买使用！首款超仿生机器人小订破3000台\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “仅限成年人购买使用！首款超仿生机器人小订破3000台” against primary-source evidence.\n\n3. [2026-06-10] 欧洲人工智能产业版图：初创企业如何驱动变革\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲人工智能产业版图：初创企业如何驱动变革” against primary-source evidence.\n\n4. [2026-06-10] OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/digi/2026-06-10/doc-iniawpmz4600004.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器” against primary-source evidence.\n\n5. [2026-06-10] 美国科技股在全面抛售中下跌 芯片制造商表现不佳\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4819604.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国科技股在全面抛售中下跌 芯片制造商表现不佳” against primary-source evidence.\n\n本次新增线索：\n- 苹果官宣AI升级 国内“果链”企业抢抓机遇｜新浪科技｜https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml\n- 仅限成年人购买使用！首款超仿生机器人小订破3000台｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml\n- 欧洲人工智能产业版图：初创企业如何驱动变革｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml\n- OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-10/doc-iniawpmz4600004.shtml\n- 美国科技股在全面抛售中下跌 芯片制造商表现不佳｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4819604.shtml\n- WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more｜TechCrunch｜https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，1 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more｜TechCrunch｜https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n2. Anthropic’s Claude Fable 5 is a version of Mythos the public can access today｜TechCrunch｜https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/\n3. It’s not FAANG anymore. It’s MANGOS.｜TechCrunch｜https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/\n4. Apple says its AI is still private, even when it's running on Google's servers｜Ars Technica｜https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/\n5. How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund｜TechCrunch｜https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-10｜V3\n生成时间：2026/6/10 08:01:51\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2531｜确认今日 21｜国际背景 15\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 21 条｜国际 10 条\n延续跟踪线索：国内 0 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-10] 苹果官宣AI升级 国内“果链”企业抢抓机遇\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果官宣AI升级 国内“果链”企业抢抓机遇” against primary-source evidence.\n\n2. [2026-06-10] 仅限成年人购买使用！首款超仿生机器人小订破3000台\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “仅限成年人购买使用！首款超仿生机器人小订破3000台” against primary-source evidence.\n\n3. [2026-06-10] 欧洲人工智能产业版图：初创企业如何驱动变革\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲人工智能产业版图：初创企业如何驱动变革” against primary-source evidence.\n\n4. [2026-06-10] OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/digi/2026-06-10/doc-iniawpmz4600004.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器” against primary-source evidence.\n\n5. [2026-06-10] 美国科技股在全面抛售中下跌 芯片制造商表现不佳\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4819604.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国科技股在全面抛售中下跌 芯片制造商表现不佳” against primary-source evidence.\n\n本次新增线索：\n- 苹果官宣AI升级 国内“果链”企业抢抓机遇｜新浪科技｜https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml\n- 仅限成年人购买使用！首款超仿生机器人小订破3000台｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml\n- 欧洲人工智能产业版图：初创企业如何驱动变革｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml\n- OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-10/doc-iniawpmz4600004.shtml\n- 美国科技股在全面抛售中下跌 芯片制造商表现不佳｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4819604.shtml\n- WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more｜TechCrunch｜https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，1 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more｜TechCrunch｜https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n2. Anthropic’s Claude Fable 5 is a version of Mythos the public can access today｜TechCrunch｜https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/\n3. It’s not FAANG anymore. It’s MANGOS.｜TechCrunch｜https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/\n4. Apple says its AI is still private, even when it's running on Google's servers｜Ars Technica｜https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/\n5. How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund｜TechCrunch｜https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-10｜生成时间：2026/6/10 08:01:51｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2531｜确认今日 21｜国际背景 15</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 21 条｜国际 10 条<br>延续跟踪线索：国内 0 条｜国际 5 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-10] 苹果官宣AI升级 国内“果链”企业抢抓机遇</strong>\n      <span>新浪科技｜2026-06-10｜<a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果官宣AI升级 国内“果链”企业抢抓机遇” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-10] 仅限成年人购买使用！首款超仿生机器人小订破3000台</strong>\n      <span>新浪科技｜2026-06-10｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “仅限成年人购买使用！首款超仿生机器人小订破3000台” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-10] 欧洲人工智能产业版图：初创企业如何驱动变革</strong>\n      <span>新浪科技｜2026-06-10｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲人工智能产业版图：初创企业如何驱动变革” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-10] OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器</strong>\n      <span>新浪科技｜2026-06-10｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-10/doc-iniawpmz4600004.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-10] 美国科技股在全面抛售中下跌 芯片制造商表现不佳</strong>\n      <span>新浪科技｜2026-06-10｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4819604.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国科技股在全面抛售中下跌 芯片制造商表现不佳” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more</strong>\n      <span>时间：Tue, 09 Jun 2026 18:04:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Anthropic’s Claude Fable 5 is a version of Mythos the public can access today</strong>\n      <span>时间：Tue, 09 Jun 2026 17:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic’s Claude Fable 5 is a version of Mythos the public can access ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. It’s not FAANG anymore. It’s MANGOS.</strong>\n      <span>时间：Tue, 09 Jun 2026 16:09:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “It’s not FAANG anymore. It’s MANGOS.” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Apple says its AI is still private, even when it's running on Google's servers</strong>\n      <span>时间：Tue, 09 Jun 2026 13:05:49 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple says its AI is still private, even when it's running on Google's s” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund</strong>\n      <span>时间：Tue, 09 Jun 2026 23:17:51 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “How Justin Ernest invested nearly $400M into hot startups without a trad” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/10 08:01:51\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 21 条｜国际 10 条\n延续跟踪线索：国内 0 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-10] 苹果官宣AI升级 国内“果链”企业抢抓机遇\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果官宣AI升级 国内“果链”企业抢抓机遇” against primary-source evidence.\n\n2. [2026-06-10] 仅限成年人购买使用！首款超仿生机器人小订破3000台\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “仅限成年人购买使用！首款超仿生机器人小订破3000台” against primary-source evidence.\n\n3. [2026-06-10] 欧洲人工智能产业版图：初创企业如何驱动变革\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲人工智能产业版图：初创企业如何驱动变革” against primary-source evidence.\n\n4. [2026-06-10] OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-10/doc-iniawpmz4600004.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器” against primary-source evidence.\n\n5. [2026-06-10] 美国科技股在全面抛售中下跌 芯片制造商表现不佳\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4819604.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国科技股在全面抛售中下跌 芯片制造商表现不佳” against primary-source evidence.\n\n本次新增线索：\n- 苹果官宣AI升级 国内“果链”企业抢抓机遇｜新浪科技｜https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml\n- 仅限成年人购买使用！首款超仿生机器人小订破3000台｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml\n- 欧洲人工智能产业版图：初创企业如何驱动变革｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml\n- OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-10/doc-iniawpmz4600004.shtml\n- 美国科技股在全面抛售中下跌 芯片制造商表现不佳｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4819604.shtml\n- WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more｜TechCrunch｜https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，1 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more｜TechCrunch｜https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n2. Anthropic’s Claude Fable 5 is a version of Mythos the public can access today｜TechCrunch｜https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/\n3. It’s not FAANG anymore. It’s MANGOS.｜TechCrunch｜https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/\n4. Apple says its AI is still private, even when it's running on Google's servers｜Ars Technica｜https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/\n5. How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund｜TechCrunch｜https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-10｜V3\n生成时间：2026/6/10 08:22:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2594｜确认今日 25｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 1 条\n延续跟踪线索：国内 21 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-10] 人形机器人拥有“身份证” 行业探索全生命周期管理\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmz4614332.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人拥有“身份证” 行业探索全生命周期管理” against primary-source evidence.\n\n2. [2026-06-10] 苹果官宣AI升级 国内“果链”企业抢抓机遇\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果官宣AI升级 国内“果链”企业抢抓机遇” against primary-source evidence.\n\n3. [2026-06-10] 仅限成年人购买使用！首款超仿生机器人小订破3000台\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “仅限成年人购买使用！首款超仿生机器人小订破3000台” against primary-source evidence.\n\n4. [2026-06-10] 欧洲人工智能产业版图：初创企业如何驱动变革\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲人工智能产业版图：初创企业如何驱动变革” against primary-source evidence.\n\n5. [2026-06-10] “发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpnc1390352.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升” against primary-source evidence.\n\n本次新增线索：\n- 人形机器人拥有“身份证” 行业探索全生命周期管理｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmz4614332.shtml\n- “发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpnc1390352.shtml\n- 比亚迪千人股东会半数是车主，王传福豪言2030年做到全球第一｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-06-10/doc-iniawiec4714299.shtml\n- 中信建投：维持看多机器人产业趋势｜网易科技｜https://www.163.com/dy/article/KV21UDLI0512B07B.html\n- I tried Sony's new surround system –it asks big questions of Samsung and LG｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/tried-sonys-tv-surround-system-160000515.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. I tried Sony's new surround system –it asks big questions of Samsung and LG｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/tried-sonys-tv-surround-system-160000515.html\n2. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more｜TechCrunch｜https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n3. Anthropic’s Claude Fable 5 is a version of Mythos the public can access today｜TechCrunch｜https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/\n4. It’s not FAANG anymore. It’s MANGOS.｜TechCrunch｜https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/\n5. Apple courts developers with privacy and context in AI comeback bid｜The Register｜https://www.theregister.com/devops/2026/06/09/apple-courts-developers-with-privacy-and-context-in-ai-comeback-bid/5252564",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-10｜V3\n生成时间：2026/6/10 08:22:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2594｜确认今日 25｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 1 条\n延续跟踪线索：国内 21 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-10] 人形机器人拥有“身份证” 行业探索全生命周期管理\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmz4614332.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人拥有“身份证” 行业探索全生命周期管理” against primary-source evidence.\n\n2. [2026-06-10] 苹果官宣AI升级 国内“果链”企业抢抓机遇\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果官宣AI升级 国内“果链”企业抢抓机遇” against primary-source evidence.\n\n3. [2026-06-10] 仅限成年人购买使用！首款超仿生机器人小订破3000台\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “仅限成年人购买使用！首款超仿生机器人小订破3000台” against primary-source evidence.\n\n4. [2026-06-10] 欧洲人工智能产业版图：初创企业如何驱动变革\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲人工智能产业版图：初创企业如何驱动变革” against primary-source evidence.\n\n5. [2026-06-10] “发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升\n   新浪科技｜2026-06-10｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpnc1390352.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升” against primary-source evidence.\n\n本次新增线索：\n- 人形机器人拥有“身份证” 行业探索全生命周期管理｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmz4614332.shtml\n- “发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpnc1390352.shtml\n- 比亚迪千人股东会半数是车主，王传福豪言2030年做到全球第一｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-06-10/doc-iniawiec4714299.shtml\n- 中信建投：维持看多机器人产业趋势｜网易科技｜https://www.163.com/dy/article/KV21UDLI0512B07B.html\n- I tried Sony's new surround system –it asks big questions of Samsung and LG｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/tried-sonys-tv-surround-system-160000515.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. I tried Sony's new surround system –it asks big questions of Samsung and LG｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/tried-sonys-tv-surround-system-160000515.html\n2. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more｜TechCrunch｜https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n3. Anthropic’s Claude Fable 5 is a version of Mythos the public can access today｜TechCrunch｜https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/\n4. It’s not FAANG anymore. It’s MANGOS.｜TechCrunch｜https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/\n5. Apple courts developers with privacy and context in AI comeback bid｜The Register｜https://www.theregister.com/devops/2026/06/09/apple-courts-developers-with-privacy-and-context-in-ai-comeback-bid/5252564",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-10｜生成时间：2026/6/10 08:22:38｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2594｜确认今日 25｜国际背景 16</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 1 条<br>延续跟踪线索：国内 21 条｜国际 15 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-10] 人形机器人拥有“身份证” 行业探索全生命周期管理</strong>\n      <span>新浪科技｜2026-06-10｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmz4614332.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人拥有“身份证” 行业探索全生命周期管理” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-10] 苹果官宣AI升级 国内“果链”企业抢抓机遇</strong>\n      <span>新浪科技｜2026-06-10｜<a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果官宣AI升级 国内“果链”企业抢抓机遇” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-10] 仅限成年人购买使用！首款超仿生机器人小订破3000台</strong>\n      <span>新浪科技｜2026-06-10｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “仅限成年人购买使用！首款超仿生机器人小订破3000台” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-10] 欧洲人工智能产业版图：初创企业如何驱动变革</strong>\n      <span>新浪科技｜2026-06-10｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲人工智能产业版图：初创企业如何驱动变革” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-10] “发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升</strong>\n      <span>新浪科技｜2026-06-10｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpnc1390352.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. I tried Sony's new surround system –it asks big questions of Samsung and LG</strong>\n      <span>时间：2026-06-09｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/home-entertainment/tvs/articles/tried-sonys-tv-surround-system-160000515.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “I tried Sony's new surround system –it asks big questions of Samsung and” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more</strong>\n      <span>时间：Tue, 09 Jun 2026 18:04:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic’s Claude Fable 5 is a version of Mythos the public can access today</strong>\n      <span>时间：Tue, 09 Jun 2026 17:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic’s Claude Fable 5 is a version of Mythos the public can access ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. It’s not FAANG anymore. It’s MANGOS.</strong>\n      <span>时间：Tue, 09 Jun 2026 16:09:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “It’s not FAANG anymore. It’s MANGOS.” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Apple courts developers with privacy and context in AI comeback bid</strong>\n      <span>时间：Tue, 09 Jun 2026 01:25:19 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/devops/2026/06/09/apple-courts-developers-with-privacy-and-context-in-ai-comeback-bid/5252564\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple courts developers with privacy and context in AI comeback bid” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/10 08:22:38\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 1 条\n延续跟踪线索：国内 21 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-10] 人形机器人拥有“身份证” 行业探索全生命周期管理\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmz4614332.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人拥有“身份证” 行业探索全生命周期管理” against primary-source evidence.\n\n2. [2026-06-10] 苹果官宣AI升级 国内“果链”企业抢抓机遇\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/relnews/cn/2026-06-10/doc-iniavwqm1588286.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果官宣AI升级 国内“果链”企业抢抓机遇” against primary-source evidence.\n\n3. [2026-06-10] 仅限成年人购买使用！首款超仿生机器人小订破3000台\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmw5981913.shtml\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “仅限成年人购买使用！首款超仿生机器人小订破3000台” against primary-source evidence.\n\n4. [2026-06-10] 欧洲人工智能产业版图：初创企业如何驱动变革\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawiec4688732.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲人工智能产业版图：初创企业如何驱动变革” against primary-source evidence.\n\n5. [2026-06-10] “发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpnc1390352.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升” against primary-source evidence.\n\n本次新增线索：\n- 人形机器人拥有“身份证” 行业探索全生命周期管理｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpmz4614332.shtml\n- “发展智能经济新形态”专家谈｜智能体优化中小企业转型路径 驱动服务业效率提升｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-10/doc-iniawpnc1390352.shtml\n- 比亚迪千人股东会半数是车主，王传福豪言2030年做到全球第一｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-06-10/doc-iniawiec4714299.shtml\n- 中信建投：维持看多机器人产业趋势｜网易科技｜https://www.163.com/dy/article/KV21UDLI0512B07B.html\n- I tried Sony's new surround system –it asks big questions of Samsung and LG｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/tried-sonys-tv-surround-system-160000515.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. I tried Sony's new surround system –it asks big questions of Samsung and LG｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/tried-sonys-tv-surround-system-160000515.html\n2. WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more｜TechCrunch｜https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\n3. Anthropic’s Claude Fable 5 is a version of Mythos the public can access today｜TechCrunch｜https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/\n4. It’s not FAANG anymore. It’s MANGOS.｜TechCrunch｜https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/\n5. Apple courts developers with privacy and context in AI comeback bid｜The Register｜https://www.theregister.com/devops/2026/06/09/apple-courts-developers-with-privacy-and-context-in-ai-comeback-bid/5252564\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
