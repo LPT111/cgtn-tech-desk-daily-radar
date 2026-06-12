@@ -1,64 +1,44 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-06-12T00:10:21.075Z",
+  "generatedAt": "2026-06-12T00:24:39.240Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-12",
   "changeSummary": {
-    "domesticNew": 27,
-    "globalNew": 16,
-    "domesticContinued": 0,
-    "globalContinued": 7,
+    "domesticNew": 6,
+    "globalNew": 1,
+    "domesticContinued": 24,
+    "globalContinued": 23,
     "topNewDomestic": [
       {
-        "title": "2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片",
+        "title": "消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0332568.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0348406.shtml"
       },
       {
-        "title": "Anthropic据悉寻求美国数据中心租约，希望获谷",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KV748MR80534A4SC.html"
-      },
-      {
-        "title": "美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万",
+        "title": "打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-12/doc-inicazrw1894366.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrw1902482.shtml"
       },
       {
-        "title": "DeepSeek押宝法国队，Kimi看好阿根廷队，千问、",
+        "title": "钨价重新走强，推高芯片关键材料六氟化钨价格",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KV6C0PJA0512B07B.html"
+        "url": "https://www.163.com/dy/article/KV77FNQ60534A4SC.html"
       },
       {
-        "title": "太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏",
+        "title": "SK海力士设备供应商提出涨价要求 机构称设备厂商业绩确定性极强",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KV72AH9005198CJN.html"
+        "url": "https://www.163.com/dy/article/KV772G0J05198CJN.html"
+      },
+      {
+        "title": "从“意念下单”到机器人乐队，脑机接口与灵巧手",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/KV77BPV105198CJN.html"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
-        "source": "WIRED Business",
-        "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/"
-      },
-      {
-        "title": "Deezer built a tool to call out AI music — even on rival streaming platforms",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/streaming/articles/deezer-built-tool-call-ai-223812119.html"
-      },
-      {
-        "title": "Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html"
-      },
-      {
-        "title": "Google's new open-weights model brings image-generation tricks to AI text generation",
+        "title": "Claude is ready for its corporate close-up",
         "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406"
-      },
-      {
-        "title": "SpaceX's First-Ever Orbital Data Center Is Coming With A Powerful Payload",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/science/articles/spacexs-first-ever-orbital-data-191700579.html"
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/11/claude-is-ready-for-its-corporate-close-up/5254565"
       }
     ],
     "hasPrevious": true
@@ -67,8 +47,8 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 873,
-    "globalRejected": 877,
+    "domesticRejected": 870,
+    "globalRejected": 876,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,17 +62,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 27,
   "failedSources": [
     {
       "name": "财联社",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "央视网-科技",
@@ -121,7 +96,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -137,11 +112,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -168,7 +138,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -181,7 +151,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 174,
+      "parsed": 177,
       "failed": false,
       "optional": false
     },
@@ -280,9 +250,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -386,7 +355,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -433,18 +402,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1291,
+  "itemsSeen": 1357,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 296,
-  "itemsAfterDedupe": 203,
-  "todayItemsSeen": 27,
-  "suspectedItemsSeen": 19,
-  "skippedNonToday": 159,
+  "itemsAfterRelevantFilter": 321,
+  "itemsAfterDedupe": 213,
+  "todayItemsSeen": 30,
+  "suspectedItemsSeen": 20,
+  "skippedNonToday": 164,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 174,
+      "parsed": 177,
       "failed": false,
       "optional": false
     },
@@ -543,9 +512,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -649,7 +617,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -736,7 +704,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "Yahoo News Technology",
       "tier": "international",
-      "parsed": 239,
+      "parsed": 238,
       "failed": false,
       "optional": false
     },
@@ -855,11 +823,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -886,7 +849,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -914,26 +877,25 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1217,
+  "globalItemsSeen": 1216,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 112,
+  "globalItemsAfterRelevantFilter": 113,
   "topics": [
     {
       "topic": "AI动态",
       "count": 8,
-      "sourceCount": 4,
+      "sourceCount": 3,
       "sources": [
-        "科技日报",
         "新浪科技",
-        "网易科技",
-        "IT之家"
+        "科技日报",
+        "网易科技"
       ],
       "items": [
+        "打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸",
         "活力中国调研行丨北京AI产业何以竞逐世界赛场",
         "不跟人类谈恋爱！苹果高管表态：Siri AI不会成为你的AI女友",
         "港珠澳大桥香港口岸将启用“无感通关”",
-        "超1400次高频提及 地方“十五五”规划点题人工智能",
-        "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代"
+        "超1400次高频提及 地方“十五五”规划点题人工智能"
       ]
     },
     {
@@ -941,11 +903,11 @@ window.CHENCHEN_DAILY_DATA = {
       "count": 5,
       "sourceCount": 2,
       "sources": [
-        "网易科技",
-        "新浪科技"
+        "新浪科技",
+        "网易科技"
       ],
       "items": [
-        "Anthropic据悉寻求美国数据中心租约，希望获谷",
+        "消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持",
         "美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万",
         "DeepSeek押宝法国队，Kimi看好阿根廷队，千问、",
         "3年内城域算力1毫秒时延圈覆盖率有望不低于75%",
@@ -953,17 +915,18 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "太空与低空动态",
-      "count": 3,
+      "topic": "半导体供应链",
+      "count": 4,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
         "网易科技"
       ],
       "items": [
-        "伊朗正在评估将马斯克旗下星链、SpaceX部分设施纳入军事目标清单，它们被指向美以提供技术支持",
-        "SpaceX或被快速纳入指数，遭美参议员沃伦质疑",
-        "马斯克心腹安东尼奥・格雷西亚斯持SpaceX股权账面浮盈680亿美元"
+        "2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片",
+        "钨价重新走强，推高芯片关键材料六氟化钨价格",
+        "SK海力士设备供应商提出涨价要求 机构称设备厂商业绩确定性极强",
+        "中信建投：关注半导体前驱体量价齐升大趋势"
       ]
     },
     {
@@ -981,7 +944,7 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "半导体供应链",
+      "topic": "太空与低空动态",
       "count": 2,
       "sourceCount": 2,
       "sources": [
@@ -989,8 +952,21 @@ window.CHENCHEN_DAILY_DATA = {
         "网易科技"
       ],
       "items": [
-        "2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片",
-        "中信建投：关注半导体前驱体量价齐升大趋势"
+        "伊朗正在评估将马斯克旗下星链、SpaceX部分设施纳入军事目标清单，它们被指向美以提供技术支持",
+        "SpaceX或被快速纳入指数，遭美参议员沃伦质疑"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍",
+        "华为抢走了英伟达的剧本"
       ]
     },
     {
@@ -1018,6 +994,17 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "人形机器人与具身智能",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "从“意念下单”到机器人乐队，脑机接口与灵巧手"
+      ]
+    },
+    {
       "topic": "国产 GPU / 算力基础设施",
       "count": 1,
       "sourceCount": 1,
@@ -1026,17 +1013,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "亚马逊披露其全球数据中心 2025 耗水约 113.75 亿升，每千瓦时电力消耗 0.12 升水"
-      ]
-    },
-    {
-      "topic": "芯片动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "华为抢走了英伟达的剧本"
       ]
     },
     {
@@ -1118,25 +1094,25 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "Anthropic据悉寻求美国数据中心租约，希望获谷",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持",
       "summary": "据外媒报道，AI 独角兽 Anthropic 已签署超 1GW 美国数据中心初步租约，并计划寻求谷歌母公司 Alphabet 提供财务担保。此举旨在进一步扩展其 AI 算力基础设施，以应对业务快速增长。目前谷歌方面未予置评。#Anthropic##AI 算力竞赛#",
-      "source": "网易科技",
+      "source": "新浪科技",
       "sources": [
-        "网易科技"
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KV748MR80534A4SC.html",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0348406.shtml",
       "sourceUrls": [
-        "https://www.163.com/dy/article/KV748MR80534A4SC.html"
+        "https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0348406.shtml"
       ],
       "publishedAt": "2026-06-12",
       "date": "2026-06-12",
       "category": "AI",
-      "classificationConfidence": 0.97,
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1179,12 +1155,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic据悉寻求美国数据中心租约，希望获谷” against primary-source evidence.",
+      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "Anthropic据悉寻求美国数据中心租约，希望获谷歌财务支持,租赁,谷歌,美国,财务,知名企业,anthropic",
+      "rawText": "IT之家 6 月 12 日消息，据《The Information》昨天报道，人工智能企业 Anthropic 正计划租赁并运营数据中心，同时寻求谷歌母公司 Alphabet 的财务支持。IT之家从原报道获悉，Anthropic 已经签署十...",
       "relatedTitles": [
-        "Anthropic据悉寻求美国数据中心租约，希望获谷"
+        "消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持"
       ],
       "isNewSinceLastRun": true
     },
@@ -1254,7 +1230,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1321,6 +1297,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "DeepSeek押宝法国队，Kimi看好阿根廷队，千问、豆包、元宝等支持西班牙队，AI大模型集体押注世界杯，谁最懂球？,大模型,kimi,西班牙队,阿根廷队,世界杯名单,deepseek",
       "relatedTitles": [
         "DeepSeek押宝法国队，Kimi看好阿根廷队，千问、"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸",
+      "summary": "IT之家 6 月 12 日消息，科技媒体 9to5Mac 昨日（6 月 11 日）发布博文，报道称，在 iOS 27 系统中，苹果公司新增自定义壁纸功能，用户可调用图乐园（Image Playground）AI 生成适配 iPhone 17...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrw1902482.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrw1902482.shtml"
+      ],
+      "publishedAt": "2026-06-12",
+      "date": "2026-06-12",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 6 月 12 日消息，科技媒体 9to5Mac 昨日（6 月 11 日）发布博文，报道称，在 iOS 27 系统中，苹果公司新增自定义壁纸功能，用户可调用图乐园（Image Playground）AI 生成适配 iPhone 17...",
+      "relatedTitles": [
+        "打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸"
       ],
       "isNewSinceLastRun": true
     },
@@ -1390,6 +1434,142 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "钨价重新走强，推高芯片关键材料六氟化钨价格",
+      "summary": "钨价重新走强，推高芯片关键材料六氟化钨价格,钨价,钨粉,高纯,半导体,钨精矿,六氟化钨,稀土磁铁,上海有色网",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KV77FNQ60534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KV77FNQ60534A4SC.html"
+      ],
+      "publishedAt": "2026-06-12",
+      "date": "2026-06-12",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “钨价重新走强，推高芯片关键材料六氟化钨价格” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "钨价重新走强，推高芯片关键材料六氟化钨价格,钨价,钨粉,高纯,半导体,钨精矿,六氟化钨,稀土磁铁,上海有色网",
+      "relatedTitles": [
+        "钨价重新走强，推高芯片关键材料六氟化钨价格"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "SK海力士设备供应商提出涨价要求 机构称设备厂商业绩确定性极强",
+      "summary": "SK海力士设备供应商提出涨价要求 机构称设备厂商业绩确定性极强,sk,海力士,hbm,设备供应商,半导体行业",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KV772G0J05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KV772G0J05198CJN.html"
+      ],
+      "publishedAt": "2026-06-12",
+      "date": "2026-06-12",
+      "category": "芯片",
+      "classificationConfidence": 0.97,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “SK海力士设备供应商提出涨价要求 机构称设备厂商业绩确定性极强” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "SK海力士设备供应商提出涨价要求 机构称设备厂商业绩确定性极强,sk,海力士,hbm,设备供应商,半导体行业",
+      "relatedTitles": [
+        "SK海力士设备供应商提出涨价要求 机构称设备厂商业绩确定性极强"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1457,6 +1637,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 活力中国调研行丨北京AI产业何以竞逐世界赛场 2026-06-12 07:49:49 来源: 科技日报 点击数： 热点",
       "relatedTitles": [
         "活力中国调研行丨北京AI产业何以竞逐世界赛场"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "从“意念下单”到机器人乐队，脑机接口与灵巧手",
+      "summary": "从“意念下单”到机器人乐队，脑机接口与灵巧手加速商业化｜直击上交会,信号,灵巧手,上交会,脑机接口,真实场景,机器人乐队",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KV77BPV105198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KV77BPV105198CJN.html"
+      ],
+      "publishedAt": "2026-06-12",
+      "date": "2026-06-12",
+      "category": "机器人",
+      "classificationConfidence": 0.7,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 164,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “从“意念下单”到机器人乐队，脑机接口与灵巧手” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "从“意念下单”到机器人乐队，脑机接口与灵巧手加速商业化｜直击上交会,信号,灵巧手,上交会,脑机接口,真实场景,机器人乐队",
+      "relatedTitles": [
+        "从“意念下单”到机器人乐队，脑机接口与灵巧手"
       ],
       "isNewSinceLastRun": true
     },
@@ -1526,7 +1774,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "不跟人类谈恋爱！苹果高管表态：Siri AI不会成为你的AI女友"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1594,7 +1842,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "3年内城域算力1毫秒时延圈覆盖率有望不低于75%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1662,7 +1910,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "港珠澳大桥香港口岸将启用“无感通关”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1730,7 +1978,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中信建投：关注半导体前驱体量价齐升大趋势"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1798,7 +2046,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "超1400次高频提及 地方“十五五”规划点题人工智能"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1866,7 +2114,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1934,75 +2182,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "伊朗正在评估将马斯克旗下星链、SpaceX部分设施纳入军事目标清单，它们被指向美以提供技术支持"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸",
-      "summary": "iOS 27 将图乐园 AI 壁纸生成功能深度集成至系统设置与锁屏，用户无需手动裁剪即可生成适配屏幕的壁纸。系统还能基于相册照片自动推荐风格化壁纸，创作自由度更高。#iOS27 新功能# #AI 壁纸#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/963/246.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/963/246.htm"
-      ],
-      "publishedAt": "Fri, 12 Jun 2026 00:05:52 GMT",
-      "date": "2026-06-12",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "iOS 27 将图乐园 AI 壁纸生成功能深度集成至系统设置与锁屏，用户无需手动裁剪即可生成适配屏幕的壁纸。系统还能基于相册照片自动推荐风格化壁纸，创作自由度更高。#iOS27 新功能# #AI 壁纸#",
-      "relatedTitles": [
-        "打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2069,6 +2249,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "SpaceX或被快速纳入指数，遭美参议员沃伦质疑,罗素,美国,纳斯达克,美参议员,厄尔·沃伦,spacex",
       "relatedTitles": [
         "SpaceX或被快速纳入指数，遭美参议员沃伦质疑"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍",
+      "summary": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍,美银,服务器,代理式,英特尔,amd,英伟达,cpu,知名企业,高带宽内存",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KV77BO2E05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KV77BO2E05198CJN.html"
+      ],
+      "publishedAt": "2026-06-12",
+      "date": "2026-06-12",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍,美银,服务器,代理式,英特尔,amd,英伟达,cpu,知名企业,高带宽内存",
+      "relatedTitles": [
+        "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍"
       ],
       "isNewSinceLastRun": true
     },
@@ -2138,7 +2386,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "全球最深鲸类大墓地被发现：超1000万头鲸长眠 最早可追溯到530万年前"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -2206,7 +2454,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "热点回应丨AI不应做高考志愿填报“决策者”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2274,7 +2522,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "绵延上千公里，海底惊现巨型鲸类“墓地”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2342,7 +2590,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "亚马逊披露其全球数据中心 2025 耗水约 113.75 亿升，每千瓦时电力消耗 0.12 升水"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2410,7 +2658,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "华为抢走了英伟达的剧本"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2478,7 +2726,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI 收购初创公司 Ona，强化编程助手 Codex"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2546,7 +2794,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI算力需求爆发 PCB行业掀起扩产潮"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -2614,75 +2862,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "创新团队丨深海“悟空”背后有群“自讨苦吃”的科研人"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "马斯克心腹安东尼奥・格雷西亚斯持SpaceX股权账面浮盈680亿美元",
-      "summary": "格雷西亚斯及其旗下 Valor 股权合伙公司为 SpaceX 第二大股东 Valor 股权合伙公司创始人、首席执行官兼首席投资官安东尼奥・格雷西亚斯 安东尼奥・格雷西亚斯与埃隆・马斯克合作逾二十年 内容速览 安东尼奥・格雷西...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicakua5322873.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicakua5322873.shtml"
-      ],
-      "publishedAt": "2026-06-12",
-      "date": "2026-06-12",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 150,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “马斯克心腹安东尼奥・格雷西亚斯持SpaceX股权账面浮盈680亿美元” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "太空与低空动态",
-      "rawText": "格雷西亚斯及其旗下 Valor 股权合伙公司为 SpaceX 第二大股东 Valor 股权合伙公司创始人、首席执行官兼首席投资官安东尼奥・格雷西亚斯 安东尼奥・格雷西亚斯与埃隆・马斯克合作逾二十年 内容速览 安东尼奥・格雷西...",
-      "relatedTitles": [
-        "马斯克心腹安东尼奥・格雷西亚斯持SpaceX股权账面浮盈680亿美元"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2750,7 +2930,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "面临转型阵痛 北汽极狐销售承压"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2818,7 +2998,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Alphabet旗下自动驾驶公司Waymo将推出30美元月费会员计划"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2886,7 +3066,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "鸿蒙 7 发布前来一更：华为 MatePad Mini 平板获 HarmonyOS 6.1.0.125 SP15 升级，新增紧凑布局"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2958,9 +3138,76 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "我国成功发射通信技术试验卫星二十四号",
+      "summary": "首页 我国成功发射通信技术试验卫星二十四号 分享到： 微信公众号“我们的太空”消息，北京时间2026年5月27日00时16分，我国在文昌航天发射场使用长征七号改运载火箭，成功将通信技术试验卫星二十四号发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于开展多频段、高速率卫星通信技术验证。 此次任务是长征",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2026_05_27_818467.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2026_05_27_818467.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "太空与低空",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 147,
+      "reporterScore": 169,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “我国成功发射通信技术试验卫星二十四号” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "首页 我国成功发射通信技术试验卫星二十四号 分享到： 微信公众号“我们的太空”消息，北京时间2026年5月27日00时16分，我国在文昌航天发射场使用长征七号改运载火箭，成功将通信技术试验卫星二十四号发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于开展多频段、高速率卫星通信技术验证。 此次任务是长征系列运载火箭的第645次飞行。 英防相辞职 为何美国人不爱足球？答案在这里 中方宣布：制裁菲律宾防长及其亲属 特朗普又来：今晚重创伊朗，首选是夺取哈尔克岛 药明康德，起诉美国防部 “现在想造机器人，几乎离不开中国” “马克龙煞费苦心，但人家心思压根不在这儿” “如有必要，将从伊朗账户里拿钱” 英国房产大亨：伦敦极其糟糕，还是中国好 去世两个月前，他说：家人虽反对，但我还想最后去趟中国 兜了一圈，“对华涉密协议还是不公开了” “中方取消与欧盟的高级别会议” 英媒慌了：“Z世代社会主义”在西方冒头 印度部长扬言：未来数年不让一滴水流入巴基斯坦 不吃美国这套，韩国：狠狠罚！ 泄题致230万人成绩作废后，印度出动空军运送“医学生高考”试卷",
+      "relatedTitles": [
+        "我国成功发射通信技术试验卫星二十四号"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "AppLovin 你最该认识的「硅谷CEO」：面试紧张",
-      "summary": "AppLovin 你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司 祝大家都能找到，属于自己的驱动力 Jay 12分钟前 AppLovin 热门文章 WPS笔记正式发布：AI贯穿记录、整理与复用全过程 100亿砸向人形，不如先让10万台机器狗走进家庭 A股账户可以买Robotaxi了 字节开源统",
+      "summary": "AppLovin 你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司 祝大家都能找到，属于自己的驱动力 Jay 9分钟前 AppLovin 热门文章 WPS笔记正式发布：AI贯穿记录、整理与复用全过程 100亿砸向人形，不如先让10万台机器狗走进家庭 A股账户可以买Robotaxi了 字节开源统一",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -3019,7 +3266,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AppLovin 你最该认识的「硅谷CEO」：面试紧张” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "AppLovin 你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司 祝大家都能找到，属于自己的驱动力 Jay 12分钟前 AppLovin 热门文章 WPS笔记正式发布：AI贯穿记录、整理与复用全过程 100亿砸向人形，不如先让10万台机器狗走进家庭 A股账户可以买Robotaxi了 字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手 有人靠CPU把AI算力密度卷到了新高度",
+      "rawText": "AppLovin 你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司 祝大家都能找到，属于自己的驱动力 Jay 9分钟前 AppLovin 热门文章 WPS笔记正式发布：AI贯穿记录、整理与复用全过程 100亿砸向人形，不如先让10万台机器狗走进家庭 A股账户可以买Robotaxi了 字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手 有人靠CPU把AI算力密度卷到了新高度",
       "relatedTitles": [
         "AppLovin 你最该认识的「硅谷CEO」：面试紧张"
       ]
@@ -3093,8 +3340,8 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "无人车往哪里开？",
-      "summary": "无人车往哪里开？ Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 前天 16:41 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年",
+      "title": "无人车往哪里开？ “卡车界特斯拉”",
+      "summary": "无人车往哪里开？ “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 昨天 13:37 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 前天 16:48 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -3107,7 +3354,7 @@ window.CHENCHEN_DAILY_DATA = {
       "publishedAt": "",
       "date": "",
       "category": "新能源车",
-      "classificationConfidence": 0.89,
+      "classificationConfidence": 0.94,
       "classificationEvidence": [
         "title",
         "summary",
@@ -3150,12 +3397,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": true,
       "hasInternationalValue": true,
       "format": "video",
-      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “无人车往哪里开？” against primary-source evidence.",
+      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “无人车往哪里开？ “卡车界特斯拉”” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "无人车往哪里开？ Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 前天 16:41 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年底每分钟接99单 杰西卡 2026-02-14 Waymo 无人车往哪里开？ 车圈最新认知 怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾 网络横跨半个地球 杰西卡 2026-02-09 Waymo 无人车往哪里开？ 车圈最新认知 中东Robotaxi进入“千辆时代”，文远知行携手Uber刷新区域纪录 单车日均可完成数十次出行订单，已实现盈利 量子位 2026-02-06 无人车往哪里开？ 智能车真high 自动驾驶 Waymo遭遇鬼探头，Robotaxi在校门口把儿童给撞了 复盘坚称人类驾驶后果更严重 杰西卡 2026-01-30 Waymo 无人车往哪里开？ 车圈最新认知 刚刚，菜鸟无人车队并入九识！ RoboVan车队突破2万辆，跑通商业化闭环 杰西卡 20",
+      "rawText": "无人车往哪里开？ “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 昨天 13:37 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 前天 16:48 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 2026-05-14 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年底每分钟接99单 杰西卡 2026-02-14 Waymo 无人车往哪里开？ 车圈最新认知 怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾 网络横跨半个地球 杰西卡 2026-02-09 Waymo 无人车往哪里开？ 车圈最新认知 中东Robotaxi进入“千辆时代”，文远知行携手Uber刷新区域纪录 单车日均可完成数十次出行订单，已实现盈利 量子位 2026-",
       "relatedTitles": [
-        "无人车往哪里开？"
+        "无人车往哪里开？ “卡车界特斯拉”"
       ]
     },
     {
@@ -4032,7 +4279,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "遭社区强烈反对后，Anthropic 调整 Claude Fable 5 面向研究员的“降智”措施",
-      "summary": "Claude Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行 可以长时间执行任务，人类不用经常回来检查它的工作 梦晨 10小时前 Claude AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的 Anthropic新研究实锤了 听雨 2026-05-13 AI Claude Anthropic",
+      "summary": "Claude AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的 Anthropic新研究实锤了 听雨 2026-05-13 AI Claude Anthropic出手！AI的内心独白，曝光了 原来Claude早就识破了人类的套路（doge） 一水 2026-05-08 Claude Claude终于认了！降智坐实，越",
       "source": "IT之家",
       "sources": [
         "IT之家"
@@ -4088,7 +4335,7 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “遭社区强烈反对后，Anthropic 调整 Claude Fable 5 面向研究员的“降智”措施” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “遭社区强烈反对后，Anthropic 调整 Claude Fable 5 面向研究员的“降智”措施” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
       "rawText": "Anthropic 在给《连线》的声明中表示：“我们正在调整 Fable 5 面向前沿模型开发的安全防护措施，让这些措施对用户可见。我们作出了错误权衡，也为没有拿捏好平衡而道歉。”",
@@ -4195,135 +4442,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 120
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Deezer built a tool to call out AI music — even on rival streaming platforms",
-      "summary": "Deezer launched a tool to detect AI-generated tracks in playlists from streaming services like Spotify and Apple Music to promote transparency.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/streaming/articles/deezer-built-tool-call-ai-223812119.html",
-      "publishedAt": "2026-06-12",
-      "date": "2026-06-12",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Deezer built a tool to call out AI music — even on rival streaming platf” against primary-source evidence.",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 159,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London",
-      "summary": "The U.K. capital has become a key growth target for many of the world's most talked about AI companies.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html",
-      "publishedAt": "Thu, 11 Jun 2026 11:22:23 GMT",
-      "date": "2026-06-11",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Why U.S. AI giants like Anthropic, OpenAI are launching major expansions” against primary-source evidence.",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 159,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google's new open-weights model brings image-generation tricks to AI text generation",
-      "summary": "Language model builds on diffusion tech to boost output performance by up to 4x, claims Chocolate Factory",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406",
-      "publishedAt": "Thu, 11 Jun 2026 20:31:31 +0200",
-      "date": "2026-06-11",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google's new open-weights model brings image-generation tricks to AI tex” against primary-source evidence.",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 158,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 103
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX's First-Ever Orbital Data Center Is Coming With A Powerful Payload",
-      "summary": "As concerns mount over the effect of terrestrial data centers, SpaceX is seeking an alternative solution with an orbital data center.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/science/articles/spacexs-first-ever-orbital-data-191700579.html",
-      "publishedAt": "2026-06-12",
-      "date": "2026-06-12",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 70,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX's First-Ever Orbital Data Center Is Coming With A Powerful Payloa” against primary-source evidence.",
-      "priority": 5,
-      "score": 149,
-      "reporterScore": 157,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 115
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4359,6 +4478,166 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Deezer built a tool to call out AI music — even on rival streaming platforms",
+      "summary": "Deezer launched a tool to detect AI-generated tracks in playlists from streaming services like Spotify and Apple Music to promote transparency.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/streaming/articles/deezer-built-tool-call-ai-223812119.html",
+      "publishedAt": "2026-06-12",
+      "date": "2026-06-12",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Deezer built a tool to call out AI music — even on rival streaming platf” against primary-source evidence.",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 159,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London",
+      "summary": "The U.K. capital has become a key growth target for many of the world's most talked about AI companies.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html",
+      "publishedAt": "Thu, 11 Jun 2026 11:22:23 GMT",
+      "date": "2026-06-11",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Why U.S. AI giants like Anthropic, OpenAI are launching major expansions” against primary-source evidence.",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 159,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google's new open-weights model brings image-generation tricks to AI text generation",
+      "summary": "Language model builds on diffusion tech to boost output performance by up to 4x, claims Chocolate Factory",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406",
+      "publishedAt": "Thu, 11 Jun 2026 20:31:31 +0200",
+      "date": "2026-06-11",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google's new open-weights model brings image-generation tricks to AI tex” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 158,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 103
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX's First-Ever Orbital Data Center Is Coming With A Powerful Payload",
+      "summary": "As concerns mount over the effect of terrestrial data centers, SpaceX is seeking an alternative solution with an orbital data center.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/science/articles/spacexs-first-ever-orbital-data-191700579.html",
+      "publishedAt": "2026-06-12",
+      "date": "2026-06-12",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 70,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX's First-Ever Orbital Data Center Is Coming With A Powerful Payloa” against primary-source evidence.",
+      "priority": 5,
+      "score": 149,
+      "reporterScore": 157,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 115
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Claude is ready for its corporate close-up",
+      "summary": "IDC says recent moves show Anthropic racing to meet enterprise requirements",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/11/claude-is-ready-for-its-corporate-close-up/5254565",
+      "publishedAt": "Fri, 12 Jun 2026 00:43:31 +0200",
+      "date": "2026-06-11",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.71,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Claude is ready for its corporate close-up” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
       "source": "MIT Technology Review",
@@ -4387,7 +4666,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4419,7 +4698,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4451,7 +4730,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4483,231 +4762,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-      "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-      "publishedAt": "Thu, 11 Jun 2026 11:48:55 +0000",
-      "date": "2026-06-11",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic taps TCS to scale its enterprise AI deployments” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic recruits army to sell Claude to nonprofits",
-      "summary": "Join Claude Corps, see the world, spread the gospel of AI",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/11/anthropic-hires-1000-fellows-to-push-claude-into-nonprofits/5254489",
-      "publishedAt": "Thu, 11 Jun 2026 21:29:14 +0200",
-      "date": "2026-06-11",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.93,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic recruits army to sell Claude to nonprofits” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI partners with Visa to bring payments to ChatGPT",
-      "summary": "Visa and OpenAI are partnering on an agentic payment platform to give retailers a secure way to accept payments from OpenAI tools.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/chatgpt/article/openai-partners-with-visa-to-bring-payments-to-chatgpt-143436804.html",
-      "publishedAt": "2026-06-11",
-      "date": "2026-06-11",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI partners with Visa to bring payments to ChatGPT” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
-      "summary": "Ona's technology will allow OpenAI's coding assistant, Codex, to take on longer-running tasks, OpenAI said.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/11/open-ai-ona-acquisition-codex.html",
-      "publishedAt": "Thu, 11 Jun 2026 16:26:10 GMT",
-      "date": "2026-06-11",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI to acquire Ona to support its AI coding assistant, Codex” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Lenovo Chromebook Plus i Review: The ideal student laptop",
-      "summary": "Last year, Lenovo delivered their most premium Chromebook to date in the Chromebook Plus 14, a 14-inch laptop with an OLED display for just under $800. It was a good machine, but a",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/lenovo-chromebook-plus-review-ideal-230423896.html",
-      "publishedAt": "2026-06-12",
-      "date": "2026-06-12",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.84,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Lenovo Chromebook Plus i Review: The ideal student laptop” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Jim Cramer warns SpaceX could soar to unsustainable levels after its debut",
-      "summary": "CNBC's Jim Cramer warned that overwhelming demand for SpaceX could send the stock to unsustainable levels after it begins trading.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/11/jim-cramer-spacex-unsustainable-debut.html",
-      "publishedAt": "Thu, 11 Jun 2026 22:24:10 GMT",
-      "date": "2026-06-11",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Jim Cramer warns SpaceX could soar to unsustainable levels after its deb” against primary-source evidence.",
-      "priority": 4,
-      "score": 138,
-      "reporterScore": 138,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX soon-to-be millionaires are set to spend big on luxury homes, watches and private jet travel",
-      "summary": "SpaceX employees have to wait to sell their shares, but many are already planning how to spend their windfalls.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/11/spacex-millionaires-wealth-spending.html",
-      "publishedAt": "Thu, 11 Jun 2026 14:17:18 GMT",
-      "date": "2026-06-11",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX soon-to-be millionaires are set to spend big on luxury homes, wat” against primary-source evidence.",
-      "priority": 4,
-      "score": 138,
-      "reporterScore": 138,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4725,6 +4780,38 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
       "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic pledges $200 million to research AI's economic impact as CEO s” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+      "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+      "publishedAt": "Thu, 11 Jun 2026 11:48:55 +0000",
+      "date": "2026-06-11",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic taps TCS to scale its enterprise AI deployments” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -4789,6 +4876,38 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
       "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version ” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic recruits army to sell Claude to nonprofits",
+      "summary": "Join Claude Corps, see the world, spread the gospel of AI",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/11/anthropic-hires-1000-fellows-to-push-claude-into-nonprofits/5254489",
+      "publishedAt": "Thu, 11 Jun 2026 21:29:14 +0200",
+      "date": "2026-06-11",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.93,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic recruits army to sell Claude to nonprofits” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -4900,10 +5019,170 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI partners with Visa to bring payments to ChatGPT",
+      "summary": "Visa and OpenAI are partnering on an agentic payment platform to give retailers a secure way to accept payments from OpenAI tools.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/chatgpt/article/openai-partners-with-visa-to-bring-payments-to-chatgpt-143436804.html",
+      "publishedAt": "2026-06-11",
+      "date": "2026-06-11",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI partners with Visa to bring payments to ChatGPT” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
+      "summary": "Ona's technology will allow OpenAI's coding assistant, Codex, to take on longer-running tasks, OpenAI said.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/11/open-ai-ona-acquisition-codex.html",
+      "publishedAt": "Thu, 11 Jun 2026 16:26:10 GMT",
+      "date": "2026-06-11",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI to acquire Ona to support its AI coding assistant, Codex” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Lenovo Chromebook Plus i Review: The ideal student laptop",
+      "summary": "Last year, Lenovo delivered their most premium Chromebook to date in the Chromebook Plus 14, a 14-inch laptop with an OLED display for just under $800. It was a good machine, but a",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/lenovo-chromebook-plus-review-ideal-230423896.html",
+      "publishedAt": "2026-06-12",
+      "date": "2026-06-12",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.84,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Lenovo Chromebook Plus i Review: The ideal student laptop” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Jim Cramer warns SpaceX could soar to unsustainable levels after its debut",
+      "summary": "CNBC's Jim Cramer warned that overwhelming demand for SpaceX could send the stock to unsustainable levels after it begins trading.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/11/jim-cramer-spacex-unsustainable-debut.html",
+      "publishedAt": "Thu, 11 Jun 2026 22:24:10 GMT",
+      "date": "2026-06-11",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Jim Cramer warns SpaceX could soar to unsustainable levels after its deb” against primary-source evidence.",
+      "priority": 4,
+      "score": 138,
+      "reporterScore": 138,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX soon-to-be millionaires are set to spend big on luxury homes, watches and private jet travel",
+      "summary": "SpaceX employees have to wait to sell their shares, but many are already planning how to spend their windfalls.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/11/spacex-millionaires-wealth-spending.html",
+      "publishedAt": "Thu, 11 Jun 2026 14:17:18 GMT",
+      "date": "2026-06-11",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX soon-to-be millionaires are set to spend big on luxury homes, wat” against primary-source evidence.",
+      "priority": 4,
+      "score": 138,
+      "reporterScore": 138,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-12｜V3\n生成时间：2026/6/12 08:10:21\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2508｜确认今日 27｜国际背景 23\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 27 条｜国际 16 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-12] 2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片\n   新浪科技｜2026-06-12｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0332568.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片” against primary-source evidence.\n\n2. [2026-06-12] Anthropic据悉寻求美国数据中心租约，希望获谷\n   网易科技｜2026-06-12｜https://www.163.com/dy/article/KV748MR80534A4SC.html\n   报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic据悉寻求美国数据中心租约，希望获谷” against primary-source evidence.\n\n3. [2026-06-12] 美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万\n   新浪科技｜2026-06-12｜https://finance.sina.com.cn/tech/roll/2026-06-12/doc-inicazrw1894366.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万” against primary-source evidence.\n\n4. [2026-06-12] DeepSeek押宝法国队，Kimi看好阿根廷队，千问、\n   网易科技｜2026-06-12｜https://www.163.com/dy/article/KV6C0PJA0512B07B.html\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek押宝法国队，Kimi看好阿根廷队，千问、” against primary-source evidence.\n\n5. [2026-06-12] 太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏\n   网易科技｜2026-06-12｜https://www.163.com/dy/article/KV72AH9005198CJN.html\n   报道角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏” against primary-source evidence.\n\n本次新增线索：\n- 2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0332568.shtml\n- Anthropic据悉寻求美国数据中心租约，希望获谷｜网易科技｜https://www.163.com/dy/article/KV748MR80534A4SC.html\n- 美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-12/doc-inicazrw1894366.shtml\n- DeepSeek押宝法国队，Kimi看好阿根廷队，千问、｜网易科技｜https://www.163.com/dy/article/KV6C0PJA0512B07B.html\n- 太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏｜网易科技｜https://www.163.com/dy/article/KV72AH9005198CJN.html\n- Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n\n今日热点方向：\n- AI 应用：AI动态（8 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（3 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n2. Deezer built a tool to call out AI music — even on rival streaming platforms｜Yahoo News Technology｜https://tech.yahoo.com/streaming/articles/deezer-built-tool-call-ai-223812119.html\n3. Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London｜CNBC Technology｜https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html\n4. Google's new open-weights model brings image-generation tricks to AI text generation｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406\n5. SpaceX's First-Ever Orbital Data Center Is Coming With A Powerful Payload｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacexs-first-ever-orbital-data-191700579.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-12｜V3\n生成时间：2026/6/12 08:10:21\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2508｜确认今日 27｜国际背景 23\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 27 条｜国际 16 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-12] 2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片\n   新浪科技｜2026-06-12｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0332568.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片” against primary-source evidence.\n\n2. [2026-06-12] Anthropic据悉寻求美国数据中心租约，希望获谷\n   网易科技｜2026-06-12｜https://www.163.com/dy/article/KV748MR80534A4SC.html\n   报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic据悉寻求美国数据中心租约，希望获谷” against primary-source evidence.\n\n3. [2026-06-12] 美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万\n   新浪科技｜2026-06-12｜https://finance.sina.com.cn/tech/roll/2026-06-12/doc-inicazrw1894366.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万” against primary-source evidence.\n\n4. [2026-06-12] DeepSeek押宝法国队，Kimi看好阿根廷队，千问、\n   网易科技｜2026-06-12｜https://www.163.com/dy/article/KV6C0PJA0512B07B.html\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek押宝法国队，Kimi看好阿根廷队，千问、” against primary-source evidence.\n\n5. [2026-06-12] 太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏\n   网易科技｜2026-06-12｜https://www.163.com/dy/article/KV72AH9005198CJN.html\n   报道角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏” against primary-source evidence.\n\n本次新增线索：\n- 2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0332568.shtml\n- Anthropic据悉寻求美国数据中心租约，希望获谷｜网易科技｜https://www.163.com/dy/article/KV748MR80534A4SC.html\n- 美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-12/doc-inicazrw1894366.shtml\n- DeepSeek押宝法国队，Kimi看好阿根廷队，千问、｜网易科技｜https://www.163.com/dy/article/KV6C0PJA0512B07B.html\n- 太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏｜网易科技｜https://www.163.com/dy/article/KV72AH9005198CJN.html\n- Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n\n今日热点方向：\n- AI 应用：AI动态（8 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（3 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n2. Deezer built a tool to call out AI music — even on rival streaming platforms｜Yahoo News Technology｜https://tech.yahoo.com/streaming/articles/deezer-built-tool-call-ai-223812119.html\n3. Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London｜CNBC Technology｜https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html\n4. Google's new open-weights model brings image-generation tricks to AI text generation｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406\n5. SpaceX's First-Ever Orbital Data Center Is Coming With A Powerful Payload｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacexs-first-ever-orbital-data-191700579.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-12｜生成时间：2026/6/12 08:10:21｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2508｜确认今日 27｜国际背景 23</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 27 条｜国际 16 条<br>延续跟踪线索：国内 0 条｜国际 7 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-12] 2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片</strong>\n      <span>新浪科技｜2026-06-12｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0332568.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-12] Anthropic据悉寻求美国数据中心租约，希望获谷</strong>\n      <span>网易科技｜2026-06-12｜<a href=\"https://www.163.com/dy/article/KV748MR80534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic据悉寻求美国数据中心租约，希望获谷” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-12] 美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万</strong>\n      <span>新浪科技｜2026-06-12｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-12/doc-inicazrw1894366.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-12] DeepSeek押宝法国队，Kimi看好阿根廷队，千问、</strong>\n      <span>网易科技｜2026-06-12｜<a href=\"https://www.163.com/dy/article/KV6C0PJA0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek押宝法国队，Kimi看好阿根廷队，千问、” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-12] 太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏</strong>\n      <span>网易科技｜2026-06-12｜<a href=\"https://www.163.com/dy/article/KV72AH9005198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：179｜需核验来源</span>\n      <p>报道角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet</strong>\n      <span>时间：Thu, 11 Jun 2026 21:21:04 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Deezer built a tool to call out AI music — even on rival streaming platforms</strong>\n      <span>时间：2026-06-12｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/streaming/articles/deezer-built-tool-call-ai-223812119.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Deezer built a tool to call out AI music — even on rival streaming platf” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London</strong>\n      <span>时间：Thu, 11 Jun 2026 11:22:23 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Why U.S. AI giants like Anthropic, OpenAI are launching major expansions” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Google's new open-weights model brings image-generation tricks to AI text generation</strong>\n      <span>时间：Thu, 11 Jun 2026 20:31:31 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google's new open-weights model brings image-generation tricks to AI tex” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. SpaceX's First-Ever Orbital Data Center Is Coming With A Powerful Payload</strong>\n      <span>时间：2026-06-12｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/spacexs-first-ever-orbital-data-191700579.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX's First-Ever Orbital Data Center Is Coming With A Powerful Payloa” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/12 08:10:21\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 27 条｜国际 16 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-12] 2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0332568.shtml\n   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片” against primary-source evidence.\n\n2. [2026-06-12] Anthropic据悉寻求美国数据中心租约，希望获谷\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KV748MR80534A4SC.html\n   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic据悉寻求美国数据中心租约，希望获谷” against primary-source evidence.\n\n3. [2026-06-12] 美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-12/doc-inicazrw1894366.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万” against primary-source evidence.\n\n4. [2026-06-12] DeepSeek押宝法国队，Kimi看好阿根廷队，千问、\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KV6C0PJA0512B07B.html\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek押宝法国队，Kimi看好阿根廷队，千问、” against primary-source evidence.\n\n5. [2026-06-12] 太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KV72AH9005198CJN.html\n   角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏” against primary-source evidence.\n\n本次新增线索：\n- 2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0332568.shtml\n- Anthropic据悉寻求美国数据中心租约，希望获谷｜网易科技｜https://www.163.com/dy/article/KV748MR80534A4SC.html\n- 美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-12/doc-inicazrw1894366.shtml\n- DeepSeek押宝法国队，Kimi看好阿根廷队，千问、｜网易科技｜https://www.163.com/dy/article/KV6C0PJA0512B07B.html\n- 太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏｜网易科技｜https://www.163.com/dy/article/KV72AH9005198CJN.html\n- Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n\n今日热点方向：\n- AI 应用：AI动态（8 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（3 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n2. Deezer built a tool to call out AI music — even on rival streaming platforms｜Yahoo News Technology｜https://tech.yahoo.com/streaming/articles/deezer-built-tool-call-ai-223812119.html\n3. Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London｜CNBC Technology｜https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html\n4. Google's new open-weights model brings image-generation tricks to AI text generation｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406\n5. SpaceX's First-Ever Orbital Data Center Is Coming With A Powerful Payload｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacexs-first-ever-orbital-data-191700579.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-12｜V3\n生成时间：2026/6/12 08:24:39\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2573｜确认今日 30｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 1 条\n延续跟踪线索：国内 24 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-12] 2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片\n   新浪科技｜2026-06-12｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0332568.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片” against primary-source evidence.\n\n2. [2026-06-12] 消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持\n   新浪科技｜2026-06-12｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0348406.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持” against primary-source evidence.\n\n3. [2026-06-12] 美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万\n   新浪科技｜2026-06-12｜https://finance.sina.com.cn/tech/roll/2026-06-12/doc-inicazrw1894366.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万” against primary-source evidence.\n\n4. [2026-06-12] DeepSeek押宝法国队，Kimi看好阿根廷队，千问、\n   网易科技｜2026-06-12｜https://www.163.com/dy/article/KV6C0PJA0512B07B.html\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek押宝法国队，Kimi看好阿根廷队，千问、” against primary-source evidence.\n\n5. [2026-06-12] 打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸\n   新浪科技｜2026-06-12｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrw1902482.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸” against primary-source evidence.\n\n本次新增线索：\n- 消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0348406.shtml\n- 打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrw1902482.shtml\n- 钨价重新走强，推高芯片关键材料六氟化钨价格｜网易科技｜https://www.163.com/dy/article/KV77FNQ60534A4SC.html\n- SK海力士设备供应商提出涨价要求 机构称设备厂商业绩确定性极强｜网易科技｜https://www.163.com/dy/article/KV772G0J05198CJN.html\n- 从“意念下单”到机器人乐队，脑机接口与灵巧手｜网易科技｜https://www.163.com/dy/article/KV77BPV105198CJN.html\n- Claude is ready for its corporate close-up｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/claude-is-ready-for-its-corporate-close-up/5254565\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n2. Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude｜WIRED Business｜https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/\n3. Deezer built a tool to call out AI music — even on rival streaming platforms｜Yahoo News Technology｜https://tech.yahoo.com/streaming/articles/deezer-built-tool-call-ai-223812119.html\n4. Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London｜CNBC Technology｜https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html\n5. Google's new open-weights model brings image-generation tricks to AI text generation｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-12｜V3\n生成时间：2026/6/12 08:24:39\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2573｜确认今日 30｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 1 条\n延续跟踪线索：国内 24 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-12] 2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片\n   新浪科技｜2026-06-12｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0332568.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片” against primary-source evidence.\n\n2. [2026-06-12] 消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持\n   新浪科技｜2026-06-12｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0348406.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持” against primary-source evidence.\n\n3. [2026-06-12] 美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万\n   新浪科技｜2026-06-12｜https://finance.sina.com.cn/tech/roll/2026-06-12/doc-inicazrw1894366.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万” against primary-source evidence.\n\n4. [2026-06-12] DeepSeek押宝法国队，Kimi看好阿根廷队，千问、\n   网易科技｜2026-06-12｜https://www.163.com/dy/article/KV6C0PJA0512B07B.html\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek押宝法国队，Kimi看好阿根廷队，千问、” against primary-source evidence.\n\n5. [2026-06-12] 打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸\n   新浪科技｜2026-06-12｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrw1902482.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸” against primary-source evidence.\n\n本次新增线索：\n- 消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0348406.shtml\n- 打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrw1902482.shtml\n- 钨价重新走强，推高芯片关键材料六氟化钨价格｜网易科技｜https://www.163.com/dy/article/KV77FNQ60534A4SC.html\n- SK海力士设备供应商提出涨价要求 机构称设备厂商业绩确定性极强｜网易科技｜https://www.163.com/dy/article/KV772G0J05198CJN.html\n- 从“意念下单”到机器人乐队，脑机接口与灵巧手｜网易科技｜https://www.163.com/dy/article/KV77BPV105198CJN.html\n- Claude is ready for its corporate close-up｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/claude-is-ready-for-its-corporate-close-up/5254565\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n2. Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude｜WIRED Business｜https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/\n3. Deezer built a tool to call out AI music — even on rival streaming platforms｜Yahoo News Technology｜https://tech.yahoo.com/streaming/articles/deezer-built-tool-call-ai-223812119.html\n4. Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London｜CNBC Technology｜https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html\n5. Google's new open-weights model brings image-generation tricks to AI text generation｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-12｜生成时间：2026/6/12 08:24:39｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2573｜确认今日 30｜国际背景 24</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 1 条<br>延续跟踪线索：国内 24 条｜国际 23 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-12] 2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片</strong>\n      <span>新浪科技｜2026-06-12｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0332568.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-12] 消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持</strong>\n      <span>新浪科技｜2026-06-12｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0348406.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-12] 美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万</strong>\n      <span>新浪科技｜2026-06-12｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-12/doc-inicazrw1894366.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-12] DeepSeek押宝法国队，Kimi看好阿根廷队，千问、</strong>\n      <span>网易科技｜2026-06-12｜<a href=\"https://www.163.com/dy/article/KV6C0PJA0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek押宝法国队，Kimi看好阿根廷队，千问、” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-12] 打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸</strong>\n      <span>新浪科技｜2026-06-12｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrw1902482.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet</strong>\n      <span>时间：Thu, 11 Jun 2026 21:21:04 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude</strong>\n      <span>时间：Thu, 11 Jun 2026 03:11:22 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers U” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Deezer built a tool to call out AI music — even on rival streaming platforms</strong>\n      <span>时间：2026-06-12｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/streaming/articles/deezer-built-tool-call-ai-223812119.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Deezer built a tool to call out AI music — even on rival streaming platf” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London</strong>\n      <span>时间：Thu, 11 Jun 2026 11:22:23 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Why U.S. AI giants like Anthropic, OpenAI are launching major expansions” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google's new open-weights model brings image-generation tricks to AI text generation</strong>\n      <span>时间：Thu, 11 Jun 2026 20:31:31 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google's new open-weights model brings image-generation tricks to AI tex” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/12 08:24:39\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 1 条\n延续跟踪线索：国内 24 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-12] 2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0332568.shtml\n   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片” against primary-source evidence.\n\n2. [2026-06-12] 消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0348406.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持” against primary-source evidence.\n\n3. [2026-06-12] 美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-12/doc-inicazrw1894366.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国普通网民被抹黑为中国水军！OpenAI等公司曾雇博主抹黑中国科技 发一条给3.6万” against primary-source evidence.\n\n4. [2026-06-12] DeepSeek押宝法国队，Kimi看好阿根廷队，千问、\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KV6C0PJA0512B07B.html\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek押宝法国队，Kimi看好阿根廷队，千问、” against primary-source evidence.\n\n5. [2026-06-12] 打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrw1902482.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸” against primary-source evidence.\n\n本次新增线索：\n- 消息称 Anthropic 寻求美国数据中心租约，希望获得谷歌母公司财务支持｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrz0348406.shtml\n- 打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-inicazrw1902482.shtml\n- 钨价重新走强，推高芯片关键材料六氟化钨价格｜网易科技｜https://www.163.com/dy/article/KV77FNQ60534A4SC.html\n- SK海力士设备供应商提出涨价要求 机构称设备厂商业绩确定性极强｜网易科技｜https://www.163.com/dy/article/KV772G0J05198CJN.html\n- 从“意念下单”到机器人乐队，脑机接口与灵巧手｜网易科技｜https://www.163.com/dy/article/KV77BPV105198CJN.html\n- Claude is ready for its corporate close-up｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/claude-is-ready-for-its-corporate-close-up/5254565\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n2. Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude｜WIRED Business｜https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/\n3. Deezer built a tool to call out AI music — even on rival streaming platforms｜Yahoo News Technology｜https://tech.yahoo.com/streaming/articles/deezer-built-tool-call-ai-223812119.html\n4. Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London｜CNBC Technology｜https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html\n5. Google's new open-weights model brings image-generation tricks to AI text generation｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
