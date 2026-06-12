@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/12 17:47:24
+生成时间：2026/6/12 18:16:22
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 70 条｜国际 4 条
-延续跟踪线索：国内 10 条｜国际 21 条
+新增核心线索：国内 15 条｜国际 2 条
+延续跟踪线索：国内 64 条｜国际 24 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-12] 涂鸦智能×乐享科技，帮助机器人真正融入智慧家庭
+1. [2026-06-12] 马斯克要造百万台机器人，经济学人说关键在宁波
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-12/doc-iniccwvr0262898.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “涂鸦智能×乐享科技，帮助机器人真正融入智慧家庭” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-12/doc-iniccwvr0286398.shtml
+   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “马斯克要造百万台机器人，经济学人说关键在宁波” against primary-source evidence.
 
-2. [2026-06-12] 优必选携手沐曦股份成立合资公司 布局具身智能端侧芯片
+2. [2026-06-12] 广汽集团吴坚：智能驾驶不能拿消费者做实验
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/hy/hyjz/2026-06-12/doc-iniccspt0334195.shtml
+   角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “广汽集团吴坚：智能驾驶不能拿消费者做实验” against primary-source evidence.
+
+3. [2026-06-12] 大疆落子，全景无人机再无「战事」
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-12/doc-iniccwvr0286517.shtml
+   角度：Use urban services, logistics, safety and regulation to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “大疆落子，全景无人机再无「战事」” against primary-source evidence.
+
+4. [2026-06-12] 优必选携手沐曦股份成立合资公司 布局具身智能端侧芯片
    来源：网易科技
    链接：https://www.163.com/dy/article/KV84FLSU05198CJN.html
    角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “优必选携手沐曦股份成立合资公司 布局具身智能端侧芯片” against primary-source evidence.
 
-3. [2026-06-12] 广汽集团吴坚：智能驾驶不能拿消费者做实验，这是非常错误的
+5. [2026-06-12] 格创东智推出设备智能Agent解决方案，以多智能体协同架构重构运维模式
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-06-12/doc-iniccwvu8972397.shtml
-   角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “广汽集团吴坚：智能驾驶不能拿消费者做实验，这是非常错误的” against primary-source evidence.
-
-4. [2026-06-12] 上海微系统所开展树立和践行正确政绩观学习教育专题培训
-   来源：中国科学院
-   链接：https://www.cas.cn/djcx/gz/202606/t20260612_5112423.shtml
-   角度：Use researchers and facilities as reporting anchors, with research infrastructure and long-term innovation capacity, peer context and limitations clearly stated. For this item, test the claim behind “上海微系统所开展树立和践行正确政绩观学习教育专题培训” against primary-source evidence.
-
-5. [2026-06-12] 2026全球毕业生前景报告发布 中国毕业生积极拥抱AI
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-06/12/content_38825586.htm
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026全球毕业生前景报告发布 中国毕业生积极拥抱AI” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-12/doc-iniccwvr0296516.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “格创东智推出设备智能Agent解决方案，以多智能体协同架构重构运维模式” against primary-source evidence.
 
 本次新增线索：
-- 涂鸦智能×乐享科技，帮助机器人真正融入智慧家庭｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-12/doc-iniccwvr0262898.shtml
-- 优必选携手沐曦股份成立合资公司 布局具身智能端侧芯片｜网易科技｜https://www.163.com/dy/article/KV84FLSU05198CJN.html
-- 广汽集团吴坚：智能驾驶不能拿消费者做实验，这是非常错误的｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-iniccwvu8972397.shtml
-- 上海微系统所开展树立和践行正确政绩观学习教育专题培训｜中国科学院｜https://www.cas.cn/djcx/gz/202606/t20260612_5112423.shtml
-- 2026全球毕业生前景报告发布 中国毕业生积极拥抱AI｜光明网-科技｜https://tech.gmw.cn/2026-06/12/content_38825586.htm
-- Science fiction? Musk's lofty SpaceX goals unrealistic, skeptics say｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/science-fiction-musks-lofty-spacex-033004849.html
+- 马斯克要造百万台机器人，经济学人说关键在宁波｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-12/doc-iniccwvr0286398.shtml
+- 广汽集团吴坚：智能驾驶不能拿消费者做实验｜新浪科技｜https://finance.sina.com.cn/hy/hyjz/2026-06-12/doc-iniccspt0334195.shtml
+- 大疆落子，全景无人机再无「战事」｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-12/doc-iniccwvr0286517.shtml
+- 格创东智推出设备智能Agent解决方案，以多智能体协同架构重构运维模式｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-12/doc-iniccwvr0296516.shtml
+- SteamOS 3.8.7 Beta 首次支持英特尔芯片掌机：15W 功耗下 3A 游戏表现反超 Steam Deck｜IT之家｜https://www.ithome.com/0/963/642.htm
+- How will Siri AI improve my Apple Watch?｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/siri-ai-improve-apple-watch-074924311.html
 
 今日热点方向：
-- AI 应用：AI动态（21 条，6 个来源）
-- 芯片/半导体：半导体供应链（6 条，3 个来源）
+- AI 应用：AI动态（21 条，5 个来源）
+- 芯片/半导体：半导体供应链（5 条，3 个来源）
 - 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（7 条，2 个来源）
 - 太空与低空经济：太空与低空动态（4 条，2 个来源）
 - 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
-1. Science fiction? Musk's lofty SpaceX goals unrealistic, skeptics say｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/science-fiction-musks-lofty-spacex-033004849.html
-2. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/
-3. Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude｜WIRED Business｜https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/
-4. Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London｜CNBC Technology｜https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html
-5. Google's new open-weights model brings image-generation tricks to AI text generation｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406
+1. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/
+2. Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude｜WIRED Business｜https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/
+3. Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London｜CNBC Technology｜https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html
+4. Google's new open-weights model brings image-generation tricks to AI text generation｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406
+5. Science fiction? Musk's lofty SpaceX goals unrealistic, skeptics say｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/science-fiction-musks-lofty-spacex-033004849.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
