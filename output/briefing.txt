@@ -1,30 +1,30 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/13 08:08:27
+生成时间：2026/6/13 08:25:03
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 10 条｜国际 8 条
-延续跟踪线索：国内 0 条｜国际 12 条
-本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
+新增核心线索：国内 0 条｜国际 0 条
+延续跟踪线索：国内 10 条｜国际 19 条
+本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
-1. [2026-06-13] “六臂玄甲” 亮相上交会 全球首发空间异构六臂具身智能机器人
+1. [2026-06-13] 全球首发卫星通信 IoT 商用方案 商米科技服务非拉用户
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KV8TSHBR05198CJN.html
+   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “全球首发卫星通信 IoT 商用方案 商米科技服务非拉用户” against primary-source evidence.
+
+2. [2026-06-13] “六臂玄甲” 亮相上交会 全球首发空间异构六臂具身智能机器人
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-06-13/doc-iniceptf3321616.shtml
    角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind ““六臂玄甲” 亮相上交会 全球首发空间异构六臂具身智能机器人” against primary-source evidence.
 
-2. [2026-06-13] 本月之内第二次！SK海力士回应厂区火情：对生产设备是否造成影响还在评估
+3. [2026-06-13] 本月之内第二次！SK海力士回应厂区火情：对生产设备是否造成影响还在评估
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-06-13/doc-inicfeqx3083705.shtml
    角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “本月之内第二次！SK海力士回应厂区火情：对生产设备是否造成影响还在评估” against primary-source evidence.
-
-3. [2026-06-13] 全球首发卫星通信 IoT 商用方案 商米科技服务非拉用户
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KV8TSHBR05198CJN.html
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “全球首发卫星通信 IoT 商用方案 商米科技服务非拉用户” against primary-source evidence.
 
 4. [2026-06-13] 美多州总检察长联合调查OpenAI
    来源：网易科技
@@ -37,12 +37,7 @@ ChenChen 今日 Briefing｜V3
    角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MiniMax M3发布并开源：摩尔线程MTT S5000完成Day-0极速适配” against primary-source evidence.
 
 本次新增线索：
-- “六臂玄甲” 亮相上交会 全球首发空间异构六臂具身智能机器人｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-13/doc-iniceptf3321616.shtml
-- 本月之内第二次！SK海力士回应厂区火情：对生产设备是否造成影响还在评估｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-13/doc-inicfeqx3083705.shtml
-- 全球首发卫星通信 IoT 商用方案 商米科技服务非拉用户｜网易科技｜https://www.163.com/dy/article/KV8TSHBR05198CJN.html
-- 美多州总检察长联合调查OpenAI｜网易科技｜https://www.163.com/dy/article/KV9OU9J10534A4SC.html
-- MiniMax M3发布并开源：摩尔线程MTT S5000完成Day-0极速适配｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-13/doc-inicfeqy9859708.shtml
-- Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/
+- 暂无新增核心线索。
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（3 条，2 个来源）
