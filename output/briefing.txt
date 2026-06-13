@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/12 18:41:27
+生成时间：2026/6/13 08:08:27
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 16 条｜国际 0 条
-延续跟踪线索：国内 67 条｜国际 26 条
+新增核心线索：国内 10 条｜国际 8 条
+延续跟踪线索：国内 0 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-12] 第二届世界人形机器人运动会敲定50个赛项 除了乒乓球、自由搏击等
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KV89NME90512B07B.html
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “第二届世界人形机器人运动会敲定50个赛项 除了乒乓球、自由搏击等” against primary-source evidence.
-
-2. [2026-06-12] 新加坡与微软签署协议，推进人工智能安全与治理
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KV8A42VC0534A4SC.html
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “新加坡与微软签署协议，推进人工智能安全与治理” against primary-source evidence.
-
-3. [2026-06-12] 优必选携手沐曦股份成立合资公司 布局具身智能端侧芯片
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KV84FLSU05198CJN.html
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “优必选携手沐曦股份成立合资公司 布局具身智能端侧芯片” against primary-source evidence.
-
-4. [2026-06-12] 何小鹏发内部信
+1. [2026-06-13] “六臂玄甲” 亮相上交会 全球首发空间异构六臂具身智能机器人
    来源：新浪科技
-   链接：https://finance.sina.com.cn/wm/2026-06-12/doc-inicazru5124941.shtml
-   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “何小鹏发内部信” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-13/doc-iniceptf3321616.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind ““六臂玄甲” 亮相上交会 全球首发空间异构六臂具身智能机器人” against primary-source evidence.
 
-5. [2026-06-12] 工信部、国资委启动2026年度人形机器人与具身智能实景实训专项行动
-   来源：新华网-科技
-   链接：http://www.news.cn/tech/20260612/a069b3a9948b4e0aaaa94cf3d618e545/c.html
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “工信部、国资委启动2026年度人形机器人与具身智能实景实训专项行动” against primary-source evidence.
+2. [2026-06-13] 本月之内第二次！SK海力士回应厂区火情：对生产设备是否造成影响还在评估
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-13/doc-inicfeqx3083705.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “本月之内第二次！SK海力士回应厂区火情：对生产设备是否造成影响还在评估” against primary-source evidence.
+
+3. [2026-06-13] 全球首发卫星通信 IoT 商用方案 商米科技服务非拉用户
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KV8TSHBR05198CJN.html
+   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “全球首发卫星通信 IoT 商用方案 商米科技服务非拉用户” against primary-source evidence.
+
+4. [2026-06-13] 美多州总检察长联合调查OpenAI
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KV9OU9J10534A4SC.html
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美多州总检察长联合调查OpenAI” against primary-source evidence.
+
+5. [2026-06-13] MiniMax M3发布并开源：摩尔线程MTT S5000完成Day-0极速适配
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-13/doc-inicfeqy9859708.shtml
+   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MiniMax M3发布并开源：摩尔线程MTT S5000完成Day-0极速适配” against primary-source evidence.
 
 本次新增线索：
-- 第二届世界人形机器人运动会敲定50个赛项 除了乒乓球、自由搏击等｜网易科技｜https://www.163.com/dy/article/KV89NME90512B07B.html
-- 新加坡与微软签署协议，推进人工智能安全与治理｜网易科技｜https://www.163.com/dy/article/KV8A42VC0534A4SC.html
-- 智源大会热议AI安全，图灵奖得主建议接受概率性风险｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-12/doc-iniccwvp3531078.shtml
-- 海南文昌火箭基地项目正式开工，为长征九号重型火箭生产测试做准备｜IT之家｜https://www.ithome.com/0/963/660.htm
-- 美的全屋智能接入微信 AI 生态，已完成空调、热水器、洗衣机等全屋家电接入适配｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-12/doc-iniccwvp3502150.shtml
+- “六臂玄甲” 亮相上交会 全球首发空间异构六臂具身智能机器人｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-13/doc-iniceptf3321616.shtml
+- 本月之内第二次！SK海力士回应厂区火情：对生产设备是否造成影响还在评估｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-13/doc-inicfeqx3083705.shtml
+- 全球首发卫星通信 IoT 商用方案 商米科技服务非拉用户｜网易科技｜https://www.163.com/dy/article/KV8TSHBR05198CJN.html
+- 美多州总检察长联合调查OpenAI｜网易科技｜https://www.163.com/dy/article/KV9OU9J10534A4SC.html
+- MiniMax M3发布并开源：摩尔线程MTT S5000完成Day-0极速适配｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-13/doc-inicfeqy9859708.shtml
+- Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/
 
 今日热点方向：
-- AI 应用：AI动态（20 条，5 个来源）
-- 芯片/半导体：半导体供应链（4 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（4 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（9 条，2 个来源）
-- 太空与低空经济：太空与低空动态（5 条，3 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- AI 应用：AI 应用与智能体（3 条，2 个来源）
+- 芯片/半导体：半导体供应链（2 条，1 个来源）
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
+- 太空与低空经济：太空与低空动态（2 条，2 个来源）
+- 科学前沿：
 
 国际科技背景：
-1. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/
-2. Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude｜WIRED Business｜https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/
-3. Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London｜CNBC Technology｜https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html
-4. Google's new open-weights model brings image-generation tricks to AI text generation｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406
-5. Science fiction? Musk's lofty SpaceX goals unrealistic, skeptics say｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/science-fiction-musks-lofty-spacex-033004849.html
+1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/
+2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841
+3. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/
+4. Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude｜WIRED Business｜https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/
+5. Google's new open-weights model brings image-generation tricks to AI text generation｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
