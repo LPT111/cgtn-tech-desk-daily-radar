@@ -1,37 +1,27 @@
 {
-  "generatedAt": "2026-06-14T09:37:12.428Z",
+  "generatedAt": "2026-06-14T09:57:26.220Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-14",
   "changeSummary": {
-    "domesticNew": 8,
+    "domesticNew": 3,
     "globalNew": 0,
-    "domesticContinued": 33,
+    "domesticContinued": 39,
     "globalContinued": 20,
     "topNewDomestic": [
       {
-        "title": "机器人伴侣仅限成人购买使用：内置养成系专属情感大模型",
+        "title": "存储芯片需求高涨！SK海力士去年新增员工超2000人",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzt8947673.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzr0636614.shtml"
       },
       {
-        "title": "美禁止外国主体使用安特罗匹克最新AI模型",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KVDBRLOE0534A4SC.html"
+        "title": "诺奖得主克鲁格曼：马斯克是“人形庞氏骗局”，SpaceX 上市让普通投资者被迫买单",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/964/079.htm"
       },
       {
-        "title": "厨房、卧室、超市等30多个日常场景一应俱全，人",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KVD9RGNH0534A4SC.html"
-      },
-      {
-        "title": "小马智行第七代 Robotaxi 亮相 2026 重庆国际车展",
+        "title": "通用汽车高管斯特林・安德森：公司目前主攻乘用车自动驾驶技术，未来将用于无人驾驶网约车",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5732458.shtml"
-      },
-      {
-        "title": "2026美加墨世界杯：一场“不能失败”的AI实验",
-        "source": "光明网-科技",
-        "url": "https://tech.gmw.cn/2026-06/14/content_38827466.htm"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5743443.shtml"
       }
     ],
     "topNewGlobal": [],
@@ -41,7 +31,7 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 859,
+    "domesticRejected": 858,
     "globalRejected": 880,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -56,7 +46,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 29,
+  "successSources": 26,
   "failedSources": [
     {
       "name": "财联社",
@@ -74,13 +64,28 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -106,13 +111,28 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -125,7 +145,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 156,
+      "parsed": 154,
       "failed": false,
       "optional": false
     },
@@ -290,14 +310,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -318,8 +340,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 14,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -327,7 +350,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -374,18 +397,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1288,
+  "itemsSeen": 1272,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 290,
-  "itemsAfterDedupe": 206,
-  "todayItemsSeen": 41,
+  "itemsAfterRelevantFilter": 293,
+  "itemsAfterDedupe": 205,
+  "todayItemsSeen": 42,
   "suspectedItemsSeen": 21,
-  "skippedNonToday": 143,
+  "skippedNonToday": 141,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 156,
+      "parsed": 154,
       "failed": false,
       "optional": false
     },
@@ -550,14 +573,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -578,8 +603,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 14,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -587,7 +613,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -803,13 +829,28 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -854,8 +895,8 @@
         "加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀",
         "机器人伴侣仅限成人购买使用：内置养成系专属情感大模型",
         "小米新媒体高级工程师谈某大模型重新出山：技术竞争举双手欢迎，这片“无是非争端”净土来之不易",
-        "消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金",
-        "Anthropic最强模型被禁，传亚马逊通风报信"
+        "Anthropic最强模型被禁，传亚马逊通风报信",
+        "消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金"
       ]
     },
     {
@@ -864,14 +905,14 @@
       "sourceCount": 3,
       "sources": [
         "网易科技",
-        "光明网-科技",
-        "新浪科技"
+        "新浪科技",
+        "光明网-科技"
       ],
       "items": [
         "美禁止外国主体使用安特罗匹克最新AI模型",
-        "2026美加墨世界杯：一场“不能失败”的AI实验",
         "活力中国调研行丨“人造太阳”能发电吗？“中关村两院”企业用AI挑战能源终极之问",
         "五冠王遭北非铁壁逼平！12大AI首次集体失手，世界杯又给算法上了一课",
+        "2026美加墨世界杯：一场“不能失败”的AI实验",
         "外媒曝蚂蚁集团正秘密测试AI 版支付宝"
       ]
     },
@@ -896,14 +937,14 @@
       "count": 4,
       "sourceCount": 3,
       "sources": [
-        "新浪科技",
         "网易科技",
+        "新浪科技",
         "IT之家"
       ],
       "items": [
-        "小马智行第七代 Robotaxi 亮相 2026 重庆国际车展",
         "Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场",
-        "通用汽车首席产品官：公司目前主攻乘用车自动驾驶技术",
+        "小马智行第七代 Robotaxi 亮相 2026 重庆国际车展",
+        "通用汽车高管斯特林・安德森：公司目前主攻乘用车自动驾驶技术，未来将用于无人驾驶网约车",
         "乘联分会崔东树：5 月我国动力和其它电池合计产量为 192GWh，同比增长 38%"
       ]
     },
@@ -989,6 +1030,28 @@
       ]
     },
     {
+      "topic": "芯片动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "存储芯片需求高涨！SK海力士去年新增员工超2000人"
+      ]
+    },
+    {
+      "topic": "太空与低空动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "诺奖得主克鲁格曼：马斯克是“人形庞氏骗局”，SpaceX 上市让普通投资者被迫买单"
+      ]
+    },
+    {
       "topic": "监管与安全动态",
       "count": 1,
       "sourceCount": 1,
@@ -997,17 +1060,6 @@
       ],
       "items": [
         "东芝闹乌龙，误删日本厚生劳动省的微软 Teams 聊天记录"
-      ]
-    },
-    {
-      "topic": "太空与低空动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "诺奖得主克鲁格曼：马斯克是“人形庞氏骗局”，SpaceX 上市让普通投资者被迫买单"
       ]
     }
   ],
@@ -1082,74 +1134,6 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "机器人伴侣仅限成人购买使用：内置养成系专属情感大模型",
-      "summary": "快科技6月14日消息，据媒体报道，上线仅10天，主打情感陪伴的人形机器人U1为优必选收获了超过3800台预售订单，对应定金总额逾千万元。对于去年仅售出1079台人形机器人的优必选而言，这次尝试已算“小有突破”。U1系列分男女两款机型：男款身...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzt8947673.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzt8947673.shtml"
-      ],
-      "publishedAt": "2026-06-14",
-      "date": "2026-06-14",
-      "category": "机器人",
-      "classificationConfidence": 0.94,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 178,
-      "reporterScore": 192,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人伴侣仅限成人购买使用：内置养成系专属情感大模型” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "快科技6月14日消息，据媒体报道，上线仅10天，主打情感陪伴的人形机器人U1为优必选收获了超过3800台预售订单，对应定金总额逾千万元。对于去年仅售出1079台人形机器人的优必选而言，这次尝试已算“小有突破”。U1系列分男女两款机型：男款身...",
-      "relatedTitles": [
-        "机器人伴侣仅限成人购买使用：内置养成系专属情感大模型"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射",
       "summary": "首页 我国成功发射通信技术试验卫星二十四号 分享到： 微信公众号“我们的太空”消息，北京时间2026年5月27日00时16分，我国在文昌航天发射场使用长征七号改运载火箭，成功将通信技术试验卫星二十四号发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于开展多频段、高速率卫星通信技术验证。 此次任务是长征",
       "source": "新浪科技",
@@ -1219,7 +1203,7 @@
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "全球首条！百万片级体全息光波导自动化产线在津投产",
-      "summary": "快科技6月14日消息，据媒体报道，由尼卡光学设计建设的全球首条百万片级体全息光波导自动化产线，日前在天津滨海高新区正式投产。这标志着我国在消费级AR（增强现实）核心显示技术领域实现了重大规模化量产突破，解锁了高性价比AR眼镜和车载AR-HU...",
+      "summary": "6月14日消息，尼卡光学设计建设的全球首条百万片级体全息光波导自动化产线在天津滨海高新区投产，标志我国消费级AR核心显示技术实现重大规模化量产突破。光波导体全息技术是消费级AR重要方向，尼卡光学自2022年成立坚持自主发展，是国内首家全栈自主研发、量产体全息光栅波导元件的企业。天津产线年产能100万片，投产使天津和广州",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -1232,7 +1216,7 @@
       "publishedAt": "2026-06-14",
       "date": "2026-06-14",
       "category": "机器人",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.68,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1278,79 +1262,11 @@
       "angle": "Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “全球首条！百万片级体全息光波导自动化产线在津投产” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "机器人动态",
-      "rawText": "快科技6月14日消息，据媒体报道，由尼卡光学设计建设的全球首条百万片级体全息光波导自动化产线，日前在天津滨海高新区正式投产。这标志着我国在消费级AR（增强现实）核心显示技术领域实现了重大规模化量产突破，解锁了高性价比AR眼镜和车载AR-HU...",
+      "rawText": "6月14日消息，尼卡光学设计建设的全球首条百万片级体全息光波导自动化产线在天津滨海高新区投产，标志我国消费级AR核心显示技术实现重大规模化量产突破。光波导体全息技术是消费级AR重要方向，尼卡光学自2022年成立坚持自主发展，是国内首家全栈自主研发、量产体全息光栅波导元件的企业。天津产线年产能100万片，投产使天津和广州总产能达130万片。尼卡方案广泛应用，与多家头部厂商合作，在手订单超100万片，预计2026年产值6000万至8000万元。 (AI生成)",
       "relatedTitles": [
         "全球首条！百万片级体全息光波导自动化产线在津投产"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "美禁止外国主体使用安特罗匹克最新AI模型",
-      "summary": "美禁止外国主体使用安特罗匹克最新AI模型,匹克,安特罗,亚马逊,美国政府,人工智能,知名企业",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KVDBRLOE0534A4SC.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/KVDBRLOE0534A4SC.html"
-      ],
-      "publishedAt": "2026-06-14",
-      "date": "2026-06-14",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 176,
-      "reporterScore": 184,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美禁止外国主体使用安特罗匹克最新AI模型” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "美禁止外国主体使用安特罗匹克最新AI模型,匹克,安特罗,亚马逊,美国政府,人工智能,知名企业",
-      "relatedTitles": [
-        "美禁止外国主体使用安特罗匹克最新AI模型"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1489,22 +1405,22 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "厨房、卧室、超市等30多个日常场景一应俱全，人",
-      "summary": "厨房、卧室、超市等30多个日常场景一应俱全，人形机器人在这里“高强度实训”,实训,智能机器人,人形机器人",
-      "source": "网易科技",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "机器人伴侣仅限成人购买使用：内置养成系专属情感大模型",
+      "summary": "快科技6月14日消息，据媒体报道，上线仅10天，主打情感陪伴的人形机器人U1为优必选收获了超过3800台预售订单，对应定金总额逾千万元。对于去年仅售出1079台人形机器人的优必选而言，这次尝试已算“小有突破”。U1系列分男女两款机型：男款身...",
+      "source": "新浪科技",
       "sources": [
-        "网易科技"
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KVD9RGNH0534A4SC.html",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzt8947673.shtml",
       "sourceUrls": [
-        "https://www.163.com/dy/article/KVD9RGNH0534A4SC.html"
+        "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzt8947673.shtml"
       ],
       "publishedAt": "2026-06-14",
       "date": "2026-06-14",
       "category": "机器人",
-      "classificationConfidence": 0.84,
+      "classificationConfidence": 0.94,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1514,8 +1430,8 @@
       "hardTechPriority": 90,
       "keywords": "robotics, embodied intelligence and smart manufacturing",
       "priority": 5,
-      "score": 170,
-      "reporterScore": 176,
+      "score": 178,
+      "reporterScore": 192,
       "scoreBreakdown": {
         "hardTech": 90,
         "today": 18,
@@ -1527,7 +1443,7 @@
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -1536,61 +1452,61 @@
         "primary": false,
         "visual": true,
         "international": false,
-        "interview": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 90,
-        "reporterScore": 113
+        "reporterScore": 123
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
+      "hasInterviewValue": true,
       "hasVisualValue": true,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “厨房、卧室、超市等30多个日常场景一应俱全，人” against primary-source evidence.",
+      "angle": "Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人伴侣仅限成人购买使用：内置养成系专属情感大模型” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "厨房、卧室、超市等30多个日常场景一应俱全，人形机器人在这里“高强度实训”,实训,智能机器人,人形机器人",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技6月14日消息，据媒体报道，上线仅10天，主打情感陪伴的人形机器人U1为优必选收获了超过3800台预售订单，对应定金总额逾千万元。对于去年仅售出1079台人形机器人的优必选而言，这次尝试已算“小有突破”。U1系列分男女两款机型：男款身...",
       "relatedTitles": [
-        "厨房、卧室、超市等30多个日常场景一应俱全，人"
+        "机器人伴侣仅限成人购买使用：内置养成系专属情感大模型"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "小马智行第七代 Robotaxi 亮相 2026 重庆国际车展",
-      "summary": "IT之家 6 月 14 日消息，据小马智行官方公众号，小马智行第七代 Robotaxi 及无人驾驶科技展区于 6 月 13 日至 6 月 16 日召开的 2026 重庆国际车展中首次亮相。IT之家注意到，小马智行在今年 4 月的 2026 ...",
+      "title": "存储芯片需求高涨！SK海力士去年新增员工超2000人",
+      "summary": "快科技6月14日消息，据媒体报道，受全球人工智能热潮推动，存储芯片需求激增，SK海力士去年新增员工超2000人。在韩国整体就业市场放缓的背景下，此次扩招尤为引人注目。数据显示，截至2025年底，SK海力士员工总数达34549人，较上年增加2...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5732458.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzr0636614.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5732458.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzr0636614.shtml"
       ],
       "publishedAt": "2026-06-14",
       "date": "2026-06-14",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
+      "category": "芯片",
+      "classificationConfidence": 0.9,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 162,
-      "reporterScore": 176,
+      "score": 166,
+      "reporterScore": 174,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
         "international": 9,
         "policy": 0,
         "sourceWeight": 8,
@@ -1602,45 +1518,45 @@
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
+        "visual": false,
         "international": true,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 118
+        "hardTechWeight": 95,
+        "reporterScore": 120
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
-      "hasVisualValue": true,
+      "hasVisualValue": false,
       "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “小马智行第七代 Robotaxi 亮相 2026 重庆国际车展” against primary-source evidence.",
+      "format": "graphic",
+      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “存储芯片需求高涨！SK海力士去年新增员工超2000人” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "IT之家 6 月 14 日消息，据小马智行官方公众号，小马智行第七代 Robotaxi 及无人驾驶科技展区于 6 月 13 日至 6 月 16 日召开的 2026 重庆国际车展中首次亮相。IT之家注意到，小马智行在今年 4 月的 2026 ...",
+      "matchedTopic": "芯片动态",
+      "rawText": "快科技6月14日消息，据媒体报道，受全球人工智能热潮推动，存储芯片需求激增，SK海力士去年新增员工超2000人。在韩国整体就业市场放缓的背景下，此次扩招尤为引人注目。数据显示，截至2025年底，SK海力士员工总数达34549人，较上年增加2...",
       "relatedTitles": [
-        "小马智行第七代 Robotaxi 亮相 2026 重庆国际车展"
+        "存储芯片需求高涨！SK海力士去年新增员工超2000人"
       ],
       "isNewSinceLastRun": true
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoLmdt",
-      "title": "2026美加墨世界杯：一场“不能失败”的AI实验",
-      "summary": "2026年世界杯，正在成为人类历史上规模最大的一场AI实验。",
-      "source": "光明网-科技",
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "美禁止外国主体使用安特罗匹克最新AI模型",
+      "summary": "美禁止外国主体使用安特罗匹克最新AI模型,匹克,安特罗,亚马逊,美国政府,人工智能,知名企业",
+      "source": "网易科技",
       "sources": [
-        "光明网-科技"
+        "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://tech.gmw.cn/2026-06/14/content_38827466.htm",
+      "url": "https://www.163.com/dy/article/KVDBRLOE0534A4SC.html",
       "sourceUrls": [
-        "https://tech.gmw.cn/2026-06/14/content_38827466.htm"
+        "https://www.163.com/dy/article/KVDBRLOE0534A4SC.html"
       ],
       "publishedAt": "2026-06-14",
       "date": "2026-06-14",
       "category": "AI",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1650,14 +1566,14 @@
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
+      "score": 176,
+      "reporterScore": 184,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 0,
+        "cgtFocus": 12,
         "visual": 0,
         "international": 9,
         "policy": 0,
@@ -1683,14 +1599,14 @@
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026美加墨世界杯：一场“不能失败”的AI实验” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美禁止外国主体使用安特罗匹克最新AI模型” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI动态",
-      "rawText": "2026年世界杯，正在成为人类历史上规模最大的一场AI实验。",
+      "rawText": "美禁止外国主体使用安特罗匹克最新AI模型,匹克,安特罗,亚马逊,美国政府,人工智能,知名企业",
       "relatedTitles": [
-        "2026美加墨世界杯：一场“不能失败”的AI实验"
+        "美禁止外国主体使用安特罗匹克最新AI模型"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2033,74 +1949,6 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金",
-      "summary": "据彭博社报道，蚂蚁集团正为支付宝引入 AI 智能体交互界面，用户可直接向名为“阿宝”的 AI 助手发出叫车、点外卖等指令，甚至可授权其处理部分理财任务。这标志着支付宝正从工具向 AI 原生平台演进。#支付宝 AI 改版# #AI 智能体#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/964/141.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/964/141.htm"
-      ],
-      "publishedAt": "Sun, 14 Jun 2026 09:20:07 GMT",
-      "date": "2026-06-14",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "据彭博社报道，蚂蚁集团正为支付宝引入 AI 智能体交互界面，用户可直接向名为“阿宝”的 AI 助手发出叫车、点外卖等指令，甚至可授权其处理部分理财任务。这标志着支付宝正从工具向 AI 原生平台演进。#支付宝 AI 改版# #AI 智能体#",
-      "relatedTitles": [
-        "消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场",
       "summary": "Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场，扩充自动驾驶测试网络,美国,原型车,苹果公司,知名企业,亚利桑那州,自动驾驶测试,人驾驶出租车",
@@ -2165,6 +2013,74 @@
       "rawText": "Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场，扩充自动驾驶测试网络,美国,原型车,苹果公司,知名企业,亚利桑那州,自动驾驶测试,人驾驶出租车",
       "relatedTitles": [
         "Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "厨房、卧室、超市等30多个日常场景一应俱全，人",
+      "summary": "厨房、卧室、超市等30多个日常场景一应俱全，人形机器人在这里“高强度实训”,实训,智能机器人,人形机器人",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KVD9RGNH0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KVD9RGNH0534A4SC.html"
+      ],
+      "publishedAt": "2026-06-14",
+      "date": "2026-06-14",
+      "category": "机器人",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 170,
+      "reporterScore": 176,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “厨房、卧室、超市等30多个日常场景一应俱全，人” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "厨房、卧室、超市等30多个日常场景一应俱全，人形机器人在这里“高强度实训”,实训,智能机器人,人形机器人",
+      "relatedTitles": [
+        "厨房、卧室、超市等30多个日常场景一应俱全，人"
       ],
       "isNewSinceLastRun": false
     },
@@ -2373,41 +2289,41 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9jaGluYS5j",
-      "title": "活力中国调研行｜来！看这个机器人的进阶课堂",
-      "summary": "机器人也要“上课”？是的！不学咋进步？机器人也一样。在北京，就有这样一个机器人的进阶课堂。课堂长啥样？请看视频。",
-      "source": "中国日报-科技",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "小马智行第七代 Robotaxi 亮相 2026 重庆国际车展",
+      "summary": "IT之家 6 月 14 日消息，据小马智行官方公众号，小马智行第七代 Robotaxi 及无人驾驶科技展区于 6 月 13 日至 6 月 16 日召开的 2026 重庆国际车展中首次亮相。IT之家注意到，小马智行在今年 4 月的 2026 ...",
+      "source": "新浪科技",
       "sources": [
-        "中国日报-科技"
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://china.chinadaily.com.cn/a/202606/14/WS6a2e5c44a310d709c2fb7e87.html",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5732458.shtml",
       "sourceUrls": [
-        "https://china.chinadaily.com.cn/a/202606/14/WS6a2e5c44a310d709c2fb7e87.html"
+        "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5732458.shtml"
       ],
       "publishedAt": "2026-06-14",
       "date": "2026-06-14",
-      "category": "机器人",
-      "classificationConfidence": 0.75,
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "priority": 5,
-      "score": 158,
-      "reporterScore": 164,
+      "score": 162,
+      "reporterScore": 176,
       "scoreBreakdown": {
-        "hardTech": 90,
+        "hardTech": 85,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 8,
-        "international": 0,
+        "international": 9,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
@@ -2419,26 +2335,26 @@
       "reporterSignals": {
         "primary": false,
         "visual": true,
-        "international": false,
+        "international": true,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
+        "hardTechWeight": 85,
+        "reporterScore": 118
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": true,
-      "hasInternationalValue": false,
+      "hasInternationalValue": true,
       "format": "video",
-      "angle": "Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “活力中国调研行｜来！看这个机器人的进阶课堂” against primary-source evidence.",
+      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “小马智行第七代 Robotaxi 亮相 2026 重庆国际车展” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "机器人动态",
-      "rawText": "机器人也要“上课”？是的！不学咋进步？机器人也一样。在北京，就有这样一个机器人的进阶课堂。课堂长啥样？请看视频。",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "IT之家 6 月 14 日消息，据小马智行官方公众号，小马智行第七代 Robotaxi 及无人驾驶科技展区于 6 月 13 日至 6 月 16 日召开的 2026 重庆国际车展中首次亮相。IT之家注意到，小马智行在今年 4 月的 2026 ...",
       "relatedTitles": [
-        "活力中国调研行｜来！看这个机器人的进阶课堂"
+        "小马智行第七代 Robotaxi 亮相 2026 重庆国际车展"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2575,6 +2491,142 @@
         "Anthropic最强模型被禁，传亚马逊通风报信"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "2026美加墨世界杯：一场“不能失败”的AI实验",
+      "summary": "2026年世界杯，正在成为人类历史上规模最大的一场AI实验。",
+      "source": "光明网-科技",
+      "sources": [
+        "光明网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://tech.gmw.cn/2026-06/14/content_38827466.htm",
+      "sourceUrls": [
+        "https://tech.gmw.cn/2026-06/14/content_38827466.htm"
+      ],
+      "publishedAt": "2026-06-14",
+      "date": "2026-06-14",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026美加墨世界杯：一场“不能失败”的AI实验” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "2026年世界杯，正在成为人类历史上规模最大的一场AI实验。",
+      "relatedTitles": [
+        "2026美加墨世界杯：一场“不能失败”的AI实验"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "诺奖得主克鲁格曼：马斯克是“人形庞氏骗局”，SpaceX 上市让普通投资者被迫买单",
+      "summary": "诺贝尔经济学奖得主克鲁格曼发文，将埃隆 · 马斯克的商业帝国比作“人形庞氏骗局”，认为其财富建立在投资者“信仰”之上，而非真实产品。文章以 SpaceX 上市为例，指出散户投资并非基于商业价值评估，而是盲目相信“马斯克是天才”，最终普通投资者可能被迫为这场资本游戏买单。#马斯克# #庞氏骗局# #SpaceX#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/964/079.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/964/079.htm"
+      ],
+      "publishedAt": "Sun, 14 Jun 2026 07:09:56 GMT",
+      "date": "2026-06-14",
+      "category": "太空与低空",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 154,
+      "reporterScore": 160,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “诺奖得主克鲁格曼：马斯克是“人形庞氏骗局”，SpaceX 上市让普通投资者被迫买单” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "诺贝尔经济学奖得主克鲁格曼发文，将埃隆 · 马斯克的商业帝国比作“人形庞氏骗局”，认为其财富建立在投资者“信仰”之上，而非真实产品。文章以 SpaceX 上市为例，指出散户投资并非基于商业价值评估，而是盲目相信“马斯克是天才”，最终普通投资者可能被迫为这场资本游戏买单。#马斯克# #庞氏骗局# #SpaceX#",
+      "relatedTitles": [
+        "诺奖得主克鲁格曼：马斯克是“人形庞氏骗局”，SpaceX 上市让普通投资者被迫买单"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2917,22 +2969,90 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "诺奖得主克鲁格曼：马斯克是“人形庞氏骗局”，SpaceX 上市让普通投资者被迫买单",
-      "summary": "诺贝尔经济学奖得主克鲁格曼发文，将埃隆 · 马斯克的商业帝国比作“人形庞氏骗局”，认为其财富建立在投资者“信仰”之上，而非真实产品。文章以 SpaceX 上市为例，指出散户投资并非基于商业价值评估，而是盲目相信“马斯克是天才”，最终普通投资者可能被迫为这场资本游戏买单。#马斯克# #庞氏骗局# #SpaceX#",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金",
+      "summary": "据彭博社报道，蚂蚁集团正为支付宝引入 AI 智能体交互界面，用户可直接向名为“阿宝”的 AI 助手发出叫车、点外卖等指令，甚至可授权其处理部分理财任务。这标志着支付宝正从工具向 AI 原生平台演进。#支付宝 AI 改版# #AI 智能体#",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/964/141.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/964/141.htm"
+      ],
+      "publishedAt": "Sun, 14 Jun 2026 09:20:07 GMT",
+      "date": "2026-06-14",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "据彭博社报道，蚂蚁集团正为支付宝引入 AI 智能体交互界面，用户可直接向名为“阿宝”的 AI 助手发出叫车、点外卖等指令，甚至可授权其处理部分理财任务。这标志着支付宝正从工具向 AI 原生平台演进。#支付宝 AI 改版# #AI 智能体#",
+      "relatedTitles": [
+        "消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9jaGluYS5j",
+      "title": "活力中国调研行｜来！看这个机器人的进阶课堂",
+      "summary": "机器人也要“上课”？是的！不学咋进步？机器人也一样。在北京，就有这样一个机器人的进阶课堂。课堂长啥样？请看视频。",
+      "source": "中国日报-科技",
+      "sources": [
+        "中国日报-科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickett0719059.shtml",
+      "url": "https://china.chinadaily.com.cn/a/202606/14/WS6a2e5c44a310d709c2fb7e87.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickett0719059.shtml"
+        "https://china.chinadaily.com.cn/a/202606/14/WS6a2e5c44a310d709c2fb7e87.html"
       ],
       "publishedAt": "2026-06-14",
       "date": "2026-06-14",
-      "category": "太空与低空",
-      "classificationConfidence": 0.7,
+      "category": "机器人",
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2940,7 +3060,7 @@
         "source"
       ],
       "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
       "priority": 5,
       "score": 158,
       "reporterScore": 164,
@@ -2975,80 +3095,12 @@
       "hasVisualValue": true,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “诺奖得主克鲁格曼：马斯克是“人形庞氏骗局”，SpaceX 上市让普通投资者被迫买单” against primary-source evidence.",
+      "angle": "Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “活力中国调研行｜来！看这个机器人的进阶课堂” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "太空与低空动态",
-      "rawText": "IT之家 6 月 14 日消息，2008 年诺贝尔经济学奖得主保罗 · 克鲁格曼前天发文，对特斯拉、SpaceX、xAI 首席执行官埃隆 · 马斯克发表个人评价。克鲁格曼首先描绘了一幅不存在的幻象：“昨天我短途旅行了一趟，首先搭乘本地的 H...",
+      "matchedTopic": "机器人动态",
+      "rawText": "机器人也要“上课”？是的！不学咋进步？机器人也一样。在北京，就有这样一个机器人的进阶课堂。课堂长啥样？请看视频。",
       "relatedTitles": [
-        "诺奖得主克鲁格曼：马斯克是“人形庞氏骗局”，SpaceX 上市让普通投资者被迫买单"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "通用汽车首席产品官：公司目前主攻乘用车自动驾驶技术",
-      "summary": "通用汽车虽然关停了专门负责自动驾驶出租车业务的子公司，但并未退出这场行业竞赛。通用汽车首席产品官斯特林・安德森曾担任特斯拉自动辅助驾驶项目负责人。 他在接受采访时表示，公司目前主攻乘用车自动驾驶技术，未来这套技术也可应用于无人驾驶网...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-14/doc-inickkzt8932707.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-06-14/doc-inickkzt8932707.shtml"
-      ],
-      "publishedAt": "2026-06-14",
-      "date": "2026-06-14",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “通用汽车首席产品官：公司目前主攻乘用车自动驾驶技术” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "通用汽车虽然关停了专门负责自动驾驶出租车业务的子公司，但并未退出这场行业竞赛。通用汽车首席产品官斯特林・安德森曾担任特斯拉自动辅助驾驶项目负责人。 他在接受采访时表示，公司目前主攻乘用车自动驾驶技术，未来这套技术也可应用于无人驾驶网...",
-      "relatedTitles": [
-        "通用汽车首席产品官：公司目前主攻乘用车自动驾驶技术"
+        "活力中国调研行｜来！看这个机器人的进阶课堂"
       ],
       "isNewSinceLastRun": false
     },
@@ -3122,6 +3174,142 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "通用汽车高管斯特林・安德森：公司目前主攻乘用车自动驾驶技术，未来将用于无人驾驶网约车",
+      "summary": "IT之家 6 月 14 日消息，据智通财经今日消息，通用汽车虽然关停了专门负责自动驾驶出租车业务的子公司，但并未退出这场行业竞赛。通用汽车首席产品官斯特林・安德森（IT之家注：Sterling Anderson）曾担任特斯拉自动辅助驾驶项目...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5743443.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5743443.shtml"
+      ],
+      "publishedAt": "2026-06-14",
+      "date": "2026-06-14",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “通用汽车高管斯特林・安德森：公司目前主攻乘用车自动驾驶技术，未来将用于无人驾驶网约车” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "IT之家 6 月 14 日消息，据智通财经今日消息，通用汽车虽然关停了专门负责自动驾驶出租车业务的子公司，但并未退出这场行业竞赛。通用汽车首席产品官斯特林・安德森（IT之家注：Sterling Anderson）曾担任特斯拉自动辅助驾驶项目...",
+      "relatedTitles": [
+        "通用汽车高管斯特林・安德森：公司目前主攻乘用车自动驾驶技术，未来将用于无人驾驶网约车"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "Claude Fable 5四日惊魂",
+      "summary": "Claude Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行 可以长时间执行任务，人类不用经常回来检查它的工作 梦晨 10小时前 Claude AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的 Anthropic新研究实锤了 听雨 2026-05-13 AI Claude Anthropic",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzr0603358.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzr0603358.shtml"
+      ],
+      "publishedAt": "2026-06-14",
+      "date": "2026-06-14",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Claude Fable 5四日惊魂” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "编辑｜Panda从万众期待的「AI 封神时刻」，到美国政府一纸禁令强制下线 —— 这个名字中有 5 的模型，没活过 5 天。让我们先停下来，感受一下这件事的荒诞程度。2026 年 6 月 9 日，Anthropic 将它最强大的模型 Cla...",
+      "relatedTitles": [
+        "Claude Fable 5四日惊魂"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "大量民众反对：美国一季度至少 75 个数据中心建设项目受阻，总价值约 1300 亿美元",
       "summary": "IT之家 6 月 14 日消息，据 Tom's Hardware 报道，数据中心建设正在全美范围内大面积延期。据追踪数据中心发展的研究机构数据中心观察（Data Center Watch）统计，仅在 2026 年第一季度，全美就有至...",
       "source": "新浪科技",
@@ -3185,74 +3373,6 @@
       "rawText": "IT之家 6 月 14 日消息，据 Tom's Hardware 报道，数据中心建设正在全美范围内大面积延期。据追踪数据中心发展的研究机构数据中心观察（Data Center Watch）统计，仅在 2026 年第一季度，全美就有至...",
       "relatedTitles": [
         "大量民众反对：美国一季度至少 75 个数据中心建设项目受阻，总价值约 1300 亿美元"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "Claude Fable 5四日惊魂",
-      "summary": "Claude AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的 Anthropic新研究实锤了 听雨 2026-05-13 AI Claude Anthropic出手！AI的内心独白，曝光了 原来Claude早就识破了人类的套路（doge） 一水 2026-05-08 Claude Claude终于认了！降智坐实，越",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzr0603358.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzr0603358.shtml"
-      ],
-      "publishedAt": "2026-06-14",
-      "date": "2026-06-14",
-      "category": "AI",
-      "classificationConfidence": 0.96,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Claude Fable 5四日惊魂” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "编辑｜Panda从万众期待的「AI 封神时刻」，到美国政府一纸禁令强制下线 —— 这个名字中有 5 的模型，没活过 5 天。让我们先停下来，感受一下这件事的荒诞程度。2026 年 6 月 9 日，Anthropic 将它最强大的模型 Cla...",
-      "relatedTitles": [
-        "Claude Fable 5四日惊魂"
       ],
       "isNewSinceLastRun": false
     },
@@ -3934,6 +4054,73 @@
       "rawText": "车圈最新认知 “豆包汽车”，目标市场10万-20万 国资入主，赛力斯让权 杰西卡 1小时前 火山引擎 赛力斯 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 2026-05-25 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 39万！雷军发布小米最贵SUV 特斯拉前厂长宋钢加盟后首秀 杰西卡 2026-05-22 小米YU7 GT 小米汽车 车圈最新认知 百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了 落地全球27城 杰西卡 2026-05-19 穿透财报招股书 萝卜快跑 车圈最新认知 15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点” 共享蔚来超8800座充换电站 杰西卡 2026-05-16 乐道L80 蔚来 车圈最新认知 Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 2026-05-14 文远知行 无人车往哪里开？ 车圈最",
       "relatedTitles": [
         "车圈最新认知"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "无人车往哪里开？",
+      "summary": "无人车往哪里开？ Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 前天 16:41 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "新能源车",
+      "classificationConfidence": 0.89,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 136,
+      "reporterScore": 158,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “无人车往哪里开？” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "无人车往哪里开？ Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 前天 16:41 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年底每分钟接99单 杰西卡 2026-02-14 Waymo 无人车往哪里开？ 车圈最新认知 怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾 网络横跨半个地球 杰西卡 2026-02-09 Waymo 无人车往哪里开？ 车圈最新认知 中东Robotaxi进入“千辆时代”，文远知行携手Uber刷新区域纪录 单车日均可完成数十次出行订单，已实现盈利 量子位 2026-02-06 无人车往哪里开？ 智能车真high 自动驾驶 Waymo遭遇鬼探头，Robotaxi在校门口把儿童给撞了 复盘坚称人类驾驶后果更严重 杰西卡 2026-01-30 Waymo 无人车往哪里开？ 车圈最新认知 刚刚，菜鸟无人车队并入九识！ RoboVan车队突破2万辆，跑通商业化闭环 杰西卡 20",
+      "relatedTitles": [
+        "无人车往哪里开？"
       ]
     },
     {
@@ -5009,73 +5196,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "无人车往哪里开？ 东风联手九识",
-      "summary": "无人车往哪里开？ 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 3小时前 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “卡车界特",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "新能源车",
-      "classificationConfidence": 0.76,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 4,
-      "score": 119,
-      "reporterScore": 125,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 93
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “无人车往哪里开？ 东风联手九识” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "无人车往哪里开？ 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 3小时前 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 2026-05-25 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 2026-05-14 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年底每分钟接99单 杰西卡 2026-02-14 Waymo 无人车往哪里",
-      "relatedTitles": [
-        "无人车往哪里开？ 东风联手九识"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "SpaceX上市，到底是在创造奇迹还是在制造泡沫？",
       "summary": "SpaceX上市，到底是在创造奇迹还是在制造泡沫？",
@@ -5852,8 +5972,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-14｜V3\n生成时间：2026/6/14 17:37:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2500｜确认今日 41｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 33 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-14] 加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/stock/usstock/c/2026-06-14/doc-iniciymw7546579.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀” against primary-source evidence.\n\n2. [2026-06-14] 机器人伴侣仅限成人购买使用：内置养成系专属情感大模型\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzt8947673.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人伴侣仅限成人购买使用：内置养成系专属情感大模型” against primary-source evidence.\n\n3. [2026-06-14] 微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzt8941446.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射” against primary-source evidence.\n\n4. [2026-06-14] 全球首条！百万片级体全息光波导自动化产线在津投产\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicketx5825380.shtml\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “全球首条！百万片级体全息光波导自动化产线在津投产” against primary-source evidence.\n\n5. [2026-06-14] 美禁止外国主体使用安特罗匹克最新AI模型\n   网易科技｜2026-06-14｜https://www.163.com/dy/article/KVDBRLOE0534A4SC.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美禁止外国主体使用安特罗匹克最新AI模型” against primary-source evidence.\n\n本次新增线索：\n- 机器人伴侣仅限成人购买使用：内置养成系专属情感大模型｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzt8947673.shtml\n- 美禁止外国主体使用安特罗匹克最新AI模型｜网易科技｜https://www.163.com/dy/article/KVDBRLOE0534A4SC.html\n- 厨房、卧室、超市等30多个日常场景一应俱全，人｜网易科技｜https://www.163.com/dy/article/KVD9RGNH0534A4SC.html\n- 小马智行第七代 Robotaxi 亮相 2026 重庆国际车展｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5732458.shtml\n- 2026美加墨世界杯：一场“不能失败”的AI实验｜光明网-科技｜https://tech.gmw.cn/2026-06/14/content_38827466.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（4 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\n2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\n3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n5. As Anthropic suspends access to new models, India debates its AI future｜TechCrunch｜https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-14｜V3\n生成时间：2026/6/14 17:37:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2500｜确认今日 41｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 33 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-14] 加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/stock/usstock/c/2026-06-14/doc-iniciymw7546579.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀” against primary-source evidence.\n\n2. [2026-06-14] 机器人伴侣仅限成人购买使用：内置养成系专属情感大模型\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzt8947673.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人伴侣仅限成人购买使用：内置养成系专属情感大模型” against primary-source evidence.\n\n3. [2026-06-14] 微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzt8941446.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射” against primary-source evidence.\n\n4. [2026-06-14] 全球首条！百万片级体全息光波导自动化产线在津投产\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicketx5825380.shtml\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “全球首条！百万片级体全息光波导自动化产线在津投产” against primary-source evidence.\n\n5. [2026-06-14] 美禁止外国主体使用安特罗匹克最新AI模型\n   网易科技｜2026-06-14｜https://www.163.com/dy/article/KVDBRLOE0534A4SC.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美禁止外国主体使用安特罗匹克最新AI模型” against primary-source evidence.\n\n本次新增线索：\n- 机器人伴侣仅限成人购买使用：内置养成系专属情感大模型｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzt8947673.shtml\n- 美禁止外国主体使用安特罗匹克最新AI模型｜网易科技｜https://www.163.com/dy/article/KVDBRLOE0534A4SC.html\n- 厨房、卧室、超市等30多个日常场景一应俱全，人｜网易科技｜https://www.163.com/dy/article/KVD9RGNH0534A4SC.html\n- 小马智行第七代 Robotaxi 亮相 2026 重庆国际车展｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5732458.shtml\n- 2026美加墨世界杯：一场“不能失败”的AI实验｜光明网-科技｜https://tech.gmw.cn/2026-06/14/content_38827466.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（4 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\n2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\n3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n5. As Anthropic suspends access to new models, India debates its AI future｜TechCrunch｜https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-14｜生成时间：2026/6/14 17:37:12｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2500｜确认今日 41｜国际背景 20</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 8 条｜国际 0 条<br>延续跟踪线索：国内 33 条｜国际 20 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-14] 加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-14/doc-iniciymw7546579.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-14] 机器人伴侣仅限成人购买使用：内置养成系专属情感大模型</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzt8947673.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人伴侣仅限成人购买使用：内置养成系专属情感大模型” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-14] 微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzt8941446.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-14] 全球首条！百万片级体全息光波导自动化产线在津投产</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicketx5825380.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “全球首条！百万片级体全息光波导自动化产线在津投产” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-14] 美禁止外国主体使用安特罗匹克最新AI模型</strong>\n      <span>网易科技｜2026-06-14｜<a href=\"https://www.163.com/dy/article/KVDBRLOE0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美禁止外国主体使用安特罗匹克最新AI模型” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google</strong>\n      <span>时间：Fri, 12 Jun 2026 20:38:09 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Chinese cybercrime operation that used AI to scam ‘hundreds of thousands” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops</strong>\n      <span>时间：Fri, 12 Jun 2026 14:14:02 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google fires sueball at alleged Chinese phishers over AI-powered fraud o” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order</strong>\n      <span>时间：Sat, 13 Jun 2026 02:26:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Gove” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet</strong>\n      <span>时间：Thu, 11 Jun 2026 21:21:04 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. As Anthropic suspends access to new models, India debates its AI future</strong>\n      <span>时间：Sun, 14 Jun 2026 03:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “As Anthropic suspends access to new models, India debates its AI future” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/14 17:37:12\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 33 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-14] 加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-14/doc-iniciymw7546579.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀” against primary-source evidence.\n\n2. [2026-06-14] 机器人伴侣仅限成人购买使用：内置养成系专属情感大模型\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzt8947673.shtml\n   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人伴侣仅限成人购买使用：内置养成系专属情感大模型” against primary-source evidence.\n\n3. [2026-06-14] 微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzt8941446.shtml\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射” against primary-source evidence.\n\n4. [2026-06-14] 全球首条！百万片级体全息光波导自动化产线在津投产\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicketx5825380.shtml\n   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “全球首条！百万片级体全息光波导自动化产线在津投产” against primary-source evidence.\n\n5. [2026-06-14] 美禁止外国主体使用安特罗匹克最新AI模型\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KVDBRLOE0534A4SC.html\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美禁止外国主体使用安特罗匹克最新AI模型” against primary-source evidence.\n\n本次新增线索：\n- 机器人伴侣仅限成人购买使用：内置养成系专属情感大模型｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzt8947673.shtml\n- 美禁止外国主体使用安特罗匹克最新AI模型｜网易科技｜https://www.163.com/dy/article/KVDBRLOE0534A4SC.html\n- 厨房、卧室、超市等30多个日常场景一应俱全，人｜网易科技｜https://www.163.com/dy/article/KVD9RGNH0534A4SC.html\n- 小马智行第七代 Robotaxi 亮相 2026 重庆国际车展｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5732458.shtml\n- 2026美加墨世界杯：一场“不能失败”的AI实验｜光明网-科技｜https://tech.gmw.cn/2026-06/14/content_38827466.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（4 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\n2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\n3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n5. As Anthropic suspends access to new models, India debates its AI future｜TechCrunch｜https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-14｜V3\n生成时间：2026/6/14 17:57:26\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2484｜确认今日 42｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 39 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-14] 加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/stock/usstock/c/2026-06-14/doc-iniciymw7546579.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀” against primary-source evidence.\n\n2. [2026-06-14] 微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzt8941446.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射” against primary-source evidence.\n\n3. [2026-06-14] 全球首条！百万片级体全息光波导自动化产线在津投产\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicketx5825380.shtml\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “全球首条！百万片级体全息光波导自动化产线在津投产” against primary-source evidence.\n\n4. [2026-06-14] 中国工业机器人全球出圈，全球每卖 3 台“码垛机”1 台出自东莞\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzt8933521.shtml\n   报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “中国工业机器人全球出圈，全球每卖 3 台“码垛机”1 台出自东莞” against primary-source evidence.\n\n5. [03:55] 马斯克：特斯拉 AI6 芯片有望创下单块晶圆可用算力的纪录\n   IT之家｜2026-06-14｜https://www.ithome.com/0/964/051.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “马斯克：特斯拉 AI6 芯片有望创下单块晶圆可用算力的纪录” against primary-source evidence.\n\n本次新增线索：\n- 存储芯片需求高涨！SK海力士去年新增员工超2000人｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzr0636614.shtml\n- 诺奖得主克鲁格曼：马斯克是“人形庞氏骗局”，SpaceX 上市让普通投资者被迫买单｜IT之家｜https://www.ithome.com/0/964/079.htm\n- 通用汽车高管斯特林・安德森：公司目前主攻乘用车自动驾驶技术，未来将用于无人驾驶网约车｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5743443.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（4 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\n2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\n3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n5. As Anthropic suspends access to new models, India debates its AI future｜TechCrunch｜https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-14｜V3\n生成时间：2026/6/14 17:57:26\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2484｜确认今日 42｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 39 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-14] 加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/stock/usstock/c/2026-06-14/doc-iniciymw7546579.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀” against primary-source evidence.\n\n2. [2026-06-14] 微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzt8941446.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射” against primary-source evidence.\n\n3. [2026-06-14] 全球首条！百万片级体全息光波导自动化产线在津投产\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicketx5825380.shtml\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “全球首条！百万片级体全息光波导自动化产线在津投产” against primary-source evidence.\n\n4. [2026-06-14] 中国工业机器人全球出圈，全球每卖 3 台“码垛机”1 台出自东莞\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzt8933521.shtml\n   报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “中国工业机器人全球出圈，全球每卖 3 台“码垛机”1 台出自东莞” against primary-source evidence.\n\n5. [03:55] 马斯克：特斯拉 AI6 芯片有望创下单块晶圆可用算力的纪录\n   IT之家｜2026-06-14｜https://www.ithome.com/0/964/051.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “马斯克：特斯拉 AI6 芯片有望创下单块晶圆可用算力的纪录” against primary-source evidence.\n\n本次新增线索：\n- 存储芯片需求高涨！SK海力士去年新增员工超2000人｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzr0636614.shtml\n- 诺奖得主克鲁格曼：马斯克是“人形庞氏骗局”，SpaceX 上市让普通投资者被迫买单｜IT之家｜https://www.ithome.com/0/964/079.htm\n- 通用汽车高管斯特林・安德森：公司目前主攻乘用车自动驾驶技术，未来将用于无人驾驶网约车｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5743443.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（4 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\n2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\n3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n5. As Anthropic suspends access to new models, India debates its AI future｜TechCrunch｜https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-14｜生成时间：2026/6/14 17:57:26｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2484｜确认今日 42｜国际背景 20</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 39 条｜国际 20 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-14] 加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-14/doc-iniciymw7546579.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-14] 微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzt8941446.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-14] 全球首条！百万片级体全息光波导自动化产线在津投产</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicketx5825380.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “全球首条！百万片级体全息光波导自动化产线在津投产” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-14] 中国工业机器人全球出圈，全球每卖 3 台“码垛机”1 台出自东莞</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzt8933521.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “中国工业机器人全球出圈，全球每卖 3 台“码垛机”1 台出自东莞” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [03:55] 马斯克：特斯拉 AI6 芯片有望创下单块晶圆可用算力的纪录</strong>\n      <span>IT之家｜2026-06-14｜<a href=\"https://www.ithome.com/0/964/051.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：193｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “马斯克：特斯拉 AI6 芯片有望创下单块晶圆可用算力的纪录” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google</strong>\n      <span>时间：Fri, 12 Jun 2026 20:38:09 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Chinese cybercrime operation that used AI to scam ‘hundreds of thousands” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops</strong>\n      <span>时间：Fri, 12 Jun 2026 14:14:02 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google fires sueball at alleged Chinese phishers over AI-powered fraud o” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order</strong>\n      <span>时间：Sat, 13 Jun 2026 02:26:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Gove” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet</strong>\n      <span>时间：Thu, 11 Jun 2026 21:21:04 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. As Anthropic suspends access to new models, India debates its AI future</strong>\n      <span>时间：Sun, 14 Jun 2026 03:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “As Anthropic suspends access to new models, India debates its AI future” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/14 17:57:26\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 39 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-14] 加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-14/doc-iniciymw7546579.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “加拿大母亲起诉奥特曼与OpenAI 指控ChatGPT诱导女儿自杀” against primary-source evidence.\n\n2. [2026-06-14] 微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzt8941446.shtml\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “微纳星空 6 颗“东坡”系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射” against primary-source evidence.\n\n3. [2026-06-14] 全球首条！百万片级体全息光波导自动化产线在津投产\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicketx5825380.shtml\n   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “全球首条！百万片级体全息光波导自动化产线在津投产” against primary-source evidence.\n\n4. [2026-06-14] 中国工业机器人全球出圈，全球每卖 3 台“码垛机”1 台出自东莞\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzt8933521.shtml\n   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “中国工业机器人全球出圈，全球每卖 3 台“码垛机”1 台出自东莞” against primary-source evidence.\n\n5. [03:55] 马斯克：特斯拉 AI6 芯片有望创下单块晶圆可用算力的纪录\n   来源：IT之家\n   链接：https://www.ithome.com/0/964/051.htm\n   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “马斯克：特斯拉 AI6 芯片有望创下单块晶圆可用算力的纪录” against primary-source evidence.\n\n本次新增线索：\n- 存储芯片需求高涨！SK海力士去年新增员工超2000人｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inickkzr0636614.shtml\n- 诺奖得主克鲁格曼：马斯克是“人形庞氏骗局”，SpaceX 上市让普通投资者被迫买单｜IT之家｜https://www.ithome.com/0/964/079.htm\n- 通用汽车高管斯特林・安德森：公司目前主攻乘用车自动驾驶技术，未来将用于无人驾驶网约车｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inickkzv5743443.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（4 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\n2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\n3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n5. As Anthropic suspends access to new models, India debates its AI future｜TechCrunch｜https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
