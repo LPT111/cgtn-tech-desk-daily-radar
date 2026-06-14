@@ -1,32 +1,37 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-06-14T00:18:26.283Z",
+  "generatedAt": "2026-06-14T01:39:03.870Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-14",
   "changeSummary": {
-    "domesticNew": 4,
+    "domesticNew": 7,
     "globalNew": 0,
-    "domesticContinued": 9,
+    "domesticContinued": 8,
     "globalContinued": 18,
     "topNewDomestic": [
       {
-        "title": "Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KVCAR09K0534A4SC.html"
+        "title": "王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-iniciuec5931764.shtml"
       },
       {
-        "title": "三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwc9252606.shtml"
+        "title": "Anthropic最强模型被禁，传亚马逊通风报信",
+        "source": "网易科技",
+        "url": "https://www.163.com/tech/article/KVCCNF9R00097U7T.html"
       },
       {
         "title": "苹果提交无人机集群网络优化专利，解决机群通信拥堵难题",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/964/002.htm"
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwa7709265.shtml"
       },
       {
         "title": "原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/964/000.htm"
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwf6044957.shtml"
+      },
+      {
+        "title": "雷军直播为啥选盐城测试 小米汽车：赛道硬、数据真实、路面够全",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicipwc9243091.shtml"
       }
     ],
     "topNewGlobal": [],
@@ -36,7 +41,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 887,
+    "domesticRejected": 885,
     "globalRejected": 882,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -51,7 +56,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 27,
   "failedSources": [
     {
       "name": "财联社",
@@ -64,6 +69,16 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -72,6 +87,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -91,6 +111,16 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -99,6 +129,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -110,7 +145,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 182,
+      "parsed": 176,
       "failed": false,
       "optional": false
     },
@@ -216,7 +251,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学报",
       "tier": "research",
-      "parsed": 114,
+      "parsed": 112,
       "failed": false,
       "optional": false
     },
@@ -274,14 +309,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -324,8 +361,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -358,18 +396,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1378,
+  "itemsSeen": 1309,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 346,
-  "itemsAfterDedupe": 231,
-  "todayItemsSeen": 13,
-  "suspectedItemsSeen": 20,
-  "skippedNonToday": 199,
+  "itemsAfterRelevantFilter": 330,
+  "itemsAfterDedupe": 223,
+  "todayItemsSeen": 15,
+  "suspectedItemsSeen": 22,
+  "skippedNonToday": 186,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 182,
+      "parsed": 176,
       "failed": false,
       "optional": false
     },
@@ -475,7 +513,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学报",
       "tier": "research",
-      "parsed": 114,
+      "parsed": 112,
       "failed": false,
       "optional": false
     },
@@ -533,14 +571,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -583,8 +623,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -781,6 +822,16 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -789,6 +840,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -817,21 +873,48 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1214,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 128,
+  "globalItemsAfterRelevantFilter": 127,
   "topics": [
     {
       "topic": "新能源车动态",
-      "count": 4,
+      "count": 5,
       "sourceCount": 2,
       "sources": [
-        "IT之家",
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市",
+        "原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键",
+        "雷军直播为啥选盐城测试 小米汽车：赛道硬、数据真实、路面够全",
+        "油车真要被淘汰节奏！蔚来CEO李斌：国内纯电车渗透率已超油车 趋势不可逆转只会加速",
+        "IT早报 0614：一季度国内汽车行业利润率降至历史新低 3.2%；JetBrains IDE 适配鸿蒙；张雪机车夺取赛季第 6 冠；华为鸿蒙 NEXT 座舱预计年底商用"
+      ]
+    },
+    {
+      "topic": "AI 应用与智能体",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
         "新浪科技"
       ],
       "items": [
-        "原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键",
-        "小米汽车回应“YU7 GT 极速 300km/h 的意义”：带来更高的工程冗余，在日常行驶中有更高可靠性和稳定性",
-        "油车真要被淘汰节奏！蔚来CEO李斌：国内纯电车渗透率已超油车 趋势不可逆转只会加速",
-        "IT早报 0614：一季度国内汽车行业利润率降至历史新低 3.2%；JetBrains IDE 适配鸿蒙；张雪机车夺取赛季第 6 冠；华为鸿蒙 NEXT 座舱预计年底商用"
+        "Anthropic最强模型被禁，传亚马逊通风报信",
+        "谷歌推出搜索智能体功能，可主动帮你盯全网信息"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场",
+        "蔚来李斌：今年预期有机会实现 40% 到 50% 的增长"
       ]
     },
     {
@@ -848,36 +931,26 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "国家科技战略与监管",
-      "count": 1,
+      "topic": "AI动态",
+      "count": 2,
       "sourceCount": 1,
       "sources": [
-        "IT之家"
+        "新浪科技"
       ],
       "items": [
-        "让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊"
+        "强制抽调员工组建 AI 团队，Meta 内部怨声载道",
+        "百度疑似降权AI搜索结果，链接又优先了"
       ]
     },
     {
-      "topic": "人形机器人与具身智能",
+      "topic": "低空经济与无人机",
       "count": 1,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "颜值如何！全尺寸“机器人伴侣”热卖 10天预售3800台：男款身着修身西装 女款可上妆"
-      ]
-    },
-    {
-      "topic": "新能源车与智能驾驶",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场"
+        "苹果提交无人机集群网络优化专利，解决机群通信拥堵难题"
       ]
     },
     {
@@ -890,144 +963,43 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题"
       ]
-    },
-    {
-      "topic": "低空经济与无人机",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "苹果提交无人机集群网络优化专利，解决机群通信拥堵难题"
-      ]
-    },
-    {
-      "topic": "AI动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "强制抽调员工组建 AI 团队，Meta 内部怨声载道"
-      ]
-    },
-    {
-      "topic": "AI 应用与智能体",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "谷歌推出搜索智能体功能，可主动帮你盯全网信息"
-      ]
     }
   ],
   "leads": [
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊",
-      "summary": "亚马逊 CEO 向美国政府报告，其研究人员发现 Anthropic 的 Claude Fable 5 模型存在可被用于网络攻击的漏洞，导致美国政府对 Fable 5 和 Mythos 5 下达出口管制禁令，并引发全球停用。事件凸显了前沿 AI 模型的安全风险与监管挑战。#AI 安全##Anthropic#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/963/991.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/963/991.htm"
-      ],
-      "publishedAt": "Sat, 13 Jun 2026 22:52:46 GMT",
-      "date": "2026-06-14",
-      "category": "AI",
-      "classificationConfidence": 0.88,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 180,
-      "reporterScore": 196,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 130
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国家科技战略与监管",
-      "rawText": "亚马逊 CEO 向美国政府报告，其研究人员发现 Anthropic 的 Claude Fable 5 模型存在可被用于网络攻击的漏洞，导致美国政府对 Fable 5 和 Mythos 5 下达出口管制禁令，并引发全球停用。事件凸显了前沿 AI 模型的安全风险与监管挑战。#AI 安全##Anthropic#",
-      "relatedTitles": [
-        "让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "颜值如何！全尺寸“机器人伴侣”热卖 10天预售3800台：男款身着修身西装 女款可上妆",
-      "summary": "快科技6月13日消息，主打情感陪伴属性的超仿生人形机器人U1正式上线才短短10天，就给优必选带来了超过3800台的预售订单，累计收取的可退定金总额已经突破千万元。这次开放预定的U1系列一共推出了男女两款不同的仿生人形机型，单台预定定金设置为...",
+      "title": "王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市",
+      "summary": "IT之家 6 月 14 日消息，比亚迪王朝网销售事业部总经理路天昨晚宣布，大唐上市发布会正式定档 6 月 17 日，相约西安。据其透露，发布会现场还有一位重磅神秘嘉宾，跟盛唐渊源很深，含“唐”量也很高。IT之家注意到，比亚迪大唐 EV 已经...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inichwye9196596.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-iniciuec5931764.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inichwye9196596.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-iniciuec5931764.shtml"
       ],
       "publishedAt": "2026-06-14",
       "date": "2026-06-14",
-      "category": "机器人",
-      "classificationConfidence": 0.99,
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "priority": 5,
-      "score": 178,
-      "reporterScore": 192,
+      "score": 161,
+      "reporterScore": 175,
       "scoreBreakdown": {
-        "hardTech": 90,
+        "hardTech": 85,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
         "visual": 8,
         "international": 0,
         "policy": 0,
@@ -1045,22 +1017,90 @@ window.CHENCHEN_DAILY_DATA = {
         "interview": true,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
+        "hardTechWeight": 85,
+        "reporterScore": 118
       },
       "isPrimarySource": false,
       "hasInterviewValue": true,
       "hasVisualValue": true,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “颜值如何！全尺寸“机器人伴侣”热卖 10天预售3800台：男款身着修身西装 女款可上妆” against primary-source evidence.",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "快科技6月13日消息，主打情感陪伴属性的超仿生人形机器人U1正式上线才短短10天，就给优必选带来了超过3800台的预售订单，累计收取的可退定金总额已经突破千万元。这次开放预定的U1系列一共推出了男女两款不同的仿生人形机型，单台预定定金设置为...",
+      "matchedTopic": "新能源车动态",
+      "rawText": "IT之家 6 月 14 日消息，比亚迪王朝网销售事业部总经理路天昨晚宣布，大唐上市发布会正式定档 6 月 17 日，相约西安。据其透露，发布会现场还有一位重磅神秘嘉宾，跟盛唐渊源很深，含“唐”量也很高。IT之家注意到，比亚迪大唐 EV 已经...",
       "relatedTitles": [
-        "颜值如何！全尺寸“机器人伴侣”热卖 10天预售3800台：男款身着修身西装 女款可上妆"
+        "王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市"
       ],
-      "isNewSinceLastRun": false
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "Anthropic最强模型被禁，传亚马逊通风报信",
+      "summary": "Anthropic最强模型突遭封禁，亚马逊被指通风报信,亚马逊,特朗普,anthropic,美国政府,政府",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/tech/article/KVCCNF9R00097U7T.html",
+      "sourceUrls": [
+        "https://www.163.com/tech/article/KVCCNF9R00097U7T.html"
+      ],
+      "publishedAt": "2026-06-14",
+      "date": "2026-06-14",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic最强模型被禁，传亚马逊通风报信” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "Anthropic最强模型突遭封禁，亚马逊被指通风报信,亚马逊,特朗普,anthropic,美国政府,政府",
+      "relatedTitles": [
+        "Anthropic最强模型被禁，传亚马逊通风报信"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1127,6 +1167,210 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场，扩充自动驾驶测试网络,美国,原型车,苹果公司,知名企业,亚利桑那州,自动驾驶测试,人驾驶出租车",
       "relatedTitles": [
         "Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "苹果提交无人机集群网络优化专利，解决机群通信拥堵难题",
+      "summary": "IT之家 6 月 14 日消息，苹果公司或许已经搁置了打造苹果汽车的宏大构想，但这家总部位于库比蒂诺的科技巨头近期提交的一份专利申请暗示，该项目的研发理念与精神，如今延续到了一项机密无人机项目当中。苹果此次提交的专利申请，旨在解决无人机集群...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwa7709265.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwa7709265.shtml"
+      ],
+      "publishedAt": "2026-06-14",
+      "date": "2026-06-14",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 164,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “苹果提交无人机集群网络优化专利，解决机群通信拥堵难题” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "低空经济与无人机",
+      "rawText": "IT之家 6 月 14 日消息，苹果公司或许已经搁置了打造苹果汽车的宏大构想，但这家总部位于库比蒂诺的科技巨头近期提交的一份专利申请暗示，该项目的研发理念与精神，如今延续到了一项机密无人机项目当中。苹果此次提交的专利申请，旨在解决无人机集群...",
+      "relatedTitles": [
+        "苹果提交无人机集群网络优化专利，解决机群通信拥堵难题"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键",
+      "summary": "IT之家 6 月 14 日消息，据新浪汽车报道，6 月 13 日，在 2026 中国汽车重庆论坛上，小米汽车部副总裁、参谋长宋钢发表演讲，这也是宋钢首次代表小米发言。宋钢在演讲中表示，提到汽车制造与供应链，很多人会联想到传统生产流水线、工业...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwf6044957.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwf6044957.shtml"
+      ],
+      "publishedAt": "2026-06-14",
+      "date": "2026-06-14",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 154,
+      "reporterScore": 162,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "IT之家 6 月 14 日消息，据新浪汽车报道，6 月 13 日，在 2026 中国汽车重庆论坛上，小米汽车部副总裁、参谋长宋钢发表演讲，这也是宋钢首次代表小米发言。宋钢在演讲中表示，提到汽车制造与供应链，很多人会联想到传统生产流水线、工业...",
+      "relatedTitles": [
+        "原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "雷军直播为啥选盐城测试 小米汽车：赛道硬、数据真实、路面够全",
+      "summary": "快科技6月14日消息，日前，小米CEO雷军在盐城试验场完成小米YU7测试直播，围绕极速测试、安全辅助功能测试等项目，对车辆进行了8大测试。直播结束后，针对外界关注的“为何选择盐城试验场进行直播测试”，小米汽车也作出回应。小米汽车表示，盐城试...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicipwc9243091.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicipwc9243091.shtml"
+      ],
+      "publishedAt": "2026-06-14",
+      "date": "2026-06-14",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “雷军直播为啥选盐城测试 小米汽车：赛道硬、数据真实、路面够全” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "快科技6月14日消息，日前，小米CEO雷军在盐城试验场完成小米YU7测试直播，围绕极速测试、安全辅助功能测试等项目，对车辆进行了8大测试。直播结束后，针对外界关注的“为何选择盐城试验场进行直播测试”，小米汽车也作出回应。小米汽车表示，盐城试...",
+      "relatedTitles": [
+        "雷军直播为啥选盐城测试 小米汽车：赛道硬、数据真实、路面够全"
       ],
       "isNewSinceLastRun": true
     },
@@ -1196,143 +1440,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "苹果提交无人机集群网络优化专利，解决机群通信拥堵难题",
-      "summary": "苹果公司一项新专利瞄准无人机集群通信的核心痛点：数据上传造成的网络拥堵。专利提出三种优化方案，通过精简上传内容、设置触发阈值和统一告警机制，大幅降低信令开销，为未来大规模无人机应用铺平道路。#科技专利# #无人机#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/964/002.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/964/002.htm"
-      ],
-      "publishedAt": "Sun, 14 Jun 2026 00:07:05 GMT",
-      "date": "2026-06-14",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "priority": 5,
-      "score": 154,
-      "reporterScore": 160,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use urban services, logistics, safety and regulation to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “苹果提交无人机集群网络优化专利，解决机群通信拥堵难题” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "低空经济与无人机",
-      "rawText": "苹果公司一项新专利瞄准无人机集群通信的核心痛点：数据上传造成的网络拥堵。专利提出三种优化方案，通过精简上传内容、设置触发阈值和统一告警机制，大幅降低信令开销，为未来大规模无人机应用铺平道路。#科技专利# #无人机#",
-      "relatedTitles": [
-        "苹果提交无人机集群网络优化专利，解决机群通信拥堵难题"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键",
-      "summary": "小米汽车副总裁宋钢在 2026 中国汽车重庆论坛上首次代表小米发言。他指出，汽车行业逻辑已变，特斯拉真正的护城河在于其强大的制造能力，这使其能快速响应新技术落地。他强调，制造与供应链也是小米汽车稳步前行的支柱。#小米汽车# #特斯拉#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/964/000.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/964/000.htm"
-      ],
-      "publishedAt": "Sat, 13 Jun 2026 23:56:32 GMT",
-      "date": "2026-06-14",
-      "category": "新能源车",
-      "classificationConfidence": 0.88,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 158,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "小米汽车副总裁宋钢在 2026 中国汽车重庆论坛上首次代表小米发言。他指出，汽车行业逻辑已变，特斯拉真正的护城河在于其强大的制造能力，这使其能快速响应新技术落地。他强调，制造与供应链也是小米汽车稳步前行的支柱。#小米汽车# #特斯拉#",
-      "relatedTitles": [
-        "原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1404,6 +1512,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "百度疑似降权AI搜索结果，链接又优先了",
+      "summary": "6月14日消息，百度搜索疑似对AI结果权重进行了调整。举个例子，此前搜啥信息，都会给你一个信息综合框的AI分析结果，首屏一大片，而且速度不快，你想进入网页需要下拉到第二屏才可以。现在自然网页搜索结果排名第一了。比如你搜索最近热门人物周靖人。...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicipvz0934112.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicipvz0934112.shtml"
+      ],
+      "publishedAt": "2026-06-14",
+      "date": "2026-06-14",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “百度疑似降权AI搜索结果，链接又优先了” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "6月14日消息，百度搜索疑似对AI结果权重进行了调整。举个例子，此前搜啥信息，都会给你一个信息综合框的AI分析结果，首屏一大片，而且速度不快，你想进入网页需要下拉到第二屏才可以。现在自然网页搜索结果排名第一了。比如你搜索最近热门人物周靖人。...",
+      "relatedTitles": [
+        "百度疑似降权AI搜索结果，链接又优先了"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "携程被罚1000万：违法向境外提供个人信息",
       "summary": "【TechWeb】6月14日消息，上海市互联网信息办公室发布最新执法通报，在国家互联网信息办公室的统一指导下，近期上海市网信办对属地多家存在数据安全隐患的互联网企业开展了集中执法行动。其中，上海携程商务有限公司因未按规定履行数据出境安全评估...",
       "source": "新浪科技",
@@ -1467,74 +1643,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "【TechWeb】6月14日消息，上海市互联网信息办公室发布最新执法通报，在国家互联网信息办公室的统一指导下，近期上海市网信办对属地多家存在数据安全隐患的互联网企业开展了集中执法行动。其中，上海携程商务有限公司因未按规定履行数据出境安全评估...",
       "relatedTitles": [
         "携程被罚1000万：违法向境外提供个人信息"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "小米汽车回应“YU7 GT 极速 300km/h 的意义”：带来更高的工程冗余，在日常行驶中有更高可靠性和稳定性",
-      "summary": "IT之家 6 月 14 日消息，小米汽车昨晚发布小米汽车答网友问（第 257 集），回答了“YU7 GT 高环测试极速能跑 300km/h，对我们日常驾车有啥意义？”等问题。小米汽车表示，极速能力的表现，核心是整车底盘、电池、电驱、热管理等...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwc9244016.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwc9244016.shtml"
-      ],
-      "publishedAt": "2026-06-14",
-      "date": "2026-06-14",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Move beyond launch coverage by testing battery innovation and infrastructure, cost, reliability and consumer value. For this item, test the claim behind “小米汽车回应“YU7 GT 极速 300km/h 的意义”：带来更高的工程冗余，在日常行驶中有更高可靠性和稳定性” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "IT之家 6 月 14 日消息，小米汽车昨晚发布小米汽车答网友问（第 257 集），回答了“YU7 GT 高环测试极速能跑 300km/h，对我们日常驾车有啥意义？”等问题。小米汽车表示，极速能力的表现，核心是整车底盘、电池、电驱、热管理等...",
-      "relatedTitles": [
-        "小米汽车回应“YU7 GT 极速 300km/h 的意义”：带来更高的工程冗余，在日常行驶中有更高可靠性和稳定性"
       ],
       "isNewSinceLastRun": false
     },
@@ -1605,6 +1713,74 @@ window.CHENCHEN_DAILY_DATA = {
         "美国 FBI 建仿真城镇练兵：模拟网络攻击，培训执法人员应对现实威胁"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "蔚来李斌：今年预期有机会实现 40% 到 50% 的增长",
+      "summary": "蔚来 CEO 李斌在重庆论坛上表示，公司自去年下半年进入新增长周期，今年预期销量增长 40%-50%，主要得益于“纯电拐点”判断准确。同时，他指出汽车市场已告别高速增量期，进入存量竞争最残酷的决赛阶段，考验车企全方位运营能力。#蔚来##新能源汽车#",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipvz0944876.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipvz0944876.shtml"
+      ],
+      "publishedAt": "2026-06-14",
+      "date": "2026-06-14",
+      "category": "新能源车",
+      "classificationConfidence": 0.93,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “蔚来李斌：今年预期有机会实现 40% 到 50% 的增长” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "IT之家 6 月 14 日消息，据新浪汽车，6 月 13 日，在 2026 中国汽车重庆论坛上，蔚来董事长、CEO 李斌谈及蔚来近期销量增长的原因。李斌表示，蔚来还是那个蔚来，但在最难的时候销量每年仍能保持 30% 以上的增长。从去年下半年...",
+      "relatedTitles": [
+        "蔚来李斌：今年预期有机会实现 40% 到 50% 的增长"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1874,7 +2050,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “我国成功发射通信技术试验卫星二十四号” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "首页 我国成功发射通信技术试验卫星二十四号 分享到： 微信公众号“我们的太空”消息，北京时间2026年5月27日00时16分，我国在文昌航天发射场使用长征七号改运载火箭，成功将通信技术试验卫星二十四号发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于开展多频段、高速率卫星通信技术验证。 此次任务是长征系列运载火箭的第645次飞行。 小泉赠送军舰模型，印尼总统表情亮了 意大利人急了：国际足联主席你这话几个意思？！ 一口气砍1/3！美国开出北约撤军清单 “美军曾计划抢伊朗浓缩铀，被特朗普叫停” 鞋都没了！英格兰队在美被偷得“就剩个足球” “特朗普卖芯片给中国，却不让英国用先进模型” 美日欧不懂吃，小龙虾何以成“国民夜宵”？ “中国进口下降，需求崩了？真相是…” 4天3船被炸3人遇难，“印度竟对美降调，要是搁中国…” 警惕！“安倍挑拨中俄未果，高市也想试试” 加拿大开幕式翻车 特朗普：打死了 “中美独占，中等强国插不进脚” “尽管美国围追堵截，‘中国’无处不在” Anthropic：最先进模型，外国人禁用 梅德韦杰夫：统统粉碎",
+      "rawText": "首页 我国成功发射通信技术试验卫星二十四号 分享到： 微信公众号“我们的太空”消息，北京时间2026年5月27日00时16分，我国在文昌航天发射场使用长征七号改运载火箭，成功将通信技术试验卫星二十四号发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于开展多频段、高速率卫星通信技术验证。 此次任务是长征系列运载火箭的第645次飞行。 印度强烈抗议：美国“朋友”竟如此麻木不仁？！ 小泉赠送军舰模型，印尼总统表情亮了 意大利人急了：国际足联主席你这话几个意思？！ 一口气砍1/3！美国开出北约撤军清单 “美军曾计划抢伊朗浓缩铀，被特朗普叫停” 鞋都没了！英格兰队在美被偷得“就剩个足球” “特朗普卖芯片给中国，却不让英国用先进模型” 美日欧不懂吃，小龙虾何以成“国民夜宵”？ “中国进口下降，需求崩了？真相是…” 4天3船被炸3人遇难，“印度竟对美降调，要是搁中国…” 警惕！“安倍挑拨中俄未果，高市也想试试” 加拿大开幕式翻车 特朗普：打死了 “中美独占，中等强国插不进脚” “尽管美国围追堵截，‘中国’无处不在” Anthropic：最先进模型，外国人禁用",
       "relatedTitles": [
         "我国成功发射通信技术试验卫星二十四号"
       ]
@@ -2617,6 +2793,73 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "Claude最强模型全球禁用 智谱：AI的未来是开放",
+      "summary": "Claude AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的 Anthropic新研究实锤了 听雨 2026-05-13 AI Claude Anthropic出手！AI的内心独白，曝光了 原来Claude早就识破了人类的套路（doge） 一水 2026-05-08 Claude Claude终于认了！降智坐实，越",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KVB3VKCF055284JB.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KVB3VKCF055284JB.html"
+      ],
+      "publishedAt": "2026-06-13",
+      "date": "2026-06-13",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 136,
+      "reporterScore": 144,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Claude最强模型全球禁用 智谱：AI的未来是开放” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "Claude最强模型全球禁用 智谱：AI的未来是开放,国民,claude,人工智能模型",
+      "relatedTitles": [
+        "Claude最强模型全球禁用 智谱：AI的未来是开放"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "议程揭晓！「金融+端侧 AI」产业前沿论坛共启智能新局",
       "summary": "当大模型的浪潮从云端奔涌而下，AI正以前所未有的速度向手机、PC、可穿戴设备、智能汽车等终端渗透。端侧AI——这一被视为下一轮产业变革核心引擎的新赛道，正站在技术突破与资本聚焦的交汇点上。",
@@ -3083,6 +3326,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "enjoy\" class=\"grid-320 card observe\"> 智瞰AI AI视界，不止于想象 思享家 <div class=\"swiper-wrapper\"",
       "relatedTitles": [
         "AI视界，不止于想象"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "SpaceX上市，到底是在创造奇迹还是在制造泡沫？",
+      "summary": "SpaceX上市，到底是在创造奇迹还是在制造泡沫？",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2026_06_14_820410.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2026_06_14_820410.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 4,
+      "score": 122,
+      "reporterScore": 122,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX上市，到底是在创造奇迹还是在制造泡沫？” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "SpaceX上市，到底是在创造奇迹还是在制造泡沫？",
+      "relatedTitles": [
+        "SpaceX上市，到底是在创造奇迹还是在制造泡沫？"
       ]
     },
     {
@@ -3731,8 +4041,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-14｜V3\n生成时间：2026/6/14 08:18:26\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2592｜确认今日 13｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 9 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [22:52] 让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊\n   IT之家｜2026-06-14｜https://www.ithome.com/0/963/991.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊” against primary-source evidence.\n\n2. [2026-06-14] 颜值如何！全尺寸“机器人伴侣”热卖 10天预售3800台：男款身着修身西装 女款可上妆\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inichwye9196596.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “颜值如何！全尺寸“机器人伴侣”热卖 10天预售3800台：男款身着修身西装 女款可上妆” against primary-source evidence.\n\n3. [2026-06-14] Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场\n   网易科技｜2026-06-14｜https://www.163.com/dy/article/KVCAR09K0534A4SC.html\n   报道角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场” against primary-source evidence.\n\n4. [2026-06-14] 三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwc9252606.shtml\n   报道角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题” against primary-source evidence.\n\n5. [00:07] 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题\n   IT之家｜2026-06-14｜https://www.ithome.com/0/964/002.htm\n   报道角度：Use urban services, logistics, safety and regulation to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “苹果提交无人机集群网络优化专利，解决机群通信拥堵难题” against primary-source evidence.\n\n本次新增线索：\n- Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场｜网易科技｜https://www.163.com/dy/article/KVCAR09K0534A4SC.html\n- 三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwc9252606.shtml\n- 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题｜IT之家｜https://www.ithome.com/0/964/002.htm\n- 原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键｜IT之家｜https://www.ithome.com/0/964/000.htm\n\n今日热点方向：\n- AI 应用：AI动态（1 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\n2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\n3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n5. 5 Midrange Phones With Better Battery Life Than The Samsung Galaxy A56｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-midrange-phones-better-battery-214700928.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-14｜V3\n生成时间：2026/6/14 08:18:26\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2592｜确认今日 13｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 9 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [22:52] 让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊\n   IT之家｜2026-06-14｜https://www.ithome.com/0/963/991.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊” against primary-source evidence.\n\n2. [2026-06-14] 颜值如何！全尺寸“机器人伴侣”热卖 10天预售3800台：男款身着修身西装 女款可上妆\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inichwye9196596.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “颜值如何！全尺寸“机器人伴侣”热卖 10天预售3800台：男款身着修身西装 女款可上妆” against primary-source evidence.\n\n3. [2026-06-14] Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场\n   网易科技｜2026-06-14｜https://www.163.com/dy/article/KVCAR09K0534A4SC.html\n   报道角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场” against primary-source evidence.\n\n4. [2026-06-14] 三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwc9252606.shtml\n   报道角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题” against primary-source evidence.\n\n5. [00:07] 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题\n   IT之家｜2026-06-14｜https://www.ithome.com/0/964/002.htm\n   报道角度：Use urban services, logistics, safety and regulation to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “苹果提交无人机集群网络优化专利，解决机群通信拥堵难题” against primary-source evidence.\n\n本次新增线索：\n- Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场｜网易科技｜https://www.163.com/dy/article/KVCAR09K0534A4SC.html\n- 三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwc9252606.shtml\n- 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题｜IT之家｜https://www.ithome.com/0/964/002.htm\n- 原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键｜IT之家｜https://www.ithome.com/0/964/000.htm\n\n今日热点方向：\n- AI 应用：AI动态（1 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\n2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\n3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n5. 5 Midrange Phones With Better Battery Life Than The Samsung Galaxy A56｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-midrange-phones-better-battery-214700928.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-14｜生成时间：2026/6/14 08:18:26｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2592｜确认今日 13｜国际背景 18</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 9 条｜国际 18 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [22:52] 让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊</strong>\n      <span>IT之家｜2026-06-14｜<a href=\"https://www.ithome.com/0/963/991.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：196｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-14] 颜值如何！全尺寸“机器人伴侣”热卖 10天预售3800台：男款身着修身西装 女款可上妆</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inichwye9196596.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “颜值如何！全尺寸“机器人伴侣”热卖 10天预售3800台：男款身着修身西装 女款可上妆” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-14] Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场</strong>\n      <span>网易科技｜2026-06-14｜<a href=\"https://www.163.com/dy/article/KVCAR09K0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-14] 三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwc9252606.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [00:07] 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题</strong>\n      <span>IT之家｜2026-06-14｜<a href=\"https://www.ithome.com/0/964/002.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：160｜需核验来源</span>\n      <p>报道角度：Use urban services, logistics, safety and regulation to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “苹果提交无人机集群网络优化专利，解决机群通信拥堵难题” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google</strong>\n      <span>时间：Fri, 12 Jun 2026 20:38:09 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Chinese cybercrime operation that used AI to scam ‘hundreds of thousands” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops</strong>\n      <span>时间：Fri, 12 Jun 2026 14:14:02 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google fires sueball at alleged Chinese phishers over AI-powered fraud o” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order</strong>\n      <span>时间：Sat, 13 Jun 2026 02:26:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Gove” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet</strong>\n      <span>时间：Thu, 11 Jun 2026 21:21:04 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. 5 Midrange Phones With Better Battery Life Than The Samsung Galaxy A56</strong>\n      <span>时间：2026-06-14｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/5-midrange-phones-better-battery-214700928.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “5 Midrange Phones With Better Battery Life Than The Samsung Galaxy A56” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/14 08:18:26\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 9 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [22:52] 让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊\n   来源：IT之家\n   链接：https://www.ithome.com/0/963/991.htm\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊” against primary-source evidence.\n\n2. [2026-06-14] 颜值如何！全尺寸“机器人伴侣”热卖 10天预售3800台：男款身着修身西装 女款可上妆\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inichwye9196596.shtml\n   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “颜值如何！全尺寸“机器人伴侣”热卖 10天预售3800台：男款身着修身西装 女款可上妆” against primary-source evidence.\n\n3. [2026-06-14] Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KVCAR09K0534A4SC.html\n   角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场” against primary-source evidence.\n\n4. [2026-06-14] 三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwc9252606.shtml\n   角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题” against primary-source evidence.\n\n5. [00:07] 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题\n   来源：IT之家\n   链接：https://www.ithome.com/0/964/002.htm\n   角度：Use urban services, logistics, safety and regulation to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “苹果提交无人机集群网络优化专利，解决机群通信拥堵难题” against primary-source evidence.\n\n本次新增线索：\n- Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场｜网易科技｜https://www.163.com/dy/article/KVCAR09K0534A4SC.html\n- 三星欲打造海上浮动 AI 数据中心，以解决电力与冷却难题｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwc9252606.shtml\n- 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题｜IT之家｜https://www.ithome.com/0/964/002.htm\n- 原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键｜IT之家｜https://www.ithome.com/0/964/000.htm\n\n今日热点方向：\n- AI 应用：AI动态（1 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\n2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\n3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n5. 5 Midrange Phones With Better Battery Life Than The Samsung Galaxy A56｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-midrange-phones-better-battery-214700928.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-14｜V3\n生成时间：2026/6/14 09:39:03\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2523｜确认今日 15｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-14] 王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-iniciuec5931764.shtml\n   报道角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市” against primary-source evidence.\n\n2. [2026-06-14] Anthropic最强模型被禁，传亚马逊通风报信\n   网易科技｜2026-06-14｜https://www.163.com/tech/article/KVCCNF9R00097U7T.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic最强模型被禁，传亚马逊通风报信” against primary-source evidence.\n\n3. [2026-06-14] Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场\n   网易科技｜2026-06-14｜https://www.163.com/dy/article/KVCAR09K0534A4SC.html\n   报道角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场” against primary-source evidence.\n\n4. [2026-06-14] 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwa7709265.shtml\n   报道角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “苹果提交无人机集群网络优化专利，解决机群通信拥堵难题” against primary-source evidence.\n\n5. [2026-06-14] 原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwf6044957.shtml\n   报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键” against primary-source evidence.\n\n本次新增线索：\n- 王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-iniciuec5931764.shtml\n- Anthropic最强模型被禁，传亚马逊通风报信｜网易科技｜https://www.163.com/tech/article/KVCCNF9R00097U7T.html\n- 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwa7709265.shtml\n- 原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwf6044957.shtml\n- 雷军直播为啥选盐城测试 小米汽车：赛道硬、数据真实、路面够全｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicipwc9243091.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\n2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\n3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n5. 5 Midrange Phones With Better Battery Life Than The Samsung Galaxy A56｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-midrange-phones-better-battery-214700928.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-14｜V3\n生成时间：2026/6/14 09:39:03\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2523｜确认今日 15｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-14] 王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-iniciuec5931764.shtml\n   报道角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市” against primary-source evidence.\n\n2. [2026-06-14] Anthropic最强模型被禁，传亚马逊通风报信\n   网易科技｜2026-06-14｜https://www.163.com/tech/article/KVCCNF9R00097U7T.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic最强模型被禁，传亚马逊通风报信” against primary-source evidence.\n\n3. [2026-06-14] Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场\n   网易科技｜2026-06-14｜https://www.163.com/dy/article/KVCAR09K0534A4SC.html\n   报道角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场” against primary-source evidence.\n\n4. [2026-06-14] 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwa7709265.shtml\n   报道角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “苹果提交无人机集群网络优化专利，解决机群通信拥堵难题” against primary-source evidence.\n\n5. [2026-06-14] 原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键\n   新浪科技｜2026-06-14｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwf6044957.shtml\n   报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键” against primary-source evidence.\n\n本次新增线索：\n- 王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-iniciuec5931764.shtml\n- Anthropic最强模型被禁，传亚马逊通风报信｜网易科技｜https://www.163.com/tech/article/KVCCNF9R00097U7T.html\n- 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwa7709265.shtml\n- 原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwf6044957.shtml\n- 雷军直播为啥选盐城测试 小米汽车：赛道硬、数据真实、路面够全｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicipwc9243091.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\n2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\n3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n5. 5 Midrange Phones With Better Battery Life Than The Samsung Galaxy A56｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-midrange-phones-better-battery-214700928.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-14｜生成时间：2026/6/14 09:39:03｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2523｜确认今日 15｜国际背景 18</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 7 条｜国际 0 条<br>延续跟踪线索：国内 8 条｜国际 18 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-14] 王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-14/doc-iniciuec5931764.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：175｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-14] Anthropic最强模型被禁，传亚马逊通风报信</strong>\n      <span>网易科技｜2026-06-14｜<a href=\"https://www.163.com/tech/article/KVCCNF9R00097U7T.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic最强模型被禁，传亚马逊通风报信” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-14] Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场</strong>\n      <span>网易科技｜2026-06-14｜<a href=\"https://www.163.com/dy/article/KVCAR09K0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-14] 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwa7709265.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：164｜需核验来源</span>\n      <p>报道角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “苹果提交无人机集群网络优化专利，解决机群通信拥堵难题” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-14] 原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键</strong>\n      <span>新浪科技｜2026-06-14｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwf6044957.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：162｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google</strong>\n      <span>时间：Fri, 12 Jun 2026 20:38:09 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Chinese cybercrime operation that used AI to scam ‘hundreds of thousands” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops</strong>\n      <span>时间：Fri, 12 Jun 2026 14:14:02 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google fires sueball at alleged Chinese phishers over AI-powered fraud o” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order</strong>\n      <span>时间：Sat, 13 Jun 2026 02:26:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Gove” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet</strong>\n      <span>时间：Thu, 11 Jun 2026 21:21:04 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. 5 Midrange Phones With Better Battery Life Than The Samsung Galaxy A56</strong>\n      <span>时间：2026-06-14｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/5-midrange-phones-better-battery-214700928.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “5 Midrange Phones With Better Battery Life Than The Samsung Galaxy A56” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/14 09:39:03\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-14] 王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-14/doc-iniciuec5931764.shtml\n   角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市” against primary-source evidence.\n\n2. [2026-06-14] Anthropic最强模型被禁，传亚马逊通风报信\n   来源：网易科技\n   链接：https://www.163.com/tech/article/KVCCNF9R00097U7T.html\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic最强模型被禁，传亚马逊通风报信” against primary-source evidence.\n\n3. [2026-06-14] Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KVCAR09K0534A4SC.html\n   角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Waymo以2.2亿美元收购苹果旗下亚利桑那州测试场” against primary-source evidence.\n\n4. [2026-06-14] 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwa7709265.shtml\n   角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “苹果提交无人机集群网络优化专利，解决机群通信拥堵难题” against primary-source evidence.\n\n5. [2026-06-14] 原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwf6044957.shtml\n   角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键” against primary-source evidence.\n\n本次新增线索：\n- 王朝网首款 D 级旗舰 SUV：比亚迪大唐官宣 6 月 17 日在西安上市｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-iniciuec5931764.shtml\n- Anthropic最强模型被禁，传亚马逊通风报信｜网易科技｜https://www.163.com/tech/article/KVCCNF9R00097U7T.html\n- 苹果提交无人机集群网络优化专利，解决机群通信拥堵难题｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwa7709265.shtml\n- 原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-14/doc-inicipwf6044957.shtml\n- 雷军直播为啥选盐城测试 小米汽车：赛道硬、数据真实、路面够全｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-14/doc-inicipwc9243091.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google｜TechCrunch｜https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/\n2. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops｜The Register｜https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841\n3. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n4. Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet｜WIRED Business｜https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/\n5. 5 Midrange Phones With Better Battery Life Than The Samsung Galaxy A56｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-midrange-phones-better-battery-214700928.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
