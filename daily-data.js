@@ -1,58 +1,42 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-06-14T23:56:54.709Z",
+  "generatedAt": "2026-06-15T00:21:15.780Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-15",
   "changeSummary": {
-    "domesticNew": 12,
-    "globalNew": 2,
-    "domesticContinued": 0,
-    "globalContinued": 9,
+    "domesticNew": 4,
+    "globalNew": 0,
+    "domesticContinued": 10,
+    "globalContinued": 11,
     "topNewDomestic": [
       {
-        "title": "自带“冠军基因”的团队想让国产芯片“跑起来”",
+        "title": "贾跃亭：FF将一口气发布4款机器人",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5157580.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxaz8296149.shtml"
       },
       {
-        "title": "美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/964/203.htm"
+        "title": "Anthropic顶级模型Fable 5被叫停，“幕后推手”",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/KVETMAJ10512B07B.html"
       },
       {
-        "title": "环球科技参考",
+        "title": "蔚来李斌预警：要做好整个行业跌15%到20%的心理准备",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5158263.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxay6768194.shtml"
       },
       {
-        "title": "谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”",
+        "title": "电车底盘维修费高达10万 保险公司追责环卫！法院判了",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-15/doc-inicmsuz0092907.shtml"
-      },
-      {
-        "title": "热点回应丨如何甄别靠谱的“AI中转站”",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-06/15/content_532141.html"
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-06-15/doc-inicmxay6766848.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/report-apple-iphone-18-pro-230000296.html"
-      },
-      {
-        "title": "Samsung Galaxy Watch Battery Life: Owners Reveal How Long It Actually Lasts",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/wearables/articles/samsung-galaxy-watch-battery-life-224500564.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 888,
+    "domesticRejected": 886,
     "globalRejected": 889,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -67,7 +51,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 28,
   "failedSources": [
     {
       "name": "财联社",
@@ -78,6 +62,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -107,6 +101,16 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -126,7 +130,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 141,
+      "parsed": 142,
       "failed": false,
       "optional": false
     },
@@ -290,14 +294,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -374,18 +380,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1336,
+  "itemsSeen": 1337,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 339,
-  "itemsAfterDedupe": 240,
-  "todayItemsSeen": 12,
+  "itemsAfterRelevantFilter": 333,
+  "itemsAfterDedupe": 233,
+  "todayItemsSeen": 14,
   "suspectedItemsSeen": 24,
-  "skippedNonToday": 203,
+  "skippedNonToday": 193,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 141,
+      "parsed": 142,
       "failed": false,
       "optional": false
     },
@@ -549,14 +555,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -797,6 +805,16 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -836,16 +854,17 @@ window.CHENCHEN_DAILY_DATA = {
   "globalItemsAfterRelevantFilter": 123,
   "topics": [
     {
-      "topic": "国产 GPU / 算力基础设施",
-      "count": 2,
+      "topic": "新能源车动态",
+      "count": 3,
       "sourceCount": 2,
       "sources": [
-        "新浪科技",
-        "IT之家"
+        "IT之家",
+        "新浪科技"
       ],
       "items": [
-        "自带“冠军基因”的团队想让国产芯片“跑起来”",
-        "谷歌联手高校把废弃 Pixel 手机改造成数据中心，成本仅为传统方案零头"
+        "通用汽车计划让电动汽车为电网供电，但硬件成本高达 2 万美元",
+        "蔚来李斌预警：要做好整个行业跌15%到20%的心理准备",
+        "原本绝不碰电车 奥迪高性能车主试驾小米汽车后主动入手2台"
       ]
     },
     {
@@ -862,19 +881,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "新能源车动态",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "IT之家",
-        "新浪科技"
-      ],
-      "items": [
-        "通用汽车计划让电动汽车为电网供电，但硬件成本高达 2 万美元",
-        "原本绝不碰电车 奥迪高性能车主试驾小米汽车后主动入手2台"
-      ]
-    },
-    {
       "topic": "科学前沿动态",
       "count": 2,
       "sourceCount": 1,
@@ -884,6 +890,28 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "他们提出“第一性原理”，设计合成原创新药",
         "中科闻歌通过香港交易所聆讯"
+      ]
+    },
+    {
+      "topic": "机器人动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "贾跃亭：FF将一口气发布4款机器人"
+      ]
+    },
+    {
+      "topic": "AI 应用与智能体",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "Anthropic顶级模型Fable 5被叫停，“幕后推手”"
       ]
     },
     {
@@ -920,35 +948,114 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "数字基础设施与数据要素",
+      "topic": "新能源车与智能驾驶",
       "count": 1,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "GSMA：可持续频谱定价促进印尼数字经济发展"
+        "电车底盘维修费高达10万 保险公司追责环卫！法院判了"
+      ]
+    },
+    {
+      "topic": "国产 GPU / 算力基础设施",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "谷歌联手高校把废弃 Pixel 手机改造成数据中心，成本仅为传统方案零头"
       ]
     }
   ],
   "leads": [
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "自带“冠军基因”的团队想让国产芯片“跑起来”",
-      "summary": "翟季冬 ■本报记者 田瑞颖这是一支自带“冠军基因”的团队。翟季冬是带领清华大学学生超算队十余次站上世界冠军领奖台的“总教头”，但他心里一直有个声音：能否改变所有参赛队伍都使用英伟达图形处理器（GPU）的境况，让国产算力走到“台前”。2023...",
+      "title": "贾跃亭：FF将一口气发布4款机器人",
+      "summary": "快科技6月15日消息，贾跃亭今天一早对外官宣，FF很快会举办新品发布会，现场将推出四款全新机器人产品，同时还会亮相一套完整的机器人教育生态。这场发布会定在美西时间6月16日17点，换算成北京时间就是17日早上8:30。这次登场的四款机器人各...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5157580.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxaz8296149.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5157580.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxaz8296149.shtml"
       ],
       "publishedAt": "2026-06-15",
       "date": "2026-06-15",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
+      "category": "机器人",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 166,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “贾跃亭：FF将一口气发布4款机器人” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "快科技6月15日消息，贾跃亭今天一早对外官宣，FF很快会举办新品发布会，现场将推出四款全新机器人产品，同时还会亮相一套完整的机器人教育生态。这场发布会定在美西时间6月16日17点，换算成北京时间就是17日早上8:30。这次登场的四款机器人各...",
+      "relatedTitles": [
+        "贾跃亭：FF将一口气发布4款机器人"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "Anthropic顶级模型Fable 5被叫停，“幕后推手”",
+      "summary": "Anthropic顶级模型Fable 5被叫停，“幕后推手”或是亚马逊CEO；减持特斯拉，木头姐4.4亿美元大举建仓SpaceX丨全球科技早参,木头姐,海力士,英伟达,知名企业,亚马逊公司,spacex,特斯拉(公司)",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KVETMAJ10512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KVETMAJ10512B07B.html"
+      ],
+      "publishedAt": "2026-06-15",
+      "date": "2026-06-15",
+      "category": "AI",
+      "classificationConfidence": 0.98,
       "classificationEvidence": [
         "title",
         "summary",
@@ -956,16 +1063,16 @@ window.CHENCHEN_DAILY_DATA = {
         "source"
       ],
       "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 176,
-      "reporterScore": 184,
+      "score": 164,
+      "reporterScore": 172,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
         "visual": 0,
         "international": 9,
         "policy": 0,
@@ -990,13 +1097,13 @@ window.CHENCHEN_DAILY_DATA = {
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “自带“冠军基因”的团队想让国产芯片“跑起来”” against primary-source evidence.",
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic顶级模型Fable 5被叫停，“幕后推手”” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "翟季冬 ■本报记者 田瑞颖这是一支自带“冠军基因”的团队。翟季冬是带领清华大学学生超算队十余次站上世界冠军领奖台的“总教头”，但他心里一直有个声音：能否改变所有参赛队伍都使用英伟达图形处理器（GPU）的境况，让国产算力走到“台前”。2023...",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "Anthropic顶级模型Fable 5被叫停，“幕后推手”或是亚马逊CEO；减持特斯拉，木头姐4.4亿美元大举建仓SpaceX丨全球科技早参,木头姐,海力士,英伟达,知名企业,亚马逊公司,spacex,特斯拉(公司)",
       "relatedTitles": [
-        "自带“冠军基因”的团队想让国产芯片“跑起来”"
+        "Anthropic顶级模型Fable 5被叫停，“幕后推手”"
       ],
       "isNewSinceLastRun": true
     },
@@ -1066,7 +1173,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1134,7 +1241,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "环球科技参考"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1202,7 +1309,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1270,7 +1377,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "热点回应丨如何甄别靠谱的“AI中转站”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1338,7 +1445,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "他们提出“第一性原理”，设计合成原创新药"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1406,7 +1513,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "蔚来副总裁：3亿美元买英伟达芯片 不如自研省钱"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1473,6 +1580,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "通用汽车计划通过软件升级，让旗下雪佛兰、凯迪拉克等品牌的电动汽车在闲置时反向为电网供电。此举可为车主创收并缓解电网压力，但需搭配约 2 万美元的专用硬件，且电池损耗、法规标准不一等挑战仍待解决。#电动汽车##V2G 技术##通用汽车#",
       "relatedTitles": [
         "通用汽车计划让电动汽车为电网供电，但硬件成本高达 2 万美元"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "蔚来李斌预警：要做好整个行业跌15%到20%的心理准备",
+      "summary": "快科技6月15日消息，近日在重庆汽车论坛上，蔚来创始人、董事长李斌抛出论断：“全年的国内的零售量，我们认为和去年同比，要做好整个行业跌15%到20%的心理准备。”李斌表示，中国汽车产业从今年开始进入了决赛最残酷的阶段，今年1-5月份，今年国...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxay6768194.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxay6768194.shtml"
+      ],
+      "publishedAt": "2026-06-15",
+      "date": "2026-06-15",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “蔚来李斌预警：要做好整个行业跌15%到20%的心理准备” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "快科技6月15日消息，近日在重庆汽车论坛上，蔚来创始人、董事长李斌抛出论断：“全年的国内的零售量，我们认为和去年同比，要做好整个行业跌15%到20%的心理准备。”李斌表示，中国汽车产业从今年开始进入了决赛最残酷的阶段，今年1-5月份，今年国...",
+      "relatedTitles": [
+        "蔚来李斌预警：要做好整个行业跌15%到20%的心理准备"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "电车底盘维修费高达10万 保险公司追责环卫！法院判了",
+      "summary": "快科技6月15日消息，近日，福建福州长乐区法院就审结了一起纠纷。一辆新能源汽车在道路上正常行驶时，车辆底盘碰到了路面上的石块，造成包括动力电池在内的核心部件受损，维修费用高达10万余元，车主随即与保险公司联系。保险公司向车主赔付车辆维修费用...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-06-15/doc-inicmxay6766848.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-06-15/doc-inicmxay6766848.shtml"
+      ],
+      "publishedAt": "2026-06-15",
+      "date": "2026-06-15",
+      "category": "新能源车",
+      "classificationConfidence": 0.97,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “电车底盘维修费高达10万 保险公司追责环卫！法院判了” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "快科技6月15日消息，近日，福建福州长乐区法院就审结了一起纠纷。一辆新能源汽车在道路上正常行驶时，车辆底盘碰到了路面上的石块，造成包括动力电池在内的核心部件受损，维修费用高达10万余元，车主随即与保险公司联系。保险公司向车主赔付车辆维修费用...",
+      "relatedTitles": [
+        "电车底盘维修费高达10万 保险公司追责环卫！法院判了"
       ],
       "isNewSinceLastRun": true
     },
@@ -1542,7 +1785,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "原本绝不碰电车 奥迪高性能车主试驾小米汽车后主动入手2台"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1610,7 +1853,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中科闻歌通过香港交易所聆讯"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1678,75 +1921,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌联手高校把废弃 Pixel 手机改造成数据中心，成本仅为传统方案零头"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "GSMA：可持续频谱定价促进印尼数字经济发展",
-      "summary": "随着印尼新的移动频谱拍卖即将到来，全球移动行业协会GSMA的一份新报告警告称，除非印尼重新评估5G移动频谱的定价方式，否则该国的数字化转型路线图可能会受阻。分析预测，在最坏的情况下，如果新频段的价格反映之前的拍卖价格，2024-2030年可...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmnpe6952283.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmnpe6952283.shtml"
-      ],
-      "publishedAt": "2026-06-15",
-      "date": "2026-06-15",
-      "category": "数字经济",
-      "classificationConfidence": 0.8,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 70,
-      "keywords": "digital infrastructure, data flows and the platform economy",
-      "priority": 4,
-      "score": 129,
-      "reporterScore": 137,
-      "scoreBreakdown": {
-        "hardTech": 70,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 70,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Assess the practical value of digital infrastructure, data flows and the platform economy: users, data flows, productivity, market structure and regulatory trade-offs. For this item, test the claim behind “GSMA：可持续频谱定价促进印尼数字经济发展” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "数字基础设施与数据要素",
-      "rawText": "随着印尼新的移动频谱拍卖即将到来，全球移动行业协会GSMA的一份新报告警告称，除非印尼重新评估5G移动频谱的定价方式，否则该国的数字化转型路线图可能会受阻。分析预测，在最坏的情况下，如果新频段的价格反映之前的拍卖价格，2024-2030年可...",
-      "relatedTitles": [
-        "GSMA：可持续频谱定价促进印尼数字经济发展"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2020,8 +2195,8 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "无人车往哪里开？ “卡车界特斯拉”",
-      "summary": "无人车往哪里开？ “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 昨天 13:37 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 前天 16:48 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知",
+      "title": "无人车往哪里开？",
+      "summary": "无人车往哪里开？ Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 前天 16:41 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2034,7 +2209,7 @@ window.CHENCHEN_DAILY_DATA = {
       "publishedAt": "",
       "date": "",
       "category": "新能源车",
-      "classificationConfidence": 0.94,
+      "classificationConfidence": 0.89,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2077,12 +2252,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": true,
       "hasInternationalValue": true,
       "format": "video",
-      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “无人车往哪里开？ “卡车界特斯拉”” against primary-source evidence.",
+      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “无人车往哪里开？” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "无人车往哪里开？ “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 昨天 13:37 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 前天 16:48 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 2026-05-14 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年底每分钟接99单 杰西卡 2026-02-14 Waymo 无人车往哪里开？ 车圈最新认知 怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾 网络横跨半个地球 杰西卡 2026-02-09 Waymo 无人车往哪里开？ 车圈最新认知 中东Robotaxi进入“千辆时代”，文远知行携手Uber刷新区域纪录 单车日均可完成数十次出行订单，已实现盈利 量子位 2026-",
+      "rawText": "无人车往哪里开？ Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 前天 16:41 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年底每分钟接99单 杰西卡 2026-02-14 Waymo 无人车往哪里开？ 车圈最新认知 怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾 网络横跨半个地球 杰西卡 2026-02-09 Waymo 无人车往哪里开？ 车圈最新认知 中东Robotaxi进入“千辆时代”，文远知行携手Uber刷新区域纪录 单车日均可完成数十次出行订单，已实现盈利 量子位 2026-02-06 无人车往哪里开？ 智能车真high 自动驾驶 Waymo遭遇鬼探头，Robotaxi在校门口把儿童给撞了 复盘坚称人类驾驶后果更严重 杰西卡 2026-01-30 Waymo 无人车往哪里开？ 车圈最新认知 刚刚，菜鸟无人车队并入九识！ RoboVan车队突破2万辆，跑通商业化闭环 杰西卡 20",
       "relatedTitles": [
-        "无人车往哪里开？ “卡车界特斯拉”"
+        "无人车往哪里开？"
       ]
     },
     {
@@ -2758,7 +2933,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "议程揭晓！「金融+端侧 AI」产业前沿论坛共启智能新局",
-      "summary": "当大模型的浪潮从云端奔涌而下，AI正以前所未有的速度向手机、PC、可穿戴设备、智能汽车等终端渗透。端侧AI——这一被视为下一轮产业变革核心引擎的新赛道，正站在技术突破与资本聚焦的交汇点上。",
+      "summary": "现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办 当大模型的浪潮从云端奔涌而下，AI正以前所未有的速度向手机、PC、可穿戴设备、智能汽车等终端渗透。端侧AI——这一被视为下一轮产业变革核心引擎的新赛道，正站在技术突破与资本聚焦的交汇点上。 评论 8",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -3426,70 +3601,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device",
-      "summary": "Apple Intelligence may have had a shaky start but the latest signs indicate it could become a front-runner in months.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/report-apple-iphone-18-pro-230000296.html",
-      "publishedAt": "2026-06-15",
-      "date": "2026-06-15",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung Galaxy Watch Battery Life: Owners Reveal How Long It Actually Lasts",
-      "summary": "Before you buy a new Samsung smartwatch, discover the truth about its battery life. We compare the official lab claims to real-world owner reports.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/wearables/articles/samsung-galaxy-watch-battery-life-224500564.html",
-      "publishedAt": "2026-06-15",
-      "date": "2026-06-15",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung Galaxy Watch Battery Life: Owners Reveal How Long It Actually La” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI faces investigation from state attorneys general",
       "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
       "source": "TechCrunch",
@@ -3650,6 +3761,70 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device",
+      "summary": "Apple Intelligence may have had a shaky start but the latest signs indicate it could become a front-runner in months.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/report-apple-iphone-18-pro-230000296.html",
+      "publishedAt": "2026-06-15",
+      "date": "2026-06-15",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung Galaxy Watch Battery Life: Owners Reveal How Long It Actually Lasts",
+      "summary": "Before you buy a new Samsung smartwatch, discover the truth about its battery life. We compare the official lab claims to real-world owner reports.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/wearables/articles/samsung-galaxy-watch-battery-life-224500564.html",
+      "publishedAt": "2026-06-15",
+      "date": "2026-06-15",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung Galaxy Watch Battery Life: Owners Reveal How Long It Actually La” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
       "summary": "As of today, SpaceX is owned by investors who will want to see it make money.",
       "source": "Ars Technica",
@@ -3713,8 +3888,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-15｜V3\n生成时间：2026/6/15 07:56:54\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2551｜确认今日 12｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 12 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-15] 自带“冠军基因”的团队想让国产芯片“跑起来”\n   新浪科技｜2026-06-15｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5157580.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “自带“冠军基因”的团队想让国产芯片“跑起来”” against primary-source evidence.\n\n2. [23:46] 美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视\n   IT之家｜2026-06-15｜https://www.ithome.com/0/964/203.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视” against primary-source evidence.\n\n3. [2026-06-15] 环球科技参考\n   新浪科技｜2026-06-15｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5158263.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “环球科技参考” against primary-source evidence.\n\n4. [2026-06-15] 谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”\n   新浪科技｜2026-06-15｜https://finance.sina.com.cn/tech/digi/2026-06-15/doc-inicmsuz0092907.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”” against primary-source evidence.\n\n5. [2026-06-15] 热点回应丨如何甄别靠谱的“AI中转站”\n   科技日报｜2026-06-15｜https://www.stdaily.com/web/gdxw/2026-06/15/content_532141.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “热点回应丨如何甄别靠谱的“AI中转站”” against primary-source evidence.\n\n本次新增线索：\n- 自带“冠军基因”的团队想让国产芯片“跑起来”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5157580.shtml\n- 美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视｜IT之家｜https://www.ithome.com/0/964/203.htm\n- 环球科技参考｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5158263.shtml\n- 谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-15/doc-inicmsuz0092907.shtml\n- 热点回应丨如何甄别靠谱的“AI中转站”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/15/content_532141.html\n- Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/report-apple-iphone-18-pro-230000296.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n2. As Anthropic suspends access to new models, India debates its AI future｜TechCrunch｜https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/\n3. Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/report-apple-iphone-18-pro-230000296.html\n4. Samsung Galaxy Watch Battery Life: Owners Reveal How Long It Actually Lasts｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-galaxy-watch-battery-life-224500564.html\n5. OpenAI faces investigation from state attorneys general｜TechCrunch｜https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-15｜V3\n生成时间：2026/6/15 07:56:54\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2551｜确认今日 12｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 12 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-15] 自带“冠军基因”的团队想让国产芯片“跑起来”\n   新浪科技｜2026-06-15｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5157580.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “自带“冠军基因”的团队想让国产芯片“跑起来”” against primary-source evidence.\n\n2. [23:46] 美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视\n   IT之家｜2026-06-15｜https://www.ithome.com/0/964/203.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视” against primary-source evidence.\n\n3. [2026-06-15] 环球科技参考\n   新浪科技｜2026-06-15｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5158263.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “环球科技参考” against primary-source evidence.\n\n4. [2026-06-15] 谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”\n   新浪科技｜2026-06-15｜https://finance.sina.com.cn/tech/digi/2026-06-15/doc-inicmsuz0092907.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”” against primary-source evidence.\n\n5. [2026-06-15] 热点回应丨如何甄别靠谱的“AI中转站”\n   科技日报｜2026-06-15｜https://www.stdaily.com/web/gdxw/2026-06/15/content_532141.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “热点回应丨如何甄别靠谱的“AI中转站”” against primary-source evidence.\n\n本次新增线索：\n- 自带“冠军基因”的团队想让国产芯片“跑起来”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5157580.shtml\n- 美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视｜IT之家｜https://www.ithome.com/0/964/203.htm\n- 环球科技参考｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5158263.shtml\n- 谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-15/doc-inicmsuz0092907.shtml\n- 热点回应丨如何甄别靠谱的“AI中转站”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/15/content_532141.html\n- Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/report-apple-iphone-18-pro-230000296.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n2. As Anthropic suspends access to new models, India debates its AI future｜TechCrunch｜https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/\n3. Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/report-apple-iphone-18-pro-230000296.html\n4. Samsung Galaxy Watch Battery Life: Owners Reveal How Long It Actually Lasts｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-galaxy-watch-battery-life-224500564.html\n5. OpenAI faces investigation from state attorneys general｜TechCrunch｜https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-15｜生成时间：2026/6/15 07:56:54｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2551｜确认今日 12｜国际背景 11</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 12 条｜国际 2 条<br>延续跟踪线索：国内 0 条｜国际 9 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-15] 自带“冠军基因”的团队想让国产芯片“跑起来”</strong>\n      <span>新浪科技｜2026-06-15｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5157580.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “自带“冠军基因”的团队想让国产芯片“跑起来”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [23:46] 美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视</strong>\n      <span>IT之家｜2026-06-15｜<a href=\"https://www.ithome.com/0/964/203.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：180｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-15] 环球科技参考</strong>\n      <span>新浪科技｜2026-06-15｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5158263.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：174｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “环球科技参考” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-15] 谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”</strong>\n      <span>新浪科技｜2026-06-15｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-15/doc-inicmsuz0092907.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-15] 热点回应丨如何甄别靠谱的“AI中转站”</strong>\n      <span>科技日报｜2026-06-15｜<a href=\"https://www.stdaily.com/web/gdxw/2026-06/15/content_532141.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：161｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “热点回应丨如何甄别靠谱的“AI中转站”” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order</strong>\n      <span>时间：Sat, 13 Jun 2026 02:26:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Gove” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. As Anthropic suspends access to new models, India debates its AI future</strong>\n      <span>时间：Sun, 14 Jun 2026 03:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “As Anthropic suspends access to new models, India debates its AI future” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device</strong>\n      <span>时间：2026-06-15｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/apple-intelligence/articles/report-apple-iphone-18-pro-230000296.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Samsung Galaxy Watch Battery Life: Owners Reveal How Long It Actually Lasts</strong>\n      <span>时间：2026-06-15｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/wearables/articles/samsung-galaxy-watch-battery-life-224500564.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung Galaxy Watch Battery Life: Owners Reveal How Long It Actually La” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI faces investigation from state attorneys general</strong>\n      <span>时间：Sat, 13 Jun 2026 16:47:18 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI faces investigation from state attorneys general” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/15 07:56:54\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 12 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-15] 自带“冠军基因”的团队想让国产芯片“跑起来”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5157580.shtml\n   角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “自带“冠军基因”的团队想让国产芯片“跑起来”” against primary-source evidence.\n\n2. [23:46] 美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视\n   来源：IT之家\n   链接：https://www.ithome.com/0/964/203.htm\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视” against primary-source evidence.\n\n3. [2026-06-15] 环球科技参考\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5158263.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “环球科技参考” against primary-source evidence.\n\n4. [2026-06-15] 谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-15/doc-inicmsuz0092907.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”” against primary-source evidence.\n\n5. [2026-06-15] 热点回应丨如何甄别靠谱的“AI中转站”\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-06/15/content_532141.html\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “热点回应丨如何甄别靠谱的“AI中转站”” against primary-source evidence.\n\n本次新增线索：\n- 自带“冠军基因”的团队想让国产芯片“跑起来”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5157580.shtml\n- 美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视｜IT之家｜https://www.ithome.com/0/964/203.htm\n- 环球科技参考｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5158263.shtml\n- 谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-15/doc-inicmsuz0092907.shtml\n- 热点回应丨如何甄别靠谱的“AI中转站”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/15/content_532141.html\n- Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/report-apple-iphone-18-pro-230000296.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n国际科技背景：\n1. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n2. As Anthropic suspends access to new models, India debates its AI future｜TechCrunch｜https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/\n3. Report: Apple iPhone 18 Pro With iOS 27 Will Be The First True AI Device｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/report-apple-iphone-18-pro-230000296.html\n4. Samsung Galaxy Watch Battery Life: Owners Reveal How Long It Actually Lasts｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-galaxy-watch-battery-life-224500564.html\n5. OpenAI faces investigation from state attorneys general｜TechCrunch｜https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-15｜V3\n生成时间：2026/6/15 08:21:15\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2552｜确认今日 14｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 10 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-15] 贾跃亭：FF将一口气发布4款机器人\n   新浪科技｜2026-06-15｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxaz8296149.shtml\n   报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “贾跃亭：FF将一口气发布4款机器人” against primary-source evidence.\n\n2. [2026-06-15] Anthropic顶级模型Fable 5被叫停，“幕后推手”\n   网易科技｜2026-06-15｜https://www.163.com/dy/article/KVETMAJ10512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic顶级模型Fable 5被叫停，“幕后推手”” against primary-source evidence.\n\n3. [23:46] 美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视\n   IT之家｜2026-06-15｜https://www.ithome.com/0/964/203.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视” against primary-source evidence.\n\n4. [2026-06-15] 环球科技参考\n   新浪科技｜2026-06-15｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5158263.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “环球科技参考” against primary-source evidence.\n\n5. [2026-06-15] 谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”\n   新浪科技｜2026-06-15｜https://finance.sina.com.cn/tech/digi/2026-06-15/doc-inicmsuz0092907.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”” against primary-source evidence.\n\n本次新增线索：\n- 贾跃亭：FF将一口气发布4款机器人｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxaz8296149.shtml\n- Anthropic顶级模型Fable 5被叫停，“幕后推手”｜网易科技｜https://www.163.com/dy/article/KVETMAJ10512B07B.html\n- 蔚来李斌预警：要做好整个行业跌15%到20%的心理准备｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxay6768194.shtml\n- 电车底盘维修费高达10万 保险公司追责环卫！法院判了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-15/doc-inicmxay6766848.shtml\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n2. As Anthropic suspends access to new models, India debates its AI future｜TechCrunch｜https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/\n3. OpenAI faces investigation from state attorneys general｜TechCrunch｜https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/\n4. Anthropic: Why are we being profiled?｜France24 Technology｜https://www.france24.com/en/tv-shows/spotlight/20260613-anthropic-why-are-we-being-profiled\n5. Amazon CEO reportedly raised Anthropic model concerns before government crackdown｜TechCrunch｜https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-15｜V3\n生成时间：2026/6/15 08:21:15\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2552｜确认今日 14｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 10 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-15] 贾跃亭：FF将一口气发布4款机器人\n   新浪科技｜2026-06-15｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxaz8296149.shtml\n   报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “贾跃亭：FF将一口气发布4款机器人” against primary-source evidence.\n\n2. [2026-06-15] Anthropic顶级模型Fable 5被叫停，“幕后推手”\n   网易科技｜2026-06-15｜https://www.163.com/dy/article/KVETMAJ10512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic顶级模型Fable 5被叫停，“幕后推手”” against primary-source evidence.\n\n3. [23:46] 美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视\n   IT之家｜2026-06-15｜https://www.ithome.com/0/964/203.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视” against primary-source evidence.\n\n4. [2026-06-15] 环球科技参考\n   新浪科技｜2026-06-15｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5158263.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “环球科技参考” against primary-source evidence.\n\n5. [2026-06-15] 谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”\n   新浪科技｜2026-06-15｜https://finance.sina.com.cn/tech/digi/2026-06-15/doc-inicmsuz0092907.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”” against primary-source evidence.\n\n本次新增线索：\n- 贾跃亭：FF将一口气发布4款机器人｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxaz8296149.shtml\n- Anthropic顶级模型Fable 5被叫停，“幕后推手”｜网易科技｜https://www.163.com/dy/article/KVETMAJ10512B07B.html\n- 蔚来李斌预警：要做好整个行业跌15%到20%的心理准备｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxay6768194.shtml\n- 电车底盘维修费高达10万 保险公司追责环卫！法院判了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-15/doc-inicmxay6766848.shtml\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n2. As Anthropic suspends access to new models, India debates its AI future｜TechCrunch｜https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/\n3. OpenAI faces investigation from state attorneys general｜TechCrunch｜https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/\n4. Anthropic: Why are we being profiled?｜France24 Technology｜https://www.france24.com/en/tv-shows/spotlight/20260613-anthropic-why-are-we-being-profiled\n5. Amazon CEO reportedly raised Anthropic model concerns before government crackdown｜TechCrunch｜https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-15｜生成时间：2026/6/15 08:21:15｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2552｜确认今日 14｜国际背景 11</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 10 条｜国际 11 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-15] 贾跃亭：FF将一口气发布4款机器人</strong>\n      <span>新浪科技｜2026-06-15｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxaz8296149.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：180｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “贾跃亭：FF将一口气发布4款机器人” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-15] Anthropic顶级模型Fable 5被叫停，“幕后推手”</strong>\n      <span>网易科技｜2026-06-15｜<a href=\"https://www.163.com/dy/article/KVETMAJ10512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic顶级模型Fable 5被叫停，“幕后推手”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:46] 美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视</strong>\n      <span>IT之家｜2026-06-15｜<a href=\"https://www.ithome.com/0/964/203.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：180｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-15] 环球科技参考</strong>\n      <span>新浪科技｜2026-06-15｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5158263.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：174｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “环球科技参考” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-15] 谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”</strong>\n      <span>新浪科技｜2026-06-15｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-15/doc-inicmsuz0092907.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order</strong>\n      <span>时间：Sat, 13 Jun 2026 02:26:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Gove” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. As Anthropic suspends access to new models, India debates its AI future</strong>\n      <span>时间：Sun, 14 Jun 2026 03:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “As Anthropic suspends access to new models, India debates its AI future” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI faces investigation from state attorneys general</strong>\n      <span>时间：Sat, 13 Jun 2026 16:47:18 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI faces investigation from state attorneys general” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Anthropic: Why are we being profiled?</strong>\n      <span>时间：2026-06-13｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/tv-shows/spotlight/20260613-anthropic-why-are-we-being-profiled\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic: Why are we being profiled?” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Amazon CEO reportedly raised Anthropic model concerns before government crackdown</strong>\n      <span>时间：Sat, 13 Jun 2026 19:11:41 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Amazon CEO reportedly raised Anthropic model concerns before government ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/15 08:21:15\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 10 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-15] 贾跃亭：FF将一口气发布4款机器人\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxaz8296149.shtml\n   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “贾跃亭：FF将一口气发布4款机器人” against primary-source evidence.\n\n2. [2026-06-15] Anthropic顶级模型Fable 5被叫停，“幕后推手”\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KVETMAJ10512B07B.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic顶级模型Fable 5被叫停，“幕后推手”” against primary-source evidence.\n\n3. [23:46] 美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视\n   来源：IT之家\n   链接：https://www.ithome.com/0/964/203.htm\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视” against primary-source evidence.\n\n4. [2026-06-15] 环球科技参考\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmsvf5158263.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “环球科技参考” against primary-source evidence.\n\n5. [2026-06-15] 谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-15/doc-inicmsuz0092907.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”” against primary-source evidence.\n\n本次新增线索：\n- 贾跃亭：FF将一口气发布4款机器人｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxaz8296149.shtml\n- Anthropic顶级模型Fable 5被叫停，“幕后推手”｜网易科技｜https://www.163.com/dy/article/KVETMAJ10512B07B.html\n- 蔚来李斌预警：要做好整个行业跌15%到20%的心理准备｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicmxay6768194.shtml\n- 电车底盘维修费高达10万 保险公司追责环卫！法院判了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-15/doc-inicmxay6766848.shtml\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n国际科技背景：\n1. Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order｜WIRED Business｜https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/\n2. As Anthropic suspends access to new models, India debates its AI future｜TechCrunch｜https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/\n3. OpenAI faces investigation from state attorneys general｜TechCrunch｜https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/\n4. Anthropic: Why are we being profiled?｜France24 Technology｜https://www.france24.com/en/tv-shows/spotlight/20260613-anthropic-why-are-we-being-profiled\n5. Amazon CEO reportedly raised Anthropic model concerns before government crackdown｜TechCrunch｜https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
