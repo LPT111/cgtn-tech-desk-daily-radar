@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/16 09:44:42
+生成时间：2026/6/16 10:01:55
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 35 条｜国际 1 条
-延续跟踪线索：国内 7 条｜国际 7 条
+新增核心线索：国内 5 条｜国际 0 条
+延续跟踪线索：国内 40 条｜国际 8 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -21,33 +21,32 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicqhiz4497621.shtml
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼” against primary-source evidence.
 
-3. [2026-06-16] 3纳米下良率救星？应材推新型沉积与蚀刻设备 助力3D晶圆制程突破
+3. [2026-06-16] 理想汽车提出具身智能汽车定义，李想：Livis安全和效率今年有望超越人类
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/shenji/2026-06-16/doc-inicqhiw6274956.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “理想汽车提出具身智能汽车定义，李想：Livis安全和效率今年有望超越人类” against primary-source evidence.
+
+4. [2026-06-16] 3纳米下良率救星？应材推新型沉积与蚀刻设备 助力3D晶圆制程突破
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicqhiz4486285.shtml
    角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “3纳米下良率救星？应材推新型沉积与蚀刻设备 助力3D晶圆制程突破” against primary-source evidence.
 
-4. [2026-06-16] 三星代工首获Neuralink芯片订单，以4纳米工艺承
+5. [2026-06-16] 三星代工首获Neuralink芯片订单，以4纳米工艺承
    来源：网易科技
    链接：https://www.163.com/dy/article/KVHKCCIA0534A4SC.html
    角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星代工首获Neuralink芯片订单，以4纳米工艺承” against primary-source evidence.
 
-5. [2026-06-16] 新一代通信网加速构建 万亿级产业链迎发展窗口期-从推动5G-A（5G演进网络）商用到批复6G技术试验频率
-   来源：新华网-科技
-   链接：http://www.news.cn/tech/20260616/0f7b4b5a93ba4fca9210ebc8042e5567/c.html
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “新一代通信网加速构建 万亿级产业链迎发展窗口期-从推动5G-A（5G演进网络）商用到批复6G技术试验频率” against primary-source evidence.
-
 本次新增线索：
-- 即将上市之际 OpenAI再收传票｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicpzzz7789446.shtml
-- 美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicqhiz4497621.shtml
-- 3纳米下良率救星？应材推新型沉积与蚀刻设备 助力3D晶圆制程突破｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicqhiz4486285.shtml
-- 三星代工首获Neuralink芯片订单，以4纳米工艺承｜网易科技｜https://www.163.com/dy/article/KVHKCCIA0534A4SC.html
-- 新一代通信网加速构建 万亿级产业链迎发展窗口期-从推动5G-A（5G演进网络）商用到批复6G技术试验频率｜新华网-科技｜http://www.news.cn/tech/20260616/0f7b4b5a93ba4fca9210ebc8042e5567/c.html
-- Anthropic Is Still at Odds With the White House Over Claude Fable 5｜WIRED Business｜https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/
+- 理想汽车提出具身智能汽车定义，李想：Livis安全和效率今年有望超越人类｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-16/doc-inicqhiw6274956.shtml
+- 手把手教您可3D打印装配的全尺寸人形机械臂｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicqhix7746395.shtml
+- 沙特逼平南美劲旅乌拉圭，6场平局连续拷问人机大战AI预测｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-16/doc-inicqhiw6269764.shtml
+- AMD新BIOS让DDR5更稳：SOC电压直降0.1V、内存轻松跑7200MHz｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicqhiz4519963.shtml
+- 人工智能时代，我们如何学习——学习科学视野下的教育变革思考｜光明网-科技｜https://tech.gmw.cn/2026-06/16/content_38830568.htm
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（10 条，3 个来源）
+- AI 应用：AI动态（9 条，4 个来源）
 - 芯片/半导体：半导体供应链（5 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
 - 太空与低空经济：低空经济与无人机（1 条，1 个来源）
 - 科学前沿：科学前沿动态（2 条，1 个来源）
