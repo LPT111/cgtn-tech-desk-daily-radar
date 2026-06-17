@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/16 19:37:09
+生成时间：2026/6/17 08:05:57
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 11 条｜国际 0 条
-延续跟踪线索：国内 65 条｜国际 8 条
+新增核心线索：国内 28 条｜国际 16 条
+延续跟踪线索：国内 0 条｜国际 5 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-16] 即将上市之际 OpenAI再收传票
+1. [2026-06-17] 竞争加剧+成本下降 Token迎降价潮
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicpzzz7789446.shtml
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “即将上市之际 OpenAI再收传票” against primary-source evidence.
+   链接：https://finance.sina.com.cn/roll/2026-06-17/doc-inicruma9162143.shtml
+   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “竞争加剧+成本下降 Token迎降价潮” against primary-source evidence.
 
-2. [2026-06-16] 阿里推出具身智能大模型Qwen-Robot系列
+2. [22:14] 英伟达携手 Coherent 扩产 AI 光互联，黄仁勋称 AI 是终极通用技术
+   来源：IT之家
+   链接：https://www.ithome.com/0/965/135.htm
+   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达携手 Coherent 扩产 AI 光互联，黄仁勋称 AI 是终极通用技术” against primary-source evidence.
+
+3. [2026-06-17] 中国“纯硅”获突破 硅基量子芯片核心材料实现自主量产
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicqsxv4510647.shtml
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “阿里推出具身智能大模型Qwen-Robot系列” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-17/doc-inicseyw9010136.shtml
+   角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “中国“纯硅”获突破 硅基量子芯片核心材料实现自主量产” against primary-source evidence.
 
-3. [2026-06-16] 活力中国调研行 | 人形机器人量产迈入“快车道
-   来源：网易科技
-   链接：https://www.163.com/dy/article/KVIJ1PQQ0512B07B.html
-   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “活力中国调研行 | 人形机器人量产迈入“快车道” against primary-source evidence.
-
-4. [2026-06-16] 全国首个Token服务性能监测平台发布
+4. [2026-06-17] 财经早报：美伊协议谈判进入第二阶段，巴基斯坦向中方通报情况丨2026年6月17日
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicrcpn6162701.shtml
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “全国首个Token服务性能监测平台发布” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/y/2026-06-17/doc-inicsezc4005884.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “财经早报：美伊协议谈判进入第二阶段，巴基斯坦向中方通报情况丨2026年6月17日” against primary-source evidence.
 
-5. [2026-06-16] 新疆喀什地区2026年“科学与中国”上海科普援疆专项活动举办
-   来源：中国科学院
-   链接：https://www.cas.cn/kx/gz/202606/t20260616_5112689.shtml
-   角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “新疆喀什地区2026年“科学与中国”上海科普援疆专项活动举办” against primary-source evidence.
+5. [2026-06-17] 荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云
+   来源：观察者网-产业科技
+   链接：https://www.guancha.cn/politics/2024_05_24_735797.shtml
+   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云” against primary-source evidence.
 
 本次新增线索：
-- 新疆喀什地区2026年“科学与中国”上海科普援疆专项活动举办｜中国科学院｜https://www.cas.cn/kx/gz/202606/t20260616_5112689.shtml
-- 于挫折中奋起：长三乙火箭 2026 年第二次飞行任务圆满成功，型号队伍彻底把握规律、吃透技术｜IT之家｜https://www.ithome.com/0/965/081.htm
-- 上海硅酸盐所召开党委理论学习中心组学习会｜中国科学院｜https://www.cas.cn/djcx/gz/202606/t20260616_5112690.shtml
-- 30天消耗60万亿Token，大厂也用不起AI了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicrcpp7605357.shtml
-- 长三乙火箭成功发射实践三十一号卫星｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/16/content_533268.html
+- 竞争加剧+成本下降 Token迎降价潮｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-17/doc-inicruma9162143.shtml
+- 英伟达携手 Coherent 扩产 AI 光互联，黄仁勋称 AI 是终极通用技术｜IT之家｜https://www.ithome.com/0/965/135.htm
+- 中国“纯硅”获突破 硅基量子芯片核心材料实现自主量产｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-17/doc-inicseyw9010136.shtml
+- 财经早报：美伊协议谈判进入第二阶段，巴基斯坦向中方通报情况丨2026年6月17日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-06-17/doc-inicsezc4005884.shtml
+- 荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云｜观察者网-产业科技｜https://www.guancha.cn/politics/2024_05_24_735797.shtml
+- Anthropic's Fable shutdown is a big moment for open-source AI｜CNBC Technology｜https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html
 
 今日热点方向：
-- AI 应用：AI动态（19 条，6 个来源）
-- 芯片/半导体：半导体供应链（5 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）
-- 太空与低空经济：太空与低空动态（4 条，3 个来源）
-- 科学前沿：科学前沿动态（4 条，2 个来源）
+- AI 应用：AI动态（5 条，4 个来源）
+- 芯片/半导体：半导体供应链（2 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（5 条，2 个来源）
 
 国际科技背景：
-1. Can open-source beat OpenAI?｜Rest of World｜https://restofworld.org/2026/tiezhen-wang-china-us-open-source-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-2. The US government’s Anthropic models ban was never about an AI jailbreak｜TechCrunch｜https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/
-3. U.S. orders Anthropic to 'suspend all access' of latest AI models｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/us-orders-anthropic-to-suspend-all-access-of-latest-ai-models-181826834.html
-4. Anthropic Is Still at Odds With the White House Over Claude Fable 5｜WIRED Business｜https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/
-5. Anthropic reserves right to check ID for Claude subs｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/15/anthropic-reserves-right-to-check-id-for-claude-subs/5255804
+1. Anthropic's Fable shutdown is a big moment for open-source AI｜CNBC Technology｜https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html
+2. Anthropic to meet with Trump administration over Mythos dispute｜CNBC Technology｜https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html
+3. SpaceX is buying an AI coding agent for $60 billion｜Yahoo News Technology｜https://tech.yahoo.com/general/article/spacex-is-buying-an-ai-coding-agent-for-60-billion-161251300.html
+4. Can open-source beat OpenAI?｜Rest of World｜https://restofworld.org/2026/tiezhen-wang-china-us-open-source-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+5. Probably raises $9M to build a more reliable kind of AI｜TechCrunch｜https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
