@@ -1,73 +1,47 @@
 {
-  "generatedAt": "2026-06-18T00:04:47.294Z",
+  "generatedAt": "2026-06-18T00:25:23.431Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-18",
   "changeSummary": {
-    "domesticNew": 18,
-    "globalNew": 16,
-    "domesticContinued": 0,
-    "globalContinued": 10,
+    "domesticNew": 6,
+    "globalNew": 0,
+    "domesticContinued": 14,
+    "globalContinued": 26,
     "topNewDomestic": [
       {
-        "title": "3000余项展品将亮相2026世界人工智能大会",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html"
+        "title": "WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/965/722.htm"
       },
       {
-        "title": "理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强",
+        "title": "多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2374072.shtml"
       },
       {
-        "title": "财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日",
+        "title": "面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-06-18/doc-inicuqfz3386211.shtml"
       },
       {
-        "title": "发现复合驱动型骤旱激增原因",
+        "title": "软件“供应链投毒”集中爆发，国安部紧急提醒！",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfz3348037.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2372861.shtml"
       },
       {
-        "title": "15元买数百万Token：一句你好烧掉5万",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-06-18/doc-inictxki3603321.shtml"
+        "title": "SK海力士已经向重要客户寄送下一代面向AI的存储器“HBM4E”12层堆叠样品",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/KVMLOB3F0512B07B.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html"
-      },
-      {
-        "title": "Towers once planned for California shuttle launches leveled for SpaceX rockets",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/"
-      },
-      {
-        "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-        "source": "WIRED Business",
-        "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
-      },
-      {
-        "title": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/"
-      },
-      {
-        "title": "Anthropic asked for regulation. Washington went much further",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/06/17/anthropic-ai-regulation-trump.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 882,
+    "domesticRejected": 880,
     "globalRejected": 874,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,7 +56,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 28,
   "failedSources": [
     {
       "name": "财联社",
@@ -93,6 +67,16 @@
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -122,6 +106,16 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -141,7 +135,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 162,
+      "parsed": 181,
       "failed": false,
       "optional": false
     },
@@ -305,14 +299,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -389,18 +385,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1357,
+  "itemsSeen": 1376,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 326,
-  "itemsAfterDedupe": 235,
-  "todayItemsSeen": 18,
+  "itemsAfterRelevantFilter": 330,
+  "itemsAfterDedupe": 231,
+  "todayItemsSeen": 20,
   "suspectedItemsSeen": 20,
-  "skippedNonToday": 195,
+  "skippedNonToday": 188,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 162,
+      "parsed": 181,
       "failed": false,
       "optional": false
     },
@@ -564,14 +560,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -812,6 +810,16 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -853,31 +861,59 @@
     {
       "topic": "AI动态",
       "count": 4,
-      "sourceCount": 2,
+      "sourceCount": 3,
       "sources": [
+        "IT之家",
         "科技日报",
         "新浪科技"
       ],
       "items": [
+        "WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型",
         "3000余项展品将亮相2026世界人工智能大会",
         "发现复合驱动型骤旱激增原因",
-        "能够管理患者的医疗AI系统来了",
-        "葛健：AI时代，人类的价值在“一头一尾”"
+        "能够管理患者的医疗AI系统来了"
       ]
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 4,
+      "count": 5,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
         "网易科技"
       ],
       "items": [
+        "多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年",
         "财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日",
         "15元买数百万Token：一句你好烧掉5万",
         "OpenAI 为 ChatGPT 推出全新定时任务功能，今日起逐步推送",
         "从“提供工具”转向“交付成果”，AI应用开始争"
+      ]
+    },
+    {
+      "topic": "国产 GPU / 算力基础设施",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品",
+        "香橙派推出 Orange Pi 6 标准版开发板：45 TOPS AI 算力、可选 8/16/24GB RAM"
+      ]
+    },
+    {
+      "topic": "监管与安全动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "软件“供应链投毒”集中爆发，国安部紧急提醒！",
+        "有不法分子在微博平台仿冒腾讯客服账号，官方发布提示"
       ]
     },
     {
@@ -899,7 +935,7 @@
       "sourceCount": 2,
       "sources": [
         "网易科技",
-        "新浪科技"
+        "IT之家"
       ],
       "items": [
         "库克：苹果计划提高产品价格应对内存和存储芯片",
@@ -907,53 +943,166 @@
       ]
     },
     {
-      "topic": "新能源车与智能驾驶",
-      "count": 2,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强",
-        "全球最大纯电挖掘机交付：1200度电 四枪快充充满仅1.5小时"
-      ]
-    },
-    {
-      "topic": "国产 GPU / 算力基础设施",
-      "count": 2,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "香橙派推出 Orange Pi 6 标准版开发板：45 TOPS AI 算力、可选 8/16/24GB RAM",
-        "面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品"
-      ]
-    },
-    {
-      "topic": "监管与安全动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "有不法分子在微博平台仿冒腾讯客服账号，官方发布提示"
-      ]
-    },
-    {
       "topic": "半导体供应链",
-      "count": 1,
+      "count": 2,
       "sourceCount": 1,
       "sources": [
         "网易科技"
       ],
       "items": [
+        "SK海力士已经向重要客户寄送下一代面向AI的存储器“HBM4E”12层堆叠样品",
         "新方法预测晶体管缩小的物理极限值"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强"
       ]
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型",
+      "summary": "“Apple 开发者”官方账号今天（6 月 18 日）在 B 站发布 98 分钟视频，回顾了 2026 年全球开发者大会（WWDC）的特别演讲内容，其中重点演示了在本地运行 1 万亿参数的 Kimi-K2.6 模型。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/965/722.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/965/722.htm"
+      ],
+      "publishedAt": "Thu, 18 Jun 2026 00:16:19 GMT",
+      "date": "2026-06-18",
+      "category": "AI",
+      "classificationConfidence": 0.93,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 168,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 130
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "“Apple 开发者”官方账号今天（6 月 18 日）在 B 站发布 98 分钟视频，回顾了 2026 年全球开发者大会（WWDC）的特别演讲内容，其中重点演示了在本地运行 1 万亿参数的 Kimi-K2.6 模型。",
+      "relatedTitles": [
+        "WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年",
+      "summary": "快科技6月18日消息，据媒体报道，AI算力浪潮汹涌而至，大模型如同“最强大脑”，而光通信则堪称输送海量数据的“高速血管”。过去一年间，多款面向超算中心场景的高速光通信芯片已完成工艺验证，并陆续进入量产与交付阶段，持续弥补高端光芯片领域的国产...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2374072.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2374072.shtml"
+      ],
+      "publishedAt": "2026-06-18",
+      "date": "2026-06-18",
+      "category": "AI",
+      "classificationConfidence": 0.66,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 175,
+      "reporterScore": 183,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技6月18日消息，据媒体报道，AI算力浪潮汹涌而至，大模型如同“最强大脑”，而光通信则堪称输送海量数据的“高速血管”。过去一年间，多款面向超算中心场景的高速光通信芯片已完成工艺验证，并陆续进入量产与交付阶段，持续弥补高端光芯片领域的国产...",
+      "relatedTitles": [
+        "多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "3000余项展品将亮相2026世界人工智能大会",
@@ -1020,7 +1169,7 @@
       "relatedTitles": [
         "3000余项展品将亮相2026世界人工智能大会"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1088,7 +1237,7 @@
       "relatedTitles": [
         "理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1156,7 +1305,7 @@
       "relatedTitles": [
         "财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1224,7 +1373,7 @@
       "relatedTitles": [
         "发现复合驱动型骤旱激增原因"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1292,25 +1441,93 @@
       "relatedTitles": [
         "15元买数百万Token：一句你好烧掉5万"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "全球最大纯电挖掘机交付：1200度电 四枪快充充满仅1.5小时",
-      "summary": "快科技6月18日消息，徐工推出的XE700EV纯电动液压挖掘机在华东一大型露天矿山完成首台交付测试，这是全球最大吨位纯电挖掘机，主打矿山、土石方重载场景，能大幅降低工地运营开销。整机搭载两块合计1200千瓦时大容量宁德时代动力电池，日常连续...",
+      "title": "面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品",
+      "summary": "SK 海力士宣布已向主要客户供应下一代 AI 内存 HBM4E 的样品。相比 HBM4，新品性能与能效实现跨越式升级，引脚速率达 16Gbps，能效提升超 20%，并降低数据传输延迟。该产品采用先进 MR-MUF 工艺，实现 48GB 容量与更优热稳定性，旨在提升下一代 AI 数据中心效率。#HBM4E# #AI 芯片",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6572318.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-18/doc-inicuqfz3386211.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6572318.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-06-18/doc-inicuqfz3386211.shtml"
       ],
       "publishedAt": "2026-06-18",
       "date": "2026-06-18",
-      "category": "新能源车",
-      "classificationConfidence": 0.84,
+      "category": "AI",
+      "classificationConfidence": 0.74,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "IT之家 6 月 18 日消息，SK 海力士今日宣布，公司已向主要客户供应 12 层 HBM4E 样品，该产品是面向人工智能（AI）的下一代超高性能 DRAM。SK 海力士表示：“凭借长期以来积累的 HBM 先导开发能力和量产经验，公司成功...",
+      "relatedTitles": [
+        "面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "软件“供应链投毒”集中爆发，国安部紧急提醒！",
+      "summary": "国家网络安全通报中心监测发现，近期集中爆发多起供应链投毒攻击事件，涉及开源软件仓库和商用工具两大核心供应链场景。相关“供应链投毒”事件呈现攻击隐蔽性强、影响范围广、危害程度高和传播速度快的共性特征，可造成凭据遭窃取、远程代码执行和敏感数据泄...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2372861.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2372861.shtml"
+      ],
+      "publishedAt": "2026-06-18",
+      "date": "2026-06-18",
+      "category": "监管与安全",
+      "classificationConfidence": 0.71,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1318,22 +1535,22 @@
         "source"
       ],
       "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "keywords": "technology policy, AI governance, safety and standards",
       "priority": 5,
-      "score": 162,
-      "reporterScore": 178,
+      "score": 156,
+      "reporterScore": 164,
       "scoreBreakdown": {
         "hardTech": 85,
         "today": 18,
         "sourceAuthority": 12,
-        "multiSource": 22,
+        "multiSource": 12,
         "cgtFocus": 0,
         "visual": 0,
         "international": 9,
-        "policy": 0,
+        "policy": 12,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -1342,23 +1559,23 @@
         "primary": false,
         "visual": false,
         "international": true,
-        "interview": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 85,
-        "reporterScore": 120
+        "reporterScore": 110
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
+      "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “全球最大纯电挖掘机交付：1200度电 四枪快充充满仅1.5小时” against primary-source evidence.",
+      "format": "live",
+      "angle": "Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “软件“供应链投毒”集中爆发，国安部紧急提醒！” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "快科技6月18日消息，徐工推出的XE700EV纯电动液压挖掘机在华东一大型露天矿山完成首台交付测试，这是全球最大吨位纯电挖掘机，主打矿山、土石方重载场景，能大幅降低工地运营开销。整机搭载两块合计1200千瓦时大容量宁德时代动力电池，日常连续...",
+      "matchedTopic": "监管与安全动态",
+      "rawText": "国家网络安全通报中心监测发现，近期集中爆发多起供应链投毒攻击事件，涉及开源软件仓库和商用工具两大核心供应链场景。相关“供应链投毒”事件呈现攻击隐蔽性强、影响范围广、危害程度高和传播速度快的共性特征，可造成凭据遭窃取、远程代码执行和敏感数据泄...",
       "relatedTitles": [
-        "全球最大纯电挖掘机交付：1200度电 四枪快充充满仅1.5小时"
+        "软件“供应链投毒”集中爆发，国安部紧急提醒！"
       ],
       "isNewSinceLastRun": true
     },
@@ -1428,7 +1645,7 @@
       "relatedTitles": [
         "OpenAI 为 ChatGPT 推出全新定时任务功能，今日起逐步推送"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1495,6 +1712,74 @@
       "rawText": "亚马逊 AI 与量子计算负责人德桑蒂斯首次明确预测，首款具备商用价值的小型量子计算机将在未来 5 到 7 年内出现。他认为量子计算将遵循类似摩尔定律的发展路径，规模逐年扩大，并率先在化学、材料科学等量子原生领域取得突破。#量子计算##人工智能#",
       "relatedTitles": [
         "亚马逊高管预测：首批商用量子计算机将在 5-7 年内问世"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "SK海力士已经向重要客户寄送下一代面向AI的存储器“HBM4E”12层堆叠样品",
+      "summary": "SK海力士已经向重要客户寄送下一代面向AI的存储器“HBM4E”12层堆叠样品,sk,海力士,存储器,hbm,半导体芯片",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KVMLOB3F0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KVMLOB3F0512B07B.html"
+      ],
+      "publishedAt": "2026-06-18",
+      "date": "2026-06-18",
+      "category": "芯片",
+      "classificationConfidence": 0.92,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 157,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “SK海力士已经向重要客户寄送下一代面向AI的存储器“HBM4E”12层堆叠样品” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "SK海力士已经向重要客户寄送下一代面向AI的存储器“HBM4E”12层堆叠样品,sk,海力士,存储器,hbm,半导体芯片",
+      "relatedTitles": [
+        "SK海力士已经向重要客户寄送下一代面向AI的存储器“HBM4E”12层堆叠样品"
       ],
       "isNewSinceLastRun": true
     },
@@ -1564,75 +1849,7 @@
       "relatedTitles": [
         "能够管理患者的医疗AI系统来了"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "葛健：AI时代，人类的价值在“一头一尾”",
-      "summary": "葛健■本报记者 孙滔一位长期研究人工智能（AI）的天文学家，最终得出的结论却是，“人类最重要的，是不能被建模的部分”“AI擅长建模和重复执行，人类的价值在于‘一头一尾’——提出核心科学问题，并对结果作出价值判断”。2026年大年初一清晨，天...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfz3346985.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfz3346985.shtml"
-      ],
-      "publishedAt": "2026-06-18",
-      "date": "2026-06-18",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “葛健：AI时代，人类的价值在“一头一尾”” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "葛健■本报记者 孙滔一位长期研究人工智能（AI）的天文学家，最终得出的结论却是，“人类最重要的，是不能被建模的部分”“AI擅长建模和重复执行，人类的价值在于‘一头一尾’——提出核心科学问题，并对结果作出价值判断”。2026年大年初一清晨，天...",
-      "relatedTitles": [
-        "葛健：AI时代，人类的价值在“一头一尾”"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1700,7 +1917,7 @@
       "relatedTitles": [
         "库克：苹果计划提高产品价格应对内存和存储芯片"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1768,75 +1985,7 @@
       "relatedTitles": [
         "香橙派推出 Orange Pi 6 标准版开发板：45 TOPS AI 算力、可选 8/16/24GB RAM"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品",
-      "summary": "SK 海力士宣布已向主要客户供应下一代 AI 内存 HBM4E 的样品。相比 HBM4，新品性能与能效实现跨越式升级，引脚速率达 16Gbps，能效提升超 20%，并降低数据传输延迟。该产品采用先进 MR-MUF 工艺，实现 48GB 容量与更优热稳定性，旨在提升下一代 AI 数据中心效率。#HBM4E# #AI 芯片",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/965/713.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/965/713.htm"
-      ],
-      "publishedAt": "Wed, 17 Jun 2026 23:51:14 GMT",
-      "date": "2026-06-18",
-      "category": "AI",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 163,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "SK 海力士宣布已向主要客户供应下一代 AI 内存 HBM4E 的样品。相比 HBM4，新品性能与能效实现跨越式升级，引脚速率达 16Gbps，能效提升超 20%，并降低数据传输延迟。该产品采用先进 MR-MUF 工艺，实现 48GB 容量与更优热稳定性，旨在提升下一代 AI 数据中心效率。#HBM4E# #AI 芯片# #SK 海力士#",
-      "relatedTitles": [
-        "面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1904,7 +2053,7 @@
       "relatedTitles": [
         "有不法分子在微博平台仿冒腾讯客服账号，官方发布提示"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1972,7 +2121,7 @@
       "relatedTitles": [
         "新方法预测晶体管缩小的物理极限值"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2039,6 +2188,74 @@
       "rawText": "亚马逊高管首谈量子技术前景：实用计算机或在5至7年后出现,谷歌,人工智能,德桑蒂斯,知名企业,量子计算机,亚马逊公司",
       "relatedTitles": [
         "亚马逊高管首谈量子技术前景：实用计算机或在5至7年后出现"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "消息称受全球内存芯片涨价影响，三星 Galaxy Z Flip8/Fold8 系列折叠屏手机定价将上涨",
+      "summary": "据爆料，受全球内存芯片涨价影响，三星即将推出的 Galaxy Z Flip8 及 Fold8 系列定价可能上涨，Flip8 或达 1200 美元，Fold8 系列最高或至 2100 美元。为此，三星正计划通过预购优惠、以旧换新补贴等措施来平衡涨价影响。#三星折叠屏# #手机涨价#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/965/696.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/965/696.htm"
+      ],
+      "publishedAt": "Wed, 17 Jun 2026 22:50:48 GMT",
+      "date": "2026-06-18",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 137,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": -35,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": true,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 85
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “消息称受全球内存芯片涨价影响，三星 Galaxy Z Flip8/Fold8 系列折叠屏手机定价将上涨” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "据爆料，受全球内存芯片涨价影响，三星即将推出的 Galaxy Z Flip8 及 Fold8 系列定价可能上涨，Flip8 或达 1200 美元，Fold8 系列最高或至 2100 美元。为此，三星正计划通过预购优惠、以旧换新补贴等措施来平衡涨价影响。#三星折叠屏# #手机涨价#",
+      "relatedTitles": [
+        "消息称受全球内存芯片涨价影响，三星 Galaxy Z Flip8/Fold8 系列折叠屏手机定价将上涨"
       ],
       "isNewSinceLastRun": true
     },
@@ -2108,25 +2325,27 @@
       "relatedTitles": [
         "从“提供工具”转向“交付成果”，AI应用开始争"
       ],
-      "isNewSinceLastRun": true
-    },
+      "isNewSinceLastRun": false
+    }
+  ],
+  "suspectedLeads": [
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "消息称受全球内存芯片涨价影响，三星 Galaxy Z Flip8/Fold8 系列折叠屏手机定价将上涨",
-      "summary": "据爆料，受全球内存芯片涨价影响，三星即将推出的 Galaxy Z Flip8 及 Fold8 系列定价可能上涨，Flip8 或达 1200 美元，Fold8 系列最高或至 2100 美元。为此，三星正计划通过预购优惠、以旧换新补贴等措施来平衡涨价影响。#三星折叠屏# #手机涨价#",
+      "title": "京东发布国内首个智能体自主支付协议",
+      "summary": "端到端自动驾驶 理想智驾王炸：车位到车位全程在线，还能自主过收闸机 “800万clips训练” 贾浩楠 2025-01-16 理想汽车 端到端自动驾驶 端到端新突破：「蒸馏」一下性能提升100%！北理工计算机学院出品 CVPR 2024最佳论文 贾浩楠 2024-07-23 端到端自动驾驶 热门文章 WPS笔记正式发布",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-18/doc-inicuqfz3357204.shtml",
+      "url": "https://finance.sina.com.cn/tech/shenji/2026-06-17/doc-inicsrqu5791587.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-06-18/doc-inicuqfz3357204.shtml"
+        "https://finance.sina.com.cn/tech/shenji/2026-06-17/doc-inicsrqu5791587.shtml"
       ],
-      "publishedAt": "2026-06-18",
-      "date": "2026-06-18",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
+      "publishedAt": "2026-06-17",
+      "date": "2026-06-17",
+      "category": "AI",
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2134,52 +2353,49 @@
         "source"
       ],
       "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 4,
-      "score": 141,
-      "reporterScore": 149,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 186,
       "scoreBreakdown": {
         "hardTech": 95,
-        "today": 18,
+        "today": -10,
         "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 12,
-        "visual": 0,
+        "visual": 8,
         "international": 9,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": -35,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
       },
       "reporterSignals": {
         "primary": false,
-        "visual": false,
+        "visual": true,
         "international": true,
-        "interview": false,
-        "marketing": true,
+        "interview": true,
+        "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 85
+        "reporterScore": 123
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
       "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “消息称受全球内存芯片涨价影响，三星 Galaxy Z Flip8/Fold8 系列折叠屏手机定价将上涨” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "IT之家 6 月 18 日消息，消息源 Lanzuk 在 Naver 博客上透露，由于全球内存芯片价格上涨，三星 Galaxy Z Flip8 及 Fold8 系列手机定价相对现款机型将上涨。根据初步估计，Galaxy Z Flip8 最终...",
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “京东发布国内首个智能体自主支付协议” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "新浪科技讯 6月17日上午消息，近日，京东正式发布智能体自主支付协议，即Agent Autonomous Payment Protocol（以下简称京东A2P2协议）。据介绍，这是国内首个专门为智能体自主支付设计的协议。 据悉，京东...",
       "relatedTitles": [
-        "消息称受全球内存芯片涨价影响，三星 Galaxy Z Flip8/Fold8 系列折叠屏手机定价将上涨"
-      ],
-      "isNewSinceLastRun": true
-    }
-  ],
-  "suspectedLeads": [
+        "京东发布国内首个智能体自主支付协议"
+      ]
+    },
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "MEET大会",
@@ -2647,73 +2863,6 @@
       "rawText": "Amazon Bedrock Claude 3 Opus模型现可在亚马逊云科技Amazon Bedrock使用 Claude 3系列中最智能的模型 衡宇 2024-04-17 Amazon Bedrock Claude 亚马逊 热门文章 刚刚，国产AI自己造了AI，全球首例！ 卡帕西Anthropic最新头衔：技术员工（MTS） OpenAI大神教你如何榨干Codex “五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026 美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
       "relatedTitles": [
         "Amazon Bedrock"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "端到端自动驾驶",
-      "summary": "端到端自动驾驶 理想智驾王炸：车位到车位全程在线，还能自主过收闸机 “800万clips训练” 贾浩楠 2025-01-16 理想汽车 端到端自动驾驶 端到端新突破：「蒸馏」一下性能提升100%！北理工计算机学院出品 CVPR 2024最佳论文 贾浩楠 2024-07-23 端到端自动驾驶 热门文章 WPS笔记正式发布",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/%e7%ab%af%e5%88%b0%e7%ab%af%e8%87%aa%e5%8a%a8%e9%a9%be%e9%a9%b6",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/%e7%ab%af%e5%88%b0%e7%ab%af%e8%87%aa%e5%8a%a8%e9%a9%be%e9%a9%b6"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 4,
-      "score": 139,
-      "reporterScore": 153,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 103
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “端到端自动驾驶” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "端到端自动驾驶 理想智驾王炸：车位到车位全程在线，还能自主过收闸机 “800万clips训练” 贾浩楠 2025-01-16 理想汽车 端到端自动驾驶 端到端新突破：「蒸馏」一下性能提升100%！北理工计算机学院出品 CVPR 2024最佳论文 贾浩楠 2024-07-23 端到端自动驾驶 热门文章 WPS笔记正式发布：AI贯穿记录、整理与复用全过程 100亿砸向人形，不如先让10万台机器狗走进家庭 Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件 A股账户可以买Robotaxi了 字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
-      "relatedTitles": [
-        "端到端自动驾驶"
       ]
     },
     {
@@ -3552,7 +3701,7 @@
         "reporterScore": 120
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3584,7 +3733,7 @@
         "reporterScore": 108
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3616,7 +3765,7 @@
         "reporterScore": 120
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3712,7 +3861,7 @@
         "reporterScore": 98
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3744,359 +3893,7 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-      "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-      "publishedAt": "Wed, 17 Jun 2026 23:28:21 +0000",
-      "date": "2026-06-17",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI is hurting Apple in more ways than one: it may force iPhone price inc” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "VIVATECH 2026: Rebuilding business models with AI",
-      "summary": "What role will artificial intelligence play in business development and daily life? It’s one of the questions dominating this year’s Vivatech, Europe’s biggest event focused on sta",
-      "source": "France24 Technology",
-      "url": "https://www.france24.com/en/tv-shows/business/20260617-vivatech-2026-rebuilding-business-models-with-ai",
-      "publishedAt": "2026-06-17",
-      "date": "2026-06-17",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “VIVATECH 2026: Rebuilding business models with AI” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "G7 focuses on AI's contentious future and US industry dominance",
-      "summary": "G7 leaders were joined by some of the world's top tech executives on June 17 to discuss opportunities and dangers of artificial intelligence. The future of the industry is highly c",
-      "source": "France24 Technology",
-      "url": "https://www.france24.com/en/g7-focuses-on-ai-s-contentious-future-and-us-industry-dominance",
-      "publishedAt": "2026-06-17",
-      "date": "2026-06-17",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “G7 focuses on AI's contentious future and US industry dominance” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-      "summary": "Anthropic, the firm behind AI assistant Claude, submitted a confidential filing to go public with the US Securities and Exchange Commission on Monday. The firm, valued at close to ",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-      "publishedAt": "Wed, 17 Jun 2026 18:20:06 +0000",
-      "date": "2026-06-17",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic becomes first AI startup to join the Frontier carbon removal c” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-      "publishedAt": "Wed, 17 Jun 2026 19:01:19 +0000",
-      "date": "2026-06-17",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “World leaders want American AI. They just don’t want America to be able ” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Intel starts cooking up enhanced 18A-P silicon for would-be foundry customers",
-      "summary": "Chipzilla claims 9% speed bump without extra power draw but is compatible with designs for 18A",
-      "source": "The Register",
-      "url": "https://www.theregister.com/systems/2026/06/17/intel-starts-cooking-up-enhanced-18a-p-silicon-for-would-be-foundry-customers/5257487",
-      "publishedAt": "Wed, 17 Jun 2026 14:14:00 +0200",
-      "date": "2026-06-17",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Intel starts cooking up enhanced 18A-P silicon for would-be foundry cust” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX is buying an AI coding agent for $60 billion",
-      "summary": "The deal will help to bolster the company's efforts to compete with rivals like Anthropic and OpenAI, which also offer popular coding tools.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/general/article/spacex-is-buying-an-ai-coding-agent-for-60-billion-161251300.html",
-      "publishedAt": "2026-06-17",
-      "date": "2026-06-17",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.91,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “SpaceX is buying an AI coding agent for $60 billion” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in 'coming year'",
-      "summary": "Amazon's Nova2 model is behind the latest releases from LLM leaders OpenAI and Anthropic.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/17/amazon-ai-frontier-openai-anthropic.html",
-      "publishedAt": "Wed, 17 Jun 2026 17:37:30 GMT",
-      "date": "2026-06-17",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch ” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google Releases Free Android Upgrade To Millions: Samsung Galaxy Next",
-      "summary": "Samsung's Android 17 upgrade is coming to Galaxy phones via One UI 9. But the biggest feature, Gemini Intelligence, raises serious security questions. Here's what to know",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/gemini/articles/google-releases-free-android-upgrade-195951882.html",
-      "publishedAt": "2026-06-18",
-      "date": "2026-06-18",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Google Releases Free Android Upgrade To Millions: Samsung Galaxy Next” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "TSMC’s latest chip packaging breakthrough promises lower costs and better performance",
-      "summary": "TSMC's upcoming CoPoS packaging technology could reduce chip costs while improving AI performance, with mass production reportedly targeted for 2028.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/articles/tsmc-latest-chip-packaging-breakthrough-212926817.html",
-      "publishedAt": "2026-06-18",
-      "date": "2026-06-18",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.68,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “TSMC’s latest chip packaging breakthrough promises lower costs and bette” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Amazon AI exec predicts first 'commercially useful' quantum computers in 5-7 years",
-      "summary": "Quantum computing is becoming an increasingly competitive field, with tech giants including Microsoft, Google and IBM developing the technology.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/17/amazon-quantum-computing-timeline.html",
-      "publishedAt": "Wed, 17 Jun 2026 17:43:22 GMT",
-      "date": "2026-06-17",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Amazon AI exec predicts first 'commercially useful' quantum computers in” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4132,6 +3929,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+      "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+      "publishedAt": "Wed, 17 Jun 2026 23:28:21 +0000",
+      "date": "2026-06-17",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI is hurting Apple in more ways than one: it may force iPhone price inc” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
       "summary": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they’re still split on the risk Claude Fable 5 presents.",
       "source": "WIRED Business",
@@ -4146,6 +3975,166 @@
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic Is Still at Odds With the White House Over Claude Fable 5” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "VIVATECH 2026: Rebuilding business models with AI",
+      "summary": "What role will artificial intelligence play in business development and daily life? It’s one of the questions dominating this year’s Vivatech, Europe’s biggest event focused on sta",
+      "source": "France24 Technology",
+      "url": "https://www.france24.com/en/tv-shows/business/20260617-vivatech-2026-rebuilding-business-models-with-ai",
+      "publishedAt": "2026-06-17",
+      "date": "2026-06-17",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “VIVATECH 2026: Rebuilding business models with AI” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "G7 focuses on AI's contentious future and US industry dominance",
+      "summary": "G7 leaders were joined by some of the world's top tech executives on June 17 to discuss opportunities and dangers of artificial intelligence. The future of the industry is highly c",
+      "source": "France24 Technology",
+      "url": "https://www.france24.com/en/g7-focuses-on-ai-s-contentious-future-and-us-industry-dominance",
+      "publishedAt": "2026-06-17",
+      "date": "2026-06-17",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “G7 focuses on AI's contentious future and US industry dominance” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "summary": "Anthropic, the firm behind AI assistant Claude, submitted a confidential filing to go public with the US Securities and Exchange Commission on Monday. The firm, valued at close to ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "publishedAt": "Wed, 17 Jun 2026 18:20:06 +0000",
+      "date": "2026-06-17",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic becomes first AI startup to join the Frontier carbon removal c” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "publishedAt": "Wed, 17 Jun 2026 19:01:19 +0000",
+      "date": "2026-06-17",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “World leaders want American AI. They just don’t want America to be able ” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Intel starts cooking up enhanced 18A-P silicon for would-be foundry customers",
+      "summary": "Chipzilla claims 9% speed bump without extra power draw but is compatible with designs for 18A",
+      "source": "The Register",
+      "url": "https://www.theregister.com/systems/2026/06/17/intel-starts-cooking-up-enhanced-18a-p-silicon-for-would-be-foundry-customers/5257487",
+      "publishedAt": "Wed, 17 Jun 2026 14:14:00 +0200",
+      "date": "2026-06-17",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Intel starts cooking up enhanced 18A-P silicon for would-be foundry cust” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -4260,6 +4249,166 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX is buying an AI coding agent for $60 billion",
+      "summary": "The deal will help to bolster the company's efforts to compete with rivals like Anthropic and OpenAI, which also offer popular coding tools.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/general/article/spacex-is-buying-an-ai-coding-agent-for-60-billion-161251300.html",
+      "publishedAt": "2026-06-17",
+      "date": "2026-06-17",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.91,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “SpaceX is buying an AI coding agent for $60 billion” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in 'coming year'",
+      "summary": "Amazon's Nova2 model is behind the latest releases from LLM leaders OpenAI and Anthropic.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/17/amazon-ai-frontier-openai-anthropic.html",
+      "publishedAt": "Wed, 17 Jun 2026 17:37:30 GMT",
+      "date": "2026-06-17",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch ” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google Releases Free Android Upgrade To Millions: Samsung Galaxy Next",
+      "summary": "Samsung's Android 17 upgrade is coming to Galaxy phones via One UI 9. But the biggest feature, Gemini Intelligence, raises serious security questions. Here's what to know",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/google-releases-free-android-upgrade-195951882.html",
+      "publishedAt": "2026-06-18",
+      "date": "2026-06-18",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Google Releases Free Android Upgrade To Millions: Samsung Galaxy Next” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "TSMC’s latest chip packaging breakthrough promises lower costs and better performance",
+      "summary": "TSMC's upcoming CoPoS packaging technology could reduce chip costs while improving AI performance, with mass production reportedly targeted for 2028.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/articles/tsmc-latest-chip-packaging-breakthrough-212926817.html",
+      "publishedAt": "2026-06-18",
+      "date": "2026-06-18",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.68,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “TSMC’s latest chip packaging breakthrough promises lower costs and bette” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Amazon AI exec predicts first 'commercially useful' quantum computers in 5-7 years",
+      "summary": "Quantum computing is becoming an increasingly competitive field, with tech giants including Microsoft, Google and IBM developing the technology.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/17/amazon-quantum-computing-timeline.html",
+      "publishedAt": "Wed, 17 Jun 2026 17:43:22 GMT",
+      "date": "2026-06-17",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Amazon AI exec predicts first 'commercially useful' quantum computers in” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "SpaceX's blistering start still faces key tests that will determine the stock's true value",
       "summary": "SpaceX's stock has yet to face true price discovery.",
       "source": "CNBC Technology",
@@ -4355,8 +4504,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-18｜V3\n生成时间：2026/6/18 08:04:47\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2563｜确认今日 18｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 16 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-18] 3000余项展品将亮相2026世界人工智能大会\n   科技日报｜2026-06-18｜https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “3000余项展品将亮相2026世界人工智能大会” against primary-source evidence.\n\n2. [2026-06-18] 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强” against primary-source evidence.\n\n3. [2026-06-18] 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日” against primary-source evidence.\n\n4. [2026-06-18] 发现复合驱动型骤旱激增原因\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfz3348037.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “发现复合驱动型骤旱激增原因” against primary-source evidence.\n\n5. [2026-06-18] 15元买数百万Token：一句你好烧掉5万\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/tech/discovery/2026-06-18/doc-inictxki3603321.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “15元买数百万Token：一句你好烧掉5万” against primary-source evidence.\n\n本次新增线索：\n- 3000余项展品将亮相2026世界人工智能大会｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html\n- 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml\n- 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml\n- 发现复合驱动型骤旱激增原因｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfz3348037.shtml\n- 15元买数百万Token：一句你好烧掉5万｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-18/doc-inictxki3603321.shtml\n- CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html\n2. Towers once planned for California shuttle launches leveled for SpaceX rockets｜Ars Technica｜https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/\n3. The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy｜WIRED Business｜https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/\n4. China pushes for AI safety as G7 summit wraps up without Beijing｜CNBC Technology｜https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html\n5. Anthropic's Fable shutdown is a big moment for open-source AI｜CNBC Technology｜https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-18｜V3\n生成时间：2026/6/18 08:04:47\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2563｜确认今日 18｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 16 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-18] 3000余项展品将亮相2026世界人工智能大会\n   科技日报｜2026-06-18｜https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “3000余项展品将亮相2026世界人工智能大会” against primary-source evidence.\n\n2. [2026-06-18] 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强” against primary-source evidence.\n\n3. [2026-06-18] 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日” against primary-source evidence.\n\n4. [2026-06-18] 发现复合驱动型骤旱激增原因\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfz3348037.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “发现复合驱动型骤旱激增原因” against primary-source evidence.\n\n5. [2026-06-18] 15元买数百万Token：一句你好烧掉5万\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/tech/discovery/2026-06-18/doc-inictxki3603321.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “15元买数百万Token：一句你好烧掉5万” against primary-source evidence.\n\n本次新增线索：\n- 3000余项展品将亮相2026世界人工智能大会｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html\n- 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml\n- 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml\n- 发现复合驱动型骤旱激增原因｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfz3348037.shtml\n- 15元买数百万Token：一句你好烧掉5万｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-18/doc-inictxki3603321.shtml\n- CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html\n2. Towers once planned for California shuttle launches leveled for SpaceX rockets｜Ars Technica｜https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/\n3. The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy｜WIRED Business｜https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/\n4. China pushes for AI safety as G7 summit wraps up without Beijing｜CNBC Technology｜https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html\n5. Anthropic's Fable shutdown is a big moment for open-source AI｜CNBC Technology｜https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-18｜生成时间：2026/6/18 08:04:47｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2563｜确认今日 18｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 18 条｜国际 16 条<br>延续跟踪线索：国内 0 条｜国际 10 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-18] 3000余项展品将亮相2026世界人工智能大会</strong>\n      <span>科技日报｜2026-06-18｜<a href=\"https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：190｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “3000余项展品将亮相2026世界人工智能大会” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-18] 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强</strong>\n      <span>新浪科技｜2026-06-18｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：190｜需核验来源</span>\n      <p>报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-18] 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日</strong>\n      <span>新浪科技｜2026-06-18｜<a href=\"https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-18] 发现复合驱动型骤旱激增原因</strong>\n      <span>新浪科技｜2026-06-18｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfz3348037.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “发现复合驱动型骤旱激增原因” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-18] 15元买数百万Token：一句你好烧掉5万</strong>\n      <span>新浪科技｜2026-06-18｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-06-18/doc-inictxki3603321.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “15元买数百万Token：一句你好烧掉5万” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7</strong>\n      <span>时间：Wed, 17 Jun 2026 20:42:27 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Towers once planned for California shuttle launches leveled for SpaceX rockets</strong>\n      <span>时间：Wed, 17 Jun 2026 15:47:09 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Towers once planned for California shuttle launches leveled for SpaceX r” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy</strong>\n      <span>时间：Wed, 17 Jun 2026 22:52:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. China pushes for AI safety as G7 summit wraps up without Beijing</strong>\n      <span>时间：Wed, 17 Jun 2026 08:04:21 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “China pushes for AI safety as G7 summit wraps up without Beijing” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Anthropic's Fable shutdown is a big moment for open-source AI</strong>\n      <span>时间：Tue, 16 Jun 2026 22:34:32 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic's Fable shutdown is a big moment for open-source AI” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/18 08:04:47\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 16 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-18] 3000余项展品将亮相2026世界人工智能大会\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “3000余项展品将亮相2026世界人工智能大会” against primary-source evidence.\n\n2. [2026-06-18] 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml\n   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强” against primary-source evidence.\n\n3. [2026-06-18] 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日” against primary-source evidence.\n\n4. [2026-06-18] 发现复合驱动型骤旱激增原因\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfz3348037.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “发现复合驱动型骤旱激增原因” against primary-source evidence.\n\n5. [2026-06-18] 15元买数百万Token：一句你好烧掉5万\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-06-18/doc-inictxki3603321.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “15元买数百万Token：一句你好烧掉5万” against primary-source evidence.\n\n本次新增线索：\n- 3000余项展品将亮相2026世界人工智能大会｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html\n- 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml\n- 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml\n- 发现复合驱动型骤旱激增原因｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfz3348037.shtml\n- 15元买数百万Token：一句你好烧掉5万｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-18/doc-inictxki3603321.shtml\n- CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n国际科技背景：\n1. CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html\n2. Towers once planned for California shuttle launches leveled for SpaceX rockets｜Ars Technica｜https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/\n3. The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy｜WIRED Business｜https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/\n4. China pushes for AI safety as G7 summit wraps up without Beijing｜CNBC Technology｜https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html\n5. Anthropic's Fable shutdown is a big moment for open-source AI｜CNBC Technology｜https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-18｜V3\n生成时间：2026/6/18 08:25:23\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2582｜确认今日 20｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 14 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [00:16] WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型\n   IT之家｜2026-06-18｜https://www.ithome.com/0/965/722.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型” against primary-source evidence.\n\n2. [2026-06-18] 多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2374072.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年” against primary-source evidence.\n\n3. [2026-06-18] 3000余项展品将亮相2026世界人工智能大会\n   科技日报｜2026-06-18｜https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “3000余项展品将亮相2026世界人工智能大会” against primary-source evidence.\n\n4. [2026-06-18] 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强” against primary-source evidence.\n\n5. [2026-06-18] 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日” against primary-source evidence.\n\n本次新增线索：\n- WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型｜IT之家｜https://www.ithome.com/0/965/722.htm\n- 多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2374072.shtml\n- 面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-18/doc-inicuqfz3386211.shtml\n- 软件“供应链投毒”集中爆发，国安部紧急提醒！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2372861.shtml\n- SK海力士已经向重要客户寄送下一代面向AI的存储器“HBM4E”12层堆叠样品｜网易科技｜https://www.163.com/dy/article/KVMLOB3F0512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html\n2. Towers once planned for California shuttle launches leveled for SpaceX rockets｜Ars Technica｜https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/\n3. The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy｜WIRED Business｜https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/\n4. China pushes for AI safety as G7 summit wraps up without Beijing｜CNBC Technology｜https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html\n5. Anthropic's Fable shutdown is a big moment for open-source AI｜CNBC Technology｜https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-18｜V3\n生成时间：2026/6/18 08:25:23\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2582｜确认今日 20｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 14 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [00:16] WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型\n   IT之家｜2026-06-18｜https://www.ithome.com/0/965/722.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型” against primary-source evidence.\n\n2. [2026-06-18] 多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2374072.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年” against primary-source evidence.\n\n3. [2026-06-18] 3000余项展品将亮相2026世界人工智能大会\n   科技日报｜2026-06-18｜https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “3000余项展品将亮相2026世界人工智能大会” against primary-source evidence.\n\n4. [2026-06-18] 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强” against primary-source evidence.\n\n5. [2026-06-18] 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日\n   新浪科技｜2026-06-18｜https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日” against primary-source evidence.\n\n本次新增线索：\n- WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型｜IT之家｜https://www.ithome.com/0/965/722.htm\n- 多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2374072.shtml\n- 面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-18/doc-inicuqfz3386211.shtml\n- 软件“供应链投毒”集中爆发，国安部紧急提醒！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2372861.shtml\n- SK海力士已经向重要客户寄送下一代面向AI的存储器“HBM4E”12层堆叠样品｜网易科技｜https://www.163.com/dy/article/KVMLOB3F0512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html\n2. Towers once planned for California shuttle launches leveled for SpaceX rockets｜Ars Technica｜https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/\n3. The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy｜WIRED Business｜https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/\n4. China pushes for AI safety as G7 summit wraps up without Beijing｜CNBC Technology｜https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html\n5. Anthropic's Fable shutdown is a big moment for open-source AI｜CNBC Technology｜https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-18｜生成时间：2026/6/18 08:25:23｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2582｜确认今日 20｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 0 条<br>延续跟踪线索：国内 14 条｜国际 26 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [00:16] WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型</strong>\n      <span>IT之家｜2026-06-18｜<a href=\"https://www.ithome.com/0/965/722.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-18] 多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年</strong>\n      <span>新浪科技｜2026-06-18｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2374072.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-18] 3000余项展品将亮相2026世界人工智能大会</strong>\n      <span>科技日报｜2026-06-18｜<a href=\"https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：190｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “3000余项展品将亮相2026世界人工智能大会” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-18] 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强</strong>\n      <span>新浪科技｜2026-06-18｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：190｜需核验来源</span>\n      <p>报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-18] 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日</strong>\n      <span>新浪科技｜2026-06-18｜<a href=\"https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7</strong>\n      <span>时间：Wed, 17 Jun 2026 20:42:27 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Towers once planned for California shuttle launches leveled for SpaceX rockets</strong>\n      <span>时间：Wed, 17 Jun 2026 15:47:09 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Towers once planned for California shuttle launches leveled for SpaceX r” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy</strong>\n      <span>时间：Wed, 17 Jun 2026 22:52:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. China pushes for AI safety as G7 summit wraps up without Beijing</strong>\n      <span>时间：Wed, 17 Jun 2026 08:04:21 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “China pushes for AI safety as G7 summit wraps up without Beijing” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Anthropic's Fable shutdown is a big moment for open-source AI</strong>\n      <span>时间：Tue, 16 Jun 2026 22:34:32 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic's Fable shutdown is a big moment for open-source AI” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/18 08:25:23\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 14 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [00:16] WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型\n   来源：IT之家\n   链接：https://www.ithome.com/0/965/722.htm\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型” against primary-source evidence.\n\n2. [2026-06-18] 多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2374072.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年” against primary-source evidence.\n\n3. [2026-06-18] 3000余项展品将亮相2026世界人工智能大会\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “3000余项展品将亮相2026世界人工智能大会” against primary-source evidence.\n\n4. [2026-06-18] 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml\n   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强” against primary-source evidence.\n\n5. [2026-06-18] 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日” against primary-source evidence.\n\n本次新增线索：\n- WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型｜IT之家｜https://www.ithome.com/0/965/722.htm\n- 多款国产高速光通信芯片进入量产阶段 国产光纤产能排到2027年｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2374072.shtml\n- 面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-18/doc-inicuqfz3386211.shtml\n- 软件“供应链投毒”集中爆发，国安部紧急提醒！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqhf2372861.shtml\n- SK海力士已经向重要客户寄送下一代面向AI的存储器“HBM4E”12层堆叠样品｜网易科技｜https://www.163.com/dy/article/KVMLOB3F0512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n国际科技背景：\n1. CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html\n2. Towers once planned for California shuttle launches leveled for SpaceX rockets｜Ars Technica｜https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/\n3. The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy｜WIRED Business｜https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/\n4. China pushes for AI safety as G7 summit wraps up without Beijing｜CNBC Technology｜https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html\n5. Anthropic's Fable shutdown is a big moment for open-source AI｜CNBC Technology｜https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
