@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/18 09:45:20
+生成时间：2026/6/18 17:59:11
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 30 条｜国际 1 条
-延续跟踪线索：国内 13 条｜国际 24 条
+新增核心线索：国内 57 条｜国际 5 条
+延续跟踪线索：国内 10 条｜国际 24 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-18] 人工智能全面赋能电商大促
+1. [2026-06-18] 专业化碳监测遥感卫星“天鉴星座”发布
    来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0618/c1004-40743101.html
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “人工智能全面赋能电商大促” against primary-source evidence.
+   链接：http://finance.people.com.cn/n1/2026/0618/c1004-40743167.html
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “专业化碳监测遥感卫星“天鉴星座”发布” against primary-source evidence.
 
-2. [2026-06-18] AI服务收费背后的逻辑
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0618/c1004-40743112.html
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI服务收费背后的逻辑” against primary-source evidence.
+2. [2026-06-18] 人形机器人不再「走走停停」：Current Robotics发布全身灵巧操作模型Curr-0
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicvmmp6523627.shtml
+   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “人形机器人不再「走走停停」：Current Robotics发布全身灵巧操作模型Curr-0” against primary-source evidence.
 
-3. [2026-06-18] 具身智能有望走进千家万户
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0618/c1004-40743113.html
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “具身智能有望走进千家万户” against primary-source evidence.
+3. [2026-06-18] 无EUV的突破！麒麟9030首拆：中芯国际N+3一项指标击败英特尔18A
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-06-18/doc-inicsrqv7140806.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “无EUV的突破！麒麟9030首拆：中芯国际N+3一项指标击败英特尔18A” against primary-source evidence.
 
-4. [2026-06-18] 大模型API降价释放了三重信号
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0618/c1004-40743095.html
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “大模型API降价释放了三重信号” against primary-source evidence.
+4. [2026-06-18] 全面释放新型消费潜能，AI+消费迎政策“组合拳
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KVNIH3LQ0534A4SC.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “全面释放新型消费潜能，AI+消费迎政策“组合拳” against primary-source evidence.
 
-5. [01:35] Steam 壁纸引擎被黑客利用，“带毒壁纸”可窃取玩家账号
-   来源：IT之家
-   链接：https://www.ithome.com/0/965/758.htm
-   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “Steam 壁纸引擎被黑客利用，“带毒壁纸”可窃取玩家账号” against primary-source evidence.
+5. [2026-06-18] OpenAI又迎来一位大将！谷歌Gemini联合负责人确认加入
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KVNEVOOF05198CJN.html
+   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI又迎来一位大将！谷歌Gemini联合负责人确认加入” against primary-source evidence.
 
 本次新增线索：
-- 人工智能全面赋能电商大促｜人民网-科技｜http://finance.people.com.cn/n1/2026/0618/c1004-40743101.html
-- AI服务收费背后的逻辑｜人民网-科技｜http://finance.people.com.cn/n1/2026/0618/c1004-40743112.html
-- 具身智能有望走进千家万户｜人民网-科技｜http://finance.people.com.cn/n1/2026/0618/c1004-40743113.html
-- 大模型API降价释放了三重信号｜人民网-科技｜http://finance.people.com.cn/n1/2026/0618/c1004-40743095.html
-- Steam 壁纸引擎被黑客利用，“带毒壁纸”可窃取玩家账号｜IT之家｜https://www.ithome.com/0/965/758.htm
-- How to turn off AI in your Google Docs｜TechCrunch｜https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/
+- 专业化碳监测遥感卫星“天鉴星座”发布｜人民网-科技｜http://finance.people.com.cn/n1/2026/0618/c1004-40743167.html
+- 人形机器人不再「走走停停」：Current Robotics发布全身灵巧操作模型Curr-0｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicvmmp6523627.shtml
+- 无EUV的突破！麒麟9030首拆：中芯国际N+3一项指标击败英特尔18A｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-18/doc-inicsrqv7140806.shtml
+- 全面释放新型消费潜能，AI+消费迎政策“组合拳｜网易科技｜https://www.163.com/dy/article/KVNIH3LQ0534A4SC.html
+- OpenAI又迎来一位大将！谷歌Gemini联合负责人确认加入｜网易科技｜https://www.163.com/dy/article/KVNEVOOF05198CJN.html
+- 7 Refurbished Samsung Galaxy Phones Still Worth Buying｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/7-refurbished-samsung-galaxy-phones-001700945.html
 
 今日热点方向：
-- AI 应用：AI动态（8 条，5 个来源）
-- 芯片/半导体：半导体供应链（3 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（8 条，3 个来源）
-- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
-- 科学前沿：科学前沿与科研设施（3 条，3 个来源）
+- AI 应用：AI动态（19 条，6 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（4 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（6 条，4 个来源）
+- 太空与低空经济：太空与低空动态（4 条，4 个来源）
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
 1. CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html
-2. Towers once planned for California shuttle launches leveled for SpaceX rockets｜Ars Technica｜https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/
-3. The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy｜WIRED Business｜https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/
-4. China pushes for AI safety as G7 summit wraps up without Beijing｜CNBC Technology｜https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html
-5. Anthropic's Fable shutdown is a big moment for open-source AI｜CNBC Technology｜https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html
+2. 7 Refurbished Samsung Galaxy Phones Still Worth Buying｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/7-refurbished-samsung-galaxy-phones-001700945.html
+3. Towers once planned for California shuttle launches leveled for SpaceX rockets｜Ars Technica｜https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/
+4. The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy｜WIRED Business｜https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/
+5. China pushes for AI safety as G7 summit wraps up without Beijing｜CNBC Technology｜https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
