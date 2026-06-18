@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/17 19:18:58
+生成时间：2026/6/18 08:04:47
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 1 条
-延续跟踪线索：国内 72 条｜国际 22 条
+新增核心线索：国内 18 条｜国际 16 条
+延续跟踪线索：国内 0 条｜国际 10 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-17] 京东发布国内首个智能体自主支付协议
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-06-17/doc-inicsrqu5791587.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “京东发布国内首个智能体自主支付协议” against primary-source evidence.
-
-2. [2026-06-17] 从货币、资产到数据：香港数字金融的制度试验与全球新定位
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-17/doc-inicthnv2829812.shtml
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “从货币、资产到数据：香港数字金融的制度试验与全球新定位” against primary-source evidence.
-
-3. [2026-06-17] 中国政府发布白皮书，推动人工智能全球治理
+1. [2026-06-18] 3000余项展品将亮相2026世界人工智能大会
    来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-06/17/content_533731.html
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “中国政府发布白皮书，推动人工智能全球治理” against primary-source evidence.
+   链接：https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “3000余项展品将亮相2026世界人工智能大会” against primary-source evidence.
 
-4. [2026-06-17] 防范词元概念炒作风险
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0617/c1004-40742142.html
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “防范词元概念炒作风险” against primary-source evidence.
-
-5. [2026-06-17] 竞争加剧+成本下降 Token迎降价潮
+2. [2026-06-18] 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-06-17/doc-inicruma9162143.shtml
-   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “竞争加剧+成本下降 Token迎降价潮” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml
+   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强” against primary-source evidence.
+
+3. [2026-06-18] 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日” against primary-source evidence.
+
+4. [2026-06-18] 发现复合驱动型骤旱激增原因
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfz3348037.shtml
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “发现复合驱动型骤旱激增原因” against primary-source evidence.
+
+5. [2026-06-18] 15元买数百万Token：一句你好烧掉5万
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-06-18/doc-inictxki3603321.shtml
+   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “15元买数百万Token：一句你好烧掉5万” against primary-source evidence.
 
 本次新增线索：
-- 从货币、资产到数据：香港数字金融的制度试验与全球新定位｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-17/doc-inicthnv2829812.shtml
-- 国内现役最大尺寸：九天行歌 5 米直径铝合金大型共底火箭贮箱顺利通过测试｜IT之家｜https://www.ithome.com/0/965/585.htm
-- Token调用量指数级增长，AI+生态正推动产业发展｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-17/doc-inicthnp7088526.shtml
-- 工程热物理所召开党委理论中心组学习（扩大）会｜中国科学院｜https://www.cas.cn/djcx/gz/202606/t20260617_5112729.shtml
-- 美迪凯：目前公司向客户供应的半导体用玻璃基板为未打孔基板｜网易科技｜https://www.163.com/dy/article/KVL8G0R40534A4SC.html
-- In a bid to lower the technical barrier to modding, Nvidia's RTX Remix is now letting in AI agents｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/bid-lower-technical-barrier-modding-085833033.html
+- 3000余项展品将亮相2026世界人工智能大会｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/18/content_533981.html
+- 理想高管：绝不在国内车企智驾内卷中自我麻痹 特斯拉才是这星球最强｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfx6598335.shtml
+- 财经早报：沃什首秀！议息声明大修改出现三个变化，吴清释放A股改革强音！四个重要信号丨2026年6月18日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-06-18/doc-inicuqhf2352807.shtml
+- 发现复合驱动型骤旱激增原因｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicuqfz3348037.shtml
+- 15元买数百万Token：一句你好烧掉5万｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-06-18/doc-inictxki3603321.shtml
+- CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html
 
 今日热点方向：
-- AI 应用：AI动态（30 条，6 个来源）
-- 芯片/半导体：半导体供应链（11 条，3 个来源）
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，3 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（2 条，1 个来源）
+- AI 应用：AI动态（4 条，2 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）
+- 太空与低空经济：
+- 科学前沿：科学前沿与科研设施（2 条，2 个来源）
 
 国际科技背景：
-1. China pushes for AI safety as G7 summit wraps up without Beijing｜CNBC Technology｜https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html
-2. Anthropic's Fable shutdown is a big moment for open-source AI｜CNBC Technology｜https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html
-3. Can open-source beat OpenAI?｜Rest of World｜https://restofworld.org/2026/tiezhen-wang-china-us-open-source-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-4. Anthropic to meet with Trump administration over Mythos dispute｜CNBC Technology｜https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html
-5. In a bid to lower the technical barrier to modding, Nvidia's RTX Remix is now letting in AI agents｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/bid-lower-technical-barrier-modding-085833033.html
+1. CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html
+2. Towers once planned for California shuttle launches leveled for SpaceX rockets｜Ars Technica｜https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/
+3. The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy｜WIRED Business｜https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/
+4. China pushes for AI safety as G7 summit wraps up without Beijing｜CNBC Technology｜https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html
+5. Anthropic's Fable shutdown is a big moment for open-source AI｜CNBC Technology｜https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
