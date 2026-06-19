@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/19 09:50:01
+生成时间：2026/6/19 10:08:51
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 12 条｜国际 0 条
-延续跟踪线索：国内 12 条｜国际 23 条
+新增核心线索：国内 5 条｜国际 0 条
+延续跟踪线索：国内 17 条｜国际 23 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -16,10 +16,10 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-06-19/doc-inicwxpe3075081.shtml
    角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “运营商财经网康钊：印度喜欢大量进口中国车床 中国早就该封杀对印车床出口了” against primary-source evidence.
 
-2. [2026-06-19] 捷克1：1南非，12大AI仅1家命中 平局正在成为AI预测最大克星
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/chanjing/gsnews/2026-06-19/doc-inicwxnz4998185.shtml
-   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “捷克1：1南非，12大AI仅1家命中 平局正在成为AI预测最大克星” against primary-source evidence.
+2. [2026-06-19] 从“看得见”到“看得全” 多技术路径提升对地观测能力
+   来源：央视新闻科技
+   链接：https://news.cctv.com/2026/06/19/ARTIdhUQAnQZuE1MRUep6mJl260619.shtml
+   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “从“看得见”到“看得全” 多技术路径提升对地观测能力” against primary-source evidence.
 
 3. [2026-06-19] 八部门联合发文力推“人工智能 + 消费”，扩大 AI 手机电脑及智能网联汽车消费
    来源：新浪科技
@@ -31,23 +31,23 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicwxpf9872989.shtml
    角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “前Meta首席AI科学家杨立昆：马斯克的xAI已失败，只能靠出租算力来收回成本” against primary-source evidence.
 
-5. [2026-06-19] 瑞典呼吁禁止特斯拉FSD在欧盟范围内落地，除非其禁用超速功能
+5. [2026-06-19] AI 账单失控：AT&T、Meta 等巨头急刹车，从“疯狂消耗”到“严苛限制”
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicwxpe3086559.shtml
-   角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “瑞典呼吁禁止特斯拉FSD在欧盟范围内落地，除非其禁用超速功能” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-06-19/doc-inicxcvc9773376.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI 账单失控：AT&T、Meta 等巨头急刹车，从“疯狂消耗”到“严苛限制”” against primary-source evidence.
 
 本次新增线索：
-- 运营商财经网康钊：印度喜欢大量进口中国车床 中国早就该封杀对印车床出口了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-19/doc-inicwxpe3075081.shtml
-- 捷克1：1南非，12大AI仅1家命中 平局正在成为AI预测最大克星｜新浪科技｜https://finance.sina.com.cn/chanjing/gsnews/2026-06-19/doc-inicwxnz4998185.shtml
-- 八部门联合发文力推“人工智能 + 消费”，扩大 AI 手机电脑及智能网联汽车消费｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-19/doc-inicwxpf9852027.shtml
-- 前Meta首席AI科学家杨立昆：马斯克的xAI已失败，只能靠出租算力来收回成本｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicwxpf9872989.shtml
-- 瑞典呼吁禁止特斯拉FSD在欧盟范围内落地，除非其禁用超速功能｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicwxpe3086559.shtml
+- 从“看得见”到“看得全” 多技术路径提升对地观测能力｜央视新闻科技｜https://news.cctv.com/2026/06/19/ARTIdhUQAnQZuE1MRUep6mJl260619.shtml
+- AI 账单失控：AT&T、Meta 等巨头急刹车，从“疯狂消耗”到“严苛限制”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-19/doc-inicxcvc9773376.shtml
+- 比亚迪将在韩国推出插电混动车型进一步拓展市场｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-19/doc-inicxcvc9773259.shtml
+- 从数字到物理：2026研华工业AI生态伙伴峰会，解码产业规模化落地之道｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-19/doc-inicxcvc9774230.shtml
+- 能全方位服务家庭的AI中枢，摩尔线程MTT AICUBE 618开启预售送好礼！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-19/doc-inicxcva2998582.shtml
 
 今日热点方向：
-- AI 应用：AI动态（4 条，2 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- AI 应用：AI动态（5 条，1 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（3 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）
 - 太空与低空经济：太空与低空动态（2 条，2 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
