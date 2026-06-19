@@ -3,60 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/19 18:58:36
+生成时间：2026/6/20 07:54:32
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 2 条
-延续跟踪线索：国内 37 条｜国际 22 条
+新增核心线索：国内 5 条｜国际 3 条
+延续跟踪线索：国内 0 条｜国际 11 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-19] 银河通用发布全球首个人形机器人“小脑”GPT基
+1. [2026-06-20] 诺贝尔获奖者江珀宣布离开谷歌DeepMind，加入An
    来源：网易科技
-   链接：https://www.163.com/dy/article/KVPRC0C90512B07B.html
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “银河通用发布全球首个人形机器人“小脑”GPT基” against primary-source evidence.
+   链接：https://www.163.com/dy/article/KVRLT2B70512B07B.html
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “诺贝尔获奖者江珀宣布离开谷歌DeepMind，加入An” against primary-source evidence.
 
-2. [2026-06-19] 多所新型研究型大学扩招 新增人工智能、未来机器人等热门专业
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-06/19/content_534846.html
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “多所新型研究型大学扩招 新增人工智能、未来机器人等热门专业” against primary-source evidence.
+2. [2026-06-20] 垣信完成首例无改造存量商用手机直连卫星通话
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KVRMLADP0534A4SC.html
+   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “垣信完成首例无改造存量商用手机直连卫星通话” against primary-source evidence.
 
-3. [2026-06-19] 美国人重回月球的希望！NASA阿尔忒弥斯3号SLS火箭开始建造
+3. [2026-06-20] 如果出现更高等的生命体 会把人类当作宠物或食物吗
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-06-19/doc-inicwxnz4959089.shtml
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “美国人重回月球的希望！NASA阿尔忒弥斯3号SLS火箭开始建造” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-20/doc-iniczamz4156828.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “如果出现更高等的生命体 会把人类当作宠物或食物吗” against primary-source evidence.
 
-4. [2026-06-19] 猎聘联合清华发布《AI时代技能趋势报告》，CEO戴科彬：AI正在重构人才坐标系与组织形态
+4. [2026-06-20] 42名企业高管闭关5天学“数智”
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/2026-06-19/doc-inicxcva3003369.shtml
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “猎聘联合清华发布《AI时代技能趋势报告》，CEO戴科彬：AI正在重构人才坐标系与组织形态” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-20/doc-inicyrwm9235783.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “42名企业高管闭关5天学“数智”” against primary-source evidence.
 
-5. [2026-06-19] 捷克1：1南非，12大AI仅1家命中 平局正在成为AI预测最大克星
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/chanjing/gsnews/2026-06-19/doc-inicwxnz4998185.shtml
-   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “捷克1：1南非，12大AI仅1家命中 平局正在成为AI预测最大克星” against primary-source evidence.
+5. [2026-06-20] 诺贝尔奖得主约翰·江珀宣布加盟Anthropic
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KVRLQ09U0534A4SC.html
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “诺贝尔奖得主约翰·江珀宣布加盟Anthropic” against primary-source evidence.
 
 本次新增线索：
-- 银河通用发布全球首个人形机器人“小脑”GPT基｜网易科技｜https://www.163.com/dy/article/KVPRC0C90512B07B.html
-- Galaxy A27 leak reveals Samsung's budget phone is finally getting a modern look｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/galaxy-a27-leak-reveals-samsungs-223953881.html
-- Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders｜CNBC Technology｜https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html
+- 诺贝尔获奖者江珀宣布离开谷歌DeepMind，加入An｜网易科技｜https://www.163.com/dy/article/KVRLT2B70512B07B.html
+- 垣信完成首例无改造存量商用手机直连卫星通话｜网易科技｜https://www.163.com/dy/article/KVRMLADP0534A4SC.html
+- 如果出现更高等的生命体 会把人类当作宠物或食物吗｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-20/doc-iniczamz4156828.shtml
+- 42名企业高管闭关5天学“数智”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-20/doc-inicyrwm9235783.shtml
+- 诺贝尔奖得主约翰·江珀宣布加盟Anthropic｜网易科技｜https://www.163.com/dy/article/KVRLQ09U0534A4SC.html
+- Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work｜TechCrunch｜https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/
 
 今日热点方向：
-- AI 应用：AI动态（11 条，4 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）
+- AI 应用：AI 应用与智能体（4 条，2 个来源）
+- 芯片/半导体：
+- 机器人/具身智能：
+- 新能源车/智能驾驶：
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- 科学前沿：
 
 国际科技背景：
-1. CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7｜CNBC Technology｜https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html
-2. The US says ASML’s top chip tool may be in China. ASML says it isn’t｜TechCrunch｜https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/
+1. Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work｜TechCrunch｜https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/
+2. The US says ASML’s top chip tool may be in China. ASML says it isn’t.｜TechCrunch｜https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/
 3. The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy｜WIRED Business｜https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/
-4. China pushes for AI safety as G7 summit wraps up without Beijing｜CNBC Technology｜https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html
-5. SpaceX is buying an AI coding agent for $60 billion｜Yahoo News Technology｜https://tech.yahoo.com/general/article/spacex-is-buying-an-ai-coding-agent-for-60-billion-161251300.html
+4. Rumours that AMD and Samsung are talks over next-gen Zen 6 chips just keep coming｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/rumours-amd-samsung-talks-over-143733416.html
+5. The New Google Pixel Update Quietly Buried This Useful Feature Under AI Marketing｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-pixel-quietly-buried-useful-211700073.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
