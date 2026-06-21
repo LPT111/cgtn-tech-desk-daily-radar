@@ -1,34 +1,13 @@
 {
-  "generatedAt": "2026-06-21T09:52:41.976Z",
+  "generatedAt": "2026-06-21T10:06:56.566Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-21",
   "changeSummary": {
-    "domesticNew": 4,
+    "domesticNew": 0,
     "globalNew": 0,
-    "domesticContinued": 25,
+    "domesticContinued": 28,
     "globalContinued": 9,
-    "topNewDomestic": [
-      {
-        "title": "航天产业为老区发展注入新动能（老区新事）",
-        "source": "中国日报-科技",
-        "url": "https://china.chinadaily.com.cn/a/202606/21/WS6a37b13ca310d709c2fb92c2.html"
-      },
-      {
-        "title": "张坤两年前就布局三星电子、海力士，最新如何操",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KVVCMBFS05198CJN.html"
-      },
-      {
-        "title": "特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/966/610.htm"
-      },
-      {
-        "title": "一周产业基金｜中国电信20亿元押注AI；全国首只",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/KVVCRRDC0512B07B.html"
-      }
-    ],
+    "topNewDomestic": [],
     "topNewGlobal": [],
     "hasPrevious": true
   },
@@ -36,7 +15,7 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 871,
+    "domesticRejected": 872,
     "globalRejected": 891,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -51,32 +30,12 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 27,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -96,29 +55,9 @@
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -140,7 +79,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 128,
+      "parsed": 129,
       "failed": false,
       "optional": false
     },
@@ -190,8 +129,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -239,9 +177,8 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -305,16 +242,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -391,18 +326,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1258,
+  "itemsSeen": 1322,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 286,
-  "itemsAfterDedupe": 211,
-  "todayItemsSeen": 29,
-  "suspectedItemsSeen": 20,
-  "skippedNonToday": 163,
+  "itemsAfterRelevantFilter": 340,
+  "itemsAfterDedupe": 246,
+  "todayItemsSeen": 28,
+  "suspectedItemsSeen": 19,
+  "skippedNonToday": 197,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 128,
+      "parsed": 129,
       "failed": false,
       "optional": false
     },
@@ -452,8 +387,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -501,9 +435,8 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -567,16 +500,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -807,29 +738,9 @@
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -882,8 +793,8 @@
       "items": [
         "特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标",
         "网易云音乐旗下 AI 情感陪伴 App“妙时”将于 7 月 14 日停运，用户账号剩余曲奇币 / 会员费可申请退款",
-        "一周产业基金｜中国电信20亿元押注AI；全国首只",
         "AI来了，第四届链博会带你解锁“未来范儿”",
+        "一周产业基金｜中国电信20亿元押注AI；全国首只",
         "从Token到Alpha，金融AI竞争正发生哪些变化，这"
       ]
     },
@@ -914,8 +825,8 @@
       ],
       "items": [
         "特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试",
-        "特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot",
         "小鹏汽车副总裁：该说法完全不实",
+        "特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot",
         "不用人工擦镜头了！特斯拉Cybercab侧视摄像头自带喷淋清洗装置",
         "新能源汽车和储能电池的重要原材料：磷酸铁锂价格一年翻倍，需求依然旺盛"
       ]
@@ -925,12 +836,12 @@
       "count": 3,
       "sourceCount": 2,
       "sources": [
-        "网易科技",
-        "新浪科技"
+        "新浪科技",
+        "网易科技"
       ],
       "items": [
-        "张坤两年前就布局三星电子、海力士，最新如何操",
         "英特尔陈立武：加码先进封装 布局三大半导体材料赛道",
+        "张坤两年前就布局三星电子、海力士，最新如何操",
         "沪硅产业联手股东，向子公司增资超百亿，扩大半"
       ]
     },
@@ -960,17 +871,6 @@
       ]
     },
     {
-      "topic": "商业航天与卫星互联网",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "中国日报-科技"
-      ],
-      "items": [
-        "航天产业为老区发展注入新动能（老区新事）"
-      ]
-    },
-    {
       "topic": "国产 GPU / 算力基础设施",
       "count": 1,
       "sourceCount": 1,
@@ -994,74 +894,6 @@
     }
   ],
   "leads": [
-    {
-      "id": "aHR0cHM6Ly9jaGluYS5j",
-      "title": "航天产业为老区发展注入新动能（老区新事）",
-      "summary": "截至目前，海南商业航天发射场已完成17次发射，文昌国际航天城入驻企业超3300家，2025年营收超200亿元，近5年文昌地区生产总值增量超百亿元。",
-      "source": "中国日报-科技",
-      "sources": [
-        "中国日报-科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://china.chinadaily.com.cn/a/202606/21/WS6a37b13ca310d709c2fb92c2.html",
-      "sourceUrls": [
-        "https://china.chinadaily.com.cn/a/202606/21/WS6a37b13ca310d709c2fb92c2.html"
-      ],
-      "publishedAt": "2026-06-21",
-      "date": "2026-06-21",
-      "category": "太空与低空",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "priority": 5,
-      "score": 179,
-      "reporterScore": 193,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “航天产业为老区发展注入新动能（老区新事）” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "商业航天与卫星互联网",
-      "rawText": "截至目前，海南商业航天发射场已完成17次发射，文昌国际航天城入驻企业超3300家，2025年营收超200亿元，近5年文昌地区生产总值增量超百亿元。",
-      "relatedTitles": [
-        "航天产业为老区发展注入新动能（老区新事）"
-      ],
-      "isNewSinceLastRun": true
-    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "LLM 推理的动态短板能靠世界模型能补上吗？",
@@ -1267,74 +1099,6 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "张坤两年前就布局三星电子、海力士，最新如何操",
-      "summary": "张坤两年前就布局三星电子、海力士，最新如何操作？还有谁重仓了？,张坤,韩国,海力士,重仓股,台积电,三星电子,知名企业,芯片制造商",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KVVCMBFS05198CJN.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/KVVCMBFS05198CJN.html"
-      ],
-      "publishedAt": "2026-06-21",
-      "date": "2026-06-21",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “张坤两年前就布局三星电子、海力士，最新如何操” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "张坤两年前就布局三星电子、海力士，最新如何操作？还有谁重仓了？,张坤,韩国,海力士,重仓股,台积电,三星电子,知名企业,芯片制造商",
-      "relatedTitles": [
-        "张坤两年前就布局三星电子、海力士，最新如何操"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试",
       "summary": "特斯拉自动驾驶出租车 Cybercab 原型车已运抵新西兰，进行冬季耐寒测试。这表明其全球测试计划已扩展至北美以外，为海外商业化运营铺路。同时，美国本土测试与量产同步加速，并已推出适配不同法规的版本。#特斯拉 Cybercab# #自动驾驶出租车#",
@@ -1401,74 +1165,6 @@
         "特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot",
-      "summary": "美国得州发生一起致命车祸，驾驶员称事发时特斯拉 Autopilot 系统处于开启状态，车辆未能转弯，高速直行撞入民宅，导致屋内一名 76 岁女性死亡。事故再次引发对特斯拉辅助驾驶系统安全性的质疑，目前 NHTSA 已对相关系统展开深入调查。#特斯拉# #自动驾驶安全#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/966/610.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/966/610.htm"
-      ],
-      "publishedAt": "Sun, 21 Jun 2026 02:03:00 GMT",
-      "date": "2026-06-21",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 158,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "美国得州发生一起致命车祸，驾驶员称事发时特斯拉 Autopilot 系统处于开启状态，车辆未能转弯，高速直行撞入民宅，导致屋内一名 76 岁女性死亡。事故再次引发对特斯拉辅助驾驶系统安全性的质疑，目前 NHTSA 已对相关系统展开深入调查。#特斯拉# #自动驾驶安全#",
-      "relatedTitles": [
-        "特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1608,6 +1304,74 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "张坤两年前就布局三星电子、海力士，最新如何操",
+      "summary": "张坤两年前就布局三星电子、海力士，最新如何操作？还有谁重仓了？,张坤,韩国,海力士,重仓股,台积电,三星电子,知名企业,芯片制造商",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KVVCMBFS05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KVVCMBFS05198CJN.html"
+      ],
+      "publishedAt": "2026-06-21",
+      "date": "2026-06-21",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “张坤两年前就布局三星电子、海力士，最新如何操” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "张坤两年前就布局三星电子、海力士，最新如何操作？还有谁重仓了？,张坤,韩国,海力士,重仓股,台积电,三星电子,知名企业,芯片制造商",
+      "relatedTitles": [
+        "张坤两年前就布局三星电子、海力士，最新如何操"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "沪硅产业联手股东，向子公司增资超百亿，扩大半",
       "summary": "沪硅产业联手股东，向子公司增资超百亿，扩大半导体硅片产能,硅片,半导体,沪硅产业,光伏电池",
       "source": "网易科技",
@@ -1741,74 +1505,6 @@
         "网易云音乐旗下 AI 情感陪伴 App“妙时”将于 7 月 14 日停运，用户账号剩余曲奇币 / 会员费可申请退款"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "一周产业基金｜中国电信20亿元押注AI；全国首只",
-      "summary": "一周产业基金｜中国电信20亿元押注AI；全国首只节水装备基金落地扬州,扬州市,中国电信,投资基金,创业投资",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/KVVCRRDC0512B07B.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/KVVCRRDC0512B07B.html"
-      ],
-      "publishedAt": "2026-06-21",
-      "date": "2026-06-21",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “一周产业基金｜中国电信20亿元押注AI；全国首只” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "一周产业基金｜中国电信20亿元押注AI；全国首只节水装备基金落地扬州,扬州市,中国电信,投资基金,创业投资",
-      "relatedTitles": [
-        "一周产业基金｜中国电信20亿元押注AI；全国首只"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2084,6 +1780,74 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot",
+      "summary": "美国得州发生一起致命车祸，驾驶员称事发时特斯拉 Autopilot 系统处于开启状态，车辆未能转弯，高速直行撞入民宅，导致屋内一名 76 岁女性死亡。事故再次引发对特斯拉辅助驾驶系统安全性的质疑，目前 NHTSA 已对相关系统展开深入调查。#特斯拉# #自动驾驶安全#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/966/610.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/966/610.htm"
+      ],
+      "publishedAt": "Sun, 21 Jun 2026 02:03:00 GMT",
+      "date": "2026-06-21",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 158,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "美国得州发生一起致命车祸，驾驶员称事发时特斯拉 Autopilot 系统处于开启状态，车辆未能转弯，高速直行撞入民宅，导致屋内一名 76 岁女性死亡。事故再次引发对特斯拉辅助驾驶系统安全性的质疑，目前 NHTSA 已对相关系统展开深入调查。#特斯拉# #自动驾驶安全#",
+      "relatedTitles": [
+        "特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "手握超 400 亿美元现金、零负债，马斯克称穆迪对特斯拉的评级低得离谱",
       "summary": "穆迪给予 SpaceX 的 Baa1 评级比特斯拉的 Baa3 高出两档，马斯克公开质疑其逻辑。特斯拉手握超 400 亿美元现金、零负债且持续盈利，评级却低于拥有政府订单的 SpaceX，引发对传统信用评级体系是否适应高增长科技企业的讨论。#马斯克# #特斯拉评级争议#",
       "source": "IT之家",
@@ -2283,6 +2047,74 @@
       "rawText": "来源：投中网 AI经济是一艘巨轮，算法是甲板，而甲板还没有定型。 整理丨《每日天使》 王捷，作为中国初代AI投资人，摩尔线程的天使投资人，是那个在2020年国产GPU最不被看好的时候“投在赛道诞生时”的人，是在存储行业尚未...",
       "relatedTitles": [
         "摩尔线程、长鑫存储、Kimi的共同投资人王捷：AI这艘巨轮，越过山丘后，经济系统会发生什么？"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "一周产业基金｜中国电信20亿元押注AI；全国首只",
+      "summary": "一周产业基金｜中国电信20亿元押注AI；全国首只节水装备基金落地扬州,扬州市,中国电信,投资基金,创业投资",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/KVVCRRDC0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/KVVCRRDC0512B07B.html"
+      ],
+      "publishedAt": "2026-06-21",
+      "date": "2026-06-21",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “一周产业基金｜中国电信20亿元押注AI；全国首只” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "一周产业基金｜中国电信20亿元押注AI；全国首只节水装备基金落地扬州,扬州市,中国电信,投资基金,创业投资",
+      "relatedTitles": [
+        "一周产业基金｜中国电信20亿元押注AI；全国首只"
       ],
       "isNewSinceLastRun": false
     },
@@ -3237,73 +3069,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "AI药物研发",
-      "summary": "人形机器人通用小脑 全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化 人形机器人正式迈入“GPT时代” 衡宇 48分钟前 GPT时刻 人形机器人通用小脑 人类数据 银河通用 热门文章 Anthropic老大的唯一 -1，就是AI股神的未婚妻 耐心资本护航创新，2026SuperLink开",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/ai%e8%8d%af%e7%89%a9%e7%a0%94%e5%8f%91",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/ai%e8%8d%af%e7%89%a9%e7%a0%94%e5%8f%91"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.95,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 164,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI药物研发” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "AI药物研发 GPT发AI原创新成果了 AI实现药物全自动研发，还远吗？ 衡宇 4分钟前 AI药物研发 GPT5.4 热门文章 Anthropic老大的唯一 -1，就是AI股神的未婚妻 耐心资本护航创新，2026SuperLink开启创投价值共生新时代 “智能体最后的考试”，Fable 5竟然不敌GPT 5.5 神了，世界杯第一天真按千问剧本踢了 2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
-      "relatedTitles": [
-        "AI药物研发"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "新书一半内容是AI写的，读者也看不出来？知名作家回应",
       "summary": "首页 新书一半内容是AI写的，读者也看不出来？知名作家回应 分享到： 6月3日，一篇题为《郝景芳：我现在的一半小说，已经开始用AI创作了》的文章在某公众号发布，内容是对科幻文学作者郝景芳的专访。2016年，郝景芳曾凭借《北京折叠》获得过第74届世界科幻大会雨果奖最佳中短篇小说奖。雨果奖被认为是科幻界最高奖项之一。在采访",
@@ -3373,7 +3138,7 @@
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "摩洛哥1：0力克苏格兰收获世界杯首胜，DeepSeek等多数AI豪取五连中",
-      "summary": "Deepseek DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手 原本4亿+token、61美元的账单，直降至12美元 鱼羊 前天 12:40 Deepseek Harness DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI 梁文锋承诺坚持开源路线 听雨 2",
+      "summary": "Deepseek DeepSeek开招土木老哥：自建GW级数据中心 追赶老马与微软 衡宇 2026-06-09 Deepseek IDC 数据中心 算力 DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手 原本4亿+token、61美元的账单，直降至12美元 鱼羊 2026-05-25 De",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -4599,8 +4364,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-21｜V3\n生成时间：2026/6/21 17:52:41\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2465｜确认今日 29｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 25 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-21] 航天产业为老区发展注入新动能（老区新事）\n   中国日报-科技｜2026-06-21｜https://china.chinadaily.com.cn/a/202606/21/WS6a37b13ca310d709c2fb92c2.html\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “航天产业为老区发展注入新动能（老区新事）” against primary-source evidence.\n\n2. [2026-06-21] LLM 推理的动态短板能靠世界模型能补上吗？\n   新浪科技｜2026-06-21｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehws0980546.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “LLM 推理的动态短板能靠世界模型能补上吗？” against primary-source evidence.\n\n3. [2026-06-21] 经典之作PPO算法：曾被NeurIPS拒了\n   新浪科技｜2026-06-21｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehwq9664019.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “经典之作PPO算法：曾被NeurIPS拒了” against primary-source evidence.\n\n4. [2026-06-21] 特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标\n   网易科技｜2026-06-21｜https://www.163.com/dy/article/KVUK2RQP05198CJN.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标” against primary-source evidence.\n\n5. [2026-06-21] 张坤两年前就布局三星电子、海力士，最新如何操\n   网易科技｜2026-06-21｜https://www.163.com/dy/article/KVVCMBFS05198CJN.html\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “张坤两年前就布局三星电子、海力士，最新如何操” against primary-source evidence.\n\n本次新增线索：\n- 航天产业为老区发展注入新动能（老区新事）｜中国日报-科技｜https://china.chinadaily.com.cn/a/202606/21/WS6a37b13ca310d709c2fb92c2.html\n- 张坤两年前就布局三星电子、海力士，最新如何操｜网易科技｜https://www.163.com/dy/article/KVVCMBFS05198CJN.html\n- 特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot｜IT之家｜https://www.ithome.com/0/966/610.htm\n- 一周产业基金｜中国电信20亿元押注AI；全国首只｜网易科技｜https://www.163.com/dy/article/KVVCRRDC0512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The US says ASML’s top chip tool may be in China, but how?｜TechCrunch｜https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/\n2. From PGP to Mythos: a brief history of export controls that didn’t stop anyone｜TechCrunch｜https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/\n3. The White House Is Making Up Its Rules for AI in Real Time｜WIRED Business｜https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/\n4. Why Amazon hates 'human-in-the-loop' AI governance｜The Register｜https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639\n5. Tensordyne makes a big bet on log math to beat Nvidia｜The Register｜https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-21｜V3\n生成时间：2026/6/21 17:52:41\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2465｜确认今日 29｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 25 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-21] 航天产业为老区发展注入新动能（老区新事）\n   中国日报-科技｜2026-06-21｜https://china.chinadaily.com.cn/a/202606/21/WS6a37b13ca310d709c2fb92c2.html\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “航天产业为老区发展注入新动能（老区新事）” against primary-source evidence.\n\n2. [2026-06-21] LLM 推理的动态短板能靠世界模型能补上吗？\n   新浪科技｜2026-06-21｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehws0980546.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “LLM 推理的动态短板能靠世界模型能补上吗？” against primary-source evidence.\n\n3. [2026-06-21] 经典之作PPO算法：曾被NeurIPS拒了\n   新浪科技｜2026-06-21｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehwq9664019.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “经典之作PPO算法：曾被NeurIPS拒了” against primary-source evidence.\n\n4. [2026-06-21] 特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标\n   网易科技｜2026-06-21｜https://www.163.com/dy/article/KVUK2RQP05198CJN.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标” against primary-source evidence.\n\n5. [2026-06-21] 张坤两年前就布局三星电子、海力士，最新如何操\n   网易科技｜2026-06-21｜https://www.163.com/dy/article/KVVCMBFS05198CJN.html\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “张坤两年前就布局三星电子、海力士，最新如何操” against primary-source evidence.\n\n本次新增线索：\n- 航天产业为老区发展注入新动能（老区新事）｜中国日报-科技｜https://china.chinadaily.com.cn/a/202606/21/WS6a37b13ca310d709c2fb92c2.html\n- 张坤两年前就布局三星电子、海力士，最新如何操｜网易科技｜https://www.163.com/dy/article/KVVCMBFS05198CJN.html\n- 特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot｜IT之家｜https://www.ithome.com/0/966/610.htm\n- 一周产业基金｜中国电信20亿元押注AI；全国首只｜网易科技｜https://www.163.com/dy/article/KVVCRRDC0512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The US says ASML’s top chip tool may be in China, but how?｜TechCrunch｜https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/\n2. From PGP to Mythos: a brief history of export controls that didn’t stop anyone｜TechCrunch｜https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/\n3. The White House Is Making Up Its Rules for AI in Real Time｜WIRED Business｜https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/\n4. Why Amazon hates 'human-in-the-loop' AI governance｜The Register｜https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639\n5. Tensordyne makes a big bet on log math to beat Nvidia｜The Register｜https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-21｜生成时间：2026/6/21 17:52:41｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2465｜确认今日 29｜国际背景 9</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 25 条｜国际 9 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-21] 航天产业为老区发展注入新动能（老区新事）</strong>\n      <span>中国日报-科技｜2026-06-21｜<a href=\"https://china.chinadaily.com.cn/a/202606/21/WS6a37b13ca310d709c2fb92c2.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “航天产业为老区发展注入新动能（老区新事）” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-21] LLM 推理的动态短板能靠世界模型能补上吗？</strong>\n      <span>新浪科技｜2026-06-21｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehws0980546.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “LLM 推理的动态短板能靠世界模型能补上吗？” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-21] 经典之作PPO算法：曾被NeurIPS拒了</strong>\n      <span>新浪科技｜2026-06-21｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehwq9664019.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “经典之作PPO算法：曾被NeurIPS拒了” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-21] 特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标</strong>\n      <span>网易科技｜2026-06-21｜<a href=\"https://www.163.com/dy/article/KVUK2RQP05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-21] 张坤两年前就布局三星电子、海力士，最新如何操</strong>\n      <span>网易科技｜2026-06-21｜<a href=\"https://www.163.com/dy/article/KVVCMBFS05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “张坤两年前就布局三星电子、海力士，最新如何操” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The US says ASML’s top chip tool may be in China, but how?</strong>\n      <span>时间：Fri, 19 Jun 2026 07:59:12 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “The US says ASML’s top chip tool may be in China, but how?” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. From PGP to Mythos: a brief history of export controls that didn’t stop anyone</strong>\n      <span>时间：Fri, 19 Jun 2026 22:40:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “From PGP to Mythos: a brief history of export controls that didn’t stop ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. The White House Is Making Up Its Rules for AI in Real Time</strong>\n      <span>时间：Thu, 18 Jun 2026 21:03:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The White House Is Making Up Its Rules for AI in Real Time” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Why Amazon hates 'human-in-the-loop' AI governance</strong>\n      <span>时间：Sat, 20 Jun 2026 16:25:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Why Amazon hates 'human-in-the-loop' AI governance” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Tensordyne makes a big bet on log math to beat Nvidia</strong>\n      <span>时间：Fri, 19 Jun 2026 17:30:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Tensordyne makes a big bet on log math to beat Nvidia” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/21 17:52:41\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 25 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-21] 航天产业为老区发展注入新动能（老区新事）\n   来源：中国日报-科技\n   链接：https://china.chinadaily.com.cn/a/202606/21/WS6a37b13ca310d709c2fb92c2.html\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “航天产业为老区发展注入新动能（老区新事）” against primary-source evidence.\n\n2. [2026-06-21] LLM 推理的动态短板能靠世界模型能补上吗？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehws0980546.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “LLM 推理的动态短板能靠世界模型能补上吗？” against primary-source evidence.\n\n3. [2026-06-21] 经典之作PPO算法：曾被NeurIPS拒了\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehwq9664019.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “经典之作PPO算法：曾被NeurIPS拒了” against primary-source evidence.\n\n4. [2026-06-21] 特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KVUK2RQP05198CJN.html\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标” against primary-source evidence.\n\n5. [2026-06-21] 张坤两年前就布局三星电子、海力士，最新如何操\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KVVCMBFS05198CJN.html\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “张坤两年前就布局三星电子、海力士，最新如何操” against primary-source evidence.\n\n本次新增线索：\n- 航天产业为老区发展注入新动能（老区新事）｜中国日报-科技｜https://china.chinadaily.com.cn/a/202606/21/WS6a37b13ca310d709c2fb92c2.html\n- 张坤两年前就布局三星电子、海力士，最新如何操｜网易科技｜https://www.163.com/dy/article/KVVCMBFS05198CJN.html\n- 特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot｜IT之家｜https://www.ithome.com/0/966/610.htm\n- 一周产业基金｜中国电信20亿元押注AI；全国首只｜网易科技｜https://www.163.com/dy/article/KVVCRRDC0512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. The US says ASML’s top chip tool may be in China, but how?｜TechCrunch｜https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/\n2. From PGP to Mythos: a brief history of export controls that didn’t stop anyone｜TechCrunch｜https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/\n3. The White House Is Making Up Its Rules for AI in Real Time｜WIRED Business｜https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/\n4. Why Amazon hates 'human-in-the-loop' AI governance｜The Register｜https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639\n5. Tensordyne makes a big bet on log math to beat Nvidia｜The Register｜https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-21｜V3\n生成时间：2026/6/21 18:06:56\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2529｜确认今日 28｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 28 条｜国际 9 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-06-21] LLM 推理的动态短板能靠世界模型能补上吗？\n   新浪科技｜2026-06-21｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehws0980546.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “LLM 推理的动态短板能靠世界模型能补上吗？” against primary-source evidence.\n\n2. [2026-06-21] 经典之作PPO算法：曾被NeurIPS拒了\n   新浪科技｜2026-06-21｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehwq9664019.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “经典之作PPO算法：曾被NeurIPS拒了” against primary-source evidence.\n\n3. [2026-06-21] 特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标\n   网易科技｜2026-06-21｜https://www.163.com/dy/article/KVUK2RQP05198CJN.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标” against primary-source evidence.\n\n4. [00:20] 特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试\n   IT之家｜2026-06-21｜https://www.ithome.com/0/966/597.htm\n   报道角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试” against primary-source evidence.\n\n5. [2026-06-21] 英特尔陈立武：加码先进封装 布局三大半导体材料赛道\n   新浪科技｜2026-06-21｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieeaqr2988357.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “英特尔陈立武：加码先进封装 布局三大半导体材料赛道” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The US says ASML’s top chip tool may be in China, but how?｜TechCrunch｜https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/\n2. From PGP to Mythos: a brief history of export controls that didn’t stop anyone｜TechCrunch｜https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/\n3. The White House Is Making Up Its Rules for AI in Real Time｜WIRED Business｜https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/\n4. Why Amazon hates 'human-in-the-loop' AI governance｜The Register｜https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639\n5. Tensordyne makes a big bet on log math to beat Nvidia｜The Register｜https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-21｜V3\n生成时间：2026/6/21 18:06:56\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2529｜确认今日 28｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 28 条｜国际 9 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-06-21] LLM 推理的动态短板能靠世界模型能补上吗？\n   新浪科技｜2026-06-21｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehws0980546.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “LLM 推理的动态短板能靠世界模型能补上吗？” against primary-source evidence.\n\n2. [2026-06-21] 经典之作PPO算法：曾被NeurIPS拒了\n   新浪科技｜2026-06-21｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehwq9664019.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “经典之作PPO算法：曾被NeurIPS拒了” against primary-source evidence.\n\n3. [2026-06-21] 特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标\n   网易科技｜2026-06-21｜https://www.163.com/dy/article/KVUK2RQP05198CJN.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标” against primary-source evidence.\n\n4. [00:20] 特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试\n   IT之家｜2026-06-21｜https://www.ithome.com/0/966/597.htm\n   报道角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试” against primary-source evidence.\n\n5. [2026-06-21] 英特尔陈立武：加码先进封装 布局三大半导体材料赛道\n   新浪科技｜2026-06-21｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieeaqr2988357.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “英特尔陈立武：加码先进封装 布局三大半导体材料赛道” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The US says ASML’s top chip tool may be in China, but how?｜TechCrunch｜https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/\n2. From PGP to Mythos: a brief history of export controls that didn’t stop anyone｜TechCrunch｜https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/\n3. The White House Is Making Up Its Rules for AI in Real Time｜WIRED Business｜https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/\n4. Why Amazon hates 'human-in-the-loop' AI governance｜The Register｜https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639\n5. Tensordyne makes a big bet on log math to beat Nvidia｜The Register｜https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-21｜生成时间：2026/6/21 18:06:56｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2529｜确认今日 28｜国际背景 9</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 0 条<br>延续跟踪线索：国内 28 条｜国际 9 条<br>本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-21] LLM 推理的动态短板能靠世界模型能补上吗？</strong>\n      <span>新浪科技｜2026-06-21｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehws0980546.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “LLM 推理的动态短板能靠世界模型能补上吗？” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-21] 经典之作PPO算法：曾被NeurIPS拒了</strong>\n      <span>新浪科技｜2026-06-21｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehwq9664019.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “经典之作PPO算法：曾被NeurIPS拒了” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-21] 特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标</strong>\n      <span>网易科技｜2026-06-21｜<a href=\"https://www.163.com/dy/article/KVUK2RQP05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [00:20] 特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试</strong>\n      <span>IT之家｜2026-06-21｜<a href=\"https://www.ithome.com/0/966/597.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：174｜需核验来源</span>\n      <p>报道角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-21] 英特尔陈立武：加码先进封装 布局三大半导体材料赛道</strong>\n      <span>新浪科技｜2026-06-21｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieeaqr2988357.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “英特尔陈立武：加码先进封装 布局三大半导体材料赛道” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The US says ASML’s top chip tool may be in China, but how?</strong>\n      <span>时间：Fri, 19 Jun 2026 07:59:12 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “The US says ASML’s top chip tool may be in China, but how?” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. From PGP to Mythos: a brief history of export controls that didn’t stop anyone</strong>\n      <span>时间：Fri, 19 Jun 2026 22:40:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “From PGP to Mythos: a brief history of export controls that didn’t stop ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. The White House Is Making Up Its Rules for AI in Real Time</strong>\n      <span>时间：Thu, 18 Jun 2026 21:03:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The White House Is Making Up Its Rules for AI in Real Time” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Why Amazon hates 'human-in-the-loop' AI governance</strong>\n      <span>时间：Sat, 20 Jun 2026 16:25:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Why Amazon hates 'human-in-the-loop' AI governance” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Tensordyne makes a big bet on log math to beat Nvidia</strong>\n      <span>时间：Fri, 19 Jun 2026 17:30:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Tensordyne makes a big bet on log math to beat Nvidia” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/21 18:06:56\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 28 条｜国际 9 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-06-21] LLM 推理的动态短板能靠世界模型能补上吗？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehws0980546.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “LLM 推理的动态短板能靠世界模型能补上吗？” against primary-source evidence.\n\n2. [2026-06-21] 经典之作PPO算法：曾被NeurIPS拒了\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehwq9664019.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “经典之作PPO算法：曾被NeurIPS拒了” against primary-source evidence.\n\n3. [2026-06-21] 特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标\n   来源：网易科技\n   链接：https://www.163.com/dy/article/KVUK2RQP05198CJN.html\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标” against primary-source evidence.\n\n4. [00:20] 特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试\n   来源：IT之家\n   链接：https://www.ithome.com/0/966/597.htm\n   角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试” against primary-source evidence.\n\n5. [2026-06-21] 英特尔陈立武：加码先进封装 布局三大半导体材料赛道\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieeaqr2988357.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “英特尔陈立武：加码先进封装 布局三大半导体材料赛道” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. The US says ASML’s top chip tool may be in China, but how?｜TechCrunch｜https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/\n2. From PGP to Mythos: a brief history of export controls that didn’t stop anyone｜TechCrunch｜https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/\n3. The White House Is Making Up Its Rules for AI in Real Time｜WIRED Business｜https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/\n4. Why Amazon hates 'human-in-the-loop' AI governance｜The Register｜https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639\n5. Tensordyne makes a big bet on log math to beat Nvidia｜The Register｜https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
