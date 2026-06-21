@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/21 09:42:31
+生成时间：2026/6/21 17:28:51
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 1 条
-延续跟踪线索：国内 3 条｜国际 8 条
+新增核心线索：国内 25 条｜国际 2 条
+延续跟踪线索：国内 2 条｜国际 8 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-21] 不等 R 星了，独立开发者用 AI 自制《GTA6》
+1. [2026-06-21] LLM 推理的动态短板能靠世界模型能补上吗？
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-06-21/doc-iniecmta1314487.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “不等 R 星了，独立开发者用 AI 自制《GTA6》” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehws0980546.shtml
+   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “LLM 推理的动态短板能靠世界模型能补上吗？” against primary-source evidence.
 
-2. [2026-06-21] 特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试
+2. [2026-06-21] 经典之作PPO算法：曾被NeurIPS拒了
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-06-21/doc-iniecmta1304794.shtml
-   角度：Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehwq9664019.shtml
+   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “经典之作PPO算法：曾被NeurIPS拒了” against primary-source evidence.
 
-3. [2026-06-21] 台积电加速研发 CoPoS 封装以取代 CoWoS：玻璃核心基板可降低 30% 成本并将晶圆利用率提升至 90% 以上
+3. [2026-06-21] 特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标
+   来源：网易科技
+   链接：https://www.163.com/dy/article/KVUK2RQP05198CJN.html
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标” against primary-source evidence.
+
+4. [00:20] 特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试
+   来源：IT之家
+   链接：https://www.ithome.com/0/966/597.htm
+   角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试” against primary-source evidence.
+
+5. [2026-06-21] 英特尔陈立武：加码先进封装 布局三大半导体材料赛道
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-06-21/doc-iniecmtc8060517.shtml
-   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “台积电加速研发 CoPoS 封装以取代 CoWoS：玻璃核心基板可降低 30% 成本并将晶圆利用率提升至 90% 以上” against primary-source evidence.
-
-4. [2026-06-21] 火箭发射观礼成爆款！工业与文旅“双向奔赴”刷新旅行新体验
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-06/21/content_535123.html
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “火箭发射观礼成爆款！工业与文旅“双向奔赴”刷新旅行新体验” against primary-source evidence.
-
-5. [2026-06-21] 马斯克，行使特斯拉的薪酬期权3.04亿股，账面浮盈8992亿港元，史上最贵CEO薪酬
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/world/2026-06-21/doc-iniecmsx3215925.shtml
-   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “马斯克，行使特斯拉的薪酬期权3.04亿股，账面浮盈8992亿港元，史上最贵CEO薪酬” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieeaqr2988357.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “英特尔陈立武：加码先进封装 布局三大半导体材料赛道” against primary-source evidence.
 
 本次新增线索：
-- 不等 R 星了，独立开发者用 AI 自制《GTA6》｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-21/doc-iniecmta1314487.shtml
-- 特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-21/doc-iniecmta1304794.shtml
-- 火箭发射观礼成爆款！工业与文旅“双向奔赴”刷新旅行新体验｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/21/content_535123.html
-- 马斯克，行使特斯拉的薪酬期权3.04亿股，账面浮盈8992亿港元，史上最贵CEO薪酬｜新浪科技｜https://finance.sina.com.cn/world/2026-06-21/doc-iniecmsx3215925.shtml
-- 马斯克：Grok 语音控制特斯拉 FSD 功能将在 3 个月左右推出｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-21/doc-iniecmtc8096262.shtml
-- Committed skeptic finds himself warming to new Amazon AI products that actually don't suck｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/18/committed-skeptic-finds-himself-warming-to-new-amazon-ai-products-that-actually-dont-suck/5258414
+- LLM 推理的动态短板能靠世界模型能补上吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehws0980546.shtml
+- 经典之作PPO算法：曾被NeurIPS拒了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieehwq9664019.shtml
+- 特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标｜网易科技｜https://www.163.com/dy/article/KVUK2RQP05198CJN.html
+- 特斯拉 Cybercab 原型车现身新西兰，疑将开展冬季耐寒测试｜IT之家｜https://www.ithome.com/0/966/597.htm
+- 英特尔陈立武：加码先进封装 布局三大半导体材料赛道｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-21/doc-inieeaqr2988357.shtml
+- ChatGPT’s new Scheduled page puts all your automated tasks in one place｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-scheduled-page-puts-automated-033446424.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（1 条，1 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- AI 应用：AI动态（6 条，3 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
 - 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：
 
 国际科技背景：
 1. The US says ASML’s top chip tool may be in China, but how?｜TechCrunch｜https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/
 2. From PGP to Mythos: a brief history of export controls that didn’t stop anyone｜TechCrunch｜https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/
-3. Committed skeptic finds himself warming to new Amazon AI products that actually don't suck｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/18/committed-skeptic-finds-himself-warming-to-new-amazon-ai-products-that-actually-dont-suck/5258414
-4. The White House Is Making Up Its Rules for AI in Real Time｜WIRED Business｜https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/
-5. Why Amazon hates 'human-in-the-loop' AI governance｜The Register｜https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639
+3. ChatGPT’s new Scheduled page puts all your automated tasks in one place｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-scheduled-page-puts-automated-033446424.html
+4. How Long Do Owners Say Samsung OLED TVs Usually Last?｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/long-owners-samsung-oled-tvs-021700573.html
+5. The White House Is Making Up Its Rules for AI in Real Time｜WIRED Business｜https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
