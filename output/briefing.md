@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/22 08:19:49
+生成时间：2026/6/22 09:43:24
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 5 条｜国际 0 条
+新增核心线索：国内 37 条｜国际 2 条
 延续跟踪线索：国内 11 条｜国际 5 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-22] 机器人情侣火爆：优必选超仿生人形机器人首发预订单超5000台
+1. [2026-06-22] 中方：将10家美国实体列入出口管制管控名单
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-06/22/content_535296.html
+   角度：Use technology competition, dialogue and supply-chain consequences to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “中方：将10家美国实体列入出口管制管控名单” against primary-source evidence.
+
+2. [2026-06-22] 优必选：优世界超仿生人形机器人首发预订单量累计超5000台
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L00SRSCD0534A4SC.html
+   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “优必选：优世界超仿生人形机器人首发预订单量累计超5000台” against primary-source evidence.
+
+3. [2026-06-22] 刘强东：未来不需要快递员，一定是机器人送货
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-22/doc-iniefqsc7229639.shtml
-   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “机器人情侣火爆：优必选超仿生人形机器人首发预订单超5000台” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-22/doc-iniefuxz7123816.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “刘强东：未来不需要快递员，一定是机器人送货” against primary-source evidence.
 
-2. [2026-06-22] 英特尔CEO透露转型计划：押注先进封装与新材料
+4. [2026-06-22] 踩中人形机器人国标风口！宝通科技联合光轮智能
    来源：网易科技
-   链接：https://www.163.com/dy/article/L00UVOHI0512B07B.html
-   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “英特尔CEO透露转型计划：押注先进封装与新材料” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L01159J305198CJN.html
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “踩中人形机器人国标风口！宝通科技联合光轮智能” against primary-source evidence.
 
-3. [2026-06-22] 西班牙4球横扫沙特！12大AI命中率飙到91.7%，3家模型直接猜中比分
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-06-22/doc-iniefqrx2368642.shtml
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “西班牙4球横扫沙特！12大AI命中率飙到91.7%，3家模型直接猜中比分” against primary-source evidence.
-
-4. [2026-06-22] 蓝箭航天重磅官宣：“接二连三，都会如期而至”
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L00SDEE10512B07B.html
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “蓝箭航天重磅官宣：“接二连三，都会如期而至”” against primary-source evidence.
-
-5. [2026-06-22] 半导体先进制程扩产预期升温 先进封装或将迎来同步放量
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L00UOF9S05198CJN.html
-   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “半导体先进制程扩产预期升温 先进封装或将迎来同步放量” against primary-source evidence.
+5. [2026-06-22] 研究发现岩石风化碳汇可部分抵消多年冻土融化碳排放
+   来源：中国科学院
+   链接：https://www.cas.cn/syky/202606/t20260622_5112916.shtml
+   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “研究发现岩石风化碳汇可部分抵消多年冻土融化碳排放” against primary-source evidence.
 
 本次新增线索：
-- 机器人情侣火爆：优必选超仿生人形机器人首发预订单超5000台｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-22/doc-iniefqsc7229639.shtml
-- 英特尔CEO透露转型计划：押注先进封装与新材料｜网易科技｜https://www.163.com/dy/article/L00UVOHI0512B07B.html
-- 西班牙4球横扫沙特！12大AI命中率飙到91.7%，3家模型直接猜中比分｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-22/doc-iniefqrx2368642.shtml
-- 半导体先进制程扩产预期升温 先进封装或将迎来同步放量｜网易科技｜https://www.163.com/dy/article/L00UOF9S05198CJN.html
-- 微信AI助手“小微”小范围灰度上线 AI应用或迎最佳投资击球区｜网易科技｜https://www.163.com/dy/article/L00UDD8H05198CJN.html
+- 中方：将10家美国实体列入出口管制管控名单｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/22/content_535296.html
+- 优必选：优世界超仿生人形机器人首发预订单量累计超5000台｜网易科技｜https://www.163.com/dy/article/L00SRSCD0534A4SC.html
+- 刘强东：未来不需要快递员，一定是机器人送货｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-22/doc-iniefuxz7123816.shtml
+- 踩中人形机器人国标风口！宝通科技联合光轮智能｜网易科技｜https://www.163.com/dy/article/L01159J305198CJN.html
+- 研究发现岩石风化碳汇可部分抵消多年冻土融化碳排放｜中国科学院｜https://www.cas.cn/syky/202606/t20260622_5112916.shtml
+- Why Amazon hates 'human-in-the-loop' AI governance｜The Register｜https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639
 
 今日热点方向：
-- AI 应用：AI动态（4 条，2 个来源）
-- 芯片/半导体：半导体供应链（3 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
-- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- AI 应用：AI动态（9 条，3 个来源）
+- 芯片/半导体：半导体供应链（6 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（5 条，3 个来源）
 
 国际科技背景：
 1. When the Trump administration cracks down on Anthropic, who benefits?｜TechCrunch｜https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/
 2. Galaxy Z Fold 8 Release Date: Samsung Devices Get New Confirmation｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/galaxy-z-fold-8-release-194149366.html
-3. Nobel laureate John Jumper is leaving DeepMind for rival Anthropic｜TechCrunch｜https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/
-4. Adobe’s new AI assistant could save you hours in Photoshop and Premiere｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/adobe-ai-assistant-could-save-214243575.html
-5. How Long Do Owners Say Samsung OLED TVs Usually Last?｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/articles/long-owners-samsung-oled-tvs-021700573.html
+3. Why Amazon hates 'human-in-the-loop' AI governance｜The Register｜https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639
+4. Samsung Galaxy Buds 4 Pro review: Ideal all-rounders for Samsung fans｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/samsung-galaxy-buds-4-pro-160500559.html
+5. Nobel laureate John Jumper is leaving DeepMind for rival Anthropic｜TechCrunch｜https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
