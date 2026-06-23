@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/23 16:47:05
+生成时间：2026/6/23 17:42:17
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 60 条｜国际 3 条
-延续跟踪线索：国内 12 条｜国际 19 条
+新增核心线索：国内 28 条｜国际 1 条
+延续跟踪线索：国内 45 条｜国际 21 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-23] 豆包音频生成模型1.0正式发布：一次性直出影视级的成品音效
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-23/doc-iniekvat8758577.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “豆包音频生成模型1.0正式发布：一次性直出影视级的成品音效” against primary-source evidence.
-
-2. [2026-06-23] 把握全球技术演进态势 抢占具身智能发展先机
+1. [2026-06-23] 把握全球技术演进态势 抢占具身智能发展先机
    来源：人民网-科技
    链接：http://finance.people.com.cn/n1/2026/0623/c1004-40745539.html
    角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “把握全球技术演进态势 抢占具身智能发展先机” against primary-source evidence.
 
-3. [2026-06-23] 路透社：三星、SK 海力士员工已跻身韩国婚恋市场顶层
+2. [2026-06-23] Mangkunegara X：AI时代真正的赢家，是那些投资“人”的企业
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-06-23/doc-iniekvas1964061.shtml
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “路透社：三星、SK 海力士员工已跻身韩国婚恋市场顶层” against primary-source evidence.
+   链接：https://finance.sina.com.cn/hy/hyjz/2026-06-23/doc-iniekvar6453525.shtml
+   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Mangkunegara X：AI时代真正的赢家，是那些投资“人”的企业” against primary-source evidence.
 
-4. [2026-06-23] AI热潮带动全球“隐形刚需”
+3. [2026-06-23] “全球最先进机器人”：特斯拉推进 Optimus 3 量产，供应链开始备货
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-06-23/doc-inieixwx9827520.shtml
-   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI热潮带动全球“隐形刚需”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-06-23/doc-iniekknw2075276.shtml
+   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind ““全球最先进机器人”：特斯拉推进 Optimus 3 量产，供应链开始备货” against primary-source evidence.
 
-5. [2026-06-23] 像工厂流水线一样持续运转，光镊有了永不疲倦的机器人操作员
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-06/23/content_38842731.htm
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “像工厂流水线一样持续运转，光镊有了永不疲倦的机器人操作员” against primary-source evidence.
+4. [08:11] 宇树科技与 GMO AIR 达成合作，G1 人形机器人等产品将登陆日本市场
+   来源：IT之家
+   链接：https://www.ithome.com/0/967/512.htm
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “宇树科技与 GMO AIR 达成合作，G1 人形机器人等产品将登陆日本市场” against primary-source evidence.
+
+5. [2026-06-23] 全球最快的 500 台超级计算机中，有 400 多台采用英伟达技术
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-06-23/doc-iniekvat8790699.shtml
+   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “全球最快的 500 台超级计算机中，有 400 多台采用英伟达技术” against primary-source evidence.
 
 本次新增线索：
-- 豆包音频生成模型1.0正式发布：一次性直出影视级的成品音效｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-23/doc-iniekvat8758577.shtml
-- 路透社：三星、SK 海力士员工已跻身韩国婚恋市场顶层｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-iniekvas1964061.shtml
-- AI热潮带动全球“隐形刚需”｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-23/doc-inieixwx9827520.shtml
-- 像工厂流水线一样持续运转，光镊有了永不疲倦的机器人操作员｜光明网-科技｜https://tech.gmw.cn/2026-06/23/content_38842731.htm
-- 安徽硅启智元与美国Seegrid达成数据战略合作，共拓工业自主移动机器人新场景｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-23/doc-iniekvap9648913.shtml
-- India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1｜The Register｜https://www.theregister.com/personal-tech/2026/06/23/india-and-china-are-home-to-29-billion-people-and-together-they-bought-just-13-million-pcs-in-q1/5259893
+- Mangkunegara X：AI时代真正的赢家，是那些投资“人”的企业｜新浪科技｜https://finance.sina.com.cn/hy/hyjz/2026-06-23/doc-iniekvar6453525.shtml
+- “全球最先进机器人”：特斯拉推进 Optimus 3 量产，供应链开始备货｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-iniekknw2075276.shtml
+- 宇树科技与 GMO AIR 达成合作，G1 人形机器人等产品将登陆日本市场｜IT之家｜https://www.ithome.com/0/967/512.htm
+- 全球最快的 500 台超级计算机中，有 400 多台采用英伟达技术｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-iniekvat8790699.shtml
+- 傅盛谈企业AI转型：AI Agent落地，今天可能是一个选择，但三年后将成为必然｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-06-23/doc-iniekeev9756920.shtml
+- Top auto regulator opens special probe after a Tesla slams into a Texas home, killing a 76-year-old｜AP Technology｜https://apnews.com/article/tesla-selfdriving-robotaxis-crash-investigation-musk-d0a9a3fbe237b6d7f9b6d33be618e946
 
 今日热点方向：
-- AI 应用：AI动态（18 条，6 个来源）
+- AI 应用：AI动态（17 条，6 个来源）
 - 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（10 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（10 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（8 条，4 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
-1. India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1｜The Register｜https://www.theregister.com/personal-tech/2026/06/23/india-and-china-are-home-to-29-billion-people-and-together-they-bought-just-13-million-pcs-in-q1/5259893
-2. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+2. India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1｜The Register｜https://www.theregister.com/personal-tech/2026/06/23/india-and-china-are-home-to-29-billion-people-and-together-they-bought-just-13-million-pcs-in-q1/5259893
 3. Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
-4. How Anthropic may have talked itself into an AI export ban｜Ars Technica｜https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/
-5. OpenAI launches new initiative to help find and patch open source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
+4. Top auto regulator opens special probe after a Tesla slams into a Texas home, killing a 76-year-old｜AP Technology｜https://apnews.com/article/tesla-selfdriving-robotaxis-crash-investigation-musk-d0a9a3fbe237b6d7f9b6d33be618e946
+5. How Anthropic may have talked itself into an AI export ban｜Ars Technica｜https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
