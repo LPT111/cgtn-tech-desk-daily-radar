@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/22 20:27:49
+生成时间：2026/6/23 08:01:07
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 9 条｜国际 1 条
-延续跟踪线索：国内 57 条｜国际 6 条
+新增核心线索：国内 20 条｜国际 18 条
+延续跟踪线索：国内 0 条｜国际 1 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [12:13] 优必选发布人形机器人 Walker C1：可实现人机共舞，面向商用服务场景
-   来源：IT之家
-   链接：https://www.ithome.com/0/967/191.htm
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “优必选发布人形机器人 Walker C1：可实现人机共舞，面向商用服务场景” against primary-source evidence.
-
-2. [2026-06-22] 诺奖科学家离开谷歌，美国AI人才战争进入新阶段
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L01SF1DC05198CJN.html
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “诺奖科学家离开谷歌，美国AI人才战争进入新阶段” against primary-source evidence.
-
-3. [2026-06-22] 我国拟制定标准推动人形机器人走进更多场景
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-06/22/content_535698.html
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “我国拟制定标准推动人形机器人走进更多场景” against primary-source evidence.
-
-4. [2026-06-22] 具身智能全景洞察：企业总数破万家，融资规模增长近百倍
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-06/22/content_38841632.htm
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “具身智能全景洞察：企业总数破万家，融资规模增长近百倍” against primary-source evidence.
-
-5. [2026-06-22] AI大战迎来完美一战：12家大模型预测胜负全中，埃及成算法翻身关键局
+1. [2026-06-23] 从网点到智能体：AI代理将重塑零售银行吗？
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-06-22/doc-iniehfpu0349901.shtml
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI大战迎来完美一战：12家大模型预测胜负全中，埃及成算法翻身关键局” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “从网点到智能体：AI代理将重塑零售银行吗？” against primary-source evidence.
+
+2. [2026-06-23] SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L02NQ9E605198CJN.html
+   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元” against primary-source evidence.
+
+3. [2026-06-23] Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6538227.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验” against primary-source evidence.
+
+4. [2026-06-23] 美国交通安全监管机构对特斯拉又一起致命车祸展开调查
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml
+   角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国交通安全监管机构对特斯拉又一起致命车祸展开调查” against primary-source evidence.
+
+5. [2026-06-23] 苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwx9766877.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天” against primary-source evidence.
 
 本次新增线索：
-- 优必选发布人形机器人 Walker C1：可实现人机共舞，面向商用服务场景｜IT之家｜https://www.ithome.com/0/967/191.htm
-- 我国拟制定标准推动人形机器人走进更多场景｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/22/content_535698.html
-- 未来在香港能打“无人的”，文远知行将与吉利远程、冠忠巴士共同开发右舵 Robotaxi｜IT之家｜https://www.ithome.com/0/967/169.htm
-- 数字链变身数智链，首设人工智能专区｜新华网-科技｜http://www.news.cn/tech/20260622/a49da728e11a4b728a96fe7d3054b53c/c.html
-- 小米胡峥楠谈 YU7 GT 自动驾驶征战纽北，称这才是想真正展示的综合能力｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-22/doc-iniehwmn0163243.shtml
-- Samsung Galaxy Watch Ultra 2 leak reveals thinner bezels and a boxier new look｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-galaxy-watch-ultra-2-101000999.html
+- 从网点到智能体：AI代理将重塑零售银行吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml
+- SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元｜网易科技｜https://www.163.com/dy/article/L02NQ9E605198CJN.html
+- Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6538227.shtml
+- 美国交通安全监管机构对特斯拉又一起致命车祸展开调查｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml
+- 苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwx9766877.shtml
+- Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
 
 今日热点方向：
-- AI 应用：AI动态（13 条，5 个来源）
-- 芯片/半导体：半导体供应链（3 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（4 条，4 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，4 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（6 条，3 个来源）
+- AI 应用：AI动态（6 条，2 个来源）
+- 芯片/半导体：半导体供应链（3 条，1 个来源）
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）
+- 太空与低空经济：
+- 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
 1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-2. When the Trump administration cracks down on Anthropic, who benefits?｜TechCrunch｜https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/
-3. Samsung Galaxy Watch Ultra 2 leak reveals thinner bezels and a boxier new look｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-galaxy-watch-ultra-2-101000999.html
-4. Why Amazon hates 'human-in-the-loop' AI governance｜The Register｜https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639
-5. Nobel laureate John Jumper is leaving DeepMind for rival Anthropic｜TechCrunch｜https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/
+2. Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
+3. How Anthropic may have talked itself into an AI export ban｜Ars Technica｜https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/
+4. Anthropic says Claude may want to see your ID｜TechCrunch｜https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/
+5. Alphabet has its worst day in over a year on AI concerns after high-profile exits｜CNBC Technology｜https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
