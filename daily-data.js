@@ -1,64 +1,39 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-06-23T00:01:07.031Z",
+  "generatedAt": "2026-06-23T00:17:00.106Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-23",
   "changeSummary": {
-    "domesticNew": 20,
-    "globalNew": 18,
-    "domesticContinued": 0,
-    "globalContinued": 1,
+    "domesticNew": 4,
+    "globalNew": 1,
+    "domesticContinued": 18,
+    "globalContinued": 18,
     "topNewDomestic": [
       {
-        "title": "从网点到智能体：AI代理将重塑零售银行吗？",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml"
+        "title": "超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/967/259.htm"
       },
       {
-        "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L02NQ9E605198CJN.html"
+        "title": "亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml"
       },
       {
-        "title": "Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6538227.shtml"
+        "title": "IT早报 0623：亿咖通拟 18 亿收购 Flyme；48 位中国开发者联名举报苹果；小米 YU7 GT 创首个纽北自动驾驶纪录；博主称导航 APP 开屏摇一摇广告影响行车安全",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/967/249.htm"
       },
       {
-        "title": "美国交通安全监管机构对特斯拉又一起致命车祸展开调查",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml"
-      },
-      {
-        "title": "苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwx9766877.shtml"
+        "title": "谷歌 DeepMind 向独立制片公司 A24 注资 7500 万美元，共同研发影视 AI 工具",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/967/260.htm"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Three things to watch amid Anthropic’s latest feud with the government",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
-      },
-      {
-        "title": "How Anthropic may have talked itself into an AI export ban",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/"
-      },
-      {
-        "title": "Anthropic says Claude may want to see your ID",
+        "title": "OpenAI launches new initiative to help find and patch open-source bugs",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/"
-      },
-      {
-        "title": "Alphabet has its worst day in over a year on AI concerns after high-profile exits",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html"
-      },
-      {
-        "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"
+        "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
       }
     ],
     "hasPrevious": true
@@ -67,7 +42,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 880,
+    "domesticRejected": 878,
     "globalRejected": 881,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,22 +57,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 25,
+  "successSources": 29,
   "failedSources": [
-    {
-      "name": "IT之家",
-      "error": "This operation was aborted",
-      "optional": false
-    },
     {
       "name": "财联社",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "央视网-科技",
@@ -105,29 +70,19 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
+      "name": "国家网信办-政策",
+      "error": "404 Not Found",
+      "optional": true
     },
     {
-      "name": "国家网信办-政策",
+      "name": "市场监管总局",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -137,19 +92,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "IT之家",
-      "error": "This operation was aborted",
-      "optional": false
-    },
-    {
       "name": "财联社",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "央视网-科技",
@@ -157,29 +102,19 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
+      "name": "国家网信办-政策",
+      "error": "404 Not Found",
+      "optional": true
     },
     {
-      "name": "国家网信办-政策",
+      "name": "市场监管总局",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -191,16 +126,15 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 146,
+      "parsed": 149,
       "failed": false,
       "optional": false
     },
     {
       "name": "IT之家",
       "tier": "industry",
-      "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "parsed": 60,
+      "failed": false,
       "optional": false
     },
     {
@@ -291,9 +225,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -357,16 +290,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -387,9 +318,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 11,
+      "failed": false,
       "optional": false
     },
     {
@@ -397,7 +327,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -410,8 +340,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 59,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -444,27 +375,26 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1202,
+  "itemsSeen": 1280,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 271,
-  "itemsAfterDedupe": 188,
-  "todayItemsSeen": 20,
-  "suspectedItemsSeen": 20,
-  "skippedNonToday": 150,
+  "itemsAfterRelevantFilter": 336,
+  "itemsAfterDedupe": 229,
+  "todayItemsSeen": 22,
+  "suspectedItemsSeen": 19,
+  "skippedNonToday": 187,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 146,
+      "parsed": 149,
       "failed": false,
       "optional": false
     },
     {
       "name": "IT之家",
       "tier": "industry",
-      "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "parsed": 60,
+      "failed": false,
       "optional": false
     },
     {
@@ -555,9 +485,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -621,16 +550,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -651,9 +578,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 11,
+      "failed": false,
       "optional": false
     },
     {
@@ -661,7 +587,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -674,8 +600,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 59,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -748,7 +675,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "Yahoo News Technology",
       "tier": "international",
-      "parsed": 234,
+      "parsed": 233,
       "failed": false,
       "optional": false
     },
@@ -862,19 +789,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "IT之家",
-      "error": "This operation was aborted",
-      "optional": false
-    },
-    {
       "name": "财联社",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "央视网-科技",
@@ -882,29 +799,19 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
+      "name": "国家网信办-政策",
+      "error": "404 Not Found",
+      "optional": true
     },
     {
-      "name": "国家网信办-政策",
+      "name": "市场监管总局",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -931,24 +838,25 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1209,
+  "globalItemsSeen": 1208,
   "globalWindow": "latest_48h",
   "globalItemsAfterRelevantFilter": 113,
   "topics": [
     {
       "topic": "AI动态",
-      "count": 6,
-      "sourceCount": 2,
+      "count": 7,
+      "sourceCount": 3,
       "sources": [
         "网易科技",
-        "新浪科技"
+        "新浪科技",
+        "IT之家"
       ],
       "items": [
         "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
         "苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天",
         "三星推出行业最快 UFS 5.0 解决方案：带宽达 10.8GB/s，赋能端侧 AI",
         "最会“吵架”的学生，成了就业市场的“香饽饽”？",
-        "电脑无密码连外网 工作人员用AI分析文件致泄密"
+        "谷歌 DeepMind 向独立制片公司 A24 注资 7500 万美元，共同研发影视 AI 工具"
       ]
     },
     {
@@ -961,22 +869,35 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "从网点到智能体：AI代理将重塑零售银行吗？",
-        "Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验",
+        "亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据",
         "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌"
       ]
     },
     {
-      "topic": "科学前沿动态",
+      "topic": "新能源车与智能驾驶",
       "count": 3,
       "sourceCount": 2,
       "sources": [
-        "科技日报",
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "美国交通安全监管机构对特斯拉又一起致命车祸展开调查",
+        "IT早报 0623：亿咖通拟 18 亿收购 Flyme；48 位中国开发者联名举报苹果；小米 YU7 GT 创首个纽北自动驾驶纪录；博主称导航 APP 开屏摇一摇广告影响行车安全",
+        "Model 3 撞穿民宅致一死，特斯拉高管称驾驶员全程深踩油门"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
         "新浪科技"
       ],
       "items": [
-        "弘扬科学家精神丨让长期主义的科研理想落地生根",
-        "创新故事丨为量子芯片打造高丰度“地基”",
-        "中国科学院召开警示教育会"
+        "超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露",
+        "高速上连续开特斯拉近12小时不休息 司机犯困撞烂整车"
       ]
     },
     {
@@ -993,15 +914,15 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "新能源车与智能驾驶",
+      "topic": "科学前沿动态",
       "count": 2,
       "sourceCount": 1,
       "sources": [
-        "新浪科技"
+        "科技日报"
       ],
       "items": [
-        "美国交通安全监管机构对特斯拉又一起致命车祸展开调查",
-        "Model 3 撞穿民宅致一死，特斯拉高管称驾驶员全程深踩油门"
+        "弘扬科学家精神丨让长期主义的科研理想落地生根",
+        "创新故事丨为量子芯片打造高丰度“地基”"
       ]
     },
     {
@@ -1025,20 +946,77 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标"
       ]
-    },
-    {
-      "topic": "新能源车动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "高速上连续开特斯拉近12小时不休息 司机犯困撞烂整车"
-      ]
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露",
+      "summary": "塔塔电子证实遭遇数据泄露，黑客论坛正兜售据称窃自该公司的超 630GB、超 20 万份文件。样本显示其中或含苹果供应商技术规范与特斯拉生产资料。塔塔称已启动应急响应，业务未受影响，但未回应数据详情。苹果与特斯拉正关注此事。#数据泄露# #供应链安全#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/967/259.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/967/259.htm"
+      ],
+      "publishedAt": "Mon, 22 Jun 2026 23:54:51 GMT",
+      "date": "2026-06-23",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 174,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "塔塔电子证实遭遇数据泄露，黑客论坛正兜售据称窃自该公司的超 630GB、超 20 万份文件。样本显示其中或含苹果供应商技术规范与特斯拉生产资料。塔塔称已启动应急响应，业务未受影响，但未回应数据详情。苹果与特斯拉正关注此事。#数据泄露# #供应链安全#",
+      "relatedTitles": [
+        "超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "从网点到智能体：AI代理将重塑零售银行吗？",
@@ -1105,7 +1083,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "从网点到智能体：AI代理将重塑零售银行吗？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1173,20 +1151,20 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验",
-      "summary": "IT之家 6 月 23 日消息，根据 Anthropic 公司新版隐私政策，该公司可能会要求 Claude 用户上传政府签发的证件来验证其年龄和身份。这家人工智能企业表示，推出该项举措，是为了给账号被标记为存在潜在欺诈行为的用户提供申诉渠道...",
+      "title": "亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据",
+      "summary": "亚马逊开始在 ChatGPT 投放广告，将用户引流至自家店铺，但同时又严格限制包括 OpenAI 在内的 AI 系统抓取其商品数据。这暴露了其既想利用 AI 流量，又严防数据外流的矛盾战略。此举也为 OpenAI 的广告业务带来了积极信号。#亚马逊# #ChatGPT# #AI 广告#",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6538227.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6538227.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml"
       ],
       "publishedAt": "2026-06-23",
       "date": "2026-06-23",
@@ -1201,14 +1179,14 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 175,
-      "reporterScore": 183,
+      "score": 163,
+      "reporterScore": 171,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
         "visual": 0,
         "international": 0,
         "policy": 0,
@@ -1234,12 +1212,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "IT之家 6 月 23 日消息，根据 Anthropic 公司新版隐私政策，该公司可能会要求 Claude 用户上传政府签发的证件来验证其年龄和身份。这家人工智能企业表示，推出该项举措，是为了给账号被标记为存在潜在欺诈行为的用户提供申诉渠道...",
+      "rawText": "IT之家 6 月 23 日消息，亚马逊想抢占 ChatGPT 的用户流量，却不愿向 OpenAI 开放自家用户数据。电商分析师尤奥扎斯 · 卡济乌凯纳斯透露，亚马逊已开始在 ChatGPT 投放广告，成为入驻 OpenAI 新兴广告业务最知...",
       "relatedTitles": [
-        "Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验"
+        "亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据"
       ],
       "isNewSinceLastRun": true
     },
@@ -1309,7 +1287,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美国交通安全监管机构对特斯拉又一起致命车祸展开调查"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1376,6 +1354,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "6 月 23 日，苹果面向 iPhone 17 等用户推送 iOS 27 Beta 2 更新。钱包应用可点击“...”访问洞察功能，支持添加多金融账户，账户信息不存储；写作功能升级为“Write with Siri”，并入 Siri 整体体验；Home 应用新增支持远程更新 Apple TV；恢复 AirPods Max 2 安装测试版固件能力；增强 iPhone 与安卓通信联动，RCS 对话加入行内回复功能；改进图片视频表情回应显示方式；还提升系统稳定性，修复 Beta 1 崩溃问题及 iPhone 镜像功能稳定性。 (AI生成)",
       "relatedTitles": [
         "苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "IT早报 0623：亿咖通拟 18 亿收购 Flyme；48 位中国开发者联名举报苹果；小米 YU7 GT 创首个纽北自动驾驶纪录；博主称导航 APP 开屏摇一摇广告影响行车安全",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 6 月 23 日星期二，今天的重要科技资讯有：",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/967/249.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/967/249.htm"
+      ],
+      "publishedAt": "Mon, 22 Jun 2026 23:14:35 GMT",
+      "date": "2026-06-23",
+      "category": "新能源车",
+      "classificationConfidence": 0.8,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 158,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “IT早报 0623：亿咖通拟 18 亿收购 Flyme；48 位中国开发者联名举报苹果；小米 YU7 GT 创首个纽北自动驾驶纪录；博主称导航 ” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "“IT早报”时间，大家好，现在是 2026 年 6 月 23 日星期二，今天的重要科技资讯有：",
+      "relatedTitles": [
+        "IT早报 0623：亿咖通拟 18 亿收购 Flyme；48 位中国开发者联名举报苹果；小米 YU7 GT 创首个纽北自动驾驶纪录；博主称导航 APP 开屏摇一摇广告影响行车安全"
       ],
       "isNewSinceLastRun": true
     },
@@ -1445,7 +1491,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "三星推出行业最快 UFS 5.0 解决方案：带宽达 10.8GB/s，赋能端侧 AI"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1513,7 +1559,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "最会“吵架”的学生，成了就业市场的“香饽饽”？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1581,7 +1627,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "SpaceX、谷歌重挫，市值蒸发超5000亿美元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1649,7 +1695,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "高通据悉接近收购AI芯片初创公司Modular"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1717,7 +1763,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI飞轮驱动加速 半导体更多领域进入上行周期"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1785,7 +1831,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1853,7 +1899,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "弘扬科学家精神丨让长期主义的科研理想落地生根"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1920,6 +1966,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 创新故事丨为量子芯片打造高丰度“地基” 2026-06-23 07:38:02 来源: 科技日报 点击数： 热点",
       "relatedTitles": [
         "创新故事丨为量子芯片打造高丰度“地基”"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "谷歌 DeepMind 向独立制片公司 A24 注资 7500 万美元，共同研发影视 AI 工具",
+      "summary": "谷歌 DeepMind 宣布向知名独立电影公司 A24 注资 7500 万美元，双方将联合研发影视制作 AI 工具。此举旨在通过直接与顶尖创作者合作，开发能赋能真实、深度故事创作的新功能。尽管好莱坞对 AI 应用存在争议，但 Netflix、亚马逊等巨头也已纷纷布局。#AI 影视制作#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/967/260.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/967/260.htm"
+      ],
+      "publishedAt": "Tue, 23 Jun 2026 00:04:44 GMT",
+      "date": "2026-06-23",
+      "category": "AI",
+      "classificationConfidence": 0.98,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌 DeepMind 向独立制片公司 A24 注资 7500 万美元，共同研发影视 AI 工具” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "谷歌 DeepMind 宣布向知名独立电影公司 A24 注资 7500 万美元，双方将联合研发影视制作 AI 工具。此举旨在通过直接与顶尖创作者合作，开发能赋能真实、深度故事创作的新功能。尽管好莱坞对 AI 应用存在争议，但 Netflix、亚马逊等巨头也已纷纷布局。#AI 影视制作#",
+      "relatedTitles": [
+        "谷歌 DeepMind 向独立制片公司 A24 注资 7500 万美元，共同研发影视 AI 工具"
       ],
       "isNewSinceLastRun": true
     },
@@ -1989,7 +2103,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Model 3 撞穿民宅致一死，特斯拉高管称驾驶员全程深踩油门"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2057,7 +2171,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2125,7 +2239,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "电脑无密码连外网 工作人员用AI分析文件致泄密"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2193,7 +2307,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "微软CEO呼吁打破AI巨头垄断；三星电子拟扩大HBM"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2261,7 +2375,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "豆包App灰测打车出行；京东开源实时视频视觉语"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2329,75 +2443,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "高速上连续开特斯拉近12小时不休息 司机犯困撞烂整车"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "中国科学院召开警示教育会",
-      "summary": "本报讯 近日，中国科学院召开警示教育会，传达学习习近平总书记关于树立和践行正确政绩观的重要论述，深刻剖析典型案例，以案促学促改促治，推动全院学习教育走深走实。中国科学院院长、党组书记侯建国主持会议并对扎实推进学习教育作出部署，副院长、党组副...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrf8932086.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrf8932086.shtml"
-      ],
-      "publishedAt": "2026-06-23",
-      "date": "2026-06-23",
-      "category": "科学前沿",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “中国科学院召开警示教育会” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "本报讯 近日，中国科学院召开警示教育会，传达学习习近平总书记关于树立和践行正确政绩观的重要论述，深刻剖析典型案例，以案促学促改促治，推动全院学习教育走深走实。中国科学院院长、党组书记侯建国主持会议并对扎实推进学习教育作出部署，副院长、党组副...",
-      "relatedTitles": [
-        "中国科学院召开警示教育会"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2469,73 +2515,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "国产token",
-      "summary": "国产token 国产算力正在进入Token标准化时代 当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。 允中 2026-06-18 国产token 是石科技 热门文章 为什么最有价值的AI讨论总发生在知乎？ 刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！ 三连",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/%e5%9b%bd%e4%ba%a7token",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/%e5%9b%bd%e4%ba%a7token"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.69,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 180,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “国产token” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "国产token 国产算力正在进入Token标准化时代 当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。 允中 2026-06-18 国产token 是石科技 热门文章 为什么最有价值的AI讨论总发生在知乎？ 刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！ 三连发！阿里发布首个具身大模型Qwen-Robot系列 困住医疗AI的死循环，终于有国产玩家跑通了 星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
-      "relatedTitles": [
-        "国产token"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "传字节洽购天数智芯5万颗算力芯片，国产已进入大厂验证期？",
       "summary": "首页 传字节洽购天数智芯5万颗算力芯片，国产已进入大厂验证期？ 万肇生 Guanchazhewanxgun （文/万肇生 编辑/张广凯） 6月15日，路透社引述两名知情人士的说法称，字节跳动正与上海AI芯片企业天数智芯洽谈采购AI芯片，主要用于推理任务，并同时考虑采用百度旗下昆仑芯芯片。 智铠100芯片 若交易达成，天",
@@ -2603,9 +2582,76 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "国产token",
+      "summary": "国产token 国产算力正在进入Token标准化时代 当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。 允中 7分钟前 国产token 是石科技 热门文章 3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent 1290万高考生看过来！阿里出了个志愿填报Agen",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/%e5%9b%bd%e4%ba%a7token",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/%e5%9b%bd%e4%ba%a7token"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 166,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “国产token” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "国产token 国产算力正在进入Token标准化时代 当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。 允中 7分钟前 国产token 是石科技 热门文章 3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent 1290万高考生看过来！阿里出了个志愿填报Agent，免费的 Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜 Mythos阴影里谷歌悄悄发模型，速度暴涨4倍 Anthropic老大的唯一 -1，就是AI股神的未婚妻",
+      "relatedTitles": [
+        "国产token"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "我国成功发射卫星互联网低轨22组卫星",
-      "summary": "首页 我国成功发射卫星互联网低轨22组卫星 分享到： 微信公众号“海南商发”消息，6月17日10时44分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨22组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 王石称遭规模化网络诽谤，致授信暂缓、核心骨干离职 19岁网红“钟美美”被波士顿大",
+      "summary": "首页 我国成功发射卫星互联网低轨22组卫星 分享到： 微信公众号“海南商发”消息，6月17日10时44分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨22组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 拉加德：对华搞“广场协议”，行不通 王石称遭规模化网络诽谤，致授信暂缓、核心骨干",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2664,7 +2710,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “我国成功发射卫星互联网低轨22组卫星” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "商业航天与卫星互联网",
-      "rawText": "首页 我国成功发射卫星互联网低轨22组卫星 分享到： 微信公众号“海南商发”消息，6月17日10时44分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨22组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 王石称遭规模化网络诽谤，致授信暂缓、核心骨干离职 19岁网红“钟美美”被波士顿大学录取 特朗普：伊朗要买美国食品 “中国这招有先见之明，美国得跟上” 蠢蠢欲动！“所罗门群岛应与澳交好，中国参与经济就行” 调转枪口！微软CEO炮轰AI巨头：公众不会容忍 美联储前主席格林斯潘去世，享年100岁 一天内连出两记重拳，“美国敢动手，中方必反击” “中国家电赢得东南亚市场，日本品牌几乎无创新” 事关中国，欧企高管要求匿名：情况太复杂了 斯塔默泪洒唐宁街，英国又要换首相 不知悔改！被中方制裁的菲防长，又大放厥词 多部门成立联合调查组，核查“婴幼儿纸尿裤甲酰胺问题” 这一领域，中国将复刻电车式弯道超车？ “各扫门前雪”，欧盟担心输给亚洲... “目光短浅的日本政客，正将东亚推向不归路”",
+      "rawText": "首页 我国成功发射卫星互联网低轨22组卫星 分享到： 微信公众号“海南商发”消息，6月17日10时44分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨22组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 拉加德：对华搞“广场协议”，行不通 王石称遭规模化网络诽谤，致授信暂缓、核心骨干离职 19岁网红“钟美美”被波士顿大学录取 特朗普：伊朗要买美国食品 “中国这招有先见之明，美国得跟上” 蠢蠢欲动！“所罗门群岛应与澳交好，中国参与经济就行” 调转枪口！微软CEO炮轰AI巨头：公众不会容忍 美联储前主席格林斯潘去世，享年100岁 一天内连出两记重拳，“美国敢动手，中方必反击” “中国家电赢得东南亚市场，日本品牌几乎无创新” 事关中国，欧企高管要求匿名：情况太复杂了 斯塔默泪洒唐宁街，英国又要换首相 不知悔改！被中方制裁的菲防长，又大放厥词 多部门成立联合调查组，核查“婴幼儿纸尿裤甲酰胺问题” 这一领域，中国将复刻电车式弯道超车？ “各扫门前雪”，欧盟担心输给亚洲...",
       "relatedTitles": [
         "我国成功发射卫星互联网低轨22组卫星"
       ]
@@ -2734,73 +2780,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "AI药物研发 GPT发AI原创新成果了 AI实现药物全自动研发，还远吗？ 衡宇 4分钟前 AI药物研发 GPT5.4 热门文章 Anthropic老大的唯一 -1，就是AI股神的未婚妻 耐心资本护航创新，2026SuperLink开启创投价值共生新时代 “智能体最后的考试”，Fable 5竟然不敌GPT 5.5 神了，世界杯第一天真按千问剧本踢了 2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
       "relatedTitles": [
         "AI药物研发"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "又闹掰了？“白宫苦劝无果，不得已实施出口管制”",
-      "summary": "【文/观察者网熊超然】对于美国人工智能（AI）初创企业Anthropic，继今年2月在联邦范围内发布“禁用",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/internation/2026_06_14_820455.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/internation/2026_06_14_820455.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 146,
-      "reporterScore": 162,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 115
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “又闹掰了？“白宫苦劝无果，不得已实施出口管制”” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "国家科技战略与监管",
-      "rawText": "【文/观察者网熊超然】对于美国人工智能（AI）初创企业Anthropic，继今年2月在联邦范围内发布“禁用",
-      "relatedTitles": [
-        "又闹掰了？“白宫苦劝无果，不得已实施出口管制”"
       ]
     },
     {
@@ -3006,73 +2985,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析",
-      "summary": "首页 中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析 分享到： 大脑是一个极其精密的信息处理系统，神经元则是其基本计算单元。要理解大脑，不仅要知道神经元“在做什么”（功能），还要知道它“长什么样、怎么连接”（结构）以及“由什么构成”（分子）。然而，这三类信息长期来自不同实验体系，难以整合。 微信公众号“脑科",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/industry-science/2026_06_19_820971.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/industry-science/2026_06_19_820971.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "科学前沿",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 4,
-      "score": 134,
-      "reporterScore": 150,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "首页 中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析 分享到： 大脑是一个极其精密的信息处理系统，神经元则是其基本计算单元。要理解大脑，不仅要知道神经元“在做什么”（功能），还要知道它“长什么样、怎么连接”（结构）以及“由什么构成”（分子）。然而，这三类信息长期来自不同实验体系，难以整合。 微信公众号“脑科学与智能技术卓越创新中心”6月18日消息，如今，中国科学院脑科学与智能技术卓越创新中心的研究团队成功突破这一瓶颈。2026年6月18日23点，Cell在线发表题为“Multimodal imaging of gene expression, morphology, and activity of the same neuron”的研究论文。 该研究由中国科学院脑科学与智能技术卓越创新中心王凯研究团队和徐圣进研究团队联合攻关完成。研究团队自主研发了基于成像的多模态解析平台Imaging-based Multimodal Characterization（IMC），首次实现了对同一神经元在体钙活动、全脑投射形态与 3D 原位基因表达谱的高精度整合解析。 该工作突破了长期存在的",
-      "relatedTitles": [
-        "中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "订单已排到2030年！“单船最大装车量达10800辆”",
       "summary": "首页 订单已排到2030年！“单船最大装车量达10800辆” 分享到： 28日，由中国船舶集团广船国际建造的全球首艘万车级双燃料汽车运输船在广州南沙完成交付。 该船长230米，型宽40米，设计了14层车库甲板，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。同时，船舶还搭载了最新的绿色",
       "source": "观察者网-产业科技",
@@ -3207,21 +3119,21 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "管制Anthropic，美国找的借口又是“防中国”",
-      "summary": "【文/观察者网王一】美国商务部上周突然对人工智能（AI）公司Anthropic的先进模型进行出口管制，在美",
+      "title": "又闹掰了？“白宫苦劝无果，不得已实施出口管制”",
+      "summary": "【文/观察者网熊超然】对于美国人工智能（AI）初创企业Anthropic，继今年2月在联邦范围内发布“禁用",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/internation/2026_06_16_820627.shtml",
+      "url": "https://www.guancha.cn/internation/2026_06_14_820455.shtml",
       "sourceUrls": [
-        "https://www.guancha.cn/internation/2026_06_16_820627.shtml"
+        "https://www.guancha.cn/internation/2026_06_14_820455.shtml"
       ],
       "publishedAt": "",
       "date": "",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.8,
       "classificationEvidence": [
         "title",
         "summary",
@@ -3231,20 +3143,20 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 4,
-      "score": 138,
-      "reporterScore": 146,
+      "score": 134,
+      "reporterScore": 150,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": -10,
         "sourceAuthority": 12,
-        "multiSource": 12,
+        "multiSource": 0,
         "cgtFocus": 12,
         "visual": 0,
         "international": 9,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -3253,23 +3165,23 @@ window.CHENCHEN_DAILY_DATA = {
         "primary": false,
         "visual": false,
         "international": true,
-        "interview": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 105
+        "reporterScore": 115
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
+      "hasInterviewValue": true,
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “管制Anthropic，美国找的借口又是“防中国”” against primary-source evidence.",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “又闹掰了？“白宫苦劝无果，不得已实施出口管制”” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "国家科技战略与监管",
-      "rawText": "【文/观察者网王一】美国商务部上周突然对人工智能（AI）公司Anthropic的先进模型进行出口管制，在美",
+      "rawText": "【文/观察者网熊超然】对于美国人工智能（AI）初创企业Anthropic，继今年2月在联邦范围内发布“禁用",
       "relatedTitles": [
-        "管制Anthropic，美国找的借口又是“防中国”"
+        "又闹掰了？“白宫苦劝无果，不得已实施出口管制”"
       ]
     },
     {
@@ -3471,6 +3383,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
       "relatedTitles": [
         "一台晚会能办成什么样，取决于机器人"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "管制Anthropic，美国找的借口又是“防中国”",
+      "summary": "【文/观察者网王一】美国商务部上周突然对人工智能（AI）公司Anthropic的先进模型进行出口管制，在美",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/internation/2026_06_16_820627.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/internation/2026_06_16_820627.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 126,
+      "reporterScore": 134,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 0,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “管制Anthropic，美国找的借口又是“防中国”” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "国家科技战略与监管",
+      "rawText": "【文/观察者网王一】美国商务部上周突然对人工智能（AI）公司Anthropic的先进模型进行出口管制，在美",
+      "relatedTitles": [
+        "管制Anthropic，美国找的借口又是“防中国”"
       ]
     },
     {
@@ -3777,6 +3756,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "publishedAt": "Tue, 23 Jun 2026 00:11:31 +0000",
+      "date": "2026-06-22",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI launches new initiative to help find and patch open-source bugs” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 160,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Three things to watch amid Anthropic’s latest feud with the government",
       "summary": "Anthropic’s standoff with Washington has already raised new questions about AI safety and sovereignty—and about Chinese competition.",
       "source": "MIT Technology Review",
@@ -3805,7 +3816,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3837,7 +3848,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3869,7 +3880,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3901,7 +3912,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3933,7 +3944,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3965,7 +3976,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3997,7 +4008,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4029,7 +4040,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4061,7 +4072,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4093,7 +4104,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4125,7 +4136,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4157,7 +4168,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4189,7 +4200,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4221,39 +4232,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Instagram Expands To Samsung Smart TVs Joining Amazon Fire & Google TV",
-      "summary": "Instagram for TV is now available on Samsung Smart TVs. Meta, owner of the Instagram social platform, announced today that Instagram for TV will now join Amazon Fire and Google TVs",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/social-media/articles/instagram-expands-samsung-smart-tvs-173212371.html",
-      "publishedAt": "2026-06-23",
-      "date": "2026-06-23",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Instagram Expands To Samsung Smart TVs Joining Amazon Fire & Google TV” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4285,7 +4264,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 85
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4317,7 +4296,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 100
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4349,11 +4328,11 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 85
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-23｜V3\n生成时间：2026/6/23 08:01:07\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2411｜确认今日 20｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 20 条｜国际 18 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-23] 从网点到智能体：AI代理将重塑零售银行吗？\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “从网点到智能体：AI代理将重塑零售银行吗？” against primary-source evidence.\n\n2. [2026-06-23] SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元\n   网易科技｜2026-06-23｜https://www.163.com/dy/article/L02NQ9E605198CJN.html\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元” against primary-source evidence.\n\n3. [2026-06-23] Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6538227.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验” against primary-source evidence.\n\n4. [2026-06-23] 美国交通安全监管机构对特斯拉又一起致命车祸展开调查\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml\n   报道角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国交通安全监管机构对特斯拉又一起致命车祸展开调查” against primary-source evidence.\n\n5. [2026-06-23] 苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwx9766877.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天” against primary-source evidence.\n\n本次新增线索：\n- 从网点到智能体：AI代理将重塑零售银行吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml\n- SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元｜网易科技｜https://www.163.com/dy/article/L02NQ9E605198CJN.html\n- Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6538227.shtml\n- 美国交通安全监管机构对特斯拉又一起致命车祸展开调查｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml\n- 苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwx9766877.shtml\n- Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/\n\n今日热点方向：\n- AI 应用：AI动态（6 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/\n3. How Anthropic may have talked itself into an AI export ban｜Ars Technica｜https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/\n4. Anthropic says Claude may want to see your ID｜TechCrunch｜https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/\n5. Alphabet has its worst day in over a year on AI concerns after high-profile exits｜CNBC Technology｜https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-23｜V3\n生成时间：2026/6/23 08:01:07\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2411｜确认今日 20｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 20 条｜国际 18 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-23] 从网点到智能体：AI代理将重塑零售银行吗？\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “从网点到智能体：AI代理将重塑零售银行吗？” against primary-source evidence.\n\n2. [2026-06-23] SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元\n   网易科技｜2026-06-23｜https://www.163.com/dy/article/L02NQ9E605198CJN.html\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元” against primary-source evidence.\n\n3. [2026-06-23] Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6538227.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验” against primary-source evidence.\n\n4. [2026-06-23] 美国交通安全监管机构对特斯拉又一起致命车祸展开调查\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml\n   报道角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国交通安全监管机构对特斯拉又一起致命车祸展开调查” against primary-source evidence.\n\n5. [2026-06-23] 苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwx9766877.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天” against primary-source evidence.\n\n本次新增线索：\n- 从网点到智能体：AI代理将重塑零售银行吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml\n- SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元｜网易科技｜https://www.163.com/dy/article/L02NQ9E605198CJN.html\n- Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6538227.shtml\n- 美国交通安全监管机构对特斯拉又一起致命车祸展开调查｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml\n- 苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwx9766877.shtml\n- Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/\n\n今日热点方向：\n- AI 应用：AI动态（6 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/\n3. How Anthropic may have talked itself into an AI export ban｜Ars Technica｜https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/\n4. Anthropic says Claude may want to see your ID｜TechCrunch｜https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/\n5. Alphabet has its worst day in over a year on AI concerns after high-profile exits｜CNBC Technology｜https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-23｜生成时间：2026/6/23 08:01:07｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2411｜确认今日 20｜国际背景 19</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 20 条｜国际 18 条<br>延续跟踪线索：国内 0 条｜国际 1 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-23] 从网点到智能体：AI代理将重塑零售银行吗？</strong>\n      <span>新浪科技｜2026-06-23｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “从网点到智能体：AI代理将重塑零售银行吗？” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-23] SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元</strong>\n      <span>网易科技｜2026-06-23｜<a href=\"https://www.163.com/dy/article/L02NQ9E605198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-23] Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验</strong>\n      <span>新浪科技｜2026-06-23｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6538227.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-23] 美国交通安全监管机构对特斯拉又一起致命车祸展开调查</strong>\n      <span>新浪科技｜2026-06-23｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国交通安全监管机构对特斯拉又一起致命车祸展开调查” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-23] 苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天</strong>\n      <span>新浪科技｜2026-06-23｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwx9766877.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese universities are cutting language majors to make way for AI</strong>\n      <span>时间：Mon, 22 Jun 2026 10:00:52 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese universities are cutting language majors to make way for AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Three things to watch amid Anthropic’s latest feud with the government</strong>\n      <span>时间：Mon, 22 Jun 2026 18:00:00 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Three things to watch amid Anthropic’s latest feud with the government” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. How Anthropic may have talked itself into an AI export ban</strong>\n      <span>时间：Mon, 22 Jun 2026 13:45:24 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “How Anthropic may have talked itself into an AI export ban” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Anthropic says Claude may want to see your ID</strong>\n      <span>时间：Mon, 22 Jun 2026 18:05:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic says Claude may want to see your ID” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Alphabet has its worst day in over a year on AI concerns after high-profile exits</strong>\n      <span>时间：Mon, 22 Jun 2026 21:04:29 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Alphabet has its worst day in over a year on AI concerns after high-prof” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/23 08:01:07\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 20 条｜国际 18 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-23] 从网点到智能体：AI代理将重塑零售银行吗？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “从网点到智能体：AI代理将重塑零售银行吗？” against primary-source evidence.\n\n2. [2026-06-23] SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L02NQ9E605198CJN.html\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元” against primary-source evidence.\n\n3. [2026-06-23] Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6538227.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验” against primary-source evidence.\n\n4. [2026-06-23] 美国交通安全监管机构对特斯拉又一起致命车祸展开调查\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml\n   角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国交通安全监管机构对特斯拉又一起致命车祸展开调查” against primary-source evidence.\n\n5. [2026-06-23] 苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwx9766877.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天” against primary-source evidence.\n\n本次新增线索：\n- 从网点到智能体：AI代理将重塑零售银行吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml\n- SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元｜网易科技｜https://www.163.com/dy/article/L02NQ9E605198CJN.html\n- Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6538227.shtml\n- 美国交通安全监管机构对特斯拉又一起致命车祸展开调查｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml\n- 苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwx9766877.shtml\n- Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/\n\n今日热点方向：\n- AI 应用：AI动态（6 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/\n3. How Anthropic may have talked itself into an AI export ban｜Ars Technica｜https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/\n4. Anthropic says Claude may want to see your ID｜TechCrunch｜https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/\n5. Alphabet has its worst day in over a year on AI concerns after high-profile exits｜CNBC Technology｜https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-23｜V3\n生成时间：2026/6/23 08:17:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2488｜确认今日 22｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 1 条\n延续跟踪线索：国内 18 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:54] 超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露\n   IT之家｜2026-06-23｜https://www.ithome.com/0/967/259.htm\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露” against primary-source evidence.\n\n2. [2026-06-23] 从网点到智能体：AI代理将重塑零售银行吗？\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “从网点到智能体：AI代理将重塑零售银行吗？” against primary-source evidence.\n\n3. [2026-06-23] SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元\n   网易科技｜2026-06-23｜https://www.163.com/dy/article/L02NQ9E605198CJN.html\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元” against primary-source evidence.\n\n4. [2026-06-23] 亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据” against primary-source evidence.\n\n5. [2026-06-23] 美国交通安全监管机构对特斯拉又一起致命车祸展开调查\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml\n   报道角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国交通安全监管机构对特斯拉又一起致命车祸展开调查” against primary-source evidence.\n\n本次新增线索：\n- 超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露｜IT之家｜https://www.ithome.com/0/967/259.htm\n- 亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml\n- IT早报 0623：亿咖通拟 18 亿收购 Flyme；48 位中国开发者联名举报苹果；小米 YU7 GT 创首个纽北自动驾驶纪录；博主称导航 APP 开屏摇一摇广告影响行车安全｜IT之家｜https://www.ithome.com/0/967/249.htm\n- 谷歌 DeepMind 向独立制片公司 A24 注资 7500 万美元，共同研发影视 AI 工具｜IT之家｜https://www.ithome.com/0/967/260.htm\n- OpenAI launches new initiative to help find and patch open-source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. OpenAI launches new initiative to help find and patch open-source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\n3. Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/\n4. How Anthropic may have talked itself into an AI export ban｜Ars Technica｜https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/\n5. Anthropic says Claude may want to see your ID｜TechCrunch｜https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-23｜V3\n生成时间：2026/6/23 08:17:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2488｜确认今日 22｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 1 条\n延续跟踪线索：国内 18 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:54] 超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露\n   IT之家｜2026-06-23｜https://www.ithome.com/0/967/259.htm\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露” against primary-source evidence.\n\n2. [2026-06-23] 从网点到智能体：AI代理将重塑零售银行吗？\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “从网点到智能体：AI代理将重塑零售银行吗？” against primary-source evidence.\n\n3. [2026-06-23] SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元\n   网易科技｜2026-06-23｜https://www.163.com/dy/article/L02NQ9E605198CJN.html\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元” against primary-source evidence.\n\n4. [2026-06-23] 亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据” against primary-source evidence.\n\n5. [2026-06-23] 美国交通安全监管机构对特斯拉又一起致命车祸展开调查\n   新浪科技｜2026-06-23｜https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml\n   报道角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国交通安全监管机构对特斯拉又一起致命车祸展开调查” against primary-source evidence.\n\n本次新增线索：\n- 超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露｜IT之家｜https://www.ithome.com/0/967/259.htm\n- 亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml\n- IT早报 0623：亿咖通拟 18 亿收购 Flyme；48 位中国开发者联名举报苹果；小米 YU7 GT 创首个纽北自动驾驶纪录；博主称导航 APP 开屏摇一摇广告影响行车安全｜IT之家｜https://www.ithome.com/0/967/249.htm\n- 谷歌 DeepMind 向独立制片公司 A24 注资 7500 万美元，共同研发影视 AI 工具｜IT之家｜https://www.ithome.com/0/967/260.htm\n- OpenAI launches new initiative to help find and patch open-source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. OpenAI launches new initiative to help find and patch open-source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\n3. Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/\n4. How Anthropic may have talked itself into an AI export ban｜Ars Technica｜https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/\n5. Anthropic says Claude may want to see your ID｜TechCrunch｜https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-23｜生成时间：2026/6/23 08:17:00｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2488｜确认今日 22｜国际背景 19</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 1 条<br>延续跟踪线索：国内 18 条｜国际 18 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [23:54] 超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露</strong>\n      <span>IT之家｜2026-06-23｜<a href=\"https://www.ithome.com/0/967/259.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：174｜需核验来源</span>\n      <p>报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-23] 从网点到智能体：AI代理将重塑零售银行吗？</strong>\n      <span>新浪科技｜2026-06-23｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “从网点到智能体：AI代理将重塑零售银行吗？” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-23] SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元</strong>\n      <span>网易科技｜2026-06-23｜<a href=\"https://www.163.com/dy/article/L02NQ9E605198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-23] 亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据</strong>\n      <span>新浪科技｜2026-06-23｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-23] 美国交通安全监管机构对特斯拉又一起致命车祸展开调查</strong>\n      <span>新浪科技｜2026-06-23｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国交通安全监管机构对特斯拉又一起致命车祸展开调查” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese universities are cutting language majors to make way for AI</strong>\n      <span>时间：Mon, 22 Jun 2026 10:00:52 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese universities are cutting language majors to make way for AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI launches new initiative to help find and patch open-source bugs</strong>\n      <span>时间：Tue, 23 Jun 2026 00:11:31 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI launches new initiative to help find and patch open-source bugs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Three things to watch amid Anthropic’s latest feud with the government</strong>\n      <span>时间：Mon, 22 Jun 2026 18:00:00 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Three things to watch amid Anthropic’s latest feud with the government” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. How Anthropic may have talked itself into an AI export ban</strong>\n      <span>时间：Mon, 22 Jun 2026 13:45:24 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “How Anthropic may have talked itself into an AI export ban” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Anthropic says Claude may want to see your ID</strong>\n      <span>时间：Mon, 22 Jun 2026 18:05:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic says Claude may want to see your ID” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/23 08:17:00\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 1 条\n延续跟踪线索：国内 18 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:54] 超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露\n   来源：IT之家\n   链接：https://www.ithome.com/0/967/259.htm\n   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露” against primary-source evidence.\n\n2. [2026-06-23] 从网点到智能体：AI代理将重塑零售银行吗？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “从网点到智能体：AI代理将重塑零售银行吗？” against primary-source evidence.\n\n3. [2026-06-23] SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L02NQ9E605198CJN.html\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元” against primary-source evidence.\n\n4. [2026-06-23] 亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据” against primary-source evidence.\n\n5. [2026-06-23] 美国交通安全监管机构对特斯拉又一起致命车祸展开调查\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml\n   角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国交通安全监管机构对特斯拉又一起致命车祸展开调查” against primary-source evidence.\n\n本次新增线索：\n- 超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露｜IT之家｜https://www.ithome.com/0/967/259.htm\n- 亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml\n- IT早报 0623：亿咖通拟 18 亿收购 Flyme；48 位中国开发者联名举报苹果；小米 YU7 GT 创首个纽北自动驾驶纪录；博主称导航 APP 开屏摇一摇广告影响行车安全｜IT之家｜https://www.ithome.com/0/967/249.htm\n- 谷歌 DeepMind 向独立制片公司 A24 注资 7500 万美元，共同研发影视 AI 工具｜IT之家｜https://www.ithome.com/0/967/260.htm\n- OpenAI launches new initiative to help find and patch open-source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n国际科技背景：\n1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. OpenAI launches new initiative to help find and patch open-source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\n3. Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/\n4. How Anthropic may have talked itself into an AI export ban｜Ars Technica｜https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/\n5. Anthropic says Claude may want to see your ID｜TechCrunch｜https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
