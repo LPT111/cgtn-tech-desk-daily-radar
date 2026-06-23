@@ -3,61 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/23 08:17:00
+生成时间：2026/6/23 09:25:48
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 1 条
-延续跟踪线索：国内 18 条｜国际 18 条
+新增核心线索：国内 27 条｜国际 3 条
+延续跟踪线索：国内 13 条｜国际 19 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [23:54] 超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露
-   来源：IT之家
-   链接：https://www.ithome.com/0/967/259.htm
-   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露” against primary-source evidence.
+1. [2026-06-23] 把握全球技术演进态势 抢占具身智能发展先机
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0623/c1004-40745539.html
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “把握全球技术演进态势 抢占具身智能发展先机” against primary-source evidence.
 
-2. [2026-06-23] 从网点到智能体：AI代理将重塑零售银行吗？
+2. [2026-06-23] 人形机器人上游核心零部件迎新机遇
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieitrc6627655.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “从网点到智能体：AI代理将重塑零售银行吗？” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieixwx9827859.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人上游核心零部件迎新机遇” against primary-source evidence.
 
-3. [2026-06-23] SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元
+3. [2026-06-23] MLCC涨价潮调查：背后是AI需求引爆还是渠道炒作？
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/roll/2026-06-23/doc-inieixwx9781896.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MLCC涨价潮调查：背后是AI需求引爆还是渠道炒作？” against primary-source evidence.
+
+4. [2026-06-23] 八部门出台17项举措加快发展“人工智能+消费”-" 近日
+   来源：新华网-科技
+   链接：http://www.news.cn/tech/20260623/c9b85d51a89b4ae8a15b5f8ac89bd0a9/c.html
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “八部门出台17项举措加快发展“人工智能+消费”-" 近日” against primary-source evidence.
+
+5. [2026-06-23] 智元精灵G2开启首个3C产线质检工段全覆盖真实作业直播
    来源：网易科技
-   链接：https://www.163.com/dy/article/L02NQ9E605198CJN.html
-   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元” against primary-source evidence.
-
-4. [2026-06-23] 亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据” against primary-source evidence.
-
-5. [2026-06-23] 美国交通安全监管机构对特斯拉又一起致命车祸展开调查
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieixxc8829021.shtml
-   角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国交通安全监管机构对特斯拉又一起致命车祸展开调查” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L03KNNAI0534A4SC.html
+   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “智元精灵G2开启首个3C产线质检工段全覆盖真实作业直播” against primary-source evidence.
 
 本次新增线索：
-- 超 630GB 文件遭黑客兜售，苹果特斯拉核心供应商塔塔电子证实数据泄露｜IT之家｜https://www.ithome.com/0/967/259.htm
-- 亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取自家商品数据｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml
-- IT早报 0623：亿咖通拟 18 亿收购 Flyme；48 位中国开发者联名举报苹果；小米 YU7 GT 创首个纽北自动驾驶纪录；博主称导航 APP 开屏摇一摇广告影响行车安全｜IT之家｜https://www.ithome.com/0/967/249.htm
-- 谷歌 DeepMind 向独立制片公司 A24 注资 7500 万美元，共同研发影视 AI 工具｜IT之家｜https://www.ithome.com/0/967/260.htm
-- OpenAI launches new initiative to help find and patch open-source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
+- 把握全球技术演进态势 抢占具身智能发展先机｜人民网-科技｜http://finance.people.com.cn/n1/2026/0623/c1004-40745539.html
+- 人形机器人上游核心零部件迎新机遇｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-23/doc-inieixwx9827859.shtml
+- MLCC涨价潮调查：背后是AI需求引爆还是渠道炒作？｜新浪科技｜https://finance.sina.com.cn/roll/2026-06-23/doc-inieixwx9781896.shtml
+- 八部门出台17项举措加快发展“人工智能+消费”-" 近日｜新华网-科技｜http://www.news.cn/tech/20260623/c9b85d51a89b4ae8a15b5f8ac89bd0a9/c.html
+- 智元精灵G2开启首个3C产线质检工段全覆盖真实作业直播｜网易科技｜https://www.163.com/dy/article/L03KNNAI0534A4SC.html
+- OpenAI: Yoo-hoo, look over here, we do that security stuff too!｜The Register｜https://www.theregister.com/security/2026/06/23/openai-yoo-hoo-look-over-here-we-do-that-security-stuff-too/5259842
 
 今日热点方向：
-- AI 应用：AI动态（7 条，3 个来源）
-- 芯片/半导体：半导体供应链（3 条，1 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
-- 太空与低空经济：
+- AI 应用：AI动态（10 条，4 个来源）
+- 芯片/半导体：半导体供应链（4 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
 1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-2. OpenAI launches new initiative to help find and patch open-source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
-3. Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
-4. How Anthropic may have talked itself into an AI export ban｜Ars Technica｜https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/
+2. Three things to watch amid Anthropic’s latest feud with the government｜MIT Technology Review｜https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
+3. How Anthropic may have talked itself into an AI export ban｜Ars Technica｜https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/
+4. OpenAI launches new initiative to help find and patch open-source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
 5. Anthropic says Claude may want to see your ID｜TechCrunch｜https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/
 
 发稿前核验提示：
