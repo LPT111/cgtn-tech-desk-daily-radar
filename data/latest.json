@@ -1,22 +1,17 @@
 {
-  "generatedAt": "2026-06-24T00:06:49.858Z",
+  "generatedAt": "2026-06-24T00:14:20.530Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-24",
   "changeSummary": {
-    "domesticNew": 2,
+    "domesticNew": 1,
     "globalNew": 0,
-    "domesticContinued": 16,
-    "globalContinued": 20,
+    "domesticContinued": 18,
+    "globalContinued": 19,
     "topNewDomestic": [
       {
-        "title": "SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml"
-      },
-      {
-        "title": "英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-24/doc-iniemwqk6459408.shtml"
+        "title": "三大技术路径实现突破 机构称脑机接口行业有望快速扩张",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L063I5H005198CJN.html"
       }
     ],
     "topNewGlobal": [],
@@ -26,8 +21,8 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 882,
-    "globalRejected": 880,
+    "domesticRejected": 881,
+    "globalRejected": 881,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -41,13 +36,8 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -70,11 +60,6 @@
     }
   ],
   "failures": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -150,8 +135,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -171,7 +155,7 @@
     {
       "name": "机器之心",
       "tier": "research",
-      "parsed": 10,
+      "parsed": 0,
       "failed": false,
       "optional": false
     },
@@ -241,7 +225,7 @@
     {
       "name": "中国日报-科技",
       "tier": "mainstream",
-      "parsed": 49,
+      "parsed": 48,
       "failed": false,
       "optional": false
     },
@@ -348,13 +332,13 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1376,
+  "itemsSeen": 1365,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 334,
-  "itemsAfterDedupe": 228,
-  "todayItemsSeen": 18,
-  "suspectedItemsSeen": 20,
-  "skippedNonToday": 186,
+  "itemsAfterRelevantFilter": 340,
+  "itemsAfterDedupe": 232,
+  "todayItemsSeen": 19,
+  "suspectedItemsSeen": 19,
+  "skippedNonToday": 190,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -409,8 +393,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -430,7 +413,7 @@
     {
       "name": "机器之心",
       "tier": "research",
-      "parsed": 10,
+      "parsed": 0,
       "failed": false,
       "optional": false
     },
@@ -500,7 +483,7 @@
     {
       "name": "中国日报-科技",
       "tier": "mainstream",
-      "parsed": 49,
+      "parsed": 48,
       "failed": false,
       "optional": false
     },
@@ -761,11 +744,6 @@
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -807,7 +785,7 @@
   "globalSuccessSources": 18,
   "globalItemsSeen": 1216,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 102,
+  "globalItemsAfterRelevantFilter": 100,
   "topics": [
     {
       "topic": "AI 应用与智能体",
@@ -876,6 +854,17 @@
       ]
     },
     {
+      "topic": "科学前沿与科研设施",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "三大技术路径实现突破 机构称脑机接口行业有望快速扩张"
+      ]
+    },
+    {
       "topic": "太空与低空动态",
       "count": 1,
       "sourceCount": 1,
@@ -887,17 +876,6 @@
       ]
     },
     {
-      "topic": "芯片动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读"
-      ]
-    },
-    {
       "topic": "机器人动态",
       "count": 1,
       "sourceCount": 1,
@@ -906,6 +884,17 @@
       ],
       "items": [
         "中国扫地机器人5月线上销量TOP10出炉：科沃斯、石头、追觅前三"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读"
       ]
     },
     {
@@ -1137,74 +1126,6 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷",
-      "summary": "SpaceX 全新“星落”返回舱完成首次飞行测试，这款扁平圆盘造型的货运舱旨在为太空制药、在轨制造提供低成本、常态化的微重力环境往返通道。其运载能力是现有同类产品的 30 倍，标志着 SpaceX 从“发射服务商”向“全产业链运营商”的关键一步。#SpaceX##太空制造#",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml"
-      ],
-      "publishedAt": "2026-06-24",
-      "date": "2026-06-24",
-      "category": "太空与低空",
-      "classificationConfidence": 0.8,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "priority": 5,
-      "score": 166,
-      "reporterScore": 180,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "太空与低空动态",
-      "rawText": "IT之家 6 月 24 日消息，SpaceX 全新的航天飞行设备首度奔赴浩瀚太空。该公司星落（Starfall）返回舱于当地时间 6 月 23 日执行了首飞任务，此前 SpaceX 已向美国联邦航空管理局（FAA）提交申请，计划开展两次再入...",
-      "relatedTitles": [
-        "SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "AI时代，科学家更要当“出题人”",
       "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 AI时代，科学家更要当“出题人”——专家学者在夏季达沃斯论坛上共话全球科创人才治理路径 2026-06-24 07:42:50 来源: 科技日报 点击数： 热点",
@@ -1273,41 +1194,41 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读",
-      "summary": "6月23日PCB板块大跌，市场围绕产业链有多重讨论。一是流传“英伟达要求PCB厂商降价10%”“胜宏科技扩产拖累Rubin平台出货”等消息，经求证，这些传闻存在夸大和误读。三大理由击破“英伟达压价10%”传闻，包括高端产能紧缺使PCB厂商有议价权、云厂商更关注供应链产能和交付能力、将Rubin延期归因于单一厂商不符实际",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "三大技术路径实现突破 机构称脑机接口行业有望快速扩张",
+      "summary": "三大技术路径实现突破 机构称脑机接口行业有望快速扩张,算法,机器人,微电子,脑机接口,人工智能",
+      "source": "网易科技",
       "sources": [
-        "新浪科技"
+        "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-24/doc-iniemwqk6459408.shtml",
+      "url": "https://www.163.com/dy/article/L063I5H005198CJN.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/stock/bxjj/2026-06-24/doc-iniemwqk6459408.shtml"
+        "https://www.163.com/dy/article/L063I5H005198CJN.html"
       ],
       "publishedAt": "2026-06-24",
       "date": "2026-06-24",
-      "category": "芯片",
-      "classificationConfidence": 0.68,
+      "category": "科学前沿",
+      "classificationConfidence": 0.9,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
       "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
+      "score": 165,
+      "reporterScore": 171,
       "scoreBreakdown": {
-        "hardTech": 95,
+        "hardTech": 85,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
@@ -1318,27 +1239,95 @@
       },
       "reporterSignals": {
         "primary": false,
-        "visual": false,
-        "international": true,
+        "visual": true,
+        "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
+        "hardTechWeight": 85,
+        "reporterScore": 108
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读” against primary-source evidence.",
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask what is genuinely new, how it was tested and whether the scientific mechanism, evidence and translational boundary creates a credible path toward application. For this item, test the claim behind “三大技术路径实现突破 机构称脑机接口行业有望快速扩张” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "6月23日PCB板块大跌，市场围绕产业链有多重讨论。一是流传“英伟达要求PCB厂商降价10%”“胜宏科技扩产拖累Rubin平台出货”等消息，经求证，这些传闻存在夸大和误读。三大理由击破“英伟达压价10%”传闻，包括高端产能紧缺使PCB厂商有议价权、云厂商更关注供应链产能和交付能力、将Rubin延期归因于单一厂商不符实际。二是外资行杰富瑞称原计划2027年导入的Kyber背板PCB方案或推迟至2028年，若延期，2027年全球AI PCB及CCL市场规模或分别下调约5%和8%，但不改变行业长期增长逻辑，对供应链影响有利有弊。 (AI生成)",
+      "matchedTopic": "科学前沿与科研设施",
+      "rawText": "三大技术路径实现突破 机构称脑机接口行业有望快速扩张,算法,机器人,微电子,脑机接口,人工智能",
       "relatedTitles": [
-        "英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读"
+        "三大技术路径实现突破 机构称脑机接口行业有望快速扩张"
       ],
       "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷",
+      "summary": "SpaceX 全新“星落”返回舱完成首次飞行测试，这款扁平圆盘造型的货运舱旨在为太空制药、在轨制造提供低成本、常态化的微重力环境往返通道。其运载能力是现有同类产品的 30 倍，标志着 SpaceX 从“发射服务商”向“全产业链运营商”的关键一步。#SpaceX##太空制造#",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml"
+      ],
+      "publishedAt": "2026-06-24",
+      "date": "2026-06-24",
+      "category": "太空与低空",
+      "classificationConfidence": 0.8,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 166,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "IT之家 6 月 24 日消息，SpaceX 全新的航天飞行设备首度奔赴浩瀚太空。该公司星落（Starfall）返回舱于当地时间 6 月 23 日执行了首飞任务，此前 SpaceX 已向美国联邦航空管理局（FAA）提交申请，计划开展两次再入...",
+      "relatedTitles": [
+        "SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1541,6 +1530,74 @@
       "rawText": "从跳舞打拳到进厂干活：实探龙旗科技产线，人形机器人成真生产力还需补哪些短板？,龙旗,精灵,张龙,机械,人形机器人",
       "relatedTitles": [
         "从跳舞打拳到进厂干活：实探龙旗科技产线，人形"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读",
+      "summary": "6月23日PCB板块大跌，市场围绕产业链有多重讨论。一是流传“英伟达要求PCB厂商降价10%”“胜宏科技扩产拖累Rubin平台出货”等消息，经求证，这些传闻存在夸大和误读。三大理由击破“英伟达压价10%”传闻，包括高端产能紧缺使PCB厂商有议价权、云厂商更关注供应链产能和交付能力、将Rubin延期归因于单一厂商不符实际",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-24/doc-iniemwqk6459408.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/bxjj/2026-06-24/doc-iniemwqk6459408.shtml"
+      ],
+      "publishedAt": "2026-06-24",
+      "date": "2026-06-24",
+      "category": "芯片",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "6月23日PCB板块大跌，市场围绕产业链有多重讨论。一是流传“英伟达要求PCB厂商降价10%”“胜宏科技扩产拖累Rubin平台出货”等消息，经求证，这些传闻存在夸大和误读。三大理由击破“英伟达压价10%”传闻，包括高端产能紧缺使PCB厂商有议价权、云厂商更关注供应链产能和交付能力、将Rubin延期归因于单一厂商不符实际。二是外资行杰富瑞称原计划2027年导入的Kyber背板PCB方案或推迟至2028年，若延期，2027年全球AI PCB及CCL市场规模或分别下调约5%和8%，但不改变行业长期增长逻辑，对供应链影响有利有弊。 (AI生成)",
+      "relatedTitles": [
+        "英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读"
       ],
       "isNewSinceLastRun": false
     },
@@ -2226,70 +2283,70 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "全球首款含铜钛合金骨针获批上市",
-      "summary": "首页 中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析 分享到： 大脑是一个极其精密的信息处理系统，神经元则是其基本计算单元。要理解大脑，不仅要知道神经元“在做什么”（功能），还要知道它“长什么样、怎么连接”（结构）以及“由什么构成”（分子）。然而，这三类信息长期来自不同实验体系，难以整合。 微信公众号“脑科",
-      "source": "中国科学院",
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "AI药物研发",
+      "summary": "AI药物研发 GPT发AI原创新成果了 AI实现药物全自动研发，还远吗？ 衡宇 2026-06-19 AI药物研发 GPT5.4 热门文章 为什么最有价值的AI讨论总发生在知乎？ 刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！ 三连发！阿里发布首个具身大模型Qwen-Robot系列 困住医疗AI",
+      "source": "量子位",
       "sources": [
-        "中国科学院"
+        "量子位"
       ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/cg/zh/202604/t20260429_5108364.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/ai%e8%8d%af%e7%89%a9%e7%a0%94%e5%8f%91",
       "sourceUrls": [
-        "https://www.cas.cn/cg/zh/202604/t20260429_5108364.shtml"
+        "https://www.qbitai.com/tag/ai%e8%8d%af%e7%89%a9%e7%a0%94%e5%8f%91"
       ],
-      "publishedAt": "2026-04-29",
-      "date": "2026-04-29",
-      "category": "科学前沿",
-      "classificationConfidence": 0.99,
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.86,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 152,
-      "reporterScore": 178,
+      "score": 158,
+      "reporterScore": 180,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": -10,
-        "sourceAuthority": 18,
+        "sourceAuthority": 8,
         "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
+        "cgtFocus": 12,
+        "visual": 8,
         "international": 9,
         "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 12,
+        "sourceWeight": 6,
+        "primarySource": 0,
         "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
       },
       "reporterSignals": {
-        "primary": true,
-        "visual": false,
+        "primary": false,
+        "visual": true,
         "international": true,
         "interview": true,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 120
+        "hardTechWeight": 95,
+        "reporterScore": 123
       },
-      "isPrimarySource": true,
+      "isPrimarySource": false,
       "hasInterviewValue": true,
-      "hasVisualValue": false,
+      "hasVisualValue": true,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “全球首款含铜钛合金骨针获批上市” against primary-source evidence.",
+      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI药物研发” against primary-source evidence.",
       "status": "suspected_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "首页 > 成果转化 > 工作动态 4月21日，由中国科学院金属研究所与苏州森锋医疗器械有限公司联合研发的全球首款具有抗菌功能的含铜钛合金骨针产品，获得国家药品监督管理局批准，取得中华人民共和国医疗器械注册证，正式上市。 钛合金因其优异的力学性能和生物相容性，已成为骨科、口腔等植入器械的主流材料，其中钛合金骨针是使用最为广泛的器械之一，用于骨折手术中穿过骨骼起到固定作用。 该产品打破了传统骨科植入金属材料生物惰性的应用局限，实现了抗菌型功能化医用钛合金从基础研究到骨科临床器械应用的突破。 4月21日，由中国科学院金属研究所与苏州森锋医疗器械有限公司联合研发的全球首款具有抗菌功能的含铜钛合金骨针产品，获得国家药品监督管理局批准，取得中华人民共和国医疗器械注册证，正式上市。钛合金因其优异的力学性能和生物相容性，已成为骨科、口腔等植入器械的主流材料，其中钛合金骨针是使用最为广泛的器械之一，用于骨折手术中穿过骨骼起到固定作用。该产品打破了传统骨科植入金属材料生物惰性的应用局限，实现了抗菌型功能化医用钛合金从基础研究到骨科临床器械应用的突破。",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "AI药物研发 GPT发AI原创新成果了 AI实现药物全自动研发，还远吗？ 衡宇 2026-06-19 AI药物研发 GPT5.4 热门文章 为什么最有价值的AI讨论总发生在知乎？ 刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！ 三连发！阿里发布首个具身大模型Qwen-Robot系列 困住医疗AI的死循环，终于有国产玩家跑通了 算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
       "relatedTitles": [
-        "全球首款含铜钛合金骨针获批上市"
+        "AI药物研发"
       ]
     },
     {
@@ -2428,21 +2485,21 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "AI药物研发",
+      "title": "GPT5.4",
       "summary": "人形机器人通用小脑 全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化 人形机器人正式迈入“GPT时代” 衡宇 8分钟前 GPT时刻 人形机器人通用小脑 人类数据 银河通用 热门文章 Anthropic老大的唯一 -1，就是AI股神的未婚妻 耐心资本护航创新，2026SuperLink开启",
       "source": "量子位",
       "sources": [
         "量子位"
       ],
       "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/ai%e8%8d%af%e7%89%a9%e7%a0%94%e5%8f%91",
+      "url": "https://www.qbitai.com/tag/gpt5-4",
       "sourceUrls": [
-        "https://www.qbitai.com/tag/ai%e8%8d%af%e7%89%a9%e7%a0%94%e5%8f%91"
+        "https://www.qbitai.com/tag/gpt5-4"
       ],
       "publishedAt": "",
       "date": "",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.95,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2485,12 +2542,12 @@
       "hasVisualValue": true,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI药物研发” against primary-source evidence.",
+      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “GPT5.4” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "AI药物研发 GPT发AI原创新成果了 AI实现药物全自动研发，还远吗？ 衡宇 4分钟前 AI药物研发 GPT5.4 热门文章 Anthropic老大的唯一 -1，就是AI股神的未婚妻 耐心资本护航创新，2026SuperLink开启创投价值共生新时代 “智能体最后的考试”，Fable 5竟然不敌GPT 5.5 神了，世界杯第一天真按千问剧本踢了 2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
+      "rawText": "GPT5.4 GPT发AI原创新成果了 AI实现药物全自动研发，还远吗？ 衡宇 4分钟前 AI药物研发 GPT5.4 热门文章 Anthropic老大的唯一 -1，就是AI股神的未婚妻 耐心资本护航创新，2026SuperLink开启创投价值共生新时代 “智能体最后的考试”，Fable 5竟然不敌GPT 5.5 神了，世界杯第一天真按千问剧本踢了 2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
       "relatedTitles": [
-        "AI药物研发"
+        "GPT5.4"
       ]
     },
     {
@@ -2826,73 +2883,6 @@
       "rawText": "高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰，以台积电熊本工厂为锚点——正在从多个维度遭遇严峻挑战。这位日本首位女首相的芯片野心，很可能正在走向一场代价高昂的落空。",
       "relatedTitles": [
         "高市早苗的芯片迷梦"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9wcm8uamlx",
-      "title": "世界模型能抹平具身智能的数据鸿沟吗？",
-      "summary": "机器之心",
-      "source": "机器之心",
-      "sources": [
-        "机器之心"
-      ],
-      "sourceTier": "research",
-      "url": "https://pro.jiqizhixin.com/reference/33acbe07-1203-4556-a621-b635bbc03abd",
-      "sourceUrls": [
-        "https://pro.jiqizhixin.com/reference/33acbe07-1203-4556-a621-b635bbc03abd"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "机器人",
-      "classificationConfidence": 0.8,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 153,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": -10,
-        "sourceAuthority": 14,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “世界模型能抹平具身智能的数据鸿沟吗？” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "机器之心",
-      "relatedTitles": [
-        "世界模型能抹平具身智能的数据鸿沟吗？"
       ]
     },
     {
@@ -3534,38 +3524,6 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1",
-      "summary": "PLUS: Indian telco ponders broadband satellites; Samsung goes all-in on OpenAI; Vietnam centrally plans ten tech giants; and more!",
-      "source": "The Register",
-      "url": "https://www.theregister.com/personal-tech/2026/06/23/india-and-china-are-home-to-29-billion-people-and-together-they-bought-just-13-million-pcs-in-q1/5259893",
-      "publishedAt": "Tue, 23 Jun 2026 06:06:02 +0200",
-      "date": "2026-06-23",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.63,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 85,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “India and China are home to 2.9 billion people – and together they bough” against primary-source evidence.",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 181,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 113
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI launches new initiative to help find and patch open source bugs",
       "summary": "OpenAI is using AI to help the open source community better protect itself.",
       "source": "TechCrunch",
@@ -3580,38 +3538,6 @@
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI launches new initiative to help find and patch open source bugs” against primary-source evidence.",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 160,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "The new database world according to Google: Inexact queries and AI in everything",
-      "summary": "Databases The new database world according to Google: Inexact queries and AI in everything 'Humans are not going to be using data platforms in the next three to five years,' produc",
-      "source": "The Register",
-      "url": "https://www.theregister.com/databases/2026/06/22/the-new-database-world-according-to-google-inexact-queries-and-ai-in-everything/5259454",
-      "publishedAt": "Mon, 22 Jun 2026 17:40:00 +0200",
-      "date": "2026-06-22",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The new database world according to Google: Inexact queries and AI in ev” against primary-source evidence.",
       "priority": 5,
       "score": 152,
       "reporterScore": 160,
@@ -3791,11 +3717,11 @@
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI Codex bombards SSDs with needless write operations, costing millions",
-      "summary": "Clumsy logging implementation squirrels away data without regard for cost",
+      "summary": "",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402",
       "publishedAt": "Tue, 23 Jun 2026 22:50:00 +0200",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "region": "Europe",
       "category": "AI",
       "classificationConfidence": 0.8,
@@ -3815,15 +3741,15 @@
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 95
+        "reporterScore": 110
       },
-      "status": "recent_48h",
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI: Yoo-hoo, look over here, we do that security stuff too!",
-      "summary": "A plethora of pwn-prevention, including a",
+      "summary": "",
       "source": "The Register",
       "url": "https://www.theregister.com/security/2026/06/23/openai-yoo-hoo-look-over-here-we-do-that-security-stuff-too/5259842",
       "publishedAt": "Tue, 23 Jun 2026 01:34:34 +0200",
@@ -3855,19 +3781,19 @@
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Nvidia gets all agentic about supercomputing for scientific research",
-      "summary": "Tireless AI agents could help scientists do research humans alone can",
+      "summary": "",
       "source": "The Register",
       "url": "https://www.theregister.com/systems/2026/06/22/nvidia-gets-all-agentic-about-supercomputing-for-scientific-research/5259553",
       "publishedAt": "Mon, 22 Jun 2026 20:15:00 +0200",
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.74,
+      "category": "芯片",
+      "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Nvidia gets all agentic about supercomputing for scientific research” against primary-source evidence.",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia gets all agentic about supercomputing for scientific research” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -3964,6 +3890,38 @@
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
       "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic’s Claude Tag is learning your company, one Slack message at a ” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "The new database world according to Google: Inexact queries and AI in everything",
+      "summary": "",
+      "source": "The Register",
+      "url": "https://www.theregister.com/databases/2026/06/22/the-new-database-world-according-to-google-inexact-queries-and-ai-in-everything/5259454",
+      "publishedAt": "Mon, 22 Jun 2026 17:40:00 +0200",
+      "date": "2026-06-22",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The new database world according to Google: Inexact queries and AI in ev” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -4141,8 +4099,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-24｜V3\n生成时间：2026/6/24 08:06:49\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2592｜确认今日 18｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 16 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-24] 特斯拉加速推进人形机器人量产计划；“灵晟”超\n   网易科技｜2026-06-24｜https://www.163.com/dy/article/L060F0110512B07B.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉加速推进人形机器人量产计划；“灵晟”超” against primary-source evidence.\n\n2. [2026-06-24] 影响市场重大事件：SpaceX斩获AI大单，合同价值\n   网易科技｜2026-06-24｜https://www.163.com/dy/article/L05TFNM10512B07B.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：SpaceX斩获AI大单，合同价值” against primary-source evidence.\n\n3. [22:56] 美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查\n   IT之家｜2026-06-24｜https://www.ithome.com/0/967/706.htm\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查” against primary-source evidence.\n\n4. [2026-06-24] SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷\n   新浪科技｜2026-06-24｜https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷” against primary-source evidence.\n\n5. [2026-06-24] AI时代，科学家更要当“出题人”\n   科技日报｜2026-06-24｜https://www.stdaily.com/web/gdxw/2026-06/24/content_536378.html\n   报道角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “AI时代，科学家更要当“出题人”” against primary-source evidence.\n\n本次新增线索：\n- SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml\n- 英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读｜新浪科技｜https://finance.sina.com.cn/stock/bxjj/2026-06-24/doc-iniemwqk6459408.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1｜The Register｜https://www.theregister.com/personal-tech/2026/06/23/india-and-china-are-home-to-29-billion-people-and-together-they-bought-just-13-million-pcs-in-q1/5259893\n3. OpenAI launches new initiative to help find and patch open source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\n4. The new database world according to Google: Inexact queries and AI in everything｜The Register｜https://www.theregister.com/databases/2026/06/22/the-new-database-world-according-to-google-inexact-queries-and-ai-in-everything/5259454\n5. Alphabet has its worst day in over a year on AI concerns after high-profile exits｜CNBC Technology｜https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-24｜V3\n生成时间：2026/6/24 08:06:49\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2592｜确认今日 18｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 16 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-24] 特斯拉加速推进人形机器人量产计划；“灵晟”超\n   网易科技｜2026-06-24｜https://www.163.com/dy/article/L060F0110512B07B.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉加速推进人形机器人量产计划；“灵晟”超” against primary-source evidence.\n\n2. [2026-06-24] 影响市场重大事件：SpaceX斩获AI大单，合同价值\n   网易科技｜2026-06-24｜https://www.163.com/dy/article/L05TFNM10512B07B.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：SpaceX斩获AI大单，合同价值” against primary-source evidence.\n\n3. [22:56] 美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查\n   IT之家｜2026-06-24｜https://www.ithome.com/0/967/706.htm\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查” against primary-source evidence.\n\n4. [2026-06-24] SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷\n   新浪科技｜2026-06-24｜https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷” against primary-source evidence.\n\n5. [2026-06-24] AI时代，科学家更要当“出题人”\n   科技日报｜2026-06-24｜https://www.stdaily.com/web/gdxw/2026-06/24/content_536378.html\n   报道角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “AI时代，科学家更要当“出题人”” against primary-source evidence.\n\n本次新增线索：\n- SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml\n- 英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读｜新浪科技｜https://finance.sina.com.cn/stock/bxjj/2026-06-24/doc-iniemwqk6459408.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1｜The Register｜https://www.theregister.com/personal-tech/2026/06/23/india-and-china-are-home-to-29-billion-people-and-together-they-bought-just-13-million-pcs-in-q1/5259893\n3. OpenAI launches new initiative to help find and patch open source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\n4. The new database world according to Google: Inexact queries and AI in everything｜The Register｜https://www.theregister.com/databases/2026/06/22/the-new-database-world-according-to-google-inexact-queries-and-ai-in-everything/5259454\n5. Alphabet has its worst day in over a year on AI concerns after high-profile exits｜CNBC Technology｜https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-24｜生成时间：2026/6/24 08:06:49｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2592｜确认今日 18｜国际背景 20</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 0 条<br>延续跟踪线索：国内 16 条｜国际 20 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-24] 特斯拉加速推进人形机器人量产计划；“灵晟”超</strong>\n      <span>网易科技｜2026-06-24｜<a href=\"https://www.163.com/dy/article/L060F0110512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉加速推进人形机器人量产计划；“灵晟”超” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-24] 影响市场重大事件：SpaceX斩获AI大单，合同价值</strong>\n      <span>网易科技｜2026-06-24｜<a href=\"https://www.163.com/dy/article/L05TFNM10512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：SpaceX斩获AI大单，合同价值” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [22:56] 美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查</strong>\n      <span>IT之家｜2026-06-24｜<a href=\"https://www.ithome.com/0/967/706.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：196｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-24] SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷</strong>\n      <span>新浪科技｜2026-06-24｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：180｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-24] AI时代，科学家更要当“出题人”</strong>\n      <span>科技日报｜2026-06-24｜<a href=\"https://www.stdaily.com/web/gdxw/2026-06/24/content_536378.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “AI时代，科学家更要当“出题人”” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese universities are cutting language majors to make way for AI</strong>\n      <span>时间：Mon, 22 Jun 2026 10:00:52 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese universities are cutting language majors to make way for AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1</strong>\n      <span>时间：Tue, 23 Jun 2026 06:06:02 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/personal-tech/2026/06/23/india-and-china-are-home-to-29-billion-people-and-together-they-bought-just-13-million-pcs-in-q1/5259893\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “India and China are home to 2.9 billion people – and together they bough” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI launches new initiative to help find and patch open source bugs</strong>\n      <span>时间：Tue, 23 Jun 2026 00:11:31 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI launches new initiative to help find and patch open source bugs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. The new database world according to Google: Inexact queries and AI in everything</strong>\n      <span>时间：Mon, 22 Jun 2026 17:40:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/databases/2026/06/22/the-new-database-world-according-to-google-inexact-queries-and-ai-in-everything/5259454\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The new database world according to Google: Inexact queries and AI in ev” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Alphabet has its worst day in over a year on AI concerns after high-profile exits</strong>\n      <span>时间：Mon, 22 Jun 2026 21:04:29 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Alphabet has its worst day in over a year on AI concerns after high-prof” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/24 08:06:49\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 16 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-24] 特斯拉加速推进人形机器人量产计划；“灵晟”超\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L060F0110512B07B.html\n   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉加速推进人形机器人量产计划；“灵晟”超” against primary-source evidence.\n\n2. [2026-06-24] 影响市场重大事件：SpaceX斩获AI大单，合同价值\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L05TFNM10512B07B.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：SpaceX斩获AI大单，合同价值” against primary-source evidence.\n\n3. [22:56] 美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查\n   来源：IT之家\n   链接：https://www.ithome.com/0/967/706.htm\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查” against primary-source evidence.\n\n4. [2026-06-24] SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷” against primary-source evidence.\n\n5. [2026-06-24] AI时代，科学家更要当“出题人”\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-06/24/content_536378.html\n   角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “AI时代，科学家更要当“出题人”” against primary-source evidence.\n\n本次新增线索：\n- SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml\n- 英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读｜新浪科技｜https://finance.sina.com.cn/stock/bxjj/2026-06-24/doc-iniemwqk6459408.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1｜The Register｜https://www.theregister.com/personal-tech/2026/06/23/india-and-china-are-home-to-29-billion-people-and-together-they-bought-just-13-million-pcs-in-q1/5259893\n3. OpenAI launches new initiative to help find and patch open source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\n4. The new database world according to Google: Inexact queries and AI in everything｜The Register｜https://www.theregister.com/databases/2026/06/22/the-new-database-world-according-to-google-inexact-queries-and-ai-in-everything/5259454\n5. Alphabet has its worst day in over a year on AI concerns after high-profile exits｜CNBC Technology｜https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-24｜V3\n生成时间：2026/6/24 08:14:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2581｜确认今日 19｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 18 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-24] 特斯拉加速推进人形机器人量产计划；“灵晟”超\n   网易科技｜2026-06-24｜https://www.163.com/dy/article/L060F0110512B07B.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉加速推进人形机器人量产计划；“灵晟”超” against primary-source evidence.\n\n2. [2026-06-24] 影响市场重大事件：SpaceX斩获AI大单，合同价值\n   网易科技｜2026-06-24｜https://www.163.com/dy/article/L05TFNM10512B07B.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：SpaceX斩获AI大单，合同价值” against primary-source evidence.\n\n3. [22:56] 美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查\n   IT之家｜2026-06-24｜https://www.ithome.com/0/967/706.htm\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查” against primary-source evidence.\n\n4. [2026-06-24] AI时代，科学家更要当“出题人”\n   科技日报｜2026-06-24｜https://www.stdaily.com/web/gdxw/2026-06/24/content_536378.html\n   报道角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “AI时代，科学家更要当“出题人”” against primary-source evidence.\n\n5. [2026-06-24] 三大技术路径实现突破 机构称脑机接口行业有望快速扩张\n   网易科技｜2026-06-24｜https://www.163.com/dy/article/L063I5H005198CJN.html\n   报道角度：Ask what is genuinely new, how it was tested and whether the scientific mechanism, evidence and translational boundary creates a credible path toward application. For this item, test the claim behind “三大技术路径实现突破 机构称脑机接口行业有望快速扩张” against primary-source evidence.\n\n本次新增线索：\n- 三大技术路径实现突破 机构称脑机接口行业有望快速扩张｜网易科技｜https://www.163.com/dy/article/L063I5H005198CJN.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. OpenAI launches new initiative to help find and patch open source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\n3. Alphabet has its worst day in over a year on AI concerns after high-profile exits｜CNBC Technology｜https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html\n4. What is Starfall? A look at SpaceX's mysterious new return capsule｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/starfall-look-spacexs-mysterious-return-210000173.html\n5. Top auto regulator opens special probe after a Tesla slams into a Texas home, killing a 76-year-old｜AP Technology｜https://apnews.com/article/tesla-selfdriving-robotaxis-crash-investigation-musk-d0a9a3fbe237b6d7f9b6d33be618e946",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-24｜V3\n生成时间：2026/6/24 08:14:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2581｜确认今日 19｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 18 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-24] 特斯拉加速推进人形机器人量产计划；“灵晟”超\n   网易科技｜2026-06-24｜https://www.163.com/dy/article/L060F0110512B07B.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉加速推进人形机器人量产计划；“灵晟”超” against primary-source evidence.\n\n2. [2026-06-24] 影响市场重大事件：SpaceX斩获AI大单，合同价值\n   网易科技｜2026-06-24｜https://www.163.com/dy/article/L05TFNM10512B07B.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：SpaceX斩获AI大单，合同价值” against primary-source evidence.\n\n3. [22:56] 美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查\n   IT之家｜2026-06-24｜https://www.ithome.com/0/967/706.htm\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查” against primary-source evidence.\n\n4. [2026-06-24] AI时代，科学家更要当“出题人”\n   科技日报｜2026-06-24｜https://www.stdaily.com/web/gdxw/2026-06/24/content_536378.html\n   报道角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “AI时代，科学家更要当“出题人”” against primary-source evidence.\n\n5. [2026-06-24] 三大技术路径实现突破 机构称脑机接口行业有望快速扩张\n   网易科技｜2026-06-24｜https://www.163.com/dy/article/L063I5H005198CJN.html\n   报道角度：Ask what is genuinely new, how it was tested and whether the scientific mechanism, evidence and translational boundary creates a credible path toward application. For this item, test the claim behind “三大技术路径实现突破 机构称脑机接口行业有望快速扩张” against primary-source evidence.\n\n本次新增线索：\n- 三大技术路径实现突破 机构称脑机接口行业有望快速扩张｜网易科技｜https://www.163.com/dy/article/L063I5H005198CJN.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. OpenAI launches new initiative to help find and patch open source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\n3. Alphabet has its worst day in over a year on AI concerns after high-profile exits｜CNBC Technology｜https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html\n4. What is Starfall? A look at SpaceX's mysterious new return capsule｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/starfall-look-spacexs-mysterious-return-210000173.html\n5. Top auto regulator opens special probe after a Tesla slams into a Texas home, killing a 76-year-old｜AP Technology｜https://apnews.com/article/tesla-selfdriving-robotaxis-crash-investigation-musk-d0a9a3fbe237b6d7f9b6d33be618e946",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-24｜生成时间：2026/6/24 08:14:20｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2581｜确认今日 19｜国际背景 19</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 18 条｜国际 19 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-24] 特斯拉加速推进人形机器人量产计划；“灵晟”超</strong>\n      <span>网易科技｜2026-06-24｜<a href=\"https://www.163.com/dy/article/L060F0110512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉加速推进人形机器人量产计划；“灵晟”超” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-24] 影响市场重大事件：SpaceX斩获AI大单，合同价值</strong>\n      <span>网易科技｜2026-06-24｜<a href=\"https://www.163.com/dy/article/L05TFNM10512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：SpaceX斩获AI大单，合同价值” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [22:56] 美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查</strong>\n      <span>IT之家｜2026-06-24｜<a href=\"https://www.ithome.com/0/967/706.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：196｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-24] AI时代，科学家更要当“出题人”</strong>\n      <span>科技日报｜2026-06-24｜<a href=\"https://www.stdaily.com/web/gdxw/2026-06/24/content_536378.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “AI时代，科学家更要当“出题人”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-24] 三大技术路径实现突破 机构称脑机接口行业有望快速扩张</strong>\n      <span>网易科技｜2026-06-24｜<a href=\"https://www.163.com/dy/article/L063I5H005198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask what is genuinely new, how it was tested and whether the scientific mechanism, evidence and translational boundary creates a credible path toward application. For this item, test the claim behind “三大技术路径实现突破 机构称脑机接口行业有望快速扩张” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese universities are cutting language majors to make way for AI</strong>\n      <span>时间：Mon, 22 Jun 2026 10:00:52 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese universities are cutting language majors to make way for AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI launches new initiative to help find and patch open source bugs</strong>\n      <span>时间：Tue, 23 Jun 2026 00:11:31 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI launches new initiative to help find and patch open source bugs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Alphabet has its worst day in over a year on AI concerns after high-profile exits</strong>\n      <span>时间：Mon, 22 Jun 2026 21:04:29 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Alphabet has its worst day in over a year on AI concerns after high-prof” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. What is Starfall? A look at SpaceX's mysterious new return capsule</strong>\n      <span>时间：2026-06-24｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/starfall-look-spacexs-mysterious-return-210000173.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “What is Starfall? A look at SpaceX's mysterious new return capsule” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Top auto regulator opens special probe after a Tesla slams into a Texas home, killing a 76-year-old</strong>\n      <span>时间：2026-06-22｜来源：AP Technology｜<a href=\"https://apnews.com/article/tesla-selfdriving-robotaxis-crash-investigation-musk-d0a9a3fbe237b6d7f9b6d33be618e946\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Top auto regulator opens special probe after a Tesla slams into a Texas ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/24 08:14:20\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 18 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-24] 特斯拉加速推进人形机器人量产计划；“灵晟”超\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L060F0110512B07B.html\n   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉加速推进人形机器人量产计划；“灵晟”超” against primary-source evidence.\n\n2. [2026-06-24] 影响市场重大事件：SpaceX斩获AI大单，合同价值\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L05TFNM10512B07B.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：SpaceX斩获AI大单，合同价值” against primary-source evidence.\n\n3. [22:56] 美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查\n   来源：IT之家\n   链接：https://www.ithome.com/0/967/706.htm\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查” against primary-source evidence.\n\n4. [2026-06-24] AI时代，科学家更要当“出题人”\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-06/24/content_536378.html\n   角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “AI时代，科学家更要当“出题人”” against primary-source evidence.\n\n5. [2026-06-24] 三大技术路径实现突破 机构称脑机接口行业有望快速扩张\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L063I5H005198CJN.html\n   角度：Ask what is genuinely new, how it was tested and whether the scientific mechanism, evidence and translational boundary creates a credible path toward application. For this item, test the claim behind “三大技术路径实现突破 机构称脑机接口行业有望快速扩张” against primary-source evidence.\n\n本次新增线索：\n- 三大技术路径实现突破 机构称脑机接口行业有望快速扩张｜网易科技｜https://www.163.com/dy/article/L063I5H005198CJN.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. OpenAI launches new initiative to help find and patch open source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/\n3. Alphabet has its worst day in over a year on AI concerns after high-profile exits｜CNBC Technology｜https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html\n4. What is Starfall? A look at SpaceX's mysterious new return capsule｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/starfall-look-spacexs-mysterious-return-210000173.html\n5. Top auto regulator opens special probe after a Tesla slams into a Texas home, killing a 76-year-old｜AP Technology｜https://apnews.com/article/tesla-selfdriving-robotaxis-crash-investigation-musk-d0a9a3fbe237b6d7f9b6d33be618e946\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
