@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/24 07:43:59
+生成时间：2026/6/24 08:06:49
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 17 条｜国际 9 条
-延续跟踪线索：国内 1 条｜国际 11 条
+新增核心线索：国内 2 条｜国际 0 条
+延续跟踪线索：国内 16 条｜国际 20 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -28,23 +28,19 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.ithome.com/0/967/706.htm
    角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查” against primary-source evidence.
 
-4. [2026-06-24] AI时代，科学家更要当“出题人”
+4. [2026-06-24] SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷” against primary-source evidence.
+
+5. [2026-06-24] AI时代，科学家更要当“出题人”
    来源：科技日报
    链接：https://www.stdaily.com/web/gdxw/2026-06/24/content_536378.html
    角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “AI时代，科学家更要当“出题人”” against primary-source evidence.
 
-5. [2026-06-24] 中国扫地机器人5月线上销量TOP10出炉：科沃斯、石头、追觅前三
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-24/doc-inienawc8388745.shtml
-   角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “中国扫地机器人5月线上销量TOP10出炉：科沃斯、石头、追觅前三” against primary-source evidence.
-
 本次新增线索：
-- 特斯拉加速推进人形机器人量产计划；“灵晟”超｜网易科技｜https://www.163.com/dy/article/L060F0110512B07B.html
-- 影响市场重大事件：SpaceX斩获AI大单，合同价值｜网易科技｜https://www.163.com/dy/article/L05TFNM10512B07B.html
-- 美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查｜IT之家｜https://www.ithome.com/0/967/706.htm
-- AI时代，科学家更要当“出题人”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/24/content_536378.html
-- 中国扫地机器人5月线上销量TOP10出炉：科沃斯、石头、追觅前三｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-24/doc-inienawc8388745.shtml
-- India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1｜The Register｜https://www.theregister.com/personal-tech/2026/06/23/india-and-china-are-home-to-29-billion-people-and-together-they-bought-just-13-million-pcs-in-q1/5259893
+- SpaceX 星落返回舱完成首飞，可运载1000公斤太空实验载荷｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienawh6412590.shtml
+- 英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读｜新浪科技｜https://finance.sina.com.cn/stock/bxjj/2026-06-24/doc-iniemwqk6459408.shtml
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（3 条，3 个来源）
@@ -55,11 +51,11 @@ ChenChen 今日 Briefing｜V3
 - 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
-1. India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1｜The Register｜https://www.theregister.com/personal-tech/2026/06/23/india-and-china-are-home-to-29-billion-people-and-together-they-bought-just-13-million-pcs-in-q1/5259893
-2. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-3. What is Starfall? A look at SpaceX's mysterious new return capsule｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/starfall-look-spacexs-mysterious-return-210000173.html
-4. OpenAI launches new initiative to help find and patch open source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
-5. The new database world according to Google: Inexact queries and AI in everything｜The Register｜https://www.theregister.com/databases/2026/06/22/the-new-database-world-according-to-google-inexact-queries-and-ai-in-everything/5259454
+1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+2. India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1｜The Register｜https://www.theregister.com/personal-tech/2026/06/23/india-and-china-are-home-to-29-billion-people-and-together-they-bought-just-13-million-pcs-in-q1/5259893
+3. OpenAI launches new initiative to help find and patch open source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
+4. The new database world according to Google: Inexact queries and AI in everything｜The Register｜https://www.theregister.com/databases/2026/06/22/the-new-database-world-according-to-google-inexact-queries-and-ai-in-everything/5259454
+5. Alphabet has its worst day in over a year on AI concerns after high-profile exits｜CNBC Technology｜https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
