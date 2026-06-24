@@ -3,58 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/24 08:14:20
+生成时间：2026/6/24 16:43:55
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 18 条｜国际 19 条
+新增核心线索：国内 66 条｜国际 6 条
+延续跟踪线索：国内 3 条｜国际 14 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-24] 特斯拉加速推进人形机器人量产计划；“灵晟”超
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L060F0110512B07B.html
-   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉加速推进人形机器人量产计划；“灵晟”超” against primary-source evidence.
+1. [2026-06-24] 与 AI 同游：2026 ChinaJoy 将于 7 月 31 日举办，外资参展企业达三成
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienxzt8279022.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “与 AI 同游：2026 ChinaJoy 将于 7 月 31 日举办，外资参展企业达三成” against primary-source evidence.
 
-2. [2026-06-24] 影响市场重大事件：SpaceX斩获AI大单，合同价值
+2. [2026-06-24] ASML与荷兰应用科学研究组织TNO合作推进光子芯片量产
    来源：网易科技
-   链接：https://www.163.com/dy/article/L05TFNM10512B07B.html
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：SpaceX斩获AI大单，合同价值” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L06MP5V60534A4SC.html
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “ASML与荷兰应用科学研究组织TNO合作推进光子芯片量产” against primary-source evidence.
 
-3. [22:56] 美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查
+3. [2026-06-24] 营收翻三倍、许可收入翻42倍：Momenta 的物理AI 开启加速度
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L06MKAQB0534A4SC.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “营收翻三倍、许可收入翻42倍：Momenta 的物理AI 开启加速度” against primary-source evidence.
+
+4. [2026-06-24] 夏季达沃斯论坛｜人工智能专家谈机器人学“做人”- 6月23日至25日
+   来源：新华网-科技
+   链接：http://www.news.cn/tech/20260624/5e2c148f3257497caa7d6e67d1f0129e/c.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “夏季达沃斯论坛｜人工智能专家谈机器人学“做人”- 6月23日至25日” against primary-source evidence.
+
+5. [06:15] 消息称高通正洽谈为字节跳动提供芯片设计服务，寻求降低对智能手机市场依赖
    来源：IT之家
-   链接：https://www.ithome.com/0/967/706.htm
-   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查” against primary-source evidence.
-
-4. [2026-06-24] AI时代，科学家更要当“出题人”
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-06/24/content_536378.html
-   角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “AI时代，科学家更要当“出题人”” against primary-source evidence.
-
-5. [2026-06-24] 三大技术路径实现突破 机构称脑机接口行业有望快速扩张
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L063I5H005198CJN.html
-   角度：Ask what is genuinely new, how it was tested and whether the scientific mechanism, evidence and translational boundary creates a credible path toward application. For this item, test the claim behind “三大技术路径实现突破 机构称脑机接口行业有望快速扩张” against primary-source evidence.
+   链接：https://www.ithome.com/0/967/873.htm
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “消息称高通正洽谈为字节跳动提供芯片设计服务，寻求降低对智能手机市场依赖” against primary-source evidence.
 
 本次新增线索：
-- 三大技术路径实现突破 机构称脑机接口行业有望快速扩张｜网易科技｜https://www.163.com/dy/article/L063I5H005198CJN.html
+- 与 AI 同游：2026 ChinaJoy 将于 7 月 31 日举办，外资参展企业达三成｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-24/doc-inienxzt8279022.shtml
+- ASML与荷兰应用科学研究组织TNO合作推进光子芯片量产｜网易科技｜https://www.163.com/dy/article/L06MP5V60534A4SC.html
+- 营收翻三倍、许可收入翻42倍：Momenta 的物理AI 开启加速度｜网易科技｜https://www.163.com/dy/article/L06MKAQB0534A4SC.html
+- 夏季达沃斯论坛｜人工智能专家谈机器人学“做人”- 6月23日至25日｜新华网-科技｜http://www.news.cn/tech/20260624/5e2c148f3257497caa7d6e67d1f0129e/c.html
+- 消息称高通正洽谈为字节跳动提供芯片设计服务，寻求降低对智能手机市场依赖｜IT之家｜https://www.ithome.com/0/967/873.htm
+- AI stock slump raises the question if investors are just taking profits or getting very nervous｜AP Technology｜https://apnews.com/article/tech-stocks-ai-investments-8a0ff4c95d5cae6f65c6e2ba03047058
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（3 条，3 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- AI 应用：AI动态（19 条，6 个来源）
+- 芯片/半导体：半导体供应链（10 条，2 个来源）
+- 机器人/具身智能：机器人动态（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）
+- 太空与低空经济：太空与低空动态（4 条，2 个来源）
+- 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
 1. Chinese universities are cutting language majors to make way for AI｜Rest of World｜https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-2. OpenAI launches new initiative to help find and patch open source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
-3. Alphabet has its worst day in over a year on AI concerns after high-profile exits｜CNBC Technology｜https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html
-4. What is Starfall? A look at SpaceX's mysterious new return capsule｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/starfall-look-spacexs-mysterious-return-210000173.html
-5. Top auto regulator opens special probe after a Tesla slams into a Texas home, killing a 76-year-old｜AP Technology｜https://apnews.com/article/tesla-selfdriving-robotaxis-crash-investigation-musk-d0a9a3fbe237b6d7f9b6d33be618e946
+2. AI stock slump raises the question if investors are just taking profits or getting very nervous｜AP Technology｜https://apnews.com/article/tech-stocks-ai-investments-8a0ff4c95d5cae6f65c6e2ba03047058
+3. SpaceX secretly launches Starfall, a 10.2-ft disk return capsule for microgravity cargo｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-secretly-launches-starfall-10-074455747.html
+4. With Starfall, SpaceX eyes an edge in global cargo delivery from orbit｜Ars Technica｜https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/
+5. OpenAI launches new initiative to help find and patch open source bugs｜TechCrunch｜https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
