@@ -3,63 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/26 16:41:04
+生成时间：2026/6/26 17:30:23
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 59 条｜国际 1 条
-延续跟踪线索：国内 9 条｜国际 15 条
+新增核心线索：国内 18 条｜国际 0 条
+延续跟踪线索：国内 40 条｜国际 16 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-26] 安森美史上最大并购落地，芯片巨头竞逐物理AI
+1. [2026-06-26] 盾构机“换牙”有了机器人“医生”
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0626/c1004-40747956.html
+   角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “盾构机“换牙”有了机器人“医生”” against primary-source evidence.
+
+2. [2026-06-26] 研究揭示岩性对土壤微生物资源限制调控效应
+   来源：中国科学院
+   链接：https://www.cas.cn/syky/202606/t20260626_5113462.shtml
+   角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “研究揭示岩性对土壤微生物资源限制调控效应” against primary-source evidence.
+
+3. [2026-06-26] 微液滴介导空气小分子转化研究获进展
+   来源：中国科学院
+   链接：https://www.cas.cn/syky/202606/t20260626_5113438.shtml
+   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “微液滴介导空气小分子转化研究获进展” against primary-source evidence.
+
+4. [2026-06-26] 微软当起倒爷：GPT卖给中国、DeepSeek卖给西方 两头赚！
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-26/doc-inietnfr7323759.shtml
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “安森美史上最大并购落地，芯片巨头竞逐物理AI” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-26/doc-inietnfq0586058.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “微软当起倒爷：GPT卖给中国、DeepSeek卖给西方 两头赚！” against primary-source evidence.
 
-2. [05:56] 又拿“国安”当借口，美国政府首次要求AI公司限量发布模型
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/internation/2026_06_26_821682.shtml
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “又拿“国安”当借口，美国政府首次要求AI公司限量发布模型” against primary-source evidence.
-
-3. [2026-06-26] Anthropic进一步抢占OpenAI市场份额：付费收入和用户持续增长
+5. [2026-06-26] 美国政府要求OpenAI分批发布GPT-5.6
    来源：网易科技
-   链接：https://www.163.com/dy/article/L0BK5LSH05198CJN.html
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic进一步抢占OpenAI市场份额：付费收入和用户持续增长” against primary-source evidence.
-
-4. [2026-06-26] 中国移动携手产业合作伙伴发布5G-A与具身智能融合应用示范案例集
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-26/doc-inietnfq0564820.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “中国移动携手产业合作伙伴发布5G-A与具身智能融合应用示范案例集” against primary-source evidence.
-
-5. [2026-06-26] 2026国际无人机应用及防控大会：赋能万亿低空经济新发展
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-06/26/content_38849753.htm
-   角度：Use urban services, logistics, safety and regulation to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “2026国际无人机应用及防控大会：赋能万亿低空经济新发展” against primary-source evidence.
+   链接：https://www.163.com/tech/article/L0B7QOGI00097U7T.html
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国政府要求OpenAI分批发布GPT-5.6” against primary-source evidence.
 
 本次新增线索：
-- 安森美史上最大并购落地，芯片巨头竞逐物理AI｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-26/doc-inietnfr7323759.shtml
-- 又拿“国安”当借口，美国政府首次要求AI公司限量发布模型｜观察者网-产业科技｜https://www.guancha.cn/internation/2026_06_26_821682.shtml
-- Anthropic进一步抢占OpenAI市场份额：付费收入和用户持续增长｜网易科技｜https://www.163.com/dy/article/L0BK5LSH05198CJN.html
-- 中国移动携手产业合作伙伴发布5G-A与具身智能融合应用示范案例集｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-26/doc-inietnfq0564820.shtml
-- 2026国际无人机应用及防控大会：赋能万亿低空经济新发展｜光明网-科技｜https://tech.gmw.cn/2026-06/26/content_38849753.htm
-- Tumbling AI stocks signal another day of turmoil for tech companies｜CNBC Technology｜https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html
+- 研究揭示岩性对土壤微生物资源限制调控效应｜中国科学院｜https://www.cas.cn/syky/202606/t20260626_5113462.shtml
+- 微液滴介导空气小分子转化研究获进展｜中国科学院｜https://www.cas.cn/syky/202606/t20260626_5113438.shtml
+- 微软当起倒爷：GPT卖给中国、DeepSeek卖给西方 两头赚！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-26/doc-inietnfq0586058.shtml
+- 美国政府要求OpenAI分批发布GPT-5.6｜网易科技｜https://www.163.com/tech/article/L0B7QOGI00097U7T.html
+- 北京创新沃土何以孕育产业AI“长跑者”｜光明网-科技｜https://tech.gmw.cn/2026-06/26/content_38851163.htm
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（11 条，5 个来源）
-- 芯片/半导体：半导体供应链（12 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（5 条，3 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（2 条，2 个来源）
-- 科学前沿：科学前沿与科研设施（2 条，2 个来源）
+- AI 应用：AI动态（10 条，5 个来源）
+- 芯片/半导体：半导体供应链（7 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（4 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（6 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿与科研设施（3 条，2 个来源）
 
 国际科技背景：
 1. The White House is asking OpenAI to slow roll the release of its new model over safety concerns｜TechCrunch｜https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
 2. Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents｜TechCrunch｜https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/
-3. Tumbling AI stocks signal another day of turmoil for tech companies｜CNBC Technology｜https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html
-4. Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion｜CNBC Technology｜https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html
-5. Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/
+3. Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion｜CNBC Technology｜https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html
+4. Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/
+5. Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT｜TechCrunch｜https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
