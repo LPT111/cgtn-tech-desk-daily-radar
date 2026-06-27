@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/27 16:37:56
+生成时间：2026/6/27 17:06:52
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 1 条
-延续跟踪线索：国内 23 条｜国际 20 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 24 条｜国际 20 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -37,8 +37,7 @@ ChenChen 今日 Briefing｜V3
    角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型” against primary-source evidence.
 
 本次新增线索：
-- 从“算力”到“印钞机”：黄仁勋谈“AI工厂”新叙事，每个Token都是利润｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inievvns4640184.shtml
-- Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University｜The Register｜https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098
+- 不只是AI算力芯片 NVIDIA悄悄在高性能网络设备市场登顶｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inievvnu1439619.shtml
 
 今日热点方向：
 - AI 应用：AI动态（6 条，4 个来源）
@@ -49,11 +48,11 @@ ChenChen 今日 Briefing｜V3
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University｜The Register｜https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098
-2. The White House is asking OpenAI to slow roll the release of its new model over safety concerns｜TechCrunch｜https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
-3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html
-4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/
-5. Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents｜TechCrunch｜https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/
+1. The White House is asking OpenAI to slow roll the release of its new model over safety concerns｜TechCrunch｜https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
+2. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html
+3. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/
+4. Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents｜TechCrunch｜https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/
+5. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)｜TechCrunch｜https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
