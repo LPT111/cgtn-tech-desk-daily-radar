@@ -3,57 +3,42 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/27 17:06:52
+生成时间：2026/6/28 07:46:21
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 24 条｜国际 20 条
+新增核心线索：国内 1 条｜国际 9 条
+延续跟踪线索：国内 0 条｜国际 17 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-27] 马斯克拟收购光模块公司Mesh：SpaceX算力业务有望得到加强
+1. [2026-06-28] 特斯拉也要有主动悬架了！最新专利曝光：能提前"避坑"
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-06-27/doc-inievrew1497341.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克拟收购光模块公司Mesh：SpaceX算力业务有望得到加强” against primary-source evidence.
-
-2. [2026-06-27] 京东：在欧洲推出机器人维修服务，已在英德等国
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L0E032RU0534A4SC.html
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “京东：在欧洲推出机器人维修服务，已在英德等国” against primary-source evidence.
-
-3. [2026-06-27] AI早报｜苹果调整Mac芯片战略；小鹏机器人调整
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L0DUO8DP0534A4SC.html
-   角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “AI早报｜苹果调整Mac芯片战略；小鹏机器人调整” against primary-source evidence.
-
-4. [2026-06-27] 2030年数据中心耗电将超日本全年，电网如何不“被掏空”？
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-06-27/doc-inieveqy4813930.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2030年数据中心耗电将超日本全年，电网如何不“被掏空”？” against primary-source evidence.
-
-5. [2026-06-27] 美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml
-   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml
+   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉也要有主动悬架了！最新专利曝光：能提前"避坑"” against primary-source evidence.
 
 本次新增线索：
-- 不只是AI算力芯片 NVIDIA悄悄在高性能网络设备市场登顶｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inievvnu1439619.shtml
+- 特斯拉也要有主动悬架了！最新专利曝光：能提前"避坑"｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml
+- Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
+- Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html
+- Apple Vision Pro exec is reportedly leaving for OpenAI｜TechCrunch｜https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/
+- OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency｜CNBC Technology｜https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
+- 8 New Products Samsung Is Expected To Announce In 2026｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/8-products-samsung-expected-announce-174700192.html
 
 今日热点方向：
-- AI 应用：AI动态（6 条，4 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
+- AI 应用：
+- 芯片/半导体：
+- 机器人/具身智能：
 - 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
-- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 太空与低空经济：
+- 科学前沿：
 
 国际科技背景：
-1. The White House is asking OpenAI to slow roll the release of its new model over safety concerns｜TechCrunch｜https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
-2. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html
-3. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/
-4. Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents｜TechCrunch｜https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/
+1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
+2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html
+3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html
+4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/
 5. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)｜TechCrunch｜https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/
 
 发稿前核验提示：
