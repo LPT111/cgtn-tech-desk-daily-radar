@@ -1,74 +1,28 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-06-26T23:50:21.695Z",
+  "generatedAt": "2026-06-27T00:18:03.917Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-27",
   "changeSummary": {
-    "domesticNew": 8,
-    "globalNew": 16,
-    "domesticContinued": 0,
-    "globalContinued": 6,
+    "domesticNew": 1,
+    "globalNew": 0,
+    "domesticContinued": 8,
+    "globalContinued": 21,
     "topNewDomestic": [
       {
-        "title": "郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhw0215996.shtml"
-      },
-      {
-        "title": "美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml"
-      },
-      {
-        "title": "消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhx7009658.shtml"
-      },
-      {
-        "title": "市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyie1643698.shtml"
-      },
-      {
-        "title": "前五个月 广东存储芯片产量大涨60%",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieuime0378604.shtml"
+        "title": "上下游扩产忙 半导体设备迎来增长大年",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L0DQKGDC05198CJN.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html"
-      },
-      {
-        "title": "Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University",
-        "source": "The Register",
-        "url": "https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098"
-      },
-      {
-        "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/"
-      },
-      {
-        "title": "SpaceX plans to launch Starlink mobile service in the US",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/"
-      },
-      {
-        "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 892,
-    "globalRejected": 878,
+    "domesticRejected": 891,
+    "globalRejected": 879,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,7 +36,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 29,
+  "successSources": 30,
   "failedSources": [
     {
       "name": "财联社",
@@ -98,11 +52,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -130,11 +79,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -343,9 +287,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 12,
+      "failed": false,
       "optional": false
     },
     {
@@ -400,13 +343,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1356,
+  "itemsSeen": 1368,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 337,
-  "itemsAfterDedupe": 225,
-  "todayItemsSeen": 8,
+  "itemsAfterRelevantFilter": 339,
+  "itemsAfterDedupe": 226,
+  "todayItemsSeen": 9,
   "suspectedItemsSeen": 21,
-  "skippedNonToday": 197,
+  "skippedNonToday": 199,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -603,9 +546,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 12,
+      "failed": false,
       "optional": false
     },
     {
@@ -829,11 +771,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
@@ -865,7 +802,7 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1215,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 101,
+  "globalItemsAfterRelevantFilter": 100,
   "topics": [
     {
       "topic": "AI 应用与智能体",
@@ -911,6 +848,17 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "前五个月 广东存储芯片产量大涨60%"
+      ]
+    },
+    {
+      "topic": "半导体供应链",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "上下游扩产忙 半导体设备迎来增长大年"
       ]
     },
     {
@@ -1003,7 +951,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1071,7 +1019,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1139,7 +1087,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1207,7 +1155,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1275,7 +1223,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "前五个月 广东存储芯片产量大涨60%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1342,6 +1290,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "快科技6月27日消息，据MacRumors报道，苹果视觉产品集团硬件工程副总裁保罗・米德（Paul Meade）确认离职，将于下周正式加入OpenAI硬件部门，成为近期又一位从苹果出走、投身AI硬件赛道的核心高管。保罗・米德2010年入职苹...",
       "relatedTitles": [
         "苹果硬件关键人才流失：Vision Pro/眼镜负责人跳槽OpenAI"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "上下游扩产忙 半导体设备迎来增长大年",
+      "summary": "上下游扩产忙 半导体设备迎来增长大年,芯片,上下游,先进制程,半导体设备",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L0DQKGDC05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L0DQKGDC05198CJN.html"
+      ],
+      "publishedAt": "2026-06-27",
+      "date": "2026-06-27",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 157,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “上下游扩产忙 半导体设备迎来增长大年” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "上下游扩产忙 半导体设备迎来增长大年,芯片,上下游,先进制程,半导体设备",
+      "relatedTitles": [
+        "上下游扩产忙 半导体设备迎来增长大年"
       ],
       "isNewSinceLastRun": true
     },
@@ -1411,7 +1427,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "苹果、微软同时涨价！ 网友：AI通胀来了 全场买单"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1479,7 +1495,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "库洛游戏《鸣潮》鸿蒙端 7 月 10 日开启不删档测试"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -1685,73 +1701,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺",
-      "summary": "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺。 量子位 2026-06-17 waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 2026-06-17 waic2026 热门文章 GPT发AI原创新成果了 ",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/waic2026",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/waic2026"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.81,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 164,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺。 量子位 2026-06-17 waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 2026-06-17 waic2026 热门文章 GPT发AI原创新成果了 全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化 为什么最有价值的AI讨论总发生在知乎？ 香港特区政府财政司司长陈茂波一行到访 PPIO 星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
-      "relatedTitles": [
-        "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "我国首本英文数据期刊，创刊发布",
       "summary": "首页 我国首本英文数据期刊Data Express创刊发布 分享到： 今天（6月23日），我国首本英文数据期刊Data Express（简称DE，中文译名《数据快报（英文）》）创刊发布，期刊定位为综合性数据出版平台。主编由我国生态领域战略科学家、中国科学院院士、中国科学院地理科学与资源研究所研究员于贵瑞担任。 据了解，",
@@ -1950,73 +1899,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "DeepWay深向 物理AI第一块万亿市场，在公路货运先跑通闭环了 申通安能用真金白银下单 杰西卡 3分钟前 DeepWay深向 无人车往哪里开？ 车圈最新认知 热门文章 GPT发AI原创新成果了 全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化 为什么最有价值的AI讨论总发生在知乎？ 香港特区政府财政司司长陈茂波一行到访 PPIO 星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
       "relatedTitles": [
         "DeepWay深向 物理AI第一块万亿市场"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "无人车往哪里开？",
-      "summary": "无人车往哪里开？ Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 前天 16:41 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "新能源车",
-      "classificationConfidence": 0.89,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 4,
-      "score": 136,
-      "reporterScore": 158,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “无人车往哪里开？” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "无人车往哪里开？ Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 前天 16:41 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年底每分钟接99单 杰西卡 2026-02-14 Waymo 无人车往哪里开？ 车圈最新认知 怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾 网络横跨半个地球 杰西卡 2026-02-09 Waymo 无人车往哪里开？ 车圈最新认知 中东Robotaxi进入“千辆时代”，文远知行携手Uber刷新区域纪录 单车日均可完成数十次出行订单，已实现盈利 量子位 2026-02-06 无人车往哪里开？ 智能车真high 自动驾驶 Waymo遭遇鬼探头，Robotaxi在校门口把儿童给撞了 复盘坚称人类驾驶后果更严重 杰西卡 2026-01-30 Waymo 无人车往哪里开？ 车圈最新认知 刚刚，菜鸟无人车队并入九识！ RoboVan车队突破2万辆，跑通商业化闭环 杰西卡 20",
-      "relatedTitles": [
-        "无人车往哪里开？"
       ]
     },
     {
@@ -2223,7 +2105,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "车圈最新认知",
-      "summary": "车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 4小时前 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 理想智驾一号位创业，落户北京亦庄了 10天跻身具身独角兽 杰西卡 前天 21:20 具身智能 理想汽车 车圈最新认知 A股账户可以买Robotaxi了 Robo",
+      "summary": "车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 前天 19:38 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 理想智驾一号位创业，落户北京亦庄了 10天跻身具身独角兽 杰西卡 前天 21:20 具身智能 理想汽车 车圈最新认知 A股账户可以买Robotaxi了 ",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2282,7 +2164,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “车圈最新认知” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "人形机器人与具身智能",
-      "rawText": "车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 4小时前 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 理想智驾一号位创业，落户北京亦庄了 10天跻身具身独角兽 杰西卡 前天 21:20 具身智能 理想汽车 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “豆包汽车”，目标市场10万-20万 国资入主，赛力斯让权 杰西卡 2026-06-02 火山引擎 赛力斯 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 2026-05-25 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 39万！雷军发布小米最贵SUV 特斯拉前厂长宋钢加盟后首秀 杰西卡 2026-05-22 小米YU7 GT 小米汽车 车圈最新认知 百度无人车",
+      "rawText": "车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 前天 19:38 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 理想智驾一号位创业，落户北京亦庄了 10天跻身具身独角兽 杰西卡 前天 21:20 具身智能 理想汽车 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “豆包汽车”，目标市场10万-20万 国资入主，赛力斯让权 杰西卡 2026-06-02 火山引擎 赛力斯 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 2026-05-25 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 39万！雷军发布小米最贵SUV 特斯拉前厂长宋钢加盟后首秀 杰西卡 2026-05-22 小米YU7 GT 小米汽车 车圈最新认知 百",
       "relatedTitles": [
         "车圈最新认知"
       ]
@@ -2623,6 +2505,73 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "waic2026 入局AI新风向",
+      "summary": "waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 昨天 14:33 waic2026 热门文章 1290万高考生看过来！阿里出了个志愿填报Agent，免费的 Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜 Anthropic老大的唯一 -1，就是AI",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/waic2026",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/waic2026"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 130,
+      "reporterScore": 138,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “waic2026 入局AI新风向” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 昨天 14:33 waic2026 热门文章 1290万高考生看过来！阿里出了个志愿填报Agent，免费的 Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜 Anthropic老大的唯一 -1，就是AI股神的未婚妻 耐心资本护航创新，2026SuperLink开启创投价值共生新时代 “智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
+      "relatedTitles": [
+        "waic2026 入局AI新风向"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "一台晚会能办成什么样，取决于机器人",
       "summary": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
@@ -2754,6 +2703,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "enjoy\" class=\"grid-320 card observe\"> 智瞰AI AI视界，不止于想象 思享家 <div class=\"swiper-wrapper\"",
       "relatedTitles": [
         "AI视界，不止于想象"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "无人车往哪里开？ 东风联手九识",
+      "summary": "无人车往哪里开？ 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 3小时前 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “卡车界特",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "新能源车",
+      "classificationConfidence": 0.76,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 119,
+      "reporterScore": 125,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 93
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “无人车往哪里开？ 东风联手九识” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "无人车往哪里开？ 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 3小时前 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 2026-05-25 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 2026-05-14 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年底每分钟接99单 杰西卡 2026-02-14 Waymo 无人车往哪里",
+      "relatedTitles": [
+        "无人车往哪里开？ 东风联手九识"
       ]
     },
     {
@@ -2894,102 +2910,6 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
-      "summary": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
-      "publishedAt": "Fri, 26 Jun 2026 22:11:33 GMT",
-      "date": "2026-06-26",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 85,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “China's Zhipu is closing in on top U.S. AI models with Anthropic and Ope” against primary-source evidence.",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 166,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University",
-      "summary": "PARTNER CONTENT: Integrating 50G-PON, FTTR-B, Wi-Fi 7, and intelligent AI scheduling to deliver 10 Gbps bidirectional speeds with ultra-low 0.1ms latency across Southeast Universit",
-      "source": "The Register",
-      "url": "https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098",
-      "publishedAt": "Fri, 26 Jun 2026 14:24:56 +0200",
-      "date": "2026-06-26",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Jiangsu's first AI-powered 10 Gbps all-optical campus network launched a” against primary-source evidence.",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 160,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "summary": "Watch as Equity explains into what the custom chip trend means for the industry, AI 'loops,' and a few deals of the week worth watching, including one humanoid robotics company get",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "publishedAt": "Fri, 26 Jun 2026 17:43:22 +0000",
-      "date": "2026-06-27",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.82,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why everyone from OpenAI to SpaceX is building their own chips (and turn” against primary-source evidence.",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 158,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 118
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "summary": "Chinese Premier Li Qiang on Wednesday warned of \"serious consequences\" if governments fail to step up regulation of artificial intelligence as he addressed the World Economic Forum",
       "source": "TechCrunch",
@@ -3022,35 +2942,35 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX plans to launch Starlink mobile service in the US",
-      "summary": "Move would test whether group can turn ambition into a mass-market phone business.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
-      "publishedAt": "Fri, 26 Jun 2026 13:22:59 +0000",
+      "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
+      "summary": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
+      "publishedAt": "Fri, 26 Jun 2026 22:11:33 GMT",
       "date": "2026-06-26",
       "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX plans to launch Starlink mobile service in the US” against primary-source evidence.",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 85,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “China's Zhipu is closing in on top U.S. AI models with Anthropic and Ope” against primary-source evidence.",
       "priority": 5,
-      "score": 147,
-      "reporterScore": 155,
+      "score": 158,
+      "reporterScore": 166,
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": false,
-        "interview": true,
+        "international": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 100
+        "hardTechWeight": 95,
+        "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3086,6 +3006,134 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University",
+      "summary": "PARTNER CONTENT: Integrating 50G-PON, FTTR-B, Wi-Fi 7, and intelligent AI scheduling to deliver 10 Gbps bidirectional speeds with ultra-low 0.1ms latency across Southeast Universit",
+      "source": "The Register",
+      "url": "https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098",
+      "publishedAt": "Fri, 26 Jun 2026 14:24:56 +0200",
+      "date": "2026-06-26",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Jiangsu's first AI-powered 10 Gbps all-optical campus network launched a” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 160,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Italy probes AI-fueled price hikes in Microsoft 365",
+      "summary": "Regulator says subscribers may have been defaulted onto more expensive plans with Copilot features attached",
+      "source": "The Register",
+      "url": "https://www.theregister.com/saas/2026/06/26/italy-probes-ai-fueled-price-hikes-in-microsoft-365/5262986",
+      "publishedAt": "Fri, 26 Jun 2026 13:17:44 +0200",
+      "date": "2026-06-26",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Italy probes AI-fueled price hikes in Microsoft 365” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 160,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "summary": "Watch as Equity explains into what the custom chip trend means for the industry, AI 'loops,' and a few deals of the week worth watching, including one humanoid robotics company get",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "publishedAt": "Fri, 26 Jun 2026 17:43:22 +0000",
+      "date": "2026-06-27",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.82,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why everyone from OpenAI to SpaceX is building their own chips (and turn” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 158,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 118
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX plans to launch Starlink mobile service in the US",
+      "summary": "Move would test whether group can turn ambition into a mass-market phone business.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
+      "publishedAt": "Fri, 26 Jun 2026 13:22:59 +0000",
+      "date": "2026-06-26",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX plans to launch Starlink mobile service in the US” against primary-source evidence.",
+      "priority": 5,
+      "score": 147,
+      "reporterScore": 155,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 100
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
       "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
       "source": "TechCrunch",
@@ -3114,7 +3162,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3146,7 +3194,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3178,295 +3226,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google wants AI regulation, but on its own terms",
-      "summary": "Are we human?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/26/google-wants-ai-regulation-but-on-its-own-terms/5263276",
-      "publishedAt": "Fri, 26 Jun 2026 21:50:06 +0200",
-      "date": "2026-06-26",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google wants AI regulation, but on its own terms” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI says 97.9 percent of its employees are now using agents",
-      "summary": "Are we human?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-979-percent-of-its-employees-are-now-using-agents/5262499",
-      "publishedAt": "Thu, 25 Jun 2026 21:58:23 +0200",
-      "date": "2026-06-25",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI says 97.9 percent of its employees are now using agents” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "publishedAt": "Fri, 26 Jun 2026 20:04:55 +0000",
-      "date": "2026-06-27",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “NYT slams Microsoft for building copyright-infringing supercomputer for ” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Italy probes AI-fueled price hikes in Microsoft 365",
-      "summary": "Are we human?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/saas/2026/06/26/italy-probes-ai-fueled-price-hikes-in-microsoft-365/5262986",
-      "publishedAt": "Fri, 26 Jun 2026 13:17:44 +0200",
-      "date": "2026-06-26",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Italy probes AI-fueled price hikes in Microsoft 365” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
-      "summary": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-      "publishedAt": "Fri, 26 Jun 2026 15:33:31 GMT",
-      "date": "2026-06-26",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxi” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "5 Useful Samsung Accessories Every Galaxy Owner Needs",
-      "summary": "If you own a Galaxy device, you don't need to look for third-party accessories as Samsung makes a host of useful options on its own. Here are the best ones.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/5-useful-samsung-accessories-every-184700414.html",
-      "publishedAt": "2026-06-27",
-      "date": "2026-06-27",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “5 Useful Samsung Accessories Every Galaxy Owner Needs” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung's Frame TV Turned My Living Room Into an Art Gallery—Now It's 30% Off for Prime Day",
-      "summary": "We tested Samsung's The Frame TV to find out if it's worth buying. Here's what you need to know about installation, pricing, art mode, performance, and more.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/samsungs-frame-tv-turned-living-130033949.html",
-      "publishedAt": "2026-06-26",
-      "date": "2026-06-26",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Samsung's Frame TV Turned My Living Room Into an Art Gallery—Now It's 30” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "'The cult of Elon': SpaceX investors grapple with volatility amid big swings",
-      "summary": "SpaceX stock has seen big spikes and drop in its opening two weeks as a public company.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/26/spacex-volatility.html",
-      "publishedAt": "Fri, 26 Jun 2026 11:35:26 GMT",
-      "date": "2026-06-26",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “'The cult of Elon': SpaceX investors grapple with volatility amid big sw” against primary-source evidence.",
-      "priority": 5,
-      "score": 138,
-      "reporterScore": 138,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
-      "summary": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
-      "publishedAt": "Fri, 26 Jun 2026 16:32:55 +0000",
-      "date": "2026-06-26",
-      "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Tesla settles FSD crash lawsuit as federal investigations continue” against primary-source evidence.",
-      "priority": 5,
-      "score": 134,
-      "reporterScore": 134,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3498,6 +3258,102 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google wants AI regulation, but on its own terms",
+      "summary": "Surely, we can have rules that allow us to continue doing what we",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/26/google-wants-ai-regulation-but-on-its-own-terms/5263276",
+      "publishedAt": "Fri, 26 Jun 2026 21:50:06 +0200",
+      "date": "2026-06-26",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google wants AI regulation, but on its own terms” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI says 97.9 percent of its employees are now using agents",
+      "summary": "Codex, it",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-979-percent-of-its-employees-are-now-using-agents/5262499",
+      "publishedAt": "Thu, 25 Jun 2026 21:58:23 +0200",
+      "date": "2026-06-25",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI says 97.9 percent of its employees are now using agents” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "publishedAt": "Fri, 26 Jun 2026 20:04:55 +0000",
+      "date": "2026-06-27",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “NYT slams Microsoft for building copyright-infringing supercomputer for ” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -3595,10 +3451,138 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
+      "summary": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+      "publishedAt": "Fri, 26 Jun 2026 15:33:31 GMT",
+      "date": "2026-06-26",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxi” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung's Frame TV Turned My Living Room Into an Art Gallery—Now It's 30% Off for Prime Day",
+      "summary": "We tested Samsung's The Frame TV to find out if it's worth buying. Here's what you need to know about installation, pricing, art mode, performance, and more.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/samsungs-frame-tv-turned-living-130033949.html",
+      "publishedAt": "2026-06-26",
+      "date": "2026-06-26",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Samsung's Frame TV Turned My Living Room Into an Art Gallery—Now It's 30” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "'The cult of Elon': SpaceX investors grapple with volatility amid big swings",
+      "summary": "SpaceX stock has seen big spikes and drop in its opening two weeks as a public company.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/26/spacex-volatility.html",
+      "publishedAt": "Fri, 26 Jun 2026 11:35:26 GMT",
+      "date": "2026-06-26",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “'The cult of Elon': SpaceX investors grapple with volatility amid big sw” against primary-source evidence.",
+      "priority": 5,
+      "score": 138,
+      "reporterScore": 138,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
+      "summary": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
+      "publishedAt": "Fri, 26 Jun 2026 16:32:55 +0000",
+      "date": "2026-06-26",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Tesla settles FSD crash lawsuit as federal investigations continue” against primary-source evidence.",
+      "priority": 5,
+      "score": 134,
+      "reporterScore": 134,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-27｜V3\n生成时间：2026/6/27 07:50:21\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2571｜确认今日 8｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 16 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-27] 郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhw0215996.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片” against primary-source evidence.\n\n2. [2026-06-27] 美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型” against primary-source evidence.\n\n3. [2026-06-27] 消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhx7009658.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限” against primary-source evidence.\n\n4. [2026-06-27] 市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyie1643698.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度” against primary-source evidence.\n\n5. [2026-06-27] 前五个月 广东存储芯片产量大涨60%\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieuime0378604.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “前五个月 广东存储芯片产量大涨60%” against primary-source evidence.\n\n本次新增线索：\n- 郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhw0215996.shtml\n- 美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml\n- 消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhx7009658.shtml\n- 市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyie1643698.shtml\n- 前五个月 广东存储芯片产量大涨60%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieuime0378604.shtml\n- China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n2. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University｜The Register｜https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098\n3. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)｜TechCrunch｜https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/\n4. The White House is asking OpenAI to slow roll the release of its new model over safety concerns｜TechCrunch｜https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/\n5. SpaceX plans to launch Starlink mobile service in the US｜Ars Technica｜https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-27｜V3\n生成时间：2026/6/27 07:50:21\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2571｜确认今日 8｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 16 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-27] 郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhw0215996.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片” against primary-source evidence.\n\n2. [2026-06-27] 美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型” against primary-source evidence.\n\n3. [2026-06-27] 消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhx7009658.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限” against primary-source evidence.\n\n4. [2026-06-27] 市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyie1643698.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度” against primary-source evidence.\n\n5. [2026-06-27] 前五个月 广东存储芯片产量大涨60%\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieuime0378604.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “前五个月 广东存储芯片产量大涨60%” against primary-source evidence.\n\n本次新增线索：\n- 郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhw0215996.shtml\n- 美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml\n- 消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhx7009658.shtml\n- 市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyie1643698.shtml\n- 前五个月 广东存储芯片产量大涨60%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieuime0378604.shtml\n- China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n2. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University｜The Register｜https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098\n3. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)｜TechCrunch｜https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/\n4. The White House is asking OpenAI to slow roll the release of its new model over safety concerns｜TechCrunch｜https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/\n5. SpaceX plans to launch Starlink mobile service in the US｜Ars Technica｜https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-27｜生成时间：2026/6/27 07:50:21｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2571｜确认今日 8｜国际背景 22</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 8 条｜国际 16 条<br>延续跟踪线索：国内 0 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-27] 郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片</strong>\n      <span>新浪科技｜2026-06-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhw0215996.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-27] 美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型</strong>\n      <span>新浪科技｜2026-06-27｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-27] 消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限</strong>\n      <span>新浪科技｜2026-06-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhx7009658.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-27] 市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度</strong>\n      <span>新浪科技｜2026-06-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyie1643698.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-27] 前五个月 广东存储芯片产量大涨60%</strong>\n      <span>新浪科技｜2026-06-27｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieuime0378604.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “前五个月 广东存储芯片产量大涨60%” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back</strong>\n      <span>时间：Fri, 26 Jun 2026 22:11:33 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “China's Zhipu is closing in on top U.S. AI models with Anthropic and Ope” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University</strong>\n      <span>时间：Fri, 26 Jun 2026 14:24:56 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Jiangsu's first AI-powered 10 Gbps all-optical campus network launched a” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)</strong>\n      <span>时间：Fri, 26 Jun 2026 17:43:22 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why everyone from OpenAI to SpaceX is building their own chips (and turn” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. The White House is asking OpenAI to slow roll the release of its new model over safety concerns</strong>\n      <span>时间：Thu, 25 Jun 2026 23:34:39 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “The White House is asking OpenAI to slow roll the release of its new mod” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. SpaceX plans to launch Starlink mobile service in the US</strong>\n      <span>时间：Fri, 26 Jun 2026 13:22:59 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX plans to launch Starlink mobile service in the US” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/27 07:50:21\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 16 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-27] 郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhw0215996.shtml\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片” against primary-source evidence.\n\n2. [2026-06-27] 美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型” against primary-source evidence.\n\n3. [2026-06-27] 消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhx7009658.shtml\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限” against primary-source evidence.\n\n4. [2026-06-27] 市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyie1643698.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度” against primary-source evidence.\n\n5. [2026-06-27] 前五个月 广东存储芯片产量大涨60%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieuime0378604.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “前五个月 广东存储芯片产量大涨60%” against primary-source evidence.\n\n本次新增线索：\n- 郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhw0215996.shtml\n- 美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml\n- 消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhx7009658.shtml\n- 市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyie1643698.shtml\n- 前五个月 广东存储芯片产量大涨60%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieuime0378604.shtml\n- China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n2. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University｜The Register｜https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098\n3. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)｜TechCrunch｜https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/\n4. The White House is asking OpenAI to slow roll the release of its new model over safety concerns｜TechCrunch｜https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/\n5. SpaceX plans to launch Starlink mobile service in the US｜Ars Technica｜https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-27｜V3\n生成时间：2026/6/27 08:18:03\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2583｜确认今日 9｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-27] 郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhw0215996.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片” against primary-source evidence.\n\n2. [2026-06-27] 美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型” against primary-source evidence.\n\n3. [2026-06-27] 消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhx7009658.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限” against primary-source evidence.\n\n4. [2026-06-27] 市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyie1643698.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度” against primary-source evidence.\n\n5. [2026-06-27] 前五个月 广东存储芯片产量大涨60%\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieuime0378604.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “前五个月 广东存储芯片产量大涨60%” against primary-source evidence.\n\n本次新增线索：\n- 上下游扩产忙 半导体设备迎来增长大年｜网易科技｜https://www.163.com/dy/article/L0DQKGDC05198CJN.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The White House is asking OpenAI to slow roll the release of its new model over safety concerns｜TechCrunch｜https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/\n2. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n3. Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents｜TechCrunch｜https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/\n4. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University｜The Register｜https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098\n5. Italy probes AI-fueled price hikes in Microsoft 365｜The Register｜https://www.theregister.com/saas/2026/06/26/italy-probes-ai-fueled-price-hikes-in-microsoft-365/5262986",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-27｜V3\n生成时间：2026/6/27 08:18:03\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2583｜确认今日 9｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-27] 郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhw0215996.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片” against primary-source evidence.\n\n2. [2026-06-27] 美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型” against primary-source evidence.\n\n3. [2026-06-27] 消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhx7009658.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限” against primary-source evidence.\n\n4. [2026-06-27] 市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyie1643698.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度” against primary-source evidence.\n\n5. [2026-06-27] 前五个月 广东存储芯片产量大涨60%\n   新浪科技｜2026-06-27｜https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieuime0378604.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “前五个月 广东存储芯片产量大涨60%” against primary-source evidence.\n\n本次新增线索：\n- 上下游扩产忙 半导体设备迎来增长大年｜网易科技｜https://www.163.com/dy/article/L0DQKGDC05198CJN.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The White House is asking OpenAI to slow roll the release of its new model over safety concerns｜TechCrunch｜https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/\n2. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n3. Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents｜TechCrunch｜https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/\n4. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University｜The Register｜https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098\n5. Italy probes AI-fueled price hikes in Microsoft 365｜The Register｜https://www.theregister.com/saas/2026/06/26/italy-probes-ai-fueled-price-hikes-in-microsoft-365/5262986",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-27｜生成时间：2026/6/27 08:18:03｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2583｜确认今日 9｜国际背景 21</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 8 条｜国际 21 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-27] 郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片</strong>\n      <span>新浪科技｜2026-06-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhw0215996.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-27] 美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型</strong>\n      <span>新浪科技｜2026-06-27｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-27] 消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限</strong>\n      <span>新浪科技｜2026-06-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhx7009658.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-27] 市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度</strong>\n      <span>新浪科技｜2026-06-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyie1643698.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-27] 前五个月 广东存储芯片产量大涨60%</strong>\n      <span>新浪科技｜2026-06-27｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieuime0378604.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “前五个月 广东存储芯片产量大涨60%” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The White House is asking OpenAI to slow roll the release of its new model over safety concerns</strong>\n      <span>时间：Thu, 25 Jun 2026 23:34:39 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “The White House is asking OpenAI to slow roll the release of its new mod” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back</strong>\n      <span>时间：Fri, 26 Jun 2026 22:11:33 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “China's Zhipu is closing in on top U.S. AI models with Anthropic and Ope” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents</strong>\n      <span>时间：Thu, 25 Jun 2026 20:19:25 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI age” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University</strong>\n      <span>时间：Fri, 26 Jun 2026 14:24:56 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Jiangsu's first AI-powered 10 Gbps all-optical campus network launched a” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Italy probes AI-fueled price hikes in Microsoft 365</strong>\n      <span>时间：Fri, 26 Jun 2026 13:17:44 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/saas/2026/06/26/italy-probes-ai-fueled-price-hikes-in-microsoft-365/5262986\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Italy probes AI-fueled price hikes in Microsoft 365” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/27 08:18:03\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-27] 郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhw0215996.shtml\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片” against primary-source evidence.\n\n2. [2026-06-27] 美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuyhx7000126.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型” against primary-source evidence.\n\n3. [2026-06-27] 消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyhx7009658.shtml\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限” against primary-source evidence.\n\n4. [2026-06-27] 市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-06-27/doc-inieuyie1643698.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度” against primary-source evidence.\n\n5. [2026-06-27] 前五个月 广东存储芯片产量大涨60%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieuime0378604.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “前五个月 广东存储芯片产量大涨60%” against primary-source evidence.\n\n本次新增线索：\n- 上下游扩产忙 半导体设备迎来增长大年｜网易科技｜https://www.163.com/dy/article/L0DQKGDC05198CJN.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. The White House is asking OpenAI to slow roll the release of its new model over safety concerns｜TechCrunch｜https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/\n2. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n3. Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents｜TechCrunch｜https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/\n4. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University｜The Register｜https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098\n5. Italy probes AI-fueled price hikes in Microsoft 365｜The Register｜https://www.theregister.com/saas/2026/06/26/italy-probes-ai-fueled-price-hikes-in-microsoft-365/5262986\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
