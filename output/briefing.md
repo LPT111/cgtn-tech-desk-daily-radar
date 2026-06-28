@@ -3,31 +3,32 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/28 07:46:21
+生成时间：2026/6/28 08:12:20
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 9 条
-延续跟踪线索：国内 0 条｜国际 17 条
+新增核心线索：国内 1 条｜国际 1 条
+延续跟踪线索：国内 1 条｜国际 25 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-28] 特斯拉也要有主动悬架了！最新专利曝光：能提前"避坑"
+1. [23:55] Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作
+   来源：IT之家
+   链接：https://www.ithome.com/0/969/535.htm
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作” against primary-source evidence.
+
+2. [2026-06-28] 特斯拉也要有主动悬架了！最新专利曝光：能提前"避坑"
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml
    角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉也要有主动悬架了！最新专利曝光：能提前"避坑"” against primary-source evidence.
 
 本次新增线索：
-- 特斯拉也要有主动悬架了！最新专利曝光：能提前"避坑"｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml
-- Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
-- Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html
-- Apple Vision Pro exec is reportedly leaving for OpenAI｜TechCrunch｜https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/
-- OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency｜CNBC Technology｜https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
-- 8 New Products Samsung Is Expected To Announce In 2026｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/8-products-samsung-expected-announce-174700192.html
+- Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作｜IT之家｜https://www.ithome.com/0/969/535.htm
+- OpenAI says 97.9 percent of its employees are now using agents｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-979-percent-of-its-employees-are-now-using-agents/5262499
 
 今日热点方向：
-- AI 应用：
+- AI 应用：AI 应用与智能体（1 条，1 个来源）
 - 芯片/半导体：
 - 机器人/具身智能：
 - 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）

@@ -1,44 +1,24 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-06-27T23:46:21.447Z",
+  "generatedAt": "2026-06-28T00:12:20.980Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-28",
   "changeSummary": {
     "domesticNew": 1,
-    "globalNew": 9,
-    "domesticContinued": 0,
-    "globalContinued": 17,
+    "globalNew": 1,
+    "domesticContinued": 1,
+    "globalContinued": 25,
     "topNewDomestic": [
       {
-        "title": "特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml"
+        "title": "Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/969/535.htm"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
-      },
-      {
-        "title": "Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html"
-      },
-      {
-        "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
-      },
-      {
-        "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html"
-      },
-      {
-        "title": "8 New Products Samsung Is Expected To Announce In 2026",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/phones/articles/8-products-samsung-expected-announce-174700192.html"
+        "title": "OpenAI says 97.9 percent of its employees are now using agents",
+        "source": "The Register",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-979-percent-of-its-employees-are-now-using-agents/5262499"
       }
     ],
     "hasPrevious": true
@@ -47,7 +27,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 899,
+    "domesticRejected": 898,
     "globalRejected": 874,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -65,9 +45,9 @@ window.CHENCHEN_DAILY_DATA = {
   "successSources": 30,
   "failedSources": [
     {
-      "name": "财联社",
+      "name": "中国科学院",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "央视网-科技",
@@ -92,9 +72,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "财联社",
+      "name": "中国科学院",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "央视网-科技",
@@ -171,8 +151,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -220,8 +199,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -369,13 +349,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1368,
+  "itemsSeen": 1305,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 299,
-  "itemsAfterDedupe": 204,
-  "todayItemsSeen": 1,
+  "itemsAfterRelevantFilter": 261,
+  "itemsAfterDedupe": 183,
+  "todayItemsSeen": 2,
   "suspectedItemsSeen": 19,
-  "skippedNonToday": 183,
+  "skippedNonToday": 162,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -430,8 +410,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -479,8 +458,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -782,9 +762,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
+      "name": "中国科学院",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "央视网-科技",
@@ -828,8 +808,19 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1215,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 109,
+  "globalItemsAfterRelevantFilter": 108,
   "topics": [
+    {
+      "topic": "AI 应用与智能体",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作"
+      ]
+    },
     {
       "topic": "新能源车动态",
       "count": 1,
@@ -843,6 +834,74 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作",
+      "summary": "Anthropic 调研显示，约半数 Claude 用户认为 AI 已能承担其 50% 以上工作。营销文案、博客创作和数据库查询是 AI 应用最广的场景。尽管职场新人担忧被替代，但重度使用者却对个人价值提升持乐观态度。#AI 职场# #Claude#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/969/535.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/969/535.htm"
+      ],
+      "publishedAt": "Sat, 27 Jun 2026 23:55:52 GMT",
+      "date": "2026-06-28",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "Anthropic 调研显示，约半数 Claude 用户认为 AI 已能承担其 50% 以上工作。营销文案、博客创作和数据库查询是 AI 应用最广的场景。尽管职场新人担忧被替代，但重度使用者却对个人价值提升持乐观态度。#AI 职场# #Claude#",
+      "relatedTitles": [
+        "Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"",
@@ -909,7 +968,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\""
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -981,73 +1040,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "全球首款含铜钛合金骨针获批上市",
-      "summary": "首页 中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析 分享到： 大脑是一个极其精密的信息处理系统，神经元则是其基本计算单元。要理解大脑，不仅要知道神经元“在做什么”（功能），还要知道它“长什么样、怎么连接”（结构）以及“由什么构成”（分子）。然而，这三类信息长期来自不同实验体系，难以整合。 微信公众号“脑科",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/cg/zh/202604/t20260429_5108364.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/cg/zh/202604/t20260429_5108364.shtml"
-      ],
-      "publishedAt": "2026-04-29",
-      "date": "2026-04-29",
-      "category": "科学前沿",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 178,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 18,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 12,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": true,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 120
-      },
-      "isPrimarySource": true,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “全球首款含铜钛合金骨针获批上市” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "首页 > 成果转化 > 工作动态 4月21日，由中国科学院金属研究所与苏州森锋医疗器械有限公司联合研发的全球首款具有抗菌功能的含铜钛合金骨针产品，获得国家药品监督管理局批准，取得中华人民共和国医疗器械注册证，正式上市。 钛合金因其优异的力学性能和生物相容性，已成为骨科、口腔等植入器械的主流材料，其中钛合金骨针是使用最为广泛的器械之一，用于骨折手术中穿过骨骼起到固定作用。 该产品打破了传统骨科植入金属材料生物惰性的应用局限，实现了抗菌型功能化医用钛合金从基础研究到骨科临床器械应用的突破。 4月21日，由中国科学院金属研究所与苏州森锋医疗器械有限公司联合研发的全球首款具有抗菌功能的含铜钛合金骨针产品，获得国家药品监督管理局批准，取得中华人民共和国医疗器械注册证，正式上市。钛合金因其优异的力学性能和生物相容性，已成为骨科、口腔等植入器械的主流材料，其中钛合金骨针是使用最为广泛的器械之一，用于骨折手术中穿过骨骼起到固定作用。该产品打破了传统骨科植入金属材料生物惰性的应用局限，实现了抗菌型功能化医用钛合金从基础研究到骨科临床器械应用的突破。",
-      "relatedTitles": [
-        "全球首款含铜钛合金骨针获批上市"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "让AI下工地、进农田！网易灵动具身智能超百个项目常态化运营",
       "summary": "首页 让AI下工地、进农田！网易灵动具身智能超百个项目常态化运营 分享到： 近日，工业和信息化部、国务院国资委联合印发通知，正式启动2026年度人形机器人与具身智能实景实训专项行动。作为专注在工程机械领域的具身智能品牌，网易灵动依托“灵载”装载机器人、“灵掘”挖掘机器人，目前已在全国十余个省份的超百个项目中实现常态化运",
@@ -1112,6 +1104,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "首页 让AI下工地、进农田！网易灵动具身智能超百个项目常态化运营 分享到： 近日，工业和信息化部、国务院国资委联合印发通知，正式启动2026年度人形机器人与具身智能实景实训专项行动。作为专注在工程机械领域的具身智能品牌，网易灵动依托“灵载”装载机器人、“灵掘”挖掘机器人，目前已在全国十余个省份的超百个项目中实现常态化运营，累计安全作业任务超70万次。这标志着我国具身智能正加速从实验室走向实体产业，形成多领域规模化商用的实践样本。 秉持“最小干预”原则：从重型工业到智慧农业的“全域实战” 专项行动明确要求，按照“最小干预、利旧复用”原则开展实景适配，聚焦工业、服务、特种三大领域。网易灵动基于自研的“机械智心”训练框架，突破了传统算法定制局限，无需对作业场地进行大规模改造即可实现自主作业。 目前，网易灵动凭借卓越的性能和广泛的适用性，在多个高价值场景交出了“实景实训”的答卷。其应用已深入矿山、搅拌站、港口、基建、应急救援、职业教育、电厂等多个领域，不仅帮助施工单位解决了安全生产问题，还有效缓解长期以来工程机械行业招工难、用工难的的痛点。 例如，在国家基建场景，网易灵动打造的全无人“黑灯工地",
       "relatedTitles": [
         "让AI下工地、进农田！网易灵动具身智能超百个项目常态化运营"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺",
+      "summary": "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺。 量子位 2026-06-17 waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 2026-06-17 waic2026 热门文章 GPT发AI原创新成果了 ",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/waic2026",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/waic2026"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.81,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 164,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺。 量子位 2026-06-17 waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 2026-06-17 waic2026 热门文章 GPT发AI原创新成果了 全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化 为什么最有价值的AI讨论总发生在知乎？ 香港特区政府财政司司长陈茂波一行到访 PPIO 星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
+      "relatedTitles": [
+        "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺"
       ]
     },
     {
@@ -1518,6 +1577,73 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析",
+      "summary": "首页 中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析 分享到： 大脑是一个极其精密的信息处理系统，神经元则是其基本计算单元。要理解大脑，不仅要知道神经元“在做什么”（功能），还要知道它“长什么样、怎么连接”（结构）以及“由什么构成”（分子）。然而，这三类信息长期来自不同实验体系，难以整合。 微信公众号“脑科",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2026_06_19_820971.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2026_06_19_820971.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "科学前沿",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 4,
+      "score": 134,
+      "reporterScore": 150,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "首页 中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析 分享到： 大脑是一个极其精密的信息处理系统，神经元则是其基本计算单元。要理解大脑，不仅要知道神经元“在做什么”（功能），还要知道它“长什么样、怎么连接”（结构）以及“由什么构成”（分子）。然而，这三类信息长期来自不同实验体系，难以整合。 微信公众号“脑科学与智能技术卓越创新中心”6月18日消息，如今，中国科学院脑科学与智能技术卓越创新中心的研究团队成功突破这一瓶颈。2026年6月18日23点，Cell在线发表题为“Multimodal imaging of gene expression, morphology, and activity of the same neuron”的研究论文。 该研究由中国科学院脑科学与智能技术卓越创新中心王凯研究团队和徐圣进研究团队联合攻关完成。研究团队自主研发了基于成像的多模态解析平台Imaging-based Multimodal Characterization（IMC），首次实现了对同一神经元在体钙活动、全脑投射形态与 3D 原位基因表达谱的高精度整合解析。 该工作突破了长期存在的",
+      "relatedTitles": [
+        "中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "订单已排到2030年！“单船最大装车量达10800辆”",
       "summary": "首页 订单已排到2030年！“单船最大装车量达10800辆” 分享到： 28日，由中国船舶集团广船国际建造的全球首艘万车级双燃料汽车运输船在广州南沙完成交付。 该船长230米，型宽40米，设计了14层车库甲板，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。同时，船舶还搭载了最新的绿色",
       "source": "观察者网-产业科技",
@@ -1715,73 +1841,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "议程揭晓！由观察者网与上海国投赋能联合主办，宁波银行和中国电子视像行业协会作为支持单位，金砖财经、绿色金融60人论坛协办的“金融+端侧AI产业前沿论坛”将在上海绿地外滩中心正式启幕。",
       "relatedTitles": [
         "议程揭晓！「金融+端侧 AI」产业前沿论坛共启智能新局"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "waic2026 入局AI新风向",
-      "summary": "waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 昨天 14:33 waic2026 热门文章 1290万高考生看过来！阿里出了个志愿填报Agent，免费的 Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜 Anthropic老大的唯一 -1，就是AI",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/waic2026",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/waic2026"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 130,
-      "reporterScore": 138,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “waic2026 入局AI新风向” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 昨天 14:33 waic2026 热门文章 1290万高考生看过来！阿里出了个志愿填报Agent，免费的 Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜 Anthropic老大的唯一 -1，就是AI股神的未婚妻 耐心资本护航创新，2026SuperLink开启创投价值共生新时代 “智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
-      "relatedTitles": [
-        "waic2026 入局AI新风向"
       ]
     },
     {
@@ -2226,7 +2285,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 115
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2258,7 +2317,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2358,20 +2417,20 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "publishedAt": "Sat, 27 Jun 2026 16:45:09 +0000",
-      "date": "2026-06-27",
-      "region": "US",
+      "title": "OpenAI says 97.9 percent of its employees are now using agents",
+      "summary": "",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-979-percent-of-its-employees-are-now-using-agents/5262499",
+      "publishedAt": "Thu, 25 Jun 2026 21:58:23 +0200",
+      "date": "2026-06-26",
+      "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.8,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple Vision Pro exec is reportedly leaving for OpenAI” against primary-source evidence.",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI says 97.9 percent of its employees are now using agents” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -2422,23 +2481,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
-      "summary": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-      "publishedAt": "Fri, 26 Jun 2026 15:33:31 GMT",
-      "date": "2026-06-26",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Apple is reportedly set to skip high-end versions of its upcoming M6 chip for Macs, instead opting to \"fast-track\" M7 Pro and Max chips with more on-device AI horsepower.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "publishedAt": "Sat, 27 Jun 2026 16:45:09 +0000",
+      "date": "2026-06-27",
       "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.97,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxi” against primary-source evidence.",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple Vision Pro exec is reportedly leaving for OpenAI” against primary-source evidence.",
       "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
+      "score": 144,
+      "reporterScore": 144,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -2450,167 +2509,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "8 New Products Samsung Is Expected To Announce In 2026",
-      "summary": "Samsung has released several new products in 2026, but there's more to come. Here are the new devices Samsung is expected to announce in the second half.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/8-products-samsung-expected-announce-174700192.html",
-      "publishedAt": "2026-06-28",
-      "date": "2026-06-28",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “8 New Products Samsung Is Expected To Announce In 2026” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Instagram for TV Now Available on Samsung Smart TVs in United States",
-      "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the best trending AI stocks to watch in 2026. Meta Platforms, Inc. (NASDAQ:META) announced on June 22 that starting today, Instagram fo",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/social-media/articles/instagram-tv-now-available-samsung-190837886.html",
-      "publishedAt": "2026-06-28",
-      "date": "2026-06-28",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.68,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Instagram for TV Now Available on Samsung Smart TVs in United States” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Alphabet burnishes one of its best weapons in the battle for AI supremacy",
-      "summary": "The Google parent's homegrown silicon is a big advantage in the AI compute race.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/27/alphabet-burnishes-one-of-its-best-weapons-in-the-battle-for-ai-supremacy.html",
-      "publishedAt": "Sat, 27 Jun 2026 13:21:04 GMT",
-      "date": "2026-06-27",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Alphabet burnishes one of its best weapons in the battle for AI supremac” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung's Free Upgrade Is Coming To Millions Of Galaxy Phones",
-      "summary": "Samsung's One UI 9 beta is now confirmed for the Galaxy A57 and A56, expanding the free upgrade further than expected. There's also a new Secure Lock security feature.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/gemini/articles/samsungs-free-upgrade-coming-millions-211734422.html",
-      "publishedAt": "2026-06-28",
-      "date": "2026-06-28",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung's Free Upgrade Is Coming To Millions Of Galaxy Phones” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "3 Features Only Samsung Galaxy Watches Have",
-      "summary": "While most smartwatches and fitness trackers have similar features, here are three unique features exclusive to Samsung's Galaxy Watch lineup.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/wearables/articles/3-features-only-samsung-galaxy-214700013.html",
-      "publishedAt": "2026-06-28",
-      "date": "2026-06-28",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “3 Features Only Samsung Galaxy Watches Have” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2743,11 +2642,11 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Google wants AI regulation, but on its own terms",
-      "summary": "Surely, we can have rules that allow us to continue doing what we",
+      "summary": "",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/06/26/google-wants-ai-regulation-but-on-its-own-terms/5263276",
       "publishedAt": "Fri, 26 Jun 2026 21:50:06 +0200",
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "region": "Europe",
       "category": "AI",
       "classificationConfidence": 0.62,
@@ -2871,7 +2770,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Italy probes AI-fueled price hikes in Microsoft 365",
-      "summary": "Are we human?",
+      "summary": "",
       "source": "The Register",
       "url": "https://www.theregister.com/saas/2026/06/26/italy-probes-ai-fueled-price-hikes-in-microsoft-365/5262986",
       "publishedAt": "Fri, 26 Jun 2026 13:17:44 +0200",
@@ -2930,6 +2829,166 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
+      "summary": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+      "publishedAt": "Fri, 26 Jun 2026 15:33:31 GMT",
+      "date": "2026-06-26",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxi” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Instagram for TV Now Available on Samsung Smart TVs in United States",
+      "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the best trending AI stocks to watch in 2026. Meta Platforms, Inc. (NASDAQ:META) announced on June 22 that starting today, Instagram fo",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/social-media/articles/instagram-tv-now-available-samsung-190837886.html",
+      "publishedAt": "2026-06-28",
+      "date": "2026-06-28",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.68,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Instagram for TV Now Available on Samsung Smart TVs in United States” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Alphabet burnishes one of its best weapons in the battle for AI supremacy",
+      "summary": "The Google parent's homegrown silicon is a big advantage in the AI compute race.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/27/alphabet-burnishes-one-of-its-best-weapons-in-the-battle-for-ai-supremacy.html",
+      "publishedAt": "Sat, 27 Jun 2026 13:21:04 GMT",
+      "date": "2026-06-27",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Alphabet burnishes one of its best weapons in the battle for AI supremac” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung's Free Upgrade Is Coming To Millions Of Galaxy Phones",
+      "summary": "Samsung's One UI 9 beta is now confirmed for the Galaxy A57 and A56, expanding the free upgrade further than expected. There's also a new Secure Lock security feature.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/samsungs-free-upgrade-coming-millions-211734422.html",
+      "publishedAt": "2026-06-28",
+      "date": "2026-06-28",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung's Free Upgrade Is Coming To Millions Of Galaxy Phones” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "3 Features Only Samsung Galaxy Watches Have",
+      "summary": "While most smartwatches and fitness trackers have similar features, here are three unique features exclusive to Samsung's Galaxy Watch lineup.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/wearables/articles/3-features-only-samsung-galaxy-214700013.html",
+      "publishedAt": "2026-06-28",
+      "date": "2026-06-28",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “3 Features Only Samsung Galaxy Watches Have” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -3029,8 +3088,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-28｜V3\n生成时间：2026/6/28 07:46:21\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2583｜确认今日 1｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 9 条\n延续跟踪线索：国内 0 条｜国际 17 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-28] 特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"\n   新浪科技｜2026-06-28｜https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml\n- Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n- Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n- Apple Vision Pro exec is reportedly leaving for OpenAI｜TechCrunch｜https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/\n- OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency｜CNBC Technology｜https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html\n- 8 New Products Samsung Is Expected To Announce In 2026｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/8-products-samsung-expected-announce-174700192.html\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\n5. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)｜TechCrunch｜https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-28｜V3\n生成时间：2026/6/28 07:46:21\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2583｜确认今日 1｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 9 条\n延续跟踪线索：国内 0 条｜国际 17 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-28] 特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"\n   新浪科技｜2026-06-28｜https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml\n- Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n- Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n- Apple Vision Pro exec is reportedly leaving for OpenAI｜TechCrunch｜https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/\n- OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency｜CNBC Technology｜https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html\n- 8 New Products Samsung Is Expected To Announce In 2026｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/8-products-samsung-expected-announce-174700192.html\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\n5. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)｜TechCrunch｜https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-28｜生成时间：2026/6/28 07:46:21｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2583｜确认今日 1｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 9 条<br>延续跟踪线索：国内 0 条｜国际 17 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-28] 特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"</strong>\n      <span>新浪科技｜2026-06-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：162｜需核验来源</span>\n      <p>报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on</strong>\n      <span>时间：Sat, 27 Jun 2026 12:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Asian AI startups launch Mythos-like models as Anthropic’s export ban dr” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'</strong>\n      <span>时间：2026-06-26｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limite” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back</strong>\n      <span>时间：Fri, 26 Jun 2026 22:11:33 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “China's Zhipu is closing in on top U.S. AI models with Anthropic and Ope” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm</strong>\n      <span>时间：Fri, 26 Jun 2026 18:32:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI limits GPT-5.6 rollout after government request, says restriction” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)</strong>\n      <span>时间：Fri, 26 Jun 2026 17:43:22 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why everyone from OpenAI to SpaceX is building their own chips (and turn” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/28 07:46:21\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 9 条\n延续跟踪线索：国内 0 条｜国际 17 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-28] 特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml\n   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml\n- Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n- Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n- Apple Vision Pro exec is reportedly leaving for OpenAI｜TechCrunch｜https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/\n- OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency｜CNBC Technology｜https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html\n- 8 New Products Samsung Is Expected To Announce In 2026｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/8-products-samsung-expected-announce-174700192.html\n\n今日热点方向：\n- AI 应用：\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\n5. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)｜TechCrunch｜https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-28｜V3\n生成时间：2026/6/28 08:12:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2520｜确认今日 2｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 1 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:55] Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作\n   IT之家｜2026-06-28｜https://www.ithome.com/0/969/535.htm\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作” against primary-source evidence.\n\n2. [2026-06-28] 特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"\n   新浪科技｜2026-06-28｜https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"” against primary-source evidence.\n\n本次新增线索：\n- Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作｜IT之家｜https://www.ithome.com/0/969/535.htm\n- OpenAI says 97.9 percent of its employees are now using agents｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-979-percent-of-its-employees-are-now-using-agents/5262499\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\n5. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)｜TechCrunch｜https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-28｜V3\n生成时间：2026/6/28 08:12:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2520｜确认今日 2｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 1 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:55] Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作\n   IT之家｜2026-06-28｜https://www.ithome.com/0/969/535.htm\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作” against primary-source evidence.\n\n2. [2026-06-28] 特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"\n   新浪科技｜2026-06-28｜https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"” against primary-source evidence.\n\n本次新增线索：\n- Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作｜IT之家｜https://www.ithome.com/0/969/535.htm\n- OpenAI says 97.9 percent of its employees are now using agents｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-979-percent-of-its-employees-are-now-using-agents/5262499\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\n5. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)｜TechCrunch｜https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-28｜生成时间：2026/6/28 08:12:20｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2520｜确认今日 2｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 1 条<br>延续跟踪线索：国内 1 条｜国际 25 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [23:55] Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作</strong>\n      <span>IT之家｜2026-06-28｜<a href=\"https://www.ithome.com/0/969/535.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-28] 特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"</strong>\n      <span>新浪科技｜2026-06-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：162｜需核验来源</span>\n      <p>报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on</strong>\n      <span>时间：Sat, 27 Jun 2026 12:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Asian AI startups launch Mythos-like models as Anthropic’s export ban dr” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'</strong>\n      <span>时间：2026-06-26｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limite” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back</strong>\n      <span>时间：Fri, 26 Jun 2026 22:11:33 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “China's Zhipu is closing in on top U.S. AI models with Anthropic and Ope” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm</strong>\n      <span>时间：Fri, 26 Jun 2026 18:32:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI limits GPT-5.6 rollout after government request, says restriction” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)</strong>\n      <span>时间：Fri, 26 Jun 2026 17:43:22 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why everyone from OpenAI to SpaceX is building their own chips (and turn” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/28 08:12:20\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 1 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:55] Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作\n   来源：IT之家\n   链接：https://www.ithome.com/0/969/535.htm\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作” against primary-source evidence.\n\n2. [2026-06-28] 特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-28/doc-iniexchh3423813.shtml\n   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉也要有主动悬架了！最新专利曝光：能提前\"避坑\"” against primary-source evidence.\n\n本次新增线索：\n- Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作｜IT之家｜https://www.ithome.com/0/969/535.htm\n- OpenAI says 97.9 percent of its employees are now using agents｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-979-percent-of-its-employees-are-now-using-agents/5262499\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\n5. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)｜TechCrunch｜https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
