@@ -1,14 +1,31 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-06-28T08:54:24.108Z",
+  "generatedAt": "2026-06-28T09:34:09.913Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-28",
   "changeSummary": {
-    "domesticNew": 0,
-    "globalNew": 0,
-    "domesticContinued": 36,
-    "globalContinued": 25,
-    "topNewDomestic": [],
-    "topNewGlobal": [],
+    "domesticNew": 1,
+    "globalNew": 2,
+    "domesticContinued": 35,
+    "globalContinued": 24,
+    "topNewDomestic": [
+      {
+        "title": "慧翰股份：公司5G-V2X产品已经在无人物流车等自动驾驶场景落地应用",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L0HC3MPU0512B07B.html"
+      }
+    ],
+    "topNewGlobal": [
+      {
+        "title": "Apple Vs. Samsung: Which Brand Has The Better Warranty?",
+        "source": "Yahoo News Technology",
+        "url": "https://tech.yahoo.com/phones/articles/apple-vs-samsung-brand-better-021700750.html"
+      },
+      {
+        "title": "How GE Vernova builds the massive gas turbines powering the AI data center boom",
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html"
+      }
+    ],
     "hasPrevious": true
   },
   "qualityMetrics": {
@@ -16,7 +33,7 @@ window.CHENCHEN_DAILY_DATA = {
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
     "domesticRejected": 864,
-    "globalRejected": 875,
+    "globalRejected": 874,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -30,7 +47,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 29,
   "failedSources": [
     {
       "name": "财联社",
@@ -41,6 +58,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -68,6 +90,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -253,7 +280,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -343,7 +371,7 @@ window.CHENCHEN_DAILY_DATA = {
   "itemsAfterDedupe": 229,
   "todayItemsSeen": 36,
   "suspectedItemsSeen": 18,
-  "skippedNonToday": 172,
+  "skippedNonToday": 171,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -512,7 +540,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -607,8 +636,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "France24 Technology",
       "tier": "international",
-      "parsed": 156,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "404 Not Found",
       "optional": false
     },
     {
@@ -760,6 +790,11 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -777,6 +812,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalFailedSources": [
     {
+      "name": "France24 Technology",
+      "error": "404 Not Found",
+      "optional": false
+    },
+    {
       "name": "Reuters Technology",
       "error": "401 HTTP Forbidden",
       "optional": false
@@ -793,10 +833,10 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "globalSourcesChecked": 21,
-  "globalSuccessSources": 18,
-  "globalItemsSeen": 1215,
+  "globalSuccessSources": 17,
+  "globalItemsSeen": 1059,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 108,
+  "globalItemsAfterRelevantFilter": 146,
   "topics": [
     {
       "topic": "AI动态",
@@ -833,6 +873,23 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "新能源车与智能驾驶",
+      "count": 6,
+      "sourceCount": 3,
+      "sources": [
+        "新浪科技",
+        "网易科技",
+        "IT之家"
+      ],
+      "items": [
+        "金色轮毂罩暗藏巧思！特斯拉Cybercab车轮专利公开：柔性橡胶盖板贴合马牌轮胎",
+        "搭载 L4 级自动驾驶系统，特斯拉 Cybercab 官方救援指南披露海量重磅信息",
+        "电池小坏就要换整包成历史！9部门发文解绑维修限制：修车贵终于有人管了",
+        "20万买的二手新能源车 车机无法更名能退车退款吗？法院判了",
+        "慧翰股份：公司5G-V2X产品已经在无人物流车等自动驾驶场景落地应用"
+      ]
+    },
+    {
       "topic": "AI 应用与智能体",
       "count": 5,
       "sourceCount": 3,
@@ -865,32 +922,15 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "新能源车与智能驾驶",
-      "count": 5,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "IT之家"
-      ],
-      "items": [
-        "金色轮毂罩暗藏巧思！特斯拉Cybercab车轮专利公开：柔性橡胶盖板贴合马牌轮胎",
-        "搭载 L4 级自动驾驶系统，特斯拉 Cybercab 官方救援指南披露海量重磅信息",
-        "电池小坏就要换整包成历史！9部门发文解绑维修限制：修车贵终于有人管了",
-        "20万买的二手新能源车 车机无法更名能退车退款吗？法院判了",
-        "比亚迪王传福与地平线 CEO 余凯会面，双方有望在智驾领域深度合作"
-      ]
-    },
-    {
       "topic": "机器人动态",
-      "count": 3,
+      "count": 2,
       "sourceCount": 1,
       "sources": [
         "IT之家"
       ],
       "items": [
         "两年深耕：全国首个开源鸿蒙机器人操作系统 M-Robots OS 完整捐献至开放原子开源基金会",
-        "法拉第未来推出“全美首款工业级轮臂机器人”Faber，同步推出全新 Futurist 机器人系列",
-        "如同扫地机器人，开源程序让 Steam 手柄靠震动自动寻找底座充电"
+        "法拉第未来推出“全美首款工业级轮臂机器人”Faber，同步推出全新 Futurist 机器人系列"
       ]
     },
     {
@@ -2595,74 +2635,6 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "如同扫地机器人，开源程序让 Steam 手柄靠震动自动寻找底座充电",
-      "summary": "程序员利用网页和计算机视觉技术，让 Steam 手柄能像扫地机器人一样自动爬回充电底座。无需安装软件，打开网页连接摄像头和手柄即可实现。这展现了 Steam 手柄硬件的可玩性，但需注意长期使用可能导致外壳磨损。#Steam 手柄# #硬核玩法#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/969/563.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/969/563.htm"
-      ],
-      "publishedAt": "Sun, 28 Jun 2026 02:00:46 GMT",
-      "date": "2026-06-28",
-      "category": "机器人",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 154,
-      "reporterScore": 160,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “如同扫地机器人，开源程序让 Steam 手柄靠震动自动寻找底座充电” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "机器人动态",
-      "rawText": "程序员利用网页和计算机视觉技术，让 Steam 手柄能像扫地机器人一样自动爬回充电底座。无需安装软件，打开网页连接摄像头和手柄即可实现。这展现了 Steam 手柄硬件的可玩性，但需注意长期使用可能导致外壳磨损。#Steam 手柄# #硬核玩法#",
-      "relatedTitles": [
-        "如同扫地机器人，开源程序让 Steam 手柄靠震动自动寻找底座充电"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "电池小坏就要换整包成历史！9部门发文解绑维修限制：修车贵终于有人管了",
       "summary": "快科技6月28日消息，截至2025年底全国新能源汽车保有量达4397万辆，充电便宜保养省心却在维修环节让越来越多车主破了防。多家新能源车企“三电终身质保”条款要求车辆必须在授权4S店保养维修，否则质保资格失效，消费者不得不承受“买得起修不起...",
@@ -3001,6 +2973,74 @@ window.CHENCHEN_DAILY_DATA = {
         "小鹏 MONA L03 公布 23 处拓展接口，可架设运动相机、手机支架等"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "慧翰股份：公司5G-V2X产品已经在无人物流车等自动驾驶场景落地应用",
+      "summary": "慧翰股份：公司5G-V2X产品已经在无人物流车等自动驾驶场景落地应用,自动驾驶,慧翰股份,汽车产业,无人物流车",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L0HC3MPU0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L0HC3MPU0512B07B.html"
+      ],
+      "publishedAt": "2026-06-28",
+      "date": "2026-06-28",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “慧翰股份：公司5G-V2X产品已经在无人物流车等自动驾驶场景落地应用” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "慧翰股份：公司5G-V2X产品已经在无人物流车等自动驾驶场景落地应用,自动驾驶,慧翰股份,汽车产业,无人物流车",
+      "relatedTitles": [
+        "慧翰股份：公司5G-V2X产品已经在无人物流车等自动驾驶场景落地应用"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3544,6 +3584,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "首页 让AI下工地、进农田！网易灵动具身智能超百个项目常态化运营 分享到： 近日，工业和信息化部、国务院国资委联合印发通知，正式启动2026年度人形机器人与具身智能实景实训专项行动。作为专注在工程机械领域的具身智能品牌，网易灵动依托“灵载”装载机器人、“灵掘”挖掘机器人，目前已在全国十余个省份的超百个项目中实现常态化运营，累计安全作业任务超70万次。这标志着我国具身智能正加速从实验室走向实体产业，形成多领域规模化商用的实践样本。 秉持“最小干预”原则：从重型工业到智慧农业的“全域实战” 专项行动明确要求，按照“最小干预、利旧复用”原则开展实景适配，聚焦工业、服务、特种三大领域。网易灵动基于自研的“机械智心”训练框架，突破了传统算法定制局限，无需对作业场地进行大规模改造即可实现自主作业。 目前，网易灵动凭借卓越的性能和广泛的适用性，在多个高价值场景交出了“实景实训”的答卷。其应用已深入矿山、搅拌站、港口、基建、应急救援、职业教育、电厂等多个领域，不仅帮助施工单位解决了安全生产问题，还有效缓解长期以来工程机械行业招工难、用工难的的痛点。 例如，在国家基建场景，网易灵动打造的全无人“黑灯工地",
       "relatedTitles": [
         "让AI下工地、进农田！网易灵动具身智能超百个项目常态化运营"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺",
+      "summary": "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺。 量子位 2026-06-17 waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 2026-06-17 waic2026 热门文章 GPT发AI原创新成果了 ",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/waic2026",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/waic2026"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.81,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 164,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺。 量子位 2026-06-17 waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 2026-06-17 waic2026 热门文章 GPT发AI原创新成果了 全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化 为什么最有价值的AI讨论总发生在知乎？ 香港特区政府财政司司长陈茂波一行到访 PPIO 星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
+      "relatedTitles": [
+        "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺"
       ]
     },
     {
@@ -4217,73 +4324,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "waic2026 入局AI新风向",
-      "summary": "waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 昨天 14:33 waic2026 热门文章 1290万高考生看过来！阿里出了个志愿填报Agent，免费的 Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜 Anthropic老大的唯一 -1，就是AI",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/waic2026",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/waic2026"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 130,
-      "reporterScore": 138,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “waic2026 入局AI新风向” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 昨天 14:33 waic2026 热门文章 1290万高考生看过来！阿里出了个志愿填报Agent，免费的 Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜 Anthropic老大的唯一 -1，就是AI股神的未婚妻 耐心资本护航创新，2026SuperLink开启创投价值共生新时代 “智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
-      "relatedTitles": [
-        "waic2026 入局AI新风向"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "一台晚会能办成什么样，取决于机器人",
       "summary": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
@@ -4654,6 +4694,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Apple Vs. Samsung: Which Brand Has The Better Warranty?",
+      "summary": "Between the two flagship phone makers, the standard warranty for Apple and Samsung is fairly similar. Extended coverage, however, makes the most difference.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/articles/apple-vs-samsung-brand-better-021700750.html",
+      "publishedAt": "2026-06-28",
+      "date": "2026-06-28",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Apple Vs. Samsung: Which Brand Has The Better Warranty?” against primary-source evidence.",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 159,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'",
       "summary": "The release of ChatGPT 5.6 will be limited to U.S. government-approved customers.",
       "source": "Yahoo News Technology",
@@ -4686,23 +4758,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
-      "summary": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
-      "publishedAt": "Fri, 26 Jun 2026 22:11:33 GMT",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "summary": "Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing \"national security authorities.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "publishedAt": "Sat, 27 Jun 2026 01:01:37 +0000",
       "date": "2026-06-26",
       "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.97,
       "hardTechPriority": 95,
-      "globalWhitelistScore": 85,
+      "globalWhitelistScore": 75,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “China's Zhipu is closing in on top U.S. AI models with Anthropic and Ope” against primary-source evidence.",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump Admin releases Anthropic Mythos to be used by more than 100 US com” against primary-source evidence.",
       "priority": 5,
-      "score": 158,
-      "reporterScore": 166,
+      "score": 157,
+      "reporterScore": 165,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4875,6 +4947,38 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "How GE Vernova builds the massive gas turbines powering the AI data center boom",
+      "summary": "GE Vernova turbines are powering Elon Musk's xAI Colossus 1 data center and Microsoft just bought seven to power its data center in Texas.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html",
+      "publishedAt": "Sat, 27 Jun 2026 12:00:01 GMT",
+      "date": "2026-06-27",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “How GE Vernova builds the massive gas turbines powering the AI data cent” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -5084,38 +5188,6 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “NYT slams Microsoft for building copyright-infringing supercomputer for ” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "publishedAt": "Sat, 27 Jun 2026 01:01:37 +0000",
-      "date": "2026-06-26",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump Admin releases Anthropic Mythos to be used by more than 100 US com” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -5421,8 +5493,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-28｜V3\n生成时间：2026/6/28 16:54:24\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2556｜确认今日 36｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 36 条｜国际 25 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-06-28] 周末重点速递 | 天风国际：资金抱团AI科技！到\n   网易科技｜2026-06-28｜https://www.163.com/dy/article/L0GTIDPT0512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “周末重点速递 | 天风国际：资金抱团AI科技！到” against primary-source evidence.\n\n2. [2026-06-28] 智元第15000台通用具身机器人正式量产下线\n   网易科技｜2026-06-28｜https://www.163.com/dy/article/L0H5879805198CJN.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智元第15000台通用具身机器人正式量产下线” against primary-source evidence.\n\n3. [2026-06-28] 造鞋匠硬蹭AI走得通吗\n   人民网-科技｜2026-06-28｜http://finance.people.com.cn/n1/2026/0628/c1004-40748907.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “造鞋匠硬蹭AI走得通吗” against primary-source evidence.\n\n4. [2026-06-28] 一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来\n   新浪科技｜2026-06-28｜https://finance.sina.com.cn/tech/2026-06-28/doc-iniexucu3949619.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来” against primary-source evidence.\n\n5. [2026-06-28] 世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一\n   新浪科技｜2026-06-28｜https://finance.sina.com.cn/tech/discovery/2026-06-28/doc-iniexucw0734323.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（4 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（3 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）\n- 太空与低空经济：太空与低空动态（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\n5. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University｜The Register｜https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-28｜V3\n生成时间：2026/6/28 16:54:24\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2556｜确认今日 36｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 36 条｜国际 25 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-06-28] 周末重点速递 | 天风国际：资金抱团AI科技！到\n   网易科技｜2026-06-28｜https://www.163.com/dy/article/L0GTIDPT0512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “周末重点速递 | 天风国际：资金抱团AI科技！到” against primary-source evidence.\n\n2. [2026-06-28] 智元第15000台通用具身机器人正式量产下线\n   网易科技｜2026-06-28｜https://www.163.com/dy/article/L0H5879805198CJN.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智元第15000台通用具身机器人正式量产下线” against primary-source evidence.\n\n3. [2026-06-28] 造鞋匠硬蹭AI走得通吗\n   人民网-科技｜2026-06-28｜http://finance.people.com.cn/n1/2026/0628/c1004-40748907.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “造鞋匠硬蹭AI走得通吗” against primary-source evidence.\n\n4. [2026-06-28] 一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来\n   新浪科技｜2026-06-28｜https://finance.sina.com.cn/tech/2026-06-28/doc-iniexucu3949619.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来” against primary-source evidence.\n\n5. [2026-06-28] 世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一\n   新浪科技｜2026-06-28｜https://finance.sina.com.cn/tech/discovery/2026-06-28/doc-iniexucw0734323.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（4 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（3 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）\n- 太空与低空经济：太空与低空动态（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\n5. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University｜The Register｜https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-28｜生成时间：2026/6/28 16:54:24｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2556｜确认今日 36｜国际背景 25</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 0 条<br>延续跟踪线索：国内 36 条｜国际 25 条<br>本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-28] 周末重点速递 | 天风国际：资金抱团AI科技！到</strong>\n      <span>网易科技｜2026-06-28｜<a href=\"https://www.163.com/dy/article/L0GTIDPT0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “周末重点速递 | 天风国际：资金抱团AI科技！到” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-28] 智元第15000台通用具身机器人正式量产下线</strong>\n      <span>网易科技｜2026-06-28｜<a href=\"https://www.163.com/dy/article/L0H5879805198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智元第15000台通用具身机器人正式量产下线” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-28] 造鞋匠硬蹭AI走得通吗</strong>\n      <span>人民网-科技｜2026-06-28｜<a href=\"http://finance.people.com.cn/n1/2026/0628/c1004-40748907.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：189｜一手来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “造鞋匠硬蹭AI走得通吗” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-28] 一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来</strong>\n      <span>新浪科技｜2026-06-28｜<a href=\"https://finance.sina.com.cn/tech/2026-06-28/doc-iniexucu3949619.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-28] 世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一</strong>\n      <span>新浪科技｜2026-06-28｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-06-28/doc-iniexucw0734323.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on</strong>\n      <span>时间：Sat, 27 Jun 2026 12:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Asian AI startups launch Mythos-like models as Anthropic’s export ban dr” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'</strong>\n      <span>时间：2026-06-26｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limite” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back</strong>\n      <span>时间：Fri, 26 Jun 2026 22:11:33 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “China's Zhipu is closing in on top U.S. AI models with Anthropic and Ope” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm</strong>\n      <span>时间：Fri, 26 Jun 2026 18:32:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI limits GPT-5.6 rollout after government request, says restriction” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University</strong>\n      <span>时间：Fri, 26 Jun 2026 14:24:56 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Jiangsu's first AI-powered 10 Gbps all-optical campus network launched a” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/28 16:54:24\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 36 条｜国际 25 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-06-28] 周末重点速递 | 天风国际：资金抱团AI科技！到\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0GTIDPT0512B07B.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “周末重点速递 | 天风国际：资金抱团AI科技！到” against primary-source evidence.\n\n2. [2026-06-28] 智元第15000台通用具身机器人正式量产下线\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0H5879805198CJN.html\n   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智元第15000台通用具身机器人正式量产下线” against primary-source evidence.\n\n3. [2026-06-28] 造鞋匠硬蹭AI走得通吗\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0628/c1004-40748907.html\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “造鞋匠硬蹭AI走得通吗” against primary-source evidence.\n\n4. [2026-06-28] 一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/2026-06-28/doc-iniexucu3949619.shtml\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来” against primary-source evidence.\n\n5. [2026-06-28] 世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-06-28/doc-iniexucw0734323.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（4 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（3 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）\n- 太空与低空经济：太空与低空动态（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，1 个来源）\n\n国际科技背景：\n1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n2. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n3. China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back｜CNBC Technology｜https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html\n4. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\n5. Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University｜The Register｜https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-28｜V3\n生成时间：2026/6/28 17:34:09\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2400｜确认今日 36｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 2 条\n延续跟踪线索：国内 35 条｜国际 24 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-28] 周末重点速递 | 天风国际：资金抱团AI科技！到\n   网易科技｜2026-06-28｜https://www.163.com/dy/article/L0GTIDPT0512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “周末重点速递 | 天风国际：资金抱团AI科技！到” against primary-source evidence.\n\n2. [2026-06-28] 智元第15000台通用具身机器人正式量产下线\n   网易科技｜2026-06-28｜https://www.163.com/dy/article/L0H5879805198CJN.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智元第15000台通用具身机器人正式量产下线” against primary-source evidence.\n\n3. [2026-06-28] 造鞋匠硬蹭AI走得通吗\n   人民网-科技｜2026-06-28｜http://finance.people.com.cn/n1/2026/0628/c1004-40748907.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “造鞋匠硬蹭AI走得通吗” against primary-source evidence.\n\n4. [2026-06-28] 一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来\n   新浪科技｜2026-06-28｜https://finance.sina.com.cn/tech/2026-06-28/doc-iniexucu3949619.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来” against primary-source evidence.\n\n5. [2026-06-28] 世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一\n   新浪科技｜2026-06-28｜https://finance.sina.com.cn/tech/discovery/2026-06-28/doc-iniexucw0734323.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一” against primary-source evidence.\n\n本次新增线索：\n- 慧翰股份：公司5G-V2X产品已经在无人物流车等自动驾驶场景落地应用｜网易科技｜https://www.163.com/dy/article/L0HC3MPU0512B07B.html\n- Apple Vs. Samsung: Which Brand Has The Better Warranty?｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/apple-vs-samsung-brand-better-021700750.html\n- How GE Vernova builds the massive gas turbines powering the AI data center boom｜CNBC Technology｜https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）\n- 太空与低空经济：太空与低空动态（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n2. Apple Vs. Samsung: Which Brand Has The Better Warranty?｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/apple-vs-samsung-brand-better-021700750.html\n3. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n4. Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies｜TechCrunch｜https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/\n5. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-28｜V3\n生成时间：2026/6/28 17:34:09\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2400｜确认今日 36｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 2 条\n延续跟踪线索：国内 35 条｜国际 24 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-28] 周末重点速递 | 天风国际：资金抱团AI科技！到\n   网易科技｜2026-06-28｜https://www.163.com/dy/article/L0GTIDPT0512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “周末重点速递 | 天风国际：资金抱团AI科技！到” against primary-source evidence.\n\n2. [2026-06-28] 智元第15000台通用具身机器人正式量产下线\n   网易科技｜2026-06-28｜https://www.163.com/dy/article/L0H5879805198CJN.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智元第15000台通用具身机器人正式量产下线” against primary-source evidence.\n\n3. [2026-06-28] 造鞋匠硬蹭AI走得通吗\n   人民网-科技｜2026-06-28｜http://finance.people.com.cn/n1/2026/0628/c1004-40748907.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “造鞋匠硬蹭AI走得通吗” against primary-source evidence.\n\n4. [2026-06-28] 一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来\n   新浪科技｜2026-06-28｜https://finance.sina.com.cn/tech/2026-06-28/doc-iniexucu3949619.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来” against primary-source evidence.\n\n5. [2026-06-28] 世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一\n   新浪科技｜2026-06-28｜https://finance.sina.com.cn/tech/discovery/2026-06-28/doc-iniexucw0734323.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一” against primary-source evidence.\n\n本次新增线索：\n- 慧翰股份：公司5G-V2X产品已经在无人物流车等自动驾驶场景落地应用｜网易科技｜https://www.163.com/dy/article/L0HC3MPU0512B07B.html\n- Apple Vs. Samsung: Which Brand Has The Better Warranty?｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/apple-vs-samsung-brand-better-021700750.html\n- How GE Vernova builds the massive gas turbines powering the AI data center boom｜CNBC Technology｜https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）\n- 太空与低空经济：太空与低空动态（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n2. Apple Vs. Samsung: Which Brand Has The Better Warranty?｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/apple-vs-samsung-brand-better-021700750.html\n3. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n4. Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies｜TechCrunch｜https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/\n5. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-28｜生成时间：2026/6/28 17:34:09｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2400｜确认今日 36｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 2 条<br>延续跟踪线索：国内 35 条｜国际 24 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-28] 周末重点速递 | 天风国际：资金抱团AI科技！到</strong>\n      <span>网易科技｜2026-06-28｜<a href=\"https://www.163.com/dy/article/L0GTIDPT0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “周末重点速递 | 天风国际：资金抱团AI科技！到” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-28] 智元第15000台通用具身机器人正式量产下线</strong>\n      <span>网易科技｜2026-06-28｜<a href=\"https://www.163.com/dy/article/L0H5879805198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智元第15000台通用具身机器人正式量产下线” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-28] 造鞋匠硬蹭AI走得通吗</strong>\n      <span>人民网-科技｜2026-06-28｜<a href=\"http://finance.people.com.cn/n1/2026/0628/c1004-40748907.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：189｜一手来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “造鞋匠硬蹭AI走得通吗” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-28] 一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来</strong>\n      <span>新浪科技｜2026-06-28｜<a href=\"https://finance.sina.com.cn/tech/2026-06-28/doc-iniexucu3949619.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-28] 世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一</strong>\n      <span>新浪科技｜2026-06-28｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-06-28/doc-iniexucw0734323.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on</strong>\n      <span>时间：Sat, 27 Jun 2026 12:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Asian AI startups launch Mythos-like models as Anthropic’s export ban dr” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Apple Vs. Samsung: Which Brand Has The Better Warranty?</strong>\n      <span>时间：2026-06-28｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/apple-vs-samsung-brand-better-021700750.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Apple Vs. Samsung: Which Brand Has The Better Warranty?” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'</strong>\n      <span>时间：2026-06-26｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limite” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies</strong>\n      <span>时间：Sat, 27 Jun 2026 01:01:37 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump Admin releases Anthropic Mythos to be used by more than 100 US com” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm</strong>\n      <span>时间：Fri, 26 Jun 2026 18:32:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI limits GPT-5.6 rollout after government request, says restriction” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/28 17:34:09\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 2 条\n延续跟踪线索：国内 35 条｜国际 24 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-28] 周末重点速递 | 天风国际：资金抱团AI科技！到\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0GTIDPT0512B07B.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “周末重点速递 | 天风国际：资金抱团AI科技！到” against primary-source evidence.\n\n2. [2026-06-28] 智元第15000台通用具身机器人正式量产下线\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0H5879805198CJN.html\n   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智元第15000台通用具身机器人正式量产下线” against primary-source evidence.\n\n3. [2026-06-28] 造鞋匠硬蹭AI走得通吗\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0628/c1004-40748907.html\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “造鞋匠硬蹭AI走得通吗” against primary-source evidence.\n\n4. [2026-06-28] 一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/2026-06-28/doc-iniexucu3949619.shtml\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “一场打脸，一场回血：AI刚被3：3打懵，又被阿根廷救回来” against primary-source evidence.\n\n5. [2026-06-28] 世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-06-28/doc-iniexucw0734323.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “世界杯32强出炉！12大AI预测成绩揭晓：腾讯混元拿下第一” against primary-source evidence.\n\n本次新增线索：\n- 慧翰股份：公司5G-V2X产品已经在无人物流车等自动驾驶场景落地应用｜网易科技｜https://www.163.com/dy/article/L0HC3MPU0512B07B.html\n- Apple Vs. Samsung: Which Brand Has The Better Warranty?｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/apple-vs-samsung-brand-better-021700750.html\n- How GE Vernova builds the massive gas turbines powering the AI data center boom｜CNBC Technology｜https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）\n- 太空与低空经济：太空与低空动态（3 条，3 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，1 个来源）\n\n国际科技背景：\n1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\n2. Apple Vs. Samsung: Which Brand Has The Better Warranty?｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/apple-vs-samsung-brand-better-021700750.html\n3. Trump administration approving access to OpenAI's ChatGPT 5.6 in 'limited preview'｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/trump-administration-approving-access-to-openais-chatgpt-56-in-limited-preview-142140579.html\n4. Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies｜TechCrunch｜https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/\n5. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm｜TechCrunch｜https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
