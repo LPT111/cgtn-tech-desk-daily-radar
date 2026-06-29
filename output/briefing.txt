@@ -1,53 +1,53 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/29 19:02:58
+生成时间：2026/6/29 19:25:23
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 23 条｜国际 0 条
-延续跟踪线索：国内 45 条｜国际 11 条
+新增核心线索：国内 30 条｜国际 0 条
+延续跟踪线索：国内 57 条｜国际 11 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-29] 国产高端半导体检测设备正式发布：多项性能指标超越国际同类产品
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-29/doc-inifapyw6994155.shtml
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “国产高端半导体检测设备正式发布：多项性能指标超越国际同类产品” against primary-source evidence.
+1. [2026-06-29] 无界动力发布MWA™隐空间世界模型，登顶RoboCas
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0JPNRL70534A4SC.html
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “无界动力发布MWA™隐空间世界模型，登顶RoboCas” against primary-source evidence.
 
-2. [2026-06-29] 全球DRAM短缺催生百亿大单：长鑫存储获腾讯多年期服务器芯片订单
+2. [2026-06-29] 完成静态点火试验，朱雀三号重复使用遥二运载火
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0JUF2DK0534A4SC.html
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “完成静态点火试验，朱雀三号重复使用遥二运载火” against primary-source evidence.
+
+3. [2026-06-29] 全球DRAM短缺催生百亿大单：长鑫存储获腾讯多年期服务器芯片订单
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-06-29/doc-inifaisy7069917.shtml
    角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “全球DRAM短缺催生百亿大单：长鑫存储获腾讯多年期服务器芯片订单” against primary-source evidence.
 
-3. [2026-06-29] 从ROS依赖到自主开源根社区 中国机器人产业的底层突围丨新经济观察
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-29/doc-inifapys2146639.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “从ROS依赖到自主开源根社区 中国机器人产业的底层突围丨新经济观察” against primary-source evidence.
+4. [2026-06-29] 谷歌云将提供用于科学研究的专业AI模型
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0K2PR2S0534A4SC.html
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌云将提供用于科学研究的专业AI模型” against primary-source evidence.
 
-4. [09:10] 完成静态点火试验！朱雀三号火箭再传捷报
-   来源：观察者网-产业科技
-   链接：https://www.guancha.cn/industry-science/2026_06_29_821987.shtml
-   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “完成静态点火试验！朱雀三号火箭再传捷报” against primary-source evidence.
-
-5. [2026-06-29] 三星将在韩国投资2655万亿韩元扩大半导体等产业
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-29/doc-inifapyy3759785.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星将在韩国投资2655万亿韩元扩大半导体等产业” against primary-source evidence.
+5. [2026-06-29] 日本防卫省正考虑引进美企人工智能系统
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0K1K94J0534A4SC.html
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “日本防卫省正考虑引进美企人工智能系统” against primary-source evidence.
 
 本次新增线索：
-- 国产高端半导体检测设备正式发布：多项性能指标超越国际同类产品｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-29/doc-inifapyw6994155.shtml
-- 全球DRAM短缺催生百亿大单：长鑫存储获腾讯多年期服务器芯片订单｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-29/doc-inifaisy7069917.shtml
-- 从ROS依赖到自主开源根社区 中国机器人产业的底层突围丨新经济观察｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-29/doc-inifapys2146639.shtml
-- 完成静态点火试验！朱雀三号火箭再传捷报｜观察者网-产业科技｜https://www.guancha.cn/industry-science/2026_06_29_821987.shtml
-- “十五五”时期“双一流”高校本科招生数增加 10 万人以上，建设 200 所左右高水平应用型本科高校｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-06-29/doc-inifapyw7003399.shtml
+- 无界动力发布MWA™隐空间世界模型，登顶RoboCas｜网易科技｜https://www.163.com/dy/article/L0JPNRL70534A4SC.html
+- 完成静态点火试验，朱雀三号重复使用遥二运载火｜网易科技｜https://www.163.com/dy/article/L0JUF2DK0534A4SC.html
+- 谷歌云将提供用于科学研究的专业AI模型｜网易科技｜https://www.163.com/dy/article/L0K2PR2S0534A4SC.html
+- 日本防卫省正考虑引进美企人工智能系统｜网易科技｜https://www.163.com/dy/article/L0K1K94J0534A4SC.html
+- 全球AI大模型每周Token调用榜：智谱GLM-5.2调用量环比增长66%｜网易科技｜https://www.163.com/dy/article/L0JJ6Q0B0512B07B.html
 
 今日热点方向：
-- AI 应用：AI动态（22 条，7 个来源）
-- 芯片/半导体：半导体供应链（6 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（8 条，2 个来源）
+- AI 应用：AI动态（27 条，6 个来源）
+- 芯片/半导体：半导体供应链（10 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，4 个来源）
+- 新能源车/智能驾驶：新能源车动态（7 条，2 个来源）
 - 太空与低空经济：太空与低空动态（2 条，2 个来源）
 - 科学前沿：科学前沿动态（8 条，2 个来源）
 
