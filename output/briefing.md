@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/6/29 19:25:23
+生成时间：2026/6/30 07:45:49
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 30 条｜国际 0 条
-延续跟踪线索：国内 57 条｜国际 11 条
+新增核心线索：国内 13 条｜国际 6 条
+延续跟踪线索：国内 0 条｜国际 3 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-06-29] 无界动力发布MWA™隐空间世界模型，登顶RoboCas
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L0JPNRL70534A4SC.html
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “无界动力发布MWA™隐空间世界模型，登顶RoboCas” against primary-source evidence.
-
-2. [2026-06-29] 完成静态点火试验，朱雀三号重复使用遥二运载火
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L0JUF2DK0534A4SC.html
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “完成静态点火试验，朱雀三号重复使用遥二运载火” against primary-source evidence.
-
-3. [2026-06-29] 全球DRAM短缺催生百亿大单：长鑫存储获腾讯多年期服务器芯片订单
+1. [2026-06-30] 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-06-29/doc-inifaisy7069917.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “全球DRAM短缺催生百亿大单：长鑫存储获腾讯多年期服务器芯片订单” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml
+   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”” against primary-source evidence.
 
-4. [2026-06-29] 谷歌云将提供用于科学研究的专业AI模型
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L0K2PR2S0534A4SC.html
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌云将提供用于科学研究的专业AI模型” against primary-source evidence.
+2. [2026-06-30] 破纪录！IBM芯片塞进1000亿个晶体管
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “破纪录！IBM芯片塞进1000亿个晶体管” against primary-source evidence.
 
-5. [2026-06-29] 日本防卫省正考虑引进美企人工智能系统
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L0K1K94J0534A4SC.html
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “日本防卫省正考虑引进美企人工智能系统” against primary-source evidence.
+3. [2026-06-30] 中方将20家日本实体列入出口管制管控名单
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml
+   角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “中方将20家日本实体列入出口管制管控名单” against primary-source evidence.
+
+4. [2026-06-30] 特斯拉即将发布第二季度交付数据 这一关键数字备受关注
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml
+   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉即将发布第二季度交付数据 这一关键数字备受关注” against primary-source evidence.
+
+5. [2026-06-30] AI能源使用的环境成本：碳足迹、水足迹与土地足迹
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnk6791699.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI能源使用的环境成本：碳足迹、水足迹与土地足迹” against primary-source evidence.
 
 本次新增线索：
-- 无界动力发布MWA™隐空间世界模型，登顶RoboCas｜网易科技｜https://www.163.com/dy/article/L0JPNRL70534A4SC.html
-- 完成静态点火试验，朱雀三号重复使用遥二运载火｜网易科技｜https://www.163.com/dy/article/L0JUF2DK0534A4SC.html
-- 谷歌云将提供用于科学研究的专业AI模型｜网易科技｜https://www.163.com/dy/article/L0K2PR2S0534A4SC.html
-- 日本防卫省正考虑引进美企人工智能系统｜网易科技｜https://www.163.com/dy/article/L0K1K94J0534A4SC.html
-- 全球AI大模型每周Token调用榜：智谱GLM-5.2调用量环比增长66%｜网易科技｜https://www.163.com/dy/article/L0JJ6Q0B0512B07B.html
+- 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml
+- 破纪录！IBM芯片塞进1000亿个晶体管｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml
+- 中方将20家日本实体列入出口管制管控名单｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml
+- 特斯拉即将发布第二季度交付数据 这一关键数字备受关注｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml
+- AI能源使用的环境成本：碳足迹、水足迹与土地足迹｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnk6791699.shtml
+- How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793
 
 今日热点方向：
-- AI 应用：AI动态（27 条，6 个来源）
-- 芯片/半导体：半导体供应链（10 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（5 条，4 个来源）
-- 新能源车/智能驾驶：新能源车动态（7 条，2 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（8 条，2 个来源）
+- AI 应用：AI动态（2 条，2 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
+- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on｜TechCrunch｜https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
+1. How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793
 2. Ford rehires ‘gray beard’ engineers after AI falls short｜TechCrunch｜https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/
-3. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)｜TechCrunch｜https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/
-4. Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory｜WIRED Business｜https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/
-5. Why Wall Street thinks US memory maker Micron is the next Nvidia｜TechCrunch｜https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/
+3. Robot hand company settles Tesla trade secret suit and announces $11M raise｜TechCrunch｜https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/
+4. Anthropic gets U.S. clearance for limited release of Mythos｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-us-clearance-for-limited-release-of-mythos-161107334.html
+5. Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price｜TechCrunch｜https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
