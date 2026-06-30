@@ -1,73 +1,47 @@
 {
-  "generatedAt": "2026-06-29T23:45:49.263Z",
+  "generatedAt": "2026-06-30T00:16:05.773Z",
   "radarVersion": "v3",
   "targetDate": "2026-06-30",
   "changeSummary": {
-    "domesticNew": 13,
-    "globalNew": 6,
-    "domesticContinued": 0,
-    "globalContinued": 3,
+    "domesticNew": 6,
+    "globalNew": 0,
+    "domesticContinued": 13,
+    "globalContinued": 9,
     "topNewDomestic": [
       {
-        "title": "韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml"
+        "title": "中信建投：Figure03进入宝马工厂，关注人形机器",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L0LH0VDU0534A4SC.html"
       },
       {
-        "title": "破纪录！IBM芯片塞进1000亿个晶体管",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml"
+        "title": "“十五五”开局·创新看点丨西安加速迈向商业航天系统集成高地",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-06/30/content_539382.html"
       },
       {
-        "title": "中方将20家日本实体列入出口管制管控名单",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml"
+        "title": "教育发展“十五五”规划推进人工智能全学段教育 教育行业或迎全新成长机遇",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L0LI236V05198CJN.html"
       },
       {
-        "title": "特斯拉即将发布第二季度交付数据 这一关键数字备受关注",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml"
+        "title": "中金：SiC/GaN等核心第三代化合物半导体器件有望持续受益于数据中心电力相关系统升级",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L0LH4H9T0512B07B.html"
       },
       {
-        "title": "AI能源使用的环境成本：碳足迹、水足迹与土地足迹",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnk6791699.shtml"
+        "title": "DeepSeek V4正式版拟于7月中旬上线，引入峰谷定",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L0LHQM520512B07B.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "How the AI bubble could pop and take down the global economy, according to the BIS",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793"
-      },
-      {
-        "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"
-      },
-      {
-        "title": "Anthropic gets U.S. clearance for limited release of Mythos",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/article/anthropic-gets-us-clearance-for-limited-release-of-mythos-161107334.html"
-      },
-      {
-        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
-      },
-      {
-        "title": "Gemini’s personalized AI image generation is now free for US users",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 887,
+    "domesticRejected": 881,
     "globalRejected": 891,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,7 +56,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 26,
   "failedSources": [
     {
       "name": "财联社",
@@ -90,9 +64,29 @@
       "optional": true
     },
     {
+      "name": "量子位",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -117,9 +111,29 @@
       "optional": true
     },
     {
+      "name": "量子位",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -219,8 +233,9 @@
     {
       "name": "量子位",
       "tier": "industry",
-      "parsed": 36,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -240,8 +255,9 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -282,7 +298,7 @@
     {
       "name": "中国日报-科技",
       "tier": "mainstream",
-      "parsed": 49,
+      "parsed": 50,
       "failed": false,
       "optional": false
     },
@@ -305,14 +321,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -389,13 +407,13 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1358,
+  "itemsSeen": 1260,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 315,
-  "itemsAfterDedupe": 227,
-  "todayItemsSeen": 13,
-  "suspectedItemsSeen": 21,
-  "skippedNonToday": 193,
+  "itemsAfterRelevantFilter": 263,
+  "itemsAfterDedupe": 199,
+  "todayItemsSeen": 19,
+  "suspectedItemsSeen": 18,
+  "skippedNonToday": 161,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -478,8 +496,9 @@
     {
       "name": "量子位",
       "tier": "industry",
-      "parsed": 36,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -499,8 +518,9 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -541,7 +561,7 @@
     {
       "name": "中国日报-科技",
       "tier": "mainstream",
-      "parsed": 49,
+      "parsed": 50,
       "failed": false,
       "optional": false
     },
@@ -564,14 +584,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -807,9 +829,29 @@
       "optional": true
     },
     {
+      "name": "量子位",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -851,6 +893,20 @@
   "globalItemsAfterRelevantFilter": 95,
   "topics": [
     {
+      "topic": "AI动态",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "AI能源使用的环境成本：碳足迹、水足迹与土地足迹",
+        "教育发展“十五五”规划推进人工智能全学段教育 教育行业或迎全新成长机遇",
+        "国务院：深入实施“人工智能+”行动 促进智能产品和服务规模化商业应用"
+      ]
+    },
+    {
       "topic": "新能源车与智能驾驶",
       "count": 3,
       "sourceCount": 2,
@@ -865,7 +921,7 @@
       ]
     },
     {
-      "topic": "AI动态",
+      "topic": "国产 GPU / 算力基础设施",
       "count": 2,
       "sourceCount": 2,
       "sources": [
@@ -873,19 +929,46 @@
         "网易科技"
       ],
       "items": [
-        "AI能源使用的环境成本：碳足迹、水足迹与土地足迹",
-        "国务院：深入实施“人工智能+”行动 促进智能产品和服务规模化商业应用"
+        "韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”",
+        "中金：SiC/GaN等核心第三代化合物半导体器件有望持续受益于数据中心电力相关系统升级"
       ]
     },
     {
-      "topic": "国产 GPU / 算力基础设施",
-      "count": 1,
-      "sourceCount": 1,
+      "topic": "人形机器人与具身智能",
+      "count": 2,
+      "sourceCount": 2,
       "sources": [
+        "网易科技",
         "新浪科技"
       ],
       "items": [
-        "韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”"
+        "中信建投：Figure03进入宝马工厂，关注人形机器",
+        "特斯拉即将发布第二季度交付数据 这一关键数字备受关注"
+      ]
+    },
+    {
+      "topic": "商业航天与卫星互联网",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "科技日报",
+        "新浪科技"
+      ],
+      "items": [
+        "“十五五”开局·创新看点丨西安加速迈向商业航天系统集成高地",
+        "蓝箭航天：朱雀三号单发收入1.5亿元，预计2029年盈利"
+      ]
+    },
+    {
+      "topic": "科学前沿动态",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "科技日报"
+      ],
+      "items": [
+        "杨某诋毁袁隆平院士科研成果被刑事拘留",
+        "党旗在基层一线高高飘扬丨“想别人没想到的，做别人不敢做的”"
       ]
     },
     {
@@ -911,28 +994,6 @@
       ]
     },
     {
-      "topic": "人形机器人与具身智能",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "特斯拉即将发布第二季度交付数据 这一关键数字备受关注"
-      ]
-    },
-    {
-      "topic": "商业航天与卫星互联网",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "蓝箭航天：朱雀三号单发收入1.5亿元，预计2029年盈利"
-      ]
-    },
-    {
       "topic": "半导体供应链",
       "count": 1,
       "sourceCount": 1,
@@ -944,6 +1005,17 @@
       ]
     },
     {
+      "topic": "AI 应用与智能体",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "DeepSeek V4正式版拟于7月中旬上线，引入峰谷定"
+      ]
+    },
+    {
       "topic": "新能源车动态",
       "count": 1,
       "sourceCount": 1,
@@ -952,17 +1024,6 @@
       ],
       "items": [
         "买车要注意了！电动汽车两项安全新规明日起执行：电池不起火不爆炸"
-      ]
-    },
-    {
-      "topic": "科学前沿动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "科技日报"
-      ],
-      "items": [
-        "党旗在基层一线高高飘扬丨“想别人没想到的，做别人不敢做的”"
       ]
     }
   ],
@@ -1033,7 +1094,7 @@
       "relatedTitles": [
         "韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1101,7 +1162,7 @@
       "relatedTitles": [
         "破纪录！IBM芯片塞进1000亿个晶体管"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1168,6 +1229,74 @@
       "rawText": "据新华社电 商务部29日发布公告，决定将20家日本实体列入出口管制管控名单，将20家日本实体列入关注名单。 商务部新闻发言人当天对此回应表示，2026年2月24日，中方将三菱造船株式会社等20家日本实体列入出口管制管控名单，斯...",
       "relatedTitles": [
         "中方将20家日本实体列入出口管制管控名单"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "中信建投：Figure03进入宝马工厂，关注人形机器",
+      "summary": "中信建投：Figure03进入宝马工厂，关注人形机器人应用表现,宝马,中信建投,人工智能,知名企业,机器人公司,人形机器人",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L0LH0VDU0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L0LH0VDU0534A4SC.html"
+      ],
+      "publishedAt": "2026-06-30",
+      "date": "2026-06-30",
+      "category": "机器人",
+      "classificationConfidence": 0.69,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 170,
+      "reporterScore": 176,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “中信建投：Figure03进入宝马工厂，关注人形机器” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "中信建投：Figure03进入宝马工厂，关注人形机器人应用表现,宝马,中信建投,人工智能,知名企业,机器人公司,人形机器人",
+      "relatedTitles": [
+        "中信建投：Figure03进入宝马工厂，关注人形机器"
       ],
       "isNewSinceLastRun": true
     },
@@ -1237,7 +1366,7 @@
       "relatedTitles": [
         "特斯拉即将发布第二季度交付数据 这一关键数字备受关注"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1304,6 +1433,74 @@
       "rawText": "人工智能正在成为第四次工业革命的核心驱动力，但其高速扩张背后的资源消耗正在进入前所未有的规模。联合国大学环境与健康研究所报告显示，全球AI市场规模预计将从2023年的1890亿美元增长至2033年的近5万亿美元，十年增长约25倍。与此同时，...",
       "relatedTitles": [
         "AI能源使用的环境成本：碳足迹、水足迹与土地足迹"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "“十五五”开局·创新看点丨西安加速迈向商业航天系统集成高地",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 “十五五”开局·创新看点丨西安加速迈向商业航天系统集成高地 2026-06-30 08:03:50 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-06/30/content_539382.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-06/30/content_539382.html"
+      ],
+      "publishedAt": "2026-06-30",
+      "date": "2026-06-30",
+      "category": "太空与低空",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 168,
+      "reporterScore": 168,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind ““十五五”开局·创新看点丨西安加速迈向商业航天系统集成高地” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 “十五五”开局·创新看点丨西安加速迈向商业航天系统集成高地 2026-06-30 08:03:50 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "“十五五”开局·创新看点丨西安加速迈向商业航天系统集成高地"
       ],
       "isNewSinceLastRun": true
     },
@@ -1373,6 +1570,142 @@
       "relatedTitles": [
         "蓝箭航天：朱雀三号单发收入1.5亿元，预计2029年盈利"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "教育发展“十五五”规划推进人工智能全学段教育 教育行业或迎全新成长机遇",
+      "summary": "教育发展“十五五”规划推进人工智能全学段教育 教育行业或迎全新成长机遇,科学,人工智能,学大教育,教育发展“十五五”规划",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L0LI236V05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L0LI236V05198CJN.html"
+      ],
+      "publishedAt": "2026-06-30",
+      "date": "2026-06-30",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “教育发展“十五五”规划推进人工智能全学段教育 教育行业或迎全新成长机遇” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "教育发展“十五五”规划推进人工智能全学段教育 教育行业或迎全新成长机遇,科学,人工智能,学大教育,教育发展“十五五”规划",
+      "relatedTitles": [
+        "教育发展“十五五”规划推进人工智能全学段教育 教育行业或迎全新成长机遇"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "中金：SiC/GaN等核心第三代化合物半导体器件有望持续受益于数据中心电力相关系统升级",
+      "summary": "中金：SiC/GaN等核心第三代化合物半导体器件有望持续受益于数据中心电力相关系统升级,中金,电力,sic,gan,算力芯片,半导体器件,第三代化合物",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L0LH4H9T0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L0LH4H9T0512B07B.html"
+      ],
+      "publishedAt": "2026-06-30",
+      "date": "2026-06-30",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “中金：SiC/GaN等核心第三代化合物半导体器件有望持续受益于数据中心电力相关系统升级” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "中金：SiC/GaN等核心第三代化合物半导体器件有望持续受益于数据中心电力相关系统升级,中金,电力,sic,gan,算力芯片,半导体器件,第三代化合物",
+      "relatedTitles": [
+        "中金：SiC/GaN等核心第三代化合物半导体器件有望持续受益于数据中心电力相关系统升级"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1441,7 +1774,7 @@
       "relatedTitles": [
         "中国硬件科技股 正站在狂飙后的十字路口"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1508,6 +1841,142 @@
       "rawText": "国务院：深入实施“人工智能+”行动 促进智能产品和服务规模化商业应用,算法,国务院,盘和林,人工智能,智能产品,市场数字化领域",
       "relatedTitles": [
         "国务院：深入实施“人工智能+”行动 促进智能产品和服务规模化商业应用"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "DeepSeek V4正式版拟于7月中旬上线，引入峰谷定",
+      "summary": "DeepSeek V4正式版拟于7月中旬上线，引入峰谷定价机制，API高峰时段价格翻倍；涉嫌操纵DRAM价格及供应，三星、SK海力士和美光在美遭集体诉讼...,海力士,英伟达,台积电,hbm,dram,定价机制,美光科技,三星电子,知名企业,deepseek",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L0LHQM520512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L0LHQM520512B07B.html"
+      ],
+      "publishedAt": "2026-06-30",
+      "date": "2026-06-30",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “DeepSeek V4正式版拟于7月中旬上线，引入峰谷定” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "DeepSeek V4正式版拟于7月中旬上线，引入峰谷定价机制，API高峰时段价格翻倍；涉嫌操纵DRAM价格及供应，三星、SK海力士和美光在美遭集体诉讼...,海力士,英伟达,台积电,hbm,dram,定价机制,美光科技,三星电子,知名企业,deepseek",
+      "relatedTitles": [
+        "DeepSeek V4正式版拟于7月中旬上线，引入峰谷定"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "杨某诋毁袁隆平院士科研成果被刑事拘留",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 杨某诋毁袁隆平院士科研成果被刑事拘留 2026-06-30 08:01:34 来源: 公安部网安局微信公众号 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-06/30/content_539390.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-06/30/content_539390.html"
+      ],
+      "publishedAt": "2026-06-30",
+      "date": "2026-06-30",
+      "category": "科学前沿",
+      "classificationConfidence": 0.93,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “杨某诋毁袁隆平院士科研成果被刑事拘留” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 杨某诋毁袁隆平院士科研成果被刑事拘留 2026-06-30 08:01:34 来源: 公安部网安局微信公众号 点击数： 热点",
+      "relatedTitles": [
+        "杨某诋毁袁隆平院士科研成果被刑事拘留"
       ],
       "isNewSinceLastRun": true
     },
@@ -1577,7 +2046,7 @@
       "relatedTitles": [
         "缩短账期风吹到电池链：行业倡议最长60天！宁德时代等表态"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1645,7 +2114,7 @@
       "relatedTitles": [
         "买车要注意了！电动汽车两项安全新规明日起执行：电池不起火不爆炸"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1713,7 +2182,7 @@
       "relatedTitles": [
         "党旗在基层一线高高飘扬丨“想别人没想到的，做别人不敢做的”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1781,7 +2250,7 @@
       "relatedTitles": [
         "优步与Waymo终止亚利桑那州凤凰城的自动驾驶合作项目"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1849,144 +2318,10 @@
       "relatedTitles": [
         "七月起汽车安全新国标正式实施，比亚迪注册迪迪"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "MEET大会",
-      "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/meet/meet2026/",
-      "sourceUrls": [
-        "https://www.qbitai.com/meet/meet2026/"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 180,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MEET大会” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势。量子位在会上发布了「2025人工智能年度榜单」与「2025年度AI十大趋势报告」。 大会直播回顾 MEET2025 回顾 MEET2024 回顾 MEET2023 回顾 特邀嘉宾 &times; 重磅发布 2025人工智能年度榜单 我们希望为关注前沿科技创新的人提供一个独立的第三方参照系 为在技术与产业一线摸索前行的团队加一份笃定 为仍在押注长期主义的建设者刻下年度坐标 2025年度AI十大趋势报告 报告由量子位智库打造 基于对全球AI技术发展、产业应用和社会影响的深度调研与分析 全面呈现了人工智能领域的最新现状与未来发展趋势 独家观点 张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 百",
-      "relatedTitles": [
-        "MEET大会"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "全球首款含铜钛合金骨针获批上市",
-      "summary": "首页 中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析 分享到： 大脑是一个极其精密的信息处理系统，神经元则是其基本计算单元。要理解大脑，不仅要知道神经元“在做什么”（功能），还要知道它“长什么样、怎么连接”（结构）以及“由什么构成”（分子）。然而，这三类信息长期来自不同实验体系，难以整合。 微信公众号“脑科",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/cg/zh/202604/t20260429_5108364.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/cg/zh/202604/t20260429_5108364.shtml"
-      ],
-      "publishedAt": "2026-04-29",
-      "date": "2026-04-29",
-      "category": "科学前沿",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 178,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 18,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 12,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": true,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 120
-      },
-      "isPrimarySource": true,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “全球首款含铜钛合金骨针获批上市” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "首页 > 成果转化 > 工作动态 4月21日，由中国科学院金属研究所与苏州森锋医疗器械有限公司联合研发的全球首款具有抗菌功能的含铜钛合金骨针产品，获得国家药品监督管理局批准，取得中华人民共和国医疗器械注册证，正式上市。 钛合金因其优异的力学性能和生物相容性，已成为骨科、口腔等植入器械的主流材料，其中钛合金骨针是使用最为广泛的器械之一，用于骨折手术中穿过骨骼起到固定作用。 该产品打破了传统骨科植入金属材料生物惰性的应用局限，实现了抗菌型功能化医用钛合金从基础研究到骨科临床器械应用的突破。 4月21日，由中国科学院金属研究所与苏州森锋医疗器械有限公司联合研发的全球首款具有抗菌功能的含铜钛合金骨针产品，获得国家药品监督管理局批准，取得中华人民共和国医疗器械注册证，正式上市。钛合金因其优异的力学性能和生物相容性，已成为骨科、口腔等植入器械的主流材料，其中钛合金骨针是使用最为广泛的器械之一，用于骨折手术中穿过骨骼起到固定作用。该产品打破了传统骨科植入金属材料生物惰性的应用局限，实现了抗菌型功能化医用钛合金从基础研究到骨科临床器械应用的突破。",
-      "relatedTitles": [
-        "全球首款含铜钛合金骨针获批上市"
-      ]
-    },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "又拿“国安”当借口，美国政府首次要求AI公司限量发布模型",
@@ -2256,73 +2591,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "世界杯32强12大AI预测成绩放榜：腾讯夺冠，deepseek 仅列第四",
-      "summary": "Deepseek DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手 原本4亿+token、61美元的账单，直降至12美元 鱼羊 前天 12:40 Deepseek Harness DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI 梁文锋承诺坚持开源路线 听雨 2",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tob/2026-06-28/doc-inieykzq6060767.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tob/2026-06-28/doc-inieykzq6060767.shtml"
-      ],
-      "publishedAt": "2026-06-28",
-      "date": "2026-06-28",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 148,
-      "reporterScore": 156,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “世界杯32强12大AI预测成绩放榜：腾讯夺冠，deepseek 仅列第四” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "世界杯32强全部出炉，联想集体×咪咕视频“世界杯预测人机大战”也迎来了阶段性大结算——12家大模型的32强预测成绩正式揭晓。 这场预测比拼的核心考题《2026世界杯32强竞猜统一考试》答题卡，于5月28日正式上线发布，是本次人机大战...",
-      "relatedTitles": [
-        "世界杯32强12大AI预测成绩放榜：腾讯夺冠，deepseek 仅列第四"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "我国科研机构主导的大模型成果首次登上Nature",
       "summary": "整个AI领域过去五年来悬而未决的核心命题，“我们能否用一种统一的方式，让机器同时学会看、听、说、写，乃至行动？”，其复杂程度足以让全球顶尖的AI实验室争论不休。",
@@ -2524,73 +2792,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "明略科技(2718.HK)正式开源发布 Octo，构建人与",
-      "summary": "Stripe “词元盗用”正在成为AI商业化面临的新风险 有人盯上的不是钱，而是 Token 量子位 27分钟前 Stripe 数据安全 词元 Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施 Stripe推出由 Link 驱动的智能体钱包 量子位 2026-04-30 AI经济基础设施 Strip",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L0K1RKLM0534A4SC.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L0K1RKLM0534A4SC.html"
-      ],
-      "publishedAt": "2026-06-29",
-      "date": "2026-06-29",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 147,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “明略科技(2718.HK)正式开源发布 Octo，构建人与” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "明略科技(2718.HK)正式开源发布 Octo，构建人与 AI Agent 协作的新一代工作平台,octo,明略科技,agent,高吞吐量内核",
-      "relatedTitles": [
-        "明略科技(2718.HK)正式开源发布 Octo，构建人与"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "离职后声音被用于AI配音，员工起诉前司，法院：侵权",
       "summary": "首页 离职后声音被用于AI配音，员工起诉前司，法院：侵权 分享到： 当录制的声音素材被AI训练、合成出的“新声音”是否还受法律保护？用人单位享有录音制品著作权，就可以不经许可，将离职员工的声源数据用于AI配音吗？ 微信公众号“杭州中院”6月25日消息，近日，浙江省杭州市滨江区人民法院审结一起离职员工声音被AI化使用的人",
@@ -2722,6 +2923,73 @@
       "rawText": "高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰，以台积电熊本工厂为锚点——正在从多个维度遭遇严峻挑战。这位日本首位女首相的芯片野心，很可能正在走向一场代价高昂的落空。",
       "relatedTitles": [
         "高市早苗的芯片迷梦"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析",
+      "summary": "首页 中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析 分享到： 大脑是一个极其精密的信息处理系统，神经元则是其基本计算单元。要理解大脑，不仅要知道神经元“在做什么”（功能），还要知道它“长什么样、怎么连接”（结构）以及“由什么构成”（分子）。然而，这三类信息长期来自不同实验体系，难以整合。 微信公众号“脑科",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2026_06_19_820971.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2026_06_19_820971.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "科学前沿",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 4,
+      "score": 134,
+      "reporterScore": 150,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "首页 中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析 分享到： 大脑是一个极其精密的信息处理系统，神经元则是其基本计算单元。要理解大脑，不仅要知道神经元“在做什么”（功能），还要知道它“长什么样、怎么连接”（结构）以及“由什么构成”（分子）。然而，这三类信息长期来自不同实验体系，难以整合。 微信公众号“脑科学与智能技术卓越创新中心”6月18日消息，如今，中国科学院脑科学与智能技术卓越创新中心的研究团队成功突破这一瓶颈。2026年6月18日23点，Cell在线发表题为“Multimodal imaging of gene expression, morphology, and activity of the same neuron”的研究论文。 该研究由中国科学院脑科学与智能技术卓越创新中心王凯研究团队和徐圣进研究团队联合攻关完成。研究团队自主研发了基于成像的多模态解析平台Imaging-based Multimodal Characterization（IMC），首次实现了对同一神经元在体钙活动、全脑投射形态与 3D 原位基因表达谱的高精度整合解析。 该工作突破了长期存在的",
+      "relatedTitles": [
+        "中国脑科学研究新突破：世界首次实现同一神经元三模态整合解析"
       ]
     },
     {
@@ -3265,7 +3533,7 @@
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "How the AI bubble could pop and take down the global economy, according to the BIS",
-      "summary": "Central bank for central banks sees shades of dotcom mania in hyperscaler capex binge",
+      "summary": "Are we human?",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793",
       "publishedAt": "Mon, 29 Jun 2026 19:55:00 +0200",
@@ -3292,7 +3560,7 @@
         "reporterScore": 125
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3356,135 +3624,7 @@
         "reporterScore": 93
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic gets U.S. clearance for limited release of Mythos",
-      "summary": "Anthropic had been in discussions with the Trump administration to resolve the ban.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/article/anthropic-gets-us-clearance-for-limited-release-of-mythos-161107334.html",
-      "publishedAt": "2026-06-30",
-      "date": "2026-06-30",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 75,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic gets U.S. clearance for limited release of Mythos” against primary-source evidence.",
-      "priority": 5,
-      "score": 147,
-      "reporterScore": 147,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "summary": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "publishedAt": "Mon, 29 Jun 2026 18:10:26 +0000",
-      "date": "2026-06-29",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic and Gov. Newsom forge deal allowing California government to u” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connec",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "publishedAt": "Mon, 29 Jun 2026 20:12:59 +0000",
-      "date": "2026-06-29",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Gemini’s personalized AI image generation is now free for US users” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google limited Meta's use of Gemini AI",
-      "summary": "Meta doesn't have its own cloud business and is racing to catch up in the AI boom.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/article/google-limited-metas-use-of-gemini-ai-210255599.html",
-      "publishedAt": "2026-06-30",
-      "date": "2026-06-30",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google limited Meta's use of Gemini AI” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3520,6 +3660,134 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic gets U.S. clearance for limited release of Mythos",
+      "summary": "Anthropic had been in discussions with the Trump administration to resolve the ban.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/article/anthropic-gets-us-clearance-for-limited-release-of-mythos-161107334.html",
+      "publishedAt": "2026-06-30",
+      "date": "2026-06-30",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 75,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic gets U.S. clearance for limited release of Mythos” against primary-source evidence.",
+      "priority": 5,
+      "score": 147,
+      "reporterScore": 147,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "summary": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "publishedAt": "Mon, 29 Jun 2026 18:10:26 +0000",
+      "date": "2026-06-29",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic and Gov. Newsom forge deal allowing California government to u” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connec",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "publishedAt": "Mon, 29 Jun 2026 20:12:59 +0000",
+      "date": "2026-06-29",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Gemini’s personalized AI image generation is now free for US users” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google limited Meta's use of Gemini AI",
+      "summary": "Meta doesn't have its own cloud business and is racing to catch up in the AI boom.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/article/google-limited-metas-use-of-gemini-ai-210255599.html",
+      "publishedAt": "2026-06-30",
+      "date": "2026-06-30",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google limited Meta's use of Gemini AI” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "South Korea says Samsung and SK Hynix investing in AI, semiconductor mega-projects",
       "summary": "Shares of Samsung Electronics and SK Hynix declined after South Korea unveiled sweeping artificial intelligence and semiconductor mega-projects.",
       "source": "CNBC Technology",
@@ -3551,8 +3819,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-30｜V3\n生成时间：2026/6/30 07:45:49\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2567｜确认今日 13｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-30] 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”” against primary-source evidence.\n\n2. [2026-06-30] 破纪录！IBM芯片塞进1000亿个晶体管\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “破纪录！IBM芯片塞进1000亿个晶体管” against primary-source evidence.\n\n3. [2026-06-30] 中方将20家日本实体列入出口管制管控名单\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml\n   报道角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “中方将20家日本实体列入出口管制管控名单” against primary-source evidence.\n\n4. [2026-06-30] 特斯拉即将发布第二季度交付数据 这一关键数字备受关注\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉即将发布第二季度交付数据 这一关键数字备受关注” against primary-source evidence.\n\n5. [2026-06-30] AI能源使用的环境成本：碳足迹、水足迹与土地足迹\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnk6791699.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI能源使用的环境成本：碳足迹、水足迹与土地足迹” against primary-source evidence.\n\n本次新增线索：\n- 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml\n- 破纪录！IBM芯片塞进1000亿个晶体管｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml\n- 中方将20家日本实体列入出口管制管控名单｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml\n- 特斯拉即将发布第二季度交付数据 这一关键数字备受关注｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml\n- AI能源使用的环境成本：碳足迹、水足迹与土地足迹｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnk6791699.shtml\n- How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n2. Ford rehires ‘gray beard’ engineers after AI falls short｜TechCrunch｜https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/\n3. Robot hand company settles Tesla trade secret suit and announces $11M raise｜TechCrunch｜https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/\n4. Anthropic gets U.S. clearance for limited release of Mythos｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-us-clearance-for-limited-release-of-mythos-161107334.html\n5. Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price｜TechCrunch｜https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-30｜V3\n生成时间：2026/6/30 07:45:49\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2567｜确认今日 13｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-30] 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”” against primary-source evidence.\n\n2. [2026-06-30] 破纪录！IBM芯片塞进1000亿个晶体管\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “破纪录！IBM芯片塞进1000亿个晶体管” against primary-source evidence.\n\n3. [2026-06-30] 中方将20家日本实体列入出口管制管控名单\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml\n   报道角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “中方将20家日本实体列入出口管制管控名单” against primary-source evidence.\n\n4. [2026-06-30] 特斯拉即将发布第二季度交付数据 这一关键数字备受关注\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉即将发布第二季度交付数据 这一关键数字备受关注” against primary-source evidence.\n\n5. [2026-06-30] AI能源使用的环境成本：碳足迹、水足迹与土地足迹\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnk6791699.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI能源使用的环境成本：碳足迹、水足迹与土地足迹” against primary-source evidence.\n\n本次新增线索：\n- 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml\n- 破纪录！IBM芯片塞进1000亿个晶体管｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml\n- 中方将20家日本实体列入出口管制管控名单｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml\n- 特斯拉即将发布第二季度交付数据 这一关键数字备受关注｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml\n- AI能源使用的环境成本：碳足迹、水足迹与土地足迹｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnk6791699.shtml\n- How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n2. Ford rehires ‘gray beard’ engineers after AI falls short｜TechCrunch｜https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/\n3. Robot hand company settles Tesla trade secret suit and announces $11M raise｜TechCrunch｜https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/\n4. Anthropic gets U.S. clearance for limited release of Mythos｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-us-clearance-for-limited-release-of-mythos-161107334.html\n5. Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price｜TechCrunch｜https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-30｜生成时间：2026/6/30 07:45:49｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2567｜确认今日 13｜国际背景 9</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 13 条｜国际 6 条<br>延续跟踪线索：国内 0 条｜国际 3 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-30] 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”</strong>\n      <span>新浪科技｜2026-06-30｜<a href=\"https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-30] 破纪录！IBM芯片塞进1000亿个晶体管</strong>\n      <span>新浪科技｜2026-06-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “破纪录！IBM芯片塞进1000亿个晶体管” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-30] 中方将20家日本实体列入出口管制管控名单</strong>\n      <span>新浪科技｜2026-06-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：190｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “中方将20家日本实体列入出口管制管控名单” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-30] 特斯拉即将发布第二季度交付数据 这一关键数字备受关注</strong>\n      <span>新浪科技｜2026-06-30｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：187｜需核验来源</span>\n      <p>报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉即将发布第二季度交付数据 这一关键数字备受关注” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-30] AI能源使用的环境成本：碳足迹、水足迹与土地足迹</strong>\n      <span>新浪科技｜2026-06-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnk6791699.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI能源使用的环境成本：碳足迹、水足迹与土地足迹” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. How the AI bubble could pop and take down the global economy, according to the BIS</strong>\n      <span>时间：Mon, 29 Jun 2026 19:55:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “How the AI bubble could pop and take down the global economy, according ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Ford rehires ‘gray beard’ engineers after AI falls short</strong>\n      <span>时间：Sun, 28 Jun 2026 19:05:39 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Ford rehires ‘gray beard’ engineers after AI falls short” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Robot hand company settles Tesla trade secret suit and announces $11M raise</strong>\n      <span>时间：Mon, 29 Jun 2026 14:00:08 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Robot hand company settles Tesla trade secret suit and announces $11M ra” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Anthropic gets U.S. clearance for limited release of Mythos</strong>\n      <span>时间：2026-06-30｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/article/anthropic-gets-us-clearance-for-limited-release-of-mythos-161107334.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic gets U.S. clearance for limited release of Mythos” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price</strong>\n      <span>时间：Mon, 29 Jun 2026 18:10:26 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic and Gov. Newsom forge deal allowing California government to u” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/30 07:45:49\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-30] 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml\n   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”” against primary-source evidence.\n\n2. [2026-06-30] 破纪录！IBM芯片塞进1000亿个晶体管\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “破纪录！IBM芯片塞进1000亿个晶体管” against primary-source evidence.\n\n3. [2026-06-30] 中方将20家日本实体列入出口管制管控名单\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml\n   角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “中方将20家日本实体列入出口管制管控名单” against primary-source evidence.\n\n4. [2026-06-30] 特斯拉即将发布第二季度交付数据 这一关键数字备受关注\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml\n   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉即将发布第二季度交付数据 这一关键数字备受关注” against primary-source evidence.\n\n5. [2026-06-30] AI能源使用的环境成本：碳足迹、水足迹与土地足迹\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnk6791699.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI能源使用的环境成本：碳足迹、水足迹与土地足迹” against primary-source evidence.\n\n本次新增线索：\n- 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml\n- 破纪录！IBM芯片塞进1000亿个晶体管｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml\n- 中方将20家日本实体列入出口管制管控名单｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml\n- 特斯拉即将发布第二季度交付数据 这一关键数字备受关注｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml\n- AI能源使用的环境成本：碳足迹、水足迹与土地足迹｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnk6791699.shtml\n- How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n2. Ford rehires ‘gray beard’ engineers after AI falls short｜TechCrunch｜https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/\n3. Robot hand company settles Tesla trade secret suit and announces $11M raise｜TechCrunch｜https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/\n4. Anthropic gets U.S. clearance for limited release of Mythos｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-us-clearance-for-limited-release-of-mythos-161107334.html\n5. Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price｜TechCrunch｜https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-30｜V3\n生成时间：2026/6/30 08:16:05\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2469｜确认今日 19｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 13 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-30] 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”” against primary-source evidence.\n\n2. [2026-06-30] 破纪录！IBM芯片塞进1000亿个晶体管\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “破纪录！IBM芯片塞进1000亿个晶体管” against primary-source evidence.\n\n3. [2026-06-30] 中方将20家日本实体列入出口管制管控名单\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml\n   报道角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “中方将20家日本实体列入出口管制管控名单” against primary-source evidence.\n\n4. [2026-06-30] 中信建投：Figure03进入宝马工厂，关注人形机器\n   网易科技｜2026-06-30｜https://www.163.com/dy/article/L0LH0VDU0534A4SC.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “中信建投：Figure03进入宝马工厂，关注人形机器” against primary-source evidence.\n\n5. [2026-06-30] 特斯拉即将发布第二季度交付数据 这一关键数字备受关注\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉即将发布第二季度交付数据 这一关键数字备受关注” against primary-source evidence.\n\n本次新增线索：\n- 中信建投：Figure03进入宝马工厂，关注人形机器｜网易科技｜https://www.163.com/dy/article/L0LH0VDU0534A4SC.html\n- “十五五”开局·创新看点丨西安加速迈向商业航天系统集成高地｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/30/content_539382.html\n- 教育发展“十五五”规划推进人工智能全学段教育 教育行业或迎全新成长机遇｜网易科技｜https://www.163.com/dy/article/L0LI236V05198CJN.html\n- 中金：SiC/GaN等核心第三代化合物半导体器件有望持续受益于数据中心电力相关系统升级｜网易科技｜https://www.163.com/dy/article/L0LH4H9T0512B07B.html\n- DeepSeek V4正式版拟于7月中旬上线，引入峰谷定｜网易科技｜https://www.163.com/dy/article/L0LHQM520512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：商业航天与卫星互联网（2 条，2 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n2. Ford rehires ‘gray beard’ engineers after AI falls short｜TechCrunch｜https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/\n3. Robot hand company settles Tesla trade secret suit and announces $11M raise｜TechCrunch｜https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/\n4. Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory｜WIRED Business｜https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/\n5. Anthropic gets U.S. clearance for limited release of Mythos｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-us-clearance-for-limited-release-of-mythos-161107334.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-06-30｜V3\n生成时间：2026/6/30 08:16:05\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2469｜确认今日 19｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 13 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-30] 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”” against primary-source evidence.\n\n2. [2026-06-30] 破纪录！IBM芯片塞进1000亿个晶体管\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “破纪录！IBM芯片塞进1000亿个晶体管” against primary-source evidence.\n\n3. [2026-06-30] 中方将20家日本实体列入出口管制管控名单\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml\n   报道角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “中方将20家日本实体列入出口管制管控名单” against primary-source evidence.\n\n4. [2026-06-30] 中信建投：Figure03进入宝马工厂，关注人形机器\n   网易科技｜2026-06-30｜https://www.163.com/dy/article/L0LH0VDU0534A4SC.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “中信建投：Figure03进入宝马工厂，关注人形机器” against primary-source evidence.\n\n5. [2026-06-30] 特斯拉即将发布第二季度交付数据 这一关键数字备受关注\n   新浪科技｜2026-06-30｜https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉即将发布第二季度交付数据 这一关键数字备受关注” against primary-source evidence.\n\n本次新增线索：\n- 中信建投：Figure03进入宝马工厂，关注人形机器｜网易科技｜https://www.163.com/dy/article/L0LH0VDU0534A4SC.html\n- “十五五”开局·创新看点丨西安加速迈向商业航天系统集成高地｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/30/content_539382.html\n- 教育发展“十五五”规划推进人工智能全学段教育 教育行业或迎全新成长机遇｜网易科技｜https://www.163.com/dy/article/L0LI236V05198CJN.html\n- 中金：SiC/GaN等核心第三代化合物半导体器件有望持续受益于数据中心电力相关系统升级｜网易科技｜https://www.163.com/dy/article/L0LH4H9T0512B07B.html\n- DeepSeek V4正式版拟于7月中旬上线，引入峰谷定｜网易科技｜https://www.163.com/dy/article/L0LHQM520512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：商业航天与卫星互联网（2 条，2 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n2. Ford rehires ‘gray beard’ engineers after AI falls short｜TechCrunch｜https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/\n3. Robot hand company settles Tesla trade secret suit and announces $11M raise｜TechCrunch｜https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/\n4. Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory｜WIRED Business｜https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/\n5. Anthropic gets U.S. clearance for limited release of Mythos｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-us-clearance-for-limited-release-of-mythos-161107334.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-06-30｜生成时间：2026/6/30 08:16:05｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2469｜确认今日 19｜国际背景 9</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 0 条<br>延续跟踪线索：国内 13 条｜国际 9 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-06-30] 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”</strong>\n      <span>新浪科技｜2026-06-30｜<a href=\"https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-06-30] 破纪录！IBM芯片塞进1000亿个晶体管</strong>\n      <span>新浪科技｜2026-06-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “破纪录！IBM芯片塞进1000亿个晶体管” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-06-30] 中方将20家日本实体列入出口管制管控名单</strong>\n      <span>新浪科技｜2026-06-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：190｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “中方将20家日本实体列入出口管制管控名单” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-06-30] 中信建投：Figure03进入宝马工厂，关注人形机器</strong>\n      <span>网易科技｜2026-06-30｜<a href=\"https://www.163.com/dy/article/L0LH0VDU0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “中信建投：Figure03进入宝马工厂，关注人形机器” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-06-30] 特斯拉即将发布第二季度交付数据 这一关键数字备受关注</strong>\n      <span>新浪科技｜2026-06-30｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：187｜需核验来源</span>\n      <p>报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉即将发布第二季度交付数据 这一关键数字备受关注” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. How the AI bubble could pop and take down the global economy, according to the BIS</strong>\n      <span>时间：Mon, 29 Jun 2026 19:55:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “How the AI bubble could pop and take down the global economy, according ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Ford rehires ‘gray beard’ engineers after AI falls short</strong>\n      <span>时间：Sun, 28 Jun 2026 19:05:39 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Ford rehires ‘gray beard’ engineers after AI falls short” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Robot hand company settles Tesla trade secret suit and announces $11M raise</strong>\n      <span>时间：Mon, 29 Jun 2026 14:00:08 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Robot hand company settles Tesla trade secret suit and announces $11M ra” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory</strong>\n      <span>时间：Mon, 29 Jun 2026 09:00:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Anthropic gets U.S. clearance for limited release of Mythos</strong>\n      <span>时间：2026-06-30｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/article/anthropic-gets-us-clearance-for-limited-release-of-mythos-161107334.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic gets U.S. clearance for limited release of Mythos” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/6/30 08:16:05\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 13 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-06-30] 韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcrnk6818327.shtml\n   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “韩国万亿“芯”基建拆解：存储行业能否建成AI时代“油田”” against primary-source evidence.\n\n2. [2026-06-30] 破纪录！IBM芯片塞进1000亿个晶体管\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcrnn3569383.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “破纪录！IBM芯片塞进1000亿个晶体管” against primary-source evidence.\n\n3. [2026-06-30] 中方将20家日本实体列入出口管制管控名单\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifcews3681647.shtml\n   角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “中方将20家日本实体列入出口管制管控名单” against primary-source evidence.\n\n4. [2026-06-30] 中信建投：Figure03进入宝马工厂，关注人形机器\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0LH0VDU0534A4SC.html\n   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “中信建投：Figure03进入宝马工厂，关注人形机器” against primary-source evidence.\n\n5. [2026-06-30] 特斯拉即将发布第二季度交付数据 这一关键数字备受关注\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml\n   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉即将发布第二季度交付数据 这一关键数字备受关注” against primary-source evidence.\n\n本次新增线索：\n- 中信建投：Figure03进入宝马工厂，关注人形机器｜网易科技｜https://www.163.com/dy/article/L0LH0VDU0534A4SC.html\n- “十五五”开局·创新看点丨西安加速迈向商业航天系统集成高地｜科技日报｜https://www.stdaily.com/web/gdxw/2026-06/30/content_539382.html\n- 教育发展“十五五”规划推进人工智能全学段教育 教育行业或迎全新成长机遇｜网易科技｜https://www.163.com/dy/article/L0LI236V05198CJN.html\n- 中金：SiC/GaN等核心第三代化合物半导体器件有望持续受益于数据中心电力相关系统升级｜网易科技｜https://www.163.com/dy/article/L0LH4H9T0512B07B.html\n- DeepSeek V4正式版拟于7月中旬上线，引入峰谷定｜网易科技｜https://www.163.com/dy/article/L0LHQM520512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：商业航天与卫星互联网（2 条，2 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n国际科技背景：\n1. How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n2. Ford rehires ‘gray beard’ engineers after AI falls short｜TechCrunch｜https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/\n3. Robot hand company settles Tesla trade secret suit and announces $11M raise｜TechCrunch｜https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/\n4. Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory｜WIRED Business｜https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/\n5. Anthropic gets U.S. clearance for limited release of Mythos｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-us-clearance-for-limited-release-of-mythos-161107334.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
