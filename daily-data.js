@@ -1,64 +1,44 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-06-30T23:54:18.087Z",
+  "generatedAt": "2026-07-01T00:17:41.818Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-01",
   "changeSummary": {
-    "domesticNew": 18,
-    "globalNew": 15,
-    "domesticContinued": 0,
-    "globalContinued": 3,
+    "domesticNew": 4,
+    "globalNew": 2,
+    "domesticContinued": 18,
+    "globalContinued": 18,
     "topNewDomestic": [
       {
-        "title": "影响市场重大事件：美国拟发射航天器“托举”天文卫星",
+        "title": "华泰证券：韩国1.3万亿美元战略落地，聚焦存储",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L0NVDBFK0512B07B.html"
+        "url": "https://www.163.com/dy/article/L0O4AEB90534A4SC.html"
       },
       {
-        "title": "NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/970/801.htm"
-      },
-      {
-        "title": "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-07-01/doc-iniffytk3155554.shtml"
-      },
-      {
-        "title": "三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0",
+        "title": "优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L0NO3I2R0512B07B.html"
+        "url": "https://www.163.com/dy/article/L0O3STLT05198CJN.html"
       },
       {
-        "title": "凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用",
+        "title": "钼价高位运行达近三年高点 “以钼代钨”实现“高端半导体战略材料”属性切换",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L0N8RVR805198CJN.html"
+        "url": "https://www.163.com/dy/article/L0O3LNGM05198CJN.html"
+      },
+      {
+        "title": "八部门发布《实施意见》：加速释放工业互联网乘数效应",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-07/01/content_540034.html"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-        "source": "WIRED Business",
-        "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/"
+        "title": "How the AI bubble could pop and take down the global economy, according to the BIS",
+        "source": "The Register",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793"
       },
       {
-        "title": "Tesla starts testing Cybercab without pedals or a steering wheel in Austin",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/"
-      },
-      {
-        "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"
-      },
-      {
-        "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/"
-      },
-      {
-        "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/"
+        "title": "No more Java refills for Intel Macs after JDK 27, says Oracle",
+        "source": "The Register",
+        "url": "https://www.theregister.com/software/2026/06/30/no-more-java-refills-for-intel-macs-after-jdk-27-says-oracle/5263667"
       }
     ],
     "hasPrevious": true
@@ -67,8 +47,8 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 882,
-    "globalRejected": 882,
+    "domesticRejected": 878,
+    "globalRejected": 880,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,13 +62,8 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -111,11 +86,6 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "failures": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -191,8 +161,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -391,11 +360,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "itemsSeen": 1366,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 341,
-  "itemsAfterDedupe": 231,
-  "todayItemsSeen": 18,
+  "itemsAfterRelevantFilter": 337,
+  "itemsAfterDedupe": 223,
+  "todayItemsSeen": 22,
   "suspectedItemsSeen": 20,
-  "skippedNonToday": 193,
+  "skippedNonToday": 181,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -450,8 +419,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -688,7 +656,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "Yahoo News Technology",
       "tier": "international",
-      "parsed": 237,
+      "parsed": 238,
       "failed": false,
       "optional": false
     },
@@ -716,7 +684,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 0,
+      "parsed": 50,
       "failed": false,
       "optional": false
     },
@@ -802,11 +770,6 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -846,9 +809,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1165,
+  "globalItemsSeen": 1216,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 124,
+  "globalItemsAfterRelevantFilter": 102,
   "topics": [
     {
       "topic": "新能源车动态",
@@ -866,6 +829,20 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "人形机器人与具身智能",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点",
+        "进厂干活前先上学！谷歌投资的Apptronik打造了一所机器人学校",
+        "中国光谷具身智能产教融合联盟成立"
+      ]
+    },
+    {
       "topic": "AI动态",
       "count": 3,
       "sourceCount": 2,
@@ -877,6 +854,19 @@ window.CHENCHEN_DAILY_DATA = {
         "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈",
         "三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0",
         "Meta CEO 扎克伯格：我不认为 AI 必然会带来大规模失业"
+      ]
+    },
+    {
+      "topic": "数字基础设施与数据要素",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "科技日报"
+      ],
+      "items": [
+        "影响市场重大事件：美国拟发射航天器“托举”天文卫星",
+        "八部门发布《实施意见》：加速释放工业互联网乘数效应"
       ]
     },
     {
@@ -906,26 +896,16 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "人形机器人与具身智能",
-      "count": 2,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "进厂干活前先上学！谷歌投资的Apptronik打造了一所机器人学校",
-        "中国光谷具身智能产教融合联盟成立"
-      ]
-    },
-    {
-      "topic": "数字基础设施与数据要素",
-      "count": 1,
+      "topic": "半导体供应链",
+      "count": 3,
       "sourceCount": 1,
       "sources": [
         "网易科技"
       ],
       "items": [
-        "影响市场重大事件：美国拟发射航天器“托举”天文卫星"
+        "华泰证券：韩国1.3万亿美元战略落地，聚焦存储",
+        "凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用",
+        "钼价高位运行达近三年高点 “以钼代钨”实现“高端半导体战略材料”属性切换"
       ]
     },
     {
@@ -937,17 +917,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车"
-      ]
-    },
-    {
-      "topic": "半导体供应链",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用"
       ]
     },
     {
@@ -1040,6 +1009,74 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "影响市场重大事件：美国拟发射航天器“托举”天文卫星"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "华泰证券：韩国1.3万亿美元战略落地，聚焦存储",
+      "summary": "华泰证券：韩国1.3万亿美元战略落地，聚焦存储周期下全球半导体设备企业卡位,韩国,三星,崔泰源,李在镕,华泰证券,知名企业,半导体设备,半导体行业",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L0O4AEB90534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L0O4AEB90534A4SC.html"
+      ],
+      "publishedAt": "2026-07-01",
+      "date": "2026-07-01",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “华泰证券：韩国1.3万亿美元战略落地，聚焦存储” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "华泰证券：韩国1.3万亿美元战略落地，聚焦存储周期下全球半导体设备企业卡位,韩国,三星,崔泰源,李在镕,华泰证券,知名企业,半导体设备,半导体行业",
+      "relatedTitles": [
+        "华泰证券：韩国1.3万亿美元战略落地，聚焦存储"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1107,6 +1144,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "NASA 宣布向 Astrobotic、Firefly Aerospace 和 Intuitive Machines 三家公司授予总价值约 5.9 亿美元的月球着陆器合同，以支持其在 2030 年前建立月球基地的计划。其中 Astrobotic 将发射“游隼”号升级版着陆器，并考虑将火星探测车测试版“Promise”月球车送上月球。 #商业航天# #NASA登月计划#",
       "relatedTitles": [
         "NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点",
+      "summary": "优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点,优必选,智能机器人,仿生机器人,工业机器人,人形机器人",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L0O3STLT05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L0O3STLT05198CJN.html"
+      ],
+      "publishedAt": "2026-07-01",
+      "date": "2026-07-01",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 170,
+      "reporterScore": 176,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点,优必选,智能机器人,仿生机器人,工业机器人,人形机器人",
+      "relatedTitles": [
+        "优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点"
       ],
       "isNewSinceLastRun": true
     },
@@ -1176,7 +1281,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1244,7 +1349,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1312,7 +1417,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1379,6 +1484,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "美公布6亿美元月球任务计划 推进月球基地建设,航天局,月球基地,美国航空,月火箭太空",
       "relatedTitles": [
         "美公布6亿美元月球任务计划 推进月球基地建设"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "钼价高位运行达近三年高点 “以钼代钨”实现“高端半导体战略材料”属性切换",
+      "summary": "钼价高位运行达近三年高点 “以钼代钨”实现“高端半导体战略材料”属性切换,材料,钼价,金属,半导体",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L0O3LNGM05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L0O3LNGM05198CJN.html"
+      ],
+      "publishedAt": "2026-07-01",
+      "date": "2026-07-01",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “钼价高位运行达近三年高点 “以钼代钨”实现“高端半导体战略材料”属性切换” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "钼价高位运行达近三年高点 “以钼代钨”实现“高端半导体战略材料”属性切换,材料,钼价,金属,半导体",
+      "relatedTitles": [
+        "钼价高位运行达近三年高点 “以钼代钨”实现“高端半导体战略材料”属性切换"
       ],
       "isNewSinceLastRun": true
     },
@@ -1448,7 +1621,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "进厂干活前先上学！谷歌投资的Apptronik打造了一所机器人学校"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1516,7 +1689,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "武汉新能源车在家也能“卖电”赚钱；特斯拉Cybe"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1584,7 +1757,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "韩国政府将投资千万亿韩元于AI和半导体产业"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1651,6 +1824,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "IT之家 7 月 1 日消息，日本总务省 6 月 30 日正式宣布，选定乐天集团旗下相关企业作为低轨卫星通信服务的补助对象。根据计划，日本政府将在未来三年内累计提供最高 1500 亿日元（IT之家注：现汇率约合 63.03 亿元人民币）的资...",
       "relatedTitles": [
         "摆脱对 SpaceX 依赖：日本拟投资 1500 亿日元打造国产低轨卫星通信网"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "八部门发布《实施意见》：加速释放工业互联网乘数效应",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 八部门发布《实施意见》：加速释放工业互联网乘数效应 2026-07-01 08:00:17 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-07/01/content_540034.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-07/01/content_540034.html"
+      ],
+      "publishedAt": "2026-07-01",
+      "date": "2026-07-01",
+      "category": "数字经济",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 70,
+      "keywords": "digital infrastructure, data flows and the platform economy",
+      "priority": 4,
+      "score": 144,
+      "reporterScore": 152,
+      "scoreBreakdown": {
+        "hardTech": 70,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 70,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Assess the practical value of digital infrastructure, data flows and the platform economy: users, data flows, productivity, market structure and regulatory trade-offs. For this item, test the claim behind “八部门发布《实施意见》：加速释放工业互联网乘数效应” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字基础设施与数据要素",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 八部门发布《实施意见》：加速释放工业互联网乘数效应 2026-07-01 08:00:17 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "八部门发布《实施意见》：加速释放工业互联网乘数效应"
       ],
       "isNewSinceLastRun": true
     },
@@ -1720,7 +1961,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中国光谷具身智能产教融合联盟成立"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1788,7 +2029,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "首台国产稀释制冷机下线"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1856,7 +2097,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "德意志银行预计特斯拉第二季度交付量将超预期"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1924,7 +2165,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "“机会仍在，无需悲观”！蔚来李斌为中国汽车行"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1992,7 +2233,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "今日起 武汉电动车车主可在私人充电桩上“卖电”：一度电可赚5毛钱"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2060,7 +2301,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Meta CEO 扎克伯格：我不认为 AI 必然会带来大规模失业"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2128,7 +2369,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "影驰 HOF OC LAB 版 RTX 5090D 首破 4GHz，成 Blackwell 超频里程碑"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2196,7 +2437,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "前 20 大药企已有 18 家使用，英伟达 AI 工具集 BioNeMo 接入 Claude Science"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2293,13 +2534,13 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 100,
       "keywords": "technology policy, AI governance, safety and standards",
       "priority": 5,
-      "score": 163,
-      "reporterScore": 179,
+      "score": 151,
+      "reporterScore": 167,
       "scoreBreakdown": {
         "hardTech": 100,
         "today": -10,
         "sourceAuthority": 12,
-        "multiSource": 12,
+        "multiSource": 0,
         "cgtFocus": 12,
         "visual": 0,
         "international": 9,
@@ -3551,6 +3792,38 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "How the AI bubble could pop and take down the global economy, according to the BIS",
+      "summary": "Central bank for central banks sees shades of dotcom mania in hyperscaler capex binge",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793",
+      "publishedAt": "Mon, 29 Jun 2026 19:55:00 +0200",
+      "date": "2026-06-29",
+      "region": "Europe",
+      "category": "监管与安全",
+      "classificationConfidence": 0.7,
+      "hardTechPriority": 100,
+      "globalWhitelistScore": 65,
+      "keywords": "technology policy, AI governance, safety and standards",
+      "relevanceToChina": "high",
+      "cgtAngle": "Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “How the AI bubble could pop and take down the global economy, according ” against primary-source evidence.",
+      "priority": 5,
+      "score": 183,
+      "reporterScore": 201,
+      "reporterSignals": {
+        "primary": true,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 100,
+        "reporterScore": 125
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
       "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
       "source": "WIRED Business",
@@ -3579,7 +3852,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 135
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3611,7 +3884,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 103
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3643,7 +3916,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 120
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3675,7 +3948,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3707,7 +3980,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3739,219 +4012,27 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Building tech in the world’s secret R&D hub",
-      "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concen",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-      "publishedAt": "Tue, 30 Jun 2026 10:23:30 +0000",
+      "title": "No more Java refills for Intel Macs after JDK 27, says Oracle",
+      "summary": "Apple",
+      "source": "The Register",
+      "url": "https://www.theregister.com/software/2026/06/30/no-more-java-refills-for-intel-macs-after-jdk-27-says-oracle/5263667",
+      "publishedAt": "Tue, 30 Jun 2026 12:00:00 +0200",
       "date": "2026-06-30",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.89,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 70,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Building tech in the world’s secret R&D hub” against primary-source evidence.",
-      "priority": 5,
-      "score": 147,
-      "reporterScore": 147,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork. The use cases a",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "publishedAt": "Tue, 30 Jun 2026 12:00:00 +0000",
-      "date": "2026-06-30",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 70,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Agriculture is ready for AI, but its data isn’t” against primary-source evidence.",
-      "priority": 5,
-      "score": 147,
-      "reporterScore": 147,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung confirms it's working on the next-gen Galaxy Ring",
-      "summary": "A Samsung executive hinted that the next Galaxy Ring may have the Apple compatibility its current version lacks.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/wearables/article/samsung-confirms-its-working-on-the-next-gen-galaxy-ring-135330767.html",
-      "publishedAt": "2026-06-30",
-      "date": "2026-06-30",
-      "region": "US",
+      "region": "Europe",
       "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Samsung confirms it's working on the next-gen Galaxy Ring” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in second quarter",
-      "summary": "Wall Street poured into chipmakers not named Nvidia in the second quarter, as the artificial intelligence boom expanded to include more suppliers.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/30/ai-chip-rally-in-q2-adds-2-trillion-in-value-to-micron-intel-amd-.html",
-      "publishedAt": "Tue, 30 Jun 2026 22:43:23 GMT",
-      "date": "2026-06-30",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.93,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Record chip rally adds $2 trillion in combined value to Micron, Intel an” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic's New AI Workbench Mapped My Field For $26. Now Imagine It Aimed At The Rest Of Science",
-      "summary": "Anthropic trained its newest Sonnet model to excel at agentic tasks, which have been causing a headache for the company's enterprise customers and power users.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/claude/articles/anthropics-ai-workbench-mapped-field-221202767.html",
-      "publishedAt": "2026-07-01",
-      "date": "2026-07-01",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic's New AI Workbench Mapped My Field For $26. Now Imagine It Aim” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Jim Cramer says the AI trade has shifted — and these stocks are leading now",
-      "summary": "CNBC's Jim Cramer said Wall Street is rewarding the companies supplying the artificial intelligence boom rather than the technology giants funding it.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html",
-      "publishedAt": "Tue, 30 Jun 2026 22:24:43 GMT",
-      "date": "2026-06-30",
-      "region": "US",
-      "category": "AI",
       "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Jim Cramer says the AI trade has shifted — and these stocks are leading ” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Hisense Can Compete With Samsung On More Than Just TVs",
-      "summary": "Hisense as a brand has been seen as a more budget-friendly competitor to brands like Samsung, and that competition actually includes more than just TVs.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/hisense-compete-samsung-more-just-124700595.html",
-      "publishedAt": "2026-06-30",
-      "date": "2026-06-30",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Hisense Can Compete With Samsung On More Than Just TVs” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “No more Java refills for Intel Macs after JDK 27, says Oracle” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -3961,38 +4042,6 @@ window.CHENCHEN_DAILY_DATA = {
         "softNews": false,
         "hardTechWeight": 95,
         "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says",
-      "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
-      "publishedAt": "Tue, 30 Jun 2026 15:38:08 +0000",
-      "date": "2026-06-30",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, rep” against primary-source evidence.",
-      "priority": 4,
-      "score": 139,
-      "reporterScore": 139,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
       },
       "status": "recent_48h",
       "isNewSinceLastRun": true
@@ -4031,23 +4080,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tesla app code hints heat pumps may soon tap surplus Powerwall power automatically",
-      "summary": "During a blackout, Tesla could shut down a heat pump to preserve backup energy for longer.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/home/articles/tesla-app-code-hints-heat-172000622.html",
-      "publishedAt": "2026-07-01",
-      "date": "2026-07-01",
+      "title": "Building tech in the world’s secret R&D hub",
+      "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concen",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+      "publishedAt": "Tue, 30 Jun 2026 10:23:30 +0000",
+      "date": "2026-06-30",
       "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "category": "AI",
+      "classificationConfidence": 0.89,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 70,
+      "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla app code hints heat pumps may soon tap surplus Powerwall power aut” against primary-source evidence.",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Building tech in the world’s secret R&D hub” against primary-source evidence.",
       "priority": 5,
-      "score": 133,
-      "reporterScore": 133,
+      "score": 147,
+      "reporterScore": 147,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4055,11 +4104,43 @@ window.CHENCHEN_DAILY_DATA = {
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
+        "hardTechWeight": 95,
+        "reporterScore": 95
       },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork. The use cases a",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "publishedAt": "Tue, 30 Jun 2026 12:00:00 +0000",
+      "date": "2026-06-30",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 70,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Agriculture is ready for AI, but its data isn’t” against primary-source evidence.",
+      "priority": 5,
+      "score": 147,
+      "reporterScore": 147,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4080,6 +4161,134 @@ window.CHENCHEN_DAILY_DATA = {
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung confirms it's working on the next-gen Galaxy Ring",
+      "summary": "A Samsung executive hinted that the next Galaxy Ring may have the Apple compatibility its current version lacks.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/wearables/article/samsung-confirms-its-working-on-the-next-gen-galaxy-ring-135330767.html",
+      "publishedAt": "2026-06-30",
+      "date": "2026-06-30",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Samsung confirms it's working on the next-gen Galaxy Ring” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in second quarter",
+      "summary": "Wall Street poured into chipmakers not named Nvidia in the second quarter, as the artificial intelligence boom expanded to include more suppliers.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/30/ai-chip-rally-in-q2-adds-2-trillion-in-value-to-micron-intel-amd-.html",
+      "publishedAt": "Tue, 30 Jun 2026 22:43:23 GMT",
+      "date": "2026-06-30",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.93,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Record chip rally adds $2 trillion in combined value to Micron, Intel an” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic's New AI Workbench Mapped My Field For $26. Now Imagine It Aimed At The Rest Of Science",
+      "summary": "Anthropic trained its newest Sonnet model to excel at agentic tasks, which have been causing a headache for the company's enterprise customers and power users.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/claude/articles/anthropics-ai-workbench-mapped-field-221202767.html",
+      "publishedAt": "2026-07-01",
+      "date": "2026-07-01",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic's New AI Workbench Mapped My Field For $26. Now Imagine It Aim” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Jim Cramer says the AI trade has shifted — and these stocks are leading now",
+      "summary": "CNBC's Jim Cramer said Wall Street is rewarding the companies supplying the artificial intelligence boom rather than the technology giants funding it.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html",
+      "publishedAt": "Tue, 30 Jun 2026 22:24:43 GMT",
+      "date": "2026-06-30",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Jim Cramer says the AI trade has shifted — and these stocks are leading ” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4124,10 +4333,106 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Hisense Can Compete With Samsung On More Than Just TVs",
+      "summary": "Hisense as a brand has been seen as a more budget-friendly competitor to brands like Samsung, and that competition actually includes more than just TVs.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/hisense-compete-samsung-more-just-124700595.html",
+      "publishedAt": "2026-06-30",
+      "date": "2026-06-30",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Hisense Can Compete With Samsung On More Than Just TVs” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says",
+      "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
+      "publishedAt": "Tue, 30 Jun 2026 15:38:08 +0000",
+      "date": "2026-06-30",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, rep” against primary-source evidence.",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 139,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Tesla app code hints heat pumps may soon tap surplus Powerwall power automatically",
+      "summary": "During a blackout, Tesla could shut down a heat pump to preserve backup energy for longer.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/home/articles/tesla-app-code-hints-heat-172000622.html",
+      "publishedAt": "2026-07-01",
+      "date": "2026-07-01",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla app code hints heat pumps may soon tap surplus Powerwall power aut” against primary-source evidence.",
+      "priority": 5,
+      "score": 133,
+      "reporterScore": 133,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-01｜V3\n生成时间：2026/7/1 07:54:18\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2531｜确认今日 18｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 15 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-01] 影响市场重大事件：美国拟发射航天器“托举”天文卫星\n   网易科技｜2026-07-01｜https://www.163.com/dy/article/L0NVDBFK0512B07B.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：美国拟发射航天器“托举”天文卫星” against primary-source evidence.\n\n2. [23:17] NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车\n   IT之家｜2026-07-01｜https://www.ithome.com/0/970/801.htm\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车” against primary-source evidence.\n\n3. [2026-07-01] 苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈\n   新浪科技｜2026-07-01｜https://finance.sina.com.cn/tech/digi/2026-07-01/doc-iniffytk3155554.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈” against primary-source evidence.\n\n4. [2026-07-01] 三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0\n   网易科技｜2026-07-01｜https://www.163.com/dy/article/L0NO3I2R0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0” against primary-source evidence.\n\n5. [2026-07-01] 凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用\n   网易科技｜2026-07-01｜https://www.163.com/dy/article/L0N8RVR805198CJN.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用” against primary-source evidence.\n\n本次新增线索：\n- 影响市场重大事件：美国拟发射航天器“托举”天文卫星｜网易科技｜https://www.163.com/dy/article/L0NVDBFK0512B07B.html\n- NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车｜IT之家｜https://www.ithome.com/0/970/801.htm\n- 苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-01/doc-iniffytk3155554.shtml\n- 三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0｜网易科技｜https://www.163.com/dy/article/L0NO3I2R0512B07B.html\n- 凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用｜网易科技｜https://www.163.com/dy/article/L0N8RVR805198CJN.html\n- The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models｜WIRED Business｜https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models｜WIRED Business｜https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/\n2. Tesla starts testing Cybercab without pedals or a steering wheel in Austin｜TechCrunch｜https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/\n3. Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists｜TechCrunch｜https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/\n4. Amazon launches new $1 billion FDE org, following OpenAI and Anthropic｜TechCrunch｜https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/\n5. The DeepMind trio who built a poker AI are now making money for quant hedge funds｜TechCrunch｜https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-01｜V3\n生成时间：2026/7/1 07:54:18\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2531｜确认今日 18｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 15 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-01] 影响市场重大事件：美国拟发射航天器“托举”天文卫星\n   网易科技｜2026-07-01｜https://www.163.com/dy/article/L0NVDBFK0512B07B.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：美国拟发射航天器“托举”天文卫星” against primary-source evidence.\n\n2. [23:17] NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车\n   IT之家｜2026-07-01｜https://www.ithome.com/0/970/801.htm\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车” against primary-source evidence.\n\n3. [2026-07-01] 苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈\n   新浪科技｜2026-07-01｜https://finance.sina.com.cn/tech/digi/2026-07-01/doc-iniffytk3155554.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈” against primary-source evidence.\n\n4. [2026-07-01] 三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0\n   网易科技｜2026-07-01｜https://www.163.com/dy/article/L0NO3I2R0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0” against primary-source evidence.\n\n5. [2026-07-01] 凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用\n   网易科技｜2026-07-01｜https://www.163.com/dy/article/L0N8RVR805198CJN.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用” against primary-source evidence.\n\n本次新增线索：\n- 影响市场重大事件：美国拟发射航天器“托举”天文卫星｜网易科技｜https://www.163.com/dy/article/L0NVDBFK0512B07B.html\n- NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车｜IT之家｜https://www.ithome.com/0/970/801.htm\n- 苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-01/doc-iniffytk3155554.shtml\n- 三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0｜网易科技｜https://www.163.com/dy/article/L0NO3I2R0512B07B.html\n- 凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用｜网易科技｜https://www.163.com/dy/article/L0N8RVR805198CJN.html\n- The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models｜WIRED Business｜https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models｜WIRED Business｜https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/\n2. Tesla starts testing Cybercab without pedals or a steering wheel in Austin｜TechCrunch｜https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/\n3. Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists｜TechCrunch｜https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/\n4. Amazon launches new $1 billion FDE org, following OpenAI and Anthropic｜TechCrunch｜https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/\n5. The DeepMind trio who built a poker AI are now making money for quant hedge funds｜TechCrunch｜https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-01｜生成时间：2026/7/1 07:54:18｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2531｜确认今日 18｜国际背景 18</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 18 条｜国际 15 条<br>延续跟踪线索：国内 0 条｜国际 3 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-01] 影响市场重大事件：美国拟发射航天器“托举”天文卫星</strong>\n      <span>网易科技｜2026-07-01｜<a href=\"https://www.163.com/dy/article/L0NVDBFK0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：美国拟发射航天器“托举”天文卫星” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [23:17] NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车</strong>\n      <span>IT之家｜2026-07-01｜<a href=\"https://www.ithome.com/0/970/801.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：188｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-01] 苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈</strong>\n      <span>新浪科技｜2026-07-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-01/doc-iniffytk3155554.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-01] 三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0</strong>\n      <span>网易科技｜2026-07-01｜<a href=\"https://www.163.com/dy/article/L0NO3I2R0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-01] 凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用</strong>\n      <span>网易科技｜2026-07-01｜<a href=\"https://www.163.com/dy/article/L0N8RVR805198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models</strong>\n      <span>时间：Tue, 30 Jun 2026 23:23:04 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The Trump Administration Is Lifting Its Export Controls on Anthropic’s M” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Tesla starts testing Cybercab without pedals or a steering wheel in Austin</strong>\n      <span>时间：Tue, 30 Jun 2026 15:32:50 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Tesla starts testing Cybercab without pedals or a steering wheel in Aust” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists</strong>\n      <span>时间：Tue, 30 Jun 2026 17:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic’s Claude Science bets on workflow, not a new model, to win ove” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Amazon launches new $1 billion FDE org, following OpenAI and Anthropic</strong>\n      <span>时间：Tue, 30 Jun 2026 15:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Amazon launches new $1 billion FDE org, following OpenAI and Anthropic” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. The DeepMind trio who built a poker AI are now making money for quant hedge funds</strong>\n      <span>时间：Tue, 30 Jun 2026 20:33:48 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “The DeepMind trio who built a poker AI are now making money for quant he” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/1 07:54:18\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 15 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-01] 影响市场重大事件：美国拟发射航天器“托举”天文卫星\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0NVDBFK0512B07B.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：美国拟发射航天器“托举”天文卫星” against primary-source evidence.\n\n2. [23:17] NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车\n   来源：IT之家\n   链接：https://www.ithome.com/0/970/801.htm\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车” against primary-source evidence.\n\n3. [2026-07-01] 苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-01/doc-iniffytk3155554.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈” against primary-source evidence.\n\n4. [2026-07-01] 三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0NO3I2R0512B07B.html\n   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0” against primary-source evidence.\n\n5. [2026-07-01] 凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0N8RVR805198CJN.html\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用” against primary-source evidence.\n\n本次新增线索：\n- 影响市场重大事件：美国拟发射航天器“托举”天文卫星｜网易科技｜https://www.163.com/dy/article/L0NVDBFK0512B07B.html\n- NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车｜IT之家｜https://www.ithome.com/0/970/801.htm\n- 苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-01/doc-iniffytk3155554.shtml\n- 三年蛰伏、匿名冲榜杀进全球前三，美团龙猫2.0｜网易科技｜https://www.163.com/dy/article/L0NO3I2R0512B07B.html\n- 凯德石英：公司产品主要供应通美晶体的磷化铟、砷化镓等产线使用｜网易科技｜https://www.163.com/dy/article/L0N8RVR805198CJN.html\n- The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models｜WIRED Business｜https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models｜WIRED Business｜https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/\n2. Tesla starts testing Cybercab without pedals or a steering wheel in Austin｜TechCrunch｜https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/\n3. Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists｜TechCrunch｜https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/\n4. Amazon launches new $1 billion FDE org, following OpenAI and Anthropic｜TechCrunch｜https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/\n5. The DeepMind trio who built a poker AI are now making money for quant hedge funds｜TechCrunch｜https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-01｜V3\n生成时间：2026/7/1 08:17:41\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2582｜确认今日 22｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 2 条\n延续跟踪线索：国内 18 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-01] 影响市场重大事件：美国拟发射航天器“托举”天文卫星\n   网易科技｜2026-07-01｜https://www.163.com/dy/article/L0NVDBFK0512B07B.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：美国拟发射航天器“托举”天文卫星” against primary-source evidence.\n\n2. [2026-07-01] 华泰证券：韩国1.3万亿美元战略落地，聚焦存储\n   网易科技｜2026-07-01｜https://www.163.com/dy/article/L0O4AEB90534A4SC.html\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “华泰证券：韩国1.3万亿美元战略落地，聚焦存储” against primary-source evidence.\n\n3. [23:17] NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车\n   IT之家｜2026-07-01｜https://www.ithome.com/0/970/801.htm\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车” against primary-source evidence.\n\n4. [2026-07-01] 优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点\n   网易科技｜2026-07-01｜https://www.163.com/dy/article/L0O3STLT05198CJN.html\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点” against primary-source evidence.\n\n5. [2026-07-01] 苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈\n   新浪科技｜2026-07-01｜https://finance.sina.com.cn/tech/digi/2026-07-01/doc-iniffytk3155554.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈” against primary-source evidence.\n\n本次新增线索：\n- 华泰证券：韩国1.3万亿美元战略落地，聚焦存储｜网易科技｜https://www.163.com/dy/article/L0O4AEB90534A4SC.html\n- 优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点｜网易科技｜https://www.163.com/dy/article/L0O3STLT05198CJN.html\n- 钼价高位运行达近三年高点 “以钼代钨”实现“高端半导体战略材料”属性切换｜网易科技｜https://www.163.com/dy/article/L0O3LNGM05198CJN.html\n- 八部门发布《实施意见》：加速释放工业互联网乘数效应｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/01/content_540034.html\n- How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n- No more Java refills for Intel Macs after JDK 27, says Oracle｜The Register｜https://www.theregister.com/software/2026/06/30/no-more-java-refills-for-intel-macs-after-jdk-27-says-oracle/5263667\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n2. The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models｜WIRED Business｜https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/\n3. Tesla starts testing Cybercab without pedals or a steering wheel in Austin｜TechCrunch｜https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/\n4. Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists｜TechCrunch｜https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/\n5. Amazon launches new $1 billion FDE org, following OpenAI and Anthropic｜TechCrunch｜https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-01｜V3\n生成时间：2026/7/1 08:17:41\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2582｜确认今日 22｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 2 条\n延续跟踪线索：国内 18 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-01] 影响市场重大事件：美国拟发射航天器“托举”天文卫星\n   网易科技｜2026-07-01｜https://www.163.com/dy/article/L0NVDBFK0512B07B.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：美国拟发射航天器“托举”天文卫星” against primary-source evidence.\n\n2. [2026-07-01] 华泰证券：韩国1.3万亿美元战略落地，聚焦存储\n   网易科技｜2026-07-01｜https://www.163.com/dy/article/L0O4AEB90534A4SC.html\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “华泰证券：韩国1.3万亿美元战略落地，聚焦存储” against primary-source evidence.\n\n3. [23:17] NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车\n   IT之家｜2026-07-01｜https://www.ithome.com/0/970/801.htm\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车” against primary-source evidence.\n\n4. [2026-07-01] 优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点\n   网易科技｜2026-07-01｜https://www.163.com/dy/article/L0O3STLT05198CJN.html\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点” against primary-source evidence.\n\n5. [2026-07-01] 苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈\n   新浪科技｜2026-07-01｜https://finance.sina.com.cn/tech/digi/2026-07-01/doc-iniffytk3155554.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈” against primary-source evidence.\n\n本次新增线索：\n- 华泰证券：韩国1.3万亿美元战略落地，聚焦存储｜网易科技｜https://www.163.com/dy/article/L0O4AEB90534A4SC.html\n- 优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点｜网易科技｜https://www.163.com/dy/article/L0O3STLT05198CJN.html\n- 钼价高位运行达近三年高点 “以钼代钨”实现“高端半导体战略材料”属性切换｜网易科技｜https://www.163.com/dy/article/L0O3LNGM05198CJN.html\n- 八部门发布《实施意见》：加速释放工业互联网乘数效应｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/01/content_540034.html\n- How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n- No more Java refills for Intel Macs after JDK 27, says Oracle｜The Register｜https://www.theregister.com/software/2026/06/30/no-more-java-refills-for-intel-macs-after-jdk-27-says-oracle/5263667\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n2. The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models｜WIRED Business｜https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/\n3. Tesla starts testing Cybercab without pedals or a steering wheel in Austin｜TechCrunch｜https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/\n4. Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists｜TechCrunch｜https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/\n5. Amazon launches new $1 billion FDE org, following OpenAI and Anthropic｜TechCrunch｜https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-01｜生成时间：2026/7/1 08:17:41｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2582｜确认今日 22｜国际背景 20</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 2 条<br>延续跟踪线索：国内 18 条｜国际 18 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-01] 影响市场重大事件：美国拟发射航天器“托举”天文卫星</strong>\n      <span>网易科技｜2026-07-01｜<a href=\"https://www.163.com/dy/article/L0NVDBFK0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：美国拟发射航天器“托举”天文卫星” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-01] 华泰证券：韩国1.3万亿美元战略落地，聚焦存储</strong>\n      <span>网易科技｜2026-07-01｜<a href=\"https://www.163.com/dy/article/L0O4AEB90534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “华泰证券：韩国1.3万亿美元战略落地，聚焦存储” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:17] NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车</strong>\n      <span>IT之家｜2026-07-01｜<a href=\"https://www.ithome.com/0/970/801.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：188｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-01] 优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点</strong>\n      <span>网易科技｜2026-07-01｜<a href=\"https://www.163.com/dy/article/L0O3STLT05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-01] 苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈</strong>\n      <span>新浪科技｜2026-07-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-01/doc-iniffytk3155554.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. How the AI bubble could pop and take down the global economy, according to the BIS</strong>\n      <span>时间：Mon, 29 Jun 2026 19:55:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “How the AI bubble could pop and take down the global economy, according ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models</strong>\n      <span>时间：Tue, 30 Jun 2026 23:23:04 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The Trump Administration Is Lifting Its Export Controls on Anthropic’s M” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Tesla starts testing Cybercab without pedals or a steering wheel in Austin</strong>\n      <span>时间：Tue, 30 Jun 2026 15:32:50 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Tesla starts testing Cybercab without pedals or a steering wheel in Aust” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists</strong>\n      <span>时间：Tue, 30 Jun 2026 17:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic’s Claude Science bets on workflow, not a new model, to win ove” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Amazon launches new $1 billion FDE org, following OpenAI and Anthropic</strong>\n      <span>时间：Tue, 30 Jun 2026 15:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Amazon launches new $1 billion FDE org, following OpenAI and Anthropic” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/1 08:17:41\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 2 条\n延续跟踪线索：国内 18 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-01] 影响市场重大事件：美国拟发射航天器“托举”天文卫星\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0NVDBFK0512B07B.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “影响市场重大事件：美国拟发射航天器“托举”天文卫星” against primary-source evidence.\n\n2. [2026-07-01] 华泰证券：韩国1.3万亿美元战略落地，聚焦存储\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0O4AEB90534A4SC.html\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “华泰证券：韩国1.3万亿美元战略落地，聚焦存储” against primary-source evidence.\n\n3. [23:17] NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车\n   来源：IT之家\n   链接：https://www.ithome.com/0/970/801.htm\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车” against primary-source evidence.\n\n4. [2026-07-01] 优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0O3STLT05198CJN.html\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点” against primary-source evidence.\n\n5. [2026-07-01] 苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-01/doc-iniffytk3155554.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈” against primary-source evidence.\n\n本次新增线索：\n- 华泰证券：韩国1.3万亿美元战略落地，聚焦存储｜网易科技｜https://www.163.com/dy/article/L0O4AEB90534A4SC.html\n- 优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点｜网易科技｜https://www.163.com/dy/article/L0O3STLT05198CJN.html\n- 钼价高位运行达近三年高点 “以钼代钨”实现“高端半导体战略材料”属性切换｜网易科技｜https://www.163.com/dy/article/L0O3LNGM05198CJN.html\n- 八部门发布《实施意见》：加速释放工业互联网乘数效应｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/01/content_540034.html\n- How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n- No more Java refills for Intel Macs after JDK 27, says Oracle｜The Register｜https://www.theregister.com/software/2026/06/30/no-more-java-refills-for-intel-macs-after-jdk-27-says-oracle/5263667\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. How the AI bubble could pop and take down the global economy, according to the BIS｜The Register｜https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793\n2. The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models｜WIRED Business｜https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/\n3. Tesla starts testing Cybercab without pedals or a steering wheel in Austin｜TechCrunch｜https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/\n4. Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists｜TechCrunch｜https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/\n5. Amazon launches new $1 billion FDE org, following OpenAI and Anthropic｜TechCrunch｜https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
