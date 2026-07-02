@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/2 09:27:33
+生成时间：2026/7/2 16:33:36
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 34 条｜国际 1 条
-延续跟踪线索：国内 15 条｜国际 16 条
+新增核心线索：国内 51 条｜国际 9 条
+延续跟踪线索：国内 11 条｜国际 13 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-02] AI与机器人盘前速递丨NASA向三家公司授5.9亿美元月球着陆器合同
+1. [07:21] 消息称美国正与多家 AI 企业洽谈自愿性行业标准，管控前沿模型发布
+   来源：IT之家
+   链接：https://www.ithome.com/0/971/607.htm
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称美国正与多家 AI 企业洽谈自愿性行业标准，管控前沿模型发布” against primary-source evidence.
+
+2. [07:31] 美国男子起诉 OpenAI：指控 ChatGPT 加剧其双相情感障碍病情，致其自残轻生
+   来源：IT之家
+   链接：https://www.ithome.com/0/971/611.htm
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国男子起诉 OpenAI：指控 ChatGPT 加剧其双相情感障碍病情，致其自残轻生” against primary-source evidence.
+
+3. [2026-07-02] 市场规模将破110亿美元！频频出圈的人形机器人，为何难以走进家门？
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkupu0399323.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “市场规模将破110亿美元！频频出圈的人形机器人，为何难以走进家门？” against primary-source evidence.
+
+4. [2026-07-02] 特斯拉人形机器人现量产关键信号
    来源：网易科技
-   链接：https://www.163.com/dy/article/L0QPJK8A0512B07B.html
-   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI与机器人盘前速递丨NASA向三家公司授5.9亿美元月球着陆器合同” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L0RESEOU0512B07B.html
+   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “特斯拉人形机器人现量产关键信号” against primary-source evidence.
 
-2. [2026-07-02] 智慧农业让田野“有声有色”
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0702/c1004-40752184.html
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “智慧农业让田野“有声有色”” against primary-source evidence.
-
-3. [2026-07-02] 全球第三，能力一般
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/newstock/2026-07-02/doc-inifkixw3634790.shtml
-   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “全球第三，能力一般” against primary-source evidence.
-
-4. [2026-07-02] MWC26｜对话Meta：35亿用户的消息框里，正长出一个AI商业新生态
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkiyh2720105.shtml
-   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MWC26｜对话Meta：35亿用户的消息框里，正长出一个AI商业新生态” against primary-source evidence.
-
-5. [2026-07-02] 一AI行业投资人举报20户邻居未经授权用空调：有公司用虚拟人讽刺欧盟 以此来引流
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkixw3649505.shtml
-   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “一AI行业投资人举报20户邻居未经授权用空调：有公司用虚拟人讽刺欧盟 以此来引流” against primary-source evidence.
+5. [2026-07-02] OpenAI“以股换路”：欲向美国提供5%股权 以化
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0RHQI6J05198CJN.html
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI“以股换路”：欲向美国提供5%股权 以化” against primary-source evidence.
 
 本次新增线索：
-- AI与机器人盘前速递丨NASA向三家公司授5.9亿美元月球着陆器合同｜网易科技｜https://www.163.com/dy/article/L0QPJK8A0512B07B.html
-- 智慧农业让田野“有声有色”｜人民网-科技｜http://finance.people.com.cn/n1/2026/0702/c1004-40752184.html
-- 全球第三，能力一般｜新浪科技｜https://finance.sina.com.cn/stock/newstock/2026-07-02/doc-inifkixw3634790.shtml
-- MWC26｜对话Meta：35亿用户的消息框里，正长出一个AI商业新生态｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkiyh2720105.shtml
-- 一AI行业投资人举报20户邻居未经授权用空调：有公司用虚拟人讽刺欧盟 以此来引流｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkixw3649505.shtml
-- Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street｜CNBC Technology｜https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+- 消息称美国正与多家 AI 企业洽谈自愿性行业标准，管控前沿模型发布｜IT之家｜https://www.ithome.com/0/971/607.htm
+- 美国男子起诉 OpenAI：指控 ChatGPT 加剧其双相情感障碍病情，致其自残轻生｜IT之家｜https://www.ithome.com/0/971/611.htm
+- 市场规模将破110亿美元！频频出圈的人形机器人，为何难以走进家门？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkupu0399323.shtml
+- 特斯拉人形机器人现量产关键信号｜网易科技｜https://www.163.com/dy/article/L0RESEOU0512B07B.html
+- OpenAI“以股换路”：欲向美国提供5%股权 以化｜网易科技｜https://www.163.com/dy/article/L0RHQI6J05198CJN.html
+- Analysis-A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/analysis-inexpensive-chinese-ai-model-071720746.html
 
 今日热点方向：
-- AI 应用：AI动态（15 条，7 个来源）
-- 芯片/半导体：半导体供应链（4 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（4 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
+- AI 应用：AI动态（15 条，6 个来源）
+- 芯片/半导体：半导体供应链（7 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，4 个来源）
+- 新能源车/智能驾驶：新能源车动态（11 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
-1. Trump administration's AI crackdown opens door for China to close gap｜CNBC Technology｜https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html
-2. Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare｜CNBC Technology｜https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html
-3. Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'｜CNBC Technology｜https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html
-4. Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street｜CNBC Technology｜https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
-5. Building tech in the world’s secret R&D hub｜MIT Technology Review｜https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/
+1. Analysis-A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/analysis-inexpensive-chinese-ai-model-071720746.html
+2. Anthropic gets government green light to restore access to its Fable 5 AI model｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-government-green-light-to-restore-access-to-its-fable-5-ai-model-141921865.html
+3. Why Anthropic's most powerful AI models are back online｜France24 Technology｜https://www.france24.com/en/why-anthropic-s-most-powerful-ai-models-are-back-online
+4. I ditched Samsung's default launcher after One UI 8.5—and I'm not the only one｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/ditched-samsungs-default-launcher-one-190017378.html
+5. Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare｜CNBC Technology｜https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
