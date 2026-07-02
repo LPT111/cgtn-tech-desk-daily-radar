@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/2 17:35:10
+生成时间：2026/7/3 07:50:00
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 14 条｜国际 0 条
-延续跟踪线索：国内 49 条｜国际 22 条
+新增核心线索：国内 18 条｜国际 17 条
+延续跟踪线索：国内 0 条｜国际 6 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [07:21] 消息称美国正与多家 AI 企业洽谈自愿性行业标准，管控前沿模型发布
-   来源：IT之家
-   链接：https://www.ithome.com/0/971/607.htm
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称美国正与多家 AI 企业洽谈自愿性行业标准，管控前沿模型发布” against primary-source evidence.
-
-2. [2026-07-02] 美团：职伤保障累计缴费超30亿，参保骑手逾1000万
+1. [2026-07-03] 人工智能科普不能止于“机器人秀”
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-07-02/doc-inifkupy5915251.shtml
-   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美团：职伤保障累计缴费超30亿，参保骑手逾1000万” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifnnxh2392175.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人工智能科普不能止于“机器人秀”” against primary-source evidence.
 
-3. [2026-07-02] 半导体封装巨头再度调整报价，幅度最高超过20%
+2. [2026-07-03] 影响市场重大事件：我国成功发射海洋二号E卫星
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0T3BC4B0512B07B.html
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：我国成功发射海洋二号E卫星” against primary-source evidence.
+
+3. [2026-07-03] 苹果折叠屏信心满满！iPhone Ultra年产目标上调至1000万台
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcw2623323.shtml
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “半导体封装巨头再度调整报价，幅度最高超过20%” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-07-03/doc-inifnnxe5624502.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “苹果折叠屏信心满满！iPhone Ultra年产目标上调至1000万台” against primary-source evidence.
 
-4. [2026-07-02] 安全与普惠如何平衡？全球大语言模型安全防范能力测评报告发布
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-07/02/content_38864237.htm
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “安全与普惠如何平衡？全球大语言模型安全防范能力测评报告发布” against primary-source evidence.
-
-5. [2026-07-02] 特朗普称台积电将扩大投资规模：美国芯片市占率可能提高至50%
+4. [2026-07-03] 得力睿印系列高速打印机发布：搭载龙芯2P0300国产芯片 全链路自主可控
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcu5848024.shtml
-   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “特朗普称台积电将扩大投资规模：美国芯片市占率可能提高至50%” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifmvzn5812942.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “得力睿印系列高速打印机发布：搭载龙芯2P0300国产芯片 全链路自主可控” against primary-source evidence.
+
+5. [2026-07-03] 特斯拉二季度全球交付超48万辆
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifmvzn5824830.shtml
+   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉二季度全球交付超48万辆” against primary-source evidence.
 
 本次新增线索：
-- 消息称美国正与多家 AI 企业洽谈自愿性行业标准，管控前沿模型发布｜IT之家｜https://www.ithome.com/0/971/607.htm
-- 安全与普惠如何平衡？全球大语言模型安全防范能力测评报告发布｜光明网-科技｜https://tech.gmw.cn/2026-07/02/content_38864237.htm
-- 这场产业盛会，为“中国康湾”带来新机遇 | 新京报快评｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcu5870089.shtml
-- 同一件事，17年｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcu5859655.shtml
-- “绝不会错失重大机遇！”李在明：半导体、显示器、二次电池和生物医药｜网易科技｜https://www.163.com/dy/article/L0RM9I5L0512B07B.html
+- 人工智能科普不能止于“机器人秀”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifnnxh2392175.shtml
+- 影响市场重大事件：我国成功发射海洋二号E卫星｜网易科技｜https://www.163.com/dy/article/L0T3BC4B0512B07B.html
+- 苹果折叠屏信心满满！iPhone Ultra年产目标上调至1000万台｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-03/doc-inifnnxe5624502.shtml
+- 得力睿印系列高速打印机发布：搭载龙芯2P0300国产芯片 全链路自主可控｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifmvzn5812942.shtml
+- 特斯拉二季度全球交付超48万辆｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifmvzn5824830.shtml
+- A grim job outlook meets a scrappy workforce as administrative assistants harness AI｜AP Technology｜https://apnews.com/article/ai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48
 
 今日热点方向：
-- AI 应用：AI动态（15 条，6 个来源）
-- 芯片/半导体：半导体供应链（7 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（6 条，4 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（6 条，3 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
+- AI 应用：AI动态（2 条，2 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）
+- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Analysis-A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/analysis-inexpensive-chinese-ai-model-071720746.html
-2. Anthropic gets government green light to restore access to its Fable 5 AI model｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-government-green-light-to-restore-access-to-its-fable-5-ai-model-141921865.html
-3. Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare｜CNBC Technology｜https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html
-4. I ditched Samsung's default launcher after One UI 8.5—and I'm not the only one｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/ditched-samsungs-default-launcher-one-190017378.html
-5. Building tech in the world’s secret R&D hub｜MIT Technology Review｜https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/
+1. A grim job outlook meets a scrappy workforce as administrative assistants harness AI｜AP Technology｜https://apnews.com/article/ai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48
+2. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366
+3. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
+4. Microsoft launches its own AI deployment company with $2.5 billion commitment｜TechCrunch｜https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
+5. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound｜CNBC Technology｜https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
