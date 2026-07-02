@@ -3,51 +3,51 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/2 17:15:11
+生成时间：2026/7/2 17:35:10
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 28 条｜国际 0 条
-延续跟踪线索：国内 36 条｜国际 22 条
+新增核心线索：国内 14 条｜国际 0 条
+延续跟踪线索：国内 49 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-02] 美团：职伤保障累计缴费超30亿，参保骑手逾1000万
+1. [07:21] 消息称美国正与多家 AI 企业洽谈自愿性行业标准，管控前沿模型发布
+   来源：IT之家
+   链接：https://www.ithome.com/0/971/607.htm
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称美国正与多家 AI 企业洽谈自愿性行业标准，管控前沿模型发布” against primary-source evidence.
+
+2. [2026-07-02] 美团：职伤保障累计缴费超30亿，参保骑手逾1000万
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/shenji/2026-07-02/doc-inifkupy5915251.shtml
    角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美团：职伤保障累计缴费超30亿，参保骑手逾1000万” against primary-source evidence.
 
-2. [2026-07-02] 半导体封装巨头再度调整报价，幅度最高超过20%
+3. [2026-07-02] 半导体封装巨头再度调整报价，幅度最高超过20%
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcw2623323.shtml
    角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “半导体封装巨头再度调整报价，幅度最高超过20%” against primary-source evidence.
 
-3. [2026-07-02] 从实验室到独角兽：WAIC云帆奖得主的创业图谱
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcu5844718.shtml
-   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “从实验室到独角兽：WAIC云帆奖得主的创业图谱” against primary-source evidence.
+4. [2026-07-02] 安全与普惠如何平衡？全球大语言模型安全防范能力测评报告发布
+   来源：光明网-科技
+   链接：https://tech.gmw.cn/2026-07/02/content_38864237.htm
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “安全与普惠如何平衡？全球大语言模型安全防范能力测评报告发布” against primary-source evidence.
 
-4. [2026-07-02] 特朗普称台积电将扩大投资规模：美国芯片市占率可能提高至50%
+5. [2026-07-02] 特朗普称台积电将扩大投资规模：美国芯片市占率可能提高至50%
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcu5848024.shtml
    角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “特朗普称台积电将扩大投资规模：美国芯片市占率可能提高至50%” against primary-source evidence.
 
-5. [09:07] 韩国发布物理 AI 国家战略，剑指全球领军地位
-   来源：IT之家
-   链接：https://www.ithome.com/0/971/778.htm
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “韩国发布物理 AI 国家战略，剑指全球领军地位” against primary-source evidence.
-
 本次新增线索：
-- 美团：职伤保障累计缴费超30亿，参保骑手逾1000万｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-07-02/doc-inifkupy5915251.shtml
-- 半导体封装巨头再度调整报价，幅度最高超过20%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcw2623323.shtml
-- 从实验室到独角兽：WAIC云帆奖得主的创业图谱｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcu5844718.shtml
-- 特朗普称台积电将扩大投资规模：美国芯片市占率可能提高至50%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcu5848024.shtml
-- 韩国发布物理 AI 国家战略，剑指全球领军地位｜IT之家｜https://www.ithome.com/0/971/778.htm
+- 消息称美国正与多家 AI 企业洽谈自愿性行业标准，管控前沿模型发布｜IT之家｜https://www.ithome.com/0/971/607.htm
+- 安全与普惠如何平衡？全球大语言模型安全防范能力测评报告发布｜光明网-科技｜https://tech.gmw.cn/2026-07/02/content_38864237.htm
+- 这场产业盛会，为“中国康湾”带来新机遇 | 新京报快评｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcu5870089.shtml
+- 同一件事，17年｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcu5859655.shtml
+- “绝不会错失重大机遇！”李在明：半导体、显示器、二次电池和生物医药｜网易科技｜https://www.163.com/dy/article/L0RM9I5L0512B07B.html
 
 今日热点方向：
-- AI 应用：AI动态（13 条，5 个来源）
-- 芯片/半导体：半导体供应链（8 条，2 个来源）
+- AI 应用：AI动态（15 条，6 个来源）
+- 芯片/半导体：半导体供应链（7 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（6 条，4 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（6 条，3 个来源）
 - 太空与低空经济：太空与低空动态（2 条，2 个来源）
