@@ -1,73 +1,32 @@
 {
-  "generatedAt": "2026-07-01T23:58:21.576Z",
+  "generatedAt": "2026-07-02T00:17:46.040Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-02",
   "changeSummary": {
-    "domesticNew": 21,
-    "globalNew": 7,
-    "domesticContinued": 0,
-    "globalContinued": 11,
+    "domesticNew": 2,
+    "globalNew": 0,
+    "domesticContinued": 20,
+    "globalContinued": 18,
     "topNewDomestic": [
       {
-        "title": "全球人工智能数据中心面临极端高温威胁",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-07/02/content_540787.html"
+        "title": "我国成功发射海洋二号E卫星",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L0QN6MRP0534A4SC.html"
       },
       {
-        "title": "新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道",
+        "title": "中国科学院召开庆祝中国共产党成立105周年表彰大会暨党组书记专题党课报告会",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifiaew3008432.shtml"
-      },
-      {
-        "title": "拉响警报！A股超60家半导体公司集体提示风险",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifitah0633283.shtml"
-      },
-      {
-        "title": "依赖AI让青少年疏于真实人际交往",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5977482.shtml"
-      },
-      {
-        "title": "从三个关键词看6月全球AI领域发展",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-07/02/content_540781.html"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcry3718453.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Anthropic is removing its covert code for catching Chinese competitors",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366"
-      },
-      {
-        "title": "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html"
-      },
-      {
-        "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html"
-      },
-      {
-        "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
-      },
-      {
-        "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 879,
+    "domesticRejected": 878,
     "globalRejected": 882,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,12 +41,32 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 26,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -98,6 +77,11 @@
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -107,9 +91,29 @@
   ],
   "failures": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -120,6 +124,11 @@
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -131,7 +140,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 183,
+      "parsed": 177,
       "failed": false,
       "optional": false
     },
@@ -181,7 +190,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -229,8 +239,9 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -278,7 +289,7 @@
     {
       "name": "央视新闻科技",
       "tier": "official",
-      "parsed": 1,
+      "parsed": 2,
       "failed": false,
       "optional": true
     },
@@ -294,14 +305,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -344,8 +357,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -378,18 +392,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1370,
+  "itemsSeen": 1241,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 337,
-  "itemsAfterDedupe": 237,
-  "todayItemsSeen": 21,
+  "itemsAfterRelevantFilter": 293,
+  "itemsAfterDedupe": 210,
+  "todayItemsSeen": 22,
   "suspectedItemsSeen": 18,
-  "skippedNonToday": 198,
+  "skippedNonToday": 168,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 183,
+      "parsed": 177,
       "failed": false,
       "optional": false
     },
@@ -439,7 +453,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -487,8 +502,9 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -536,7 +552,7 @@
     {
       "name": "央视新闻科技",
       "tier": "official",
-      "parsed": 1,
+      "parsed": 2,
       "failed": false,
       "optional": true
     },
@@ -552,14 +568,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -602,8 +620,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -790,9 +809,29 @@
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -803,6 +842,11 @@
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -831,7 +875,7 @@
   "globalSuccessSources": 18,
   "globalItemsSeen": 1216,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 97,
+  "globalItemsAfterRelevantFilter": 96,
   "topics": [
     {
       "topic": "AI动态",
@@ -852,7 +896,7 @@
     },
     {
       "topic": "科学前沿动态",
-      "count": 3,
+      "count": 4,
       "sourceCount": 2,
       "sources": [
         "科技日报",
@@ -861,6 +905,7 @@
       "items": [
         "我国科学家揭示鸟类尾巴演化的“关键拼图”",
         "她俩给青年科学家当“乙方”",
+        "中国科学院召开庆祝中国共产党成立105周年表彰大会暨党组书记专题党课报告会",
         "多次深入沙漠戈壁，他带头突破光电领域发展难题"
       ]
     },
@@ -891,6 +936,18 @@
       ]
     },
     {
+      "topic": "商业航天与卫星互联网",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "我国成功发射海洋二号E卫星",
+        "影响市场重大事件：国家召集271家火箭、卫星公司成立商业航天创新联合体干大事"
+      ]
+    },
+    {
       "topic": "人形机器人与具身智能",
       "count": 2,
       "sourceCount": 1,
@@ -900,28 +957,6 @@
       "items": [
         "不做脸、不做腿，餐饮“人形机器人”要如何赚钱",
         "优必选仿生机器人开售，U1 Pro款深夜优惠1万元"
-      ]
-    },
-    {
-      "topic": "半导体供应链",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "拉响警报！A股超60家半导体公司集体提示风险"
-      ]
-    },
-    {
-      "topic": "商业航天与卫星互联网",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "影响市场重大事件：国家召集271家火箭、卫星公司成立商业航天创新联合体干大事"
       ]
     },
     {
@@ -981,6 +1016,74 @@
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "我国成功发射海洋二号E卫星",
+      "summary": "一箭8星！我国成功发射吉星高分07C04星等8颗卫星- 6月15日11时44分，我国在东风商业航天创新试验区使用力箭一号遥十四运载火箭，成功将吉星高分07C04星等8颗卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L0QN6MRP0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L0QN6MRP0534A4SC.html"
+      ],
+      "publishedAt": "2026-07-02",
+      "date": "2026-07-02",
+      "category": "太空与低空",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 178,
+      "reporterScore": 192,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “我国成功发射海洋二号E卫星” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "我国成功发射海洋二号E卫星,央视,卫星送入太空,酒泉卫星发射中心",
+      "relatedTitles": [
+        "我国成功发射海洋二号E卫星"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "全球人工智能数据中心面临极端高温威胁",
@@ -1047,7 +1150,7 @@
       "relatedTitles": [
         "全球人工智能数据中心面临极端高温威胁"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1115,75 +1218,7 @@
       "relatedTitles": [
         "新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "拉响警报！A股超60家半导体公司集体提示风险",
-      "summary": "2026年上半年，在AI算力需求与国产替代政策的双重催化下，A股半导体芯片板块一路大涨。然而，在6月30日收盘后，沪深交易所合计超60家半导体上市公司集中发布股票交易异常波动公告或风险提示公告，包括寒武纪、屹唐股份、德龙激光、晶升股...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifitah0633283.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifitah0633283.shtml"
-      ],
-      "publishedAt": "2026-07-02",
-      "date": "2026-07-02",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 175,
-      "reporterScore": 183,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “拉响警报！A股超60家半导体公司集体提示风险” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "2026年上半年，在AI算力需求与国产替代政策的双重催化下，A股半导体芯片板块一路大涨。然而，在6月30日收盘后，沪深交易所合计超60家半导体上市公司集中发布股票交易异常波动公告或风险提示公告，包括寒武纪、屹唐股份、德龙激光、晶升股...",
-      "relatedTitles": [
-        "拉响警报！A股超60家半导体公司集体提示风险"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1251,7 +1286,7 @@
       "relatedTitles": [
         "依赖AI让青少年疏于真实人际交往"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1319,7 +1354,7 @@
       "relatedTitles": [
         "从三个关键词看6月全球AI领域发展"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1387,7 +1422,7 @@
       "relatedTitles": [
         "影响市场重大事件：国家召集271家火箭、卫星公司成立商业航天创新联合体干大事"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1455,7 +1490,7 @@
       "relatedTitles": [
         "均胜电子将推出机器人灵巧手和半固态电池方案；"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1523,7 +1558,7 @@
       "relatedTitles": [
         "不做脸、不做腿，餐饮“人形机器人”要如何赚钱"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1591,7 +1626,7 @@
       "relatedTitles": [
         "苹果“Hide My Email”被曝安全漏洞：测试中 100% 可溯源真实邮箱"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1659,7 +1694,7 @@
       "relatedTitles": [
         "SpaceX新人工智能设备将使用高通芯片？马斯克否认"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1727,7 +1762,7 @@
       "relatedTitles": [
         "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1795,7 +1830,7 @@
       "relatedTitles": [
         "IT早报 0702：美光 CEO 指终端厂商过度压价致内存供应紧张；小红书内部项目曝光要再创一个小红书；Anthropic 回应暗藏代码检测中国用户；卓易通全面支持华为鸿蒙 7"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1863,7 +1898,7 @@
       "relatedTitles": [
         "我国科学家揭示鸟类尾巴演化的“关键拼图”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1931,7 +1966,7 @@
       "relatedTitles": [
         "M7 芯片首秀：古尔曼称苹果酝酿新入门级 MacBook Pro，增强本地 AI 能力"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1998,6 +2033,74 @@
       "rawText": "（左）寿天予 花蕾本源的围炉夜话活动。■本报记者 孙滔“您好。很冒昧地给您写信。首先，自我介绍，我叫寿天予，您可以叫我Grace……我和一位朋友（花蕾，迈普集团CEO），了解到国内有不少情怀之士，愿意支持这些青年科研人员，帮助他们走过职...",
       "relatedTitles": [
         "她俩给青年科学家当“乙方”"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "中国科学院召开庆祝中国共产党成立105周年表彰大会暨党组书记专题党课报告会",
+      "summary": "本报讯 6月30日，中国科学院召开庆祝中国共产党成立105周年表彰大会暨党组书记专题党课报告会，表彰院优秀共产党员、优秀党务工作者和先进基层党组织。中国科学院院长、党组书记侯建国以《深入学习贯彻习近平党建思想 以正确政绩观坚决扛起国家战略科...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcry3718453.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcry3718453.shtml"
+      ],
+      "publishedAt": "2026-07-02",
+      "date": "2026-07-02",
+      "category": "科学前沿",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “中国科学院召开庆祝中国共产党成立105周年表彰大会暨党组书记专题党课报告会” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "本报讯 6月30日，中国科学院召开庆祝中国共产党成立105周年表彰大会暨党组书记专题党课报告会，表彰院优秀共产党员、优秀党务工作者和先进基层党组织。中国科学院院长、党组书记侯建国以《深入学习贯彻习近平党建思想 以正确政绩观坚决扛起国家战略科...",
+      "relatedTitles": [
+        "中国科学院召开庆祝中国共产党成立105周年表彰大会暨党组书记专题党课报告会"
       ],
       "isNewSinceLastRun": true
     },
@@ -2067,7 +2170,7 @@
       "relatedTitles": [
         "伪造名人肖像、虚假带货泛滥，电商AI仿冒黑灰产"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2135,7 +2238,7 @@
       "relatedTitles": [
         "理想车主冒火救出特斯拉女司机 李想全网找人：好人找到了"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2203,7 +2306,7 @@
       "relatedTitles": [
         "多次深入沙漠戈壁，他带头突破光电领域发展难题"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2271,7 +2374,7 @@
       "relatedTitles": [
         "书记省长密集会见，谁在“争夺”比亚迪？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2339,7 +2442,7 @@
       "relatedTitles": [
         "优必选仿生机器人开售，U1 Pro款深夜优惠1万元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2407,7 +2510,7 @@
       "relatedTitles": [
         "腾讯《逆战：未来》S3 赛季今日上线，鸿蒙版正式上架华为平台"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2479,22 +2582,22 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "MEET大会",
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "联想全栈Token方案亮相2026 MWC上海",
       "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
-      "source": "量子位",
+      "source": "光明网-科技",
       "sources": [
-        "量子位"
+        "光明网-科技"
       ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/meet/meet2026/",
+      "sourceTier": "mainstream",
+      "url": "https://tech.gmw.cn/2026-06/26/content_38851970.htm",
       "sourceUrls": [
-        "https://www.qbitai.com/meet/meet2026/"
+        "https://tech.gmw.cn/2026-06/26/content_38851970.htm"
       ],
-      "publishedAt": "",
-      "date": "",
+      "publishedAt": "2026-06-26",
+      "date": "2026-06-26",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.96,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2504,18 +2607,18 @@
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 158,
-      "reporterScore": 180,
+      "score": 164,
+      "reporterScore": 186,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": -10,
-        "sourceAuthority": 8,
+        "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 12,
         "visual": 8,
         "international": 9,
         "policy": 0,
-        "sourceWeight": 6,
+        "sourceWeight": 8,
         "primarySource": 0,
         "interviewValue": 8,
         "marketingPenalty": 0,
@@ -2537,12 +2640,12 @@
       "hasVisualValue": true,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MEET大会” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “联想全栈Token方案亮相2026 MWC上海” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势。量子位在会上发布了「2025人工智能年度榜单」与「2025年度AI十大趋势报告」。 大会直播回顾 MEET2025 回顾 MEET2024 回顾 MEET2023 回顾 特邀嘉宾 &times; 重磅发布 2025人工智能年度榜单 我们希望为关注前沿科技创新的人提供一个独立的第三方参照系 为在技术与产业一线摸索前行的团队加一份笃定 为仍在押注长期主义的建设者刻下年度坐标 2025年度AI十大趋势报告 报告由量子位智库打造 基于对全球AI技术发展、产业应用和社会影响的深度调研与分析 全面呈现了人工智能领域的最新现状与未来发展趋势 独家观点 张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 百",
+      "rawText": "大会期间，联想联合中国移动芯昇科技、熠序科技发布全球首款AI可信一体机，首次为AI智能体签发硬件级全栈可信“身份证”。",
       "relatedTitles": [
-        "MEET大会"
+        "联想全栈Token方案亮相2026 MWC上海"
       ]
     },
     {
@@ -3161,8 +3264,8 @@
       "sourceUrls": [
         "https://www.guancha.cn/economy/2026_06_30_822053.shtml"
       ],
-      "publishedAt": "2026-06-29",
-      "date": "2026-06-29",
+      "publishedAt": "2026-06-44",
+      "date": "2026-06-44",
       "category": "AI",
       "classificationConfidence": 0.99,
       "classificationEvidence": [
@@ -3621,8 +3724,40 @@
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Trump administration's AI crackdown opens door for China to close gap",
+      "summary": "The Trump administration's crackdown on Anthropic's leading artificial intelligence models is looking like a gift to China.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html",
+      "publishedAt": "Tue, 30 Jun 2026 16:52:13 GMT",
+      "date": "2026-06-30",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.88,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 100,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Trump administration's AI crackdown opens door for China to close gap” against primary-source evidence.",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 170,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Anthropic is removing its covert code for catching Chinese competitors",
-      "summary": "Are we human?",
+      "summary": "Oh, yeah, we",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366",
       "publishedAt": "Wed, 01 Jul 2026 22:56:31 +0200",
@@ -3649,7 +3784,7 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3675,38 +3810,6 @@
         "visual": false,
         "international": false,
         "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Trump administration's AI crackdown opens door for China to close gap",
-      "summary": "The Trump administration's crackdown on Anthropic's leading artificial intelligence models is looking like a gift to China.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html",
-      "publishedAt": "Tue, 30 Jun 2026 16:52:13 GMT",
-      "date": "2026-06-30",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.88,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 100,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Trump administration's AI crackdown opens door for China to close gap” against primary-source evidence.",
-      "priority": 5,
-      "score": 162,
-      "reporterScore": 170,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
@@ -3745,135 +3848,7 @@
         "reporterScore": 103
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "publishedAt": "Wed, 01 Jul 2026 18:54:18 +0000",
-      "date": "2026-07-01",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.58,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX has an AI device prototype, and it sure sounds phone-ish” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web S",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "publishedAt": "Wed, 01 Jul 2026 13:43:07 +0000",
-      "date": "2026-07-01",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.65,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta, like SpaceX, looks to turn excess AI compute into cash” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung's Anti-Glare Frame TV 'Is The Best TV I've Ever Had' — And At Its Lowest Price Ever",
-      "summary": "\"Converted Samsung loyalist... I never thought I would say I would prefer another brand over Sony when it came to flat panel TV’s until I installed Samsung's Frame Pro.\"",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/home-entertainment/tvs/deals/articles/samsungs-anti-glare-frame-tv-165042518.html",
-      "publishedAt": "2026-07-02",
-      "date": "2026-07-02",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung's Anti-Glare Frame TV 'Is The Best TV I've Ever Had' — And At It” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung’s Next Foldable Trades the Tall Template for Wide",
-      "summary": "Samsung's rumored Wide Fold swaps the tall, narrow Z Fold design for a shorter, wider passport-style build with a 4:3 inner display ratio.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/samsung-next-foldable-trades-tall-171310577.html",
-      "publishedAt": "2026-07-02",
-      "date": "2026-07-02",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Samsung’s Next Foldable Trades the Tall Template for Wide” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4038,7 +4013,7 @@
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "No more Java refills for Intel Macs after JDK 27, says Oracle",
-      "summary": "Are we human?",
+      "summary": "Apple",
       "source": "The Register",
       "url": "https://www.theregister.com/software/2026/06/30/no-more-java-refills-for-intel-macs-after-jdk-27-says-oracle/5263667",
       "publishedAt": "Tue, 30 Jun 2026 12:00:00 +0200",
@@ -4049,9 +4024,73 @@
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
+      "relevanceToChina": "high",
       "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “No more Java refills for Intel Macs after JDK 27, says Oracle” against primary-source evidence.",
-      "priority": 4,
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "publishedAt": "Wed, 01 Jul 2026 18:54:18 +0000",
+      "date": "2026-07-01",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.58,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX has an AI device prototype, and it sure sounds phone-ish” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web S",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "publishedAt": "Wed, 01 Jul 2026 13:43:07 +0000",
+      "date": "2026-07-01",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.65,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta, like SpaceX, looks to turn excess AI compute into cash” against primary-source evidence.",
+      "priority": 5,
       "score": 144,
       "reporterScore": 144,
       "reporterSignals": {
@@ -4133,6 +4172,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung's Anti-Glare Frame TV 'Is The Best TV I've Ever Had' — And At Its Lowest Price Ever",
+      "summary": "\"Converted Samsung loyalist... I never thought I would say I would prefer another brand over Sony when it came to flat panel TV’s until I installed Samsung's Frame Pro.\"",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/home-entertainment/tvs/deals/articles/samsungs-anti-glare-frame-tv-165042518.html",
+      "publishedAt": "2026-07-02",
+      "date": "2026-07-02",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung's Anti-Glare Frame TV 'Is The Best TV I've Ever Had' — And At It” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Jim Cramer says the AI trade has shifted — and these stocks are leading now",
       "summary": "CNBC's Jim Cramer said Wall Street is rewarding the companies supplying the artificial intelligence boom rather than the technology giants funding it.",
       "source": "CNBC Technology",
@@ -4194,10 +4265,42 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung’s Next Foldable Trades the Tall Template for Wide",
+      "summary": "Samsung's rumored Wide Fold swaps the tall, narrow Z Fold design for a shorter, wider passport-style build with a 4:3 inner display ratio.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/samsung-next-foldable-trades-tall-171310577.html",
+      "publishedAt": "2026-07-02",
+      "date": "2026-07-02",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Samsung’s Next Foldable Trades the Tall Template for Wide” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-02｜V3\n生成时间：2026/7/2 07:58:21\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2586｜确认今日 21｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 21 条｜国际 7 条\n延续跟踪线索：国内 0 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-02] 全球人工智能数据中心面临极端高温威胁\n   科技日报｜2026-07-02｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540787.html\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球人工智能数据中心面临极端高温威胁” against primary-source evidence.\n\n2. [2026-07-02] 新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道\n   新浪科技｜2026-07-02｜https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifiaew3008432.shtml\n   报道角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道” against primary-source evidence.\n\n3. [2026-07-02] 拉响警报！A股超60家半导体公司集体提示风险\n   新浪科技｜2026-07-02｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifitah0633283.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “拉响警报！A股超60家半导体公司集体提示风险” against primary-source evidence.\n\n4. [2026-07-02] 依赖AI让青少年疏于真实人际交往\n   新浪科技｜2026-07-02｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5977482.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “依赖AI让青少年疏于真实人际交往” against primary-source evidence.\n\n5. [2026-07-02] 从三个关键词看6月全球AI领域发展\n   科技日报｜2026-07-02｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540781.html\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “从三个关键词看6月全球AI领域发展” against primary-source evidence.\n\n本次新增线索：\n- 全球人工智能数据中心面临极端高温威胁｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540787.html\n- 新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道｜新浪科技｜https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifiaew3008432.shtml\n- 拉响警报！A股超60家半导体公司集体提示风险｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifitah0633283.shtml\n- 依赖AI让青少年疏于真实人际交往｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5977482.shtml\n- 从三个关键词看6月全球AI领域发展｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540781.html\n- Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\n2. Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare｜CNBC Technology｜https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html\n3. Trump administration's AI crackdown opens door for China to close gap｜CNBC Technology｜https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html\n4. Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'｜CNBC Technology｜https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html\n5. SpaceX has an AI device prototype, and it sure sounds phone-ish｜TechCrunch｜https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-02｜V3\n生成时间：2026/7/2 07:58:21\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2586｜确认今日 21｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 21 条｜国际 7 条\n延续跟踪线索：国内 0 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-02] 全球人工智能数据中心面临极端高温威胁\n   科技日报｜2026-07-02｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540787.html\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球人工智能数据中心面临极端高温威胁” against primary-source evidence.\n\n2. [2026-07-02] 新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道\n   新浪科技｜2026-07-02｜https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifiaew3008432.shtml\n   报道角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道” against primary-source evidence.\n\n3. [2026-07-02] 拉响警报！A股超60家半导体公司集体提示风险\n   新浪科技｜2026-07-02｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifitah0633283.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “拉响警报！A股超60家半导体公司集体提示风险” against primary-source evidence.\n\n4. [2026-07-02] 依赖AI让青少年疏于真实人际交往\n   新浪科技｜2026-07-02｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5977482.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “依赖AI让青少年疏于真实人际交往” against primary-source evidence.\n\n5. [2026-07-02] 从三个关键词看6月全球AI领域发展\n   科技日报｜2026-07-02｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540781.html\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “从三个关键词看6月全球AI领域发展” against primary-source evidence.\n\n本次新增线索：\n- 全球人工智能数据中心面临极端高温威胁｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540787.html\n- 新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道｜新浪科技｜https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifiaew3008432.shtml\n- 拉响警报！A股超60家半导体公司集体提示风险｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifitah0633283.shtml\n- 依赖AI让青少年疏于真实人际交往｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5977482.shtml\n- 从三个关键词看6月全球AI领域发展｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540781.html\n- Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\n2. Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare｜CNBC Technology｜https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html\n3. Trump administration's AI crackdown opens door for China to close gap｜CNBC Technology｜https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html\n4. Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'｜CNBC Technology｜https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html\n5. SpaceX has an AI device prototype, and it sure sounds phone-ish｜TechCrunch｜https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-02｜生成时间：2026/7/2 07:58:21｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2586｜确认今日 21｜国际背景 18</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 21 条｜国际 7 条<br>延续跟踪线索：国内 0 条｜国际 11 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-02] 全球人工智能数据中心面临极端高温威胁</strong>\n      <span>科技日报｜2026-07-02｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/02/content_540787.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：190｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球人工智能数据中心面临极端高温威胁” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-02] 新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道</strong>\n      <span>新浪科技｜2026-07-02｜<a href=\"https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifiaew3008432.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：190｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-02] 拉响警报！A股超60家半导体公司集体提示风险</strong>\n      <span>新浪科技｜2026-07-02｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifitah0633283.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “拉响警报！A股超60家半导体公司集体提示风险” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-02] 依赖AI让青少年疏于真实人际交往</strong>\n      <span>新浪科技｜2026-07-02｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5977482.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “依赖AI让青少年疏于真实人际交往” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-02] 从三个关键词看6月全球AI领域发展</strong>\n      <span>科技日报｜2026-07-02｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/02/content_540781.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：178｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “从三个关键词看6月全球AI领域发展” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Anthropic is removing its covert code for catching Chinese competitors</strong>\n      <span>时间：Wed, 01 Jul 2026 22:56:31 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic is removing its covert code for catching Chinese competitors” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare</strong>\n      <span>时间：Tue, 30 Jun 2026 21:27:22 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic launches AI drug discovery program, joining tech giants in bet” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Trump administration's AI crackdown opens door for China to close gap</strong>\n      <span>时间：Tue, 30 Jun 2026 16:52:13 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Trump administration's AI crackdown opens door for China to close gap” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'</strong>\n      <span>时间：Wed, 01 Jul 2026 20:02:27 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gon” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. SpaceX has an AI device prototype, and it sure sounds phone-ish</strong>\n      <span>时间：Wed, 01 Jul 2026 18:54:18 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SpaceX has an AI device prototype, and it sure sounds phone-ish” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/2 07:58:21\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 21 条｜国际 7 条\n延续跟踪线索：国内 0 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-02] 全球人工智能数据中心面临极端高温威胁\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/02/content_540787.html\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球人工智能数据中心面临极端高温威胁” against primary-source evidence.\n\n2. [2026-07-02] 新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifiaew3008432.shtml\n   角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道” against primary-source evidence.\n\n3. [2026-07-02] 拉响警报！A股超60家半导体公司集体提示风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifitah0633283.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “拉响警报！A股超60家半导体公司集体提示风险” against primary-source evidence.\n\n4. [2026-07-02] 依赖AI让青少年疏于真实人际交往\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5977482.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “依赖AI让青少年疏于真实人际交往” against primary-source evidence.\n\n5. [2026-07-02] 从三个关键词看6月全球AI领域发展\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/02/content_540781.html\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “从三个关键词看6月全球AI领域发展” against primary-source evidence.\n\n本次新增线索：\n- 全球人工智能数据中心面临极端高温威胁｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540787.html\n- 新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道｜新浪科技｜https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifiaew3008432.shtml\n- 拉响警报！A股超60家半导体公司集体提示风险｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifitah0633283.shtml\n- 依赖AI让青少年疏于真实人际交往｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5977482.shtml\n- 从三个关键词看6月全球AI领域发展｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540781.html\n- Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\n2. Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare｜CNBC Technology｜https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html\n3. Trump administration's AI crackdown opens door for China to close gap｜CNBC Technology｜https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html\n4. Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'｜CNBC Technology｜https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html\n5. SpaceX has an AI device prototype, and it sure sounds phone-ish｜TechCrunch｜https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-02｜V3\n生成时间：2026/7/2 08:17:46\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2457｜确认今日 22｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-02] 我国成功发射海洋二号E卫星\n   网易科技｜2026-07-02｜https://www.163.com/dy/article/L0QN6MRP0534A4SC.html\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “我国成功发射海洋二号E卫星” against primary-source evidence.\n\n2. [2026-07-02] 全球人工智能数据中心面临极端高温威胁\n   科技日报｜2026-07-02｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540787.html\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球人工智能数据中心面临极端高温威胁” against primary-source evidence.\n\n3. [2026-07-02] 新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道\n   新浪科技｜2026-07-02｜https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifiaew3008432.shtml\n   报道角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道” against primary-source evidence.\n\n4. [2026-07-02] 依赖AI让青少年疏于真实人际交往\n   新浪科技｜2026-07-02｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5977482.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “依赖AI让青少年疏于真实人际交往” against primary-source evidence.\n\n5. [2026-07-02] 从三个关键词看6月全球AI领域发展\n   科技日报｜2026-07-02｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540781.html\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “从三个关键词看6月全球AI领域发展” against primary-source evidence.\n\n本次新增线索：\n- 我国成功发射海洋二号E卫星｜网易科技｜https://www.163.com/dy/article/L0QN6MRP0534A4SC.html\n- 中国科学院召开庆祝中国共产党成立105周年表彰大会暨党组书记专题党课报告会｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcry3718453.shtml\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：商业航天与卫星互联网（2 条，1 个来源）\n- 科学前沿：科学前沿动态（4 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump administration's AI crackdown opens door for China to close gap｜CNBC Technology｜https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html\n2. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\n3. Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare｜CNBC Technology｜https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html\n4. Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'｜CNBC Technology｜https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html\n5. Building tech in the world’s secret R&D hub｜MIT Technology Review｜https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-02｜V3\n生成时间：2026/7/2 08:17:46\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2457｜确认今日 22｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-02] 我国成功发射海洋二号E卫星\n   网易科技｜2026-07-02｜https://www.163.com/dy/article/L0QN6MRP0534A4SC.html\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “我国成功发射海洋二号E卫星” against primary-source evidence.\n\n2. [2026-07-02] 全球人工智能数据中心面临极端高温威胁\n   科技日报｜2026-07-02｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540787.html\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球人工智能数据中心面临极端高温威胁” against primary-source evidence.\n\n3. [2026-07-02] 新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道\n   新浪科技｜2026-07-02｜https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifiaew3008432.shtml\n   报道角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道” against primary-source evidence.\n\n4. [2026-07-02] 依赖AI让青少年疏于真实人际交往\n   新浪科技｜2026-07-02｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5977482.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “依赖AI让青少年疏于真实人际交往” against primary-source evidence.\n\n5. [2026-07-02] 从三个关键词看6月全球AI领域发展\n   科技日报｜2026-07-02｜https://www.stdaily.com/web/gdxw/2026-07/02/content_540781.html\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “从三个关键词看6月全球AI领域发展” against primary-source evidence.\n\n本次新增线索：\n- 我国成功发射海洋二号E卫星｜网易科技｜https://www.163.com/dy/article/L0QN6MRP0534A4SC.html\n- 中国科学院召开庆祝中国共产党成立105周年表彰大会暨党组书记专题党课报告会｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcry3718453.shtml\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：商业航天与卫星互联网（2 条，1 个来源）\n- 科学前沿：科学前沿动态（4 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump administration's AI crackdown opens door for China to close gap｜CNBC Technology｜https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html\n2. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\n3. Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare｜CNBC Technology｜https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html\n4. Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'｜CNBC Technology｜https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html\n5. Building tech in the world’s secret R&D hub｜MIT Technology Review｜https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-02｜生成时间：2026/7/2 08:17:46｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2457｜确认今日 22｜国际背景 18</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 0 条<br>延续跟踪线索：国内 20 条｜国际 18 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-02] 我国成功发射海洋二号E卫星</strong>\n      <span>网易科技｜2026-07-02｜<a href=\"https://www.163.com/dy/article/L0QN6MRP0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “我国成功发射海洋二号E卫星” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-02] 全球人工智能数据中心面临极端高温威胁</strong>\n      <span>科技日报｜2026-07-02｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/02/content_540787.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：190｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球人工智能数据中心面临极端高温威胁” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-02] 新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道</strong>\n      <span>新浪科技｜2026-07-02｜<a href=\"https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifiaew3008432.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：190｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-02] 依赖AI让青少年疏于真实人际交往</strong>\n      <span>新浪科技｜2026-07-02｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5977482.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “依赖AI让青少年疏于真实人际交往” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-02] 从三个关键词看6月全球AI领域发展</strong>\n      <span>科技日报｜2026-07-02｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/02/content_540781.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：178｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “从三个关键词看6月全球AI领域发展” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Trump administration's AI crackdown opens door for China to close gap</strong>\n      <span>时间：Tue, 30 Jun 2026 16:52:13 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Trump administration's AI crackdown opens door for China to close gap” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Anthropic is removing its covert code for catching Chinese competitors</strong>\n      <span>时间：Wed, 01 Jul 2026 22:56:31 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic is removing its covert code for catching Chinese competitors” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare</strong>\n      <span>时间：Tue, 30 Jun 2026 21:27:22 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic launches AI drug discovery program, joining tech giants in bet” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'</strong>\n      <span>时间：Wed, 01 Jul 2026 20:02:27 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gon” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Building tech in the world’s secret R&D hub</strong>\n      <span>时间：Tue, 30 Jun 2026 10:23:30 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Building tech in the world’s secret R&D hub” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/2 08:17:46\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-02] 我国成功发射海洋二号E卫星\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0QN6MRP0534A4SC.html\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “我国成功发射海洋二号E卫星” against primary-source evidence.\n\n2. [2026-07-02] 全球人工智能数据中心面临极端高温威胁\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/02/content_540787.html\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球人工智能数据中心面临极端高温威胁” against primary-source evidence.\n\n3. [2026-07-02] 新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifiaew3008432.shtml\n   角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “新能源汽车消费纠纷增多，车主维权有哪些靠谱渠道” against primary-source evidence.\n\n4. [2026-07-02] 依赖AI让青少年疏于真实人际交往\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5977482.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “依赖AI让青少年疏于真实人际交往” against primary-source evidence.\n\n5. [2026-07-02] 从三个关键词看6月全球AI领域发展\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/02/content_540781.html\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “从三个关键词看6月全球AI领域发展” against primary-source evidence.\n\n本次新增线索：\n- 我国成功发射海洋二号E卫星｜网易科技｜https://www.163.com/dy/article/L0QN6MRP0534A4SC.html\n- 中国科学院召开庆祝中国共产党成立105周年表彰大会暨党组书记专题党课报告会｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcry3718453.shtml\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：商业航天与卫星互联网（2 条，1 个来源）\n- 科学前沿：科学前沿动态（4 条，2 个来源）\n\n国际科技背景：\n1. Trump administration's AI crackdown opens door for China to close gap｜CNBC Technology｜https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html\n2. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\n3. Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare｜CNBC Technology｜https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html\n4. Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'｜CNBC Technology｜https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html\n5. Building tech in the world’s secret R&D hub｜MIT Technology Review｜https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
