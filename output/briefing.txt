@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/3 08:16:32
+生成时间：2026/7/3 09:05:38
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 0 条
-延续跟踪线索：国内 17 条｜国际 20 条
+新增核心线索：国内 17 条｜国际 2 条
+延续跟踪线索：国内 15 条｜国际 18 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-03] 人工智能科普不能止于“机器人秀”
+1. [2026-07-03] 攥指成拳，激发科技创新动能
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0703/c1004-40752724.html
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “攥指成拳，激发科技创新动能” against primary-source evidence.
+
+2. [2026-07-03] 英飞凌启用全球最大功率半导体与模拟 / 混合信号芯片晶圆厂
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifnnxh2392175.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人工智能科普不能止于“机器人秀”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifntfh3695848.shtml
+   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英飞凌启用全球最大功率半导体与模拟 / 混合信号芯片晶圆厂” against primary-source evidence.
 
-2. [2026-07-03] 可灵AI落地近30亿美元融资，创全球视频大模型公
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L0T4M3FC0534A4SC.html
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “可灵AI落地近30亿美元融资，创全球视频大模型公” against primary-source evidence.
-
-3. [2026-07-03] 技术颠覆？三星光刻技术引入量子
+3. [2026-07-03] 从工业提效到智能体增智 AI赋能产业焕新
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/hyyj/2026-07-03/doc-inifnnxh2435309.shtml
-   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “技术颠覆？三星光刻技术引入量子” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifntfk0451147.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “从工业提效到智能体增智 AI赋能产业焕新” against primary-source evidence.
 
-4. [2026-07-03] 三星、SK海力士投6万亿元建厂：韩国总统向公司掌门人90度鞠躬 本想行跪拜大礼
+4. [2026-07-03] 半导体开启提价窗口 国产芯片迎来战略机遇期
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-07-03/doc-inifnnxn0562277.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “三星、SK海力士投6万亿元建厂：韩国总统向公司掌门人90度鞠躬 本想行跪拜大礼” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifnnxh2440350.shtml
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “半导体开启提价窗口 国产芯片迎来战略机遇期” against primary-source evidence.
 
-5. [2026-07-03] Anthropic自研AI芯片消息拖累半导体板块，闪迪
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L0T8TJF10512B07B.html
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic自研AI芯片消息拖累半导体板块，闪迪” against primary-source evidence.
+5. [2026-07-03] 南极洲发现的椎骨化石确认为恐龙化石
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0703/c1004-40752760.html
+   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “南极洲发现的椎骨化石确认为恐龙化石” against primary-source evidence.
 
 本次新增线索：
-- 可灵AI落地近30亿美元融资，创全球视频大模型公｜网易科技｜https://www.163.com/dy/article/L0T4M3FC0534A4SC.html
-- 技术颠覆？三星光刻技术引入量子｜新浪科技｜https://finance.sina.com.cn/stock/hyyj/2026-07-03/doc-inifnnxh2435309.shtml
-- 三星、SK海力士投6万亿元建厂：韩国总统向公司掌门人90度鞠躬 本想行跪拜大礼｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-03/doc-inifnnxn0562277.shtml
-- Anthropic自研AI芯片消息拖累半导体板块，闪迪｜网易科技｜https://www.163.com/dy/article/L0T8TJF10512B07B.html
-- OpenAI 奥尔特曼称 AI 发展就像科幻小说，呼吁建立全球治理框架｜IT之家｜https://www.ithome.com/0/971/976.htm
+- 攥指成拳，激发科技创新动能｜人民网-科技｜http://finance.people.com.cn/n1/2026/0703/c1004-40752724.html
+- 英飞凌启用全球最大功率半导体与模拟 / 混合信号芯片晶圆厂｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifntfh3695848.shtml
+- 从工业提效到智能体增智 AI赋能产业焕新｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifntfk0451147.shtml
+- 半导体开启提价窗口 国产芯片迎来战略机遇期｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifnnxh2440350.shtml
+- 南极洲发现的椎骨化石确认为恐龙化石｜人民网-科技｜http://finance.people.com.cn/n1/2026/0703/c1004-40752760.html
+- Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（6 条，3 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
-- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- AI 应用：AI 应用与智能体（7 条，3 个来源）
+- 芯片/半导体：半导体供应链（4 条，1 个来源）
+- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）
+- 太空与低空经济：商业航天与卫星互联网（2 条，2 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
-1. A grim job outlook meets a scrappy workforce as administrative assistants harness AI｜AP Technology｜https://apnews.com/article/ai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48
-2. Anthropic gets government green light to restore access to its Fable 5 AI model｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-government-green-light-to-restore-access-to-its-fable-5-ai-model-141921865.html
-3. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
-4. Microsoft launches its own AI deployment company with $2.5 billion commitment｜TechCrunch｜https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
-5. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound｜CNBC Technology｜https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html
+1. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366
+2. A grim job outlook meets a scrappy workforce as administrative assistants harness AI｜AP Technology｜https://apnews.com/article/ai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48
+3. Anthropic gets government green light to restore access to its Fable 5 AI model｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-government-green-light-to-restore-access-to-its-fable-5-ai-model-141921865.html
+4. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
+5. Microsoft launches its own AI deployment company with $2.5 billion commitment｜TechCrunch｜https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
