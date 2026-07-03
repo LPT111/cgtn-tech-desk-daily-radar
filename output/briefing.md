@@ -3,60 +3,60 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/3 09:05:38
+生成时间：2026/7/3 16:39:50
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 17 条｜国际 2 条
-延续跟踪线索：国内 15 条｜国际 18 条
+新增核心线索：国内 63 条｜国际 2 条
+延续跟踪线索：国内 9 条｜国际 19 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-03] 攥指成拳，激发科技创新动能
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0703/c1004-40752724.html
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “攥指成拳，激发科技创新动能” against primary-source evidence.
-
-2. [2026-07-03] 英飞凌启用全球最大功率半导体与模拟 / 混合信号芯片晶圆厂
+1. [2026-07-03] 家用机器人 Isaac 1 发布：可叠衣、收拾房间和整理床铺，满电续航 8 小时
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifntfh3695848.shtml
-   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英飞凌启用全球最大功率半导体与模拟 / 混合信号芯片晶圆厂” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifpkay3607318.shtml
+   角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “家用机器人 Isaac 1 发布：可叠衣、收拾房间和整理床铺，满电续航 8 小时” against primary-source evidence.
 
-3. [2026-07-03] 从工业提效到智能体增智 AI赋能产业焕新
+2. [2026-07-03] 2025年人形机器人出货量大增近500%，智元、宇树
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0TVV38V0512B07B.html
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “2025年人形机器人出货量大增近500%，智元、宇树” against primary-source evidence.
+
+3. [2026-07-03] 全球首例“死亡红线”：Steam Machine 游戏主机开机约 20 分钟后出现 GPU 故障
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifntfk0451147.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “从工业提效到智能体增智 AI赋能产业焕新” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifpkau5622692.shtml
+   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “全球首例“死亡红线”：Steam Machine 游戏主机开机约 20 分钟后出现 GPU 故障” against primary-source evidence.
 
-4. [2026-07-03] 半导体开启提价窗口 国产芯片迎来战略机遇期
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifnnxh2440350.shtml
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “半导体开启提价窗口 国产芯片迎来战略机遇期” against primary-source evidence.
+4. [2026-07-03] 三星SDI达成超2万亿韩元电池供应协议，投向AI数
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0U3R0N80534A4SC.html
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “三星SDI达成超2万亿韩元电池供应协议，投向AI数” against primary-source evidence.
 
-5. [2026-07-03] 南极洲发现的椎骨化石确认为恐龙化石
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0703/c1004-40752760.html
-   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “南极洲发现的椎骨化石确认为恐龙化石” against primary-source evidence.
+5. [2026-07-03] Meta杀入公有云，全球AI芯片股大跌
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0TBR0C0051180F7.html
+   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta杀入公有云，全球AI芯片股大跌” against primary-source evidence.
 
 本次新增线索：
-- 攥指成拳，激发科技创新动能｜人民网-科技｜http://finance.people.com.cn/n1/2026/0703/c1004-40752724.html
-- 英飞凌启用全球最大功率半导体与模拟 / 混合信号芯片晶圆厂｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifntfh3695848.shtml
-- 从工业提效到智能体增智 AI赋能产业焕新｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifntfk0451147.shtml
-- 半导体开启提价窗口 国产芯片迎来战略机遇期｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifnnxh2440350.shtml
-- 南极洲发现的椎骨化石确认为恐龙化石｜人民网-科技｜http://finance.people.com.cn/n1/2026/0703/c1004-40752760.html
-- Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366
+- 家用机器人 Isaac 1 发布：可叠衣、收拾房间和整理床铺，满电续航 8 小时｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifpkay3607318.shtml
+- 2025年人形机器人出货量大增近500%，智元、宇树｜网易科技｜https://www.163.com/dy/article/L0TVV38V0512B07B.html
+- 全球首例“死亡红线”：Steam Machine 游戏主机开机约 20 分钟后出现 GPU 故障｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifpkau5622692.shtml
+- 三星SDI达成超2万亿韩元电池供应协议，投向AI数｜网易科技｜https://www.163.com/dy/article/L0U3R0N80534A4SC.html
+- Meta杀入公有云，全球AI芯片股大跌｜网易科技｜https://www.163.com/dy/article/L0TBR0C0051180F7.html
+- Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it｜The Register｜https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（7 条，3 个来源）
-- 芯片/半导体：半导体供应链（4 条，1 个来源）
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）
-- 太空与低空经济：商业航天与卫星互联网（2 条，2 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- AI 应用：AI动态（13 条，5 个来源）
+- 芯片/半导体：半导体供应链（9 条，3 个来源）
+- 机器人/具身智能：机器人动态（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）
+- 太空与低空经济：太空与低空动态（4 条，4 个来源）
+- 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
-1. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366
-2. A grim job outlook meets a scrappy workforce as administrative assistants harness AI｜AP Technology｜https://apnews.com/article/ai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48
+1. A grim job outlook meets a scrappy workforce as administrative assistants harness AI｜AP Technology｜https://apnews.com/article/ai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48
+2. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366
 3. Anthropic gets government green light to restore access to its Fable 5 AI model｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-government-green-light-to-restore-access-to-its-fable-5-ai-model-141921865.html
 4. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
 5. Microsoft launches its own AI deployment company with $2.5 billion commitment｜TechCrunch｜https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
