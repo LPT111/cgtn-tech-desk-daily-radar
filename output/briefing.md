@@ -3,56 +3,55 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/3 16:39:50
+生成时间：2026/7/3 17:20:18
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 63 条｜国际 2 条
-延续跟踪线索：国内 9 条｜国际 19 条
+新增核心线索：国内 16 条｜国际 0 条
+延续跟踪线索：国内 56 条｜国际 21 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-03] 家用机器人 Isaac 1 发布：可叠衣、收拾房间和整理床铺，满电续航 8 小时
+1. [2026-07-03] 攥指成拳，激发科技创新动能
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0703/c1004-40752724.html
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “攥指成拳，激发科技创新动能” against primary-source evidence.
+
+2. [2026-07-03] 三星传获Meta超10万亿韩元AI芯片代工订单 2纳米中长期积压订单看涨
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0U7KA7L05198CJN.html
+   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “三星传获Meta超10万亿韩元AI芯片代工订单 2纳米中长期积压订单看涨” against primary-source evidence.
+
+3. [2026-07-03] 北京亦庄：打通机器人从实验室到商用的“最后一公里”
+   来源：光明网-科技
+   链接：https://tech.gmw.cn/2026-07/03/content_38864864.htm
+   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “北京亦庄：打通机器人从实验室到商用的“最后一公里”” against primary-source evidence.
+
+4. [09:08] 历经数月攻关：英特尔 18A 良率问题宣告解决，月产能约 3 万片
+   来源：IT之家
+   链接：https://www.ithome.com/0/972/338.htm
+   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “历经数月攻关：英特尔 18A 良率问题宣告解决，月产能约 3 万片” against primary-source evidence.
+
+5. [2026-07-03] FF回应总部人去楼空 此前贾跃亭及乐视控股被恢复执行26亿元
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifpkay3607318.shtml
-   角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “家用机器人 Isaac 1 发布：可叠衣、收拾房间和整理床铺，满电续航 8 小时” against primary-source evidence.
-
-2. [2026-07-03] 2025年人形机器人出货量大增近500%，智元、宇树
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L0TVV38V0512B07B.html
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “2025年人形机器人出货量大增近500%，智元、宇树” against primary-source evidence.
-
-3. [2026-07-03] 全球首例“死亡红线”：Steam Machine 游戏主机开机约 20 分钟后出现 GPU 故障
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifpkau5622692.shtml
-   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “全球首例“死亡红线”：Steam Machine 游戏主机开机约 20 分钟后出现 GPU 故障” against primary-source evidence.
-
-4. [2026-07-03] 三星SDI达成超2万亿韩元电池供应协议，投向AI数
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L0U3R0N80534A4SC.html
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “三星SDI达成超2万亿韩元电池供应协议，投向AI数” against primary-source evidence.
-
-5. [2026-07-03] Meta杀入公有云，全球AI芯片股大跌
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L0TBR0C0051180F7.html
-   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta杀入公有云，全球AI芯片股大跌” against primary-source evidence.
+   链接：https://finance.sina.com.cn/wm/2026-07-03/doc-inifpkau5638307.shtml
+   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “FF回应总部人去楼空 此前贾跃亭及乐视控股被恢复执行26亿元” against primary-source evidence.
 
 本次新增线索：
-- 家用机器人 Isaac 1 发布：可叠衣、收拾房间和整理床铺，满电续航 8 小时｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifpkay3607318.shtml
-- 2025年人形机器人出货量大增近500%，智元、宇树｜网易科技｜https://www.163.com/dy/article/L0TVV38V0512B07B.html
-- 全球首例“死亡红线”：Steam Machine 游戏主机开机约 20 分钟后出现 GPU 故障｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifpkau5622692.shtml
-- 三星SDI达成超2万亿韩元电池供应协议，投向AI数｜网易科技｜https://www.163.com/dy/article/L0U3R0N80534A4SC.html
-- Meta杀入公有云，全球AI芯片股大跌｜网易科技｜https://www.163.com/dy/article/L0TBR0C0051180F7.html
-- Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it｜The Register｜https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274
+- 三星传获Meta超10万亿韩元AI芯片代工订单 2纳米中长期积压订单看涨｜网易科技｜https://www.163.com/dy/article/L0U7KA7L05198CJN.html
+- 北京亦庄：打通机器人从实验室到商用的“最后一公里”｜光明网-科技｜https://tech.gmw.cn/2026-07/03/content_38864864.htm
+- 历经数月攻关：英特尔 18A 良率问题宣告解决，月产能约 3 万片｜IT之家｜https://www.ithome.com/0/972/338.htm
+- FF回应总部人去楼空 此前贾跃亭及乐视控股被恢复执行26亿元｜新浪科技｜https://finance.sina.com.cn/wm/2026-07-03/doc-inifpkau5638307.shtml
+- AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理｜IT之家｜https://www.ithome.com/0/972/341.htm
 
 今日热点方向：
-- AI 应用：AI动态（13 条，5 个来源）
-- 芯片/半导体：半导体供应链（9 条，3 个来源）
-- 机器人/具身智能：机器人动态（2 条，2 个来源）
+- AI 应用：AI动态（14 条，5 个来源）
+- 芯片/半导体：半导体供应链（11 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）
 - 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）
 - 太空与低空经济：太空与低空动态（4 条，4 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. A grim job outlook meets a scrappy workforce as administrative assistants harness AI｜AP Technology｜https://apnews.com/article/ai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48
