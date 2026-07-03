@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/3 07:50:00
+生成时间：2026/7/3 08:16:32
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 18 条｜国际 17 条
-延续跟踪线索：国内 0 条｜国际 6 条
+新增核心线索：国内 8 条｜国际 0 条
+延续跟踪线索：国内 17 条｜国际 20 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,45 +18,44 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifnnxh2392175.shtml
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人工智能科普不能止于“机器人秀”” against primary-source evidence.
 
-2. [2026-07-03] 影响市场重大事件：我国成功发射海洋二号E卫星
+2. [2026-07-03] 可灵AI落地近30亿美元融资，创全球视频大模型公
    来源：网易科技
-   链接：https://www.163.com/dy/article/L0T3BC4B0512B07B.html
-   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：我国成功发射海洋二号E卫星” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L0T4M3FC0534A4SC.html
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “可灵AI落地近30亿美元融资，创全球视频大模型公” against primary-source evidence.
 
-3. [2026-07-03] 苹果折叠屏信心满满！iPhone Ultra年产目标上调至1000万台
+3. [2026-07-03] 技术颠覆？三星光刻技术引入量子
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-07-03/doc-inifnnxe5624502.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “苹果折叠屏信心满满！iPhone Ultra年产目标上调至1000万台” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/hyyj/2026-07-03/doc-inifnnxh2435309.shtml
+   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “技术颠覆？三星光刻技术引入量子” against primary-source evidence.
 
-4. [2026-07-03] 得力睿印系列高速打印机发布：搭载龙芯2P0300国产芯片 全链路自主可控
+4. [2026-07-03] 三星、SK海力士投6万亿元建厂：韩国总统向公司掌门人90度鞠躬 本想行跪拜大礼
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifmvzn5812942.shtml
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “得力睿印系列高速打印机发布：搭载龙芯2P0300国产芯片 全链路自主可控” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-07-03/doc-inifnnxn0562277.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “三星、SK海力士投6万亿元建厂：韩国总统向公司掌门人90度鞠躬 本想行跪拜大礼” against primary-source evidence.
 
-5. [2026-07-03] 特斯拉二季度全球交付超48万辆
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifmvzn5824830.shtml
-   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉二季度全球交付超48万辆” against primary-source evidence.
+5. [2026-07-03] Anthropic自研AI芯片消息拖累半导体板块，闪迪
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0T8TJF10512B07B.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic自研AI芯片消息拖累半导体板块，闪迪” against primary-source evidence.
 
 本次新增线索：
-- 人工智能科普不能止于“机器人秀”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifnnxh2392175.shtml
-- 影响市场重大事件：我国成功发射海洋二号E卫星｜网易科技｜https://www.163.com/dy/article/L0T3BC4B0512B07B.html
-- 苹果折叠屏信心满满！iPhone Ultra年产目标上调至1000万台｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-03/doc-inifnnxe5624502.shtml
-- 得力睿印系列高速打印机发布：搭载龙芯2P0300国产芯片 全链路自主可控｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifmvzn5812942.shtml
-- 特斯拉二季度全球交付超48万辆｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifmvzn5824830.shtml
-- A grim job outlook meets a scrappy workforce as administrative assistants harness AI｜AP Technology｜https://apnews.com/article/ai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48
+- 可灵AI落地近30亿美元融资，创全球视频大模型公｜网易科技｜https://www.163.com/dy/article/L0T4M3FC0534A4SC.html
+- 技术颠覆？三星光刻技术引入量子｜新浪科技｜https://finance.sina.com.cn/stock/hyyj/2026-07-03/doc-inifnnxh2435309.shtml
+- 三星、SK海力士投6万亿元建厂：韩国总统向公司掌门人90度鞠躬 本想行跪拜大礼｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-03/doc-inifnnxn0562277.shtml
+- Anthropic自研AI芯片消息拖累半导体板块，闪迪｜网易科技｜https://www.163.com/dy/article/L0T8TJF10512B07B.html
+- OpenAI 奥尔特曼称 AI 发展就像科幻小说，呼吁建立全球治理框架｜IT之家｜https://www.ithome.com/0/971/976.htm
 
 今日热点方向：
-- AI 应用：AI动态（2 条，2 个来源）
-- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）
+- AI 应用：AI 应用与智能体（6 条，3 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
 - 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. A grim job outlook meets a scrappy workforce as administrative assistants harness AI｜AP Technology｜https://apnews.com/article/ai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48
-2. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366
+2. Anthropic gets government green light to restore access to its Fable 5 AI model｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-government-green-light-to-restore-access-to-its-fable-5-ai-model-141921865.html
 3. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
 4. Microsoft launches its own AI deployment company with $2.5 billion commitment｜TechCrunch｜https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
 5. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound｜CNBC Technology｜https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html
