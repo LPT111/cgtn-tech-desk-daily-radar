@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/3 17:36:59
+生成时间：2026/7/4 07:51:02
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 0 条
-延续跟踪线索：国内 64 条｜国际 21 条
+新增核心线索：国内 7 条｜国际 7 条
+延续跟踪线索：国内 0 条｜国际 14 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-03] 攥指成拳，激发科技创新动能
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0703/c1004-40752724.html
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “攥指成拳，激发科技创新动能” against primary-source evidence.
-
-2. [2026-07-03] 北京亦庄：打通机器人从实验室到商用的“最后一公里”
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-07/03/content_38864864.htm
-   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “北京亦庄：打通机器人从实验室到商用的“最后一公里”” against primary-source evidence.
-
-3. [06:58] 全球首例“死亡红线”：Steam Machine 游戏主机开机约 20 分钟后出现 GPU 故障
-   来源：IT之家
-   链接：https://www.ithome.com/0/972/265.htm
-   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “全球首例“死亡红线”：Steam Machine 游戏主机开机约 20 分钟后出现 GPU 故障” against primary-source evidence.
-
-4. [2026-07-03] Meta在评估由三星代工生产10万亿韩元的定制AI芯片
+1. [2026-07-04] Katalyst发射机器人飞船拯救老化卫星 展示轨道抓捕技术
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifpkau5678147.shtml
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta在评估由三星代工生产10万亿韩元的定制AI芯片” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-04/doc-inifpyys3608218.shtml
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Katalyst发射机器人飞船拯救老化卫星 展示轨道抓捕技术” against primary-source evidence.
 
-5. [09:08] 历经数月攻关：英特尔 18A 良率问题宣告解决，月产能约 3 万片
-   来源：IT之家
-   链接：https://www.ithome.com/0/972/338.htm
-   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “历经数月攻关：英特尔 18A 良率问题宣告解决，月产能约 3 万片” against primary-source evidence.
+2. [2026-07-04] 皮肤细腻、任人摆布！最高99万元的仿生机器人真要进家了
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-04/doc-inifqfhn2346551.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “皮肤细腻、任人摆布！最高99万元的仿生机器人真要进家了” against primary-source evidence.
+
+3. [2026-07-04] 马斯克限制特斯拉员工AI开支
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “马斯克限制特斯拉员工AI开支” against primary-source evidence.
+
+4. [2026-07-04] 韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0VHKGDP05198CJN.html
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内” against primary-source evidence.
+
+5. [2026-07-04] AI时代Token成为“统一度量衡” 业内呼吁合力解决计费不透明等问题
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L0V6DR9A0512B07B.html
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI时代Token成为“统一度量衡” 业内呼吁合力解决计费不透明等问题” against primary-source evidence.
 
 本次新增线索：
-- 全球首例“死亡红线”：Steam Machine 游戏主机开机约 20 分钟后出现 GPU 故障｜IT之家｜https://www.ithome.com/0/972/265.htm
-- Meta在评估由三星代工生产10万亿韩元的定制AI芯片｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifpkau5678147.shtml
-- 韩国政府趁热打铁：斥资312万亿韩元在东南地区打造物理AI中心｜网易科技｜https://www.163.com/dy/article/L0U95MK905198CJN.html
-- 比亚迪腾势 Z 跑车官宣登陆 2026 古德伍德速度节，7 月 9 日全球上市首秀｜IT之家｜https://www.ithome.com/0/972/249.htm
-- ���棺AI��ģ����ҵ�������ս��ȫ�����｜央广网-科技｜https://www.cnr.cn/tech/techgd/20260703/t20260703_527688549.shtml
+- Katalyst发射机器人飞船拯救老化卫星 展示轨道抓捕技术｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-04/doc-inifpyys3608218.shtml
+- 皮肤细腻、任人摆布！最高99万元的仿生机器人真要进家了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-04/doc-inifqfhn2346551.shtml
+- 马斯克限制特斯拉员工AI开支｜新浪科技｜https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml
+- 韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内｜网易科技｜https://www.163.com/dy/article/L0VHKGDP05198CJN.html
+- AI时代Token成为“统一度量衡” 业内呼吁合力解决计费不透明等问题｜网易科技｜https://www.163.com/dy/article/L0V6DR9A0512B07B.html
+- Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/
 
 今日热点方向：
-- AI 应用：AI动态（14 条，6 个来源）
-- 芯片/半导体：半导体供应链（11 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）
-- 太空与低空经济：太空与低空动态（4 条，4 个来源）
+- AI 应用：AI动态（2 条，2 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. A grim job outlook meets a scrappy workforce as administrative assistants harness AI｜AP Technology｜https://apnews.com/article/ai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48
+1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/
 2. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366
-3. Anthropic gets government green light to restore access to its Fable 5 AI model｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/anthropic-gets-government-green-light-to-restore-access-to-its-fable-5-ai-model-141921865.html
-4. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
-5. Microsoft launches its own AI deployment company with $2.5 billion commitment｜TechCrunch｜https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
+3. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
+4. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound｜CNBC Technology｜https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html
+5. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
