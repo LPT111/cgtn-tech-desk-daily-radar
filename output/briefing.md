@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/3 17:20:18
+生成时间：2026/7/3 17:36:59
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 16 条｜国际 0 条
-延续跟踪线索：国内 56 条｜国际 21 条
+新增核心线索：国内 6 条｜国际 0 条
+延续跟踪线索：国内 64 条｜国际 21 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,35 +18,35 @@ ChenChen 今日 Briefing｜V3
    链接：http://finance.people.com.cn/n1/2026/0703/c1004-40752724.html
    角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “攥指成拳，激发科技创新动能” against primary-source evidence.
 
-2. [2026-07-03] 三星传获Meta超10万亿韩元AI芯片代工订单 2纳米中长期积压订单看涨
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L0U7KA7L05198CJN.html
-   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “三星传获Meta超10万亿韩元AI芯片代工订单 2纳米中长期积压订单看涨” against primary-source evidence.
-
-3. [2026-07-03] 北京亦庄：打通机器人从实验室到商用的“最后一公里”
+2. [2026-07-03] 北京亦庄：打通机器人从实验室到商用的“最后一公里”
    来源：光明网-科技
    链接：https://tech.gmw.cn/2026-07/03/content_38864864.htm
    角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “北京亦庄：打通机器人从实验室到商用的“最后一公里”” against primary-source evidence.
 
-4. [09:08] 历经数月攻关：英特尔 18A 良率问题宣告解决，月产能约 3 万片
+3. [06:58] 全球首例“死亡红线”：Steam Machine 游戏主机开机约 20 分钟后出现 GPU 故障
+   来源：IT之家
+   链接：https://www.ithome.com/0/972/265.htm
+   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “全球首例“死亡红线”：Steam Machine 游戏主机开机约 20 分钟后出现 GPU 故障” against primary-source evidence.
+
+4. [2026-07-03] Meta在评估由三星代工生产10万亿韩元的定制AI芯片
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifpkau5678147.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta在评估由三星代工生产10万亿韩元的定制AI芯片” against primary-source evidence.
+
+5. [09:08] 历经数月攻关：英特尔 18A 良率问题宣告解决，月产能约 3 万片
    来源：IT之家
    链接：https://www.ithome.com/0/972/338.htm
    角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “历经数月攻关：英特尔 18A 良率问题宣告解决，月产能约 3 万片” against primary-source evidence.
 
-5. [2026-07-03] FF回应总部人去楼空 此前贾跃亭及乐视控股被恢复执行26亿元
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/wm/2026-07-03/doc-inifpkau5638307.shtml
-   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “FF回应总部人去楼空 此前贾跃亭及乐视控股被恢复执行26亿元” against primary-source evidence.
-
 本次新增线索：
-- 三星传获Meta超10万亿韩元AI芯片代工订单 2纳米中长期积压订单看涨｜网易科技｜https://www.163.com/dy/article/L0U7KA7L05198CJN.html
-- 北京亦庄：打通机器人从实验室到商用的“最后一公里”｜光明网-科技｜https://tech.gmw.cn/2026-07/03/content_38864864.htm
-- 历经数月攻关：英特尔 18A 良率问题宣告解决，月产能约 3 万片｜IT之家｜https://www.ithome.com/0/972/338.htm
-- FF回应总部人去楼空 此前贾跃亭及乐视控股被恢复执行26亿元｜新浪科技｜https://finance.sina.com.cn/wm/2026-07-03/doc-inifpkau5638307.shtml
-- AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理｜IT之家｜https://www.ithome.com/0/972/341.htm
+- 全球首例“死亡红线”：Steam Machine 游戏主机开机约 20 分钟后出现 GPU 故障｜IT之家｜https://www.ithome.com/0/972/265.htm
+- Meta在评估由三星代工生产10万亿韩元的定制AI芯片｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifpkau5678147.shtml
+- 韩国政府趁热打铁：斥资312万亿韩元在东南地区打造物理AI中心｜网易科技｜https://www.163.com/dy/article/L0U95MK905198CJN.html
+- 比亚迪腾势 Z 跑车官宣登陆 2026 古德伍德速度节，7 月 9 日全球上市首秀｜IT之家｜https://www.ithome.com/0/972/249.htm
+- ���棺AI��ģ����ҵ�������ս��ȫ�����｜央广网-科技｜https://www.cnr.cn/tech/techgd/20260703/t20260703_527688549.shtml
 
 今日热点方向：
-- AI 应用：AI动态（14 条，5 个来源）
+- AI 应用：AI动态（14 条，6 个来源）
 - 芯片/半导体：半导体供应链（11 条，3 个来源）
 - 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）
 - 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）
