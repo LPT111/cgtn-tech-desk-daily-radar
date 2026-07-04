@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/4 09:02:20
+生成时间：2026/7/4 16:14:13
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 0 条
-延续跟踪线索：国内 6 条｜国际 19 条
+新增核心线索：国内 35 条｜国际 3 条
+延续跟踪线索：国内 8 条｜国际 17 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [00:57] 瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装
-   来源：IT之家
-   链接：https://www.ithome.com/0/972/490.htm
-   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装” against primary-source evidence.
+1. [2026-07-04] 大语言模型“安全体检”报告为AI治理提供参考
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0704/c1004-40753271.html
+   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “大语言模型“安全体检”报告为AI治理提供参考” against primary-source evidence.
 
-2. [2026-07-04] 汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市
+2. [2026-07-04] 美发射商业航天器抬升天文卫星轨道 延长工作寿
    来源：网易科技
-   链接：https://www.163.com/dy/article/L0VT49420534A4SC.html
-   角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L10401BB05198CJN.html
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “美发射商业航天器抬升天文卫星轨道 延长工作寿” against primary-source evidence.
 
-3. [2026-07-04] “亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/2026-07-04/doc-inifqweh3400599.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1” against primary-source evidence.
+3. [2026-07-04] 国家航天局：我国将建立近地小行星天地协同监测体系
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0704/c1004-40753309.html
+   角度：Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “国家航天局：我国将建立近地小行星天地协同监测体系” against primary-source evidence.
 
-4. [2026-07-04] 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片
+4. [2026-07-04] 我国研制全球首款神经动力学芯片，首次将单步运算时延压缩至 2.12 毫秒
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwek0149403.shtml
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifrnzu5457535.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “我国研制全球首款神经动力学芯片，首次将单步运算时延压缩至 2.12 毫秒” against primary-source evidence.
 
-5. [2026-07-04] 马斯克限制特斯拉员工AI开支
+5. [2026-07-04] 美光斥资90亿美元扩建日本西部芯片工厂
    来源：新浪科技
-   链接：https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “马斯克限制特斯拉员工AI开支” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-04/doc-inifrhue0070961.shtml
+   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “美光斥资90亿美元扩建日本西部芯片工厂” against primary-source evidence.
 
 本次新增线索：
-- 瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装｜IT之家｜https://www.ithome.com/0/972/490.htm
-- 汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市｜网易科技｜https://www.163.com/dy/article/L0VT49420534A4SC.html
-- “亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1｜新浪科技｜https://finance.sina.com.cn/tech/2026-07-04/doc-inifqweh3400599.shtml
-- 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwek0149403.shtml
-- 马斯克限制特斯拉员工AI开支｜新浪科技｜https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml
+- 大语言模型“安全体检”报告为AI治理提供参考｜人民网-科技｜http://finance.people.com.cn/n1/2026/0704/c1004-40753271.html
+- 美发射商业航天器抬升天文卫星轨道 延长工作寿｜网易科技｜https://www.163.com/dy/article/L10401BB05198CJN.html
+- 国家航天局：我国将建立近地小行星天地协同监测体系｜人民网-科技｜http://finance.people.com.cn/n1/2026/0704/c1004-40753309.html
+- 我国研制全球首款神经动力学芯片，首次将单步运算时延压缩至 2.12 毫秒｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifrnzu5457535.shtml
+- 美光斥资90亿美元扩建日本西部芯片工厂｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-04/doc-inifrhue0070961.shtml
+- Anthropic finally brings back Claude Fable 5, but you’ll have to live with a temporary usage limit｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-finally-brings-back-claude-045118890.html
 
 今日热点方向：
-- AI 应用：AI动态（6 条，4 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
-- 太空与低空经济：
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- AI 应用：AI动态（10 条，2 个来源）
+- 芯片/半导体：半导体供应链（4 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（4 条，2 个来源）
 
 国际科技背景：
-1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/
-2. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
-3. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound｜CNBC Technology｜https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html
-4. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html
-5. Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target｜Ars Technica｜https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/
+1. Anthropic finally brings back Claude Fable 5, but you’ll have to live with a temporary usage limit｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-finally-brings-back-claude-045118890.html
+2. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/
+3. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
+4. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound｜CNBC Technology｜https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html
+5. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
