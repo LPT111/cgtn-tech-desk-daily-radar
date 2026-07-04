@@ -1,27 +1,37 @@
 {
-  "generatedAt": "2026-07-04T00:15:01.007Z",
+  "generatedAt": "2026-07-04T01:02:20.143Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-04",
   "changeSummary": {
-    "domesticNew": 3,
+    "domesticNew": 8,
     "globalNew": 0,
-    "domesticContinued": 4,
-    "globalContinued": 21,
+    "domesticContinued": 6,
+    "globalContinued": 19,
     "topNewDomestic": [
       {
-        "title": "网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwee2268034.shtml"
+        "title": "瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/972/490.htm"
       },
       {
-        "title": "首款神经动力学芯片问世",
+        "title": "汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L0VT49420534A4SC.html"
+      },
+      {
+        "title": "“亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-07-04/doc-inifqwee2260401.shtml"
+        "url": "https://finance.sina.com.cn/tech/2026-07-04/doc-inifqweh3400599.shtml"
       },
       {
         "title": "苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/972/476.htm"
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwek0149403.shtml"
+      },
+      {
+        "title": "马斯克限制特斯拉员工AI开支",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml"
       }
     ],
     "topNewGlobal": [],
@@ -31,8 +41,8 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 893,
-    "globalRejected": 879,
+    "domesticRejected": 886,
+    "globalRejected": 881,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -46,7 +56,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 27,
+  "successSources": 30,
   "failedSources": [
     {
       "name": "财联社",
@@ -59,24 +69,9 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -101,24 +96,9 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -135,7 +115,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 162,
+      "parsed": 180,
       "failed": false,
       "optional": false
     },
@@ -299,16 +279,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -329,9 +307,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -386,18 +363,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1345,
+  "itemsSeen": 1373,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 321,
-  "itemsAfterDedupe": 228,
-  "todayItemsSeen": 7,
-  "suspectedItemsSeen": 23,
-  "skippedNonToday": 199,
+  "itemsAfterRelevantFilter": 325,
+  "itemsAfterDedupe": 227,
+  "todayItemsSeen": 14,
+  "suspectedItemsSeen": 21,
+  "skippedNonToday": 192,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 162,
+      "parsed": 180,
       "failed": false,
       "optional": false
     },
@@ -561,16 +538,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -591,9 +566,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -688,7 +662,7 @@
     {
       "name": "Yahoo News Technology",
       "tier": "international",
-      "parsed": 237,
+      "parsed": 238,
       "failed": false,
       "optional": false
     },
@@ -812,24 +786,9 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -861,21 +820,51 @@
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1214,
+  "globalItemsSeen": 1215,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 96,
+  "globalItemsAfterRelevantFilter": 95,
   "topics": [
     {
-      "topic": "芯片动态",
-      "count": 2,
-      "sourceCount": 2,
+      "topic": "AI动态",
+      "count": 6,
+      "sourceCount": 4,
       "sources": [
         "新浪科技",
+        "科技日报",
+        "网易科技",
         "IT之家"
       ],
       "items": [
-        "首款神经动力学芯片问世",
-        "苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片"
+        "“亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1",
+        "马斯克限制特斯拉员工AI开支",
+        "巨头开始“卖算力”了！震动AI市场",
+        "腾讯、阿里、百度，历史性同台！快手旗下可灵AI",
+        "印度 AI 相关岗位招聘逆势增长，增速超 IT 行业整体水平"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
+        "新浪科技"
+      ],
+      "items": [
+        "瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装",
+        "苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片",
+        "首款神经动力学芯片问世"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市"
       ]
     },
     {
@@ -898,17 +887,6 @@
       ],
       "items": [
         "韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内"
-      ]
-    },
-    {
-      "topic": "AI动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "AI时代Token成为“统一度量衡” 业内呼吁合力解决计费不透明等问题"
       ]
     },
     {
@@ -935,6 +913,414 @@
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装",
+      "summary": "科技媒体 Wccftech 昨日（7 月 3 日）发布博文，报道称在 Exynos 2700 芯片上，三星为优化散热而调整封装策略，DRAM 内存和 SoC 芯片采用分离设计。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/972/490.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/972/490.htm"
+      ],
+      "publishedAt": "Sat, 04 Jul 2026 00:57:33 GMT",
+      "date": "2026-07-04",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 171,
+      "reporterScore": 179,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "科技媒体 Wccftech 昨日（7 月 3 日）发布博文，报道称在 Exynos 2700 芯片上，三星为优化散热而调整封装策略，DRAM 内存和 SoC 芯片采用分离设计。",
+      "relatedTitles": [
+        "瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市",
+      "summary": "汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市,特斯拉,乘用车,比亚迪,新能源车,汽车行业,model y",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L0VT49420534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L0VT49420534A4SC.html"
+      ],
+      "publishedAt": "2026-07-04",
+      "date": "2026-07-04",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 166,
+      "reporterScore": 174,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市,特斯拉,乘用车,比亚迪,新能源车,汽车行业,model y",
+      "relatedTitles": [
+        "汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "“亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1",
+      "summary": "如果说过去几轮世界杯，人们讨论最多的是AI会不会“集体翻车”，那么澳大利亚与埃及这场比赛，则呈现出另一种完全不同的画风，AI没有形成共识。 北京时间7月4日凌晨2点，澳大利亚与埃及战成1：1。赛前，在联想集团×咪咕视频《世界杯预测人...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/2026-07-04/doc-inifqweh3400599.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/2026-07-04/doc-inifqweh3400599.shtml"
+      ],
+      "publishedAt": "2026-07-04",
+      "date": "2026-07-04",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "如果说过去几轮世界杯，人们讨论最多的是AI会不会“集体翻车”，那么澳大利亚与埃及这场比赛，则呈现出另一种完全不同的画风，AI没有形成共识。 北京时间7月4日凌晨2点，澳大利亚与埃及战成1：1。赛前，在联想集团×咪咕视频《世界杯预测人...",
+      "relatedTitles": [
+        "“亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片",
+      "summary": "爆料称 iPhone Air 2 将搭载 A20 Pro 芯片，并新增一颗 48MP 超广角镜头，实现双摄。为了在轻薄机身内塞下双摄，苹果将缩小面容 ID 组件以腾出空间。新机还将采用 2nm 工艺，能效和续航有望进一步提升。#iPhoneAir2#",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwek0149403.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwek0149403.shtml"
+      ],
+      "publishedAt": "2026-07-04",
+      "date": "2026-07-04",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "IT之家 7 月 4 日消息，爆料人乔恩 · 普罗瑟（Jon Prosser）今天在最新一期 fpt.视频中为我们带来了 iPhone Air 2 最新情报，显示该机将新增第二颗后置摄像头，搭载 A20 Pro 芯片。据介绍，iPhone ...",
+      "relatedTitles": [
+        "苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "马斯克限制特斯拉员工AI开支",
+      "summary": "埃隆·马斯克已将特斯拉员工在人工智能方面的每周开支上限定为200美元（150英镑），在企业纷纷寻求控制失控账单之际迈出了限制步伐。 特斯拉员工已被告知，从周一开始他们对AI的使用将受到限制。 该上限不适用于马斯克自有的AI系统...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml"
+      ],
+      "publishedAt": "2026-07-04",
+      "date": "2026-07-04",
+      "category": "AI",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “马斯克限制特斯拉员工AI开支” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "埃隆·马斯克已将特斯拉员工在人工智能方面的每周开支上限定为200美元（150英镑），在企业纷纷寻求控制失控账单之际迈出了限制步伐。 特斯拉员工已被告知，从周一开始他们对AI的使用将受到限制。 该上限不适用于马斯克自有的AI系统...",
+      "relatedTitles": [
+        "马斯克限制特斯拉员工AI开支"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "巨头开始“卖算力”了！震动AI市场",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 巨头开始“卖算力”了！震动AI市场 2026-07-04 08:50:39 来源: 央视财经 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-07/04/content_541955.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-07/04/content_541955.html"
+      ],
+      "publishedAt": "2026-07-04",
+      "date": "2026-07-04",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “巨头开始“卖算力”了！震动AI市场” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 巨头开始“卖算力”了！震动AI市场 2026-07-04 08:50:39 来源: 央视财经 点击数： 热点",
+      "relatedTitles": [
+        "巨头开始“卖算力”了！震动AI市场"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8",
@@ -1001,7 +1387,7 @@
       "relatedTitles": [
         "网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1069,75 +1455,7 @@
       "relatedTitles": [
         "首款神经动力学芯片问世"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片",
-      "summary": "爆料称 iPhone Air 2 将搭载 A20 Pro 芯片，并新增一颗 48MP 超广角镜头，实现双摄。为了在轻薄机身内塞下双摄，苹果将缩小面容 ID 组件以腾出空间。新机还将采用 2nm 工艺，能效和续航有望进一步提升。#iPhoneAir2#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/972/476.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/972/476.htm"
-      ],
-      "publishedAt": "Fri, 03 Jul 2026 23:53:23 GMT",
-      "date": "2026-07-04",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 163,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "爆料称 iPhone Air 2 将搭载 A20 Pro 芯片，并新增一颗 48MP 超广角镜头，实现双摄。为了在轻薄机身内塞下双摄，苹果将缩小面容 ID 组件以腾出空间。新机还将采用 2nm 工艺，能效和续航有望进一步提升。#iPhoneAir2#",
-      "relatedTitles": [
-        "苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1206,6 +1524,142 @@
         "韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "腾讯、阿里、百度，历史性同台！快手旗下可灵AI",
+      "summary": "腾讯、阿里、百度，历史性同台！快手旗下可灵AI首轮融资落地,融资,腾讯,芒果,百度,盘和林,bat,知名企业,阿里巴巴集团,快手(软体)",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L0VSPBOK0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L0VSPBOK0512B07B.html"
+      ],
+      "publishedAt": "2026-07-04",
+      "date": "2026-07-04",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “腾讯、阿里、百度，历史性同台！快手旗下可灵AI” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "腾讯、阿里、百度，历史性同台！快手旗下可灵AI首轮融资落地,融资,腾讯,芒果,百度,盘和林,bat,知名企业,阿里巴巴集团,快手(软体)",
+      "relatedTitles": [
+        "腾讯、阿里、百度，历史性同台！快手旗下可灵AI"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "印度 AI 相关岗位招聘逆势增长，增速超 IT 行业整体水平",
+      "summary": "当地招聘平台 Naukri 公布的调查显示，印度 IT 企业正加快调整人才结构。6 月，AI 岗位招聘量同比增长 16%，明显高于行业整体水平，而 IT 岗位招聘量同期下降 3%。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/972/481.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/972/481.htm"
+      ],
+      "publishedAt": "Sat, 04 Jul 2026 00:16:26 GMT",
+      "date": "2026-07-04",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “印度 AI 相关岗位招聘逆势增长，增速超 IT 行业整体水平” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "当地招聘平台 Naukri 公布的调查显示，印度 IT 企业正加快调整人才结构。6 月，AI 岗位招聘量同比增长 16%，明显高于行业整体水平，而 IT 岗位招聘量同期下降 3%。",
+      "relatedTitles": [
+        "印度 AI 相关岗位招聘逆势增长，增速超 IT 行业整体水平"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1482,6 +1936,73 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "国常会：加快超大规模智算集群建设",
+      "summary": "首页 国常会：加快人工智能关键技术攻关和超大规模智算集群建设 分享到： 人工智能是新一轮科技革命和产业变革的重要驱动力量。6月29日召开的国务院常务会议，听取人工智能发展情况汇报，并作出一系列针对性部署。 近年来，我国人工智能加速与制造业、服务业等千行百业深度融合，正在成为推动高质量发展的重要引擎。2025年，我国人工",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/economy/2026_06_30_822051.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/economy/2026_06_30_822051.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "监管与安全",
+      "classificationConfidence": 0.95,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 100,
+      "keywords": "technology policy, AI governance, safety and standards",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 179,
+      "scoreBreakdown": {
+        "hardTech": 100,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 12,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 100,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "live",
+      "angle": "Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “国常会：加快超大规模智算集群建设” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "监管与安全动态",
+      "rawText": "首页 国常会：加快人工智能关键技术攻关和超大规模智算集群建设 分享到： 人工智能是新一轮科技革命和产业变革的重要驱动力量。6月29日召开的国务院常务会议，听取人工智能发展情况汇报，并作出一系列针对性部署。 近年来，我国人工智能加速与制造业、服务业等千行百业深度融合，正在成为推动高质量发展的重要引擎。2025年，我国人工智能核心产业规模超过1.2万亿元，企业数量超过6200家。会议指出，要深刻把握人工智能演进趋势，完善支持政策和治理体系，牢牢掌握发展主动权。 会议指出，要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设，强化高质量数据供给，加强人才、资金等要素保障，支持企业开展基础研究和前沿探索。要深入实施“人工智能+”行动，发挥我国产业体系完备、应用场景丰富等优势，促进智能产品和服务加快规模化商业应用。 安全治理，事关人工智能长远发展。会议强调，要守牢人工智能安全底线，完善科技伦理、测试认证等制度规则，构建动态适应、分级分类的安全监管体系，加强国际人工智能治理合作。 “会议的一系列部署深刻把握人工智能技术和产业演进规律，立足当前、着眼长远，突出让市场有方向、有信心，为进",
+      "relatedTitles": [
+        "国常会：加快超大规模智算集群建设"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "中欧夹击下，日本押注AI求翻盘",
       "summary": "日本在工业机器人领域长期保持着较强的竞争力，但随着中国和欧洲的工业机器人制造商后来居上，日本企业正逐渐丧失市场份额。据《日经亚洲》7月3日报道，为争夺市场主导地位，日本工业机器人制造商准备押注人工智能（AI），以提升产品竞争力。",
       "source": "观察者网-产业科技",
@@ -1545,73 +2066,6 @@
       "rawText": "日本在工业机器人领域长期保持着较强的竞争力，但随着中国和欧洲的工业机器人制造商后来居上，日本企业正逐渐丧失市场份额。据《日经亚洲》7月3日报道，为争夺市场主导地位，日本工业机器人制造商准备押注人工智能（AI），以提升产品竞争力。",
       "relatedTitles": [
         "中欧夹击下，日本押注AI求翻盘"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "国常会：加快超大规模智算集群建设",
-      "summary": "首页 国常会：加快人工智能关键技术攻关和超大规模智算集群建设 分享到： 人工智能是新一轮科技革命和产业变革的重要驱动力量。6月29日召开的国务院常务会议，听取人工智能发展情况汇报，并作出一系列针对性部署。 近年来，我国人工智能加速与制造业、服务业等千行百业深度融合，正在成为推动高质量发展的重要引擎。2025年，我国人工",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/economy/2026_06_30_822051.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/economy/2026_06_30_822051.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "监管与安全",
-      "classificationConfidence": 0.95,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 100,
-      "keywords": "technology policy, AI governance, safety and standards",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 100,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 0,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 12,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 100,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "live",
-      "angle": "Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “国常会：加快超大规模智算集群建设” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "监管与安全动态",
-      "rawText": "首页 国常会：加快人工智能关键技术攻关和超大规模智算集群建设 分享到： 人工智能是新一轮科技革命和产业变革的重要驱动力量。6月29日召开的国务院常务会议，听取人工智能发展情况汇报，并作出一系列针对性部署。 近年来，我国人工智能加速与制造业、服务业等千行百业深度融合，正在成为推动高质量发展的重要引擎。2025年，我国人工智能核心产业规模超过1.2万亿元，企业数量超过6200家。会议指出，要深刻把握人工智能演进趋势，完善支持政策和治理体系，牢牢掌握发展主动权。 会议指出，要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设，强化高质量数据供给，加强人才、资金等要素保障，支持企业开展基础研究和前沿探索。要深入实施“人工智能+”行动，发挥我国产业体系完备、应用场景丰富等优势，促进智能产品和服务加快规模化商业应用。 安全治理，事关人工智能长远发展。会议强调，要守牢人工智能安全底线，完善科技伦理、测试认证等制度规则，构建动态适应、分级分类的安全监管体系，加强国际人工智能治理合作。 “会议的一系列部署深刻把握人工智能技术和产业演进规律，立足当前、着眼长远，突出让市场有方向、有信心，为进",
-      "relatedTitles": [
-        "国常会：加快超大规模智算集群建设"
       ]
     },
     {
@@ -2687,43 +3141,43 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "无人车往哪里开？ 东风联手九识",
-      "summary": "无人车往哪里开？ 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 3小时前 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “卡车界特",
-      "source": "量子位",
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "一台晚会能办成什么样，取决于机器人",
+      "summary": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
+      "source": "观察者网-产业科技",
       "sources": [
-        "量子位"
+        "观察者网-产业科技"
       ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f",
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml",
       "sourceUrls": [
-        "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f"
+        "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml"
       ],
       "publishedAt": "",
       "date": "",
-      "category": "新能源车",
-      "classificationConfidence": 0.76,
+      "category": "机器人",
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
       "priority": 4,
-      "score": 119,
-      "reporterScore": 125,
+      "score": 120,
+      "reporterScore": 126,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 90,
         "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
+        "sourceAuthority": 12,
+        "multiSource": 12,
         "cgtFocus": 0,
         "visual": 8,
         "international": 0,
         "policy": 0,
-        "sourceWeight": 6,
+        "sourceWeight": 8,
         "primarySource": 0,
         "interviewValue": 0,
         "marketingPenalty": 0,
@@ -2737,87 +3191,20 @@
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 93
+        "hardTechWeight": 90,
+        "reporterScore": 98
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": true,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “无人车往哪里开？ 东风联手九识” against primary-source evidence.",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “一台晚会能办成什么样，取决于机器人” against primary-source evidence.",
       "status": "suspected_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "无人车往哪里开？ 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 3小时前 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 2026-05-25 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡 2026-05-14 文远知行 无人车往哪里开？ 车圈最新认知 为啥武汉无人车也“呆”了一次 被误解的“安全感” 杰西卡 2026-04-01 无人车往哪里开？ 萝卜快跑 车圈最新认知 外卖员“活久见”：跑腿1km，帮Waymo关了个门 冲刺年底每分钟接99单 杰西卡 2026-02-14 Waymo 无人车往哪里",
+      "matchedTopic": "机器人动态",
+      "rawText": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
       "relatedTitles": [
-        "无人车往哪里开？ 东风联手九识"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "“她将邀请500名印度人才赴日”",
-      "summary": "首页 日媒：高市早苗将邀请500名印度人才赴日 分享到： 据日本《每日新闻》6月30日报道，日本首相高市早苗与印度总理莫迪正在协调起稿一份有关人工智能（AI）合作的联合声明，其中提出，在2030年前邀请500名印度高技能人才赴日。 高市早苗将于7月1日至3日访问印度首都新德里，期间的联合声明将提出，加强日印两国在新型A",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/internation/2026_06_30_822132.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/internation/2026_06_30_822132.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.76,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 113,
-      "reporterScore": 121,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": -35,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": true,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 70
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind ““她将邀请500名印度人才赴日”” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "首页 日媒：高市早苗将邀请500名印度人才赴日 分享到： 据日本《每日新闻》6月30日报道，日本首相高市早苗与印度总理莫迪正在协调起稿一份有关人工智能（AI）合作的联合声明，其中提出，在2030年前邀请500名印度高技能人才赴日。 高市早苗将于7月1日至3日访问印度首都新德里，期间的联合声明将提出，加强日印两国在新型AI模型开发上的合作，并促进人才交流。 报道炒作说，此举目的是应对在AI领域处于领先地位的中国，提升日印两国在该领域的影响力。 据介绍，为实现高市早苗本人牵头升级的“自由开放的印度太平洋”愿景，以及莫迪提出的“共同全面促进地区安全与发展”计划，高市此访将加强AI合作作为核心议题。高市还有意吸引更多“志同道合国家及伙伴国”加入合作。 本文系观察者网独家稿件，未经授权，不得转载。 “一旦中国不再被卡脖子，美国霸权就危了” 加拿大拟推防务银行，“寻求减少对美依赖” 澳大利亚遭淘汰，亚足联全军覆没 比亚迪日本：将打破日本市场“平静水面” 前所未有！比利时11天热死1222人 藤森庆子确认胜选，将成秘鲁首位日裔女总统 日本学中国，不怕被美国制裁？ “俄罗斯人开始抢购中国电动汽车” 刚",
-      "relatedTitles": [
-        "“她将邀请500名印度人才赴日”"
+        "一台晚会能办成什么样，取决于机器人"
       ]
     },
     {
@@ -2886,73 +3273,6 @@
       "relatedTitles": [
         "特斯拉把电池制造的“圣杯”搞定了"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "一台晚会能办成什么样，取决于机器人",
-      "summary": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "机器人",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 3,
-      "score": 108,
-      "reporterScore": 114,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 0,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 98
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “一台晚会能办成什么样，取决于机器人” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "机器人动态",
-      "rawText": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
-      "relatedTitles": [
-        "一台晚会能办成什么样，取决于机器人"
-      ]
     }
   ],
   "globalLeads": [
@@ -2984,38 +3304,6 @@
         "softNews": false,
         "hardTechWeight": 90,
         "reporterScore": 108
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic is removing its covert code for catching Chinese competitors",
-      "summary": "",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366",
-      "publishedAt": "Wed, 01 Jul 2026 22:56:31 +0200",
-      "date": "2026-07-02",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 85,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic is removing its covert code for catching Chinese competitors” against primary-source evidence.",
-      "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
@@ -3215,11 +3503,11 @@
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Nvidia floats double-dipping datacenter financing scheme",
-      "summary": "",
+      "summary": "What",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184",
       "publishedAt": "Thu, 02 Jul 2026 23:55:31 +0200",
-      "date": "2026-07-03",
+      "date": "2026-07-02",
       "region": "Europe",
       "category": "芯片",
       "classificationConfidence": 0.62,
@@ -3343,7 +3631,7 @@
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it",
-      "summary": "",
+      "summary": "Are we human?",
       "source": "The Register",
       "url": "https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274",
       "publishedAt": "Fri, 03 Jul 2026 04:22:36 +0200",
@@ -3452,38 +3740,6 @@
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
       "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Claude’s Sonnet 5 is built to do more on its own and cost you less” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "This Google AI Update is Absolutely Insane",
-      "summary": "I don't think anyone truly realizes just how powerful Google’s newest AI image model is right now. It is called Imagen 3, and it just dropped on Artlist.io.I’ll be honest with you ",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/gemini/articles/google-ai-absolutely-insane-193756030.html",
-      "publishedAt": "2026-07-04",
-      "date": "2026-07-04",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “This Google AI Update is Absolutely Insane” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -3629,8 +3885,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-04｜V3\n生成时间：2026/7/4 08:15:01\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2559｜确认今日 7｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 4 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-04] 网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8\n   新浪科技｜2026-07-04｜https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwee2268034.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8” against primary-source evidence.\n\n2. [2026-07-04] 首款神经动力学芯片问世\n   新浪科技｜2026-07-04｜https://finance.sina.com.cn/tech/discovery/2026-07-04/doc-inifqwee2260401.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “首款神经动力学芯片问世” against primary-source evidence.\n\n3. [23:53] 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片\n   IT之家｜2026-07-04｜https://www.ithome.com/0/972/476.htm\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片” against primary-source evidence.\n\n4. [2026-07-04] 韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内\n   网易科技｜2026-07-04｜https://www.163.com/dy/article/L0VHKGDP05198CJN.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内” against primary-source evidence.\n\n5. [2026-07-04] AI时代Token成为“统一度量衡” 业内呼吁合力解决计费不透明等问题\n   网易科技｜2026-07-04｜https://www.163.com/dy/article/L0V6DR9A0512B07B.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI时代Token成为“统一度量衡” 业内呼吁合力解决计费不透明等问题” against primary-source evidence.\n\n本次新增线索：\n- 网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwee2268034.shtml\n- 首款神经动力学芯片问世｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-04/doc-inifqwee2260401.shtml\n- 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片｜IT之家｜https://www.ithome.com/0/972/476.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\n2. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\n3. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/\n4. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound｜CNBC Technology｜https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html\n5. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-04｜V3\n生成时间：2026/7/4 08:15:01\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2559｜确认今日 7｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 4 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-04] 网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8\n   新浪科技｜2026-07-04｜https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwee2268034.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8” against primary-source evidence.\n\n2. [2026-07-04] 首款神经动力学芯片问世\n   新浪科技｜2026-07-04｜https://finance.sina.com.cn/tech/discovery/2026-07-04/doc-inifqwee2260401.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “首款神经动力学芯片问世” against primary-source evidence.\n\n3. [23:53] 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片\n   IT之家｜2026-07-04｜https://www.ithome.com/0/972/476.htm\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片” against primary-source evidence.\n\n4. [2026-07-04] 韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内\n   网易科技｜2026-07-04｜https://www.163.com/dy/article/L0VHKGDP05198CJN.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内” against primary-source evidence.\n\n5. [2026-07-04] AI时代Token成为“统一度量衡” 业内呼吁合力解决计费不透明等问题\n   网易科技｜2026-07-04｜https://www.163.com/dy/article/L0V6DR9A0512B07B.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI时代Token成为“统一度量衡” 业内呼吁合力解决计费不透明等问题” against primary-source evidence.\n\n本次新增线索：\n- 网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwee2268034.shtml\n- 首款神经动力学芯片问世｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-04/doc-inifqwee2260401.shtml\n- 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片｜IT之家｜https://www.ithome.com/0/972/476.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\n2. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\n3. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/\n4. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound｜CNBC Technology｜https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html\n5. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-04｜生成时间：2026/7/4 08:15:01｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2559｜确认今日 7｜国际背景 21</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 4 条｜国际 21 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-04] 网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8</strong>\n      <span>新浪科技｜2026-07-04｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwee2268034.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-04] 首款神经动力学芯片问世</strong>\n      <span>新浪科技｜2026-07-04｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-07-04/doc-inifqwee2260401.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “首款神经动力学芯片问世” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:53] 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片</strong>\n      <span>IT之家｜2026-07-04｜<a href=\"https://www.ithome.com/0/972/476.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：163｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-04] 韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内</strong>\n      <span>网易科技｜2026-07-04｜<a href=\"https://www.163.com/dy/article/L0VHKGDP05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-04] AI时代Token成为“统一度量衡” 业内呼吁合力解决计费不透明等问题</strong>\n      <span>网易科技｜2026-07-04｜<a href=\"https://www.163.com/dy/article/L0V6DR9A0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI时代Token成为“统一度量衡” 业内呼吁合力解决计费不透明等问题” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone</strong>\n      <span>时间：Fri, 03 Jul 2026 13:55:35 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Rocket Report: Indian startup nears first launch; SpaceX's millenary mil” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Anthropic is removing its covert code for catching Chinese competitors</strong>\n      <span>时间：Wed, 01 Jul 2026 22:56:31 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic is removing its covert code for catching Chinese competitors” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Teaching AI to run with the turbines</strong>\n      <span>时间：Thu, 02 Jul 2026 12:51:44 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Teaching AI to run with the turbines” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound</strong>\n      <span>时间：Thu, 02 Jul 2026 21:03:39 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Trump bought Apple, Nvidia and other tech giants before tariff reversal ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch</strong>\n      <span>时间：2026-07-03｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/4 08:15:01\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 4 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-04] 网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwee2268034.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8” against primary-source evidence.\n\n2. [2026-07-04] 首款神经动力学芯片问世\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-07-04/doc-inifqwee2260401.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “首款神经动力学芯片问世” against primary-source evidence.\n\n3. [23:53] 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片\n   来源：IT之家\n   链接：https://www.ithome.com/0/972/476.htm\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片” against primary-source evidence.\n\n4. [2026-07-04] 韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0VHKGDP05198CJN.html\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内” against primary-source evidence.\n\n5. [2026-07-04] AI时代Token成为“统一度量衡” 业内呼吁合力解决计费不透明等问题\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0V6DR9A0512B07B.html\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI时代Token成为“统一度量衡” 业内呼吁合力解决计费不透明等问题” against primary-source evidence.\n\n本次新增线索：\n- 网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwee2268034.shtml\n- 首款神经动力学芯片问世｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-04/doc-inifqwee2260401.shtml\n- 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片｜IT之家｜https://www.ithome.com/0/972/476.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\n2. Anthropic is removing its covert code for catching Chinese competitors｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366\n3. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/\n4. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound｜CNBC Technology｜https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html\n5. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-04｜V3\n生成时间：2026/7/4 09:02:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2588｜确认今日 14｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 6 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [00:57] 瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装\n   IT之家｜2026-07-04｜https://www.ithome.com/0/972/490.htm\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装” against primary-source evidence.\n\n2. [2026-07-04] 汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市\n   网易科技｜2026-07-04｜https://www.163.com/dy/article/L0VT49420534A4SC.html\n   报道角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市” against primary-source evidence.\n\n3. [2026-07-04] “亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1\n   新浪科技｜2026-07-04｜https://finance.sina.com.cn/tech/2026-07-04/doc-inifqweh3400599.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1” against primary-source evidence.\n\n4. [2026-07-04] 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片\n   新浪科技｜2026-07-04｜https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwek0149403.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片” against primary-source evidence.\n\n5. [2026-07-04] 马斯克限制特斯拉员工AI开支\n   新浪科技｜2026-07-04｜https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “马斯克限制特斯拉员工AI开支” against primary-source evidence.\n\n本次新增线索：\n- 瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装｜IT之家｜https://www.ithome.com/0/972/490.htm\n- 汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市｜网易科技｜https://www.163.com/dy/article/L0VT49420534A4SC.html\n- “亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1｜新浪科技｜https://finance.sina.com.cn/tech/2026-07-04/doc-inifqweh3400599.shtml\n- 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwek0149403.shtml\n- 马斯克限制特斯拉员工AI开支｜新浪科技｜https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml\n\n今日热点方向：\n- AI 应用：AI动态（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\n2. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/\n3. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound｜CNBC Technology｜https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html\n4. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\n5. Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target｜Ars Technica｜https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-04｜V3\n生成时间：2026/7/4 09:02:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2588｜确认今日 14｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 6 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [00:57] 瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装\n   IT之家｜2026-07-04｜https://www.ithome.com/0/972/490.htm\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装” against primary-source evidence.\n\n2. [2026-07-04] 汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市\n   网易科技｜2026-07-04｜https://www.163.com/dy/article/L0VT49420534A4SC.html\n   报道角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市” against primary-source evidence.\n\n3. [2026-07-04] “亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1\n   新浪科技｜2026-07-04｜https://finance.sina.com.cn/tech/2026-07-04/doc-inifqweh3400599.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1” against primary-source evidence.\n\n4. [2026-07-04] 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片\n   新浪科技｜2026-07-04｜https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwek0149403.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片” against primary-source evidence.\n\n5. [2026-07-04] 马斯克限制特斯拉员工AI开支\n   新浪科技｜2026-07-04｜https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “马斯克限制特斯拉员工AI开支” against primary-source evidence.\n\n本次新增线索：\n- 瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装｜IT之家｜https://www.ithome.com/0/972/490.htm\n- 汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市｜网易科技｜https://www.163.com/dy/article/L0VT49420534A4SC.html\n- “亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1｜新浪科技｜https://finance.sina.com.cn/tech/2026-07-04/doc-inifqweh3400599.shtml\n- 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwek0149403.shtml\n- 马斯克限制特斯拉员工AI开支｜新浪科技｜https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml\n\n今日热点方向：\n- AI 应用：AI动态（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\n2. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/\n3. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound｜CNBC Technology｜https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html\n4. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\n5. Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target｜Ars Technica｜https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-04｜生成时间：2026/7/4 09:02:20｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2588｜确认今日 14｜国际背景 19</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 8 条｜国际 0 条<br>延续跟踪线索：国内 6 条｜国际 19 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [00:57] 瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装</strong>\n      <span>IT之家｜2026-07-04｜<a href=\"https://www.ithome.com/0/972/490.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：179｜需核验来源</span>\n      <p>报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-04] 汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市</strong>\n      <span>网易科技｜2026-07-04｜<a href=\"https://www.163.com/dy/article/L0VT49420534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：174｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-04] “亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1</strong>\n      <span>新浪科技｜2026-07-04｜<a href=\"https://finance.sina.com.cn/tech/2026-07-04/doc-inifqweh3400599.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-04] 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片</strong>\n      <span>新浪科技｜2026-07-04｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwek0149403.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-04] 马斯克限制特斯拉员工AI开支</strong>\n      <span>新浪科技｜2026-07-04｜<a href=\"https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “马斯克限制特斯拉员工AI开支” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone</strong>\n      <span>时间：Fri, 03 Jul 2026 13:55:35 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Rocket Report: Indian startup nears first launch; SpaceX's millenary mil” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Teaching AI to run with the turbines</strong>\n      <span>时间：Thu, 02 Jul 2026 12:51:44 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Teaching AI to run with the turbines” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound</strong>\n      <span>时间：Thu, 02 Jul 2026 21:03:39 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Trump bought Apple, Nvidia and other tech giants before tariff reversal ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch</strong>\n      <span>时间：2026-07-03｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target</strong>\n      <span>时间：Thu, 02 Jul 2026 15:12:25 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/4 09:02:20\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 6 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [00:57] 瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装\n   来源：IT之家\n   链接：https://www.ithome.com/0/972/490.htm\n   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装” against primary-source evidence.\n\n2. [2026-07-04] 汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L0VT49420534A4SC.html\n   角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市” against primary-source evidence.\n\n3. [2026-07-04] “亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/2026-07-04/doc-inifqweh3400599.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1” against primary-source evidence.\n\n4. [2026-07-04] 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwek0149403.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片” against primary-source evidence.\n\n5. [2026-07-04] 马斯克限制特斯拉员工AI开支\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “马斯克限制特斯拉员工AI开支” against primary-source evidence.\n\n本次新增线索：\n- 瞄准散热痛点：消息称三星 Exynos 2700 调整芯片内存封装｜IT之家｜https://www.ithome.com/0/972/490.htm\n- 汽车早报｜中国乘用车欧洲市场份额首超日本 特斯拉Model Y L在美国上市｜网易科技｜https://www.163.com/dy/article/L0VT49420534A4SC.html\n- “亚洲希望”澳大利亚点球出局， 12家AI“三派对决”：6家押平，5家直接命中1：1｜新浪科技｜https://finance.sina.com.cn/tech/2026-07-04/doc-inifqweh3400599.shtml\n- 苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifqwek0149403.shtml\n- 马斯克限制特斯拉员工AI开支｜新浪科技｜https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0205853.shtml\n\n今日热点方向：\n- AI 应用：AI动态（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\n2. Teaching AI to run with the turbines｜MIT Technology Review｜https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/\n3. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound｜CNBC Technology｜https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html\n4. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\n5. Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target｜Ars Technica｜https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
