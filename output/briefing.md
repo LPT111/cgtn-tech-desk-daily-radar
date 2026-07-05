@@ -3,63 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/5 07:46:51
+生成时间：2026/7/5 08:10:23
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 5 条
-延续跟踪线索：国内 0 条｜国际 4 条
+新增核心线索：国内 5 条｜国际 0 条
+延续跟踪线索：国内 5 条｜国际 8 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-05] 今年前5个月我国机器人出口近200亿元
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L12C5K170534A4SC.html
-   角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “今年前5个月我国机器人出口近200亿元” against primary-source evidence.
+1. [00:00] 消息称美国政府与 Anthropic 尚未商议政府入股该公司一事
+   来源：IT之家
+   链接：https://www.ithome.com/0/972/692.htm
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称美国政府与 Anthropic 尚未商议政府入股该公司一事” against primary-source evidence.
 
-2. [22:51] 特斯拉 Robotaxi 服务进军美国迈阿密，车内无安全员
+2. [2026-07-05] 今年前 5 个月我国机器人出口近 200 亿元，清洁机器人占七成
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-07-05/doc-inifszch2898837.shtml
+   角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “今年前 5 个月我国机器人出口近 200 亿元，清洁机器人占七成” against primary-source evidence.
+
+3. [2026-07-05] “人造太阳”时间表更新 第一度电瞄准2030年
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-inifszcm2363961.shtml
+   角度：Use researchers and facilities as reporting anchors, with research infrastructure and long-term innovation capacity, peer context and limitations clearly stated. For this item, test the claim behind ““人造太阳”时间表更新 第一度电瞄准2030年” against primary-source evidence.
+
+4. [22:51] 特斯拉 Robotaxi 服务进军美国迈阿密，车内无安全员
    来源：IT之家
    链接：https://www.ithome.com/0/972/678.htm
    角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “特斯拉 Robotaxi 服务进军美国迈阿密，车内无安全员” against primary-source evidence.
 
-3. [2026-07-05] 美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM
+5. [2026-07-05] 美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM
    来源：网易科技
    链接：https://www.163.com/dy/article/L12BRTTJ05198CJN.html
    角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM” against primary-source evidence.
 
-4. [2026-07-05] 中国版星链千帆极轨13组卫星发射！数量增至218颗 目标1.5万颗
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-inifszci9657398.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “中国版星链千帆极轨13组卫星发射！数量增至218颗 目标1.5万颗” against primary-source evidence.
-
-5. [23:32] 英国“星际之门”项目被曝为“空头支票”，OpenAI 从未实地考察核心选址
-   来源：IT之家
-   链接：https://www.ithome.com/0/972/685.htm
-   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “英国“星际之门”项目被曝为“空头支票”，OpenAI 从未实地考察核心选址” against primary-source evidence.
-
 本次新增线索：
-- 今年前5个月我国机器人出口近200亿元｜网易科技｜https://www.163.com/dy/article/L12C5K170534A4SC.html
-- 特斯拉 Robotaxi 服务进军美国迈阿密，车内无安全员｜IT之家｜https://www.ithome.com/0/972/678.htm
-- 美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM｜网易科技｜https://www.163.com/dy/article/L12BRTTJ05198CJN.html
-- 中国版星链千帆极轨13组卫星发射！数量增至218颗 目标1.5万颗｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-inifszci9657398.shtml
-- 英国“星际之门”项目被曝为“空头支票”，OpenAI 从未实地考察核心选址｜IT之家｜https://www.ithome.com/0/972/685.htm
-- What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
+- 消息称美国政府与 Anthropic 尚未商议政府入股该公司一事｜IT之家｜https://www.ithome.com/0/972/692.htm
+- 今年前 5 个月我国机器人出口近 200 亿元，清洁机器人占七成｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-05/doc-inifszch2898837.shtml
+- “人造太阳”时间表更新 第一度电瞄准2030年｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-inifszcm2363961.shtml
+- 俄罗斯缺油加剧！民众抢购中国电动车 插混车销量已翻倍｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-inifszci9675183.shtml
+- 鸿蒙智行享界 G9 尾部实车照片曝光，消息称后备箱是侧开门｜IT之家｜https://www.ithome.com/0/972/691.htm
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（1 条，1 个来源）
+- AI 应用：AI 应用与智能体（2 条，1 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
-- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
-- 科学前沿：
+- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
+- 太空与低空经济：
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/
 2. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html
 3. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
 4. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/
-5. Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it｜The Register｜https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274
+5. Google DeepMind Unionization Talks Are Off to a Rocky Start｜WIRED Business｜https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
