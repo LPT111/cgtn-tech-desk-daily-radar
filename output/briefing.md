@@ -3,14 +3,14 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/5 08:10:23
+生成时间：2026/7/5 08:17:01
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 5 条｜国际 0 条
-延续跟踪线索：国内 5 条｜国际 8 条
-本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
+新增核心线索：国内 0 条｜国际 0 条
+延续跟踪线索：国内 10 条｜国际 8 条
+本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
 1. [00:00] 消息称美国政府与 Anthropic 尚未商议政府入股该公司一事
@@ -39,11 +39,7 @@ ChenChen 今日 Briefing｜V3
    角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM” against primary-source evidence.
 
 本次新增线索：
-- 消息称美国政府与 Anthropic 尚未商议政府入股该公司一事｜IT之家｜https://www.ithome.com/0/972/692.htm
-- 今年前 5 个月我国机器人出口近 200 亿元，清洁机器人占七成｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-05/doc-inifszch2898837.shtml
-- “人造太阳”时间表更新 第一度电瞄准2030年｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-inifszcm2363961.shtml
-- 俄罗斯缺油加剧！民众抢购中国电动车 插混车销量已翻倍｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-inifszci9675183.shtml
-- 鸿蒙智行享界 G9 尾部实车照片曝光，消息称后备箱是侧开门｜IT之家｜https://www.ithome.com/0/972/691.htm
+- 暂无新增核心线索。
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（2 条，1 个来源）
