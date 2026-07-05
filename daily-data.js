@@ -1,38 +1,28 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-05T08:54:37.585Z",
+  "generatedAt": "2026-07-05T09:23:50.509Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-05",
   "changeSummary": {
-    "domesticNew": 3,
-    "globalNew": 0,
-    "domesticContinued": 27,
+    "domesticNew": 0,
+    "globalNew": 1,
+    "domesticContinued": 29,
     "globalContinued": 8,
-    "topNewDomestic": [
+    "topNewDomestic": [],
+    "topNewGlobal": [
       {
-        "title": "鸿海报告销售额大增 得益于AI需求强劲",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-05/doc-iniftwia8977679.shtml"
-      },
-      {
-        "title": "拟建的新卫星群可能会“淹没”夜空",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwia8977832.shtml"
-      },
-      {
-        "title": "比亚迪智能座舱 UI 设计大赛结果揭晓，冠军作品将搭载于全新海豹 08",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-07-05/doc-iniftwhx9396455.shtml"
+        "title": "Nvidia floats double-dipping datacenter financing scheme",
+        "source": "The Register",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184"
       }
     ],
-    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 870,
-    "globalRejected": 892,
+    "domesticRejected": 871,
+    "globalRejected": 891,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -46,17 +36,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 28,
+  "successSources": 26,
   "failedSources": [
     {
       "name": "财联社",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "央视网-科技",
@@ -69,14 +54,29 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -91,11 +91,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -106,14 +101,29 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -125,7 +135,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 145,
+      "parsed": 143,
       "failed": false,
       "optional": false
     },
@@ -224,9 +234,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -298,7 +307,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -319,8 +329,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -328,7 +339,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -341,8 +352,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -375,18 +387,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1271,
+  "itemsSeen": 1261,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 266,
-  "itemsAfterDedupe": 190,
-  "todayItemsSeen": 30,
-  "suspectedItemsSeen": 19,
-  "skippedNonToday": 143,
+  "itemsAfterRelevantFilter": 313,
+  "itemsAfterDedupe": 221,
+  "todayItemsSeen": 29,
+  "suspectedItemsSeen": 21,
+  "skippedNonToday": 172,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 145,
+      "parsed": 143,
       "failed": false,
       "optional": false
     },
@@ -485,9 +497,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -559,7 +570,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -580,8 +592,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -589,7 +602,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -602,8 +615,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -795,11 +809,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -810,14 +819,29 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -860,8 +884,8 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度",
         "丰田将借助 AI 把各部门 4.5 万个专业术语精简至 5000 个，以提升生产效率",
-        "鸿海报告销售额大增 得益于AI需求强劲",
         "年费7.5万美元，美国富裕家庭把孩子送进AI学校",
+        "鸿海报告销售额大增 得益于AI需求强劲",
         "因社区强烈反对，Fedora 系统 AI 桌面计划搁浅"
       ]
     },
@@ -881,21 +905,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "半导体供应链",
-      "count": 4,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "网易科技"
-      ],
-      "items": [
-        "HBM存储竞赛升级！美光6303亿元扩建日本广岛晶圆厂",
-        "美光科技投资93亿美元扩建先进存储芯片项目 预计2028下半年出货HBM",
-        "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
-        "华为：逻辑折叠将大幅提升麒麟CPU核心频率"
-      ]
-    },
-    {
       "topic": "AI 应用与智能体",
       "count": 3,
       "sourceCount": 2,
@@ -907,6 +916,19 @@ window.CHENCHEN_DAILY_DATA = {
         "腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜",
         "消息称 Anthropic 拟在澳大利亚布局 1.4GW 数据中心算力，建设成本达 150 亿美元",
         "万亿算力白烧了？ OpenAI“塌房” Scaling Law原作 被曝惊天Bug"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
+        "新浪科技"
+      ],
+      "items": [
+        "投资 25 万亿韩元，三星 SDI 扩产全固态、钠电池",
+        "比亚迪智能座舱 UI 设计大赛结果揭晓，冠军作品将搭载于全新海豹 08"
       ]
     },
     {
@@ -923,16 +945,16 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "新能源车动态",
-      "count": 2,
-      "sourceCount": 2,
+      "topic": "半导体供应链",
+      "count": 3,
+      "sourceCount": 1,
       "sources": [
-        "新浪科技",
-        "IT之家"
+        "网易科技"
       ],
       "items": [
-        "比亚迪智能座舱 UI 设计大赛结果揭晓，冠军作品将搭载于全新海豹 08",
-        "投资 25 万亿韩元，三星 SDI 扩产全固态、钠电池"
+        "美光科技投资93亿美元扩建先进存储芯片项目 预计2028下半年出货HBM",
+        "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
+        "华为：逻辑折叠将大幅提升麒麟CPU核心频率"
       ]
     },
     {
@@ -958,17 +980,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "机器人动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "今年前5个月我国机器人出口近200亿元"
-      ]
-    },
-    {
       "topic": "商业航天与卫星互联网",
       "count": 1,
       "sourceCount": 1,
@@ -988,6 +999,17 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "英特尔CPU突然涨价"
+      ]
+    },
+    {
+      "topic": "机器人动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "今年前5个月我国机器人出口近200亿元"
       ]
     },
     {
@@ -1445,142 +1467,6 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "HBM存储竞赛升级！美光6303亿元扩建日本广岛晶圆厂",
-      "summary": "快科技7月5日消息，据媒体报道，美光科技日前在日本广岛正式启动晶圆厂扩建工程。项目总投资约1.5万亿日元（约合6303亿元人民币），用于生产高带宽存储器（HBM）等先进存储芯片，主要面向AI处理器需求，预计相关产品将于2028年夏季前后开始...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftryy2700987.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftryy2700987.shtml"
-      ],
-      "publishedAt": "2026-07-05",
-      "date": "2026-07-05",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 175,
-      "reporterScore": 183,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “HBM存储竞赛升级！美光6303亿元扩建日本广岛晶圆厂” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "快科技7月5日消息，据媒体报道，美光科技日前在日本广岛正式启动晶圆厂扩建工程。项目总投资约1.5万亿日元（约合6303亿元人民币），用于生产高带宽存储器（HBM）等先进存储芯片，主要面向AI处理器需求，预计相关产品将于2028年夏季前后开始...",
-      "relatedTitles": [
-        "HBM存储竞赛升级！美光6303亿元扩建日本广岛晶圆厂"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "鸿海报告销售额大增 得益于AI需求强劲",
-      "summary": "英伟达公司的服务器组装合作伙伴鸿海报告的季度销售额增长强于预期，这表明人工智能AI需求持续旺盛。 鸿海周日表示，6月营收增长52%。据计算，这意味着鸿海6月季度的销售额增长近40%，至2.51万亿元台币（790亿美元）。分析师此前平...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-05/doc-iniftwia8977679.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-07-05/doc-iniftwia8977679.shtml"
-      ],
-      "publishedAt": "2026-07-05",
-      "date": "2026-07-05",
-      "category": "AI",
-      "classificationConfidence": 0.94,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “鸿海报告销售额大增 得益于AI需求强劲” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "英伟达公司的服务器组装合作伙伴鸿海报告的季度销售额增长强于预期，这表明人工智能AI需求持续旺盛。 鸿海周日表示，6月营收增长52%。据计算，这意味着鸿海6月季度的销售额增长近40%，至2.51万亿元台币（790亿美元）。分析师此前平...",
-      "relatedTitles": [
-        "鸿海报告销售额大增 得益于AI需求强劲"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "明日主题前瞻人形机器人产业持续升温，具身智能",
       "summary": "明日主题前瞻人形机器人产业持续升温，具身智能正加速迈向规模化应用,机床,人形,3d打印,机器人领域",
@@ -1647,142 +1533,6 @@ window.CHENCHEN_DAILY_DATA = {
         "明日主题前瞻人形机器人产业持续升温，具身智能"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "拟建的新卫星群可能会“淹没”夜空",
-      "summary": "天文学家在一项新研究中警告称，关于在轨道上部署数据中心和反射卫星群的两项新提案，可能对地面天文观测构成前所未有的威胁。相关研究成果公布于预印本服务器arXiv并被《天文学与天体物理学》接收。分析发现，这些航天器不仅会在望远镜拍摄的图像上留下...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwia8977832.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwia8977832.shtml"
-      ],
-      "publishedAt": "2026-07-05",
-      "date": "2026-07-05",
-      "category": "太空与低空",
-      "classificationConfidence": 0.73,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 164,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “拟建的新卫星群可能会“淹没”夜空” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "天文学家在一项新研究中警告称，关于在轨道上部署数据中心和反射卫星群的两项新提案，可能对地面天文观测构成前所未有的威胁。相关研究成果公布于预印本服务器arXiv并被《天文学与天体物理学》接收。分析发现，这些航天器不仅会在望远镜拍摄的图像上留下...",
-      "relatedTitles": [
-        "拟建的新卫星群可能会“淹没”夜空"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "比亚迪智能座舱 UI 设计大赛结果揭晓，冠军作品将搭载于全新海豹 08",
-      "summary": "IT之家 7 月 5 日消息，比亚迪智能座舱 UI 设计大赛今天正式落幕，最终有 12 组作品脱颖而出，其中一等奖作品将搭载于全新量产版海豹 08。据介绍，本次大赛由比亚迪联手中央美术学院、浙江大学、同济大学、江南大学和西安美术学院发起，以...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-05/doc-iniftwhx9396455.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-07-05/doc-iniftwhx9396455.shtml"
-      ],
-      "publishedAt": "2026-07-05",
-      "date": "2026-07-05",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “比亚迪智能座舱 UI 设计大赛结果揭晓，冠军作品将搭载于全新海豹 08” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "IT之家 7 月 5 日消息，比亚迪智能座舱 UI 设计大赛今天正式落幕，最终有 12 组作品脱颖而出，其中一等奖作品将搭载于全新量产版海豹 08。据介绍，本次大赛由比亚迪联手中央美术学院、浙江大学、同济大学、江南大学和西安美术学院发起，以...",
-      "relatedTitles": [
-        "比亚迪智能座舱 UI 设计大赛结果揭晓，冠军作品将搭载于全新海豹 08"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1985,6 +1735,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "国家安全部发文提醒，第三方数据外包缺乏有效监管容易引发安全风险，现已通报多起失泄密典型案件，提示发包单位需落实合规要求，守住数据安全底线 #数据安全#",
       "relatedTitles": [
         "国安部披露：外包运维人员下载核心科研数据提供给间谍被抓，合规要求不能松懈"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "鸿海报告销售额大增 得益于AI需求强劲",
+      "summary": "英伟达公司的服务器组装合作伙伴鸿海报告的季度销售额增长强于预期，这表明人工智能AI需求持续旺盛。 鸿海周日表示，6月营收增长52%。据计算，这意味着鸿海6月季度的销售额增长近40%，至2.51万亿元台币（790亿美元）。分析师此前平...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-05/doc-iniftwia8977679.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/usstock/c/2026-07-05/doc-iniftwia8977679.shtml"
+      ],
+      "publishedAt": "2026-07-05",
+      "date": "2026-07-05",
+      "category": "AI",
+      "classificationConfidence": 0.94,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “鸿海报告销售额大增 得益于AI需求强劲” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "英伟达公司的服务器组装合作伙伴鸿海报告的季度销售额增长强于预期，这表明人工智能AI需求持续旺盛。 鸿海周日表示，6月营收增长52%。据计算，这意味着鸿海6月季度的销售额增长近40%，至2.51万亿元台币（790亿美元）。分析师此前平...",
+      "relatedTitles": [
+        "鸿海报告销售额大增 得益于AI需求强劲"
       ],
       "isNewSinceLastRun": false
     },
@@ -2195,22 +2013,22 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "今年前5个月我国机器人出口近200亿元",
-      "summary": "今年前5个月我国机器人出口近200亿元,欧盟,东盟,海关,机器人",
-      "source": "网易科技",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "拟建的新卫星群可能会“淹没”夜空",
+      "summary": "天文学家在一项新研究中警告称，关于在轨道上部署数据中心和反射卫星群的两项新提案，可能对地面天文观测构成前所未有的威胁。相关研究成果公布于预印本服务器arXiv并被《天文学与天体物理学》接收。分析发现，这些航天器不仅会在望远镜拍摄的图像上留下...",
+      "source": "新浪科技",
       "sources": [
-        "网易科技"
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L12C5K170534A4SC.html",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwia8977832.shtml",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L12C5K170534A4SC.html"
+        "https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwia8977832.shtml"
       ],
       "publishedAt": "2026-07-05",
       "date": "2026-07-05",
-      "category": "机器人",
-      "classificationConfidence": 0.75,
+      "category": "太空与低空",
+      "classificationConfidence": 0.73,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2218,7 +2036,7 @@ window.CHENCHEN_DAILY_DATA = {
         "source"
       ],
       "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
       "priority": 5,
       "score": 158,
       "reporterScore": 164,
@@ -2253,12 +2071,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": true,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “今年前5个月我国机器人出口近200亿元” against primary-source evidence.",
+      "angle": "Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “拟建的新卫星群可能会“淹没”夜空” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "机器人动态",
-      "rawText": "今年前5个月我国机器人出口近200亿元,欧盟,东盟,海关,机器人",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "天文学家在一项新研究中警告称，关于在轨道上部署数据中心和反射卫星群的两项新提案，可能对地面天文观测构成前所未有的威胁。相关研究成果公布于预印本服务器arXiv并被《天文学与天体物理学》接收。分析发现，这些航天器不仅会在望远镜拍摄的图像上留下...",
       "relatedTitles": [
-        "今年前5个月我国机器人出口近200亿元"
+        "拟建的新卫星群可能会“淹没”夜空"
       ],
       "isNewSinceLastRun": false
     },
@@ -2327,6 +2145,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "万亿级赛道具身智能、商业航天下周再迎催化，哪些细分领域将站上风口？第40期（7月6日~7月12日）,商业航天",
       "relatedTitles": [
         "万亿级赛道具身智能、商业航天下周再迎催化，哪"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "比亚迪智能座舱 UI 设计大赛结果揭晓，冠军作品将搭载于全新海豹 08",
+      "summary": "IT之家 7 月 5 日消息，比亚迪智能座舱 UI 设计大赛今天正式落幕，最终有 12 组作品脱颖而出，其中一等奖作品将搭载于全新量产版海豹 08。据介绍，本次大赛由比亚迪联手中央美术学院、浙江大学、同济大学、江南大学和西安美术学院发起，以...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-05/doc-iniftwhx9396455.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-07-05/doc-iniftwhx9396455.shtml"
+      ],
+      "publishedAt": "2026-07-05",
+      "date": "2026-07-05",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “比亚迪智能座舱 UI 设计大赛结果揭晓，冠军作品将搭载于全新海豹 08” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "IT之家 7 月 5 日消息，比亚迪智能座舱 UI 设计大赛今天正式落幕，最终有 12 组作品脱颖而出，其中一等奖作品将搭载于全新量产版海豹 08。据介绍，本次大赛由比亚迪联手中央美术学院、浙江大学、同济大学、江南大学和西安美术学院发起，以...",
+      "relatedTitles": [
+        "比亚迪智能座舱 UI 设计大赛结果揭晓，冠军作品将搭载于全新海豹 08"
       ],
       "isNewSinceLastRun": false
     },
@@ -2667,6 +2553,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "万亿算力白烧了？ OpenAI“塌房” Scaling Law原作 被曝惊天Bug,law,openai,scaling",
       "relatedTitles": [
         "万亿算力白烧了？ OpenAI“塌房” Scaling Law原作 被曝惊天Bug"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "今年前5个月我国机器人出口近200亿元",
+      "summary": "今年前5个月我国机器人出口近200亿元,欧盟,东盟,海关,机器人",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L12C5K170534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L12C5K170534A4SC.html"
+      ],
+      "publishedAt": "2026-07-05",
+      "date": "2026-07-05",
+      "category": "机器人",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 148,
+      "reporterScore": 154,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “今年前5个月我国机器人出口近200亿元” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "今年前5个月我国机器人出口近200亿元,欧盟,东盟,海关,机器人",
+      "relatedTitles": [
+        "今年前5个月我国机器人出口近200亿元"
       ],
       "isNewSinceLastRun": false
     },
@@ -3148,6 +3102,73 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "联想全栈Token方案亮相2026 MWC上海",
+      "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
+      "source": "光明网-科技",
+      "sources": [
+        "光明网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://tech.gmw.cn/2026-06/26/content_38851970.htm",
+      "sourceUrls": [
+        "https://tech.gmw.cn/2026-06/26/content_38851970.htm"
+      ],
+      "publishedAt": "2026-06-26",
+      "date": "2026-06-26",
+      "category": "AI",
+      "classificationConfidence": 0.96,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 186,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “联想全栈Token方案亮相2026 MWC上海” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "大会期间，联想联合中国移动芯昇科技、熠序科技发布全球首款AI可信一体机，首次为AI智能体签发硬件级全栈可信“身份证”。",
+      "relatedTitles": [
+        "联想全栈Token方案亮相2026 MWC上海"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "中欧夹击下，日本押注AI求翻盘",
       "summary": "日本在工业机器人领域长期保持着较强的竞争力，但随着中国和欧洲的工业机器人制造商后来居上，日本企业正逐渐丧失市场份额。据《日经亚洲》7月3日报道，为争夺市场主导地位，日本工业机器人制造商准备押注人工智能（AI），以提升产品竞争力。",
@@ -3212,6 +3233,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "日本在工业机器人领域长期保持着较强的竞争力，但随着中国和欧洲的工业机器人制造商后来居上，日本企业正逐渐丧失市场份额。据《日经亚洲》7月3日报道，为争夺市场主导地位，日本工业机器人制造商准备押注人工智能（AI），以提升产品竞争力。",
       "relatedTitles": [
         "中欧夹击下，日本押注AI求翻盘"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云",
+      "summary": "首页 荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云 分享到： 【2024年5月22日，法国巴黎】今日，荣耀终端有限公司CEO赵明在欧洲最大的科技创新盛会——Viva Technology（以下简称“VivaTech”)发表了题为“AI时代 智能设备如何赋能人类”的主题演讲，首次面向全球市场发布荣",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/politics/2024_05_24_735797.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/politics/2024_05_24_735797.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 144,
+      "reporterScore": 160,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "首页 荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云 分享到： 【2024年5月22日，法国巴黎】今日，荣耀终端有限公司CEO赵明在欧洲最大的科技创新盛会——Viva Technology（以下简称“VivaTech”)发表了题为“AI时代 智能设备如何赋能人类”的主题演讲，首次面向全球市场发布荣耀四层AI战略架构，并宣布海外未来的旗舰机将搭载谷歌云相关服务，为用户带来革命性的生成式AI体验。 荣耀终端有限公司CEO赵明在VivaTech发布主题演讲 “荣耀坚信基于端侧AI的个人化、人性化和隐私保护的特点，每个人都能安全、可靠地利用AI来让自己的生活更加便利。”赵明表示：“我们也很高兴未来的旗舰机将搭载谷歌云相关服务，探索端云结合的混合AI模式，为用户提供更具想象力的GAI体验。” 面向全球发布四层AI战略架构，将搭载谷歌云共探端云协同新体验 在主题演讲环节，荣耀首次对海外市场发布四层AI战略架构，并展示了其用AI重构操作系统MagicOS的创新体验： 第一层：用AI使能跨系统、跨设备的融合。 第二层：用AI来重构单终端的操作系统，用AI强化对用户意图的识别和对资",
+      "relatedTitles": [
+        "荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云"
       ]
     },
     {
@@ -3283,8 +3371,8 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "我国科研机构主导的大模型成果首次登上Nature",
-      "summary": "整个AI领域过去五年来悬而未决的核心命题，“我们能否用一种统一的方式，让机器同时学会看、听、说、写，乃至行动？”，其复杂程度足以让全球顶尖的AI实验室争论不休。",
+      "title": "我国科研机构主导的大模型成果首次登上Nature 整个AI领域过去五年来悬而未决的核心命题",
+      "summary": "我国科研机构主导的大模型成果首次登上Nature 整个AI领域过去五年来悬而未决的核心命题，“我们能否用一种统一的方式，让机器同时学会看、听、说、写，乃至行动？”，其复杂程度足以让全球顶尖的AI实验室争论不休。 评论 28",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -3297,7 +3385,7 @@ window.CHENCHEN_DAILY_DATA = {
       "publishedAt": "",
       "date": "",
       "category": "AI",
-      "classificationConfidence": 0.72,
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -3340,12 +3428,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “我国科研机构主导的大模型成果首次登上Nature” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “我国科研机构主导的大模型成果首次登上Nature 整个AI领域过去五年来悬而未决的核心命题” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "整个AI领域过去五年来悬而未决的核心命题，“我们能否用一种统一的方式，让机器同时学会看、听、说、写，乃至行动？”，其复杂程度足以让全球顶尖的AI实验室争论不休。",
+      "rawText": "我国科研机构主导的大模型成果首次登上Nature 整个AI领域过去五年来悬而未决的核心命题，“我们能否用一种统一的方式，让机器同时学会看、听、说、写，乃至行动？”，其复杂程度足以让全球顶尖的AI实验室争论不休。 评论 28",
       "relatedTitles": [
-        "我国科研机构主导的大模型成果首次登上Nature"
+        "我国科研机构主导的大模型成果首次登上Nature 整个AI领域过去五年来悬而未决的核心命题"
       ]
     },
     {
@@ -3953,73 +4041,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "一台晚会能办成什么样，取决于机器人",
-      "summary": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "机器人",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 4,
-      "score": 130,
-      "reporterScore": 136,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 98
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “一台晚会能办成什么样，取决于机器人” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "机器人动态",
-      "rawText": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
-      "relatedTitles": [
-        "一台晚会能办成什么样，取决于机器人"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "“985”博导不如初中辍学的张雪？",
       "summary": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻",
       "source": "观察者网-产业科技",
@@ -4217,6 +4238,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "enjoy\" class=\"grid-320 card observe\"> 智瞰AI AI视界，不止于想象 思享家 <div class=\"swiper-wrapper\"",
       "relatedTitles": [
         "AI视界，不止于想象"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "一台晚会能办成什么样，取决于机器人",
+      "summary": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "机器人",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 4,
+      "score": 120,
+      "reporterScore": 126,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 98
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “一台晚会能办成什么样，取决于机器人” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
+      "relatedTitles": [
+        "一台晚会能办成什么样，取决于机器人"
       ]
     },
     {
@@ -4421,6 +4509,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia floats double-dipping datacenter financing scheme",
+      "summary": "",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184",
+      "publishedAt": "Thu, 02 Jul 2026 23:55:31 +0200",
+      "date": "2026-07-03",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia floats double-dipping datacenter financing scheme” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
       "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
       "source": "TechCrunch",
@@ -4518,7 +4638,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it",
-      "summary": "Are we human?",
+      "summary": "",
       "source": "The Register",
       "url": "https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274",
       "publishedAt": "Fri, 03 Jul 2026 04:22:36 +0200",
@@ -4612,8 +4732,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-05｜V3\n生成时间：2026/7/5 16:54:37\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2484｜确认今日 30｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 27 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-05] 当情感陪伴机器人投入量产时，欧洲正在为空调争\n   网易科技｜2026-07-05｜https://www.163.com/dy/article/L12NU8Q00534A4SC.html\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “当情感陪伴机器人投入量产时，欧洲正在为空调争” against primary-source evidence.\n\n2. [2026-07-05] 为拯救NASA坠落望远镜，一项大胆的任务已启动\n   新浪科技｜2026-07-05｜https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwhz2176574.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “为拯救NASA坠落望远镜，一项大胆的任务已启动” against primary-source evidence.\n\n3. [01:58] 日本工业机器人企业押注 AI，欲重夺全球市场主导地位\n   IT之家｜2026-07-05｜https://www.ithome.com/0/972/711.htm\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “日本工业机器人企业押注 AI，欲重夺全球市场主导地位” against primary-source evidence.\n\n4. [2026-07-05] 摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度\n   新浪科技｜2026-07-05｜https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmi2273057.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度” against primary-source evidence.\n\n5. [2026-07-05] 腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜\n   新浪科技｜2026-07-05｜https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmf9555810.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜” against primary-source evidence.\n\n本次新增线索：\n- 鸿海报告销售额大增 得益于AI需求强劲｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-05/doc-iniftwia8977679.shtml\n- 拟建的新卫星群可能会“淹没”夜空｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwia8977832.shtml\n- 比亚迪智能座舱 UI 设计大赛结果揭晓，冠军作品将搭载于全新海豹 08｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-05/doc-iniftwhx9396455.shtml\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\n2. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\n3. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n4. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\n5. Google DeepMind Unionization Talks Are Off to a Rocky Start｜WIRED Business｜https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-05｜V3\n生成时间：2026/7/5 16:54:37\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2484｜确认今日 30｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 27 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-05] 当情感陪伴机器人投入量产时，欧洲正在为空调争\n   网易科技｜2026-07-05｜https://www.163.com/dy/article/L12NU8Q00534A4SC.html\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “当情感陪伴机器人投入量产时，欧洲正在为空调争” against primary-source evidence.\n\n2. [2026-07-05] 为拯救NASA坠落望远镜，一项大胆的任务已启动\n   新浪科技｜2026-07-05｜https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwhz2176574.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “为拯救NASA坠落望远镜，一项大胆的任务已启动” against primary-source evidence.\n\n3. [01:58] 日本工业机器人企业押注 AI，欲重夺全球市场主导地位\n   IT之家｜2026-07-05｜https://www.ithome.com/0/972/711.htm\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “日本工业机器人企业押注 AI，欲重夺全球市场主导地位” against primary-source evidence.\n\n4. [2026-07-05] 摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度\n   新浪科技｜2026-07-05｜https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmi2273057.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度” against primary-source evidence.\n\n5. [2026-07-05] 腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜\n   新浪科技｜2026-07-05｜https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmf9555810.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜” against primary-source evidence.\n\n本次新增线索：\n- 鸿海报告销售额大增 得益于AI需求强劲｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-05/doc-iniftwia8977679.shtml\n- 拟建的新卫星群可能会“淹没”夜空｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwia8977832.shtml\n- 比亚迪智能座舱 UI 设计大赛结果揭晓，冠军作品将搭载于全新海豹 08｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-05/doc-iniftwhx9396455.shtml\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\n2. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\n3. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n4. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\n5. Google DeepMind Unionization Talks Are Off to a Rocky Start｜WIRED Business｜https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-05｜生成时间：2026/7/5 16:54:37｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2484｜确认今日 30｜国际背景 8</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 27 条｜国际 8 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-05] 当情感陪伴机器人投入量产时，欧洲正在为空调争</strong>\n      <span>网易科技｜2026-07-05｜<a href=\"https://www.163.com/dy/article/L12NU8Q00534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “当情感陪伴机器人投入量产时，欧洲正在为空调争” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-05] 为拯救NASA坠落望远镜，一项大胆的任务已启动</strong>\n      <span>新浪科技｜2026-07-05｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwhz2176574.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “为拯救NASA坠落望远镜，一项大胆的任务已启动” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [01:58] 日本工业机器人企业押注 AI，欲重夺全球市场主导地位</strong>\n      <span>IT之家｜2026-07-05｜<a href=\"https://www.ithome.com/0/972/711.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：189｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “日本工业机器人企业押注 AI，欲重夺全球市场主导地位” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-05] 摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度</strong>\n      <span>新浪科技｜2026-07-05｜<a href=\"https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmi2273057.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-05] 腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜</strong>\n      <span>新浪科技｜2026-07-05｜<a href=\"https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmf9555810.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone</strong>\n      <span>时间：Fri, 03 Jul 2026 13:55:35 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Rocket Report: Indian startup nears first launch; SpaceX's millenary mil” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch</strong>\n      <span>时间：2026-07-03｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. What is Mistral AI? Everything to know about the OpenAI competitor</strong>\n      <span>时间：Sat, 04 Jul 2026 15:51:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “What is Mistral AI? Everything to know about the OpenAI competitor” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. New Google commercial imagines a Declaration of Independence written with help from AI</strong>\n      <span>时间：Sat, 04 Jul 2026 20:55:25 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “New Google commercial imagines a Declaration of Independence written wit” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google DeepMind Unionization Talks Are Off to a Rocky Start</strong>\n      <span>时间：Fri, 03 Jul 2026 16:30:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google DeepMind Unionization Talks Are Off to a Rocky Start” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/5 16:54:37\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 27 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-05] 当情感陪伴机器人投入量产时，欧洲正在为空调争\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L12NU8Q00534A4SC.html\n   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “当情感陪伴机器人投入量产时，欧洲正在为空调争” against primary-source evidence.\n\n2. [2026-07-05] 为拯救NASA坠落望远镜，一项大胆的任务已启动\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwhz2176574.shtml\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “为拯救NASA坠落望远镜，一项大胆的任务已启动” against primary-source evidence.\n\n3. [01:58] 日本工业机器人企业押注 AI，欲重夺全球市场主导地位\n   来源：IT之家\n   链接：https://www.ithome.com/0/972/711.htm\n   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “日本工业机器人企业押注 AI，欲重夺全球市场主导地位” against primary-source evidence.\n\n4. [2026-07-05] 摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmi2273057.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度” against primary-source evidence.\n\n5. [2026-07-05] 腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmf9555810.shtml\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜” against primary-source evidence.\n\n本次新增线索：\n- 鸿海报告销售额大增 得益于AI需求强劲｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-05/doc-iniftwia8977679.shtml\n- 拟建的新卫星群可能会“淹没”夜空｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwia8977832.shtml\n- 比亚迪智能座舱 UI 设计大赛结果揭晓，冠军作品将搭载于全新海豹 08｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-05/doc-iniftwhx9396455.shtml\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\n2. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\n3. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n4. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\n5. Google DeepMind Unionization Talks Are Off to a Rocky Start｜WIRED Business｜https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-05｜V3\n生成时间：2026/7/5 17:23:50\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2474｜确认今日 29｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 29 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-05] 当情感陪伴机器人投入量产时，欧洲正在为空调争\n   网易科技｜2026-07-05｜https://www.163.com/dy/article/L12NU8Q00534A4SC.html\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “当情感陪伴机器人投入量产时，欧洲正在为空调争” against primary-source evidence.\n\n2. [2026-07-05] 为拯救NASA坠落望远镜，一项大胆的任务已启动\n   新浪科技｜2026-07-05｜https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwhz2176574.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “为拯救NASA坠落望远镜，一项大胆的任务已启动” against primary-source evidence.\n\n3. [01:58] 日本工业机器人企业押注 AI，欲重夺全球市场主导地位\n   IT之家｜2026-07-05｜https://www.ithome.com/0/972/711.htm\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “日本工业机器人企业押注 AI，欲重夺全球市场主导地位” against primary-source evidence.\n\n4. [2026-07-05] 摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度\n   新浪科技｜2026-07-05｜https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmi2273057.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度” against primary-source evidence.\n\n5. [2026-07-05] 腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜\n   新浪科技｜2026-07-05｜https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmf9555810.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜” against primary-source evidence.\n\n本次新增线索：\n- Nvidia floats double-dipping datacenter financing scheme｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\n2. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\n3. Nvidia floats double-dipping datacenter financing scheme｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184\n4. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n5. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-05｜V3\n生成时间：2026/7/5 17:23:50\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2474｜确认今日 29｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 29 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-05] 当情感陪伴机器人投入量产时，欧洲正在为空调争\n   网易科技｜2026-07-05｜https://www.163.com/dy/article/L12NU8Q00534A4SC.html\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “当情感陪伴机器人投入量产时，欧洲正在为空调争” against primary-source evidence.\n\n2. [2026-07-05] 为拯救NASA坠落望远镜，一项大胆的任务已启动\n   新浪科技｜2026-07-05｜https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwhz2176574.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “为拯救NASA坠落望远镜，一项大胆的任务已启动” against primary-source evidence.\n\n3. [01:58] 日本工业机器人企业押注 AI，欲重夺全球市场主导地位\n   IT之家｜2026-07-05｜https://www.ithome.com/0/972/711.htm\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “日本工业机器人企业押注 AI，欲重夺全球市场主导地位” against primary-source evidence.\n\n4. [2026-07-05] 摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度\n   新浪科技｜2026-07-05｜https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmi2273057.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度” against primary-source evidence.\n\n5. [2026-07-05] 腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜\n   新浪科技｜2026-07-05｜https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmf9555810.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜” against primary-source evidence.\n\n本次新增线索：\n- Nvidia floats double-dipping datacenter financing scheme｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\n2. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\n3. Nvidia floats double-dipping datacenter financing scheme｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184\n4. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n5. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-05｜生成时间：2026/7/5 17:23:50｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2474｜确认今日 29｜国际背景 9</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 1 条<br>延续跟踪线索：国内 29 条｜国际 8 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-05] 当情感陪伴机器人投入量产时，欧洲正在为空调争</strong>\n      <span>网易科技｜2026-07-05｜<a href=\"https://www.163.com/dy/article/L12NU8Q00534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “当情感陪伴机器人投入量产时，欧洲正在为空调争” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-05] 为拯救NASA坠落望远镜，一项大胆的任务已启动</strong>\n      <span>新浪科技｜2026-07-05｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwhz2176574.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “为拯救NASA坠落望远镜，一项大胆的任务已启动” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [01:58] 日本工业机器人企业押注 AI，欲重夺全球市场主导地位</strong>\n      <span>IT之家｜2026-07-05｜<a href=\"https://www.ithome.com/0/972/711.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：189｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “日本工业机器人企业押注 AI，欲重夺全球市场主导地位” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-05] 摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度</strong>\n      <span>新浪科技｜2026-07-05｜<a href=\"https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmi2273057.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-05] 腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜</strong>\n      <span>新浪科技｜2026-07-05｜<a href=\"https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmf9555810.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone</strong>\n      <span>时间：Fri, 03 Jul 2026 13:55:35 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Rocket Report: Indian startup nears first launch; SpaceX's millenary mil” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch</strong>\n      <span>时间：2026-07-03｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia floats double-dipping datacenter financing scheme</strong>\n      <span>时间：Thu, 02 Jul 2026 23:55:31 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia floats double-dipping datacenter financing scheme” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. What is Mistral AI? Everything to know about the OpenAI competitor</strong>\n      <span>时间：Sat, 04 Jul 2026 15:51:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “What is Mistral AI? Everything to know about the OpenAI competitor” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. New Google commercial imagines a Declaration of Independence written with help from AI</strong>\n      <span>时间：Sat, 04 Jul 2026 20:55:25 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “New Google commercial imagines a Declaration of Independence written wit” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/5 17:23:50\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 29 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-05] 当情感陪伴机器人投入量产时，欧洲正在为空调争\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L12NU8Q00534A4SC.html\n   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “当情感陪伴机器人投入量产时，欧洲正在为空调争” against primary-source evidence.\n\n2. [2026-07-05] 为拯救NASA坠落望远镜，一项大胆的任务已启动\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-07-05/doc-iniftwhz2176574.shtml\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “为拯救NASA坠落望远镜，一项大胆的任务已启动” against primary-source evidence.\n\n3. [01:58] 日本工业机器人企业押注 AI，欲重夺全球市场主导地位\n   来源：IT之家\n   链接：https://www.ithome.com/0/972/711.htm\n   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “日本工业机器人企业押注 AI，欲重夺全球市场主导地位” against primary-source evidence.\n\n4. [2026-07-05] 摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmi2273057.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “摩洛哥3：0横扫加拿大成首支八强队，AI集体看好却集体低估胜利尺度” against primary-source evidence.\n\n5. [2026-07-05] 腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tob/2026-07-05/doc-iniftfmf9555810.shtml\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “腾讯混元、Kimi、讯飞星火3个AI淘汰：《人机大战》迎来第一个残酷夜” against primary-source evidence.\n\n本次新增线索：\n- Nvidia floats double-dipping datacenter financing scheme｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone｜Ars Technica｜https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/\n2. Samsung starts teasing the new Galaxy Z Fold 8 ahead of summer launch｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/samsung-starts-teasing-the-new-galaxy-z-fold-8-ahead-of-summer-launch-170539090.html\n3. Nvidia floats double-dipping datacenter financing scheme｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184\n4. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n5. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
