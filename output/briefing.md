@@ -3,60 +3,60 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/6 17:44:10
+生成时间：2026/7/6 18:25:27
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 66 条｜国际 2 条
-延续跟踪线索：国内 9 条｜国际 3 条
+新增核心线索：国内 13 条｜国际 1 条
+延续跟踪线索：国内 62 条｜国际 5 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-06] 首届全球人工智能治理对话在日内瓦举行 将聚焦
+1. [09:56] 日企 TAI 完成 40nm 边缘物理 AI 芯片原型评估，目标 2027 年量产
+   来源：IT之家
+   链接：https://www.ithome.com/0/973/227.htm
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “日企 TAI 完成 40nm 边缘物理 AI 芯片原型评估，目标 2027 年量产” against primary-source evidence.
+
+2. [2026-07-06] 国产机器人加速进阶
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0706/c1004-40753873.html
+   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “国产机器人加速进阶” against primary-source evidence.
+
+3. [2026-07-06] 首届全球人工智能治理对话在日内瓦举行 将聚焦
    来源：网易科技
    链接：https://www.163.com/dy/article/L15RCIH805198CJN.html
    角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “首届全球人工智能治理对话在日内瓦举行 将聚焦” against primary-source evidence.
 
-2. [07:59] 英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施
+4. [07:59] 英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施
    来源：IT之家
    链接：https://www.ithome.com/0/973/140.htm
    角度：Build an accountability-focused policy story around the balance between innovation, safety and accountability, timelines, enforcement and affected stakeholders. For this item, test the claim behind “英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施” against primary-source evidence.
 
-3. [2026-07-06] 祝贺！中国队，冠军！
+5. [2026-07-06] 印度 CG Semi 萨南德 OSAT 设施揭幕，总理莫迪出席
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifwfpx1856479.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “祝贺！中国队，冠军！” against primary-source evidence.
-
-4. [2026-07-06] 长征十号乙首飞锁定 7 月 10 日至 7 月 13 日期间，验证首创的“海上网系回收”技术
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-07-06/doc-inifupeq2363056.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “长征十号乙首飞锁定 7 月 10 日至 7 月 13 日期间，验证首创的“海上网系回收”技术” against primary-source evidence.
-
-5. [2026-07-06] 中国版星链两天两发！千帆星座在轨卫星总量突破238颗
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkki1773043.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “中国版星链两天两发！千帆星座在轨卫星总量突破238颗” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-07-06/doc-inifwfpx1903874.shtml
+   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “印度 CG Semi 萨南德 OSAT 设施揭幕，总理莫迪出席” against primary-source evidence.
 
 本次新增线索：
-- 首届全球人工智能治理对话在日内瓦举行 将聚焦｜网易科技｜https://www.163.com/dy/article/L15RCIH805198CJN.html
-- 英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施｜IT之家｜https://www.ithome.com/0/973/140.htm
-- 祝贺！中国队，冠军！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifwfpx1856479.shtml
-- 长征十号乙首飞锁定 7 月 10 日至 7 月 13 日期间，验证首创的“海上网系回收”技术｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-06/doc-inifupeq2363056.shtml
-- 中国版星链两天两发！千帆星座在轨卫星总量突破238颗｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkki1773043.shtml
-- Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319
+- 日企 TAI 完成 40nm 边缘物理 AI 芯片原型评估，目标 2027 年量产｜IT之家｜https://www.ithome.com/0/973/227.htm
+- 印度 CG Semi 萨南德 OSAT 设施揭幕，总理莫迪出席｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-06/doc-inifwfpx1903874.shtml
+- 美国一实验室78岁前员工失踪近一年，被曝曾参与｜网易科技｜https://www.163.com/dy/article/L1633M640512B07B.html
+- 新能源车App过户受阻，买家能要求退款吗？法院判了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifwfpx1893137.shtml
+- 合合信息一季度财报释放积极信号，AI应用商业化落地持续深化｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifwfpy8680615.shtml
+- Google's status as the dream tech job is changing. FOMO over AI salaries is only one reason why.｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/googles-status-dream-tech-job-091502863.html
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（11 条，5 个来源）
 - 芯片/半导体：半导体供应链（9 条，3 个来源）
 - 机器人/具身智能：机器人动态（5 条，4 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（4 条，2 个来源）
+- 科学前沿：科学前沿动态（6 条，4 个来源）
 
 国际科技背景：
 1. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319
-2. Samsung Vs. Google: Which Android Watch Lasts Longer?｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-vs-google-android-watch-004700589.html
+2. Google's status as the dream tech job is changing. FOMO over AI salaries is only one reason why.｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/googles-status-dream-tech-job-091502863.html
 3. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
 4. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/
 5. Google DeepMind Unionization Talks Are Off to a Rocky Start｜WIRED Business｜https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/
