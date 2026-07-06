@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/6 19:06:38
+生成时间：2026/7/7 07:52:19
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 10 条｜国际 0 条
-延续跟踪线索：国内 68 条｜国际 6 条
+新增核心线索：国内 20 条｜国际 4 条
+延续跟踪线索：国内 0 条｜国际 1 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-06] 国产机器人加速进阶
+1. [2026-07-07] 中信建投：特斯拉人形机器人迈向量产，看好板块持续性
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml
+   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “中信建投：特斯拉人形机器人迈向量产，看好板块持续性” against primary-source evidence.
+
+2. [2026-07-07] 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道
    来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0706/c1004-40753873.html
-   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “国产机器人加速进阶” against primary-source evidence.
+   链接：http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html
+   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞭望智库组织探讨AI算力坚守长期自主创新的破局之道” against primary-source evidence.
 
-2. [2026-07-06] 首届全球人工智能治理对话在日内瓦举行 将聚焦
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L15RCIH805198CJN.html
-   角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “首届全球人工智能治理对话在日内瓦举行 将聚焦” against primary-source evidence.
+3. [2026-07-07] 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军” against primary-source evidence.
 
-3. [07:59] 英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施
-   来源：IT之家
-   链接：https://www.ithome.com/0/973/140.htm
-   角度：Build an accountability-focused policy story around the balance between innovation, safety and accountability, timelines, enforcement and affected stakeholders. For this item, test the claim behind “英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施” against primary-source evidence.
+4. [2026-07-07] 太空种子在沙漠落地开花
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “太空种子在沙漠落地开花” against primary-source evidence.
 
-4. [2026-07-06] 长征十号乙首飞锁定 7 月 10 日至 7 月 13 日期间，验证首创的“海上网系回收”技术
+5. [2026-07-07] “大连一号”无人机成功首飞
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-07-06/doc-inifupeq2363056.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “长征十号乙首飞锁定 7 月 10 日至 7 月 13 日期间，验证首创的“海上网系回收”技术” against primary-source evidence.
-
-5. [2026-07-06] 中国版星链两天两发！千帆星座在轨卫星总量突破238颗
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkki1773043.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “中国版星链两天两发！千帆星座在轨卫星总量突破238颗” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpie1516066.shtml
+   角度：Pair launch or flight visuals with evidence on urban services, logistics, safety and regulation, customers, regulation and operational readiness. For this item, test the claim behind ““大连一号”无人机成功首飞” against primary-source evidence.
 
 本次新增线索：
-- 高德AI专车升级：标准化服务进化为个性化服务｜新浪科技｜https://finance.sina.com.cn/tob/2026-07-06/doc-inifwmvs1854658.shtml
-- 芯碁微装国内首款 510mm×515mm PLP 直写光刻设备获重要客户订单｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-06/doc-inifwmvw8563628.shtml
-- 摩根士丹利策略师Wilson：预计资金将从芯片股向超大规模云服务商轮动｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifwmvv1810626.shtml
-- 受益AI算力建设浪潮！三星DS半导体部门绩效奖金拉满至100%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifwmvv1793628.shtml
-- SpaceX总裁Shotwell将向特朗普账户捐赠SpaceX股票｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifwmvt8638103.shtml
+- 中信建投：特斯拉人形机器人迈向量产，看好板块持续性｜新浪科技｜https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml
+- 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html
+- 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html
+- 太空种子在沙漠落地开花｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html
+- “大连一号”无人机成功首飞｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpie1516066.shtml
+- Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（10 条，5 个来源）
-- 芯片/半导体：半导体供应链（11 条，3 个来源）
-- 机器人/具身智能：机器人动态（5 条，4 个来源）
-- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
+- AI 应用：AI动态（3 条，2 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：机器人动态（3 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
 - 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（6 条，4 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319
-2. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
-3. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/
-4. Google DeepMind Unionization Talks Are Off to a Rocky Start｜WIRED Business｜https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/
-5. Samsung Vs. Google: Which Android Watch Lasts Longer?｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-vs-google-android-watch-004700589.html
+1. Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
+2. Samsung floats 2028 launch for seaborne datacenter｜The Register｜https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981
+3. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319
+4. If you use Google, you’re training its AI. Here’s how to opt out.｜TechCrunch｜https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/
+5. SpaceX President Gwynne Shotwell to donate stock to Trump Accounts｜CNBC Technology｜https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
