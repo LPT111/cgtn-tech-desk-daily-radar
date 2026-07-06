@@ -1,49 +1,39 @@
 {
-  "generatedAt": "2026-07-05T23:50:15.288Z",
+  "generatedAt": "2026-07-06T00:14:35.124Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-06",
   "changeSummary": {
-    "domesticNew": 18,
-    "globalNew": 2,
-    "domesticContinued": 0,
-    "globalContinued": 3,
+    "domesticNew": 4,
+    "globalNew": 1,
+    "domesticContinued": 16,
+    "globalContinued": 5,
     "topNewDomestic": [
       {
-        "title": "联合国报告呼吁尽快完善人工智能治理",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkk8555579.shtml"
-      },
-      {
-        "title": "中国版星链两天两发！千帆星座在轨卫星总量突破238颗",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkki1773043.shtml"
-      },
-      {
-        "title": "Meta卖算力不能片面解读为“算力过剩”",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml"
-      },
-      {
-        "title": "新款半导体芯片能同步测量多种生物信号",
+        "title": "美光启动93亿美元广岛扩建项目，预计2028年投产",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L14T5P1305198CJN.html"
+        "url": "https://www.163.com/dy/article/L150E6JF0512B07B.html"
       },
       {
-        "title": "美发射航天器拯救“雨燕”",
+        "title": "国产机器人加速进阶",
+        "source": "人民网-科技",
+        "url": "http://finance.people.com.cn/n1/2026/0706/c1004-40753873.html"
+      },
+      {
+        "title": "财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkf8790137.shtml"
+        "url": "https://finance.sina.com.cn/stock/y/2026-07-06/doc-inifvkke2039533.shtml"
+      },
+      {
+        "title": "长八甲火箭成功发射千帆极轨15组卫星",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series",
+        "title": "5 More Affordable Android Phones To Consider Before A Samsung Galaxy S26 Ultra",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html"
-      },
-      {
-        "title": "Intel may bring back older desktop CPUs because DDR5 is getting too expensive",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/intel-may-bring-back-older-184016201.html"
+        "url": "https://tech.yahoo.com/phones/articles/5-more-affordable-android-phones-224500795.html"
       }
     ],
     "hasPrevious": true
@@ -52,8 +42,8 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 882,
-    "globalRejected": 895,
+    "domesticRejected": 880,
+    "globalRejected": 894,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -67,7 +57,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 30,
   "failedSources": [
     {
       "name": "财联社",
@@ -75,24 +65,9 @@
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -100,13 +75,8 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -122,24 +92,9 @@
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -147,13 +102,8 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -166,7 +116,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 143,
+      "parsed": 131,
       "failed": false,
       "optional": false
     },
@@ -265,9 +215,8 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -331,16 +280,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -361,9 +308,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -371,7 +317,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -418,18 +364,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1255,
+  "itemsSeen": 1316,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 271,
-  "itemsAfterDedupe": 203,
-  "todayItemsSeen": 18,
-  "suspectedItemsSeen": 20,
-  "skippedNonToday": 166,
+  "itemsAfterRelevantFilter": 322,
+  "itemsAfterDedupe": 235,
+  "todayItemsSeen": 20,
+  "suspectedItemsSeen": 19,
+  "skippedNonToday": 197,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 143,
+      "parsed": 131,
       "failed": false,
       "optional": false
     },
@@ -528,9 +474,8 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -594,16 +539,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -624,9 +567,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -634,7 +576,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -721,7 +663,7 @@
     {
       "name": "Yahoo News Technology",
       "tier": "international",
-      "parsed": 229,
+      "parsed": 228,
       "failed": false,
       "optional": false
     },
@@ -840,24 +782,9 @@
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -865,13 +792,8 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -899,10 +821,38 @@
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1206,
+  "globalItemsSeen": 1205,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 95,
+  "globalItemsAfterRelevantFilter": 97,
   "topics": [
+    {
+      "topic": "人形机器人与具身智能",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "人民网-科技",
+        "新浪科技"
+      ],
+      "items": [
+        "国产机器人加速进阶",
+        "很逼真！又一款国产女伴侣机器人发布：售1.5万下月批量交货、有体温能互动",
+        "恒工精密于上海成立具身智能科技公司，经营范围包含智能机器人的研发等"
+      ]
+    },
+    {
+      "topic": "半导体供应链",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日",
+        "新款半导体芯片能同步测量多种生物信号",
+        "串联太阳能电池光电转换效率创新高"
+      ]
+    },
     {
       "topic": "新能源车与智能驾驶",
       "count": 3,
@@ -918,53 +868,29 @@
       ]
     },
     {
-      "topic": "AI 应用与智能体",
+      "topic": "国产 GPU / 算力基础设施",
       "count": 2,
       "sourceCount": 2,
       "sources": [
-        "新浪科技",
-        "IT之家"
-      ],
-      "items": [
-        "Meta卖算力不能片面解读为“算力过剩”",
-        "IT早报 0706：豆包千问智能体 Agent 下线；多地推行网约车“一车一码”；我国“人造太阳”计划 2030 年演示发出第一度电；微信承诺异常企微拉群将强制确认"
-      ]
-    },
-    {
-      "topic": "科学前沿动态",
-      "count": 3,
-      "sourceCount": 1,
-      "sources": [
+        "网易科技",
         "新浪科技"
       ],
       "items": [
-        "坚守正确政绩观，聚力实干建设国际一流激光强所",
-        "东莞材料所加速布局新材料成果转化中试基地",
-        "把战斗堡垒筑在科研攻关最前沿"
+        "美光启动93亿美元广岛扩建项目，预计2028年投产",
+        "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%"
       ]
     },
     {
-      "topic": "半导体供应链",
+      "topic": "商业航天与卫星互联网",
       "count": 2,
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "新款半导体芯片能同步测量多种生物信号",
-        "串联太阳能电池光电转换效率创新高"
-      ]
-    },
-    {
-      "topic": "人形机器人与具身智能",
-      "count": 2,
-      "sourceCount": 1,
-      "sources": [
+        "科技日报",
         "新浪科技"
       ],
       "items": [
-        "很逼真！又一款国产女伴侣机器人发布：售1.5万下月批量交货、有体温能互动",
-        "恒工精密于上海成立具身智能科技公司，经营范围包含智能机器人的研发等"
+        "长八甲火箭成功发射千帆极轨15组卫星",
+        "中国版星链两天两发！千帆星座在轨卫星总量突破238颗"
       ]
     },
     {
@@ -980,6 +906,18 @@
       ]
     },
     {
+      "topic": "科学前沿动态",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "东莞材料所加速布局新材料成果转化中试基地",
+        "把战斗堡垒筑在科研攻关最前沿"
+      ]
+    },
+    {
       "topic": "监管与安全动态",
       "count": 1,
       "sourceCount": 1,
@@ -988,17 +926,6 @@
       ],
       "items": [
         "联合国报告呼吁尽快完善人工智能治理"
-      ]
-    },
-    {
-      "topic": "商业航天与卫星互联网",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "中国版星链两天两发！千帆星座在轨卫星总量突破238颗"
       ]
     },
     {
@@ -1013,18 +940,86 @@
       ]
     },
     {
-      "topic": "国产 GPU / 算力基础设施",
+      "topic": "AI 应用与智能体",
       "count": 1,
       "sourceCount": 1,
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
       "items": [
-        "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%"
+        "IT早报 0706：豆包千问智能体 Agent 下线；多地推行网约车“一车一码”；我国“人造太阳”计划 2030 年演示发出第一度电；微信承诺异常企微拉群将强制确认"
       ]
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "美光启动93亿美元广岛扩建项目，预计2028年投产",
+      "summary": "美光启动93亿美元广岛扩建项目，预计2028年投产HBM；黑石旗下QTS终止全球最大数据中心项目丨全球科技早参,韩国,内存,大数据,半导体,机器人,hbm,美光科技,11式单兵综合作战系统",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L150E6JF0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L150E6JF0512B07B.html"
+      ],
+      "publishedAt": "2026-07-06",
+      "date": "2026-07-06",
+      "category": "芯片",
+      "classificationConfidence": 0.89,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 192,
+      "reporterScore": 214,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 138
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “美光启动93亿美元广岛扩建项目，预计2028年投产” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "美光启动93亿美元广岛扩建项目，预计2028年投产HBM；黑石旗下QTS终止全球最大数据中心项目丨全球科技早参,韩国,内存,大数据,半导体,机器人,hbm,美光科技,11式单兵综合作战系统",
+      "relatedTitles": [
+        "美光启动93亿美元广岛扩建项目，预计2028年投产"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "联合国报告呼吁尽快完善人工智能治理",
@@ -1090,6 +1085,215 @@
       "rawText": "据新华社电 联合国“人工智能独立国际科学小组”近日就人工智能可能带来的机遇、风险与影响发布初步报告。报告在肯定人工智能巨大潜在益处的同时，呼吁各国尽快采取行动，完善人工智能治理。报告说，近年来人工智能技术快速发展，如果部署和应用得当，可助力...",
       "relatedTitles": [
         "联合国报告呼吁尽快完善人工智能治理"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cDovL2ZpbmFuY2Uu",
+      "title": "国产机器人加速进阶",
+      "summary": "今年一季度，我国工业机器人产量同比增长33.2%。增量背后，国产机器人正在回答3个问题：算法能不能更聪明？核心部件能不能自己造？应用场景能不能扎得够深？影院里，深圳市越疆科技股份有限公司的爆米花机器人",
+      "source": "人民网-科技",
+      "sources": [
+        "人民网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "http://finance.people.com.cn/n1/2026/0706/c1004-40753873.html",
+      "sourceUrls": [
+        "http://finance.people.com.cn/n1/2026/0706/c1004-40753873.html"
+      ],
+      "publishedAt": "2026-07-06",
+      "date": "2026-07-06",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 178,
+      "reporterScore": 202,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 12,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": true,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 138
+      },
+      "isPrimarySource": true,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “国产机器人加速进阶” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "今年一季度，我国工业机器人产量同比增长33.2%。增量背后，国产机器人正在回答3个问题：算法能不能更聪明？核心部件能不能自己造？应用场景能不能扎得够深？影院里，深圳市越疆科技股份有限公司的爆米花机器人",
+      "relatedTitles": [
+        "国产机器人加速进阶"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日",
+      "summary": "全球汇率新浪最全炒汇神器。7月1日多则新闻受关注。外交方面，王毅6月30日同美国国务卿鲁比奥通话，强调构建建设性战略稳定关系；特朗普称美伊关系好、卡塔尔会谈顺利；海湾国家与伊朗接触；伊朗要求分阶段执行美伊备忘录、推动资产解冻。经济领域，6月百城新房均价17184元/平方米，环比涨0.16%，同比涨2%；7月5日起国内航",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-06/doc-inifvkke2039533.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/y/2026-07-06/doc-inifvkke2039533.shtml"
+      ],
+      "publishedAt": "2026-07-06",
+      "date": "2026-07-06",
+      "category": "芯片",
+      "classificationConfidence": 0.98,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 184,
+      "reporterScore": 200,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 130
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "全球汇率新浪最全炒汇神器。7月1日多则新闻受关注。外交方面，王毅6月30日同美国国务卿鲁比奥通话，强调构建建设性战略稳定关系；特朗普称美伊关系好、卡塔尔会谈顺利；海湾国家与伊朗接触；伊朗要求分阶段执行美伊备忘录、推动资产解冻。经济领域，6月百城新房均价17184元/平方米，环比涨0.16%，同比涨2%；7月5日起国内航线燃油附加费下调；世界黄金协会警示金价风险；7月6日主板风险警示股涨跌幅调为10%；美股存储芯片股重挫。企业方面，阳光能源市值跌破3000亿；双星鞋业创始人一审败诉；安正时尚二股东天价离婚；厦门钨业子公司停产；超20家A股公司补税。多家公司发布业绩、增减持等公告。 (AI生成)--新浪财经领先金融信息服务平台",
+      "relatedTitles": [
+        "财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "长八甲火箭成功发射千帆极轨15组卫星",
+      "summary": "作者：马帅莎李宸 来源：中国新闻网 发布时间：2026/7/4 20:30:34 我国成功发射千帆极轨13组卫星 中新网北京7月4日电(马帅莎 李宸)北京时间7月4日17时30分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将千帆极轨13组卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。 我国成功发射千",
+      "source": "科技日报",
+      "sources": [
+        "科技日报",
+        "中国科学报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html",
+        "https://news.sciencenet.cn/htmlnews/2026/7/567693.shtm",
+        "https://news.sciencenet.cn/htmlnews/2026/7/567703.shtm",
+        "http://news.sciencenet.cn/htmlnews/2026/7/567693.shtm"
+      ],
+      "publishedAt": "2026-07-06",
+      "date": "2026-07-06",
+      "category": "太空与低空",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 172,
+      "reporterScore": 186,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “长八甲火箭成功发射千帆极轨15组卫星” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 长八甲火箭成功发射千帆极轨15组卫星 2026-07-06 07:49:22 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "长八甲火箭成功发射千帆极轨15组卫星",
+        "“七一勋章”获得者钟掘：一生掘进，只为报国"
       ],
       "isNewSinceLastRun": true
     },
@@ -1159,75 +1363,7 @@
       "relatedTitles": [
         "中国版星链两天两发！千帆星座在轨卫星总量突破238颗"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "Meta卖算力不能片面解读为“算力过剩”",
-      "summary": "科技巨头Meta计划出售富余算力引发“算力过剩”担忧，但这是企业存量资产精细化运营、行业算力结构迭代升级的正常行为。Meta在AI高投入下将部分闲置资源转化为现金流，其2026年表态算力短缺至少延续至年底，还上调全年资本开支至1250 - 1450亿美元。全球大模型迭代使AI算力需求未衰减，海外云厂商算力利用率等维持高",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml"
-      ],
-      "publishedAt": "2026-07-06",
-      "date": "2026-07-06",
-      "category": "AI",
-      "classificationConfidence": 0.97,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 176,
-      "reporterScore": 184,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta卖算力不能片面解读为“算力过剩”” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "科技巨头Meta计划出售富余算力引发“算力过剩”担忧，但这是企业存量资产精细化运营、行业算力结构迭代升级的正常行为。Meta在AI高投入下将部分闲置资源转化为现金流，其2026年表态算力短缺至少延续至年底，还上调全年资本开支至1250 - 1450亿美元。全球大模型迭代使AI算力需求未衰减，海外云厂商算力利用率等维持高位。中国市场AI算力需求旺盛，供不应求。当前算力需求结构已迭代，推理算力成核心驱动力。国内算力行业供需利好，产业正向循环格局稳固，市场对Meta卖算力是误读，算力产业链成长逻辑将持续夯实。 (AI生成)",
-      "relatedTitles": [
-        "Meta卖算力不能片面解读为“算力过剩”"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1295,7 +1431,7 @@
       "relatedTitles": [
         "新款半导体芯片能同步测量多种生物信号"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1363,7 +1499,7 @@
       "relatedTitles": [
         "美发射航天器拯救“雨燕”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1431,7 +1567,7 @@
       "relatedTitles": [
         "很逼真！又一款国产女伴侣机器人发布：售1.5万下月批量交货、有体温能互动"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1499,7 +1635,7 @@
       "relatedTitles": [
         "恒工精密于上海成立具身智能科技公司，经营范围包含智能机器人的研发等"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1567,7 +1703,7 @@
       "relatedTitles": [
         "美国部分富人放弃传统学校：年费7.5万美元送孩子读AI私塾"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1635,7 +1771,7 @@
       "relatedTitles": [
         "云从科技成立新公司，经营范围包含人工智能应用软件开发等"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1703,75 +1839,7 @@
       "relatedTitles": [
         "串联太阳能电池光电转换效率创新高"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "坚守正确政绩观，聚力实干建设国际一流激光强所",
-      "summary": "■陈卫标对科研院所而言，正确的政绩观是干事创业的“定盘星”，核心在于坚守科技报国初心，把服务国家战略需求、突破关键核心技术、创造经得起实践和历史检验的科研实绩作为最高追求、最大政绩。中国科学院上海光学精密机械研究所（以下简称上海光机所）坚定...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkf8790489.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkf8790489.shtml"
-      ],
-      "publishedAt": "2026-07-06",
-      "date": "2026-07-06",
-      "category": "科学前沿",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 5,
-      "score": 154,
-      "reporterScore": 162,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “坚守正确政绩观，聚力实干建设国际一流激光强所” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "■陈卫标对科研院所而言，正确的政绩观是干事创业的“定盘星”，核心在于坚守科技报国初心，把服务国家战略需求、突破关键核心技术、创造经得起实践和历史检验的科研实绩作为最高追求、最大政绩。中国科学院上海光学精密机械研究所（以下简称上海光机所）坚定...",
-      "relatedTitles": [
-        "坚守正确政绩观，聚力实干建设国际一流激光强所"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1839,7 +1907,7 @@
       "relatedTitles": [
         "东莞材料所加速布局新材料成果转化中试基地"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1907,7 +1975,7 @@
       "relatedTitles": [
         "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1975,7 +2043,7 @@
       "relatedTitles": [
         "IT早报 0706：豆包千问智能体 Agent 下线；多地推行网约车“一车一码”；我国“人造太阳”计划 2030 年演示发出第一度电；微信承诺异常企微拉群将强制确认"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2043,7 +2111,7 @@
       "relatedTitles": [
         "旧金山多辆 Waymo 自动驾驶出租车碾过烟花，其中一车起火"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2111,7 +2179,7 @@
       "relatedTitles": [
         "把战斗堡垒筑在科研攻关最前沿"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2179,7 +2247,7 @@
       "relatedTitles": [
         "燃油车价格崩盘？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2247,7 +2315,7 @@
       "relatedTitles": [
         "车船税调整拉开“油电同权”大幕 新能源汽车进入市场驱动新阶段"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2383,73 +2451,6 @@
       "rawText": "日本在工业机器人领域长期保持着较强的竞争力，但随着中国和欧洲的工业机器人制造商后来居上，日本企业正逐渐丧失市场份额。据《日经亚洲》7月3日报道，为争夺市场主导地位，日本工业机器人制造商准备押注人工智能（AI），以提升产品竞争力。",
       "relatedTitles": [
         "中欧夹击下，日本押注AI求翻盘"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLnNj",
-      "title": "近日，两款我国自主研制的核聚变堆超导磁体，完成技术验收和满工况参数测试。其中，高温超导中心螺管线圈是紧凑型聚变实验装置的关键部分，装置计划将于2027年底建成。",
-      "summary": "首页 中国“人造太阳”有重大进展：第一度电瞄准2030年 分享到： 7月5日，#中国人造太阳有重大进展#话题冲上热搜榜。 核聚变能被写入国家“十五五”规划纲要，并被列入未来产业重点方向。它的基本原理与太阳的能量来源相同，因此被称为“人造太阳”。 据央视新闻介绍，6月27日，两款我国自主研制的核聚变堆超导磁体，完成技术验",
-      "source": "中国科学报",
-      "sources": [
-        "中国科学报"
-      ],
-      "sourceTier": "research",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/7/567681.shtm",
-      "sourceUrls": [
-        "https://news.sciencenet.cn/htmlnews/2026/7/567681.shtm"
-      ],
-      "publishedAt": "2026-07-56",
-      "date": "2026-07-56",
-      "category": "科学前沿",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 4,
-      "score": 144,
-      "reporterScore": 166,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 14,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the research into a human-readable science story about research infrastructure and long-term innovation capacity, avoiding claims beyond the published evidence. For this item, test the claim behind “近日，两款我国自主研制的核聚变堆超导磁体，完成技术验收和满工况参数测试。其中，高温超导中心螺管线圈是紧凑型聚变实验装置的关键部分，装置计划将于2” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "来源：央视新闻客户端 发布时间：2026/7/5 7:51:34 “人造太阳”时间表更新 第一度电瞄准2030年 被大家称为“人造太阳”的可控核聚变，又有重大进展。",
-      "relatedTitles": [
-        "近日，两款我国自主研制的核聚变堆超导磁体，完成技术验收和满工况参数测试。其中，高温超导中心螺管线圈是紧凑型聚变实验装置的关键部分，装置计划将于2027年底建成。"
       ]
     },
     {
@@ -3595,52 +3596,20 @@
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series",
-      "summary": "Choosing between a Galaxy FE phone and the pricier Galaxy S lineup comes down to hardware trade-offs Samsung makes to hit that lower price tag.",
+      "title": "5 More Affordable Android Phones To Consider Before A Samsung Galaxy S26 Ultra",
+      "summary": "The Galaxy S26 Ultra has plenty going for it, but it isn't the only Android phone worth considering before you spend flagship money on your next phone.",
       "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html",
+      "url": "https://tech.yahoo.com/phones/articles/5-more-affordable-android-phones-224500795.html",
       "publishedAt": "2026-07-06",
       "date": "2026-07-06",
       "region": "US",
       "category": "芯片",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "low",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Intel may bring back older desktop CPUs because DDR5 is getting too expensive",
-      "summary": "Intel is reportedly restarting production of older Core CPUs as DDR5 prices make new gaming PC builds harder to justify.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/intel-may-bring-back-older-184016201.html",
-      "publishedAt": "2026-07-06",
-      "date": "2026-07-06",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Intel may bring back older desktop CPUs because DDR5 is getting too expe” against primary-source evidence.",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “5 More Affordable Android Phones To Consider Before A Samsung Galaxy S26” against primary-source evidence.",
       "priority": 4,
       "score": 143,
       "reporterScore": 143,
@@ -3752,10 +3721,74 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series",
+      "summary": "Choosing between a Galaxy FE phone and the pricier Galaxy S lineup comes down to hardware trade-offs Samsung makes to hit that lower price tag.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html",
+      "publishedAt": "2026-07-06",
+      "date": "2026-07-06",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Intel may bring back older desktop CPUs because DDR5 is getting too expensive",
+      "summary": "Intel is reportedly restarting production of older Core CPUs as DDR5 prices make new gaming PC builds harder to justify.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/intel-may-bring-back-older-184016201.html",
+      "publishedAt": "2026-07-06",
+      "date": "2026-07-06",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Intel may bring back older desktop CPUs because DDR5 is getting too expe” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-06｜V3\n生成时间：2026/7/6 07:50:15\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2461｜确认今日 18｜国际背景 5\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-06] 联合国报告呼吁尽快完善人工智能治理\n   新浪科技｜2026-07-06｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkk8555579.shtml\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “联合国报告呼吁尽快完善人工智能治理” against primary-source evidence.\n\n2. [2026-07-06] 中国版星链两天两发！千帆星座在轨卫星总量突破238颗\n   新浪科技｜2026-07-06｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkki1773043.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “中国版星链两天两发！千帆星座在轨卫星总量突破238颗” against primary-source evidence.\n\n3. [2026-07-06] Meta卖算力不能片面解读为“算力过剩”\n   新浪科技｜2026-07-06｜https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta卖算力不能片面解读为“算力过剩”” against primary-source evidence.\n\n4. [2026-07-06] 新款半导体芯片能同步测量多种生物信号\n   网易科技｜2026-07-06｜https://www.163.com/dy/article/L14T5P1305198CJN.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “新款半导体芯片能同步测量多种生物信号” against primary-source evidence.\n\n5. [2026-07-06] 美发射航天器拯救“雨燕”\n   新浪科技｜2026-07-06｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkf8790137.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “美发射航天器拯救“雨燕”” against primary-source evidence.\n\n本次新增线索：\n- 联合国报告呼吁尽快完善人工智能治理｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkk8555579.shtml\n- 中国版星链两天两发！千帆星座在轨卫星总量突破238颗｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkki1773043.shtml\n- Meta卖算力不能片面解读为“算力过剩”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml\n- 新款半导体芯片能同步测量多种生物信号｜网易科技｜https://www.163.com/dy/article/L14T5P1305198CJN.html\n- 美发射航天器拯救“雨燕”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkf8790137.shtml\n- Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html\n2. Intel may bring back older desktop CPUs because DDR5 is getting too expensive｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/intel-may-bring-back-older-184016201.html\n3. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n4. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\n5. Google DeepMind Unionization Talks Are Off to a Rocky Start｜WIRED Business｜https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-06｜V3\n生成时间：2026/7/6 07:50:15\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2461｜确认今日 18｜国际背景 5\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-06] 联合国报告呼吁尽快完善人工智能治理\n   新浪科技｜2026-07-06｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkk8555579.shtml\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “联合国报告呼吁尽快完善人工智能治理” against primary-source evidence.\n\n2. [2026-07-06] 中国版星链两天两发！千帆星座在轨卫星总量突破238颗\n   新浪科技｜2026-07-06｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkki1773043.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “中国版星链两天两发！千帆星座在轨卫星总量突破238颗” against primary-source evidence.\n\n3. [2026-07-06] Meta卖算力不能片面解读为“算力过剩”\n   新浪科技｜2026-07-06｜https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta卖算力不能片面解读为“算力过剩”” against primary-source evidence.\n\n4. [2026-07-06] 新款半导体芯片能同步测量多种生物信号\n   网易科技｜2026-07-06｜https://www.163.com/dy/article/L14T5P1305198CJN.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “新款半导体芯片能同步测量多种生物信号” against primary-source evidence.\n\n5. [2026-07-06] 美发射航天器拯救“雨燕”\n   新浪科技｜2026-07-06｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkf8790137.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “美发射航天器拯救“雨燕”” against primary-source evidence.\n\n本次新增线索：\n- 联合国报告呼吁尽快完善人工智能治理｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkk8555579.shtml\n- 中国版星链两天两发！千帆星座在轨卫星总量突破238颗｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkki1773043.shtml\n- Meta卖算力不能片面解读为“算力过剩”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml\n- 新款半导体芯片能同步测量多种生物信号｜网易科技｜https://www.163.com/dy/article/L14T5P1305198CJN.html\n- 美发射航天器拯救“雨燕”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkf8790137.shtml\n- Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html\n2. Intel may bring back older desktop CPUs because DDR5 is getting too expensive｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/intel-may-bring-back-older-184016201.html\n3. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n4. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\n5. Google DeepMind Unionization Talks Are Off to a Rocky Start｜WIRED Business｜https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-06｜生成时间：2026/7/6 07:50:15｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2461｜确认今日 18｜国际背景 5</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 18 条｜国际 2 条<br>延续跟踪线索：国内 0 条｜国际 3 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-06] 联合国报告呼吁尽快完善人工智能治理</strong>\n      <span>新浪科技｜2026-07-06｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkk8555579.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：217｜需核验来源</span>\n      <p>报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “联合国报告呼吁尽快完善人工智能治理” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-06] 中国版星链两天两发！千帆星座在轨卫星总量突破238颗</strong>\n      <span>新浪科技｜2026-07-06｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkki1773043.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “中国版星链两天两发！千帆星座在轨卫星总量突破238颗” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-06] Meta卖算力不能片面解读为“算力过剩”</strong>\n      <span>新浪科技｜2026-07-06｜<a href=\"https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta卖算力不能片面解读为“算力过剩”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-06] 新款半导体芯片能同步测量多种生物信号</strong>\n      <span>网易科技｜2026-07-06｜<a href=\"https://www.163.com/dy/article/L14T5P1305198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “新款半导体芯片能同步测量多种生物信号” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-06] 美发射航天器拯救“雨燕”</strong>\n      <span>新浪科技｜2026-07-06｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkf8790137.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “美发射航天器拯救“雨燕”” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series</strong>\n      <span>时间：2026-07-06｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Intel may bring back older desktop CPUs because DDR5 is getting too expensive</strong>\n      <span>时间：2026-07-06｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/intel-may-bring-back-older-184016201.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Intel may bring back older desktop CPUs because DDR5 is getting too expe” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. What is Mistral AI? Everything to know about the OpenAI competitor</strong>\n      <span>时间：Sat, 04 Jul 2026 15:51:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “What is Mistral AI? Everything to know about the OpenAI competitor” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. New Google commercial imagines a Declaration of Independence written with help from AI</strong>\n      <span>时间：Sat, 04 Jul 2026 20:55:25 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “New Google commercial imagines a Declaration of Independence written wit” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google DeepMind Unionization Talks Are Off to a Rocky Start</strong>\n      <span>时间：Fri, 03 Jul 2026 16:30:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google DeepMind Unionization Talks Are Off to a Rocky Start” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/6 07:50:15\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-06] 联合国报告呼吁尽快完善人工智能治理\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkk8555579.shtml\n   角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “联合国报告呼吁尽快完善人工智能治理” against primary-source evidence.\n\n2. [2026-07-06] 中国版星链两天两发！千帆星座在轨卫星总量突破238颗\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkki1773043.shtml\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “中国版星链两天两发！千帆星座在轨卫星总量突破238颗” against primary-source evidence.\n\n3. [2026-07-06] Meta卖算力不能片面解读为“算力过剩”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta卖算力不能片面解读为“算力过剩”” against primary-source evidence.\n\n4. [2026-07-06] 新款半导体芯片能同步测量多种生物信号\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L14T5P1305198CJN.html\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “新款半导体芯片能同步测量多种生物信号” against primary-source evidence.\n\n5. [2026-07-06] 美发射航天器拯救“雨燕”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkf8790137.shtml\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “美发射航天器拯救“雨燕”” against primary-source evidence.\n\n本次新增线索：\n- 联合国报告呼吁尽快完善人工智能治理｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkk8555579.shtml\n- 中国版星链两天两发！千帆星座在轨卫星总量突破238颗｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkki1773043.shtml\n- Meta卖算力不能片面解读为“算力过剩”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml\n- 新款半导体芯片能同步测量多种生物信号｜网易科技｜https://www.163.com/dy/article/L14T5P1305198CJN.html\n- 美发射航天器拯救“雨燕”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkf8790137.shtml\n- Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，1 个来源）\n\n国际科技背景：\n1. Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html\n2. Intel may bring back older desktop CPUs because DDR5 is getting too expensive｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/intel-may-bring-back-older-184016201.html\n3. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n4. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\n5. Google DeepMind Unionization Talks Are Off to a Rocky Start｜WIRED Business｜https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-06｜V3\n生成时间：2026/7/6 08:14:35\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2521｜确认今日 20｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 1 条\n延续跟踪线索：国内 16 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-06] 美光启动93亿美元广岛扩建项目，预计2028年投产\n   网易科技｜2026-07-06｜https://www.163.com/dy/article/L150E6JF0512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “美光启动93亿美元广岛扩建项目，预计2028年投产” against primary-source evidence.\n\n2. [2026-07-06] 联合国报告呼吁尽快完善人工智能治理\n   新浪科技｜2026-07-06｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkk8555579.shtml\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “联合国报告呼吁尽快完善人工智能治理” against primary-source evidence.\n\n3. [2026-07-06] 国产机器人加速进阶\n   人民网-科技｜2026-07-06｜http://finance.people.com.cn/n1/2026/0706/c1004-40753873.html\n   报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “国产机器人加速进阶” against primary-source evidence.\n\n4. [2026-07-06] 财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日\n   新浪科技｜2026-07-06｜https://finance.sina.com.cn/stock/y/2026-07-06/doc-inifvkke2039533.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日” against primary-source evidence.\n\n5. [2026-07-06] 长八甲火箭成功发射千帆极轨15组卫星\n   科技日报｜2026-07-06｜https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “长八甲火箭成功发射千帆极轨15组卫星” against primary-source evidence.\n\n本次新增线索：\n- 美光启动93亿美元广岛扩建项目，预计2028年投产｜网易科技｜https://www.163.com/dy/article/L150E6JF0512B07B.html\n- 国产机器人加速进阶｜人民网-科技｜http://finance.people.com.cn/n1/2026/0706/c1004-40753873.html\n- 财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-07-06/doc-inifvkke2039533.shtml\n- 长八甲火箭成功发射千帆极轨15组卫星｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html\n- 5 More Affordable Android Phones To Consider Before A Samsung Galaxy S26 Ultra｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-more-affordable-android-phones-224500795.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. 5 More Affordable Android Phones To Consider Before A Samsung Galaxy S26 Ultra｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-more-affordable-android-phones-224500795.html\n2. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n3. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\n4. Google DeepMind Unionization Talks Are Off to a Rocky Start｜WIRED Business｜https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/\n5. Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-06｜V3\n生成时间：2026/7/6 08:14:35\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2521｜确认今日 20｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 1 条\n延续跟踪线索：国内 16 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-06] 美光启动93亿美元广岛扩建项目，预计2028年投产\n   网易科技｜2026-07-06｜https://www.163.com/dy/article/L150E6JF0512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “美光启动93亿美元广岛扩建项目，预计2028年投产” against primary-source evidence.\n\n2. [2026-07-06] 联合国报告呼吁尽快完善人工智能治理\n   新浪科技｜2026-07-06｜https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkk8555579.shtml\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “联合国报告呼吁尽快完善人工智能治理” against primary-source evidence.\n\n3. [2026-07-06] 国产机器人加速进阶\n   人民网-科技｜2026-07-06｜http://finance.people.com.cn/n1/2026/0706/c1004-40753873.html\n   报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “国产机器人加速进阶” against primary-source evidence.\n\n4. [2026-07-06] 财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日\n   新浪科技｜2026-07-06｜https://finance.sina.com.cn/stock/y/2026-07-06/doc-inifvkke2039533.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日” against primary-source evidence.\n\n5. [2026-07-06] 长八甲火箭成功发射千帆极轨15组卫星\n   科技日报｜2026-07-06｜https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “长八甲火箭成功发射千帆极轨15组卫星” against primary-source evidence.\n\n本次新增线索：\n- 美光启动93亿美元广岛扩建项目，预计2028年投产｜网易科技｜https://www.163.com/dy/article/L150E6JF0512B07B.html\n- 国产机器人加速进阶｜人民网-科技｜http://finance.people.com.cn/n1/2026/0706/c1004-40753873.html\n- 财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-07-06/doc-inifvkke2039533.shtml\n- 长八甲火箭成功发射千帆极轨15组卫星｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html\n- 5 More Affordable Android Phones To Consider Before A Samsung Galaxy S26 Ultra｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-more-affordable-android-phones-224500795.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. 5 More Affordable Android Phones To Consider Before A Samsung Galaxy S26 Ultra｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-more-affordable-android-phones-224500795.html\n2. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n3. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\n4. Google DeepMind Unionization Talks Are Off to a Rocky Start｜WIRED Business｜https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/\n5. Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-06｜生成时间：2026/7/6 08:14:35｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2521｜确认今日 20｜国际背景 6</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 1 条<br>延续跟踪线索：国内 16 条｜国际 5 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-06] 美光启动93亿美元广岛扩建项目，预计2028年投产</strong>\n      <span>网易科技｜2026-07-06｜<a href=\"https://www.163.com/dy/article/L150E6JF0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “美光启动93亿美元广岛扩建项目，预计2028年投产” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-06] 联合国报告呼吁尽快完善人工智能治理</strong>\n      <span>新浪科技｜2026-07-06｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkk8555579.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：217｜需核验来源</span>\n      <p>报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “联合国报告呼吁尽快完善人工智能治理” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-06] 国产机器人加速进阶</strong>\n      <span>人民网-科技｜2026-07-06｜<a href=\"http://finance.people.com.cn/n1/2026/0706/c1004-40753873.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：202｜一手来源</span>\n      <p>报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “国产机器人加速进阶” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-06] 财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日</strong>\n      <span>新浪科技｜2026-07-06｜<a href=\"https://finance.sina.com.cn/stock/y/2026-07-06/doc-inifvkke2039533.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-06] 长八甲火箭成功发射千帆极轨15组卫星</strong>\n      <span>科技日报｜2026-07-06｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：186｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “长八甲火箭成功发射千帆极轨15组卫星” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. 5 More Affordable Android Phones To Consider Before A Samsung Galaxy S26 Ultra</strong>\n      <span>时间：2026-07-06｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/5-more-affordable-android-phones-224500795.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “5 More Affordable Android Phones To Consider Before A Samsung Galaxy S26” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. What is Mistral AI? Everything to know about the OpenAI competitor</strong>\n      <span>时间：Sat, 04 Jul 2026 15:51:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “What is Mistral AI? Everything to know about the OpenAI competitor” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. New Google commercial imagines a Declaration of Independence written with help from AI</strong>\n      <span>时间：Sat, 04 Jul 2026 20:55:25 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “New Google commercial imagines a Declaration of Independence written wit” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Google DeepMind Unionization Talks Are Off to a Rocky Start</strong>\n      <span>时间：Fri, 03 Jul 2026 16:30:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google DeepMind Unionization Talks Are Off to a Rocky Start” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series</strong>\n      <span>时间：2026-07-06｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/6 08:14:35\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 1 条\n延续跟踪线索：国内 16 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-06] 美光启动93亿美元广岛扩建项目，预计2028年投产\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L150E6JF0512B07B.html\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “美光启动93亿美元广岛扩建项目，预计2028年投产” against primary-source evidence.\n\n2. [2026-07-06] 联合国报告呼吁尽快完善人工智能治理\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifvkkk8555579.shtml\n   角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “联合国报告呼吁尽快完善人工智能治理” against primary-source evidence.\n\n3. [2026-07-06] 国产机器人加速进阶\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0706/c1004-40753873.html\n   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “国产机器人加速进阶” against primary-source evidence.\n\n4. [2026-07-06] 财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/y/2026-07-06/doc-inifvkke2039533.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日” against primary-source evidence.\n\n5. [2026-07-06] 长八甲火箭成功发射千帆极轨15组卫星\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “长八甲火箭成功发射千帆极轨15组卫星” against primary-source evidence.\n\n本次新增线索：\n- 美光启动93亿美元广岛扩建项目，预计2028年投产｜网易科技｜https://www.163.com/dy/article/L150E6JF0512B07B.html\n- 国产机器人加速进阶｜人民网-科技｜http://finance.people.com.cn/n1/2026/0706/c1004-40753873.html\n- 财经早报：“韬定律”V2版来了利好半导体行业 热门QDII基金限购再升级丨2026年7月6日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-07-06/doc-inifvkke2039533.shtml\n- 长八甲火箭成功发射千帆极轨15组卫星｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html\n- 5 More Affordable Android Phones To Consider Before A Samsung Galaxy S26 Ultra｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-more-affordable-android-phones-224500795.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n国际科技背景：\n1. 5 More Affordable Android Phones To Consider Before A Samsung Galaxy S26 Ultra｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-more-affordable-android-phones-224500795.html\n2. What is Mistral AI? Everything to know about the OpenAI competitor｜TechCrunch｜https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n3. New Google commercial imagines a Declaration of Independence written with help from AI｜TechCrunch｜https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/\n4. Google DeepMind Unionization Talks Are Off to a Rocky Start｜WIRED Business｜https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/\n5. Why Samsung's Galaxy FE Series Is Cheaper Than Its Galaxy S Series｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/why-samsungs-galaxy-fe-series-221700328.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
