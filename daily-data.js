@@ -1,68 +1,42 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-06T23:52:19.084Z",
+  "generatedAt": "2026-07-07T00:16:59.192Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-07",
   "changeSummary": {
-    "domesticNew": 20,
-    "globalNew": 4,
-    "domesticContinued": 0,
-    "globalContinued": 1,
+    "domesticNew": 4,
+    "globalNew": 0,
+    "domesticContinued": 20,
+    "globalContinued": 5,
     "topNewDomestic": [
       {
-        "title": "中信建投：特斯拉人形机器人迈向量产，看好板块持续性",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml"
+        "title": "科技早报 | 三星电子今年营业利润有望超40年累计总和",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L17IN58A0534A4SC.html"
       },
       {
-        "title": "瞭望智库组织探讨AI算力坚守长期自主创新的破局之道",
-        "source": "人民网-科技",
-        "url": "http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html"
+        "title": "填补国内空白：我国建成首套高精度圆度基准装置，圆度测量不确定度从 20nm 降至 6nm",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/973/328.htm"
       },
       {
-        "title": "成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军",
-        "source": "人民网-科技",
-        "url": "http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html"
+        "title": "今年1至5月我国机器人规上企业营业收入突破900亿元",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L17HS9VH0534A4SC.html"
       },
       {
-        "title": "太空种子在沙漠落地开花",
-        "source": "人民网-科技",
-        "url": "http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html"
-      },
-      {
-        "title": "“大连一号”无人机成功首飞",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpie1516066.shtml"
+        "title": "亚马逊云服务发布AWS SimuLearn学习计划徽章，",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L17IC6SA0534A4SC.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Your family’s $300 stake in OpenAI",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
-      },
-      {
-        "title": "Samsung floats 2028 launch for seaborne datacenter",
-        "source": "The Register",
-        "url": "https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981"
-      },
-      {
-        "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/"
-      },
-      {
-        "title": "SpaceX President Gwynne Shotwell to donate stock to Trump Accounts",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 880,
+    "domesticRejected": 876,
     "globalRejected": 895,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -419,11 +393,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "itemsSeen": 1330,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 319,
-  "itemsAfterDedupe": 240,
-  "todayItemsSeen": 20,
+  "itemsAfterRelevantFilter": 317,
+  "itemsAfterDedupe": 239,
+  "todayItemsSeen": 24,
   "suspectedItemsSeen": 19,
-  "skippedNonToday": 200,
+  "skippedNonToday": 194,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -719,7 +693,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "Yahoo News Technology",
       "tier": "international",
-      "parsed": 238,
+      "parsed": 237,
       "failed": false,
       "optional": false
     },
@@ -892,10 +866,26 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1215,
+  "globalItemsSeen": 1214,
   "globalWindow": "latest_48h",
   "globalItemsAfterRelevantFilter": 93,
   "topics": [
+    {
+      "topic": "半导体供应链",
+      "count": 4,
+      "sourceCount": 3,
+      "sources": [
+        "网易科技",
+        "IT之家",
+        "新浪科技"
+      ],
+      "items": [
+        "科技早报 | 三星电子今年营业利润有望超40年累计总和",
+        "填补国内空白：我国建成首套高精度圆度基准装置，圆度测量不确定度从 20nm 降至 6nm",
+        "周二你需要知道的隔夜全球要闻：特朗普称其与普京进行了“非常好的通话”",
+        "7月7日热门中概股普涨 台积电涨4.07%，蔚来涨4.80%"
+      ]
+    },
     {
       "topic": "芯片动态",
       "count": 3,
@@ -941,6 +931,19 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "人形机器人与具身智能",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "中信建投：特斯拉人形机器人迈向量产，看好板块持续性",
+        "今年1至5月我国机器人规上企业营业收入突破900亿元"
+      ]
+    },
+    {
       "topic": "太空与低空动态",
       "count": 2,
       "sourceCount": 2,
@@ -951,30 +954,6 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "太空种子在沙漠落地开花",
         "马斯克xAI正式更名为SpaceXAI：全新LOGO同步上线"
-      ]
-    },
-    {
-      "topic": "半导体供应链",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "网易科技",
-        "新浪科技"
-      ],
-      "items": [
-        "周二你需要知道的隔夜全球要闻：特朗普称其与普京进行了“非常好的通话”",
-        "7月7日热门中概股普涨 台积电涨4.07%，蔚来涨4.80%"
-      ]
-    },
-    {
-      "topic": "人形机器人与具身智能",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "中信建投：特斯拉人形机器人迈向量产，看好板块持续性"
       ]
     },
     {
@@ -1041,6 +1020,17 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "凯迪拉克召回全美所有凯威德全尺寸 SUV：第三排电动座椅存在被困风险"
+      ]
+    },
+    {
+      "topic": "数字经济动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "亚马逊云服务发布AWS SimuLearn学习计划徽章，"
       ]
     }
   ],
@@ -1111,7 +1101,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中信建投：特斯拉人形机器人迈向量产，看好板块持续性"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cDovL2ZpbmFuY2Uu",
@@ -1179,7 +1169,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "瞭望智库组织探讨AI算力坚守长期自主创新的破局之道"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cDovL2ZpbmFuY2Uu",
@@ -1247,7 +1237,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cDovL2ZpbmFuY2Uu",
@@ -1314,6 +1304,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "近日，在内蒙古阿拉善盟额济纳旗东风镇古日乃嘎查的航天育种试验基地内，曾搭载实践十九号卫星的荒漠肉苁蓉“太空种子”，在地面选育试验中取得关键进展——首批试验植株成功开花。太空种子的生长周期较传统种子",
       "relatedTitles": [
         "太空种子在沙漠落地开花"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "科技早报 | 三星电子今年营业利润有望超40年累计总和",
+      "summary": "科技早报 | 三星电子今年营业利润有望超40年累计总和；腾讯据悉寻求出售快手股份,微软,华为,腾讯,海力士,优必选,三星电子,知名企业,全球半导体",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L17IN58A0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L17IN58A0534A4SC.html"
+      ],
+      "publishedAt": "2026-07-07",
+      "date": "2026-07-07",
+      "category": "芯片",
+      "classificationConfidence": 0.94,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “科技早报 | 三星电子今年营业利润有望超40年累计总和” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "科技早报 | 三星电子今年营业利润有望超40年累计总和；腾讯据悉寻求出售快手股份,微软,华为,腾讯,海力士,优必选,三星电子,知名企业,全球半导体",
+      "relatedTitles": [
+        "科技早报 | 三星电子今年营业利润有望超40年累计总和"
       ],
       "isNewSinceLastRun": true
     },
@@ -1383,6 +1441,74 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "“大连一号”无人机成功首飞"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "填补国内空白：我国建成首套高精度圆度基准装置，圆度测量不确定度从 20nm 降至 6nm",
+      "summary": "我国首套高精度圆度基准装置正式建成，填补了国家圆度量值溯源空白。该装置将测量不确定度从 20 纳米降至 6 纳米，解决了精密主轴、光学元件、芯片等高端制造领域的“卡脖子”难题，为航空航天、半导体等战略产业提供核心计量支撑。#中国精度# #高端制造#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/973/328.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/973/328.htm"
+      ],
+      "publishedAt": "Mon, 06 Jul 2026 23:59:45 GMT",
+      "date": "2026-07-07",
+      "category": "芯片",
+      "classificationConfidence": 0.76,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 171,
+      "reporterScore": 179,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “填补国内空白：我国建成首套高精度圆度基准装置，圆度测量不确定度从 20nm 降至 6nm” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "我国首套高精度圆度基准装置正式建成，填补了国家圆度量值溯源空白。该装置将测量不确定度从 20 纳米降至 6 纳米，解决了精密主轴、光学元件、芯片等高端制造领域的“卡脖子”难题，为航空航天、半导体等战略产业提供核心计量支撑。#中国精度# #高端制造#",
+      "relatedTitles": [
+        "填补国内空白：我国建成首套高精度圆度基准装置，圆度测量不确定度从 20nm 降至 6nm"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1451,7 +1577,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "深夜道指创新高，特斯拉大涨6%，芯片股普涨，AMD涨超6%，黄金白银齐涨，比特币升破64000美元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1519,7 +1645,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "周二你需要知道的隔夜全球要闻：特朗普称其与普京进行了“非常好的通话”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1587,7 +1713,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "三星电子公布 2026 年 Q2 业绩指引：营业利润约 89.4 万亿韩元，同比暴增 1810%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1655,7 +1781,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "全流程数学研究智能体发布"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1722,6 +1848,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "利比里卡咖啡冲泡后带有菠萝蜜、芒果等热带水果的香气。本报讯 随着气候变化，全球的咖啡树正濒临灭绝。如今，科学家正在寻找解决方案，竭力守护咖啡这种全世界最受欢迎的饮品。全球每年消耗的1000万吨咖啡豆几乎全部来自两个品种：口感醇厚但略带苦味的...",
       "relatedTitles": [
         "科学家抢救濒危咖啡树"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "今年1至5月我国机器人规上企业营业收入突破900亿元",
+      "summary": "今年1至5月我国机器人规上企业营业收入突破900亿元,占有率,工业机器人,研发人员年龄结构",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L17HS9VH0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L17HS9VH0534A4SC.html"
+      ],
+      "publishedAt": "2026-07-07",
+      "date": "2026-07-07",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 164,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “今年1至5月我国机器人规上企业营业收入突破900亿元” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "今年1至5月我国机器人规上企业营业收入突破900亿元,占有率,工业机器人,研发人员年龄结构",
+      "relatedTitles": [
+        "今年1至5月我国机器人规上企业营业收入突破900亿元"
       ],
       "isNewSinceLastRun": true
     },
@@ -1791,7 +1985,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "2026年AI招聘蓝图：构建、扩张与留住未来AI领导者的数据驱动指南"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1859,7 +2053,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "热点回应丨机器人上岗前也要上学考证"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1927,7 +2121,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "7月7日热门中概股普涨 台积电涨4.07%，蔚来涨4.80%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1995,7 +2189,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI引爆存储芯片超级周期"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2063,7 +2257,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "苹果 iOS 27 家庭 App 新增 AI 摄像头功能：需 iCloud+ 2TB 起步"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2131,7 +2325,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "马斯克xAI正式更名为SpaceXAI：全新LOGO同步上线"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2199,7 +2393,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "变色传感器让机器人直接读取触觉信息"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2267,7 +2461,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "丰田将把皮卡车型的生产从墨西哥工厂转移至得克萨斯州"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2334,6 +2528,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "此次召回覆盖该车型在美国的全部产量，预计涉及 14540 辆，生产日期区间分别为 2024 年 11 月 12 日至 2026 年 4 月 9 日，以及 2026 年 1 月 16 日至 6 月 15 日。",
       "relatedTitles": [
         "凯迪拉克召回全美所有凯威德全尺寸 SUV：第三排电动座椅存在被困风险"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "亚马逊云服务发布AWS SimuLearn学习计划徽章，",
+      "summary": "亚马逊云服务发布AWS SimuLearn学习计划徽章，提供云端实践技能可信验证,云端,徽章,aws,云服务,知名企业,亚马逊公司",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L17IC6SA0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L17IC6SA0534A4SC.html"
+      ],
+      "publishedAt": "2026-07-07",
+      "date": "2026-07-07",
+      "category": "数字经济",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 70,
+      "keywords": "digital infrastructure, data flows and the platform economy",
+      "priority": 4,
+      "score": 138,
+      "reporterScore": 146,
+      "scoreBreakdown": {
+        "hardTech": 70,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 70,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain who benefits from digital infrastructure and support for the real economy, what scales nationally and what barriers remain. For this item, test the claim behind “亚马逊云服务发布AWS SimuLearn学习计划徽章，” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字经济动态",
+      "rawText": "亚马逊云服务发布AWS SimuLearn学习计划徽章，提供云端实践技能可信验证,云端,徽章,aws,云服务,知名企业,亚马逊公司",
+      "relatedTitles": [
+        "亚马逊云服务发布AWS SimuLearn学习计划徽章，"
       ],
       "isNewSinceLastRun": true
     },
@@ -2403,7 +2665,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Counterpoint：2026 年一季度支持端侧 AI 的智能手表出货量激增 70%，苹果独占九成份额"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2433,13 +2695,13 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 100,
       "keywords": "technology policy, AI governance, safety and standards",
       "priority": 5,
-      "score": 173,
-      "reporterScore": 189,
+      "score": 163,
+      "reporterScore": 179,
       "scoreBreakdown": {
         "hardTech": 100,
         "today": -10,
         "sourceAuthority": 12,
-        "multiSource": 22,
+        "multiSource": 12,
         "cgtFocus": 12,
         "visual": 0,
         "international": 9,
@@ -3684,6 +3946,38 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Insert token to continue, says AI. Yeah, about that",
+      "summary": "Barney Rubble points to bubble trouble",
+      "source": "The Register",
+      "url": "https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319",
+      "publishedAt": "Mon, 06 Jul 2026 10:30:00 +0200",
+      "date": "2026-07-06",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 50,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Insert token to continue, says AI. Yeah, about that” against primary-source evidence.",
+      "priority": 5,
+      "score": 154,
+      "reporterScore": 164,
+      "reporterSignals": {
+        "primary": true,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Your family’s $300 stake in OpenAI",
       "summary": "Sam Altman wants Americans to share in AI’s wealth. The proposal may be more revealing as a political narrative than as a policy plan.",
       "source": "MIT Technology Review",
@@ -3712,7 +4006,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3742,38 +4036,6 @@ window.CHENCHEN_DAILY_DATA = {
         "softNews": false,
         "hardTechWeight": 95,
         "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Insert token to continue, says AI. Yeah, about that",
-      "summary": "Barney Rubble points to bubble trouble",
-      "source": "The Register",
-      "url": "https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319",
-      "publishedAt": "Mon, 06 Jul 2026 10:30:00 +0200",
-      "date": "2026-07-06",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 50,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Insert token to continue, says AI. Yeah, about that” against primary-source evidence.",
-      "priority": 5,
-      "score": 154,
-      "reporterScore": 164,
-      "reporterSignals": {
-        "primary": true,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
@@ -3808,7 +4070,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3840,11 +4102,11 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 90
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-07｜V3\n生成时间：2026/7/7 07:52:19\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2545｜确认今日 20｜国际背景 5\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 20 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-07] 中信建投：特斯拉人形机器人迈向量产，看好板块持续性\n   新浪科技｜2026-07-07｜https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml\n   报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “中信建投：特斯拉人形机器人迈向量产，看好板块持续性” against primary-source evidence.\n\n2. [2026-07-07] 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道\n   人民网-科技｜2026-07-07｜http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞭望智库组织探讨AI算力坚守长期自主创新的破局之道” against primary-source evidence.\n\n3. [2026-07-07] 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军\n   人民网-科技｜2026-07-07｜http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军” against primary-source evidence.\n\n4. [2026-07-07] 太空种子在沙漠落地开花\n   人民网-科技｜2026-07-07｜http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “太空种子在沙漠落地开花” against primary-source evidence.\n\n5. [2026-07-07] “大连一号”无人机成功首飞\n   新浪科技｜2026-07-07｜https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpie1516066.shtml\n   报道角度：Pair launch or flight visuals with evidence on urban services, logistics, safety and regulation, customers, regulation and operational readiness. For this item, test the claim behind ““大连一号”无人机成功首飞” against primary-source evidence.\n\n本次新增线索：\n- 中信建投：特斯拉人形机器人迈向量产，看好板块持续性｜新浪科技｜https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml\n- 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html\n- 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html\n- 太空种子在沙漠落地开花｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html\n- “大连一号”无人机成功首飞｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpie1516066.shtml\n- Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：机器人动态（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/\n2. Samsung floats 2028 launch for seaborne datacenter｜The Register｜https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981\n3. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319\n4. If you use Google, you’re training its AI. Here’s how to opt out.｜TechCrunch｜https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/\n5. SpaceX President Gwynne Shotwell to donate stock to Trump Accounts｜CNBC Technology｜https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-07｜V3\n生成时间：2026/7/7 07:52:19\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2545｜确认今日 20｜国际背景 5\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 20 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-07] 中信建投：特斯拉人形机器人迈向量产，看好板块持续性\n   新浪科技｜2026-07-07｜https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml\n   报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “中信建投：特斯拉人形机器人迈向量产，看好板块持续性” against primary-source evidence.\n\n2. [2026-07-07] 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道\n   人民网-科技｜2026-07-07｜http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞭望智库组织探讨AI算力坚守长期自主创新的破局之道” against primary-source evidence.\n\n3. [2026-07-07] 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军\n   人民网-科技｜2026-07-07｜http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军” against primary-source evidence.\n\n4. [2026-07-07] 太空种子在沙漠落地开花\n   人民网-科技｜2026-07-07｜http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “太空种子在沙漠落地开花” against primary-source evidence.\n\n5. [2026-07-07] “大连一号”无人机成功首飞\n   新浪科技｜2026-07-07｜https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpie1516066.shtml\n   报道角度：Pair launch or flight visuals with evidence on urban services, logistics, safety and regulation, customers, regulation and operational readiness. For this item, test the claim behind ““大连一号”无人机成功首飞” against primary-source evidence.\n\n本次新增线索：\n- 中信建投：特斯拉人形机器人迈向量产，看好板块持续性｜新浪科技｜https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml\n- 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html\n- 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html\n- 太空种子在沙漠落地开花｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html\n- “大连一号”无人机成功首飞｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpie1516066.shtml\n- Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：机器人动态（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/\n2. Samsung floats 2028 launch for seaborne datacenter｜The Register｜https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981\n3. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319\n4. If you use Google, you’re training its AI. Here’s how to opt out.｜TechCrunch｜https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/\n5. SpaceX President Gwynne Shotwell to donate stock to Trump Accounts｜CNBC Technology｜https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-07｜生成时间：2026/7/7 07:52:19｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2545｜确认今日 20｜国际背景 5</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 20 条｜国际 4 条<br>延续跟踪线索：国内 0 条｜国际 1 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-07] 中信建投：特斯拉人形机器人迈向量产，看好板块持续性</strong>\n      <span>新浪科技｜2026-07-07｜<a href=\"https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “中信建投：特斯拉人形机器人迈向量产，看好板块持续性” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-07] 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道</strong>\n      <span>人民网-科技｜2026-07-07｜<a href=\"http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：206｜一手来源</span>\n      <p>报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞭望智库组织探讨AI算力坚守长期自主创新的破局之道” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-07] 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军</strong>\n      <span>人民网-科技｜2026-07-07｜<a href=\"http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：203｜一手来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-07] 太空种子在沙漠落地开花</strong>\n      <span>人民网-科技｜2026-07-07｜<a href=\"http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：202｜一手来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “太空种子在沙漠落地开花” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-07] “大连一号”无人机成功首飞</strong>\n      <span>新浪科技｜2026-07-07｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpie1516066.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on urban services, logistics, safety and regulation, customers, regulation and operational readiness. For this item, test the claim behind ““大连一号”无人机成功首飞” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Your family’s $300 stake in OpenAI</strong>\n      <span>时间：Mon, 06 Jul 2026 18:00:00 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Your family’s $300 stake in OpenAI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Samsung floats 2028 launch for seaborne datacenter</strong>\n      <span>时间：Mon, 06 Jul 2026 18:34:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Samsung floats 2028 launch for seaborne datacenter” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Insert token to continue, says AI. Yeah, about that</strong>\n      <span>时间：Mon, 06 Jul 2026 10:30:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Insert token to continue, says AI. Yeah, about that” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. If you use Google, you’re training its AI. Here’s how to opt out.</strong>\n      <span>时间：Mon, 06 Jul 2026 17:04:58 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “If you use Google, you’re training its AI. Here’s how to opt out.” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. SpaceX President Gwynne Shotwell to donate stock to Trump Accounts</strong>\n      <span>时间：Mon, 06 Jul 2026 20:48:45 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX President Gwynne Shotwell to donate stock to Trump Accounts” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/7 07:52:19\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 20 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-07] 中信建投：特斯拉人形机器人迈向量产，看好板块持续性\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml\n   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “中信建投：特斯拉人形机器人迈向量产，看好板块持续性” against primary-source evidence.\n\n2. [2026-07-07] 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html\n   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞭望智库组织探讨AI算力坚守长期自主创新的破局之道” against primary-source evidence.\n\n3. [2026-07-07] 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军” against primary-source evidence.\n\n4. [2026-07-07] 太空种子在沙漠落地开花\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “太空种子在沙漠落地开花” against primary-source evidence.\n\n5. [2026-07-07] “大连一号”无人机成功首飞\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpie1516066.shtml\n   角度：Pair launch or flight visuals with evidence on urban services, logistics, safety and regulation, customers, regulation and operational readiness. For this item, test the claim behind ““大连一号”无人机成功首飞” against primary-source evidence.\n\n本次新增线索：\n- 中信建投：特斯拉人形机器人迈向量产，看好板块持续性｜新浪科技｜https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml\n- 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html\n- 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html\n- 太空种子在沙漠落地开花｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html\n- “大连一号”无人机成功首飞｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpie1516066.shtml\n- Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：机器人动态（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/\n2. Samsung floats 2028 launch for seaborne datacenter｜The Register｜https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981\n3. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319\n4. If you use Google, you’re training its AI. Here’s how to opt out.｜TechCrunch｜https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/\n5. SpaceX President Gwynne Shotwell to donate stock to Trump Accounts｜CNBC Technology｜https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-07｜V3\n生成时间：2026/7/7 08:16:59\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2544｜确认今日 24｜国际背景 5\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-07] 中信建投：特斯拉人形机器人迈向量产，看好板块持续性\n   新浪科技｜2026-07-07｜https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml\n   报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “中信建投：特斯拉人形机器人迈向量产，看好板块持续性” against primary-source evidence.\n\n2. [2026-07-07] 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道\n   人民网-科技｜2026-07-07｜http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞭望智库组织探讨AI算力坚守长期自主创新的破局之道” against primary-source evidence.\n\n3. [2026-07-07] 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军\n   人民网-科技｜2026-07-07｜http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军” against primary-source evidence.\n\n4. [2026-07-07] 太空种子在沙漠落地开花\n   人民网-科技｜2026-07-07｜http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “太空种子在沙漠落地开花” against primary-source evidence.\n\n5. [2026-07-07] 科技早报 | 三星电子今年营业利润有望超40年累计总和\n   网易科技｜2026-07-07｜https://www.163.com/dy/article/L17IN58A0534A4SC.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “科技早报 | 三星电子今年营业利润有望超40年累计总和” against primary-source evidence.\n\n本次新增线索：\n- 科技早报 | 三星电子今年营业利润有望超40年累计总和｜网易科技｜https://www.163.com/dy/article/L17IN58A0534A4SC.html\n- 填补国内空白：我国建成首套高精度圆度基准装置，圆度测量不确定度从 20nm 降至 6nm｜IT之家｜https://www.ithome.com/0/973/328.htm\n- 今年1至5月我国机器人规上企业营业收入突破900亿元｜网易科技｜https://www.163.com/dy/article/L17HS9VH0534A4SC.html\n- 亚马逊云服务发布AWS SimuLearn学习计划徽章，｜网易科技｜https://www.163.com/dy/article/L17IC6SA0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（4 条，3 个来源）\n- 机器人/具身智能：机器人动态（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319\n2. Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/\n3. Samsung floats 2028 launch for seaborne datacenter｜The Register｜https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981\n4. If you use Google, you’re training its AI. Here’s how to opt out.｜TechCrunch｜https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/\n5. SpaceX President Gwynne Shotwell to donate stock to Trump Accounts｜CNBC Technology｜https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-07｜V3\n生成时间：2026/7/7 08:16:59\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2544｜确认今日 24｜国际背景 5\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-07] 中信建投：特斯拉人形机器人迈向量产，看好板块持续性\n   新浪科技｜2026-07-07｜https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml\n   报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “中信建投：特斯拉人形机器人迈向量产，看好板块持续性” against primary-source evidence.\n\n2. [2026-07-07] 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道\n   人民网-科技｜2026-07-07｜http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞭望智库组织探讨AI算力坚守长期自主创新的破局之道” against primary-source evidence.\n\n3. [2026-07-07] 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军\n   人民网-科技｜2026-07-07｜http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军” against primary-source evidence.\n\n4. [2026-07-07] 太空种子在沙漠落地开花\n   人民网-科技｜2026-07-07｜http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “太空种子在沙漠落地开花” against primary-source evidence.\n\n5. [2026-07-07] 科技早报 | 三星电子今年营业利润有望超40年累计总和\n   网易科技｜2026-07-07｜https://www.163.com/dy/article/L17IN58A0534A4SC.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “科技早报 | 三星电子今年营业利润有望超40年累计总和” against primary-source evidence.\n\n本次新增线索：\n- 科技早报 | 三星电子今年营业利润有望超40年累计总和｜网易科技｜https://www.163.com/dy/article/L17IN58A0534A4SC.html\n- 填补国内空白：我国建成首套高精度圆度基准装置，圆度测量不确定度从 20nm 降至 6nm｜IT之家｜https://www.ithome.com/0/973/328.htm\n- 今年1至5月我国机器人规上企业营业收入突破900亿元｜网易科技｜https://www.163.com/dy/article/L17HS9VH0534A4SC.html\n- 亚马逊云服务发布AWS SimuLearn学习计划徽章，｜网易科技｜https://www.163.com/dy/article/L17IC6SA0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（4 条，3 个来源）\n- 机器人/具身智能：机器人动态（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319\n2. Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/\n3. Samsung floats 2028 launch for seaborne datacenter｜The Register｜https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981\n4. If you use Google, you’re training its AI. Here’s how to opt out.｜TechCrunch｜https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/\n5. SpaceX President Gwynne Shotwell to donate stock to Trump Accounts｜CNBC Technology｜https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-07｜生成时间：2026/7/7 08:16:59｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2544｜确认今日 24｜国际背景 5</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 20 条｜国际 5 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-07] 中信建投：特斯拉人形机器人迈向量产，看好板块持续性</strong>\n      <span>新浪科技｜2026-07-07｜<a href=\"https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “中信建投：特斯拉人形机器人迈向量产，看好板块持续性” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-07] 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道</strong>\n      <span>人民网-科技｜2026-07-07｜<a href=\"http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：206｜一手来源</span>\n      <p>报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞭望智库组织探讨AI算力坚守长期自主创新的破局之道” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-07] 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军</strong>\n      <span>人民网-科技｜2026-07-07｜<a href=\"http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：203｜一手来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-07] 太空种子在沙漠落地开花</strong>\n      <span>人民网-科技｜2026-07-07｜<a href=\"http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：202｜一手来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “太空种子在沙漠落地开花” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-07] 科技早报 | 三星电子今年营业利润有望超40年累计总和</strong>\n      <span>网易科技｜2026-07-07｜<a href=\"https://www.163.com/dy/article/L17IN58A0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “科技早报 | 三星电子今年营业利润有望超40年累计总和” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Insert token to continue, says AI. Yeah, about that</strong>\n      <span>时间：Mon, 06 Jul 2026 10:30:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Insert token to continue, says AI. Yeah, about that” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Your family’s $300 stake in OpenAI</strong>\n      <span>时间：Mon, 06 Jul 2026 18:00:00 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Your family’s $300 stake in OpenAI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Samsung floats 2028 launch for seaborne datacenter</strong>\n      <span>时间：Mon, 06 Jul 2026 18:34:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Samsung floats 2028 launch for seaborne datacenter” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. If you use Google, you’re training its AI. Here’s how to opt out.</strong>\n      <span>时间：Mon, 06 Jul 2026 17:04:58 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “If you use Google, you’re training its AI. Here’s how to opt out.” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. SpaceX President Gwynne Shotwell to donate stock to Trump Accounts</strong>\n      <span>时间：Mon, 06 Jul 2026 20:48:45 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX President Gwynne Shotwell to donate stock to Trump Accounts” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/7 08:16:59\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-07] 中信建投：特斯拉人形机器人迈向量产，看好板块持续性\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml\n   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “中信建投：特斯拉人形机器人迈向量产，看好板块持续性” against primary-source evidence.\n\n2. [2026-07-07] 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html\n   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞭望智库组织探讨AI算力坚守长期自主创新的破局之道” against primary-source evidence.\n\n3. [2026-07-07] 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军” against primary-source evidence.\n\n4. [2026-07-07] 太空种子在沙漠落地开花\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “太空种子在沙漠落地开花” against primary-source evidence.\n\n5. [2026-07-07] 科技早报 | 三星电子今年营业利润有望超40年累计总和\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L17IN58A0534A4SC.html\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “科技早报 | 三星电子今年营业利润有望超40年累计总和” against primary-source evidence.\n\n本次新增线索：\n- 科技早报 | 三星电子今年营业利润有望超40年累计总和｜网易科技｜https://www.163.com/dy/article/L17IN58A0534A4SC.html\n- 填补国内空白：我国建成首套高精度圆度基准装置，圆度测量不确定度从 20nm 降至 6nm｜IT之家｜https://www.ithome.com/0/973/328.htm\n- 今年1至5月我国机器人规上企业营业收入突破900亿元｜网易科技｜https://www.163.com/dy/article/L17HS9VH0534A4SC.html\n- 亚马逊云服务发布AWS SimuLearn学习计划徽章，｜网易科技｜https://www.163.com/dy/article/L17IC6SA0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（4 条，3 个来源）\n- 机器人/具身智能：机器人动态（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319\n2. Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/\n3. Samsung floats 2028 launch for seaborne datacenter｜The Register｜https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981\n4. If you use Google, you’re training its AI. Here’s how to opt out.｜TechCrunch｜https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/\n5. SpaceX President Gwynne Shotwell to donate stock to Trump Accounts｜CNBC Technology｜https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };

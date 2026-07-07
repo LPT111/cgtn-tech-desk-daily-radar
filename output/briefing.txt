@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/7 07:52:19
+生成时间：2026/7/7 08:16:59
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 20 条｜国际 4 条
-延续跟踪线索：国内 0 条｜国际 1 条
+新增核心线索：国内 4 条｜国际 0 条
+延续跟踪线索：国内 20 条｜国际 5 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -31,31 +31,29 @@ ChenChen 今日 Briefing｜V3
    链接：http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html
    角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “太空种子在沙漠落地开花” against primary-source evidence.
 
-5. [2026-07-07] “大连一号”无人机成功首飞
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpie1516066.shtml
-   角度：Pair launch or flight visuals with evidence on urban services, logistics, safety and regulation, customers, regulation and operational readiness. For this item, test the claim behind ““大连一号”无人机成功首飞” against primary-source evidence.
+5. [2026-07-07] 科技早报 | 三星电子今年营业利润有望超40年累计总和
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L17IN58A0534A4SC.html
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “科技早报 | 三星电子今年营业利润有望超40年累计总和” against primary-source evidence.
 
 本次新增线索：
-- 中信建投：特斯拉人形机器人迈向量产，看好板块持续性｜新浪科技｜https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1640436.shtml
-- 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html
-- 成功卫冕！中国队夺得2026年RoboCup机器人世界杯冠军｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754667.html
-- 太空种子在沙漠落地开花｜人民网-科技｜http://finance.people.com.cn/n1/2026/0707/c1004-40754669.html
-- “大连一号”无人机成功首飞｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpie1516066.shtml
-- Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
+- 科技早报 | 三星电子今年营业利润有望超40年累计总和｜网易科技｜https://www.163.com/dy/article/L17IN58A0534A4SC.html
+- 填补国内空白：我国建成首套高精度圆度基准装置，圆度测量不确定度从 20nm 降至 6nm｜IT之家｜https://www.ithome.com/0/973/328.htm
+- 今年1至5月我国机器人规上企业营业收入突破900亿元｜网易科技｜https://www.163.com/dy/article/L17HS9VH0534A4SC.html
+- 亚马逊云服务发布AWS SimuLearn学习计划徽章，｜网易科技｜https://www.163.com/dy/article/L17IC6SA0534A4SC.html
 
 今日热点方向：
 - AI 应用：AI动态（3 条，2 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 芯片/半导体：半导体供应链（4 条，3 个来源）
 - 机器人/具身智能：机器人动态（3 条，3 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
 - 太空与低空经济：太空与低空动态（2 条，2 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
-2. Samsung floats 2028 launch for seaborne datacenter｜The Register｜https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981
-3. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319
+1. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319
+2. Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
+3. Samsung floats 2028 launch for seaborne datacenter｜The Register｜https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981
 4. If you use Google, you’re training its AI. Here’s how to opt out.｜TechCrunch｜https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/
 5. SpaceX President Gwynne Shotwell to donate stock to Trump Accounts｜CNBC Technology｜https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html
 
