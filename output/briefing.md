@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/7 17:44:03
+生成时间：2026/7/7 18:02:14
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 23 条｜国际 0 条
-延续跟踪线索：国内 47 条｜国际 9 条
+新增核心线索：国内 8 条｜国际 0 条
+延续跟踪线索：国内 66 条｜国际 8 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,36 +18,36 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.cas.cn/syky/202607/t20260707_5114755.shtml
    角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “机器人技能学习的鲁棒特征选择及刚度感知方法研究获进展” against primary-source evidence.
 
-2. [2026-07-07] 李乐成出席联合国首届人工智能治理全球对话：愿共同构建全球治理体系
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L18JGEKR05198CJN.html
-   角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “李乐成出席联合国首届人工智能治理全球对话：愿共同构建全球治理体系” against primary-source evidence.
-
-3. [2026-07-07] vivo Y500 4G 手机海外发布，配 8100mAh 大电池、紫光展锐 T7300 芯片
+2. [2026-07-07] 凯文·凯利将亮相WAIC与荣耀探讨Agentic OS演进路径，荣耀Robot Phone率先落地部分功能
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-07-07/doc-inifyquw8321876.shtml
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “vivo Y500 4G 手机海外发布，配 8100mAh 大电池、紫光展锐 T7300 芯片” against primary-source evidence.
+   链接：https://finance.sina.com.cn/roll/2026-07-07/doc-inifyqva5196124.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “凯文·凯利将亮相WAIC与荣耀探讨Agentic OS演进路径，荣耀Robot Phone率先落地部分功能” against primary-source evidence.
 
-4. [2026-07-07] 12个新职业向社会公示，AI、低空经济等催生哪些新岗位？
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifyquy8398579.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “12个新职业向社会公示，AI、低空经济等催生哪些新岗位？” against primary-source evidence.
-
-5. [2026-07-07] 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道
+3. [2026-07-07] 瞭望智库组织探讨AI算力坚守长期自主创新的破局之道
    来源：人民网-科技
    链接：http://finance.people.com.cn/n1/2026/0707/c1004-40754664.html
    角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “瞭望智库组织探讨AI算力坚守长期自主创新的破局之道” against primary-source evidence.
 
+4. [2026-07-07] 在“从0到1”的地方，做“从0到1”的创新
+   来源：光明网-科技
+   链接：https://tech.gmw.cn/2026-07/07/content_38871348.htm
+   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “在“从0到1”的地方，做“从0到1”的创新” against primary-source evidence.
+
+5. [2026-07-07] 产业年均增速超20% 2026世界机器人大会8月启幕
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0707/c1004-40755020.html
+   角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “产业年均增速超20% 2026世界机器人大会8月启幕” against primary-source evidence.
+
 本次新增线索：
-- 机器人技能学习的鲁棒特征选择及刚度感知方法研究获进展｜中国科学院｜https://www.cas.cn/syky/202607/t20260707_5114755.shtml
-- 李乐成出席联合国首届人工智能治理全球对话：愿共同构建全球治理体系｜网易科技｜https://www.163.com/dy/article/L18JGEKR05198CJN.html
-- vivo Y500 4G 手机海外发布，配 8100mAh 大电池、紫光展锐 T7300 芯片｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-07/doc-inifyquw8321876.shtml
-- 12个新职业向社会公示，AI、低空经济等催生哪些新岗位？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifyquy8398579.shtml
-- 订单额涨 5 倍！李开复发布一号位决策AI，给CEO 加个“硅基合伙人”｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-07-07/doc-inifyknx1521013.shtml
+- 凯文·凯利将亮相WAIC与荣耀探讨Agentic OS演进路径，荣耀Robot Phone率先落地部分功能｜新浪科技｜https://finance.sina.com.cn/roll/2026-07-07/doc-inifyqva5196124.shtml
+- 在“从0到1”的地方，做“从0到1”的创新｜光明网-科技｜https://tech.gmw.cn/2026-07/07/content_38871348.htm
+- 6月最有活儿的AI硬件：手摇发电的实体GPT、会织毛绒的打印机｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifyquv1574754.shtml
+- 三星芯片部门百倍奖金悬殊：非芯片部门员工将集会维权｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifyquw8358332.shtml
+- 明略科技(2718.HK)自研大规模 Web Agent 综合评测基准 WebRetriever｜网易科技｜https://www.163.com/dy/article/L18KH45A0534A4SC.html
 
 今日热点方向：
-- AI 应用：AI动态（17 条，5 个来源）
-- 芯片/半导体：半导体供应链（8 条，3 个来源）
+- AI 应用：AI动态（18 条，5 个来源）
+- 芯片/半导体：半导体供应链（9 条，3 个来源）
 - 机器人/具身智能：机器人动态（6 条，4 个来源）
 - 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
 - 太空与低空经济：太空与低空动态（3 条，3 个来源）
