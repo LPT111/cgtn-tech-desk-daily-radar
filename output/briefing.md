@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/8 08:08:41
+生成时间：2026/7/8 08:15:33
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 10 条｜国际 0 条
-延续跟踪线索：国内 13 条｜国际 15 条
+新增核心线索：国内 1 条｜国际 3 条
+延续跟踪线索：国内 23 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -39,11 +39,10 @@ ChenChen 今日 Briefing｜V3
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “正听丨谁才是全球AI领域的“超级反派”？” against primary-source evidence.
 
 本次新增线索：
-- 具身智能看中国｜人民网-科技｜http://finance.people.com.cn/n1/2026/0708/c1004-40755503.html
-- 正听丨谁才是全球AI领域的“超级反派”？｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/08/content_543687.html
-- 中信建投：超级卫星工厂通过贯通评审，继续看好｜网易科技｜https://www.163.com/dy/article/L1A3Q06B0534A4SC.html
-- 海韵官网已录入英伟达 RTX 50 SUPER 系列显卡，TDP 数据曝光｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-08/doc-inifzwqn4897933.shtml
-- 超 90% 使用非代码开发，Claude Cowork 扩展至网页与手机端｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-08/doc-inifzwqh8236942.shtml
+- 崔向群：布局更大规模、更高智能的下一代地面望远｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/08/content_543698.html
+- Put all your data and AI to work and get it out of silos and lakehouses｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/07/put-all-your-data-and-ai-to-work-and-get-it-out-of-silos-and-lakehouses/5267171
+- MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/07/mps-tell-brit-government-sort-out-your-tech-sovereignty-or-get-left-out-in-the-cold/5267076
+- AI startup that’s never turned a profit say's it'll totally be around in 2047 to close its $19B lease｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/07/ai-startup-thats-never-turned-a-profit-says-itll-totally-be-around-in-2047-to-close-its-19b-lease/5267385
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（5 条，3 个来源）
@@ -51,7 +50,7 @@ ChenChen 今日 Briefing｜V3
 - 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
 - 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（6 条，4 个来源）
+- 科学前沿：科学前沿动态（7 条，4 个来源）
 
 国际科技背景：
 1. Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S.｜CNBC Technology｜https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html
