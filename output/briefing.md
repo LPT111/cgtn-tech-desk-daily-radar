@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/8 16:45:41
+生成时间：2026/7/9 07:54:58
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 9 条｜国际 3 条
-延续跟踪线索：国内 72 条｜国际 17 条
+新增核心线索：国内 26 条｜国际 11 条
+延续跟踪线索：国内 0 条｜国际 5 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-08] 具身智能看中国
+1. [2026-07-09] 丁薛祥接见国际科技合作奖获奖外国专家
    来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0708/c1004-40755503.html
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “具身智能看中国” against primary-source evidence.
+   链接：http://finance.people.com.cn/n1/2026/0709/c1004-40756348.html
+   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “丁薛祥接见国际科技合作奖获奖外国专家” against primary-source evidence.
 
-2. [2026-07-08] 徐晓兰：中国机器人产业“由弱变强”，已处于全球领先地位
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-07-08/doc-inihaieh4812586.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “徐晓兰：中国机器人产业“由弱变强”，已处于全球领先地位” against primary-source evidence.
-
-3. [2026-07-08] 什么是“一人公司”？《人工智能OPC术语》团体标准发布
+2. [2026-07-09] AI正成为连接不同学科的桥梁
    来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0708/c1004-40755994.html
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “什么是“一人公司”？《人工智能OPC术语》团体标准发布” against primary-source evidence.
+   链接：http://finance.people.com.cn/n1/2026/0709/c1004-40756360.html
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI正成为连接不同学科的桥梁” against primary-source evidence.
 
-4. [08:28] 20+ 构型泛化、多自由度支持，蚂蚁灵波开源新一代具身基座模型 LingBot-VLA 2.0
-   来源：IT之家
-   链接：https://www.ithome.com/0/974/115.htm
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “20+ 构型泛化、多自由度支持，蚂蚁灵波开源新一代具身基座模型 LingBot-VLA 2.0” against primary-source evidence.
-
-5. [2026-07-08] 美国高技能工人缺口恐达15.7万，或重创各地新建
+3. [2026-07-09] 影响市场重大事件：SpaceX申请部署10万颗卫星，
    来源：网易科技
-   链接：https://www.163.com/dy/article/L1B05BU70534A4SC.html
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “美国高技能工人缺口恐达15.7万，或重创各地新建” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L1CIJ85H0512B07B.html
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “影响市场重大事件：SpaceX申请部署10万颗卫星，” against primary-source evidence.
+
+4. [2026-07-09] 马斯克 SpaceXAI 首个编程智能体模型 Grok 4.5 发布：与 Cursor 联合训练，效率翻倍价格减半
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-07-09/doc-inihczpk7815917.shtml
+   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克 SpaceXAI 首个编程智能体模型 Grok 4.5 发布：与 Cursor 联合训练，效率翻倍价格减半” against primary-source evidence.
+
+5. [2026-07-09] 钟南山院士参与，全球首款AI全流程设计药物即将
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L1BTBT6U0512B07B.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “钟南山院士参与，全球首款AI全流程设计药物即将” against primary-source evidence.
 
 本次新增线索：
-- 我国宇辰探索 200 吨级全流量液氧甲烷火箭发动机“大鹏一号”富燃预燃室点火试验圆满成功｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-08/doc-inihatua4798156.shtml
-- 日本 ispace 联手 SpaceX 星舰，推出低成本月球货运“班车”服务｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-08/doc-inihatty8028248.shtml
-- 多人被AI误导 食用毒蘑菇进ICU 疾控部门提醒｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-08/doc-inihatua4806054.shtml
-- 用8192颗RISC-V芯片手搓GPU！功耗超2000W比真卡还猛｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-08/doc-inihattw8232416.shtml
-- AI 芯片竞合并存：NVIDIA 牵手 d-Matrix 打造混合算力基础设施｜IT之家｜https://www.ithome.com/0/974/122.htm
-- Put all your data and AI to work and get it out of silos and lakehouses｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/07/put-all-your-data-and-ai-to-work-and-get-it-out-of-silos-and-lakehouses/5267171
+- 丁薛祥接见国际科技合作奖获奖外国专家｜人民网-科技｜http://finance.people.com.cn/n1/2026/0709/c1004-40756348.html
+- AI正成为连接不同学科的桥梁｜人民网-科技｜http://finance.people.com.cn/n1/2026/0709/c1004-40756360.html
+- 影响市场重大事件：SpaceX申请部署10万颗卫星，｜网易科技｜https://www.163.com/dy/article/L1CIJ85H0512B07B.html
+- 马斯克 SpaceXAI 首个编程智能体模型 Grok 4.5 发布：与 Cursor 联合训练，效率翻倍价格减半｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-09/doc-inihczpk7815917.shtml
+- 钟南山院士参与，全球首款AI全流程设计药物即将｜网易科技｜https://www.163.com/dy/article/L1BTBT6U0512B07B.html
+- OpenAI is set to launch GPT-5.6 later this week after delayed rollout｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/article/openai-is-set-to-launch-gpt-56-later-this-week-after-delayed-rollout-150044321.html
 
 今日热点方向：
-- AI 应用：AI动态（18 条，5 个来源）
-- 芯片/半导体：半导体供应链（5 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（7 条，5 个来源）
-- 新能源车/智能驾驶：新能源车动态（11 条，3 个来源）
+- AI 应用：AI动态（8 条，3 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（3 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
 - 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（8 条，5 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. China issues 'backdoor' security alert over Anthropic's Claude Code｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/china-issues-backdoor-security-alert-070110153.html
-2. Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S.｜CNBC Technology｜https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html
-3. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319
-4. Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
-5. OpenAI’s Chief Futurist Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/
+1. OpenAI is set to launch GPT-5.6 later this week after delayed rollout｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/article/openai-is-set-to-launch-gpt-56-later-this-week-after-delayed-rollout-150044321.html
+2. OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says｜CNBC Technology｜https://www.cnbc.com/2026/07/08/openai-gets-us-regulatory-approval-for-gpt-5point6-rollout-axios-report.html
+3. SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’｜TechCrunch｜https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/
+4. Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S.｜CNBC Technology｜https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html
+5. AI tools meant to vet science are surprisingly easy to fool｜Science News｜https://www.sciencenews.org/article/ai-tools-science-peer-review-problems
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
