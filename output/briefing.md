@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/8 16:30:43
+生成时间：2026/7/8 16:45:41
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 23 条｜国际 2 条
-延续跟踪线索：国内 59 条｜国际 15 条
+新增核心线索：国内 9 条｜国际 3 条
+延续跟踪线索：国内 72 条｜国际 17 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [08:28] 20+ 构型泛化、多自由度支持，蚂蚁灵波开源新一代具身基座模型 LingBot-VLA 2.0
-   来源：IT之家
-   链接：https://www.ithome.com/0/974/115.htm
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “20+ 构型泛化、多自由度支持，蚂蚁灵波开源新一代具身基座模型 LingBot-VLA 2.0” against primary-source evidence.
-
-2. [2026-07-08] 具身智能看中国
+1. [2026-07-08] 具身智能看中国
    来源：人民网-科技
    链接：http://finance.people.com.cn/n1/2026/0708/c1004-40755503.html
    角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “具身智能看中国” against primary-source evidence.
 
-3. [2026-07-08] 美国高技能工人缺口恐达15.7万，或重创各地新建
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L1B05BU70534A4SC.html
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “美国高技能工人缺口恐达15.7万，或重创各地新建” against primary-source evidence.
-
-4. [2026-07-08] 徐晓兰：中国机器人产业“由弱变强”，已处于全球领先地位
+2. [2026-07-08] 徐晓兰：中国机器人产业“由弱变强”，已处于全球领先地位
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/shenji/2026-07-08/doc-inihaieh4812586.shtml
    角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “徐晓兰：中国机器人产业“由弱变强”，已处于全球领先地位” against primary-source evidence.
 
-5. [2026-07-08] 什么是“一人公司”？《人工智能OPC术语》团体标准发布
+3. [2026-07-08] 什么是“一人公司”？《人工智能OPC术语》团体标准发布
    来源：人民网-科技
    链接：http://finance.people.com.cn/n1/2026/0708/c1004-40755994.html
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “什么是“一人公司”？《人工智能OPC术语》团体标准发布” against primary-source evidence.
 
+4. [08:28] 20+ 构型泛化、多自由度支持，蚂蚁灵波开源新一代具身基座模型 LingBot-VLA 2.0
+   来源：IT之家
+   链接：https://www.ithome.com/0/974/115.htm
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “20+ 构型泛化、多自由度支持，蚂蚁灵波开源新一代具身基座模型 LingBot-VLA 2.0” against primary-source evidence.
+
+5. [2026-07-08] 美国高技能工人缺口恐达15.7万，或重创各地新建
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L1B05BU70534A4SC.html
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “美国高技能工人缺口恐达15.7万，或重创各地新建” against primary-source evidence.
+
 本次新增线索：
-- 20+ 构型泛化、多自由度支持，蚂蚁灵波开源新一代具身基座模型 LingBot-VLA 2.0｜IT之家｜https://www.ithome.com/0/974/115.htm
-- 美国高技能工人缺口恐达15.7万，或重创各地新建｜网易科技｜https://www.163.com/dy/article/L1B05BU70534A4SC.html
-- 我国宇辰探索 200 吨级全流量液氧甲烷火箭发动机“大鹏一号”富燃预燃室点火试验圆满成功｜IT之家｜https://www.ithome.com/0/974/101.htm
-- 特斯拉 Robotaxi 自动驾驶网约车进军新奥尔良，测试车队已上路｜IT之家｜https://www.ithome.com/0/974/051.htm
-- 工信部发布风险提示：Claude Code存在安全后门 可能泄露用户敏感信息｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-08/doc-inihatty8014252.shtml
-- Wall Street banks are sky-high about SpaceX, but investors remain cautious｜AP Technology｜https://apnews.com/article/spacex-wall-street-analysts-elon-musk-d2806149f0a111cfbb198d28416b5a4f
+- 我国宇辰探索 200 吨级全流量液氧甲烷火箭发动机“大鹏一号”富燃预燃室点火试验圆满成功｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-08/doc-inihatua4798156.shtml
+- 日本 ispace 联手 SpaceX 星舰，推出低成本月球货运“班车”服务｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-08/doc-inihatty8028248.shtml
+- 多人被AI误导 食用毒蘑菇进ICU 疾控部门提醒｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-08/doc-inihatua4806054.shtml
+- 用8192颗RISC-V芯片手搓GPU！功耗超2000W比真卡还猛｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-08/doc-inihattw8232416.shtml
+- AI 芯片竞合并存：NVIDIA 牵手 d-Matrix 打造混合算力基础设施｜IT之家｜https://www.ithome.com/0/974/122.htm
+- Put all your data and AI to work and get it out of silos and lakehouses｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/07/put-all-your-data-and-ai-to-work-and-get-it-out-of-silos-and-lakehouses/5267171
 
 今日热点方向：
-- AI 应用：AI动态（17 条，6 个来源）
-- 芯片/半导体：半导体供应链（6 条，4 个来源）
+- AI 应用：AI动态（18 条，5 个来源）
+- 芯片/半导体：半导体供应链（5 条，3 个来源）
 - 机器人/具身智能：人形机器人与具身智能（7 条，5 个来源）
 - 新能源车/智能驾驶：新能源车动态（11 条，3 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 太空与低空经济：太空与低空动态（2 条，2 个来源）
 - 科学前沿：科学前沿动态（8 条，5 个来源）
 
 国际科技背景：
 1. China issues 'backdoor' security alert over Anthropic's Claude Code｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/china-issues-backdoor-security-alert-070110153.html
 2. Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S.｜CNBC Technology｜https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html
-3. Wall Street banks are sky-high about SpaceX, but investors remain cautious｜AP Technology｜https://apnews.com/article/spacex-wall-street-analysts-elon-musk-d2806149f0a111cfbb198d28416b5a4f
-4. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319
-5. Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
+3. Insert token to continue, says AI. Yeah, about that｜The Register｜https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319
+4. Your family’s $300 stake in OpenAI｜MIT Technology Review｜https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
+5. OpenAI’s Chief Futurist Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
