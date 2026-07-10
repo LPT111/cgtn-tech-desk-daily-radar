@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/10 17:37:28
+生成时间：2026/7/10 17:54:16
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 27 条｜国际 2 条
-延续跟踪线索：国内 70 条｜国际 25 条
+新增核心线索：国内 8 条｜国际 6 条
+延续跟踪线索：国内 86 条｜国际 27 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -26,29 +26,29 @@ ChenChen 今日 Briefing｜V3
    链接：http://finance.people.com.cn/n1/2026/0710/c1004-40757245.html
    角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “河南人工智能产业规模超1000亿元” against primary-source evidence.
 
-4. [2026-07-10] 长征十号乙运载火箭首飞成功！液态甲烷燃料来自中国石化
+4. [2026-07-10] 英伟达反垄断调查接近尾声 多项行为或将被指控 最高罚全球营收10%
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-10/doc-inihifyc5224524.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “长征十号乙运载火箭首飞成功！液态甲烷燃料来自中国石化” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-07-10/doc-inihhkuk3994992.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达反垄断调查接近尾声 多项行为或将被指控 最高罚全球营收10%” against primary-source evidence.
 
-5. [2026-07-10] 全球首例！ 宇树人形机器人手持器械完成活体外
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L1FQVTDV0534A4SC.html
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “全球首例！ 宇树人形机器人手持器械完成活体外” against primary-source evidence.
+5. [2026-07-10] 长十乙首飞成功 我国运载火箭首次实现可控回收
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0710/c1004-40757763.html
+   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “长十乙首飞成功 我国运载火箭首次实现可控回收” against primary-source evidence.
 
 本次新增线索：
-- 当AI成为“科研搭子” 谁来守住学术训练的底线｜人民网-科技｜http://finance.people.com.cn/n1/2026/0710/c1004-40757259.html
-- 长征十号乙运载火箭首飞成功！液态甲烷燃料来自中国石化｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-10/doc-inihifyc5224524.shtml
-- 全球首例！ 宇树人形机器人手持器械完成活体外｜网易科技｜https://www.163.com/dy/article/L1FQVTDV0534A4SC.html
-- 美科学家开发探测太空核武器的方法｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-10/doc-inihifyc5219966.shtml
-- 全球首个潮玩创作者AI设计平台“妙呀”正式宣布开启公测｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-10/doc-inihifxz8455525.shtml
-- Companies are shifting toward cheaper open‑source AI models to rein in costs, Amazon CTO says｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/companies-shifting-toward-cheaper-open-070000198.html
+- OpenAI上线ChatGPT Work，企业级人工智能体竞争｜网易科技｜https://www.163.com/dy/article/L1G7STU205198CJN.html
+- 国内首个十万卡AI超集群“曙光8000”来了｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/10/content_545496.html
+- 全国产十万卡AI超集群落成并接入国家超算互联网｜光明网-科技｜https://tech.gmw.cn/2026-07/10/content_38879178.htm
+- 支付宝AI生态开启邀测，瑞辰宠物医院集团率先接入升级宠物服务体验｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-10/doc-inihifyc5261214.shtml
+- ESMC 股东英飞凌：台积电需再（在欧洲）建设一座晶圆厂｜IT之家｜https://www.ithome.com/0/975/279.htm
+- OpenAI makes ChatGPT better at banter｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/09/openai-makes-chatgpt-better-at-banter/5268841
 
 今日热点方向：
-- AI 应用：AI动态（19 条，7 个来源）
-- 芯片/半导体：半导体供应链（9 条，3 个来源）
+- AI 应用：AI动态（20 条，7 个来源）
+- 芯片/半导体：半导体供应链（8 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（9 条，4 个来源）
+- 新能源车/智能驾驶：新能源车动态（11 条，4 个来源）
 - 太空与低空经济：太空与低空动态（6 条，2 个来源）
 - 科学前沿：科学前沿动态（3 条，3 个来源）
 
