@@ -1,64 +1,29 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-10T23:43:04.172Z",
+  "generatedAt": "2026-07-11T00:06:32.082Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-11",
   "changeSummary": {
-    "domesticNew": 11,
-    "globalNew": 6,
-    "domesticContinued": 0,
-    "globalContinued": 15,
+    "domesticNew": 1,
+    "globalNew": 2,
+    "domesticContinued": 11,
+    "globalContinued": 16,
     "topNewDomestic": [
       {
-        "title": "用网兜回收火箭！中国航天今天把外网炸了",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkccn6927599.shtml"
-      },
-      {
-        "title": "苹果起诉 OpenAI 及两名前员工窃取商业机密",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml"
-      },
-      {
-        "title": "欧洲央行的Moulin认为人工智能可能加剧通胀波动",
+        "title": "研究机构：6月全球电动汽车注册量连续第四个月增长",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L1H6LT4P05198CJN.html"
-      },
-      {
-        "title": "OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-07-11/doc-inihkptk3627081.shtml"
-      },
-      {
-        "title": "遭连日舆论抨击后 Meta暂停AI图像生成功能",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptk3621077.shtml"
+        "url": "https://www.163.com/dy/article/L1HR9JVF0534A4SC.html"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin",
+        "title": "Meta Suspends AI Image Feature After Days of Backlash",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html"
+        "url": "https://tech.yahoo.com/ai/meta-ai/articles/meta-suspends-ai-image-feature-230946335.html"
       },
       {
-        "title": "Apple sues OpenAI over alleged trade secret theft",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
-      },
-      {
-        "title": "AI-driven datacenter builds drive Microsoft's emissions up a quarter in one year",
-        "source": "The Register",
-        "url": "https://www.theregister.com/on-prem/2026/07/10/ai-driven-datacenter-builds-drive-microsofts-emissions-up-a-quarter-in-one-year/5269924"
-      },
-      {
-        "title": "How Apple stock rode the AI rollercoaster to record highs in 1 chart",
+        "title": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor",
         "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html"
-      },
-      {
-        "title": "Google will now flag when ads are created by generative AI",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/article/google-will-now-flag-when-ads-are-created-by-generative-ai-183440929.html"
+        "url": "https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html"
       }
     ],
     "hasPrevious": true
@@ -67,8 +32,8 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 889,
-    "globalRejected": 879,
+    "domesticRejected": 888,
+    "globalRejected": 882,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,7 +47,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 29,
+  "successSources": 30,
   "failedSources": [
     {
       "name": "财联社",
@@ -103,11 +68,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -137,11 +97,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国务院政策文件",
       "error": "403 Forbidden",
       "optional": false
@@ -151,7 +106,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 183,
+      "parsed": 182,
       "failed": false,
       "optional": false
     },
@@ -365,9 +320,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -400,18 +354,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1317,
+  "itemsSeen": 1377,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 342,
-  "itemsAfterDedupe": 251,
-  "todayItemsSeen": 11,
+  "itemsAfterRelevantFilter": 341,
+  "itemsAfterDedupe": 246,
+  "todayItemsSeen": 12,
   "suspectedItemsSeen": 21,
-  "skippedNonToday": 219,
+  "skippedNonToday": 213,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 183,
+      "parsed": 182,
       "failed": false,
       "optional": false
     },
@@ -625,9 +579,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -700,7 +653,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "Yahoo News Technology",
       "tier": "international",
-      "parsed": 234,
+      "parsed": 231,
       "failed": false,
       "optional": false
     },
@@ -728,7 +681,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 50,
+      "parsed": 0,
       "failed": false,
       "optional": false
     },
@@ -834,11 +787,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国务院政策文件",
       "error": "403 Forbidden",
       "optional": false
@@ -863,9 +811,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1209,
+  "globalItemsSeen": 1156,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 108,
+  "globalItemsAfterRelevantFilter": 125,
   "topics": [
     {
       "topic": "芯片动态",
@@ -915,6 +863,17 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "用网兜回收火箭！中国航天今天把外网炸了"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "研究机构：6月全球电动汽车注册量连续第四个月增长"
       ]
     },
     {
@@ -1018,7 +977,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "用网兜回收火箭！中国航天今天把外网炸了"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1086,7 +1045,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "苹果起诉 OpenAI 及两名前员工窃取商业机密"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1153,6 +1112,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "欧洲央行的Moulin认为人工智能可能加剧通胀波动,欧洲央行,人工智能,moulin",
       "relatedTitles": [
         "欧洲央行的Moulin认为人工智能可能加剧通胀波动"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "研究机构：6月全球电动汽车注册量连续第四个月增长",
+      "summary": "研究机构：6月全球电动汽车注册量连续第四个月增长,注册量,电动汽车,混合动力汽车,新能源汽车产业",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L1HR9JVF0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L1HR9JVF0534A4SC.html"
+      ],
+      "publishedAt": "2026-07-11",
+      "date": "2026-07-11",
+      "category": "新能源车",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 154,
+      "reporterScore": 162,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “研究机构：6月全球电动汽车注册量连续第四个月增长” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "研究机构：6月全球电动汽车注册量连续第四个月增长,注册量,电动汽车,混合动力汽车,新能源汽车产业",
+      "relatedTitles": [
+        "研究机构：6月全球电动汽车注册量连续第四个月增长"
       ],
       "isNewSinceLastRun": true
     },
@@ -1222,7 +1249,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1290,7 +1317,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "遭连日舆论抨击后 Meta暂停AI图像生成功能"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1358,7 +1385,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "SK海力士CEO预计存储芯片短缺或持续到2030年以"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1426,7 +1453,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "SK海力士考虑“内存即服务”模式 或允许客户租赁而非购买芯片"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1494,7 +1521,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌 Pixel 11 Pro Fold 折叠屏手机通过 FCC 认证，进一步证明 Tensor G6 芯片有望改用联发科基带"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1562,7 +1589,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "SK 海力士拟探索新商业模式“内存即服务”：客户可租用芯片使用权"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1630,7 +1657,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "小米澎程CLTC纯电续航里程超过500公里 完全能当电动车开"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1698,7 +1725,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "上海探索新型科研机构：无实体实验室遴选顶尖学者"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -1906,7 +1933,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "提供美国25%药物研发，药明康德为何屡遭打击？",
-      "summary": "首页 提供美国25%药物研发，药明康德为何屡遭打击？ 分享到： 日本也想凑热闹，明日将测试发射可回收火箭 京津冀，山洪红色预警！ 中方决定：对氦气实施临时禁止出口管理 冲上热搜！多名艺人集体公开讨薪、追债，太抽象了… 飞行中舷窗“脱落”，一乘客头部被吸出窗外 教育部：“教师全面硕士化”“教师需做好失业准备”等说法不属实",
+      "summary": "首页 提供美国25%药物研发，药明康德为何屡遭打击？ 分享到： 美种植户急了：圣诞树是美国文化，低价从中国买，不行 伊朗回怼特朗普：没说过 对中美，秘鲁新任总统“不愿承诺” 日本也想凑热闹，明日将测试发射可回收火箭 京津冀，山洪红色预警！ 中方决定：对氦气实施临时禁止出口管理 冲上热搜！多名艺人集体公开讨薪、追债，太抽",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -1965,7 +1992,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “提供美国25%药物研发，药明康德为何屡遭打击？” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "太空与低空动态",
-      "rawText": "首页 提供美国25%药物研发，药明康德为何屡遭打击？ 分享到： 日本也想凑热闹，明日将测试发射可回收火箭 京津冀，山洪红色预警！ 中方决定：对氦气实施临时禁止出口管理 冲上热搜！多名艺人集体公开讨薪、追债，太抽象了… 飞行中舷窗“脱落”，一乘客头部被吸出窗外 教育部：“教师全面硕士化”“教师需做好失业准备”等说法不属实 外媒热议：再突破！但没搬SpaceX那套 “法国的行动推进得太慢，力度也太有限” ​“穆罕默德”连续第三年成为英国最热门男婴名字 西班牙官员：这是前所未有的悲剧 美国商务部长向三星、SK海力士“喊话”：加大力度在美扩产 民调：60%的美国民众认为特朗普以权谋私 网传广西宾阳百合水库主坝已崩塌即将决堤，当地回应：系谣言 特朗普：将继续和伊朗谈判 西班牙2-1绝杀比利时，时隔16年再次晋级四强 伊朗回怼特朗普：没说过",
+      "rawText": "首页 提供美国25%药物研发，药明康德为何屡遭打击？ 分享到： 美种植户急了：圣诞树是美国文化，低价从中国买，不行 伊朗回怼特朗普：没说过 对中美，秘鲁新任总统“不愿承诺” 日本也想凑热闹，明日将测试发射可回收火箭 京津冀，山洪红色预警！ 中方决定：对氦气实施临时禁止出口管理 冲上热搜！多名艺人集体公开讨薪、追债，太抽象了… 飞行中舷窗“脱落”，一乘客头部被吸出窗外 教育部：“教师全面硕士化”“教师需做好失业准备”等说法不属实 外媒热议：再突破！但没搬SpaceX那套 “法国的行动推进得太慢，力度也太有限” ​“穆罕默德”连续第三年成为英国最热门男婴名字 西班牙官员：这是前所未有的悲剧 美国商务部长向三星、SK海力士“喊话”：加大力度在美扩产 民调：60%的美国民众认为特朗普以权谋私 网传广西宾阳百合水库主坝已崩塌即将决堤，当地回应：系谣言",
       "relatedTitles": [
         "提供美国25%药物研发，药明康德为何屡遭打击？"
       ]
@@ -3141,6 +3168,38 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 133
       },
       "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Meta Suspends AI Image Feature After Days of Backlash",
+      "summary": "Meta said on Friday it would discontinue an AI feature that allowed users to generate images using public Instagram accounts following days of criticism over the feature’s opt-out ",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/meta-ai/articles/meta-suspends-ai-image-feature-230946335.html",
+      "publishedAt": "2026-07-11",
+      "date": "2026-07-11",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Meta Suspends AI Image Feature After Days of Backlash” against primary-source evidence.",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 159,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": true
     },
     {
@@ -3241,12 +3300,12 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000",
-      "date": "2026-07-10",
+      "title": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor",
+      "summary": "Fidji Simo stepped away from OpenAI in April for a medical leave, says she now has to focus on recovery.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html",
+      "publishedAt": "Fri, 10 Jul 2026 11:10:28 GMT",
+      "date": "2026-07-09",
       "region": "US",
       "category": "AI",
       "classificationConfidence": 0.99,
@@ -3254,71 +3313,7 @@ window.CHENCHEN_DAILY_DATA = {
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple sues OpenAI over alleged trade secret theft” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "AI-driven datacenter builds drive Microsoft's emissions up a quarter in one year",
-      "summary": "Firm faces quandary of wanting to help the environment, but also wanting to force AI on everyone",
-      "source": "The Register",
-      "url": "https://www.theregister.com/on-prem/2026/07/10/ai-driven-datacenter-builds-drive-microsofts-emissions-up-a-quarter-in-one-year/5269924",
-      "publishedAt": "Fri, 10 Jul 2026 16:01:00 +0200",
-      "date": "2026-07-10",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI-driven datacenter builds drive Microsoft's emissions up a quarter in ” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "How Apple stock rode the AI rollercoaster to record highs in 1 chart",
-      "summary": "Apple stayed true to itself in the AI race, and Wall Street is finally rewarding the stock for it.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html",
-      "publishedAt": "Fri, 10 Jul 2026 20:25:11 GMT",
-      "date": "2026-07-10",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “How Apple stock rode the AI rollercoaster to record highs in 1 chart” against primary-source evidence.",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI exec Fidji Simo says she's stepping down due to chronic illness, ” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -3333,70 +3328,6 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google will now flag when ads are created by generative AI",
-      "summary": "Google is rolling out a new disclosure for ads created with AI, though you may have to dig to find it, depending on where you live.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/article/google-will-now-flag-when-ads-are-created-by-generative-ai-183440929.html",
-      "publishedAt": "2026-07-10",
-      "date": "2026-07-10",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google will now flag when ads are created by generative AI” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Your next Teams meeting could have an AI teammate that answers questions for you",
-      "summary": "From AI-powered notes in physical meeting rooms to a chat list that actually organizes itself, Microsoft's summer Teams update is more practical than most.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/copilot/articles/next-teams-meeting-could-ai-211044510.html",
-      "publishedAt": "2026-07-11",
-      "date": "2026-07-11",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Your next Teams meeting could have an AI teammate that answers questions” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
       "isNewSinceLastRun": true
     },
     {
@@ -3465,6 +3396,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "date": "2026-07-10",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple sues OpenAI over alleged trade secret theft” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
       "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
       "source": "TechCrunch",
@@ -3479,70 +3442,6 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 a” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "publishedAt": "Thu, 09 Jul 2026 22:03:54 +0000",
-      "date": "2026-07-09",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI is shutting down Atlas, but its AI browser ambitions are still gr” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI makes ChatGPT better at banter",
-      "summary": "With GPT-Live, talking, listening, and formulating answers all happen at once",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/09/openai-makes-chatgpt-better-at-banter/5268841",
-      "publishedAt": "Thu, 09 Jul 2026 01:16:08 +0200",
-      "date": "2026-07-09",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI makes ChatGPT better at banter” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -3625,70 +3524,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Microsoft warns customers AI will mean busier Patch Tuesdays",
-      "summary": "More patches mean more reasons to buy Redmond’s auto-patching tools",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/07/10/microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays/5269618",
-      "publishedAt": "Fri, 10 Jul 2026 03:56:29 +0200",
-      "date": "2026-07-10",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Microsoft warns customers AI will mean busier Patch Tuesdays” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "AI slop writing has taken over the internet, particularly LinkedIn and X",
-      "summary": "One in four long-form social media posts appear entirely AI-generated, with nearly half of those on Microsoft",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/09/ai-slop-writing-has-taken-over-the-internet-particularly-linkedin-and-x/5269525",
-      "publishedAt": "Thu, 09 Jul 2026 23:01:04 +0200",
-      "date": "2026-07-09",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI slop writing has taken over the internet, particularly LinkedIn and X” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Nvidia Might Have Quietly Killed One Of The Best Android Streaming Boxes",
       "summary": "Nvidia has not announced the end of the Shield TV, but the base model's retail availability situation is starting to look a lot like a quiet farewell.",
       "source": "Yahoo News Technology",
@@ -3717,6 +3552,102 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "How Apple stock rode the AI rollercoaster to record highs in 1 chart",
+      "summary": "Apple stayed true to itself in the AI race, and Wall Street is finally rewarding the stock for it.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html",
+      "publishedAt": "Fri, 10 Jul 2026 20:25:11 GMT",
+      "date": "2026-07-10",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “How Apple stock rode the AI rollercoaster to record highs in 1 chart” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google will now flag when ads are created by generative AI",
+      "summary": "Google is rolling out a new disclosure for ads created with AI, though you may have to dig to find it, depending on where you live.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/article/google-will-now-flag-when-ads-are-created-by-generative-ai-183440929.html",
+      "publishedAt": "2026-07-10",
+      "date": "2026-07-10",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google will now flag when ads are created by generative AI” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Your next Teams meeting could have an AI teammate that answers questions for you",
+      "summary": "From AI-powered notes in physical meeting rooms to a chat list that actually organizes itself, Microsoft's summer Teams update is more practical than most.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/copilot/articles/next-teams-meeting-could-ai-211044510.html",
+      "publishedAt": "2026-07-11",
+      "date": "2026-07-11",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Your next Teams meeting could have an AI teammate that answers questions” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -3784,8 +3715,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-11｜V3\n生成时间：2026/7/11 07:43:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2526｜确认今日 11｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-11] 用网兜回收火箭！中国航天今天把外网炸了\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkccn6927599.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “用网兜回收火箭！中国航天今天把外网炸了” against primary-source evidence.\n\n2. [2026-07-11] 苹果起诉 OpenAI 及两名前员工窃取商业机密\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果起诉 OpenAI 及两名前员工窃取商业机密” against primary-source evidence.\n\n3. [2026-07-11] 欧洲央行的Moulin认为人工智能可能加剧通胀波动\n   网易科技｜2026-07-11｜https://www.163.com/dy/article/L1H6LT4P05198CJN.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲央行的Moulin认为人工智能可能加剧通胀波动” against primary-source evidence.\n\n4. [2026-07-11] OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/tech/digi/2026-07-11/doc-inihkptk3627081.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣” against primary-source evidence.\n\n5. [2026-07-11] 遭连日舆论抨击后 Meta暂停AI图像生成功能\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptk3621077.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “遭连日舆论抨击后 Meta暂停AI图像生成功能” against primary-source evidence.\n\n本次新增线索：\n- 用网兜回收火箭！中国航天今天把外网炸了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkccn6927599.shtml\n- 苹果起诉 OpenAI 及两名前员工窃取商业机密｜新浪科技｜https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml\n- 欧洲央行的Moulin认为人工智能可能加剧通胀波动｜网易科技｜https://www.163.com/dy/article/L1H6LT4P05198CJN.html\n- OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-11/doc-inihkptk3627081.shtml\n- 遭连日舆论抨击后 Meta暂停AI图像生成功能｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptk3621077.shtml\n- China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. OpenAI launches its new family of models with GPT-5.6｜TechCrunch｜https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/\n3. OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html\n4. Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket｜CNBC Technology｜https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html\n5. Apple sues OpenAI over alleged trade secret theft｜TechCrunch｜https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-11｜V3\n生成时间：2026/7/11 07:43:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2526｜确认今日 11｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-11] 用网兜回收火箭！中国航天今天把外网炸了\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkccn6927599.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “用网兜回收火箭！中国航天今天把外网炸了” against primary-source evidence.\n\n2. [2026-07-11] 苹果起诉 OpenAI 及两名前员工窃取商业机密\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果起诉 OpenAI 及两名前员工窃取商业机密” against primary-source evidence.\n\n3. [2026-07-11] 欧洲央行的Moulin认为人工智能可能加剧通胀波动\n   网易科技｜2026-07-11｜https://www.163.com/dy/article/L1H6LT4P05198CJN.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲央行的Moulin认为人工智能可能加剧通胀波动” against primary-source evidence.\n\n4. [2026-07-11] OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/tech/digi/2026-07-11/doc-inihkptk3627081.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣” against primary-source evidence.\n\n5. [2026-07-11] 遭连日舆论抨击后 Meta暂停AI图像生成功能\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptk3621077.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “遭连日舆论抨击后 Meta暂停AI图像生成功能” against primary-source evidence.\n\n本次新增线索：\n- 用网兜回收火箭！中国航天今天把外网炸了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkccn6927599.shtml\n- 苹果起诉 OpenAI 及两名前员工窃取商业机密｜新浪科技｜https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml\n- 欧洲央行的Moulin认为人工智能可能加剧通胀波动｜网易科技｜https://www.163.com/dy/article/L1H6LT4P05198CJN.html\n- OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-11/doc-inihkptk3627081.shtml\n- 遭连日舆论抨击后 Meta暂停AI图像生成功能｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptk3621077.shtml\n- China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. OpenAI launches its new family of models with GPT-5.6｜TechCrunch｜https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/\n3. OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html\n4. Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket｜CNBC Technology｜https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html\n5. Apple sues OpenAI over alleged trade secret theft｜TechCrunch｜https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-11｜生成时间：2026/7/11 07:43:04｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2526｜确认今日 11｜国际背景 21</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 11 条｜国际 6 条<br>延续跟踪线索：国内 0 条｜国际 15 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-11] 用网兜回收火箭！中国航天今天把外网炸了</strong>\n      <span>新浪科技｜2026-07-11｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkccn6927599.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “用网兜回收火箭！中国航天今天把外网炸了” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-11] 苹果起诉 OpenAI 及两名前员工窃取商业机密</strong>\n      <span>新浪科技｜2026-07-11｜<a href=\"https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果起诉 OpenAI 及两名前员工窃取商业机密” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-11] 欧洲央行的Moulin认为人工智能可能加剧通胀波动</strong>\n      <span>网易科技｜2026-07-11｜<a href=\"https://www.163.com/dy/article/L1H6LT4P05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲央行的Moulin认为人工智能可能加剧通胀波动” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-11] OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣</strong>\n      <span>新浪科技｜2026-07-11｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-11/doc-inihkptk3627081.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-11] 遭连日舆论抨击后 Meta暂停AI图像生成功能</strong>\n      <span>新浪科技｜2026-07-11｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptk3621077.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “遭连日舆论抨击后 Meta暂停AI图像生成功能” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin</strong>\n      <span>时间：2026-07-11｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “China Successfully Lands Space Rocket For First Time, Matching SpaceX An” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI launches its new family of models with GPT-5.6</strong>\n      <span>时间：Thu, 09 Jul 2026 22:24:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI launches its new family of models with GPT-5.6” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC</strong>\n      <span>时间：Thu, 09 Jul 2026 16:54:29 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI's newest AI model is 54% more token efficient on agentic coding, ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket</strong>\n      <span>时间：Thu, 09 Jul 2026 18:50:52 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs sky” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Apple sues OpenAI over alleged trade secret theft</strong>\n      <span>时间：Fri, 10 Jul 2026 21:00:29 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Apple sues OpenAI over alleged trade secret theft” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/11 07:43:04\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-11] 用网兜回收火箭！中国航天今天把外网炸了\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkccn6927599.shtml\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “用网兜回收火箭！中国航天今天把外网炸了” against primary-source evidence.\n\n2. [2026-07-11] 苹果起诉 OpenAI 及两名前员工窃取商业机密\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果起诉 OpenAI 及两名前员工窃取商业机密” against primary-source evidence.\n\n3. [2026-07-11] 欧洲央行的Moulin认为人工智能可能加剧通胀波动\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L1H6LT4P05198CJN.html\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲央行的Moulin认为人工智能可能加剧通胀波动” against primary-source evidence.\n\n4. [2026-07-11] OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-11/doc-inihkptk3627081.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣” against primary-source evidence.\n\n5. [2026-07-11] 遭连日舆论抨击后 Meta暂停AI图像生成功能\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptk3621077.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “遭连日舆论抨击后 Meta暂停AI图像生成功能” against primary-source evidence.\n\n本次新增线索：\n- 用网兜回收火箭！中国航天今天把外网炸了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkccn6927599.shtml\n- 苹果起诉 OpenAI 及两名前员工窃取商业机密｜新浪科技｜https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml\n- 欧洲央行的Moulin认为人工智能可能加剧通胀波动｜网易科技｜https://www.163.com/dy/article/L1H6LT4P05198CJN.html\n- OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-11/doc-inihkptk3627081.shtml\n- 遭连日舆论抨击后 Meta暂停AI图像生成功能｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptk3621077.shtml\n- China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. OpenAI launches its new family of models with GPT-5.6｜TechCrunch｜https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/\n3. OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html\n4. Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket｜CNBC Technology｜https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html\n5. Apple sues OpenAI over alleged trade secret theft｜TechCrunch｜https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-11｜V3\n生成时间：2026/7/11 08:06:32\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2533｜确认今日 12｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 2 条\n延续跟踪线索：国内 11 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-11] 用网兜回收火箭！中国航天今天把外网炸了\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkccn6927599.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “用网兜回收火箭！中国航天今天把外网炸了” against primary-source evidence.\n\n2. [2026-07-11] 苹果起诉 OpenAI 及两名前员工窃取商业机密\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果起诉 OpenAI 及两名前员工窃取商业机密” against primary-source evidence.\n\n3. [2026-07-11] 欧洲央行的Moulin认为人工智能可能加剧通胀波动\n   网易科技｜2026-07-11｜https://www.163.com/dy/article/L1H6LT4P05198CJN.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲央行的Moulin认为人工智能可能加剧通胀波动” against primary-source evidence.\n\n4. [2026-07-11] 研究机构：6月全球电动汽车注册量连续第四个月增长\n   网易科技｜2026-07-11｜https://www.163.com/dy/article/L1HR9JVF0534A4SC.html\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “研究机构：6月全球电动汽车注册量连续第四个月增长” against primary-source evidence.\n\n5. [2026-07-11] OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/tech/digi/2026-07-11/doc-inihkptk3627081.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣” against primary-source evidence.\n\n本次新增线索：\n- 研究机构：6月全球电动汽车注册量连续第四个月增长｜网易科技｜https://www.163.com/dy/article/L1HR9JVF0534A4SC.html\n- Meta Suspends AI Image Feature After Days of Backlash｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-suspends-ai-image-feature-230946335.html\n- OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor｜CNBC Technology｜https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. Meta Suspends AI Image Feature After Days of Backlash｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-suspends-ai-image-feature-230946335.html\n3. OpenAI launches its new family of models with GPT-5.6｜TechCrunch｜https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/\n4. OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html\n5. Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket｜CNBC Technology｜https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-11｜V3\n生成时间：2026/7/11 08:06:32\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2533｜确认今日 12｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 2 条\n延续跟踪线索：国内 11 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-11] 用网兜回收火箭！中国航天今天把外网炸了\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkccn6927599.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “用网兜回收火箭！中国航天今天把外网炸了” against primary-source evidence.\n\n2. [2026-07-11] 苹果起诉 OpenAI 及两名前员工窃取商业机密\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果起诉 OpenAI 及两名前员工窃取商业机密” against primary-source evidence.\n\n3. [2026-07-11] 欧洲央行的Moulin认为人工智能可能加剧通胀波动\n   网易科技｜2026-07-11｜https://www.163.com/dy/article/L1H6LT4P05198CJN.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲央行的Moulin认为人工智能可能加剧通胀波动” against primary-source evidence.\n\n4. [2026-07-11] 研究机构：6月全球电动汽车注册量连续第四个月增长\n   网易科技｜2026-07-11｜https://www.163.com/dy/article/L1HR9JVF0534A4SC.html\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “研究机构：6月全球电动汽车注册量连续第四个月增长” against primary-source evidence.\n\n5. [2026-07-11] OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣\n   新浪科技｜2026-07-11｜https://finance.sina.com.cn/tech/digi/2026-07-11/doc-inihkptk3627081.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣” against primary-source evidence.\n\n本次新增线索：\n- 研究机构：6月全球电动汽车注册量连续第四个月增长｜网易科技｜https://www.163.com/dy/article/L1HR9JVF0534A4SC.html\n- Meta Suspends AI Image Feature After Days of Backlash｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-suspends-ai-image-feature-230946335.html\n- OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor｜CNBC Technology｜https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. Meta Suspends AI Image Feature After Days of Backlash｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-suspends-ai-image-feature-230946335.html\n3. OpenAI launches its new family of models with GPT-5.6｜TechCrunch｜https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/\n4. OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html\n5. Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket｜CNBC Technology｜https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-11｜生成时间：2026/7/11 08:06:32｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2533｜确认今日 12｜国际背景 18</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 2 条<br>延续跟踪线索：国内 11 条｜国际 16 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-11] 用网兜回收火箭！中国航天今天把外网炸了</strong>\n      <span>新浪科技｜2026-07-11｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkccn6927599.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “用网兜回收火箭！中国航天今天把外网炸了” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-11] 苹果起诉 OpenAI 及两名前员工窃取商业机密</strong>\n      <span>新浪科技｜2026-07-11｜<a href=\"https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果起诉 OpenAI 及两名前员工窃取商业机密” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-11] 欧洲央行的Moulin认为人工智能可能加剧通胀波动</strong>\n      <span>网易科技｜2026-07-11｜<a href=\"https://www.163.com/dy/article/L1H6LT4P05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲央行的Moulin认为人工智能可能加剧通胀波动” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-11] 研究机构：6月全球电动汽车注册量连续第四个月增长</strong>\n      <span>网易科技｜2026-07-11｜<a href=\"https://www.163.com/dy/article/L1HR9JVF0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：162｜需核验来源</span>\n      <p>报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “研究机构：6月全球电动汽车注册量连续第四个月增长” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-11] OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣</strong>\n      <span>新浪科技｜2026-07-11｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-11/doc-inihkptk3627081.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin</strong>\n      <span>时间：2026-07-11｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “China Successfully Lands Space Rocket For First Time, Matching SpaceX An” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Meta Suspends AI Image Feature After Days of Backlash</strong>\n      <span>时间：2026-07-11｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/meta-ai/articles/meta-suspends-ai-image-feature-230946335.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Meta Suspends AI Image Feature After Days of Backlash” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI launches its new family of models with GPT-5.6</strong>\n      <span>时间：Thu, 09 Jul 2026 22:24:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI launches its new family of models with GPT-5.6” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC</strong>\n      <span>时间：Thu, 09 Jul 2026 16:54:29 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI's newest AI model is 54% more token efficient on agentic coding, ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket</strong>\n      <span>时间：Thu, 09 Jul 2026 18:50:52 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs sky” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/11 08:06:32\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 2 条\n延续跟踪线索：国内 11 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-11] 用网兜回收火箭！中国航天今天把外网炸了\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkccn6927599.shtml\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “用网兜回收火箭！中国航天今天把外网炸了” against primary-source evidence.\n\n2. [2026-07-11] 苹果起诉 OpenAI 及两名前员工窃取商业机密\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “苹果起诉 OpenAI 及两名前员工窃取商业机密” against primary-source evidence.\n\n3. [2026-07-11] 欧洲央行的Moulin认为人工智能可能加剧通胀波动\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L1H6LT4P05198CJN.html\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “欧洲央行的Moulin认为人工智能可能加剧通胀波动” against primary-source evidence.\n\n4. [2026-07-11] 研究机构：6月全球电动汽车注册量连续第四个月增长\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L1HR9JVF0534A4SC.html\n   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “研究机构：6月全球电动汽车注册量连续第四个月增长” against primary-source evidence.\n\n5. [2026-07-11] OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-11/doc-inihkptk3627081.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣” against primary-source evidence.\n\n本次新增线索：\n- 研究机构：6月全球电动汽车注册量连续第四个月增长｜网易科技｜https://www.163.com/dy/article/L1HR9JVF0534A4SC.html\n- Meta Suspends AI Image Feature After Days of Backlash｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-suspends-ai-image-feature-230946335.html\n- OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor｜CNBC Technology｜https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. Meta Suspends AI Image Feature After Days of Backlash｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-suspends-ai-image-feature-230946335.html\n3. OpenAI launches its new family of models with GPT-5.6｜TechCrunch｜https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/\n4. OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html\n5. Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket｜CNBC Technology｜https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
