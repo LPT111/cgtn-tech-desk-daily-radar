@@ -1,38 +1,34 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-12T00:05:04.927Z",
+  "generatedAt": "2026-07-12T00:14:01.742Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-12",
   "changeSummary": {
-    "domesticNew": 3,
-    "globalNew": 0,
-    "domesticContinued": 4,
+    "domesticNew": 1,
+    "globalNew": 1,
+    "domesticContinued": 7,
     "globalContinued": 12,
     "topNewDomestic": [
       {
-        "title": "SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日",
+        "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
         "source": "IT之家",
-        "url": "https://www.ithome.com/0/975/632.htm"
-      },
-      {
-        "title": "居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/975/630.htm"
-      },
-      {
-        "title": "小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/975/628.htm"
+        "url": "https://www.ithome.com/0/975/634.htm"
       }
     ],
-    "topNewGlobal": [],
+    "topNewGlobal": [
+      {
+        "title": "AI customers are coming around to the idea that small is beautiful",
+        "source": "The Register",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070"
+      }
+    ],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 893,
-    "globalRejected": 888,
+    "domesticRejected": 892,
+    "globalRejected": 887,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -46,12 +42,17 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 28,
   "failedSources": [
     {
       "name": "财联社",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "央视网-科技",
@@ -62,6 +63,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
+    },
+    {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -81,6 +87,11 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -89,6 +100,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
+    },
+    {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -204,8 +220,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -297,8 +314,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -353,13 +371,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1240,
+  "itemsSeen": 1167,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 321,
-  "itemsAfterDedupe": 255,
-  "todayItemsSeen": 7,
-  "suspectedItemsSeen": 21,
-  "skippedNonToday": 227,
+  "itemsAfterRelevantFilter": 272,
+  "itemsAfterDedupe": 224,
+  "todayItemsSeen": 8,
+  "suspectedItemsSeen": 20,
+  "skippedNonToday": 197,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -463,8 +481,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -556,8 +575,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -771,6 +791,11 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -779,6 +804,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
+    },
+    {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -812,19 +842,19 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1202,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 105,
+  "globalItemsAfterRelevantFilter": 108,
   "topics": [
     {
       "topic": "AI动态",
       "count": 3,
       "sourceCount": 2,
       "sources": [
-        "IT之家",
-        "网易科技"
+        "网易科技",
+        "IT之家"
       ],
       "items": [
-        "居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云",
         "Meta又闯祸了，新AI图像功能被喷到下线",
+        "居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云",
         "Meta紧急下线争议AI生图功能"
       ]
     },
@@ -851,17 +881,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "新能源车动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV"
-      ]
-    },
-    {
       "topic": "国家科技战略与监管",
       "count": 1,
       "sourceCount": 1,
@@ -870,6 +889,28 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "OpenAI 招聘家庭产品经理，将拓展家庭用户市场"
+      ]
+    },
+    {
+      "topic": "AI 应用与智能体",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV"
       ]
     }
   ],
@@ -940,75 +981,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云",
-      "summary": "美国布朗大学教授发现学生居家期中考试成绩异常优异，怀疑 AI 作弊。改为线下闭卷期末考试后，成绩出现断崖式下滑，甚至有学生直接放弃考试。事件已提交学校学术诚信委员会调查，引发科技界对 AI 时代学术诚信和未来人才评估的广泛讨论。#AI作弊##学术诚信#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/975/630.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/975/630.htm"
-      ],
-      "publishedAt": "Sat, 11 Jul 2026 22:51:29 GMT",
-      "date": "2026-07-12",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 160,
-      "reporterScore": 168,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "美国布朗大学教授发现学生居家期中考试成绩异常优异，怀疑 AI 作弊。改为线下闭卷期末考试后，成绩出现断崖式下滑，甚至有学生直接放弃考试。事件已提交学校学术诚信委员会调查，引发科技界对 AI 时代学术诚信和未来人才评估的广泛讨论。#AI作弊##学术诚信#",
-      "relatedTitles": [
-        "居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1148,6 +1121,210 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云",
+      "summary": "美国布朗大学教授发现学生居家期中考试成绩异常优异，怀疑 AI 作弊。改为线下闭卷期末考试后，成绩出现断崖式下滑，甚至有学生直接放弃考试。事件已提交学校学术诚信委员会调查，引发科技界对 AI 时代学术诚信和未来人才评估的广泛讨论。#AI作弊##学术诚信#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/975/630.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/975/630.htm"
+      ],
+      "publishedAt": "Sat, 11 Jul 2026 22:51:29 GMT",
+      "date": "2026-07-12",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 160,
+      "reporterScore": 168,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "美国布朗大学教授发现学生居家期中考试成绩异常优异，怀疑 AI 作弊。改为线下闭卷期末考试后，成绩出现断崖式下滑，甚至有学生直接放弃考试。事件已提交学校学术诚信委员会调查，引发科技界对 AI 时代学术诚信和未来人才评估的广泛讨论。#AI作弊##学术诚信#",
+      "relatedTitles": [
+        "居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "OpenAI 招聘家庭产品经理，将拓展家庭用户市场",
+      "summary": "OpenAI 正在为旗下 AI 产品招聘家庭产品经理，标志着其战略从个人工具转向家庭平台。数据显示，ChatGPT 用户中 35 岁以上人群占比显著提升，而年轻用户比例下降。面对家庭用户，尤其是儿童和青少年，AI 产品将面临全新的信任与安全挑战。#ChatGPT# #AI安全#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/975/633.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/975/633.htm"
+      ],
+      "publishedAt": "Sat, 11 Jul 2026 23:15:38 GMT",
+      "date": "2026-07-12",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 招聘家庭产品经理，将拓展家庭用户市场” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国家科技战略与监管",
+      "rawText": "OpenAI 正在为旗下 AI 产品招聘家庭产品经理，标志着其战略从个人工具转向家庭平台。数据显示，ChatGPT 用户中 35 岁以上人群占比显著提升，而年轻用户比例下降。面对家庭用户，尤其是儿童和青少年，AI 产品将面临全新的信任与安全挑战。#ChatGPT# #AI安全#",
+      "relatedTitles": [
+        "OpenAI 招聘家庭产品经理，将拓展家庭用户市场"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+      "summary": "苹果正式起诉 OpenAI，指控其通过大规模挖角苹果员工，并利用软件漏洞非法获取公司内部机密信息，以加速自身 AI 硬件业务发展。双方从合作伙伴变为竞争对手，关系急剧恶化。#苹果起诉OpenAI# #商业机密纠纷#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/975/634.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/975/634.htm"
+      ],
+      "publishedAt": "Sat, 11 Jul 2026 23:21:57 GMT",
+      "date": "2026-07-12",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "苹果正式起诉 OpenAI，指控其通过大规模挖角苹果员工，并利用软件漏洞非法获取公司内部机密信息，以加速自身 AI 硬件业务发展。双方从合作伙伴变为竞争对手，关系急剧恶化。#苹果起诉OpenAI# #商业机密纠纷#",
+      "relatedTitles": [
+        "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV",
       "summary": "#小米汽车#昨晚发布答网友问（第 259 集），针对澎程定价区间实际是怎么样、澎程的上市准备工作进行得怎样、澎程这么大的车开起来是否会有压力、撕车衣视频是什么等问题进行了解答。",
       "source": "IT之家",
@@ -1211,74 +1388,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "#小米汽车#昨晚发布答网友问（第 259 集），针对澎程定价区间实际是怎么样、澎程的上市准备工作进行得怎样、澎程这么大的车开起来是否会有压力、撕车衣视频是什么等问题进行了解答。",
       "relatedTitles": [
         "小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "OpenAI 招聘家庭产品经理，将拓展家庭用户市场",
-      "summary": "OpenAI 正在为旗下 AI 产品招聘家庭产品经理，标志着其战略从个人工具转向家庭平台。数据显示，ChatGPT 用户中 35 岁以上人群占比显著提升，而年轻用户比例下降。面对家庭用户，尤其是儿童和青少年，AI 产品将面临全新的信任与安全挑战。#ChatGPT# #AI安全#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/975/633.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/975/633.htm"
-      ],
-      "publishedAt": "Sat, 11 Jul 2026 23:15:38 GMT",
-      "date": "2026-07-12",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 149,
-      "reporterScore": 157,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 12,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 招聘家庭产品经理，将拓展家庭用户市场” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国家科技战略与监管",
-      "rawText": "OpenAI 正在为旗下 AI 产品招聘家庭产品经理，标志着其战略从个人工具转向家庭平台。数据显示，ChatGPT 用户中 35 岁以上人群占比显著提升，而年轻用户比例下降。面对家庭用户，尤其是儿童和青少年，AI 产品将面临全新的信任与安全挑战。#ChatGPT# #AI安全#",
-      "relatedTitles": [
-        "OpenAI 招聘家庭产品经理，将拓展家庭用户市场"
       ],
       "isNewSinceLastRun": false
     },
@@ -1422,7 +1531,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "曙光8000",
-      "summary": "曙光8000 中国首个十万卡集群落成！全国产算力支撑“十万卡时代” 已跑通300余项应用 邓思邈 4分钟前 中科曙光 曙光8000 超智融合 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱 在联合国，这家中国公司给AI“减负”：不",
+      "summary": "曙光8000 中国首个十万卡集群落成！全国产算力支撑“十万卡时代” 已跑通300余项应用 邓思邈 2分钟前 中科曙光 曙光8000 超智融合 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱 在联合国，这家中国公司给AI“减负”：不",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -1481,76 +1590,9 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “曙光8000” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI动态",
-      "rawText": "曙光8000 中国首个十万卡集群落成！全国产算力支撑“十万卡时代” 已跑通300余项应用 邓思邈 4分钟前 中科曙光 曙光8000 超智融合 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，LeCun团队让世界模型学会持续学习！",
+      "rawText": "曙光8000 中国首个十万卡集群落成！全国产算力支撑“十万卡时代” 已跑通300余项应用 邓思邈 2分钟前 中科曙光 曙光8000 超智融合 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，LeCun团队让世界模型学会持续学习！",
       "relatedTitles": [
         "曙光8000"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布",
-      "summary": "AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布，能同时预测抗原抗体复合物结构和抗体从头设计 给定抗原结构和特定表位就能生成全新抗体分子 西风 2024-06-07 AlphaFold3 分子预测 抗体设计 热门文章 陶哲轩12年前的预言，现在AI帮他兑现了 撸猫撸出SOTA！3个00",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/alphafold3",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/alphafold3"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 149,
-      "reporterScore": 163,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布，能同时预测抗原抗体复合物结构和抗体从头设计 给定抗原结构和特定表位就能生成全新抗体分子 西风 2024-06-07 AlphaFold3 分子预测 抗体设计 热门文章 陶哲轩12年前的预言，现在AI帮他兑现了 撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型 英伟达开始搞机器人自己研究机器人那套了… 具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角 2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
-      "relatedTitles": [
-        "AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布"
       ]
     },
     {
@@ -2859,6 +2901,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "AI customers are coming around to the idea that small is beautiful",
+      "summary": "OpenAI and Anthropic have built AI Swiss Army Knives, but the future may be smaller built-for-purpose tools",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070",
+      "publishedAt": "Sat, 11 Jul 2026 16:11:00 +0200",
+      "date": "2026-07-11",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI customers are coming around to the idea that small is beautiful” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
       "summary": "A federal jury ruled Monday that Elon Musk waited too long to sue OpenAI and its co-founders, delivering a decisive victory to the ChatGPT startup and ending one of Silicon Valley'",
       "source": "AP Technology",
@@ -2956,7 +3030,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI's Atlas browser doesn't make it to its first birthday",
-      "summary": "Are we human?",
+      "summary": "Standalone experiment killed after less than 12 months as model maker redirects agentic ambitions towards workplace productivity",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/07/10/openais-atlas-browser-doesnt-make-it-to-its-first-birthday/5269818",
       "publishedAt": "Fri, 10 Jul 2026 16:59:00 +0200",
@@ -2968,7 +3042,7 @@ window.CHENCHEN_DAILY_DATA = {
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI's Atlas browser doesn't make it to its first birthday” against primary-source evidence.",
+      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI's Atlas browser doesn't make it to its first birthday” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -3020,14 +3094,14 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "AI-driven datacenter builds drive Microsoft's emissions up a quarter in one year",
-      "summary": "Are we human?",
+      "summary": "Firm faces quandary of wanting to help the environment, but also wanting to force AI on everyone",
       "source": "The Register",
       "url": "https://www.theregister.com/on-prem/2026/07/10/ai-driven-datacenter-builds-drive-microsofts-emissions-up-a-quarter-in-one-year/5269924",
       "publishedAt": "Fri, 10 Jul 2026 16:01:00 +0200",
       "date": "2026-07-10",
       "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.62,
+      "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
@@ -3052,7 +3126,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Microsoft warns customers AI will mean busier Patch Tuesdays",
-      "summary": "Are we human?",
+      "summary": "More patches mean more reasons to buy Redmond’s auto-patching tools",
       "source": "The Register",
       "url": "https://www.theregister.com/security/2026/07/10/microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays/5269618",
       "publishedAt": "Fri, 10 Jul 2026 03:56:29 +0200",
@@ -3146,8 +3220,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-12｜V3\n生成时间：2026/7/12 08:05:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2442｜确认今日 7｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 4 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:06] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/632.htm\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.\n\n2. [22:51] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/630.htm\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.\n\n3. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线\n   网易科技｜2026-07-12｜https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.\n\n4. [23:32] 特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/636.htm\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部” against primary-source evidence.\n\n5. [22:42] 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/628.htm\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV” against primary-source evidence.\n\n本次新增线索：\n- SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日｜IT之家｜https://www.ithome.com/0/975/632.htm\n- 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云｜IT之家｜https://www.ithome.com/0/975/630.htm\n- 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV｜IT之家｜https://www.ithome.com/0/975/628.htm\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n4. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets｜AP Technology｜https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\n5. OpenAI bets on families as ChatGPT goes deeper into households｜TechCrunch｜https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-12｜V3\n生成时间：2026/7/12 08:05:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2442｜确认今日 7｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 4 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:06] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/632.htm\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.\n\n2. [22:51] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/630.htm\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.\n\n3. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线\n   网易科技｜2026-07-12｜https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.\n\n4. [23:32] 特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/636.htm\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部” against primary-source evidence.\n\n5. [22:42] 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/628.htm\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV” against primary-source evidence.\n\n本次新增线索：\n- SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日｜IT之家｜https://www.ithome.com/0/975/632.htm\n- 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云｜IT之家｜https://www.ithome.com/0/975/630.htm\n- 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV｜IT之家｜https://www.ithome.com/0/975/628.htm\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n4. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets｜AP Technology｜https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\n5. OpenAI bets on families as ChatGPT goes deeper into households｜TechCrunch｜https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-12｜生成时间：2026/7/12 08:05:04｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2442｜确认今日 7｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 4 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [23:06] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日</strong>\n      <span>IT之家｜2026-07-12｜<a href=\"https://www.ithome.com/0/975/632.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [22:51] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云</strong>\n      <span>IT之家｜2026-07-12｜<a href=\"https://www.ithome.com/0/975/630.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：168｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线</strong>\n      <span>网易科技｜2026-07-12｜<a href=\"https://www.163.com/dy/article/L1JUQ73B05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [23:32] 特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部</strong>\n      <span>IT之家｜2026-07-12｜<a href=\"https://www.ithome.com/0/975/636.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：171｜需核验来源</span>\n      <p>报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [22:42] 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV</strong>\n      <span>IT之家｜2026-07-12｜<a href=\"https://www.ithome.com/0/975/628.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：157｜需核验来源</span>\n      <p>报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin</strong>\n      <span>时间：2026-07-11｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “China Successfully Lands Space Rocket For First Time, Matching SpaceX An” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI’s Head of Safety Is Leaving the Company</strong>\n      <span>时间：Sat, 11 Jul 2026 01:07:26 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-head-of-safety-leaving/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI’s Head of Safety Is Leaving the Company” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. ChatGPT Live could make talking to AI feel straight out of the movies</strong>\n      <span>时间：2026-07-12｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “ChatGPT Live could make talking to AI feel straight out of the movies” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets</strong>\n      <span>时间：2026-07-10｜来源：AP Technology｜<a href=\"https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secr” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI bets on families as ChatGPT goes deeper into households</strong>\n      <span>时间：Sat, 11 Jul 2026 14:13:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI bets on families as ChatGPT goes deeper into households” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/12 08:05:04\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 4 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:06] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/632.htm\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.\n\n2. [22:51] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/630.htm\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.\n\n3. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.\n\n4. [23:32] 特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/636.htm\n   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部” against primary-source evidence.\n\n5. [22:42] 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/628.htm\n   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV” against primary-source evidence.\n\n本次新增线索：\n- SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日｜IT之家｜https://www.ithome.com/0/975/632.htm\n- 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云｜IT之家｜https://www.ithome.com/0/975/630.htm\n- 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV｜IT之家｜https://www.ithome.com/0/975/628.htm\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n4. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets｜AP Technology｜https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\n5. OpenAI bets on families as ChatGPT goes deeper into households｜TechCrunch｜https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-12｜V3\n生成时间：2026/7/12 08:14:01\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2369｜确认今日 8｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 7 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:06] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/632.htm\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.\n\n2. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线\n   网易科技｜2026-07-12｜https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.\n\n3. [23:32] 特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/636.htm\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部” against primary-source evidence.\n\n4. [22:51] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/630.htm\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.\n\n5. [23:15] OpenAI 招聘家庭产品经理，将拓展家庭用户市场\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/633.htm\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 招聘家庭产品经理，将拓展家庭用户市场” against primary-source evidence.\n\n本次新增线索：\n- 彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键｜IT之家｜https://www.ithome.com/0/975/634.htm\n- AI customers are coming around to the idea that small is beautiful｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n4. AI customers are coming around to the idea that small is beautiful｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070\n5. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets｜AP Technology｜https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-12｜V3\n生成时间：2026/7/12 08:14:01\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2369｜确认今日 8｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 7 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:06] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/632.htm\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.\n\n2. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线\n   网易科技｜2026-07-12｜https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.\n\n3. [23:32] 特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/636.htm\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部” against primary-source evidence.\n\n4. [22:51] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/630.htm\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.\n\n5. [23:15] OpenAI 招聘家庭产品经理，将拓展家庭用户市场\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/633.htm\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 招聘家庭产品经理，将拓展家庭用户市场” against primary-source evidence.\n\n本次新增线索：\n- 彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键｜IT之家｜https://www.ithome.com/0/975/634.htm\n- AI customers are coming around to the idea that small is beautiful｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n4. AI customers are coming around to the idea that small is beautiful｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070\n5. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets｜AP Technology｜https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-12｜生成时间：2026/7/12 08:14:01｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2369｜确认今日 8｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 1 条<br>延续跟踪线索：国内 7 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [23:06] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日</strong>\n      <span>IT之家｜2026-07-12｜<a href=\"https://www.ithome.com/0/975/632.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线</strong>\n      <span>网易科技｜2026-07-12｜<a href=\"https://www.163.com/dy/article/L1JUQ73B05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:32] 特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部</strong>\n      <span>IT之家｜2026-07-12｜<a href=\"https://www.ithome.com/0/975/636.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：171｜需核验来源</span>\n      <p>报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [22:51] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云</strong>\n      <span>IT之家｜2026-07-12｜<a href=\"https://www.ithome.com/0/975/630.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：168｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [23:15] OpenAI 招聘家庭产品经理，将拓展家庭用户市场</strong>\n      <span>IT之家｜2026-07-12｜<a href=\"https://www.ithome.com/0/975/633.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 招聘家庭产品经理，将拓展家庭用户市场” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin</strong>\n      <span>时间：2026-07-11｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “China Successfully Lands Space Rocket For First Time, Matching SpaceX An” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI’s Head of Safety Is Leaving the Company</strong>\n      <span>时间：Sat, 11 Jul 2026 01:07:26 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-head-of-safety-leaving/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI’s Head of Safety Is Leaving the Company” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. ChatGPT Live could make talking to AI feel straight out of the movies</strong>\n      <span>时间：2026-07-12｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “ChatGPT Live could make talking to AI feel straight out of the movies” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AI customers are coming around to the idea that small is beautiful</strong>\n      <span>时间：Sat, 11 Jul 2026 16:11:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI customers are coming around to the idea that small is beautiful” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets</strong>\n      <span>时间：2026-07-10｜来源：AP Technology｜<a href=\"https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secr” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/12 08:14:01\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 7 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:06] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/632.htm\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.\n\n2. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.\n\n3. [23:32] 特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/636.htm\n   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部” against primary-source evidence.\n\n4. [22:51] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/630.htm\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.\n\n5. [23:15] OpenAI 招聘家庭产品经理，将拓展家庭用户市场\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/633.htm\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 招聘家庭产品经理，将拓展家庭用户市场” against primary-source evidence.\n\n本次新增线索：\n- 彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键｜IT之家｜https://www.ithome.com/0/975/634.htm\n- AI customers are coming around to the idea that small is beautiful｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n4. AI customers are coming around to the idea that small is beautiful｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070\n5. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets｜AP Technology｜https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
