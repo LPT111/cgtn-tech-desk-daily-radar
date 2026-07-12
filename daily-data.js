@@ -1,68 +1,37 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-11T23:38:33.597Z",
+  "generatedAt": "2026-07-12T00:05:04.927Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-12",
   "changeSummary": {
-    "domesticNew": 11,
-    "globalNew": 4,
-    "domesticContinued": 0,
-    "globalContinued": 8,
+    "domesticNew": 3,
+    "globalNew": 0,
+    "domesticContinued": 4,
+    "globalContinued": 12,
     "topNewDomestic": [
       {
         "title": "SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwye6089814.shtml"
-      },
-      {
-        "title": "小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-07-12/doc-inihnwyh2863818.shtml"
-      },
-      {
-        "title": "智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnnkr4848408.shtml"
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/975/632.htm"
       },
       {
         "title": "居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwyi7973646.shtml"
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/975/630.htm"
       },
       {
-        "title": "Meta又闯祸了，新AI图像功能被喷到下线",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L1JUQ73B05198CJN.html"
+        "title": "小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/975/628.htm"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "ChatGPT Live could make talking to AI feel straight out of the movies",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html"
-      },
-      {
-        "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-        "source": "AP Technology",
-        "url": "https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16"
-      },
-      {
-        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
-      },
-      {
-        "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-        "source": "WIRED Business",
-        "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 889,
+    "domesticRejected": 893,
     "globalRejected": 888,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -77,7 +46,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 30,
   "failedSources": [
     {
       "name": "财联社",
@@ -85,24 +54,9 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -113,11 +67,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -132,24 +81,9 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -162,11 +96,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国务院政策文件",
       "error": "403 Forbidden",
       "optional": false
@@ -176,7 +105,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 173,
+      "parsed": 53,
       "failed": false,
       "optional": false
     },
@@ -275,9 +204,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -341,16 +269,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -393,9 +319,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -428,18 +353,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1236,
+  "itemsSeen": 1240,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 298,
-  "itemsAfterDedupe": 238,
-  "todayItemsSeen": 11,
+  "itemsAfterRelevantFilter": 321,
+  "itemsAfterDedupe": 255,
+  "todayItemsSeen": 7,
   "suspectedItemsSeen": 21,
-  "skippedNonToday": 206,
+  "skippedNonToday": 227,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 173,
+      "parsed": 53,
       "failed": false,
       "optional": false
     },
@@ -538,9 +463,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -604,16 +528,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -656,9 +578,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -850,24 +771,9 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -878,11 +784,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -918,7 +819,7 @@ window.CHENCHEN_DAILY_DATA = {
       "count": 3,
       "sourceCount": 2,
       "sources": [
-        "新浪科技",
+        "IT之家",
         "网易科技"
       ],
       "items": [
@@ -928,27 +829,25 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "新能源车与智能驾驶",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "IT之家",
-        "新浪科技"
-      ],
-      "items": [
-        "特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部",
-        "汽车电动化是不可阻挡的大趋势——对话何小鹏"
-      ]
-    },
-    {
       "topic": "太空与低空动态",
       "count": 1,
       "sourceCount": 1,
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
       "items": [
         "SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部"
       ]
     },
     {
@@ -956,32 +855,10 @@ window.CHENCHEN_DAILY_DATA = {
       "count": 1,
       "sourceCount": 1,
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
       "items": [
-        "小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布"
-      ]
-    },
-    {
-      "topic": "人形机器人与具身智能",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产"
-      ]
-    },
-    {
-      "topic": "机器人动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "柔性机器人、4D打印长啥样？"
+        "小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV"
       ]
     },
     {
@@ -994,34 +871,23 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "OpenAI 招聘家庭产品经理，将拓展家庭用户市场"
       ]
-    },
-    {
-      "topic": "AI 应用与智能体",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键"
-      ]
     }
   ],
   "leads": [
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日",
       "summary": "SpaceX 宣布星舰第 13 次试飞最快 7 月 16 日进行，发射窗口长达 90 分钟。本次任务将首次搭载 20 颗新一代 Starlink V3 卫星升空，旨在提升网络容量与速度。同时，飞行将测试多项隔热系统升级，继续推进火箭的完全可重复使用目标。#SpaceX##星舰##星链#",
-      "source": "新浪科技",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwye6089814.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/975/632.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwye6089814.shtml"
+        "https://www.ithome.com/0/975/632.htm"
       ],
-      "publishedAt": "2026-07-12",
+      "publishedAt": "Sat, 11 Jul 2026 23:06:51 GMT",
       "date": "2026-07-12",
       "category": "太空与低空",
       "classificationConfidence": 0.99,
@@ -1034,12 +900,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 90,
       "keywords": "commercial space, low-altitude economy and satellite infrastructure",
       "priority": 5,
-      "score": 166,
-      "reporterScore": 180,
+      "score": 162,
+      "reporterScore": 176,
       "scoreBreakdown": {
         "hardTech": 90,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 8,
@@ -1067,165 +933,29 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": true,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.",
+      "angle": "Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "太空与低空动态",
-      "rawText": "IT之家 7 月 12 日消息，SpaceX 今日宣布，“星舰”（Starship）第 13 次试飞最快将于当地时间 7 月 16 日（周四）进行，发射窗口长达 90 分钟，将于美国中部时间下午 5:45 开启（IT之家注：北京时间 7 月...",
+      "rawText": "SpaceX 宣布星舰第 13 次试飞最快 7 月 16 日进行，发射窗口长达 90 分钟。本次任务将首次搭载 20 颗新一代 Starlink V3 卫星升空，旨在提升网络容量与速度。同时，飞行将测试多项隔热系统升级，继续推进火箭的完全可重复使用目标。#SpaceX##星舰##星链#",
       "relatedTitles": [
         "SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日"
       ],
       "isNewSinceLastRun": true
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布",
-      "summary": "快科技7月12日消息，日前，小米汽车正式公布全新系列“小米澎程”，定位智能可变大空间SUV，计划推出五座版和七座版车型，同时也是小米汽车首个增程式SUV系列。在最新一期答网友问中，小米汽车回应了外界关注的新车发布时间。官方表示，目前小米澎程...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-07-12/doc-inihnwyh2863818.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/discovery/2026-07-12/doc-inihnwyh2863818.shtml"
-      ],
-      "publishedAt": "2026-07-12",
-      "date": "2026-07-12",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 162,
-      "reporterScore": 178,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "快科技7月12日消息，日前，小米汽车正式公布全新系列“小米澎程”，定位智能可变大空间SUV，计划推出五座版和七座版车型，同时也是小米汽车首个增程式SUV系列。在最新一期答网友问中，小米汽车回应了外界关注的新车发布时间。官方表示，目前小米澎程...",
-      "relatedTitles": [
-        "小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产",
-      "summary": "7月10日，智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行。经惠阳区与智元创新、蓝思智能机器人三方会商，智元创新拟委托蓝思智能机器人进行机器人生产。签约项目拟落户惠阳具身智能产业园，前期主要从事智元机器人灵犀X2生产，计划首年机器人...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnnkr4848408.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnnkr4848408.shtml"
-      ],
-      "publishedAt": "2026-07-12",
-      "date": "2026-07-12",
-      "category": "机器人",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 170,
-      "reporterScore": 176,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "7月10日，智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行。经惠阳区与智元创新、蓝思智能机器人三方会商，智元创新拟委托蓝思智能机器人进行机器人生产。签约项目拟落户惠阳具身智能产业园，前期主要从事智元机器人灵犀X2生产，计划首年机器人...",
-      "relatedTitles": [
-        "智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云",
       "summary": "美国布朗大学教授发现学生居家期中考试成绩异常优异，怀疑 AI 作弊。改为线下闭卷期末考试后，成绩出现断崖式下滑，甚至有学生直接放弃考试。事件已提交学校学术诚信委员会调查，引发科技界对 AI 时代学术诚信和未来人才评估的广泛讨论。#AI作弊##学术诚信#",
-      "source": "新浪科技",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwyi7973646.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/975/630.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwyi7973646.shtml"
+        "https://www.ithome.com/0/975/630.htm"
       ],
-      "publishedAt": "2026-07-12",
+      "publishedAt": "Sat, 11 Jul 2026 22:51:29 GMT",
       "date": "2026-07-12",
       "category": "AI",
       "classificationConfidence": 0.75,
@@ -1238,12 +968,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
+      "score": 160,
+      "reporterScore": 168,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
@@ -1271,10 +1001,10 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI动态",
-      "rawText": "IT之家 7 月 12 日消息，美国布朗大学教授罗伯托 · 塞拉诺（Roberto Serrano）发现，自己班级学生在可带回家完成的期中考试中成绩好得出奇。当他怀疑存在大规模利用 AI 作弊的情况，并将期末考试改为线下闭卷进行后，学生成绩...",
+      "rawText": "美国布朗大学教授发现学生居家期中考试成绩异常优异，怀疑 AI 作弊。改为线下闭卷期末考试后，成绩出现断崖式下滑，甚至有学生直接放弃考试。事件已提交学校学术诚信委员会调查，引发科技界对 AI 时代学术诚信和未来人才评估的广泛讨论。#AI作弊##学术诚信#",
       "relatedTitles": [
         "居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云"
       ],
@@ -1346,7 +1076,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Meta又闯祸了，新AI图像功能被喷到下线"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1414,90 +1144,22 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "柔性机器人、4D打印长啥样？",
-      "summary": "荔湾区科普讲解大赛落幕，精彩“科技秀”让人惊叹 新快报讯 记者金瑜报道 柔性机器人、4D打印长啥样？7月11日，以“奋进十五五，科技谱新篇”为主题的第十一届广州市荔湾区科普讲解大赛落幕。近百名来自医疗卫生、科研机构、学校、企业...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV",
+      "summary": "#小米汽车#昨晚发布答网友问（第 259 集），针对澎程定价区间实际是怎么样、澎程的上市准备工作进行得怎样、澎程这么大的车开起来是否会有压力、撕车衣视频是什么等问题进行了解答。",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnhat4886608.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/975/628.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnhat4886608.shtml"
+        "https://www.ithome.com/0/975/628.htm"
       ],
-      "publishedAt": "2026-07-12",
-      "date": "2026-07-12",
-      "category": "机器人",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 164,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Assess the robotics value chain through service deployment, safety and user value, including components, cost, reliability and export potential. For this item, test the claim behind “柔性机器人、4D打印长啥样？” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "机器人动态",
-      "rawText": "荔湾区科普讲解大赛落幕，精彩“科技秀”让人惊叹 新快报讯 记者金瑜报道 柔性机器人、4D打印长啥样？7月11日，以“奋进十五五，科技谱新篇”为主题的第十一届广州市荔湾区科普讲解大赛落幕。近百名来自医疗卫生、科研机构、学校、企业...",
-      "relatedTitles": [
-        "柔性机器人、4D打印长啥样？"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "汽车电动化是不可阻挡的大趋势——对话何小鹏",
-      "summary": "近日，《思想耀岭南》制作团队走进小鹏集团，与集团董事长兼首席执行官何小鹏深度对话，透过小鹏汽车的故事，管窥中国新能源汽车加速崛起、扬帆出海的历程。 “中国汽车产业在全球处于第一阵营” 问：截至2025年，中国新能源汽车产...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnhar8109341.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnhar8109341.shtml"
-      ],
-      "publishedAt": "2026-07-12",
+      "publishedAt": "Sat, 11 Jul 2026 22:42:39 GMT",
       "date": "2026-07-12",
       "category": "新能源车",
       "classificationConfidence": 0.99,
@@ -1510,20 +1172,20 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 85,
       "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "priority": 5,
-      "score": 154,
-      "reporterScore": 162,
+      "score": 149,
+      "reporterScore": 157,
       "scoreBreakdown": {
         "hardTech": 85,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
-        "international": 9,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -1531,24 +1193,24 @@ window.CHENCHEN_DAILY_DATA = {
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": true,
-        "interview": false,
+        "international": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 85,
         "reporterScore": 110
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
+      "hasInterviewValue": true,
       "hasVisualValue": false,
-      "hasInternationalValue": true,
+      "hasInternationalValue": false,
       "format": "video",
-      "angle": "Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “汽车电动化是不可阻挡的大趋势——对话何小鹏” against primary-source evidence.",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "近日，《思想耀岭南》制作团队走进小鹏集团，与集团董事长兼首席执行官何小鹏深度对话，透过小鹏汽车的故事，管窥中国新能源汽车加速崛起、扬帆出海的历程。 “中国汽车产业在全球处于第一阵营” 问：截至2025年，中国新能源汽车产...",
+      "matchedTopic": "新能源车动态",
+      "rawText": "#小米汽车#昨晚发布答网友问（第 259 集），针对澎程定价区间实际是怎么样、澎程的上市准备工作进行得怎样、澎程这么大的车开起来是否会有压力、撕车衣视频是什么等问题进行了解答。",
       "relatedTitles": [
-        "汽车电动化是不可阻挡的大趋势——对话何小鹏"
+        "小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV"
       ],
       "isNewSinceLastRun": true
     },
@@ -1618,7 +1280,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI 招聘家庭产品经理，将拓展家庭用户市场"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1686,75 +1348,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Meta紧急下线争议AI生图功能"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
-      "summary": "苹果正式起诉 OpenAI，指控其通过大规模挖角苹果员工，并利用软件漏洞非法获取公司内部机密信息，以加速自身 AI 硬件业务发展。双方从合作伙伴变为竞争对手，关系急剧恶化。#苹果起诉OpenAI# #商业机密纠纷#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/975/634.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/975/634.htm"
-      ],
-      "publishedAt": "Sat, 11 Jul 2026 23:21:57 GMT",
-      "date": "2026-07-12",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 151,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "苹果正式起诉 OpenAI，指控其通过大规模挖角苹果员工，并利用软件漏洞非法获取公司内部机密信息，以加速自身 AI 硬件业务发展。双方从合作伙伴变为竞争对手，关系急剧恶化。#苹果起诉OpenAI# #商业机密纠纷#",
-      "relatedTitles": [
-        "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -1823,73 +1417,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "从帮助检索文献、梳理研究思路、生成代码、润色论文，再到完成复杂计算、文本写作等任务，近两年来，人工智能技术正以前所未有的速度进入高校科研场景。6月30日，美国人工智能公司Anthropic发布面向科研",
       "relatedTitles": [
         "当AI成为“科研搭子” 谁来守住学术训练的底线"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "华为韬定律2.0：这次加了什么料？",
-      "summary": "39天之后，韬定律论文的2.0版本来了。2026年5月，华为半导体业务负责人何庭波站上国际电路与系统研讨会的讲台，做了一个让全球芯片圈震动的宣告摩尔定律的时代正在落幕，一个以“时间”为标尺的新时代已经开启。过去六十年，芯片行业只做一件事把晶体管做得更小，从而压缩电路响应时间提升性能",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/industry-science/2026_07_10_823294.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/industry-science/2026_07_10_823294.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "芯片",
-      "classificationConfidence": 0.76,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 156,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 115
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “华为韬定律2.0：这次加了什么料？” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "39天之后，韬定律论文的2.0版本来了。2026年5月，华为半导体业务负责人何庭波站上国际电路与系统研讨会的讲台，做了一个让全球芯片圈震动的宣告摩尔定律的时代正在落幕，一个以“时间”为标尺的新时代已经开启。过去六十年，芯片行业只做一件事把晶体管做得更小，从而压缩电路响应时间提升性能",
-      "relatedTitles": [
-        "华为韬定律2.0：这次加了什么料？"
       ]
     },
     {
@@ -2024,6 +1551,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布，能同时预测抗原抗体复合物结构和抗体从头设计 给定抗原结构和特定表位就能生成全新抗体分子 西风 2024-06-07 AlphaFold3 分子预测 抗体设计 热门文章 陶哲轩12年前的预言，现在AI帮他兑现了 撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型 英伟达开始搞机器人自己研究机器人那套了… 具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角 2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
       "relatedTitles": [
         "AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "华为韬定律2.0：这次加了什么料？",
+      "summary": "39天之后，韬定律论文的2.0版本来了。2026年5月，华为半导体业务负责人何庭波站上国际电路与系统研讨会的讲台，做了一个让全球芯片圈震动的宣告摩尔定律的时代正在落幕，一个以“时间”为标尺的新时代已经开启。过去六十年，芯片行业只做一件事把晶体管做得更小，从而压缩电路响应时间提升性能",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2026_07_10_823294.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2026_07_10_823294.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.76,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 146,
+      "reporterScore": 162,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “华为韬定律2.0：这次加了什么料？” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "39天之后，韬定律论文的2.0版本来了。2026年5月，华为半导体业务负责人何庭波站上国际电路与系统研讨会的讲台，做了一个让全球芯片圈震动的宣告摩尔定律的时代正在落幕，一个以“时间”为标尺的新时代已经开启。过去六十年，芯片行业只做一件事把晶体管做得更小，从而压缩电路响应时间提升性能",
+      "relatedTitles": [
+        "华为韬定律2.0：这次加了什么料？"
       ]
     },
     {
@@ -2295,22 +1889,22 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "高市早苗的芯片迷梦",
-      "summary": "高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰，以台积电熊本工厂为锚点——正在从多个维度遭遇严峻挑战。这位日本首位女首相的芯片野心，很可能正在走向一场代价高昂的落空。",
-      "source": "观察者网-产业科技",
+      "id": "aHR0cHM6Ly9jbi5jaGlu",
+      "title": "中国日报漫画",
+      "summary": "中国日报漫画 - 中国日报网 China Daily Homepage 中文网首页 时评 资讯 C财经 视频 专栏 原创 观天下 地方 登录 注册 5b753f9fa310030f813cf408 中国日报网 > 中国日报漫画 > 移动新媒体 站内搜索 站内搜索 China Daily Homepage 中文网首页 时",
+      "source": "中国日报-科技",
       "sources": [
-        "观察者网-产业科技"
+        "中国日报-科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/xinzhiguanchasuo/2026_02_10_806621.shtml",
+      "url": "https://cn.chinadaily.com.cn/c/5bd54ba2a3101a87ca8ff5e8",
       "sourceUrls": [
-        "https://www.guancha.cn/xinzhiguanchasuo/2026_02_10_806621.shtml"
+        "https://cn.chinadaily.com.cn/c/5bd54ba2a3101a87ca8ff5e8"
       ],
       "publishedAt": "",
       "date": "",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
+      "category": "AI",
+      "classificationConfidence": 0.84,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2318,84 +1912,17 @@ window.CHENCHEN_DAILY_DATA = {
         "source"
       ],
       "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 147,
-      "reporterScore": 153,
+      "score": 148,
+      "reporterScore": 156,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": -10,
         "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 103
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “高市早苗的芯片迷梦” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰，以台积电熊本工厂为锚点——正在从多个维度遭遇严峻挑战。这位日本首位女首相的芯片野心，很可能正在走向一场代价高昂的落空。",
-      "relatedTitles": [
-        "高市早苗的芯片迷梦"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "中国可重复火箭，没有照着美国的答案抄",
-      "summary": "长征十号乙运载火箭腾空而起，六分钟后完成一二级分离。一子级没有像过去几十年中国火箭那样坠入预定海域，也没有像美国SpaceX的猎鹰9号那样张开四条着陆腿稳稳站上驳船，更没有像Starship那样被两只巨大的机械臂“夹”住。过去十多年，只要谈到可重复使用火箭，全球几乎默认只有美国定义的两条路线一种是SpaceX猎鹰9号的",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/industry-science/2026_07_10_823296.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/industry-science/2026_07_10_823296.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "太空与低空",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "priority": 4,
-      "score": 139,
-      "reporterScore": 153,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
+        "visual": 0,
         "international": 9,
         "policy": 0,
         "sourceWeight": 8,
@@ -2407,25 +1934,25 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
+        "visual": false,
         "international": true,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 108
+        "hardTechWeight": 95,
+        "reporterScore": 105
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
-      "hasVisualValue": true,
+      "hasVisualValue": false,
       "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “中国可重复火箭，没有照着美国的答案抄” against primary-source evidence.",
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国日报漫画” against primary-source evidence.",
       "status": "suspected_today",
-      "matchedTopic": "商业航天与卫星互联网",
-      "rawText": "长征十号乙运载火箭腾空而起，六分钟后完成一二级分离。一子级没有像过去几十年中国火箭那样坠入预定海域，也没有像美国SpaceX的猎鹰9号那样张开四条着陆腿稳稳站上驳船，更没有像Starship那样被两只巨大的机械臂“夹”住。过去十多年，只要谈到可重复使用火箭，全球几乎默认只有美国定义的两条路线一种是SpaceX猎鹰9号的着陆腿垂直回收，一种是Starship正在验证的机械臂捕获",
+      "matchedTopic": "AI动态",
+      "rawText": "中国日报漫画 - 中国日报网 China Daily Homepage 中文网首页 时评 资讯 C财经 视频 专栏 原创 观天下 地方 登录 注册 5b753f9fa310030f813cf408 中国日报网 > 中国日报漫画 > 移动新媒体 站内搜索 站内搜索 China Daily Homepage 中文网首页 时评 资讯 C财经 视频 专栏 漫画 原创 观天下 地方 中国日报网 > 中国日报漫画 > 脆弱的美伊和平协议 2026-07-10 00:00 “机器学习”是人工智能的核心引擎 2026-07-09 10:21 荒唐闹剧 南海仲裁如同漏水破船，菲方于南海遍地插牌上演荒唐闹剧。 2026-07-08 06:04 美国操纵世界杯引争议 2026-07-07 07:49 日本应正视侵略历史 阻止“再军事化”进程 2026-07-06 07:50 菲律宾借日美撑腰，炒作“南海仲裁” 菲律宾借日美撑腰，炒作“南海仲裁”。 2026-07-03 07:28 我国发电装机突破40亿千瓦，超美欧印日俄总和 我国发电装机突破40亿千瓦，超美欧印日俄总和。 2026-07-01 07:33",
       "relatedTitles": [
-        "中国可重复火箭，没有照着美国的答案抄"
+        "中国日报漫画"
       ]
     },
     {
@@ -2627,6 +2154,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "首页 全球首艘！能装一万多辆汽车的运输船今天试航 分享到： 3月31日，中船广船国际为韩国HMM公司建造的10800车LNG双燃料汽车运输船（PCTC）1号船出海试航，这是目前全球在建的首艘万车级双燃料汽车运输船。 据了解，该船体总长230米，型宽40米，结构吃水10.5米，航速约19节，在高效运输与稳定航行间实现完美平衡。其中14层车库甲板设计，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。按5米一台标准车，所装载的车首尾相连，超过50公里。 这艘船采用燃油和LNG双燃料推进系统，配置轴带发电机，可以一边航行一边完成发电，从而达到节能减排的目的。这艘船环保性能卓越，满足国际海事组织Tier Ⅲ排放标准。 据广船国际相关负责人介绍，汽车运输船是高技术、高附加值船型，其建造难度大、技术含量高。一是需大量采用薄板建造，广船国际建造团队成功攻克了薄板变形控制的难题；二是滚装设备多，机械化程度高，而且过去这些滚装设备大都依赖进口，如今全都实现了国产化。万车船完成建造试航，标志着广船国际完全掌握了此类船型的建造技术，在该细分市场保持领先地位。 （总台记者 魏星",
       "relatedTitles": [
         "全球首艘！能装一万多辆汽车的运输船今天试航"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "高市早苗的芯片迷梦",
+      "summary": "高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰，以台积电熊本工厂为锚点——正在从多个维度遭遇严峻挑战。这位日本首位女首相的芯片野心，很可能正在走向一场代价高昂的落空。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/xinzhiguanchasuo/2026_02_10_806621.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/xinzhiguanchasuo/2026_02_10_806621.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 137,
+      "reporterScore": 143,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 103
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “高市早苗的芯片迷梦” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰，以台积电熊本工厂为锚点——正在从多个维度遭遇严峻挑战。这位日本首位女首相的芯片野心，很可能正在走向一场代价高昂的落空。",
+      "relatedTitles": [
+        "高市早苗的芯片迷梦"
       ]
     },
     {
@@ -2899,140 +2493,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "一台晚会能办成什么样，取决于机器人",
-      "summary": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "机器人",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 4,
-      "score": 130,
-      "reporterScore": 136,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 98
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “一台晚会能办成什么样，取决于机器人” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "机器人动态",
-      "rawText": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
-      "relatedTitles": [
-        "一台晚会能办成什么样，取决于机器人"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "“985”博导不如初中辍学的张雪？",
-      "summary": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/politics/2026_04_14_813533.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/politics/2026_04_14_813533.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "科学前沿",
-      "classificationConfidence": 0.82,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 4,
-      "score": 129,
-      "reporterScore": 129,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind ““985”博导不如初中辍学的张雪？” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻视基础研究，甚至矮化科研工作者的态度却不可取。 需要厘清的是，博导与张雪并非处于对立面，而是站在创新链条的不同位置。高校是基础研究的主阵地，很多博导主要从事原理性研究，他们处于创新链前端，要解决的是“从0到1”的问题。张雪则在创新链后端，主要实现工程化落地，要解决的是“从10到100”的问题。二者角色、职责不同，不能用“造机子”的尺子去衡量做基础研究的学者。我们理当为张雪的成功喝彩，但不能因此否定博导们研究的科学价值和学术意义。 基础研究很多时候看似“无用”，但今天的“无用”或许就是明天的“大用”。基础研究所激发的原始创新往往具有奠基性、颠覆性和引领性，是新技术、新发明的先导。评判基础研究的价值不在一时，而在长远。从半导体、计算机到激光技术，我们今天日常生活中广泛使用的很",
-      "relatedTitles": [
-        "“985”博导不如初中辍学的张雪？"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "灵睿智芯完成新一轮数亿元融资，加速面向智能体时代的全国产高性能RISC-V产品研发",
       "summary": "（观察者网讯）近日，上海灵睿智芯计算技术有限公司（以下简称“灵睿智芯”）宣布完成数亿元融资。本轮融资由张江高",
       "source": "观察者网-产业科技",
@@ -3164,6 +2624,140 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI视界，不止于想象"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "一台晚会能办成什么样，取决于机器人",
+      "summary": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/xinzhiguanchasuo/2026_02_12_806885.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "机器人",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 4,
+      "score": 120,
+      "reporterScore": 126,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 98
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “一台晚会能办成什么样，取决于机器人” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
+      "relatedTitles": [
+        "一台晚会能办成什么样，取决于机器人"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "“985”博导不如初中辍学的张雪？",
+      "summary": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/politics/2026_04_14_813533.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/politics/2026_04_14_813533.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "科学前沿",
+      "classificationConfidence": 0.82,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 4,
+      "score": 119,
+      "reporterScore": 119,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind ““985”博导不如初中辍学的张雪？” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻视基础研究，甚至矮化科研工作者的态度却不可取。 需要厘清的是，博导与张雪并非处于对立面，而是站在创新链条的不同位置。高校是基础研究的主阵地，很多博导主要从事原理性研究，他们处于创新链前端，要解决的是“从0到1”的问题。张雪则在创新链后端，主要实现工程化落地，要解决的是“从10到100”的问题。二者角色、职责不同，不能用“造机子”的尺子去衡量做基础研究的学者。我们理当为张雪的成功喝彩，但不能因此否定博导们研究的科学价值和学术意义。 基础研究很多时候看似“无用”，但今天的“无用”或许就是明天的“大用”。基础研究所激发的原始创新往往具有奠基性、颠覆性和引领性，是新技术、新发明的先导。评判基础研究的价值不在一时，而在长远。从半导体、计算机到激光技术，我们今天日常生活中广泛使用的很",
+      "relatedTitles": [
+        "“985”博导不如初中辍学的张雪？"
+      ]
     }
   ],
   "globalLeads": [
@@ -3201,38 +2795,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "ChatGPT Live could make talking to AI feel straight out of the movies",
-      "summary": "OpenAI has launched GPT-Live, a new voice model for ChatGPT Voice that can listen and speak at the same time to make AI conversations feel faster and more natural.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html",
-      "publishedAt": "2026-07-12",
-      "date": "2026-07-12",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “ChatGPT Live could make talking to AI feel straight out of the movies” against primary-source evidence.",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 159,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI’s Head of Safety Is Leaving the Company",
       "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
       "source": "WIRED Business",
@@ -3265,6 +2827,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "ChatGPT Live could make talking to AI feel straight out of the movies",
+      "summary": "OpenAI has launched GPT-Live, a new voice model for ChatGPT Voice that can listen and speak at the same time to make AI conversations feel faster and more natural.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html",
+      "publishedAt": "2026-07-12",
+      "date": "2026-07-12",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “ChatGPT Live could make talking to AI feel straight out of the movies” against primary-source evidence.",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 159,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
       "summary": "A federal jury ruled Monday that Elon Musk waited too long to sue OpenAI and its co-founders, delivering a decisive victory to the ChatGPT startup and ending one of Silicon Valley'",
       "source": "AP Technology",
@@ -3293,7 +2887,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3325,7 +2919,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3357,7 +2951,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3426,14 +3020,14 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "AI-driven datacenter builds drive Microsoft's emissions up a quarter in one year",
-      "summary": "Firm faces quandary of wanting to help the environment, but also wanting to force AI on everyone",
+      "summary": "Are we human?",
       "source": "The Register",
       "url": "https://www.theregister.com/on-prem/2026/07/10/ai-driven-datacenter-builds-drive-microsofts-emissions-up-a-quarter-in-one-year/5269924",
       "publishedAt": "Fri, 10 Jul 2026 16:01:00 +0200",
       "date": "2026-07-10",
       "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
@@ -3552,8 +3146,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-12｜V3\n生成时间：2026/7/12 07:38:33\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2438｜确认今日 11｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-12] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日\n   新浪科技｜2026-07-12｜https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwye6089814.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.\n\n2. [2026-07-12] 小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布\n   新浪科技｜2026-07-12｜https://finance.sina.com.cn/tech/discovery/2026-07-12/doc-inihnwyh2863818.shtml\n   报道角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布” against primary-source evidence.\n\n3. [2026-07-12] 智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产\n   新浪科技｜2026-07-12｜https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnnkr4848408.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产” against primary-source evidence.\n\n4. [2026-07-12] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云\n   新浪科技｜2026-07-12｜https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwyi7973646.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.\n\n5. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线\n   网易科技｜2026-07-12｜https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.\n\n本次新增线索：\n- SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwye6089814.shtml\n- 小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-12/doc-inihnwyh2863818.shtml\n- 智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnnkr4848408.shtml\n- 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwyi7973646.shtml\n- Meta又闯祸了，新AI图像功能被喷到下线｜网易科技｜https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n- ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n3. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n4. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets｜AP Technology｜https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\n5. OpenAI bets on families as ChatGPT goes deeper into households｜TechCrunch｜https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-12｜V3\n生成时间：2026/7/12 07:38:33\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2438｜确认今日 11｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-12] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日\n   新浪科技｜2026-07-12｜https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwye6089814.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.\n\n2. [2026-07-12] 小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布\n   新浪科技｜2026-07-12｜https://finance.sina.com.cn/tech/discovery/2026-07-12/doc-inihnwyh2863818.shtml\n   报道角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布” against primary-source evidence.\n\n3. [2026-07-12] 智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产\n   新浪科技｜2026-07-12｜https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnnkr4848408.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产” against primary-source evidence.\n\n4. [2026-07-12] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云\n   新浪科技｜2026-07-12｜https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwyi7973646.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.\n\n5. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线\n   网易科技｜2026-07-12｜https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.\n\n本次新增线索：\n- SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwye6089814.shtml\n- 小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-12/doc-inihnwyh2863818.shtml\n- 智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnnkr4848408.shtml\n- 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwyi7973646.shtml\n- Meta又闯祸了，新AI图像功能被喷到下线｜网易科技｜https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n- ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n3. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n4. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets｜AP Technology｜https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\n5. OpenAI bets on families as ChatGPT goes deeper into households｜TechCrunch｜https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-12｜生成时间：2026/7/12 07:38:33｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2438｜确认今日 11｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 11 条｜国际 4 条<br>延续跟踪线索：国内 0 条｜国际 8 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-12] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日</strong>\n      <span>新浪科技｜2026-07-12｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwye6089814.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：180｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-12] 小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布</strong>\n      <span>新浪科技｜2026-07-12｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-07-12/doc-inihnwyh2863818.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-12] 智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产</strong>\n      <span>新浪科技｜2026-07-12｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnnkr4848408.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-12] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云</strong>\n      <span>新浪科技｜2026-07-12｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwyi7973646.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线</strong>\n      <span>网易科技｜2026-07-12｜<a href=\"https://www.163.com/dy/article/L1JUQ73B05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin</strong>\n      <span>时间：2026-07-11｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “China Successfully Lands Space Rocket For First Time, Matching SpaceX An” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. ChatGPT Live could make talking to AI feel straight out of the movies</strong>\n      <span>时间：2026-07-12｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “ChatGPT Live could make talking to AI feel straight out of the movies” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI’s Head of Safety Is Leaving the Company</strong>\n      <span>时间：Sat, 11 Jul 2026 01:07:26 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-head-of-safety-leaving/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI’s Head of Safety Is Leaving the Company” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets</strong>\n      <span>时间：2026-07-10｜来源：AP Technology｜<a href=\"https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secr” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI bets on families as ChatGPT goes deeper into households</strong>\n      <span>时间：Sat, 11 Jul 2026 14:13:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI bets on families as ChatGPT goes deeper into households” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/12 07:38:33\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-12] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwye6089814.shtml\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.\n\n2. [2026-07-12] 小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-07-12/doc-inihnwyh2863818.shtml\n   角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布” against primary-source evidence.\n\n3. [2026-07-12] 智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnnkr4848408.shtml\n   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产” against primary-source evidence.\n\n4. [2026-07-12] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwyi7973646.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.\n\n5. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.\n\n本次新增线索：\n- SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwye6089814.shtml\n- 小米首款增程SUV杀到！真实路测428万公里 发布时间即将公布｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-12/doc-inihnwyh2863818.shtml\n- 智元-蓝思机器人智能产线项目合作协议签约仪式在惠州举行，主要从事智元机器人灵犀X2生产｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihnnkr4848408.shtml\n- 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-12/doc-inihnwyi7973646.shtml\n- Meta又闯祸了，新AI图像功能被喷到下线｜网易科技｜https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n- ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n3. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n4. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets｜AP Technology｜https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\n5. OpenAI bets on families as ChatGPT goes deeper into households｜TechCrunch｜https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-12｜V3\n生成时间：2026/7/12 08:05:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2442｜确认今日 7｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 4 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:06] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/632.htm\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.\n\n2. [22:51] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/630.htm\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.\n\n3. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线\n   网易科技｜2026-07-12｜https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.\n\n4. [23:32] 特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/636.htm\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部” against primary-source evidence.\n\n5. [22:42] 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/628.htm\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV” against primary-source evidence.\n\n本次新增线索：\n- SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日｜IT之家｜https://www.ithome.com/0/975/632.htm\n- 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云｜IT之家｜https://www.ithome.com/0/975/630.htm\n- 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV｜IT之家｜https://www.ithome.com/0/975/628.htm\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n4. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets｜AP Technology｜https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\n5. OpenAI bets on families as ChatGPT goes deeper into households｜TechCrunch｜https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-12｜V3\n生成时间：2026/7/12 08:05:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2442｜确认今日 7｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 4 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:06] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/632.htm\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.\n\n2. [22:51] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/630.htm\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.\n\n3. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线\n   网易科技｜2026-07-12｜https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.\n\n4. [23:32] 特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/636.htm\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部” against primary-source evidence.\n\n5. [22:42] 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV\n   IT之家｜2026-07-12｜https://www.ithome.com/0/975/628.htm\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV” against primary-source evidence.\n\n本次新增线索：\n- SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日｜IT之家｜https://www.ithome.com/0/975/632.htm\n- 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云｜IT之家｜https://www.ithome.com/0/975/630.htm\n- 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV｜IT之家｜https://www.ithome.com/0/975/628.htm\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n4. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets｜AP Technology｜https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\n5. OpenAI bets on families as ChatGPT goes deeper into households｜TechCrunch｜https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-12｜生成时间：2026/7/12 08:05:04｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2442｜确认今日 7｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 4 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [23:06] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日</strong>\n      <span>IT之家｜2026-07-12｜<a href=\"https://www.ithome.com/0/975/632.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [22:51] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云</strong>\n      <span>IT之家｜2026-07-12｜<a href=\"https://www.ithome.com/0/975/630.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：168｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线</strong>\n      <span>网易科技｜2026-07-12｜<a href=\"https://www.163.com/dy/article/L1JUQ73B05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [23:32] 特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部</strong>\n      <span>IT之家｜2026-07-12｜<a href=\"https://www.ithome.com/0/975/636.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：171｜需核验来源</span>\n      <p>报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [22:42] 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV</strong>\n      <span>IT之家｜2026-07-12｜<a href=\"https://www.ithome.com/0/975/628.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：157｜需核验来源</span>\n      <p>报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin</strong>\n      <span>时间：2026-07-11｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “China Successfully Lands Space Rocket For First Time, Matching SpaceX An” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI’s Head of Safety Is Leaving the Company</strong>\n      <span>时间：Sat, 11 Jul 2026 01:07:26 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-head-of-safety-leaving/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI’s Head of Safety Is Leaving the Company” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. ChatGPT Live could make talking to AI feel straight out of the movies</strong>\n      <span>时间：2026-07-12｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “ChatGPT Live could make talking to AI feel straight out of the movies” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets</strong>\n      <span>时间：2026-07-10｜来源：AP Technology｜<a href=\"https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secr” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI bets on families as ChatGPT goes deeper into households</strong>\n      <span>时间：Sat, 11 Jul 2026 14:13:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI bets on families as ChatGPT goes deeper into households” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/12 08:05:04\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 4 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:06] SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/632.htm\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日” against primary-source evidence.\n\n2. [22:51] 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/630.htm\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云” against primary-source evidence.\n\n3. [2026-07-12] Meta又闯祸了，新AI图像功能被喷到下线\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L1JUQ73B05198CJN.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta又闯祸了，新AI图像功能被喷到下线” against primary-source evidence.\n\n4. [23:32] 特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/636.htm\n   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部” against primary-source evidence.\n\n5. [22:42] 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/628.htm\n   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV” against primary-source evidence.\n\n本次新增线索：\n- SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日｜IT之家｜https://www.ithome.com/0/975/632.htm\n- 居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云｜IT之家｜https://www.ithome.com/0/975/630.htm\n- 小米汽车：澎程系列计划发布五座版和七座版两个车型，分别属于中大型 SUV 和大型 SUV｜IT之家｜https://www.ithome.com/0/975/628.htm\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. China Successfully Lands Space Rocket For First Time, Matching SpaceX And Blue Origin｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/china-successfully-lands-space-rocket-195028449.html\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. ChatGPT Live could make talking to AI feel straight out of the movies｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-live-could-talking-ai-185647407.html\n4. Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets｜AP Technology｜https://apnews.com/article/apple-openai-lawsuit-trade-secrets-theft-6fff8833f5889d86406b89a02dd8fb16\n5. OpenAI bets on families as ChatGPT goes deeper into households｜TechCrunch｜https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
