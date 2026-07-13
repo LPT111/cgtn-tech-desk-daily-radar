@@ -1,59 +1,44 @@
 {
-  "generatedAt": "2026-07-12T23:38:07.964Z",
+  "generatedAt": "2026-07-13T00:05:08.128Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-13",
   "changeSummary": {
-    "domesticNew": 18,
-    "globalNew": 4,
-    "domesticContinued": 0,
-    "globalContinued": 4,
+    "domesticNew": 6,
+    "globalNew": 1,
+    "domesticContinued": 16,
+    "globalContinued": 7,
     "topNewDomestic": [
       {
-        "title": "“天书计划”启动首届AI育种挑战赛",
+        "title": "调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihqzxi7523224.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7432390.shtml"
       },
       {
-        "title": "我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/roll/2026-07-13/doc-inihqzxq9197265.shtml"
-      },
-      {
-        "title": "热点回应丨三问全球首次“网抱”式火箭回收",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-07/13/content_546182.html"
-      },
-      {
-        "title": "1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihqzxm4299472.shtml"
-      },
-      {
-        "title": "古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列",
+        "title": "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲",
         "source": "IT之家",
-        "url": "https://www.ithome.com/0/975/835.htm"
+        "url": "https://www.ithome.com/0/975/850.htm"
+      },
+      {
+        "title": "特斯拉下令冲刺年产10万台Optimus 马斯克：完不成 撤换整个采购团队",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-07-13/doc-inihrhfi4205605.shtml"
+      },
+      {
+        "title": "分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7422915.shtml"
+      },
+      {
+        "title": "中信建投：AI算力景气持续，模型迭代驱动推理需",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L1MVTS310534A4SC.html"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Samsung may be ready to end the long wait for the Galaxy SmartTag 3",
+        "title": "OpenAI is killing ChatGPT Atlas browser. I loved it, but it was an uphill race to the top",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html"
-      },
-      {
-        "title": "MSI Claw 8 EX AI+ Handheld Review",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/gaming/articles/msi-claw-8-ex-ai-180000551.html"
-      },
-      {
-        "title": "Not Google Pixel, Not Motorola: The Most Popular Phone Behind iPhone And Samsung",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/phones/articles/not-google-pixel-not-motorola-194700793.html"
-      },
-      {
-        "title": "AMD just made Ryzen laptop chips even more confusing, but here’s what’s actually new",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/amd-just-made-ryzen-laptop-212636329.html"
+        "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-killing-chatgpt-atlas-browser-194306878.html"
       }
     ],
     "hasPrevious": true
@@ -62,7 +47,7 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 882,
+    "domesticRejected": 878,
     "globalRejected": 892,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -85,6 +70,11 @@
       "optional": true
     },
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -95,13 +85,8 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -122,6 +107,11 @@
       "optional": true
     },
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -132,13 +122,8 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -156,7 +141,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 131,
+      "parsed": 130,
       "failed": false,
       "optional": false
     },
@@ -255,8 +240,9 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -348,9 +334,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -358,7 +343,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -406,18 +391,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1247,
+  "itemsSeen": 1193,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 316,
-  "itemsAfterDedupe": 252,
-  "todayItemsSeen": 18,
-  "suspectedItemsSeen": 21,
-  "skippedNonToday": 213,
+  "itemsAfterRelevantFilter": 278,
+  "itemsAfterDedupe": 229,
+  "todayItemsSeen": 22,
+  "suspectedItemsSeen": 22,
+  "skippedNonToday": 185,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 131,
+      "parsed": 130,
       "failed": false,
       "optional": false
     },
@@ -516,8 +501,9 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -609,9 +595,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -619,7 +604,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -707,7 +692,7 @@
     {
       "name": "Yahoo News Technology",
       "tier": "international",
-      "parsed": 229,
+      "parsed": 228,
       "failed": false,
       "optional": false
     },
@@ -826,6 +811,11 @@
       "optional": true
     },
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -836,13 +826,8 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -875,10 +860,26 @@
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1203,
+  "globalItemsSeen": 1202,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 109,
+  "globalItemsAfterRelevantFilter": 107,
   "topics": [
+    {
+      "topic": "AI动态",
+      "count": 4,
+      "sourceCount": 3,
+      "sources": [
+        "新浪科技",
+        "网易科技",
+        "IT之家"
+      ],
+      "items": [
+        "调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利",
+        "分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区",
+        "中信建投：AI算力景气持续，模型迭代驱动推理需",
+        "家长花 3 万打造“少年马斯克”，有研学营标榜让孩子“6 天创办 AI 公司”"
+      ]
+    },
     {
       "topic": "人形机器人与具身智能",
       "count": 3,
@@ -907,16 +908,16 @@
       ]
     },
     {
-      "topic": "AI 应用与智能体",
-      "count": 2,
-      "sourceCount": 2,
+      "topic": "国产 GPU / 算力基础设施",
+      "count": 3,
+      "sourceCount": 1,
       "sources": [
-        "IT之家",
-        "网易科技"
+        "IT之家"
       ],
       "items": [
-        "OpenAI Codex、ChatGPT Work 暂时取消 Plus / Pro / Business 订阅 5 小时使用限制",
-        "通用生物医学AI智能体可自主执行科研任务"
+        "古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列",
+        "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲",
+        "消息称 HBM4 价格明年有望翻倍，产能瓶颈与长期合同加剧供应紧张"
       ]
     },
     {
@@ -932,27 +933,15 @@
       ]
     },
     {
-      "topic": "国产 GPU / 算力基础设施",
+      "topic": "新能源车动态",
       "count": 2,
       "sourceCount": 1,
       "sources": [
-        "IT之家"
+        "新浪科技"
       ],
       "items": [
-        "古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列",
-        "消息称 HBM4 价格明年有望翻倍，产能瓶颈与长期合同加剧供应紧张"
-      ]
-    },
-    {
-      "topic": "AI动态",
-      "count": 2,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区",
-        "家长花 3 万打造“少年马斯克”，有研学营标榜让孩子“6 天创办 AI 公司”"
+        "特斯拉下令冲刺年产10万台Optimus 马斯克：完不成 撤换整个采购团队",
+        "日本国民女演员代言 比亚迪纯电K-Car本月上市：最远能跑320km"
       ]
     },
     {
@@ -975,6 +964,17 @@
       ],
       "items": [
         "基本半导体：部分产品价格预计上调幅度最高不超25%"
+      ]
+    },
+    {
+      "topic": "AI 应用与智能体",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "OpenAI Codex、ChatGPT Work 暂时取消 Plus / Pro / Business 订阅 5 小时使用限制"
       ]
     },
     {
@@ -1078,7 +1078,7 @@
       "relatedTitles": [
         "“天书计划”启动首届AI育种挑战赛"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1146,7 +1146,7 @@
       "relatedTitles": [
         "我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1213,6 +1213,74 @@
       "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 热点回应丨三问全球首次“网抱”式火箭回收 2026-07-13 07:22:10 来源: 科技日报 点击数： 热点",
       "relatedTitles": [
         "热点回应丨三问全球首次“网抱”式火箭回收"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利",
+      "summary": "IT之家 7 月 13 日消息，根据一项最新调查，随着科技企业裁员不断增加、企业整体利润却持续增长，越来越多美国民众希望通过设立 AI 主权财富基金，让大型企业承担更多责任，并将 AI 带来的财富回馈社会。市场研究机构 Verasight ...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7432390.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7432390.shtml"
+      ],
+      "publishedAt": "2026-07-13",
+      "date": "2026-07-13",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 7 月 13 日消息，根据一项最新调查，随着科技企业裁员不断增加、企业整体利润却持续增长，越来越多美国民众希望通过设立 AI 主权财富基金，让大型企业承担更多责任，并将 AI 带来的财富回馈社会。市场研究机构 Verasight ...",
+      "relatedTitles": [
+        "调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利"
       ],
       "isNewSinceLastRun": true
     },
@@ -1282,7 +1350,7 @@
       "relatedTitles": [
         "1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1350,7 +1418,7 @@
       "relatedTitles": [
         "古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1418,7 +1486,7 @@
       "relatedTitles": [
         "从“输血”到“造血”，这家商业航天公司是如何实现盈利的？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1486,7 +1554,7 @@
       "relatedTitles": [
         "上半年高频数据折射我国经济稳中向优"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1554,7 +1622,7 @@
       "relatedTitles": [
         "广州未来五年拟制定或修订70项政府规章"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1621,6 +1689,142 @@
       "rawText": "远程操控人形机器人首次完成外科手术,手术,外科,人形,机器人,远程操控",
       "relatedTitles": [
         "远程操控人形机器人首次完成外科手术"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲",
+      "summary": "近期芯片股波动引发 AI 需求是否降温的讨论。多位 AI 行业高管表示，整体需求依然旺盛，供给严重跟不上，特别是数据中心和芯片。同时，企业正从“不计成本”转向关注投资回报，进入更理性的 AI 部署阶段。#AI芯片##算力需求#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/975/850.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/975/850.htm"
+      ],
+      "publishedAt": "Sun, 12 Jul 2026 23:54:12 GMT",
+      "date": "2026-07-13",
+      "category": "AI",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 163,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "近期芯片股波动引发 AI 需求是否降温的讨论。多位 AI 行业高管表示，整体需求依然旺盛，供给严重跟不上，特别是数据中心和芯片。同时，企业正从“不计成本”转向关注投资回报，进入更理性的 AI 部署阶段。#AI芯片##算力需求#",
+      "relatedTitles": [
+        "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "特斯拉下令冲刺年产10万台Optimus 马斯克：完不成 撤换整个采购团队",
+      "summary": "快科技7月13日消息，近日，媒体援引多位特斯拉供应链知情人士透露，特斯拉已向供应商下发具体的Optimus零部件采购指引。根据特斯拉明确的产能规划，项目需在今年9月前达成每周1000台的生产产能，年底前进一步将周产能提升至2000至2500...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-07-13/doc-inihrhfi4205605.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-07-13/doc-inihrhfi4205605.shtml"
+      ],
+      "publishedAt": "2026-07-13",
+      "date": "2026-07-13",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 154,
+      "reporterScore": 162,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “特斯拉下令冲刺年产10万台Optimus 马斯克：完不成 撤换整个采购团队” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "快科技7月13日消息，近日，媒体援引多位特斯拉供应链知情人士透露，特斯拉已向供应商下发具体的Optimus零部件采购指引。根据特斯拉明确的产能规划，项目需在今年9月前达成每周1000台的生产产能，年底前进一步将周产能提升至2000至2500...",
+      "relatedTitles": [
+        "特斯拉下令冲刺年产10万台Optimus 马斯克：完不成 撤换整个采购团队"
       ],
       "isNewSinceLastRun": true
     },
@@ -1690,7 +1894,7 @@
       "relatedTitles": [
         "基本半导体：部分产品价格预计上调幅度最高不超25%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1757,6 +1961,142 @@
       "rawText": "OpenAI 宣布暂时取消 Codex 和 ChatGPT Work 付费订阅的 5 小时使用限制，同时 GPT-5.6 Sol 模型将进行效率优化，用户可在同等额度下完成更多任务。平台活跃用户已突破 600 万。#OpenAI #ChatGPT #AI 工具",
       "relatedTitles": [
         "OpenAI Codex、ChatGPT Work 暂时取消 Plus / Pro / Business 订阅 5 小时使用限制"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区",
+      "summary": "研究显示，社媒上超过 250 个单词的长篇内容中，AI 生成占比高达 25%。LinkedIn 情况最严重，41% 的长文被判定为 AI 撰写。X 平台近一半长文有 AI 参与，而 Reddit 回复则几乎全是真人创作。#AI生成内容##社交媒体治理#",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7422915.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7422915.shtml"
+      ],
+      "publishedAt": "2026-07-13",
+      "date": "2026-07-13",
+      "category": "AI",
+      "classificationConfidence": 0.7,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 7 月 13 日消息，根据 Pangram 的一项分析，目前社交媒体上超过 250 个单词的长篇内容中，每四篇就有一篇是由 AI 生成。其中，LinkedIn 的 AI 内容占比最高，41% 的长文被判定为 AI 撰写。虽然 Li...",
+      "relatedTitles": [
+        "分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "中信建投：AI算力景气持续，模型迭代驱动推理需",
+      "summary": "中信建投：AI算力景气持续，模型迭代驱动推理需求扩张,推理,a股,景气度,中信建投",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L1MVTS310534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L1MVTS310534A4SC.html"
+      ],
+      "publishedAt": "2026-07-13",
+      "date": "2026-07-13",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中信建投：AI算力景气持续，模型迭代驱动推理需” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "中信建投：AI算力景气持续，模型迭代驱动推理需求扩张,推理,a股,景气度,中信建投",
+      "relatedTitles": [
+        "中信建投：AI算力景气持续，模型迭代驱动推理需"
       ],
       "isNewSinceLastRun": true
     },
@@ -1826,7 +2166,7 @@
       "relatedTitles": [
         "大疆无人机直飞海拔8861米 首次完成珠峰昆布冰川核心区厘米级建模"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1894,7 +2234,7 @@
       "relatedTitles": [
         "消息称 HBM4 价格明年有望翻倍，产能瓶颈与长期合同加剧供应紧张"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1962,38 +2302,38 @@
       "relatedTitles": [
         "运营商财经网康钊：中国临时禁止出口氦气 不是为了为了打击别人的半导体产业"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "通用生物医学AI智能体可自主执行科研任务",
-      "summary": "通用生物医学AI智能体可自主执行科研任务,科学,通用,医学,实验,智能体",
-      "source": "网易科技",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "日本国民女演员代言 比亚迪纯电K-Car本月上市：最远能跑320km",
+      "summary": "快科技7月13日消息，比亚迪专为日本打杂的纯电K-Car“海獭”将于本月28日上市，代言人为日本国民女演员广濑爱丽丝。海獭专为日本市场打造，采用了方盒子的造型，能在有限的车身尺寸限制下做出更大的空间，前脸为封闭式，整体造型很是简约，车头两侧...",
+      "source": "新浪科技",
       "sources": [
-        "网易科技"
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L1MVAPA405198CJN.html",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihrhfn9092304.shtml",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L1MVAPA405198CJN.html"
+        "https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihrhfn9092304.shtml"
       ],
       "publishedAt": "2026-07-13",
       "date": "2026-07-13",
-      "category": "AI",
-      "classificationConfidence": 0.99,
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
+      "score": 145,
+      "reporterScore": 145,
       "scoreBreakdown": {
-        "hardTech": 95,
+        "hardTech": 85,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
@@ -2015,20 +2355,20 @@
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
+        "hardTechWeight": 85,
+        "reporterScore": 100
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “通用生物医学AI智能体可自主执行科研任务” against primary-source evidence.",
+      "format": "video",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “日本国民女演员代言 比亚迪纯电K-Car本月上市：最远能跑320km” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "通用生物医学AI智能体可自主执行科研任务,科学,通用,医学,实验,智能体",
+      "matchedTopic": "新能源车动态",
+      "rawText": "快科技7月13日消息，比亚迪专为日本打杂的纯电K-Car“海獭”将于本月28日上市，代言人为日本国民女演员广濑爱丽丝。海獭专为日本市场打造，采用了方盒子的造型，能在有限的车身尺寸限制下做出更大的空间，前脸为封闭式，整体造型很是简约，车头两侧...",
       "relatedTitles": [
-        "通用生物医学AI智能体可自主执行科研任务"
+        "日本国民女演员代言 比亚迪纯电K-Car本月上市：最远能跑320km"
       ],
       "isNewSinceLastRun": true
     },
@@ -2098,75 +2438,7 @@
       "relatedTitles": [
         "特斯拉 Robotaxi 枢纽清洁机器人已投入运行，配套设施逐步完善"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区",
-      "summary": "研究显示，社媒上超过 250 个单词的长篇内容中，AI 生成占比高达 25%。LinkedIn 情况最严重，41% 的长文被判定为 AI 撰写。X 平台近一半长文有 AI 参与，而 Reddit 回复则几乎全是真人创作。#AI生成内容##社交媒体治理#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/975/842.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/975/842.htm"
-      ],
-      "publishedAt": "Sun, 12 Jul 2026 23:26:09 GMT",
-      "date": "2026-07-13",
-      "category": "AI",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 151,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "研究显示，社媒上超过 250 个单词的长篇内容中，AI 生成占比高达 25%。LinkedIn 情况最严重，41% 的长文被判定为 AI 撰写。X 平台近一半长文有 AI 参与，而 Reddit 回复则几乎全是真人创作。#AI生成内容##社交媒体治理#",
-      "relatedTitles": [
-        "分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2234,7 +2506,7 @@
       "relatedTitles": [
         "家长花 3 万打造“少年马斯克”，有研学营标榜让孩子“6 天创办 AI 公司”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2437,6 +2709,73 @@
       "rawText": "曙光8000 中国首个十万卡集群落成！全国产算力支撑“十万卡时代” 已跑通300余项应用 邓思邈 4分钟前 中科曙光 曙光8000 超智融合 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，LeCun团队让世界模型学会持续学习！",
       "relatedTitles": [
         "曙光8000"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺",
+      "summary": "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺。 量子位 2026-06-17 waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 2026-06-17 waic2026 热门文章 GPT发AI原创新成果了 ",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/waic2026",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/waic2026"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.81,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 164,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺。 量子位 2026-06-17 waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 2026-06-17 waic2026 热门文章 GPT发AI原创新成果了 全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化 为什么最有价值的AI讨论总发生在知乎？ 香港特区政府财政司司长陈茂波一行到访 PPIO 星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
+      "relatedTitles": [
+        "waic2026 倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行 全球盛会就此进入开幕冲刺"
       ]
     },
     {
@@ -3311,73 +3650,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "waic2026 入局AI新风向",
-      "summary": "waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 昨天 14:33 waic2026 热门文章 1290万高考生看过来！阿里出了个志愿填报Agent，免费的 Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜 Anthropic老大的唯一 -1，就是AI",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/waic2026",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/waic2026"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 130,
-      "reporterScore": 138,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “waic2026 入局AI新风向” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "waic2026 入局AI新风向，WAIC 2026全球开票！ 180家企业携成果入驻 量子位 昨天 14:33 waic2026 热门文章 1290万高考生看过来！阿里出了个志愿填报Agent，免费的 Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜 Anthropic老大的唯一 -1，就是AI股神的未婚妻 耐心资本护航创新，2026SuperLink开启创投价值共生新时代 “智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
-      "relatedTitles": [
-        "waic2026 入局AI新风向"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "一台晚会能办成什么样，取决于机器人",
       "summary": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
@@ -3442,6 +3714,73 @@
       "rawText": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
       "relatedTitles": [
         "一台晚会能办成什么样，取决于机器人"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "英伟达黄仁勋",
+      "summary": "英伟达黄仁勋 黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了 还领取了2026年IEEE荣誉奖章 西风 2026-01-08 CES 2026 英伟达黄仁勋 热门文章 腾讯想让企业打开AI的方式只剩一个 Hinton吹哨了：AI已经有意识！ 马斯克是SpaceX面子，她才是里子 今年CVPR看点是广",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%bb%84%e4%bb%81%e5%8b%8b",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%bb%84%e4%bb%81%e5%8b%8b"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.94,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 133,
+      "reporterScore": 133,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达黄仁勋” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "英伟达黄仁勋 黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了 还领取了2026年IEEE荣誉奖章 西风 2026-01-08 CES 2026 英伟达黄仁勋 热门文章 腾讯想让企业打开AI的方式只剩一个 Hinton吹哨了：AI已经有意识！ 马斯克是SpaceX面子，她才是里子 今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断 大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+      "relatedTitles": [
+        "英伟达黄仁勋"
       ]
     },
     {
@@ -3650,7 +3989,7 @@
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "It's an AI web, and we're just rats in the walls",
-      "summary": "Bots, not people, are now the ones who use the internet the most",
+      "summary": "Are we human?",
       "source": "The Register",
       "url": "https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760",
       "publishedAt": "Sun, 12 Jul 2026 09:34:00 +0200",
@@ -3713,116 +4052,20 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung may be ready to end the long wait for the Galaxy SmartTag 3",
-      "summary": "Samsung's SmartTag 3 is rumored to drop this September alongside the S26 FE, and it better fix that aging network if it wants to compete.",
+      "title": "OpenAI is killing ChatGPT Atlas browser. I loved it, but it was an uphill race to the top",
+      "summary": "OpenAI is discontinuing the ChatGPT Atlas browser less than a year after its debut, as the company shifts focus to ChatGPT Work.",
       "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html",
-      "publishedAt": "2026-07-13",
-      "date": "2026-07-13",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung may be ready to end the long wait for the Galaxy SmartTag 3” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "MSI Claw 8 EX AI+ Handheld Review",
-      "summary": "A game changer for handheld gaming, the MSI Claw 8 EX AI+, equipped with the new Intel Arc G3 Extreme processor, is the most powerful handheld PC I’ve ever tested.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/gaming/articles/msi-claw-8-ex-ai-180000551.html",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-killing-chatgpt-atlas-browser-194306878.html",
       "publishedAt": "2026-07-13",
       "date": "2026-07-13",
       "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.68,
+      "classificationConfidence": 0.99,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “MSI Claw 8 EX AI+ Handheld Review” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Not Google Pixel, Not Motorola: The Most Popular Phone Behind iPhone And Samsung",
-      "summary": "While U.S. smartphone buyers may not have context, one of the largest smartphone brands continues to see growing success in European and Asian regions.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/not-google-pixel-not-motorola-194700793.html",
-      "publishedAt": "2026-07-13",
-      "date": "2026-07-13",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Not Google Pixel, Not Motorola: The Most Popular Phone Behind iPhone And” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "AMD just made Ryzen laptop chips even more confusing, but here’s what’s actually new",
-      "summary": "AMD has expanded its mobile processor lineup with 11 new Ryzen 200 and Ryzen 100 series processors based on Hawk Point, though the company's latest naming strategy is proving more ",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/amd-just-made-ryzen-laptop-212636329.html",
-      "publishedAt": "2026-07-13",
-      "date": "2026-07-13",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AMD just made Ryzen laptop chips even more confusing, but here’s what’s ” against primary-source evidence.",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI is killing ChatGPT Atlas browser. I loved it, but it was an uphil” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -3873,23 +4116,23 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "AI customers are coming around to the idea that small is beautiful",
-      "summary": "OpenAI and Anthropic have built AI Swiss Army Knives, but the future may be smaller built-for-purpose tools",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070",
-      "publishedAt": "Sat, 11 Jul 2026 16:11:00 +0200",
-      "date": "2026-07-11",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.99,
+      "title": "Samsung may be ready to end the long wait for the Galaxy SmartTag 3",
+      "summary": "Samsung's SmartTag 3 is rumored to drop this September alongside the S26 FE, and it better fix that aging network if it wants to compete.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html",
+      "publishedAt": "2026-07-13",
+      "date": "2026-07-13",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI customers are coming around to the idea that small is beautiful” against primary-source evidence.",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung may be ready to end the long wait for the Galaxy SmartTag 3” against primary-source evidence.",
       "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -3898,14 +4141,110 @@
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 95
+        "reporterScore": 110
       },
-      "status": "recent_48h",
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "MSI Claw 8 EX AI+ Handheld Review",
+      "summary": "A game changer for handheld gaming, the MSI Claw 8 EX AI+, equipped with the new Intel Arc G3 Extreme processor, is the most powerful handheld PC I’ve ever tested.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/gaming/articles/msi-claw-8-ex-ai-180000551.html",
+      "publishedAt": "2026-07-13",
+      "date": "2026-07-13",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.68,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “MSI Claw 8 EX AI+ Handheld Review” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Not Google Pixel, Not Motorola: The Most Popular Phone Behind iPhone And Samsung",
+      "summary": "While U.S. smartphone buyers may not have context, one of the largest smartphone brands continues to see growing success in European and Asian regions.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/articles/not-google-pixel-not-motorola-194700793.html",
+      "publishedAt": "2026-07-13",
+      "date": "2026-07-13",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Not Google Pixel, Not Motorola: The Most Popular Phone Behind iPhone And” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "AMD just made Ryzen laptop chips even more confusing, but here’s what’s actually new",
+      "summary": "AMD has expanded its mobile processor lineup with 11 new Ryzen 200 and Ryzen 100 series processors based on Hawk Point, though the company's latest naming strategy is proving more ",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/amd-just-made-ryzen-laptop-212636329.html",
+      "publishedAt": "2026-07-13",
+      "date": "2026-07-13",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AMD just made Ryzen laptop chips even more confusing, but here’s what’s ” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-13｜V3\n生成时间：2026/7/13 07:38:07\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2450｜确认今日 18｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 4 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-13] “天书计划”启动首届AI育种挑战赛\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihqzxi7523224.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““天书计划”启动首届AI育种挑战赛” against primary-source evidence.\n\n2. [2026-07-13] 我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/roll/2026-07-13/doc-inihqzxq9197265.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？” against primary-source evidence.\n\n3. [2026-07-13] 热点回应丨三问全球首次“网抱”式火箭回收\n   科技日报｜2026-07-13｜https://www.stdaily.com/web/gdxw/2026-07/13/content_546182.html\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “热点回应丨三问全球首次“网抱”式火箭回收” against primary-source evidence.\n\n4. [2026-07-13] 1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihqzxm4299472.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点” against primary-source evidence.\n\n5. [22:46] 古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列\n   IT之家｜2026-07-13｜https://www.ithome.com/0/975/835.htm\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列” against primary-source evidence.\n\n本次新增线索：\n- “天书计划”启动首届AI育种挑战赛｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihqzxi7523224.shtml\n- 我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？｜新浪科技｜https://finance.sina.com.cn/roll/2026-07-13/doc-inihqzxq9197265.shtml\n- 热点回应丨三问全球首次“网抱”式火箭回收｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/13/content_546182.html\n- 1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihqzxm4299472.shtml\n- 古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列｜IT之家｜https://www.ithome.com/0/975/835.htm\n- Samsung may be ready to end the long wait for the Galaxy SmartTag 3｜Yahoo News Technology｜https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. It's an AI web, and we're just rats in the walls｜The Register｜https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. Samsung may be ready to end the long wait for the Galaxy SmartTag 3｜Yahoo News Technology｜https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html\n4. MSI Claw 8 EX AI+ Handheld Review｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/msi-claw-8-ex-ai-180000551.html\n5. Not Google Pixel, Not Motorola: The Most Popular Phone Behind iPhone And Samsung｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/not-google-pixel-not-motorola-194700793.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-13｜V3\n生成时间：2026/7/13 07:38:07\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2450｜确认今日 18｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 4 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-13] “天书计划”启动首届AI育种挑战赛\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihqzxi7523224.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““天书计划”启动首届AI育种挑战赛” against primary-source evidence.\n\n2. [2026-07-13] 我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/roll/2026-07-13/doc-inihqzxq9197265.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？” against primary-source evidence.\n\n3. [2026-07-13] 热点回应丨三问全球首次“网抱”式火箭回收\n   科技日报｜2026-07-13｜https://www.stdaily.com/web/gdxw/2026-07/13/content_546182.html\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “热点回应丨三问全球首次“网抱”式火箭回收” against primary-source evidence.\n\n4. [2026-07-13] 1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihqzxm4299472.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点” against primary-source evidence.\n\n5. [22:46] 古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列\n   IT之家｜2026-07-13｜https://www.ithome.com/0/975/835.htm\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列” against primary-source evidence.\n\n本次新增线索：\n- “天书计划”启动首届AI育种挑战赛｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihqzxi7523224.shtml\n- 我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？｜新浪科技｜https://finance.sina.com.cn/roll/2026-07-13/doc-inihqzxq9197265.shtml\n- 热点回应丨三问全球首次“网抱”式火箭回收｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/13/content_546182.html\n- 1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihqzxm4299472.shtml\n- 古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列｜IT之家｜https://www.ithome.com/0/975/835.htm\n- Samsung may be ready to end the long wait for the Galaxy SmartTag 3｜Yahoo News Technology｜https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. It's an AI web, and we're just rats in the walls｜The Register｜https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. Samsung may be ready to end the long wait for the Galaxy SmartTag 3｜Yahoo News Technology｜https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html\n4. MSI Claw 8 EX AI+ Handheld Review｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/msi-claw-8-ex-ai-180000551.html\n5. Not Google Pixel, Not Motorola: The Most Popular Phone Behind iPhone And Samsung｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/not-google-pixel-not-motorola-194700793.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-13｜生成时间：2026/7/13 07:38:07｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2450｜确认今日 18｜国际背景 8</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 18 条｜国际 4 条<br>延续跟踪线索：国内 0 条｜国际 4 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-13] “天书计划”启动首届AI育种挑战赛</strong>\n      <span>新浪科技｜2026-07-13｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihqzxi7523224.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““天书计划”启动首届AI育种挑战赛” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-13] 我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？</strong>\n      <span>新浪科技｜2026-07-13｜<a href=\"https://finance.sina.com.cn/roll/2026-07-13/doc-inihqzxq9197265.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-13] 热点回应丨三问全球首次“网抱”式火箭回收</strong>\n      <span>科技日报｜2026-07-13｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/13/content_546182.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：187｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “热点回应丨三问全球首次“网抱”式火箭回收” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-13] 1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点</strong>\n      <span>新浪科技｜2026-07-13｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihqzxm4299472.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [22:46] 古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列</strong>\n      <span>IT之家｜2026-07-13｜<a href=\"https://www.ithome.com/0/975/835.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：179｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. It's an AI web, and we're just rats in the walls</strong>\n      <span>时间：Sun, 12 Jul 2026 09:34:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “It's an AI web, and we're just rats in the walls” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI’s Head of Safety Is Leaving the Company</strong>\n      <span>时间：Sat, 11 Jul 2026 01:07:26 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-head-of-safety-leaving/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI’s Head of Safety Is Leaving the Company” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Samsung may be ready to end the long wait for the Galaxy SmartTag 3</strong>\n      <span>时间：2026-07-13｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung may be ready to end the long wait for the Galaxy SmartTag 3” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. MSI Claw 8 EX AI+ Handheld Review</strong>\n      <span>时间：2026-07-13｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/gaming/articles/msi-claw-8-ex-ai-180000551.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “MSI Claw 8 EX AI+ Handheld Review” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Not Google Pixel, Not Motorola: The Most Popular Phone Behind iPhone And Samsung</strong>\n      <span>时间：2026-07-13｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/not-google-pixel-not-motorola-194700793.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Not Google Pixel, Not Motorola: The Most Popular Phone Behind iPhone And” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/13 07:38:07\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 4 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-13] “天书计划”启动首届AI育种挑战赛\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihqzxi7523224.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““天书计划”启动首届AI育种挑战赛” against primary-source evidence.\n\n2. [2026-07-13] 我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-07-13/doc-inihqzxq9197265.shtml\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？” against primary-source evidence.\n\n3. [2026-07-13] 热点回应丨三问全球首次“网抱”式火箭回收\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/13/content_546182.html\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “热点回应丨三问全球首次“网抱”式火箭回收” against primary-source evidence.\n\n4. [2026-07-13] 1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihqzxm4299472.shtml\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点” against primary-source evidence.\n\n5. [22:46] 古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列\n   来源：IT之家\n   链接：https://www.ithome.com/0/975/835.htm\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列” against primary-source evidence.\n\n本次新增线索：\n- “天书计划”启动首届AI育种挑战赛｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihqzxi7523224.shtml\n- 我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？｜新浪科技｜https://finance.sina.com.cn/roll/2026-07-13/doc-inihqzxq9197265.shtml\n- 热点回应丨三问全球首次“网抱”式火箭回收｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/13/content_546182.html\n- 1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihqzxm4299472.shtml\n- 古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列｜IT之家｜https://www.ithome.com/0/975/835.htm\n- Samsung may be ready to end the long wait for the Galaxy SmartTag 3｜Yahoo News Technology｜https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. It's an AI web, and we're just rats in the walls｜The Register｜https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. Samsung may be ready to end the long wait for the Galaxy SmartTag 3｜Yahoo News Technology｜https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html\n4. MSI Claw 8 EX AI+ Handheld Review｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/msi-claw-8-ex-ai-180000551.html\n5. Not Google Pixel, Not Motorola: The Most Popular Phone Behind iPhone And Samsung｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/not-google-pixel-not-motorola-194700793.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-13｜V3\n生成时间：2026/7/13 08:05:08\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2395｜确认今日 22｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 1 条\n延续跟踪线索：国内 16 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-13] “天书计划”启动首届AI育种挑战赛\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihqzxi7523224.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““天书计划”启动首届AI育种挑战赛” against primary-source evidence.\n\n2. [2026-07-13] 我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/roll/2026-07-13/doc-inihqzxq9197265.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？” against primary-source evidence.\n\n3. [2026-07-13] 热点回应丨三问全球首次“网抱”式火箭回收\n   科技日报｜2026-07-13｜https://www.stdaily.com/web/gdxw/2026-07/13/content_546182.html\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “热点回应丨三问全球首次“网抱”式火箭回收” against primary-source evidence.\n\n4. [2026-07-13] 调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7432390.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利” against primary-source evidence.\n\n5. [2026-07-13] 1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihqzxm4299472.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点” against primary-source evidence.\n\n本次新增线索：\n- 调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7432390.shtml\n- 芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲｜IT之家｜https://www.ithome.com/0/975/850.htm\n- 特斯拉下令冲刺年产10万台Optimus 马斯克：完不成 撤换整个采购团队｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-13/doc-inihrhfi4205605.shtml\n- 分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7422915.shtml\n- 中信建投：AI算力景气持续，模型迭代驱动推理需｜网易科技｜https://www.163.com/dy/article/L1MVTS310534A4SC.html\n- OpenAI is killing ChatGPT Atlas browser. I loved it, but it was an uphill race to the top｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-killing-chatgpt-atlas-browser-194306878.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. It's an AI web, and we're just rats in the walls｜The Register｜https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. OpenAI is killing ChatGPT Atlas browser. I loved it, but it was an uphill race to the top｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-killing-chatgpt-atlas-browser-194306878.html\n4. OpenAI bets on families as ChatGPT goes deeper into households｜TechCrunch｜https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/\n5. Samsung may be ready to end the long wait for the Galaxy SmartTag 3｜Yahoo News Technology｜https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-13｜V3\n生成时间：2026/7/13 08:05:08\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2395｜确认今日 22｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 1 条\n延续跟踪线索：国内 16 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-13] “天书计划”启动首届AI育种挑战赛\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihqzxi7523224.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““天书计划”启动首届AI育种挑战赛” against primary-source evidence.\n\n2. [2026-07-13] 我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/roll/2026-07-13/doc-inihqzxq9197265.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？” against primary-source evidence.\n\n3. [2026-07-13] 热点回应丨三问全球首次“网抱”式火箭回收\n   科技日报｜2026-07-13｜https://www.stdaily.com/web/gdxw/2026-07/13/content_546182.html\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “热点回应丨三问全球首次“网抱”式火箭回收” against primary-source evidence.\n\n4. [2026-07-13] 调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7432390.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利” against primary-source evidence.\n\n5. [2026-07-13] 1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点\n   新浪科技｜2026-07-13｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihqzxm4299472.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点” against primary-source evidence.\n\n本次新增线索：\n- 调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7432390.shtml\n- 芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲｜IT之家｜https://www.ithome.com/0/975/850.htm\n- 特斯拉下令冲刺年产10万台Optimus 马斯克：完不成 撤换整个采购团队｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-13/doc-inihrhfi4205605.shtml\n- 分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7422915.shtml\n- 中信建投：AI算力景气持续，模型迭代驱动推理需｜网易科技｜https://www.163.com/dy/article/L1MVTS310534A4SC.html\n- OpenAI is killing ChatGPT Atlas browser. I loved it, but it was an uphill race to the top｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-killing-chatgpt-atlas-browser-194306878.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. It's an AI web, and we're just rats in the walls｜The Register｜https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. OpenAI is killing ChatGPT Atlas browser. I loved it, but it was an uphill race to the top｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-killing-chatgpt-atlas-browser-194306878.html\n4. OpenAI bets on families as ChatGPT goes deeper into households｜TechCrunch｜https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/\n5. Samsung may be ready to end the long wait for the Galaxy SmartTag 3｜Yahoo News Technology｜https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-13｜生成时间：2026/7/13 08:05:08｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2395｜确认今日 22｜国际背景 8</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 1 条<br>延续跟踪线索：国内 16 条｜国际 7 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-13] “天书计划”启动首届AI育种挑战赛</strong>\n      <span>新浪科技｜2026-07-13｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihqzxi7523224.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““天书计划”启动首届AI育种挑战赛” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-13] 我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？</strong>\n      <span>新浪科技｜2026-07-13｜<a href=\"https://finance.sina.com.cn/roll/2026-07-13/doc-inihqzxq9197265.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-13] 热点回应丨三问全球首次“网抱”式火箭回收</strong>\n      <span>科技日报｜2026-07-13｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/13/content_546182.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：187｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “热点回应丨三问全球首次“网抱”式火箭回收” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-13] 调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利</strong>\n      <span>新浪科技｜2026-07-13｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7432390.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-13] 1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点</strong>\n      <span>新浪科技｜2026-07-13｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihqzxm4299472.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. It's an AI web, and we're just rats in the walls</strong>\n      <span>时间：Sun, 12 Jul 2026 09:34:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “It's an AI web, and we're just rats in the walls” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI’s Head of Safety Is Leaving the Company</strong>\n      <span>时间：Sat, 11 Jul 2026 01:07:26 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-head-of-safety-leaving/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI’s Head of Safety Is Leaving the Company” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI is killing ChatGPT Atlas browser. I loved it, but it was an uphill race to the top</strong>\n      <span>时间：2026-07-13｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/openai-killing-chatgpt-atlas-browser-194306878.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI is killing ChatGPT Atlas browser. I loved it, but it was an uphil” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI bets on families as ChatGPT goes deeper into households</strong>\n      <span>时间：Sat, 11 Jul 2026 14:13:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI bets on families as ChatGPT goes deeper into households” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Samsung may be ready to end the long wait for the Galaxy SmartTag 3</strong>\n      <span>时间：2026-07-13｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung may be ready to end the long wait for the Galaxy SmartTag 3” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/13 08:05:08\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 1 条\n延续跟踪线索：国内 16 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-13] “天书计划”启动首届AI育种挑战赛\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihqzxi7523224.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““天书计划”启动首届AI育种挑战赛” against primary-source evidence.\n\n2. [2026-07-13] 我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-07-13/doc-inihqzxq9197265.shtml\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？” against primary-source evidence.\n\n3. [2026-07-13] 热点回应丨三问全球首次“网抱”式火箭回收\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/13/content_546182.html\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “热点回应丨三问全球首次“网抱”式火箭回收” against primary-source evidence.\n\n4. [2026-07-13] 调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7432390.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利” against primary-source evidence.\n\n5. [2026-07-13] 1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihqzxm4299472.shtml\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点” against primary-source evidence.\n\n本次新增线索：\n- 调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7432390.shtml\n- 芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲｜IT之家｜https://www.ithome.com/0/975/850.htm\n- 特斯拉下令冲刺年产10万台Optimus 马斯克：完不成 撤换整个采购团队｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-13/doc-inihrhfi4205605.shtml\n- 分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrhff7422915.shtml\n- 中信建投：AI算力景气持续，模型迭代驱动推理需｜网易科技｜https://www.163.com/dy/article/L1MVTS310534A4SC.html\n- OpenAI is killing ChatGPT Atlas browser. I loved it, but it was an uphill race to the top｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-killing-chatgpt-atlas-browser-194306878.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. It's an AI web, and we're just rats in the walls｜The Register｜https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\n2. OpenAI’s Head of Safety Is Leaving the Company｜WIRED Business｜https://www.wired.com/story/openai-head-of-safety-leaving/\n3. OpenAI is killing ChatGPT Atlas browser. I loved it, but it was an uphill race to the top｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-killing-chatgpt-atlas-browser-194306878.html\n4. OpenAI bets on families as ChatGPT goes deeper into households｜TechCrunch｜https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/\n5. Samsung may be ready to end the long wait for the Galaxy SmartTag 3｜Yahoo News Technology｜https://tech.yahoo.com/home/articles/samsung-may-ready-end-long-195438762.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
