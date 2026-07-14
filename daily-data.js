@@ -1,38 +1,34 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-14T00:01:08.646Z",
+  "generatedAt": "2026-07-14T00:10:32.856Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-14",
   "changeSummary": {
-    "domesticNew": 3,
-    "globalNew": 0,
-    "domesticContinued": 16,
+    "domesticNew": 1,
+    "globalNew": 1,
+    "domesticContinued": 19,
     "globalContinued": 16,
     "topNewDomestic": [
       {
-        "title": "OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml"
-      },
-      {
-        "title": "CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器",
+        "title": "突破显微镜极限：科学家改造百年前成像技术，激光让“看不见”的蛋白结构变可见",
         "source": "IT之家",
-        "url": "https://www.ithome.com/0/976/263.htm"
-      },
-      {
-        "title": "比亚迪泰国交付第13万辆车 车主是《给阿嬷的情书》主演",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtmei4129537.shtml"
+        "url": "https://www.ithome.com/0/976/270.htm"
       }
     ],
-    "topNewGlobal": [],
+    "topNewGlobal": [
+      {
+        "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html"
+      }
+    ],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 881,
-    "globalRejected": 884,
+    "domesticRejected": 880,
+    "globalRejected": 883,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -46,8 +42,13 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 30,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -70,6 +71,11 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "failures": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -145,7 +151,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -346,9 +353,9 @@ window.CHENCHEN_DAILY_DATA = {
   "itemsAfterEnrich": 900,
   "itemsAfterRelevantFilter": 341,
   "itemsAfterDedupe": 255,
-  "todayItemsSeen": 19,
+  "todayItemsSeen": 20,
   "suspectedItemsSeen": 24,
-  "skippedNonToday": 209,
+  "skippedNonToday": 208,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -403,7 +410,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -754,6 +762,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -795,8 +808,23 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1208,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 110,
+  "globalItemsAfterRelevantFilter": 109,
   "topics": [
+    {
+      "topic": "科学前沿动态",
+      "count": 3,
+      "sourceCount": 3,
+      "sources": [
+        "IT之家",
+        "科技日报",
+        "新浪科技"
+      ],
+      "items": [
+        "突破显微镜极限：科学家改造百年前成像技术，激光让“看不见”的蛋白结构变可见",
+        "“祖国利益高于一切”——记我国计算力学开拓者钱令希",
+        "超28%！钙钛矿-有机叠层太阳能电池效率破纪录"
+      ]
+    },
     {
       "topic": "AI 应用与智能体",
       "count": 5,
@@ -808,8 +836,8 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "AI时代需要什么样的人：从DeepSeek招聘清单说起",
         "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-        "OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员",
         "OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见",
+        "OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员",
         "智能体互联网要来了！四部门：面向智能体与智能体等典型场景探索构建智能体互联网络基础设施"
       ]
     },
@@ -833,26 +861,13 @@ window.CHENCHEN_DAILY_DATA = {
       "count": 3,
       "sourceCount": 2,
       "sources": [
-        "新浪科技",
-        "IT之家"
-      ],
-      "items": [
-        "比亚迪泰国交付第13万辆车 车主是《给阿嬷的情书》主演",
-        "IT早报 0714：特斯拉单车利润暴跌 40%；比亚迪官宣秦 MAX B 级闪充轿车；蔚来李斌回应友商智驾兜底；海南成中国首个确认禁售燃油车省份",
-        "7月14日热门中概股多数下跌 蔚来涨3.14%，台积电跌2.88%"
-      ]
-    },
-    {
-      "topic": "科学前沿动态",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "科技日报",
+        "IT之家",
         "新浪科技"
       ],
       "items": [
-        "“祖国利益高于一切”——记我国计算力学开拓者钱令希",
-        "超28%！钙钛矿-有机叠层太阳能电池效率破纪录"
+        "IT早报 0714：特斯拉单车利润暴跌 40%；比亚迪官宣秦 MAX B 级闪充轿车；蔚来李斌回应友商智驾兜底；海南成中国首个确认禁售燃油车省份",
+        "比亚迪泰国交付第13万辆车 车主是《给阿嬷的情书》主演",
+        "7月14日热门中概股多数下跌 蔚来涨3.14%，台积电跌2.88%"
       ]
     },
     {
@@ -1118,142 +1133,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员",
-      "summary": "IT之家 7 月 14 日消息，据《商业内幕》13 日报道，OpenAI 安全系统团队负责人约翰内斯 · 海德克即将离职。近年来，OpenAI 安全与对齐团队已有多名员工离开。OpenAI 首席研究官陈信翰告诉《商业内幕》：“我们感谢约翰内...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml"
-      ],
-      "publishedAt": "2026-07-14",
-      "date": "2026-07-14",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "IT之家 7 月 14 日消息，据《商业内幕》13 日报道，OpenAI 安全系统团队负责人约翰内斯 · 海德克即将离职。近年来，OpenAI 安全与对齐团队已有多名员工离开。OpenAI 首席研究官陈信翰告诉《商业内幕》：“我们感谢约翰内...",
-      "relatedTitles": [
-        "OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器",
-      "summary": "网络安全公司 Jamf Threat Labs 最新报告披露 CrashStealer 漏洞，影响约 80 个加密货币钱包扩展和 14 款密码管理器。苹果在收到 Jamf 通报后，已撤销相关恶意应用签名凭证。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/976/263.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/976/263.htm"
-      ],
-      "publishedAt": "Mon, 13 Jul 2026 23:41:35 GMT",
-      "date": "2026-07-14",
-      "category": "监管与安全",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "technology policy, AI governance, safety and standards",
-      "priority": 5,
-      "score": 161,
-      "reporterScore": 169,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 12,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "live",
-      "angle": "Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "监管与安全动态",
-      "rawText": "网络安全公司 Jamf Threat Labs 最新报告披露 CrashStealer 漏洞，影响约 80 个加密货币钱包扩展和 14 款密码管理器。苹果在收到 Jamf 通报后，已撤销相关恶意应用签名凭证。",
-      "relatedTitles": [
-        "CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见",
       "summary": "IT之家 7 月 14 日消息，OpenAI 多名员工公开声援 CEO 萨姆 · 奥尔特曼，称奥尔特曼并非排斥批评，反而非常愿意听取不同意见。OpenAI 后训练前沿团队联席负责人埃里克 · 米切尔写道，自己曾多次当面反驳萨姆、纠正他的说法...",
       "source": "新浪科技",
@@ -1322,44 +1201,44 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "比亚迪泰国交付第13万辆车 车主是《给阿嬷的情书》主演",
-      "summary": "快科技7月14日消息，比亚迪7月12日在泰国举办线下活动，迎来当地市场第13万台新能源车交付。这款里程碑车型是BYD SEALION 5 DM-i（国内对应车型是海狮05 DM-i），车主正是热映影片《给阿嬷的情书》里老年谢南枝的扮演者乌萨...",
+      "title": "OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员",
+      "summary": "IT之家 7 月 14 日消息，据《商业内幕》13 日报道，OpenAI 安全系统团队负责人约翰内斯 · 海德克即将离职。近年来，OpenAI 安全与对齐团队已有多名员工离开。OpenAI 首席研究官陈信翰告诉《商业内幕》：“我们感谢约翰内...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtmei4129537.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtmei4129537.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml"
       ],
       "publishedAt": "2026-07-14",
       "date": "2026-07-14",
-      "category": "新能源车",
-      "classificationConfidence": 0.88,
+      "category": "AI",
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 157,
-      "reporterScore": 157,
+      "score": 163,
+      "reporterScore": 171,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
         "visual": 0,
         "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -1368,23 +1247,159 @@ window.CHENCHEN_DAILY_DATA = {
         "primary": false,
         "visual": false,
         "international": false,
-        "interview": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "IT之家 7 月 14 日消息，据《商业内幕》13 日报道，OpenAI 安全系统团队负责人约翰内斯 · 海德克即将离职。近年来，OpenAI 安全与对齐团队已有多名员工离开。OpenAI 首席研究官陈信翰告诉《商业内幕》：“我们感谢约翰内...",
+      "relatedTitles": [
+        "OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器",
+      "summary": "网络安全公司 Jamf Threat Labs 最新报告披露 CrashStealer 漏洞，影响约 80 个加密货币钱包扩展和 14 款密码管理器。苹果在收到 Jamf 通报后，已撤销相关恶意应用签名凭证。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/976/263.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/976/263.htm"
+      ],
+      "publishedAt": "Mon, 13 Jul 2026 23:41:35 GMT",
+      "date": "2026-07-14",
+      "category": "监管与安全",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "technology policy, AI governance, safety and standards",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 169,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 12,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 85,
-        "reporterScore": 100
+        "reporterScore": 110
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
+      "hasInterviewValue": true,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪泰国交付第13万辆车 车主是《给阿嬷的情书》主演” against primary-source evidence.",
+      "format": "live",
+      "angle": "Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "快科技7月14日消息，比亚迪7月12日在泰国举办线下活动，迎来当地市场第13万台新能源车交付。这款里程碑车型是BYD SEALION 5 DM-i（国内对应车型是海狮05 DM-i），车主正是热映影片《给阿嬷的情书》里老年谢南枝的扮演者乌萨...",
+      "matchedTopic": "监管与安全动态",
+      "rawText": "网络安全公司 Jamf Threat Labs 最新报告披露 CrashStealer 漏洞，影响约 80 个加密货币钱包扩展和 14 款密码管理器。苹果在收到 Jamf 通报后，已撤销相关恶意应用签名凭证。",
       "relatedTitles": [
-        "比亚迪泰国交付第13万辆车 车主是《给阿嬷的情书》主演"
+        "CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "突破显微镜极限：科学家改造百年前成像技术，激光让“看不见”的蛋白结构变可见",
+      "summary": "加州大学伯克利分校团队基于近百年前提出的相差成像原理，开发出激光相位板技术，显著提升了冷冻电子显微镜的图像对比度。该技术有望帮助科学家观察过去难以分辨的、尺寸更小的蛋白质结构，将可观测范围从约 70 千道尔顿推进至约 50 千道尔顿，未来目标是观测到 17 千道尔顿的肌红蛋白。#科技前沿# #生物成像#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/976/270.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/976/270.htm"
+      ],
+      "publishedAt": "Tue, 14 Jul 2026 00:10:05 GMT",
+      "date": "2026-07-14",
+      "category": "科学前沿",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 149,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “突破显微镜极限：科学家改造百年前成像技术，激光让“看不见”的蛋白结构变可见” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "加州大学伯克利分校团队基于近百年前提出的相差成像原理，开发出激光相位板技术，显著提升了冷冻电子显微镜的图像对比度。该技术有望帮助科学家观察过去难以分辨的、尺寸更小的蛋白质结构，将可观测范围从约 70 千道尔顿推进至约 50 千道尔顿，未来目标是观测到 17 千道尔顿的肌红蛋白。#科技前沿# #生物成像#",
+      "relatedTitles": [
+        "突破显微镜极限：科学家改造百年前成像技术，激光让“看不见”的蛋白结构变可见"
       ],
       "isNewSinceLastRun": true
     },
@@ -2001,6 +2016,74 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "比亚迪泰国交付第13万辆车 车主是《给阿嬷的情书》主演",
+      "summary": "快科技7月14日消息，比亚迪7月12日在泰国举办线下活动，迎来当地市场第13万台新能源车交付。这款里程碑车型是BYD SEALION 5 DM-i（国内对应车型是海狮05 DM-i），车主正是热映影片《给阿嬷的情书》里老年谢南枝的扮演者乌萨...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtmei4129537.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtmei4129537.shtml"
+      ],
+      "publishedAt": "2026-07-14",
+      "date": "2026-07-14",
+      "category": "新能源车",
+      "classificationConfidence": 0.88,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 157,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “比亚迪泰国交付第13万辆车 车主是《给阿嬷的情书》主演” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "快科技7月14日消息，比亚迪7月12日在泰国举办线下活动，迎来当地市场第13万台新能源车交付。这款里程碑车型是BYD SEALION 5 DM-i（国内对应车型是海狮05 DM-i），车主正是热映影片《给阿嬷的情书》里老年谢南枝的扮演者乌萨...",
+      "relatedTitles": [
+        "比亚迪泰国交付第13万辆车 车主是《给阿嬷的情书》主演"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "诺奖得主、经济学家等 200 余名专家联合呼吁：必须引导 AI 的发展利于人类",
       "summary": "联署者认为，AI 未来十年可能变得“强大得多”，必须引导 AI 朝着有利于人类的方向发展。",
@@ -2276,7 +2359,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "赛力斯，穿透财报招股书",
-      "summary": "赛力斯，穿透财报招股书 问界母公司突发亏损预警！一季度还在盈利 原材料涨价不是唯一原因 杰西卡 43分钟前 赛力斯，穿透财报招股书 车圈最新认知 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿",
+      "summary": "赛力斯，穿透财报招股书 问界母公司突发亏损预警！一季度还在盈利 原材料涨价不是唯一原因 杰西卡 6分钟前 赛力斯，穿透财报招股书 车圈最新认知 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2335,7 +2418,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “赛力斯，穿透财报招股书” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "赛力斯，穿透财报招股书 问界母公司突发亏损预警！一季度还在盈利 原材料涨价不是唯一原因 杰西卡 43分钟前 赛力斯，穿透财报招股书 车圈最新认知 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
+      "rawText": "赛力斯，穿透财报招股书 问界母公司突发亏损预警！一季度还在盈利 原材料涨价不是唯一原因 杰西卡 6分钟前 赛力斯，穿透财报招股书 车圈最新认知 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
       "relatedTitles": [
         "赛力斯，穿透财报招股书"
       ]
@@ -2343,7 +2426,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本",
-      "summary": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题 从人类认知范式，构建Physical AGI 邓思邈 10分钟前 Physical AGI 一念Unisonmind 具身智能 大脑 清华大学 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这",
+      "summary": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题 从人类认知范式，构建Physical AGI 邓思邈 2分钟前 Physical AGI 一念Unisonmind 具身智能 大脑 清华大学 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2403,7 +2486,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题 从人类认知范式，构建Physical AGI 邓思邈 10分钟前 Physical AGI 一念Unisonmind 具身智能 大脑 清华大学 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
+      "rawText": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题 从人类认知范式，构建Physical AGI 邓思邈 2分钟前 Physical AGI 一念Unisonmind 具身智能 大脑 清华大学 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
       "relatedTitles": [
         "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本",
         "一念Unisonmind 机器狗指挥人类用天平称重！清华现场演示：无脚本"
@@ -2412,7 +2495,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "曙光8000",
-      "summary": "曙光8000 中国首个十万卡集群落成！全国产算力支撑“十万卡时代” 已跑通300余项应用 邓思邈 2分钟前 中科曙光 曙光8000 超智融合 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱 在联合国，这家中国公司给AI“减负”：不",
+      "summary": "曙光8000 中国首个十万卡集群落成！全国产算力支撑“十万卡时代” 已跑通300余项应用 邓思邈 4分钟前 中科曙光 曙光8000 超智融合 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱 在联合国，这家中国公司给AI“减负”：不",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2471,7 +2554,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “曙光8000” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI动态",
-      "rawText": "曙光8000 中国首个十万卡集群落成！全国产算力支撑“十万卡时代” 已跑通300余项应用 邓思邈 2分钟前 中科曙光 曙光8000 超智融合 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，LeCun团队让世界模型学会持续学习！",
+      "rawText": "曙光8000 中国首个十万卡集群落成！全国产算力支撑“十万卡时代” 已跑通300余项应用 邓思邈 4分钟前 中科曙光 曙光8000 超智融合 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，LeCun团队让世界模型学会持续学习！",
       "relatedTitles": [
         "曙光8000"
       ]
@@ -2479,7 +2562,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布",
-      "summary": "AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布，能同时预测抗原抗体复合物结构和抗体从头设计 给定抗原结构和特定表位就能生成全新抗体分子 西风 2024-06-07 AlphaFold3 分子预测 抗体设计 热门文章 陶哲轩12年前的预言，现在AI帮他兑现了 撸猫撸出SOTA！3个00",
+      "summary": "AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布，能同时预测抗原抗体复合物结构和抗体从头设计 给定抗原结构和特定表位就能生成全新抗体分子 西风 2024-06-07 AlphaFold3 分子预测 抗体设计 热门文章 星海图创始人高继扬：具身智能三层技术路线，没有捷径可走 为什么最有价",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2535,10 +2618,10 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": true,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布，能同时预测抗原抗体复合物结构和抗体从头设计 给定抗原结构和特定表位就能生成全新抗体分子 西风 2024-06-07 AlphaFold3 分子预测 抗体设计 热门文章 陶哲轩12年前的预言，现在AI帮他兑现了 撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型 英伟达开始搞机器人自己研究机器人那套了… 具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角 2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+      "rawText": "AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布，能同时预测抗原抗体复合物结构和抗体从头设计 给定抗原结构和特定表位就能生成全新抗体分子 西风 2024-06-07 AlphaFold3 分子预测 抗体设计 热门文章 星海图创始人高继扬：具身智能三层技术路线，没有捷径可走 为什么最有价值的AI讨论总发生在知乎？ 香港特区政府财政司司长陈茂波一行到访 PPIO 刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！ GPT发AI原创新成果了",
       "relatedTitles": [
         "AlphaFold3 与AlphaFold3持平！国产抗体设计生成式AI大模型发布"
       ]
@@ -2880,8 +2963,8 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "高市早苗的芯片迷梦",
-      "summary": "高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰，以台积电熊本工厂为锚点——正在从多个维度遭遇严峻挑战。这位日本首位女首相的芯片野心，很可能正在走向一场代价高昂的落空。",
+      "title": "高市早苗的芯片迷梦 高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰",
+      "summary": "高市早苗的芯片迷梦 高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰，以台积电熊本工厂为锚点——正在从多个维度遭遇严峻挑战。这位日本首位女首相的芯片野心，很可能正在走向一场代价高昂的落空。 评论 13",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2937,12 +3020,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": true,
       "hasInternationalValue": false,
       "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “高市早苗的芯片迷梦” against primary-source evidence.",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “高市早苗的芯片迷梦 高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "半导体供应链",
-      "rawText": "高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰，以台积电熊本工厂为锚点——正在从多个维度遭遇严峻挑战。这位日本首位女首相的芯片野心，很可能正在走向一场代价高昂的落空。",
+      "rawText": "高市早苗的芯片迷梦 高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰，以台积电熊本工厂为锚点——正在从多个维度遭遇严峻挑战。这位日本首位女首相的芯片野心，很可能正在走向一场代价高昂的落空。 评论 13",
       "relatedTitles": [
-        "高市早苗的芯片迷梦"
+        "高市早苗的芯片迷梦 高市早苗所描绘的“日本半导体大复兴”——以Rapidus的2纳米国产芯片为旗舰"
       ]
     },
     {
@@ -3077,6 +3160,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "长征十号乙运载火箭腾空而起，六分钟后完成一二级分离。一子级没有像过去几十年中国火箭那样坠入预定海域，也没有像美国SpaceX的猎鹰9号那样张开四条着陆腿稳稳站上驳船，更没有像Starship那样被两只巨大的机械臂“夹”住。过去十多年，只要谈到可重复使用火箭，全球几乎默认只有美国定义的两条路线一种是SpaceX猎鹰9号的着陆腿垂直回收，一种是Starship正在验证的机械臂捕获",
       "relatedTitles": [
         "中国可重复火箭，没有照着美国的答案抄"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "车圈最新认知",
+      "summary": "车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 4小时前 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 理想智驾一号位创业，落户北京亦庄了 10天跻身具身独角兽 杰西卡 前天 21:20 具身智能 理想汽车 车圈最新认知 A股账户可以买Robotaxi了 Robo",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/%e8%bd%a6%e5%9c%88%e6%9c%80%e6%96%b0%e8%ae%a4%e7%9f%a5",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/%e8%bd%a6%e5%9c%88%e6%9c%80%e6%96%b0%e8%ae%a4%e7%9f%a5"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "新能源车",
+      "classificationConfidence": 0.95,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 153,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 103
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “车圈最新认知” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 4小时前 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 理想智驾一号位创业，落户北京亦庄了 10天跻身具身独角兽 杰西卡 前天 21:20 具身智能 理想汽车 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “豆包汽车”，目标市场10万-20万 国资入主，赛力斯让权 杰西卡 2026-06-02 火山引擎 赛力斯 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 2026-05-25 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 39万！雷军发布小米最贵SUV 特斯拉前厂长宋钢加盟后首秀 杰西卡 2026-05-22 小米YU7 GT 小米汽车 车圈最新认知 百度无人车",
+      "relatedTitles": [
+        "车圈最新认知"
       ]
     },
     {
@@ -3415,73 +3565,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "车圈最新认知",
-      "summary": "车圈最新认知 我宣布这是中国最神奇的造车新势力 仅靠一款车5年不倒 杰西卡 2026-07-07 极石汽车 车圈最新认知 蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己” 创业30年，6次低谷 杰西卡 2026-07-03 李斌 蔚来 车圈最新认知 一个广告营销老炮，率先冲刺A股无人驾驶第一股 最",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/%e8%bd%a6%e5%9c%88%e6%9c%80%e6%96%b0%e8%ae%a4%e7%9f%a5",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/%e8%bd%a6%e5%9c%88%e6%9c%80%e6%96%b0%e8%ae%a4%e7%9f%a5"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "新能源车",
-      "classificationConfidence": 0.82,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 4,
-      "score": 131,
-      "reporterScore": 137,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 93
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “车圈最新认知” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "车圈最新认知 我宣布这是中国最神奇的造车新势力 仅靠一款车5年不倒 杰西卡 2026-07-07 极石汽车 车圈最新认知 蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己” 创业30年，6次低谷 杰西卡 2026-07-03 李斌 蔚来 车圈最新认知 一个广告营销老炮，率先冲刺A股无人驾驶第一股 最大客户赛力斯，一单贡献全年三成收入 杰西卡 2026-07-02 无人车往哪里开？ 穿透财报招股书 车圈最新认知 物理AI第一块万亿市场，在公路货运先跑通闭环了 申通安能用真金白银下单 杰西卡 2026-06-24 DeepWay深向 无人车往哪里开？ 车圈最新认知 千里收购了一家毫米波雷达公司 布局全栈闭环 杰西卡 2026-06-12 千里科技 车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 2026-06-10 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 理想智驾一号位创业，落户北京亦庄了 10天跻身具身独角兽 杰西卡 2026-06-09 具身智能 理想汽车 车圈最新认知 A股账户可以买Robotaxi了",
-      "relatedTitles": [
-        "车圈最新认知"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "一台晚会能办成什么样，取决于机器人",
       "summary": "机器人走出实验室的前夜，黎明的曙光已经依稀可见。现在的问题不再是“能不能”，而是“怎么做”和“多快”。",
@@ -3549,43 +3632,43 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "“985”博导不如初中辍学的张雪？",
-      "summary": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻",
-      "source": "观察者网-产业科技",
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "英伟达黄仁勋",
+      "summary": "英伟达黄仁勋 黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了 还领取了2026年IEEE荣誉奖章 西风 2026-01-08 CES 2026 英伟达黄仁勋 热门文章 腾讯想让企业打开AI的方式只剩一个 Hinton吹哨了：AI已经有意识！ 马斯克是SpaceX面子，她才是里子 今年CVPR看点是广",
+      "source": "量子位",
       "sources": [
-        "观察者网-产业科技"
+        "量子位"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/politics/2026_04_14_813533.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%bb%84%e4%bb%81%e5%8b%8b",
       "sourceUrls": [
-        "https://www.guancha.cn/politics/2026_04_14_813533.shtml"
+        "https://www.qbitai.com/tag/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%bb%84%e4%bb%81%e5%8b%8b"
       ],
       "publishedAt": "",
       "date": "",
-      "category": "科学前沿",
-      "classificationConfidence": 0.82,
+      "category": "芯片",
+      "classificationConfidence": 0.94,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 4,
-      "score": 129,
-      "reporterScore": 129,
+      "score": 133,
+      "reporterScore": 133,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": -10,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 12,
         "visual": 0,
         "international": 0,
         "policy": 0,
-        "sourceWeight": 8,
+        "sourceWeight": 6,
         "primarySource": 0,
         "interviewValue": 0,
         "marketingPenalty": 0,
@@ -3599,20 +3682,20 @@ window.CHENCHEN_DAILY_DATA = {
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
+        "hardTechWeight": 95,
+        "reporterScore": 95
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind ““985”博导不如初中辍学的张雪？” against primary-source evidence.",
+      "format": "graphic",
+      "angle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达黄仁勋” against primary-source evidence.",
       "status": "suspected_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻视基础研究，甚至矮化科研工作者的态度却不可取。 需要厘清的是，博导与张雪并非处于对立面，而是站在创新链条的不同位置。高校是基础研究的主阵地，很多博导主要从事原理性研究，他们处于创新链前端，要解决的是“从0到1”的问题。张雪则在创新链后端，主要实现工程化落地，要解决的是“从10到100”的问题。二者角色、职责不同，不能用“造机子”的尺子去衡量做基础研究的学者。我们理当为张雪的成功喝彩，但不能因此否定博导们研究的科学价值和学术意义。 基础研究很多时候看似“无用”，但今天的“无用”或许就是明天的“大用”。基础研究所激发的原始创新往往具有奠基性、颠覆性和引领性，是新技术、新发明的先导。评判基础研究的价值不在一时，而在长远。从半导体、计算机到激光技术，我们今天日常生活中广泛使用的很",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "英伟达黄仁勋 黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了 还领取了2026年IEEE荣誉奖章 西风 2026-01-08 CES 2026 英伟达黄仁勋 热门文章 腾讯想让企业打开AI的方式只剩一个 Hinton吹哨了：AI已经有意识！ 马斯克是SpaceX面子，她才是里子 今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断 大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
       "relatedTitles": [
-        "“985”博导不如初中辍学的张雪？"
+        "英伟达黄仁勋"
       ]
     },
     {
@@ -3881,6 +3964,38 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+      "summary": "Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+      "publishedAt": "Mon, 13 Jul 2026 15:56:52 GMT",
+      "date": "2026-07-12",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4331,8 +4446,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-14｜V3\n生成时间：2026/7/14 08:01:08\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2532｜确认今日 19｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 16 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-14] AI时代需要什么样的人：从DeepSeek招聘清单说起\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmei4121008.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI时代需要什么样的人：从DeepSeek招聘清单说起” against primary-source evidence.\n\n2. [2026-07-14] 智能基础设施时代：重塑全球竞争力的新底座\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtewq8633732.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “智能基础设施时代：重塑全球竞争力的新底座” against primary-source evidence.\n\n3. [2026-07-14] 当AI穿上白大褂：谁来唤醒沉睡的医疗数据？\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmen8601433.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “当AI穿上白大褂：谁来唤醒沉睡的医疗数据？” against primary-source evidence.\n\n4. [2026-07-14] OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员” against primary-source evidence.\n\n5. [23:41] CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器\n   IT之家｜2026-07-14｜https://www.ithome.com/0/976/263.htm\n   报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml\n- CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器｜IT之家｜https://www.ithome.com/0/976/263.htm\n- 比亚迪泰国交付第13万辆车 车主是《给阿嬷的情书》主演｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtmei4129537.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-targets-july-16-starship-160004211.html\n2. It's an AI web, and we're just rats in the walls｜The Register｜https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\n3. SpaceX cleared to fly Starship again after booster failure in May｜TechCrunch｜https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/\n4. What Anthropic’s latest AI discovery does—and doesn’t—show｜MIT Technology Review｜https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/\n5. Should AI help you get away with killing your spouse?｜TechCrunch｜https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-14｜V3\n生成时间：2026/7/14 08:01:08\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2532｜确认今日 19｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 16 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-14] AI时代需要什么样的人：从DeepSeek招聘清单说起\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmei4121008.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI时代需要什么样的人：从DeepSeek招聘清单说起” against primary-source evidence.\n\n2. [2026-07-14] 智能基础设施时代：重塑全球竞争力的新底座\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtewq8633732.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “智能基础设施时代：重塑全球竞争力的新底座” against primary-source evidence.\n\n3. [2026-07-14] 当AI穿上白大褂：谁来唤醒沉睡的医疗数据？\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmen8601433.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “当AI穿上白大褂：谁来唤醒沉睡的医疗数据？” against primary-source evidence.\n\n4. [2026-07-14] OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员” against primary-source evidence.\n\n5. [23:41] CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器\n   IT之家｜2026-07-14｜https://www.ithome.com/0/976/263.htm\n   报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml\n- CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器｜IT之家｜https://www.ithome.com/0/976/263.htm\n- 比亚迪泰国交付第13万辆车 车主是《给阿嬷的情书》主演｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtmei4129537.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-targets-july-16-starship-160004211.html\n2. It's an AI web, and we're just rats in the walls｜The Register｜https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\n3. SpaceX cleared to fly Starship again after booster failure in May｜TechCrunch｜https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/\n4. What Anthropic’s latest AI discovery does—and doesn’t—show｜MIT Technology Review｜https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/\n5. Should AI help you get away with killing your spouse?｜TechCrunch｜https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-14｜生成时间：2026/7/14 08:01:08｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2532｜确认今日 19｜国际背景 16</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 16 条｜国际 16 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-14] AI时代需要什么样的人：从DeepSeek招聘清单说起</strong>\n      <span>新浪科技｜2026-07-14｜<a href=\"https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmei4121008.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI时代需要什么样的人：从DeepSeek招聘清单说起” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-14] 智能基础设施时代：重塑全球竞争力的新底座</strong>\n      <span>新浪科技｜2026-07-14｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtewq8633732.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “智能基础设施时代：重塑全球竞争力的新底座” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-14] 当AI穿上白大褂：谁来唤醒沉睡的医疗数据？</strong>\n      <span>新浪科技｜2026-07-14｜<a href=\"https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmen8601433.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “当AI穿上白大褂：谁来唤醒沉睡的医疗数据？” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-14] OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员</strong>\n      <span>新浪科技｜2026-07-14｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [23:41] CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器</strong>\n      <span>IT之家｜2026-07-14｜<a href=\"https://www.ithome.com/0/976/263.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：169｜需核验来源</span>\n      <p>报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch</strong>\n      <span>时间：2026-07-14｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/spacex-targets-july-16-starship-160004211.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX targets July 16 for Starship Flight 13, reveals what went wrong o” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. It's an AI web, and we're just rats in the walls</strong>\n      <span>时间：Sun, 12 Jul 2026 09:34:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “It's an AI web, and we're just rats in the walls” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. SpaceX cleared to fly Starship again after booster failure in May</strong>\n      <span>时间：Mon, 13 Jul 2026 14:19:44 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX cleared to fly Starship again after booster failure in May” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. What Anthropic’s latest AI discovery does—and doesn’t—show</strong>\n      <span>时间：Mon, 13 Jul 2026 18:00:00 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “What Anthropic’s latest AI discovery does—and doesn’t—show” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Should AI help you get away with killing your spouse?</strong>\n      <span>时间：Mon, 13 Jul 2026 16:31:23 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Should AI help you get away with killing your spouse?” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/14 08:01:08\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 16 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-14] AI时代需要什么样的人：从DeepSeek招聘清单说起\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmei4121008.shtml\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI时代需要什么样的人：从DeepSeek招聘清单说起” against primary-source evidence.\n\n2. [2026-07-14] 智能基础设施时代：重塑全球竞争力的新底座\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtewq8633732.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “智能基础设施时代：重塑全球竞争力的新底座” against primary-source evidence.\n\n3. [2026-07-14] 当AI穿上白大褂：谁来唤醒沉睡的医疗数据？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmen8601433.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “当AI穿上白大褂：谁来唤醒沉睡的医疗数据？” against primary-source evidence.\n\n4. [2026-07-14] OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员” against primary-source evidence.\n\n5. [23:41] CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器\n   来源：IT之家\n   链接：https://www.ithome.com/0/976/263.htm\n   角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml\n- CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器｜IT之家｜https://www.ithome.com/0/976/263.htm\n- 比亚迪泰国交付第13万辆车 车主是《给阿嬷的情书》主演｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtmei4129537.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n国际科技背景：\n1. SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-targets-july-16-starship-160004211.html\n2. It's an AI web, and we're just rats in the walls｜The Register｜https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\n3. SpaceX cleared to fly Starship again after booster failure in May｜TechCrunch｜https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/\n4. What Anthropic’s latest AI discovery does—and doesn’t—show｜MIT Technology Review｜https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/\n5. Should AI help you get away with killing your spouse?｜TechCrunch｜https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-14｜V3\n生成时间：2026/7/14 08:10:32\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2532｜确认今日 20｜国际背景 17\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 19 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-14] AI时代需要什么样的人：从DeepSeek招聘清单说起\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmei4121008.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI时代需要什么样的人：从DeepSeek招聘清单说起” against primary-source evidence.\n\n2. [2026-07-14] 智能基础设施时代：重塑全球竞争力的新底座\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtewq8633732.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “智能基础设施时代：重塑全球竞争力的新底座” against primary-source evidence.\n\n3. [2026-07-14] 当AI穿上白大褂：谁来唤醒沉睡的医疗数据？\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmen8601433.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “当AI穿上白大褂：谁来唤醒沉睡的医疗数据？” against primary-source evidence.\n\n4. [2026-07-14] OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmen8595348.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见” against primary-source evidence.\n\n5. [2026-07-14] OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员” against primary-source evidence.\n\n本次新增线索：\n- 突破显微镜极限：科学家改造百年前成像技术，激光让“看不见”的蛋白结构变可见｜IT之家｜https://www.ithome.com/0/976/270.htm\n- Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit｜CNBC Technology｜https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，3 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-targets-july-16-starship-160004211.html\n2. It's an AI web, and we're just rats in the walls｜The Register｜https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\n3. Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit｜CNBC Technology｜https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html\n4. SpaceX cleared to fly Starship again after booster failure in May｜TechCrunch｜https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/\n5. What Anthropic’s latest AI discovery does—and doesn’t—show｜MIT Technology Review｜https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-14｜V3\n生成时间：2026/7/14 08:10:32\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2532｜确认今日 20｜国际背景 17\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 19 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-14] AI时代需要什么样的人：从DeepSeek招聘清单说起\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmei4121008.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI时代需要什么样的人：从DeepSeek招聘清单说起” against primary-source evidence.\n\n2. [2026-07-14] 智能基础设施时代：重塑全球竞争力的新底座\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtewq8633732.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “智能基础设施时代：重塑全球竞争力的新底座” against primary-source evidence.\n\n3. [2026-07-14] 当AI穿上白大褂：谁来唤醒沉睡的医疗数据？\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmen8601433.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “当AI穿上白大褂：谁来唤醒沉睡的医疗数据？” against primary-source evidence.\n\n4. [2026-07-14] OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmen8595348.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见” against primary-source evidence.\n\n5. [2026-07-14] OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员\n   新浪科技｜2026-07-14｜https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员” against primary-source evidence.\n\n本次新增线索：\n- 突破显微镜极限：科学家改造百年前成像技术，激光让“看不见”的蛋白结构变可见｜IT之家｜https://www.ithome.com/0/976/270.htm\n- Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit｜CNBC Technology｜https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，3 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-targets-july-16-starship-160004211.html\n2. It's an AI web, and we're just rats in the walls｜The Register｜https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\n3. Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit｜CNBC Technology｜https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html\n4. SpaceX cleared to fly Starship again after booster failure in May｜TechCrunch｜https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/\n5. What Anthropic’s latest AI discovery does—and doesn’t—show｜MIT Technology Review｜https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-14｜生成时间：2026/7/14 08:10:32｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2532｜确认今日 20｜国际背景 17</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 1 条<br>延续跟踪线索：国内 19 条｜国际 16 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-14] AI时代需要什么样的人：从DeepSeek招聘清单说起</strong>\n      <span>新浪科技｜2026-07-14｜<a href=\"https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmei4121008.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI时代需要什么样的人：从DeepSeek招聘清单说起” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-14] 智能基础设施时代：重塑全球竞争力的新底座</strong>\n      <span>新浪科技｜2026-07-14｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtewq8633732.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “智能基础设施时代：重塑全球竞争力的新底座” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-14] 当AI穿上白大褂：谁来唤醒沉睡的医疗数据？</strong>\n      <span>新浪科技｜2026-07-14｜<a href=\"https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmen8601433.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “当AI穿上白大褂：谁来唤醒沉睡的医疗数据？” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-14] OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见</strong>\n      <span>新浪科技｜2026-07-14｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmen8595348.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-14] OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员</strong>\n      <span>新浪科技｜2026-07-14｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch</strong>\n      <span>时间：2026-07-14｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/spacex-targets-july-16-starship-160004211.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX targets July 16 for Starship Flight 13, reveals what went wrong o” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. It's an AI web, and we're just rats in the walls</strong>\n      <span>时间：Sun, 12 Jul 2026 09:34:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “It's an AI web, and we're just rats in the walls” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit</strong>\n      <span>时间：Mon, 13 Jul 2026 15:56:52 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. SpaceX cleared to fly Starship again after booster failure in May</strong>\n      <span>时间：Mon, 13 Jul 2026 14:19:44 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX cleared to fly Starship again after booster failure in May” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. What Anthropic’s latest AI discovery does—and doesn’t—show</strong>\n      <span>时间：Mon, 13 Jul 2026 18:00:00 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “What Anthropic’s latest AI discovery does—and doesn’t—show” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/14 08:10:32\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 19 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-14] AI时代需要什么样的人：从DeepSeek招聘清单说起\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmei4121008.shtml\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI时代需要什么样的人：从DeepSeek招聘清单说起” against primary-source evidence.\n\n2. [2026-07-14] 智能基础设施时代：重塑全球竞争力的新底座\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihtewq8633732.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “智能基础设施时代：重塑全球竞争力的新底座” against primary-source evidence.\n\n3. [2026-07-14] 当AI穿上白大褂：谁来唤醒沉睡的医疗数据？\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtmen8601433.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “当AI穿上白大褂：谁来唤醒沉睡的医疗数据？” against primary-source evidence.\n\n4. [2026-07-14] OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmen8595348.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见” against primary-source evidence.\n\n5. [2026-07-14] OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtmef7357555.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员” against primary-source evidence.\n\n本次新增线索：\n- 突破显微镜极限：科学家改造百年前成像技术，激光让“看不见”的蛋白结构变可见｜IT之家｜https://www.ithome.com/0/976/270.htm\n- Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit｜CNBC Technology｜https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，3 个来源）\n\n国际科技背景：\n1. SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-targets-july-16-starship-160004211.html\n2. It's an AI web, and we're just rats in the walls｜The Register｜https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760\n3. Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit｜CNBC Technology｜https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html\n4. SpaceX cleared to fly Starship again after booster failure in May｜TechCrunch｜https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/\n5. What Anthropic’s latest AI discovery does—and doesn’t—show｜MIT Technology Review｜https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
