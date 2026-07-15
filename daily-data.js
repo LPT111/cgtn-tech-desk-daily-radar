@@ -1,73 +1,37 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-14T23:37:59.733Z",
+  "generatedAt": "2026-07-15T00:01:12.730Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-15",
   "changeSummary": {
-    "domesticNew": 18,
-    "globalNew": 18,
-    "domesticContinued": 0,
-    "globalContinued": 7,
+    "domesticNew": 3,
+    "globalNew": 0,
+    "domesticContinued": 17,
+    "globalContinued": 25,
     "topNewDomestic": [
       {
-        "title": "消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居",
+        "title": "OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml"
       },
       {
-        "title": "谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的",
+        "title": "6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml"
+        "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml"
       },
       {
-        "title": "美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回",
+        "title": "腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移",
         "source": "IT之家",
-        "url": "https://www.ithome.com/0/976/770.htm"
-      },
-      {
-        "title": "白宫启动网络安全“金鹰”AI倡议",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L1S3CDN405198CJN.html"
-      },
-      {
-        "title": "2026全球能源趋势：AI崛起与能源重构",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcs1095045.shtml"
+        "url": "https://www.ithome.com/0/976/781.htm"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
-      },
-      {
-        "title": "The Gulf has billions to spend on AI. It still needs Nvidia",
-        "source": "Rest of World",
-        "url": "https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/"
-      },
-      {
-        "title": "Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html"
-      },
-      {
-        "title": "Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy",
-        "source": "The Register",
-        "url": "https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 882,
+    "domesticRejected": 880,
     "globalRejected": 875,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,17 +46,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 29,
   "failedSources": [
     {
       "name": "财联社",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "央视网-科技",
@@ -105,23 +64,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -137,11 +86,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -152,23 +96,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -280,9 +214,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -354,8 +287,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -376,9 +308,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -386,7 +317,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -433,13 +364,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1251,
+  "itemsSeen": 1324,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 282,
-  "itemsAfterDedupe": 227,
-  "todayItemsSeen": 18,
+  "itemsAfterRelevantFilter": 326,
+  "itemsAfterDedupe": 255,
+  "todayItemsSeen": 20,
   "suspectedItemsSeen": 19,
-  "skippedNonToday": 190,
+  "skippedNonToday": 215,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -543,9 +474,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -617,8 +547,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -639,9 +568,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -649,7 +577,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -855,11 +783,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -870,23 +793,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -934,6 +847,20 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "AI 应用与智能体",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居",
+        "OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手",
+        "OpenAI正在开发化身AI伴侣的智能音箱，作为其首"
+      ]
+    },
+    {
       "topic": "科学前沿动态",
       "count": 3,
       "sourceCount": 2,
@@ -945,19 +872,6 @@ window.CHENCHEN_DAILY_DATA = {
         "科技新观察丨中国科学家“进场”办顶刊",
         "杜祥琬：科研要始终以国家需求为唯一导向",
         "于清华：左手现在，右手未来"
-      ]
-    },
-    {
-      "topic": "AI 应用与智能体",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "网易科技"
-      ],
-      "items": [
-        "消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居",
-        "OpenAI正在开发化身AI伴侣的智能音箱，作为其首"
       ]
     },
     {
@@ -987,16 +901,28 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "新能源车与智能驾驶",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "上半年我国新注册登记新能源汽车519.5万辆；比",
+        "6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升"
+      ]
+    },
+    {
       "topic": "AI动态",
-      "count": 3,
+      "count": 2,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
         "谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的",
-        "谷歌：Chrome人工智能功能下月将拓展至苹果iOS系统",
-        "再见了，赛博早恋！"
+        "谷歌：Chrome人工智能功能下月将拓展至苹果iOS系统"
       ]
     },
     {
@@ -1022,14 +948,14 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "新能源车与智能驾驶",
+      "topic": "数字经济动态",
       "count": 1,
       "sourceCount": 1,
       "sources": [
-        "网易科技"
+        "IT之家"
       ],
       "items": [
-        "上半年我国新注册登记新能源汽车519.5万辆；比"
+        "腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移"
       ]
     }
   ],
@@ -1100,6 +1026,74 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手",
+      "summary": "首页 前新加坡外长：多亏中国，我们小国也能从AI中受益 曲乔乔 。 7月9日晚，新加坡前外交部长杨荣文在一场炉边对话会上表示，中国人工智能（AI）产业选择开源的关键决定，带动包括美国科企在内的大型企业也开始转向开源。 据新加坡《联合早报》10日报道，杨荣文称，中国选择开源是一件好事，其目的是推动AI迅速扩展到中国经济的",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml"
+      ],
+      "publishedAt": "2026-07-15",
+      "date": "2026-07-15",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技7月15日消息，据媒体报道，OpenAI备受瞩目的首款硬件设备，将是一款可移动、无屏幕的智能音箱，定位为人工智能时代的新型家用电脑。该产品仍在开发中，定位具备人类特质的居家AI陪伴助手。它将帮助用户控制智能家居设备、播放媒体内容、回答...",
+      "relatedTitles": [
+        "OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1168,7 +1162,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1236,7 +1230,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1304,7 +1298,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "白宫启动网络安全“金鹰”AI倡议"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1372,7 +1366,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "2026全球能源趋势：AI崛起与能源重构"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1440,75 +1434,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌：Chrome人工智能功能下月将拓展至苹果iOS系统"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "再见了，赛博早恋！",
-      "summary": "全国首部拟人互动新规施行 AI恋人、情感陪伴等产品将迎强监管，行业开启合规洗牌 15日起，《人工智能拟人化互动服务管理暂行办法》（下称“办法”）正式实施，这是国内首部专门针对AI拟人化、情感化互动场景的专项监管法规。新规...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvcpu5066260.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvcpu5066260.shtml"
-      ],
-      "publishedAt": "2026-07-15",
-      "date": "2026-07-15",
-      "category": "AI",
-      "classificationConfidence": 0.69,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 175,
-      "reporterScore": 183,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “再见了，赛博早恋！” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "全国首部拟人互动新规施行 AI恋人、情感陪伴等产品将迎强监管，行业开启合规洗牌 15日起，《人工智能拟人化互动服务管理暂行办法》（下称“办法”）正式实施，这是国内首部专门针对AI拟人化、情感化互动场景的专项监管法规。新规...",
-      "relatedTitles": [
-        "再见了，赛博早恋！"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1576,7 +1502,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "三结太阳能电池稳态性能大幅跃升"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1644,7 +1570,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "科技新观察丨中国科学家“进场”办顶刊"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1712,7 +1638,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "通宇通讯与信维通信洽谈卫星通信及苹果产业链合作"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1780,7 +1706,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "上半年我国新注册登记新能源汽车519.5万辆；比"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1848,7 +1774,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中汽协澄清：“新能源车平均车龄仅1.8年”是误读"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1915,6 +1841,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "小米汽车披露已累计投入 566 台测试车，完成 428 万公里真实路测，回应称仿真测试无法复现真实场景，真实路测才能打磨用户体验#小米汽车# #小米澎程#",
       "relatedTitles": [
         "小米汽车：仿真和试验室测试确实能大幅提升研发效率，但无法完全替代真实路测"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升",
+      "summary": "2026年6月，23家A、H股上市汽车制造公司合计销售整车221.66万辆，同比增长5.97%。北汽蓝谷等多家车企销量增速表现亮眼，部分企业增速较5月有显著变化。出口方面，奇瑞等多家车企出口超10万辆，奇瑞、长城出口占比超一半。19家公司合计销售新能源汽车约139.86万辆，同比上升25.41%，渗透率约达64.46%",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml"
+      ],
+      "publishedAt": "2026-07-15",
+      "date": "2026-07-15",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "2026年6月，23家A、H股上市汽车制造公司合计销售整车221.66万辆，同比增长5.97%。北汽蓝谷等多家车企销量增速表现亮眼，部分企业增速较5月有显著变化。出口方面，奇瑞等多家车企出口超10万辆，奇瑞、长城出口占比超一半。19家公司合计销售新能源汽车约139.86万辆，同比上升25.41%，渗透率约达64.46%。北汽蓝谷等新能源汽车销量增速靠前，广汽集团新能源销量占比超40%，江淮汽车新能源单月销量下降但上半年累计增长。 (AI生成)",
+      "relatedTitles": [
+        "6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升"
       ],
       "isNewSinceLastRun": true
     },
@@ -1984,7 +1978,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "首届全国航空航天类教师团队建设发展论坛举行"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2052,7 +2046,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI正在开发化身AI伴侣的智能音箱，作为其首"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -2120,7 +2114,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "杜祥琬：科研要始终以国家需求为唯一导向"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2188,7 +2182,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "于清华：左手现在，右手未来"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2255,6 +2249,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "7月15日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.11%。 上涨个股（按市值从高到低）：联电涨1.75%，携程涨0.12%，贝壳涨0.12%，富途控股涨1.85%，华住酒店集团涨0.82%，理想汽车涨2.38%，小...",
       "relatedTitles": [
         "7月15日热门中概股涨跌不一 小鹏汽车涨3.28%，百度跌3.23%"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移",
+      "summary": "腾讯《DNF 手游》鸿蒙版本今日随大规模更新一同上线，原安卓 / iOS 账号可无损迁移至鸿蒙设备，并实现跨平台同玩。同时，新版本还带来了全新职业“暗夜使者”、夏日套装扮及新地下城。#DNF手游鸿蒙版上线##鸿蒙生态游戏#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/976/781.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/976/781.htm"
+      ],
+      "publishedAt": "Tue, 14 Jul 2026 23:39:53 GMT",
+      "date": "2026-07-15",
+      "category": "数字经济",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 70,
+      "keywords": "digital infrastructure, data flows and the platform economy",
+      "priority": 4,
+      "score": 126,
+      "reporterScore": 126,
+      "scoreBreakdown": {
+        "hardTech": 70,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 70,
+        "reporterScore": 85
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Connect the item to digital infrastructure, data flows and the platform economy, showing how digital infrastructure supports the real economy and where governance questions remain. For this item, test the claim behind “腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字经济动态",
+      "rawText": "腾讯《DNF 手游》鸿蒙版本今日随大规模更新一同上线，原安卓 / iOS 账号可无损迁移至鸿蒙设备，并实现跨平台同玩。同时，新版本还带来了全新职业“暗夜使者”、夏日套装扮及新地下城。#DNF手游鸿蒙版上线##鸿蒙生态游戏#",
+      "relatedTitles": [
+        "腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移"
       ],
       "isNewSinceLastRun": true
     }
@@ -2330,7 +2392,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本",
-      "summary": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题 从人类认知范式，构建Physical AGI 邓思邈 2分钟前 Physical AGI 一念Unisonmind 具身智能 大脑 清华大学 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家",
+      "summary": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题 从人类认知范式，构建Physical AGI 邓思邈 10分钟前 Physical AGI 一念Unisonmind 具身智能 大脑 清华大学 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2390,7 +2452,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题 从人类认知范式，构建Physical AGI 邓思邈 2分钟前 Physical AGI 一念Unisonmind 具身智能 大脑 清华大学 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
+      "rawText": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题 从人类认知范式，构建Physical AGI 邓思邈 10分钟前 Physical AGI 一念Unisonmind 具身智能 大脑 清华大学 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
       "relatedTitles": [
         "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本",
         "一念Unisonmind 机器狗指挥人类用天平称重！清华现场演示：无脚本"
@@ -3567,7 +3629,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3599,7 +3661,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3631,7 +3693,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3663,7 +3725,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 120
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3695,391 +3757,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 100
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
-      "summary": "Zipline is growing its drone delivery business in the U.S., and has hired former Tesla, Uber Eats and Waymo executives to help it scale up in new markets.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html",
-      "publishedAt": "Tue, 14 Jul 2026 21:08:03 GMT",
-      "date": "2026-07-14",
-      "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstre” against primary-source evidence.",
-      "priority": 5,
-      "score": 141,
-      "reporterScore": 147,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 93
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "publishedAt": "Tue, 14 Jul 2026 22:22:24 +0000",
-      "date": "2026-07-14",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI’s first hardware device is reportedly a screenless speaker that c” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "summary": "Lawsuit alleges job-swappers took secrets with them, helped by coaching on how to avoid scrutiny",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "publishedAt": "Tue, 14 Jul 2026 22:07:42 +0000",
-      "date": "2026-07-14",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.88,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI pushes back on Apple trade secret lawsuit” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "publishedAt": "Tue, 14 Jul 2026 21:50:11 +0000",
-      "date": "2026-07-14",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI’s new flagship model deletes files on its own, people keep warnin” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic’s newest ad is creeping people out",
-      "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Ant",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-      "publishedAt": "Tue, 14 Jul 2026 19:41:27 +0000",
-      "date": "2026-07-14",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic’s newest ad is creeping people out” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google faces another AI training lawsuit from major publishers",
-      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-      "publishedAt": "Tue, 14 Jul 2026 18:33:31 +0000",
-      "date": "2026-07-14",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google faces another AI training lawsuit from major publishers” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "publishedAt": "Tue, 14 Jul 2026 16:28:14 +0000",
-      "date": "2026-07-15",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google revamps image search for its 25th anniversary with more images an” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "If you want Claude to speak nicely to you, try Hindi or Arabic",
-      "summary": "Anthropic finds Claude expresses different values across languages",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/14/if-you-want-claude-to-speak-nicely-to-you-try-hindi-or-arabic/5271409",
-      "publishedAt": "Tue, 14 Jul 2026 21:39:50 +0200",
-      "date": "2026-07-14",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.71,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “If you want Claude to speak nicely to you, try Hindi or Arabic” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Kalshi World Cup odds are showing up in ChatGPT results now",
-      "summary": "OpenAI says the World Cup query results are for \"informational purposes only.\"",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/article/kalshi-world-cup-odds-are-showing-up-in-chatgpt-results-now-181932472.html",
-      "publishedAt": "2026-07-15",
-      "date": "2026-07-15",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Kalshi World Cup odds are showing up in ChatGPT results now” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Apple in talks with startup that shrinks AI models to run on an iPhone",
-      "summary": "PrismML says its compressed version of Alibaba’s Qwen model uses up to 15 times less memory, potentially advancing Apple’s AI push.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
-      "publishedAt": "Tue, 14 Jul 2026 18:31:08 GMT",
-      "date": "2026-07-14",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Apple in talks with startup that shrinks AI models to run on an iPhone” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "This Samsung Galaxy S26 Ultra defect is turning users' screens red, with no fix in sight yet",
-      "summary": "Samsung's summer Galaxy Unpacked event is just around the corner, which means we'll soon get a look at what it has in store for the Galaxy Fold 8, Flip 8 and more. Here's what you ",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/article/this-samsung-galaxy-s26-ultra-defect-is-turning-users-screens-red-with-no-fix-in-sight-yet-192215664.html",
-      "publishedAt": "2026-07-15",
-      "date": "2026-07-15",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.71,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “This Samsung Galaxy S26 Ultra defect is turning users' screens red, with” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung wants users' health data to train its AI — or else it'll be deleted",
-      "summary": "Samsung will let you opt out of AI training with your health data, but it'll stop syncing and delete the data in Samsung Health if you opt out, according to a warning spotted by us",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/apps/article/samsung-wants-users-health-data-to-train-its-ai--or-else-itll-be-deleted-145526273.html",
-      "publishedAt": "2026-07-14",
-      "date": "2026-07-14",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.58,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Samsung wants users' health data to train its AI — or else it'll be dele” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4115,38 +3793,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX's Starlink",
-      "summary": "Frontier is signing with Starlink for in-flight Wi-Fi, with service debuting as early as next year.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/14/frontier-airlines-wifi-spacex-starlink.html",
-      "publishedAt": "Tue, 14 Jul 2026 13:00:01 GMT",
-      "date": "2026-07-14",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX's Starlin” against primary-source evidence.",
-      "priority": 4,
-      "score": 138,
-      "reporterScore": 138,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
       "summary": "The company says it has found a new window into how its models arrive at answers. We spoke with senior editor Will Douglas Heaven about it.",
       "source": "MIT Technology Review",
@@ -4164,6 +3810,134 @@ window.CHENCHEN_DAILY_DATA = {
       "priority": 5,
       "score": 147,
       "reporterScore": 147,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
+      "summary": "Zipline is growing its drone delivery business in the U.S., and has hired former Tesla, Uber Eats and Waymo executives to help it scale up in new markets.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html",
+      "publishedAt": "Tue, 14 Jul 2026 21:08:03 GMT",
+      "date": "2026-07-14",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstre” against primary-source evidence.",
+      "priority": 5,
+      "score": 141,
+      "reporterScore": 147,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 93
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "publishedAt": "Tue, 14 Jul 2026 22:22:24 +0000",
+      "date": "2026-07-14",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI’s first hardware device is reportedly a screenless speaker that c” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "summary": "Lawsuit alleges job-swappers took secrets with them, helped by coaching on how to avoid scrutiny",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "publishedAt": "Tue, 14 Jul 2026 22:07:42 +0000",
+      "date": "2026-07-14",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.88,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI pushes back on Apple trade secret lawsuit” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "publishedAt": "Tue, 14 Jul 2026 21:50:11 +0000",
+      "date": "2026-07-14",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI’s new flagship model deletes files on its own, people keep warnin” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4243,6 +4017,134 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic’s newest ad is creeping people out",
+      "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Ant",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "publishedAt": "Tue, 14 Jul 2026 19:41:27 +0000",
+      "date": "2026-07-14",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic’s newest ad is creeping people out” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "publishedAt": "Tue, 14 Jul 2026 18:33:31 +0000",
+      "date": "2026-07-14",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google faces another AI training lawsuit from major publishers” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+      "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+      "publishedAt": "Tue, 14 Jul 2026 16:28:14 +0000",
+      "date": "2026-07-15",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google revamps image search for its 25th anniversary with more images an” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "If you want Claude to speak nicely to you, try Hindi or Arabic",
+      "summary": "Anthropic finds Claude expresses different values across languages",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/14/if-you-want-claude-to-speak-nicely-to-you-try-hindi-or-arabic/5271409",
+      "publishedAt": "Tue, 14 Jul 2026 21:39:50 +0200",
+      "date": "2026-07-14",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.71,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “If you want Claude to speak nicely to you, try Hindi or Arabic” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Anthropic's extravagant tokenizer complicates AI pricing",
       "summary": "Token consumption doesn",
       "source": "The Register",
@@ -4260,6 +4162,70 @@ window.CHENCHEN_DAILY_DATA = {
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Kalshi World Cup odds are showing up in ChatGPT results now",
+      "summary": "OpenAI says the World Cup query results are for \"informational purposes only.\"",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/article/kalshi-world-cup-odds-are-showing-up-in-chatgpt-results-now-181932472.html",
+      "publishedAt": "2026-07-15",
+      "date": "2026-07-15",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Kalshi World Cup odds are showing up in ChatGPT results now” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Apple in talks with startup that shrinks AI models to run on an iPhone",
+      "summary": "PrismML says its compressed version of Alibaba’s Qwen model uses up to 15 times less memory, potentially advancing Apple’s AI push.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
+      "publishedAt": "Tue, 14 Jul 2026 18:31:08 GMT",
+      "date": "2026-07-14",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Apple in talks with startup that shrinks AI models to run on an iPhone” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4307,6 +4273,70 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "This Samsung Galaxy S26 Ultra defect is turning users' screens red, with no fix in sight yet",
+      "summary": "Samsung's summer Galaxy Unpacked event is just around the corner, which means we'll soon get a look at what it has in store for the Galaxy Fold 8, Flip 8 and more. Here's what you ",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/article/this-samsung-galaxy-s26-ultra-defect-is-turning-users-screens-red-with-no-fix-in-sight-yet-192215664.html",
+      "publishedAt": "2026-07-15",
+      "date": "2026-07-15",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “This Samsung Galaxy S26 Ultra defect is turning users' screens red, with” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung wants users' health data to train its AI — or else it'll be deleted",
+      "summary": "Samsung will let you opt out of AI training with your health data, but it'll stop syncing and delete the data in Samsung Health if you opt out, according to a warning spotted by us",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/apps/article/samsung-wants-users-health-data-to-train-its-ai--or-else-itll-be-deleted-145526273.html",
+      "publishedAt": "2026-07-14",
+      "date": "2026-07-14",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.58,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Samsung wants users' health data to train its AI — or else it'll be dele” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue",
       "summary": "Ahead of its second-quarter earnings, TSMC reported its June and first-half revenue for 2026.",
       "source": "CNBC Technology",
@@ -4336,10 +4366,42 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX's Starlink",
+      "summary": "Frontier is signing with Starlink for in-flight Wi-Fi, with service debuting as early as next year.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/14/frontier-airlines-wifi-spacex-starlink.html",
+      "publishedAt": "Tue, 14 Jul 2026 13:00:01 GMT",
+      "date": "2026-07-14",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX's Starlin” against primary-source evidence.",
+      "priority": 4,
+      "score": 138,
+      "reporterScore": 138,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-15｜V3\n生成时间：2026/7/15 07:37:59\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2466｜确认今日 18｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 18 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.\n\n2. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.\n\n3. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回\n   IT之家｜2026-07-15｜https://www.ithome.com/0/976/770.htm\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.\n\n4. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议\n   网易科技｜2026-07-15｜https://www.163.com/dy/article/L1S3CDN405198CJN.html\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.\n\n5. [2026-07-15] 2026全球能源趋势：AI崛起与能源重构\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcs1095045.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “2026全球能源趋势：AI崛起与能源重构” against primary-source evidence.\n\n本次新增线索：\n- 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n- 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n- 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回｜IT之家｜https://www.ithome.com/0/976/770.htm\n- 白宫启动网络安全“金鹰”AI倡议｜网易科技｜https://www.163.com/dy/article/L1S3CDN405198CJN.html\n- 2026全球能源趋势：AI崛起与能源重构｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcs1095045.shtml\n- DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n2. The Gulf has billions to spend on AI. It still needs Nvidia｜Rest of World｜https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Apple opens its new Siri AI to everyone with the iOS 27 public beta｜TechCrunch｜https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\n4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\n5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy｜The Register｜https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-15｜V3\n生成时间：2026/7/15 07:37:59\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2466｜确认今日 18｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 18 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.\n\n2. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.\n\n3. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回\n   IT之家｜2026-07-15｜https://www.ithome.com/0/976/770.htm\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.\n\n4. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议\n   网易科技｜2026-07-15｜https://www.163.com/dy/article/L1S3CDN405198CJN.html\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.\n\n5. [2026-07-15] 2026全球能源趋势：AI崛起与能源重构\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcs1095045.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “2026全球能源趋势：AI崛起与能源重构” against primary-source evidence.\n\n本次新增线索：\n- 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n- 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n- 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回｜IT之家｜https://www.ithome.com/0/976/770.htm\n- 白宫启动网络安全“金鹰”AI倡议｜网易科技｜https://www.163.com/dy/article/L1S3CDN405198CJN.html\n- 2026全球能源趋势：AI崛起与能源重构｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcs1095045.shtml\n- DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n2. The Gulf has billions to spend on AI. It still needs Nvidia｜Rest of World｜https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Apple opens its new Siri AI to everyone with the iOS 27 public beta｜TechCrunch｜https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\n4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\n5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy｜The Register｜https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-15｜生成时间：2026/7/15 07:37:59｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2466｜确认今日 18｜国际背景 25</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 18 条｜国际 18 条<br>延续跟踪线索：国内 0 条｜国际 7 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居</strong>\n      <span>新浪科技｜2026-07-15｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的</strong>\n      <span>新浪科技｜2026-07-15｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回</strong>\n      <span>IT之家｜2026-07-15｜<a href=\"https://www.ithome.com/0/976/770.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：186｜需核验来源</span>\n      <p>报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议</strong>\n      <span>网易科技｜2026-07-15｜<a href=\"https://www.163.com/dy/article/L1S3CDN405198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：185｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-15] 2026全球能源趋势：AI崛起与能源重构</strong>\n      <span>新浪科技｜2026-07-15｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcs1095045.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “2026全球能源趋势：AI崛起与能源重构” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. DeepMind CEO calls for an independent standards body to regulate frontier AI</strong>\n      <span>时间：Tue, 14 Jul 2026 17:45:55 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “DeepMind CEO calls for an independent standards body to regulate frontie” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. The Gulf has billions to spend on AI. It still needs Nvidia</strong>\n      <span>时间：Tue, 14 Jul 2026 10:00:39 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The Gulf has billions to spend on AI. It still needs Nvidia” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Apple opens its new Siri AI to everyone with the iOS 27 public beta</strong>\n      <span>时间：Tue, 14 Jul 2026 19:42:27 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Apple opens its new Siri AI to everyone with the iOS 27 public beta” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26</strong>\n      <span>时间：2026-07-15｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy</strong>\n      <span>时间：Tue, 14 Jul 2026 15:40:16 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/15 07:37:59\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 18 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.\n\n2. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.\n\n3. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回\n   来源：IT之家\n   链接：https://www.ithome.com/0/976/770.htm\n   角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.\n\n4. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L1S3CDN405198CJN.html\n   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.\n\n5. [2026-07-15] 2026全球能源趋势：AI崛起与能源重构\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcs1095045.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “2026全球能源趋势：AI崛起与能源重构” against primary-source evidence.\n\n本次新增线索：\n- 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n- 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n- 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回｜IT之家｜https://www.ithome.com/0/976/770.htm\n- 白宫启动网络安全“金鹰”AI倡议｜网易科技｜https://www.163.com/dy/article/L1S3CDN405198CJN.html\n- 2026全球能源趋势：AI崛起与能源重构｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcs1095045.shtml\n- DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n2. The Gulf has billions to spend on AI. It still needs Nvidia｜Rest of World｜https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Apple opens its new Siri AI to everyone with the iOS 27 public beta｜TechCrunch｜https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\n4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\n5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy｜The Register｜https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-15｜V3\n生成时间：2026/7/15 08:01:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2539｜确认今日 20｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 17 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.\n\n2. [2026-07-15] OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.\n\n3. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.\n\n4. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回\n   IT之家｜2026-07-15｜https://www.ithome.com/0/976/770.htm\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.\n\n5. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议\n   网易科技｜2026-07-15｜https://www.163.com/dy/article/L1S3CDN405198CJN.html\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.\n\n本次新增线索：\n- OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n- 6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml\n- 腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移｜IT之家｜https://www.ithome.com/0/976/781.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n2. The Gulf has billions to spend on AI. It still needs Nvidia｜Rest of World｜https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Apple opens its new Siri AI to everyone with the iOS 27 public beta｜TechCrunch｜https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\n4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\n5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy｜The Register｜https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-15｜V3\n生成时间：2026/7/15 08:01:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2539｜确认今日 20｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 17 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.\n\n2. [2026-07-15] OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.\n\n3. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.\n\n4. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回\n   IT之家｜2026-07-15｜https://www.ithome.com/0/976/770.htm\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.\n\n5. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议\n   网易科技｜2026-07-15｜https://www.163.com/dy/article/L1S3CDN405198CJN.html\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.\n\n本次新增线索：\n- OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n- 6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml\n- 腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移｜IT之家｜https://www.ithome.com/0/976/781.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n2. The Gulf has billions to spend on AI. It still needs Nvidia｜Rest of World｜https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Apple opens its new Siri AI to everyone with the iOS 27 public beta｜TechCrunch｜https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\n4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\n5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy｜The Register｜https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-15｜生成时间：2026/7/15 08:01:12｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2539｜确认今日 20｜国际背景 25</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 17 条｜国际 25 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居</strong>\n      <span>新浪科技｜2026-07-15｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-15] OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手</strong>\n      <span>新浪科技｜2026-07-15｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的</strong>\n      <span>新浪科技｜2026-07-15｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回</strong>\n      <span>IT之家｜2026-07-15｜<a href=\"https://www.ithome.com/0/976/770.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：186｜需核验来源</span>\n      <p>报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议</strong>\n      <span>网易科技｜2026-07-15｜<a href=\"https://www.163.com/dy/article/L1S3CDN405198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：185｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. DeepMind CEO calls for an independent standards body to regulate frontier AI</strong>\n      <span>时间：Tue, 14 Jul 2026 17:45:55 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “DeepMind CEO calls for an independent standards body to regulate frontie” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. The Gulf has billions to spend on AI. It still needs Nvidia</strong>\n      <span>时间：Tue, 14 Jul 2026 10:00:39 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The Gulf has billions to spend on AI. It still needs Nvidia” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Apple opens its new Siri AI to everyone with the iOS 27 public beta</strong>\n      <span>时间：Tue, 14 Jul 2026 19:42:27 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Apple opens its new Siri AI to everyone with the iOS 27 public beta” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26</strong>\n      <span>时间：2026-07-15｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy</strong>\n      <span>时间：Tue, 14 Jul 2026 15:40:16 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/15 08:01:12\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 17 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.\n\n2. [2026-07-15] OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.\n\n3. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.\n\n4. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回\n   来源：IT之家\n   链接：https://www.ithome.com/0/976/770.htm\n   角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.\n\n5. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L1S3CDN405198CJN.html\n   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.\n\n本次新增线索：\n- OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n- 6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml\n- 腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移｜IT之家｜https://www.ithome.com/0/976/781.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n2. The Gulf has billions to spend on AI. It still needs Nvidia｜Rest of World｜https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Apple opens its new Siri AI to everyone with the iOS 27 public beta｜TechCrunch｜https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\n4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\n5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy｜The Register｜https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
