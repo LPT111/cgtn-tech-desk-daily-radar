@@ -1,27 +1,17 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-15T00:01:12.730Z",
+  "generatedAt": "2026-07-15T00:09:20.509Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-15",
   "changeSummary": {
-    "domesticNew": 3,
+    "domesticNew": 1,
     "globalNew": 0,
-    "domesticContinued": 17,
+    "domesticContinued": 20,
     "globalContinued": 25,
     "topNewDomestic": [
       {
-        "title": "OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml"
-      },
-      {
-        "title": "6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml"
-      },
-      {
-        "title": "腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移",
+        "title": "IT早报 0715：市盈率 308.92 倍长鑫确定发行价 8.66 元 / 股；DeepSeek 梁文锋成全球 AI 公司新首富；IBM 创 40 年来最大单日跌幅；华为 5G 手机全球回归",
         "source": "IT之家",
-        "url": "https://www.ithome.com/0/976/781.htm"
+        "url": "https://www.ithome.com/0/976/779.htm"
       }
     ],
     "topNewGlobal": [],
@@ -31,7 +21,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 880,
+    "domesticRejected": 879,
     "globalRejected": 875,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -46,22 +36,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 29,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -81,19 +61,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -165,8 +135,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -279,8 +248,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -366,11 +334,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "itemsSeen": 1324,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 326,
-  "itemsAfterDedupe": 255,
-  "todayItemsSeen": 20,
+  "itemsAfterRelevantFilter": 331,
+  "itemsAfterDedupe": 257,
+  "todayItemsSeen": 21,
   "suspectedItemsSeen": 19,
-  "skippedNonToday": 215,
+  "skippedNonToday": 216,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -425,8 +393,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -539,8 +506,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -778,19 +744,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -829,8 +785,24 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1215,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 117,
+  "globalItemsAfterRelevantFilter": 116,
   "topics": [
+    {
+      "topic": "AI 应用与智能体",
+      "count": 4,
+      "sourceCount": 3,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技"
+      ],
+      "items": [
+        "消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居",
+        "OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手",
+        "IT早报 0715：市盈率 308.92 倍长鑫确定发行价 8.66 元 / 股；DeepSeek 梁文锋成全球 AI 公司新首富；IBM 创 40 年来最大单日跌幅；华为 5G 手机全球回归",
+        "OpenAI正在开发化身AI伴侣的智能音箱，作为其首"
+      ]
+    },
     {
       "topic": "新能源车动态",
       "count": 3,
@@ -844,20 +816,6 @@ window.CHENCHEN_DAILY_DATA = {
         "中汽协澄清：“新能源车平均车龄仅1.8年”是误读",
         "小米汽车：仿真和试验室测试确实能大幅提升研发效率，但无法完全替代真实路测",
         "7月15日热门中概股涨跌不一 小鹏汽车涨3.28%，百度跌3.23%"
-      ]
-    },
-    {
-      "topic": "AI 应用与智能体",
-      "count": 3,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "网易科技"
-      ],
-      "items": [
-        "消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居",
-        "OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手",
-        "OpenAI正在开发化身AI伴侣的智能音箱，作为其首"
       ]
     },
     {
@@ -1027,74 +985,6 @@ window.CHENCHEN_DAILY_DATA = {
         "消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手",
-      "summary": "首页 前新加坡外长：多亏中国，我们小国也能从AI中受益 曲乔乔 。 7月9日晚，新加坡前外交部长杨荣文在一场炉边对话会上表示，中国人工智能（AI）产业选择开源的关键决定，带动包括美国科企在内的大型企业也开始转向开源。 据新加坡《联合早报》10日报道，杨荣文称，中国选择开源是一件好事，其目的是推动AI迅速扩展到中国经济的",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml"
-      ],
-      "publishedAt": "2026-07-15",
-      "date": "2026-07-15",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 176,
-      "reporterScore": 184,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "快科技7月15日消息，据媒体报道，OpenAI备受瞩目的首款硬件设备，将是一款可移动、无屏幕的智能音箱，定位为人工智能时代的新型家用电脑。该产品仍在开发中，定位具备人类特质的居家AI陪伴助手。它将帮助用户控制智能家居设备、播放媒体内容、回答...",
-      "relatedTitles": [
-        "OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1302,6 +1192,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手",
+      "summary": "首页 前新加坡外长：多亏中国，我们小国也能从AI中受益 曲乔乔 。 7月9日晚，新加坡前外交部长杨荣文在一场炉边对话会上表示，中国人工智能（AI）产业选择开源的关键决定，带动包括美国科企在内的大型企业也开始转向开源。 据新加坡《联合早报》10日报道，杨荣文称，中国选择开源是一件好事，其目的是推动AI迅速扩展到中国经济的",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml"
+      ],
+      "publishedAt": "2026-07-15",
+      "date": "2026-07-15",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技7月15日消息，据媒体报道，OpenAI备受瞩目的首款硬件设备，将是一款可移动、无屏幕的智能音箱，定位为人工智能时代的新型家用电脑。该产品仍在开发中，定位具备人类特质的居家AI陪伴助手。它将帮助用户控制智能家居设备、播放媒体内容、回答...",
+      "relatedTitles": [
+        "OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "2026全球能源趋势：AI崛起与能源重构",
       "summary": "2026年的全球能源市场正在进入一个由人工智能、电气化和地缘经济重构共同驱动的新周期。报告认为，AI算力需求快速增长正在重塑全球能源体系，预计全球数据中心用电需求到2030年将超过2200TWh，相当于当前印度全国电力消费总量，同时2026...",
       "source": "新浪科技",
@@ -1435,6 +1393,74 @@ window.CHENCHEN_DAILY_DATA = {
         "谷歌：Chrome人工智能功能下月将拓展至苹果iOS系统"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "IT早报 0715：市盈率 308.92 倍长鑫确定发行价 8.66 元 / 股；DeepSeek 梁文锋成全球 AI 公司新首富；IBM 创 40 年来最大单日跌幅；华为 5G 手机全球回归",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 7 月 15 日星期三，今天的重要科技资讯有：",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/976/779.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/976/779.htm"
+      ],
+      "publishedAt": "Tue, 14 Jul 2026 23:31:22 GMT",
+      "date": "2026-07-15",
+      "category": "AI",
+      "classificationConfidence": 0.97,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 160,
+      "reporterScore": 168,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “IT早报 0715：市盈率 308.92 倍长鑫确定发行价 8.66 元 / 股；DeepSeek 梁文锋成全球 AI 公司新首富；IBM 创 ” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "“IT早报”时间，大家好，现在是 2026 年 7 月 15 日星期三，今天的重要科技资讯有：",
+      "relatedTitles": [
+        "IT早报 0715：市盈率 308.92 倍长鑫确定发行价 8.66 元 / 股；DeepSeek 梁文锋成全球 AI 公司新首富；IBM 创 40 年来最大单日跌幅；华为 5G 手机全球回归"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1845,74 +1871,6 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升",
-      "summary": "2026年6月，23家A、H股上市汽车制造公司合计销售整车221.66万辆，同比增长5.97%。北汽蓝谷等多家车企销量增速表现亮眼，部分企业增速较5月有显著变化。出口方面，奇瑞等多家车企出口超10万辆，奇瑞、长城出口占比超一半。19家公司合计销售新能源汽车约139.86万辆，同比上升25.41%，渗透率约达64.46%",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml"
-      ],
-      "publishedAt": "2026-07-15",
-      "date": "2026-07-15",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "2026年6月，23家A、H股上市汽车制造公司合计销售整车221.66万辆，同比增长5.97%。北汽蓝谷等多家车企销量增速表现亮眼，部分企业增速较5月有显著变化。出口方面，奇瑞等多家车企出口超10万辆，奇瑞、长城出口占比超一半。19家公司合计销售新能源汽车约139.86万辆，同比上升25.41%，渗透率约达64.46%。北汽蓝谷等新能源汽车销量增速靠前，广汽集团新能源销量占比超40%，江淮汽车新能源单月销量下降但上半年累计增长。 (AI生成)",
-      "relatedTitles": [
-        "6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "首届全国航空航天类教师团队建设发展论坛举行",
       "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 首届全国航空航天类教师团队建设发展论坛举行 2026-07-15 07:27:31 来源: 科技日报 点击数： 热点",
@@ -2186,6 +2144,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升",
+      "summary": "2026年6月，23家A、H股上市汽车制造公司合计销售整车221.66万辆，同比增长5.97%。北汽蓝谷等多家车企销量增速表现亮眼，部分企业增速较5月有显著变化。出口方面，奇瑞等多家车企出口超10万辆，奇瑞、长城出口占比超一半。19家公司合计销售新能源汽车约139.86万辆，同比上升25.41%，渗透率约达64.46%",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml"
+      ],
+      "publishedAt": "2026-07-15",
+      "date": "2026-07-15",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "2026年6月，23家A、H股上市汽车制造公司合计销售整车221.66万辆，同比增长5.97%。北汽蓝谷等多家车企销量增速表现亮眼，部分企业增速较5月有显著变化。出口方面，奇瑞等多家车企出口超10万辆，奇瑞、长城出口占比超一半。19家公司合计销售新能源汽车约139.86万辆，同比上升25.41%，渗透率约达64.46%。北汽蓝谷等新能源汽车销量增速靠前，广汽集团新能源销量占比超40%，江淮汽车新能源单月销量下降但上半年累计增长。 (AI生成)",
+      "relatedTitles": [
+        "6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "7月15日热门中概股涨跌不一 小鹏汽车涨3.28%，百度跌3.23%",
       "summary": "7月15日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.11%。 上涨个股（按市值从高到低）：联电涨1.75%，携程涨0.12%，贝壳涨0.12%，富途控股涨1.85%，华住酒店集团涨0.82%，理想汽车涨2.38%，小...",
       "source": "新浪科技",
@@ -2318,14 +2344,14 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "赛力斯，穿透财报招股书",
-      "summary": "赛力斯，穿透财报招股书 问界母公司突发亏损预警！一季度还在盈利 原材料涨价不是唯一原因 杰西卡 43分钟前 赛力斯，穿透财报招股书 车圈最新认知 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿",
+      "summary": "赛力斯，穿透财报招股书 问界母公司突发亏损预警！一季度还在盈利 原材料涨价不是唯一原因 杰西卡 1小时前 赛力斯，穿透财报招股书 车圈最新认知 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2384,7 +2410,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “赛力斯，穿透财报招股书” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "赛力斯，穿透财报招股书 问界母公司突发亏损预警！一季度还在盈利 原材料涨价不是唯一原因 杰西卡 43分钟前 赛力斯，穿透财报招股书 车圈最新认知 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
+      "rawText": "赛力斯，穿透财报招股书 问界母公司突发亏损预警！一季度还在盈利 原材料涨价不是唯一原因 杰西卡 1小时前 赛力斯，穿透财报招股书 车圈最新认知 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
       "relatedTitles": [
         "赛力斯，穿透财报招股书"
       ]
@@ -2392,7 +2418,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本",
-      "summary": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题 从人类认知范式，构建Physical AGI 邓思邈 10分钟前 Physical AGI 一念Unisonmind 具身智能 大脑 清华大学 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这",
+      "summary": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题 从人类认知范式，构建Physical AGI 邓思邈 2分钟前 Physical AGI 一念Unisonmind 具身智能 大脑 清华大学 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2452,7 +2478,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题 从人类认知范式，构建Physical AGI 邓思邈 10分钟前 Physical AGI 一念Unisonmind 具身智能 大脑 清华大学 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
+      "rawText": "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题 从人类认知范式，构建Physical AGI 邓思邈 2分钟前 Physical AGI 一念Unisonmind 具身智能 大脑 清华大学 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑” 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
       "relatedTitles": [
         "Physical AGI 机器狗指挥人类用天平称重！清华现场演示：无脚本",
         "一念Unisonmind 机器狗指挥人类用天平称重！清华现场演示：无脚本"
@@ -2928,6 +2954,73 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "车圈最新认知",
+      "summary": "车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 4小时前 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 理想智驾一号位创业，落户北京亦庄了 10天跻身具身独角兽 杰西卡 前天 21:20 具身智能 理想汽车 车圈最新认知 A股账户可以买Robotaxi了 Robo",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/%e8%bd%a6%e5%9c%88%e6%9c%80%e6%96%b0%e8%ae%a4%e7%9f%a5",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/%e8%bd%a6%e5%9c%88%e6%9c%80%e6%96%b0%e8%ae%a4%e7%9f%a5"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "新能源车",
+      "classificationConfidence": 0.95,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 153,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 103
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “车圈最新认知” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 4小时前 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 理想智驾一号位创业，落户北京亦庄了 10天跻身具身独角兽 杰西卡 前天 21:20 具身智能 理想汽车 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “豆包汽车”，目标市场10万-20万 国资入主，赛力斯让权 杰西卡 2026-06-02 火山引擎 赛力斯 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 2026-05-25 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 39万！雷军发布小米最贵SUV 特斯拉前厂长宋钢加盟后首秀 杰西卡 2026-05-22 小米YU7 GT 小米汽车 车圈最新认知 百度无人车",
+      "relatedTitles": [
+        "车圈最新认知"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "订单已排到2030年！“单船最大装车量达10800辆”",
       "summary": "首页 订单已排到2030年！“单船最大装车量达10800辆” 分享到： 28日，由中国船舶集团广船国际建造的全球首艘万车级双燃料汽车运输船在广州南沙完成交付。 该船长230米，型宽40米，设计了14层车库甲板，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。同时，船舶还搭载了最新的绿色",
@@ -3193,73 +3286,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "7月8日，港股“大模型第一股”智谱迎来上市后的首次限售股解禁。11家基石投资者持有的约2568.16万股解除限售，占总股本约5.76%，按前一交易日收盘价计算，解禁市值超400亿港元。",
       "relatedTitles": [
         "智谱巨量解禁日上演暴力反弹，MiniMax明天迎考验"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "车圈最新认知",
-      "summary": "车圈最新认知 物理AI第一块万亿市场，在公路货运先跑通闭环了 申通安能用真金白银下单 杰西卡 前天 14:06 DeepWay深向 无人车往哪里开？ 车圈最新认知 千里收购了一家毫米波雷达公司 布局全栈闭环 杰西卡 2026-06-12 千里科技 车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/%e8%bd%a6%e5%9c%88%e6%9c%80%e6%96%b0%e8%ae%a4%e7%9f%a5",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/%e8%bd%a6%e5%9c%88%e6%9c%80%e6%96%b0%e8%ae%a4%e7%9f%a5"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "新能源车",
-      "classificationConfidence": 0.82,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 4,
-      "score": 131,
-      "reporterScore": 137,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 93
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “车圈最新认知” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "车圈最新认知 物理AI第一块万亿市场，在公路货运先跑通闭环了 申通安能用真金白银下单 杰西卡 前天 14:06 DeepWay深向 无人车往哪里开？ 车圈最新认知 千里收购了一家毫米波雷达公司 布局全栈闭环 杰西卡 2026-06-12 千里科技 车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 2026-06-10 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 理想智驾一号位创业，落户北京亦庄了 10天跻身具身独角兽 杰西卡 2026-06-09 具身智能 理想汽车 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “豆包汽车”，目标市场10万-20万 国资入主，赛力斯让权 杰西卡 2026-06-02 火山引擎 赛力斯 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Rob",
-      "relatedTitles": [
-        "车圈最新认知"
       ]
     },
     {
@@ -4400,8 +4426,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-15｜V3\n生成时间：2026/7/15 08:01:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2539｜确认今日 20｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 17 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.\n\n2. [2026-07-15] OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.\n\n3. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.\n\n4. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回\n   IT之家｜2026-07-15｜https://www.ithome.com/0/976/770.htm\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.\n\n5. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议\n   网易科技｜2026-07-15｜https://www.163.com/dy/article/L1S3CDN405198CJN.html\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.\n\n本次新增线索：\n- OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n- 6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml\n- 腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移｜IT之家｜https://www.ithome.com/0/976/781.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n2. The Gulf has billions to spend on AI. It still needs Nvidia｜Rest of World｜https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Apple opens its new Siri AI to everyone with the iOS 27 public beta｜TechCrunch｜https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\n4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\n5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy｜The Register｜https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-15｜V3\n生成时间：2026/7/15 08:01:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2539｜确认今日 20｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 17 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.\n\n2. [2026-07-15] OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.\n\n3. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.\n\n4. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回\n   IT之家｜2026-07-15｜https://www.ithome.com/0/976/770.htm\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.\n\n5. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议\n   网易科技｜2026-07-15｜https://www.163.com/dy/article/L1S3CDN405198CJN.html\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.\n\n本次新增线索：\n- OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n- 6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml\n- 腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移｜IT之家｜https://www.ithome.com/0/976/781.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n2. The Gulf has billions to spend on AI. It still needs Nvidia｜Rest of World｜https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Apple opens its new Siri AI to everyone with the iOS 27 public beta｜TechCrunch｜https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\n4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\n5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy｜The Register｜https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-15｜生成时间：2026/7/15 08:01:12｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2539｜确认今日 20｜国际背景 25</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 17 条｜国际 25 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居</strong>\n      <span>新浪科技｜2026-07-15｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-15] OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手</strong>\n      <span>新浪科技｜2026-07-15｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的</strong>\n      <span>新浪科技｜2026-07-15｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回</strong>\n      <span>IT之家｜2026-07-15｜<a href=\"https://www.ithome.com/0/976/770.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：186｜需核验来源</span>\n      <p>报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议</strong>\n      <span>网易科技｜2026-07-15｜<a href=\"https://www.163.com/dy/article/L1S3CDN405198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：185｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. DeepMind CEO calls for an independent standards body to regulate frontier AI</strong>\n      <span>时间：Tue, 14 Jul 2026 17:45:55 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “DeepMind CEO calls for an independent standards body to regulate frontie” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. The Gulf has billions to spend on AI. It still needs Nvidia</strong>\n      <span>时间：Tue, 14 Jul 2026 10:00:39 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The Gulf has billions to spend on AI. It still needs Nvidia” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Apple opens its new Siri AI to everyone with the iOS 27 public beta</strong>\n      <span>时间：Tue, 14 Jul 2026 19:42:27 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Apple opens its new Siri AI to everyone with the iOS 27 public beta” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26</strong>\n      <span>时间：2026-07-15｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy</strong>\n      <span>时间：Tue, 14 Jul 2026 15:40:16 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/15 08:01:12\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 17 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.\n\n2. [2026-07-15] OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.\n\n3. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.\n\n4. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回\n   来源：IT之家\n   链接：https://www.ithome.com/0/976/770.htm\n   角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.\n\n5. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L1S3CDN405198CJN.html\n   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.\n\n本次新增线索：\n- OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n- 6月上市车企销量稳增：奇瑞、比亚迪等出口销量扩容 新能源汽车渗透率持续攀升｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqcs1180703.shtml\n- 腾讯 DNF 手游《地下城与勇士：起源》鸿蒙版今日上线，账号数据可无损迁移｜IT之家｜https://www.ithome.com/0/976/781.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n2. The Gulf has billions to spend on AI. It still needs Nvidia｜Rest of World｜https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Apple opens its new Siri AI to everyone with the iOS 27 public beta｜TechCrunch｜https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\n4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\n5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy｜The Register｜https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-15｜V3\n生成时间：2026/7/15 08:09:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2539｜确认今日 21｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.\n\n2. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.\n\n3. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回\n   IT之家｜2026-07-15｜https://www.ithome.com/0/976/770.htm\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.\n\n4. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议\n   网易科技｜2026-07-15｜https://www.163.com/dy/article/L1S3CDN405198CJN.html\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.\n\n5. [2026-07-15] OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.\n\n本次新增线索：\n- IT早报 0715：市盈率 308.92 倍长鑫确定发行价 8.66 元 / 股；DeepSeek 梁文锋成全球 AI 公司新首富；IBM 创 40 年来最大单日跌幅；华为 5G 手机全球回归｜IT之家｜https://www.ithome.com/0/976/779.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n2. The Gulf has billions to spend on AI. It still needs Nvidia｜Rest of World｜https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Apple opens its new Siri AI to everyone with the iOS 27 public beta｜TechCrunch｜https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\n4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\n5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy｜The Register｜https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-15｜V3\n生成时间：2026/7/15 08:09:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2539｜确认今日 21｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.\n\n2. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.\n\n3. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回\n   IT之家｜2026-07-15｜https://www.ithome.com/0/976/770.htm\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.\n\n4. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议\n   网易科技｜2026-07-15｜https://www.163.com/dy/article/L1S3CDN405198CJN.html\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.\n\n5. [2026-07-15] OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手\n   新浪科技｜2026-07-15｜https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.\n\n本次新增线索：\n- IT早报 0715：市盈率 308.92 倍长鑫确定发行价 8.66 元 / 股；DeepSeek 梁文锋成全球 AI 公司新首富；IBM 创 40 年来最大单日跌幅；华为 5G 手机全球回归｜IT之家｜https://www.ithome.com/0/976/779.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n2. The Gulf has billions to spend on AI. It still needs Nvidia｜Rest of World｜https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Apple opens its new Siri AI to everyone with the iOS 27 public beta｜TechCrunch｜https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\n4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\n5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy｜The Register｜https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-15｜生成时间：2026/7/15 08:09:20｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2539｜确认今日 21｜国际背景 25</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 20 条｜国际 25 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居</strong>\n      <span>新浪科技｜2026-07-15｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的</strong>\n      <span>新浪科技｜2026-07-15｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回</strong>\n      <span>IT之家｜2026-07-15｜<a href=\"https://www.ithome.com/0/976/770.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：186｜需核验来源</span>\n      <p>报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议</strong>\n      <span>网易科技｜2026-07-15｜<a href=\"https://www.163.com/dy/article/L1S3CDN405198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：185｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-15] OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手</strong>\n      <span>新浪科技｜2026-07-15｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. DeepMind CEO calls for an independent standards body to regulate frontier AI</strong>\n      <span>时间：Tue, 14 Jul 2026 17:45:55 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “DeepMind CEO calls for an independent standards body to regulate frontie” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. The Gulf has billions to spend on AI. It still needs Nvidia</strong>\n      <span>时间：Tue, 14 Jul 2026 10:00:39 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The Gulf has billions to spend on AI. It still needs Nvidia” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Apple opens its new Siri AI to everyone with the iOS 27 public beta</strong>\n      <span>时间：Tue, 14 Jul 2026 19:42:27 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Apple opens its new Siri AI to everyone with the iOS 27 public beta” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26</strong>\n      <span>时间：2026-07-15｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy</strong>\n      <span>时间：Tue, 14 Jul 2026 15:40:16 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/15 08:09:20\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-15] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvqct7964606.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居” against primary-source evidence.\n\n2. [2026-07-15] 谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihvumq1078985.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的” against primary-source evidence.\n\n3. [22:56] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回\n   来源：IT之家\n   链接：https://www.ithome.com/0/976/770.htm\n   角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回” against primary-source evidence.\n\n4. [2026-07-15] 白宫启动网络安全“金鹰”AI倡议\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L1S3CDN405198CJN.html\n   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “白宫启动网络安全“金鹰”AI倡议” against primary-source evidence.\n\n5. [2026-07-15] OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvumk8083090.shtml\n   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI计划推出旗下首款硬件产品：移动式智能音箱 定位为AI陪伴助手” against primary-source evidence.\n\n本次新增线索：\n- IT早报 0715：市盈率 308.92 倍长鑫确定发行价 8.66 元 / 股；DeepSeek 梁文锋成全球 AI 公司新首富；IBM 创 40 年来最大单日跌幅；华为 5G 手机全球回归｜IT之家｜https://www.ithome.com/0/976/779.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. DeepMind CEO calls for an independent standards body to regulate frontier AI｜TechCrunch｜https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n2. The Gulf has billions to spend on AI. It still needs Nvidia｜Rest of World｜https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Apple opens its new Siri AI to everyone with the iOS 27 public beta｜TechCrunch｜https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/\n4. Samsung rolls out a fantastic One UI 9 Beta 4 on the Galaxy S26｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-rolls-fantastic-one-ui-181721879.html\n5. Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy｜The Register｜https://www.theregister.com/science/2026/07/14/sun-sets-on-vulcan-centaur-as-nasa-moves-sunrise-to-spacex-falcon-heavy/5271170\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
