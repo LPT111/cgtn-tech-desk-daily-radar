@@ -1,74 +1,38 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-16T23:42:48.196Z",
+  "generatedAt": "2026-07-17T00:08:51.533Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-17",
   "changeSummary": {
-    "domesticNew": 25,
-    "globalNew": 14,
-    "domesticContinued": 0,
-    "globalContinued": 10,
+    "domesticNew": 3,
+    "globalNew": 0,
+    "domesticContinued": 24,
+    "globalContinued": 21,
     "topNewDomestic": [
       {
-        "title": "中国智慧闪耀全球人工智能治理",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/2026-07/17/content_548543.html"
+        "title": "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/977/823.htm"
       },
       {
-        "title": "影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L216BDLA0512B07B.html"
-      },
-      {
-        "title": "国内首个空天地一体化全域智能产品矩阵发布",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L21918K90534A4SC.html"
-      },
-      {
-        "title": "新突破 中国企业发布全球最大规模的开源模型Kimi K3",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html"
-      },
-      {
-        "title": "格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住",
+        "title": "中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-07-17/doc-iniiahrp8062981.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml"
+      },
+      {
+        "title": "美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/977/850.htm"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "SpaceX Starship Launch Aborted on the Pad at the last moment",
-        "source": "AP Technology",
-        "url": "https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228"
-      },
-      {
-        "title": "SpaceX aborts Starship test flight, sending stock lower",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html"
-      },
-      {
-        "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/"
-      },
-      {
-        "title": "Why is OpenAI selling a ChatGPT basketball?",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/"
-      },
-      {
-        "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-        "source": "WIRED Business",
-        "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 875,
-    "globalRejected": 876,
+    "domesticRejected": 873,
+    "globalRejected": 879,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,8 +46,18 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 28,
   "failedSources": [
+    {
+      "name": "快科技-综合",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
+      "name": "快科技-科学",
+      "error": "This operation was aborted",
+      "optional": false
+    },
     {
       "name": "财联社",
       "error": "fetch failed",
@@ -111,6 +85,16 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "failures": [
+    {
+      "name": "快科技-综合",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
+      "name": "快科技-科学",
+      "error": "This operation was aborted",
+      "optional": false
+    },
     {
       "name": "财联社",
       "error": "fetch failed",
@@ -141,7 +125,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 179,
+      "parsed": 180,
       "failed": false,
       "optional": false
     },
@@ -156,7 +140,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "快科技-综合",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -170,7 +155,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "快科技-科学",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -389,18 +375,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1366,
+  "itemsSeen": 1367,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 340,
+  "itemsAfterRelevantFilter": 335,
   "itemsAfterDedupe": 252,
-  "todayItemsSeen": 25,
-  "suspectedItemsSeen": 21,
-  "skippedNonToday": 202,
+  "todayItemsSeen": 27,
+  "suspectedItemsSeen": 20,
+  "skippedNonToday": 200,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 179,
+      "parsed": 180,
       "failed": false,
       "optional": false
     },
@@ -415,7 +401,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "快科技-综合",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -429,7 +416,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "快科技-科学",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -716,7 +704,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 50,
+      "parsed": 0,
       "failed": false,
       "optional": false
     },
@@ -802,6 +790,16 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
+      "name": "快科技-综合",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
+      "name": "快科技-科学",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
       "name": "财联社",
       "error": "fetch failed",
       "optional": true
@@ -846,9 +844,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1221,
+  "globalItemsSeen": 1171,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 110,
+  "globalItemsAfterRelevantFilter": 129,
   "topics": [
     {
       "topic": "AI动态",
@@ -868,6 +866,21 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "人形机器人与具身智能",
+      "count": 3,
+      "sourceCount": 3,
+      "sources": [
+        "IT之家",
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打",
+        "格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住",
+        "全球首例！人形机器人执刀手术登上《Nature》，"
+      ]
+    },
+    {
       "topic": "太空与低空动态",
       "count": 4,
       "sourceCount": 2,
@@ -880,20 +893,6 @@ window.CHENCHEN_DAILY_DATA = {
         "马斯克：下一次发射尝试预计在数日内进行",
         "SpaceX盘后跳水超4%",
         "SpaceXAI：Grok 4.5定价为每百万输入Token收费2美元 每百万输出Token收费6美元"
-      ]
-    },
-    {
-      "topic": "人形机器人与具身智能",
-      "count": 3,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "网易科技"
-      ],
-      "items": [
-        "格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住",
-        "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打",
-        "全球首例！人形机器人执刀手术登上《Nature》，"
       ]
     },
     {
@@ -923,6 +922,18 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "新能源车与智能驾驶",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管",
+        "靳玉志：未来 5 年，华为乾崑在算力研发上将持续投入，达 700 到 800 亿元"
+      ]
+    },
+    {
       "topic": "监管与安全动态",
       "count": 1,
       "sourceCount": 1,
@@ -931,6 +942,17 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "中国智慧闪耀全球人工智能治理"
+      ]
+    },
+    {
+      "topic": "机器人动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围"
       ]
     },
     {
@@ -975,17 +997,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "比亚迪辅助驾驶车型保有量超333万辆；特斯拉官"
-      ]
-    },
-    {
-      "topic": "新能源车与智能驾驶",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "靳玉志：未来 5 年，华为乾崑在算力研发上将持续投入，达 700 到 800 亿元"
       ]
     }
   ],
@@ -1056,6 +1067,74 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中国智慧闪耀全球人工智能治理"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打",
+      "summary": "据介绍，此次揭幕战采用 1V1 对抗赛的形式，共包含 5 个回合，每个回合时长 5 分钟，在这 5 分钟里，对对方选手的有效部位进行有效击打，即可获得分数。#机器人高能格斗头掉了身体还在打#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/977/823.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/977/823.htm"
+      ],
+      "publishedAt": "Thu, 16 Jul 2026 16:39:34 GMT",
+      "date": "2026-07-17",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 175,
+      "reporterScore": 189,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "据介绍，此次揭幕战采用 1V1 对抗赛的形式，共包含 5 个回合，每个回合时长 5 分钟，在这 5 分钟里，对对方选手的有效部位进行有效击打，即可获得分数。#机器人高能格斗头掉了身体还在打#",
+      "relatedTitles": [
+        "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1124,7 +1203,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1192,7 +1271,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "国内首个空天地一体化全域智能产品矩阵发布"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1260,7 +1339,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "新突破 中国企业发布全球最大规模的开源模型Kimi K3"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1328,7 +1407,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1396,75 +1475,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "4项新任务助力美NASA建设永久月球基地"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打",
-      "summary": "IT之家 7 月 17 日消息，7 月 16 日晚，由深圳机器人企业发起组织的全球首个产业级人形机器人自由格斗赛事 —— 众擎 URKL 全球首场机器人格斗赛揭幕之夜在深圳开幕。据介绍，此次揭幕战采用 1V1 对抗赛的形式，共包含 5 个回...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-17/doc-inihzrtv8121361.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-07-17/doc-inihzrtv8121361.shtml"
-      ],
-      "publishedAt": "2026-07-17",
-      "date": "2026-07-17",
-      "category": "机器人",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 179,
-      "reporterScore": 193,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "IT之家 7 月 17 日消息，7 月 16 日晚，由深圳机器人企业发起组织的全球首个产业级人形机器人自由格斗赛事 —— 众擎 URKL 全球首场机器人格斗赛揭幕之夜在深圳开幕。据介绍，此次揭幕战采用 1V1 对抗赛的形式，共包含 5 个回...",
-      "relatedTitles": [
-        "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1531,6 +1542,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "全球首例！人形机器人执刀手术登上《Nature》，独家拆解幕后国产灵巧手：距离手术室革命还有多远？,机器人,灵巧手,手术室,达芬奇,手术器械,Nature",
       "relatedTitles": [
         "全球首例！人形机器人执刀手术登上《Nature》，"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围",
+      "summary": "快科技7月17日消息，今日，市场调研机构洛图科技发布2026年6月中国扫地机器人市场销量数据。数据显示，6月中国扫地机器人线上市场零售量达到68.6万台，同比增长16.6%，环比增长22.1%；零售额为21.7亿元，同比增长12.0%，环比...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml"
+      ],
+      "publishedAt": "2026-07-17",
+      "date": "2026-07-17",
+      "category": "机器人",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 166,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "快科技7月17日消息，今日，市场调研机构洛图科技发布2026年6月中国扫地机器人市场销量数据。数据显示，6月中国扫地机器人线上市场零售量达到68.6万台，同比增长16.6%，环比增长22.1%；零售额为21.7亿元，同比增长12.0%，环比...",
+      "relatedTitles": [
+        "中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管",
+      "summary": "旧金山市长致信加州交通部，要求对 Waymo 等自动驾驶公司加强监管。起因是 7 月 4 日多辆 Waymo 出租车碾过烟花导致起火和交通瘫痪。市长提出四项核心能力要求，并呼吁制定全州统一安全标准。#Waymo# #自动驾驶监管#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/977/850.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/977/850.htm"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 00:08:39 GMT",
+      "date": "2026-07-17",
+      "category": "新能源车",
+      "classificationConfidence": 0.8,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 174,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "旧金山市长致信加州交通部，要求对 Waymo 等自动驾驶公司加强监管。起因是 7 月 4 日多辆 Waymo 出租车碾过烟花导致起火和交通瘫痪。市长提出四项核心能力要求，并呼吁制定全州统一安全标准。#Waymo# #自动驾驶监管#",
+      "relatedTitles": [
+        "美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管"
       ],
       "isNewSinceLastRun": true
     },
@@ -1600,7 +1747,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Meta AI 上线新功能：如果青少年讨论自杀或自残相关话题，将自动通报家长"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1668,7 +1815,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "荣耀Robot Phone展示AI绝活：一句话搞定屏幕调整、设闹钟、打车"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1736,7 +1883,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中国无人车首次挺进中亚 萝卜快跑驶入哈萨克斯坦"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1804,7 +1951,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "火箭回收破局 商业航天将聚焦卫星质量与管理"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1872,7 +2019,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "SpaceX 第 13 次星舰飞行测试中止，画面显示 4 个引擎未点火"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1940,7 +2087,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "力成拟联手博通，在新加坡设立面板级先进封装合资企业"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2008,7 +2155,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌Gemini发布延期 技术表现未达目标‌"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2076,7 +2223,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Netflix：今年有大约 300 部作品使用了生成式 AI"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2144,7 +2291,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌 NotebookLM 更名 Gemini Notebook，原生支持代码编写执行"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2212,7 +2359,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "马斯克：下一次发射尝试预计在数日内进行"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2280,7 +2427,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "努比亚曝光二代“豆包手机”外观；23家首店将入"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2348,7 +2495,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "微软正筹备类Mythos AI漏洞检测工具‌"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2416,7 +2563,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "SpaceX盘后跳水超4%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2484,7 +2631,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "SpaceXAI：Grok 4.5定价为每百万输入Token收费2美元 每百万输出Token收费6美元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2552,7 +2699,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "从支撑到策源，上海光源如何“照亮”建制化基础研究"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2620,7 +2767,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "比亚迪辅助驾驶车型保有量超333万辆；特斯拉官"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2688,7 +2835,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "靳玉志：未来 5 年，华为乾崑在算力研发上将持续投入，达 700 到 800 亿元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2962,21 +3109,21 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "我国科研机构主导的大模型成果首次登上Nature",
-      "summary": "整个AI领域过去五年来悬而未决的核心命题，“我们能否用一种统一的方式，让机器同时学会看、听、说、写，乃至行动？”，其复杂程度足以让全球顶尖的AI实验室争论不休。",
+      "title": "要对美国“人工智能霸凌”说“不”！",
+      "summary": "中国绝对不会允许美国把中国排除在人工智能发展的大门之外，也不会允许美国实现在人工智能领域的霸凌地位。",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/xinzhiguanchasuo/2026_02_07_806400.shtml",
+      "url": "https://www.guancha.cn/gaozhikai/2026_07_17_824001.shtml",
       "sourceUrls": [
-        "https://www.guancha.cn/xinzhiguanchasuo/2026_02_07_806400.shtml"
+        "https://www.guancha.cn/gaozhikai/2026_07_17_824001.shtml"
       ],
       "publishedAt": "",
       "date": "",
       "category": "AI",
-      "classificationConfidence": 0.72,
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -3019,12 +3166,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “我国科研机构主导的大模型成果首次登上Nature” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “要对美国“人工智能霸凌”说“不”！” against primary-source evidence.",
       "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "整个AI领域过去五年来悬而未决的核心命题，“我们能否用一种统一的方式，让机器同时学会看、听、说、写，乃至行动？”，其复杂程度足以让全球顶尖的AI实验室争论不休。",
+      "matchedTopic": "AI动态",
+      "rawText": "中国绝对不会允许美国把中国排除在人工智能发展的大门之外，也不会允许美国实现在人工智能领域的霸凌地位。",
       "relatedTitles": [
-        "我国科研机构主导的大模型成果首次登上Nature"
+        "要对美国“人工智能霸凌”说“不”！"
       ]
     },
     {
@@ -3365,7 +3512,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "AgentOS",
-      "summary": "AgentOS 阶跃入局，重构智能体时代操作系统 董事长印奇称“未来的OS一定是跨端的” 衡宇 5分钟前 AgentOS Step AOS 阶跃星辰 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世",
+      "summary": "AgentOS 阶跃入局，重构智能体时代操作系统 董事长印奇称“未来的OS一定是跨端的” 衡宇 16分钟前 AgentOS Step AOS 阶跃星辰 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -3424,7 +3571,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AgentOS” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "AgentOS 阶跃入局，重构智能体时代操作系统 董事长印奇称“未来的OS一定是跨端的” 衡宇 5分钟前 AgentOS Step AOS 阶跃星辰 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代 刚刚，全球首个具身专属的MoE视频模型，开源了！ 世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
+      "rawText": "AgentOS 阶跃入局，重构智能体时代操作系统 董事长印奇称“未来的OS一定是跨端的” 衡宇 16分钟前 AgentOS Step AOS 阶跃星辰 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代 刚刚，全球首个具身专属的MoE视频模型，开源了！ 世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
       "relatedTitles": [
         "AgentOS"
       ]
@@ -4031,79 +4178,12 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI视界，不止于想象"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "无人车往哪里开？ 一个广告营销老炮",
-      "summary": "无人车往哪里开？ 一个广告营销老炮，率先冲刺A股无人驾驶第一股 最大客户赛力斯，一单贡献全年三成收入 杰西卡 12分钟前 无人车往哪里开？ 穿透财报招股书 车圈最新认知 物理AI第一块万亿市场，在公路货运先跑通闭环了 申通安能用真金白银下单 杰西卡 2026-06-24 DeepWay深向 无人车往哪里开？ 车圈最新认",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "新能源车",
-      "classificationConfidence": 0.76,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 4,
-      "score": 119,
-      "reporterScore": 125,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 93
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “无人车往哪里开？ 一个广告营销老炮” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "无人车往哪里开？ 一个广告营销老炮，率先冲刺A股无人驾驶第一股 最大客户赛力斯，一单贡献全年三成收入 杰西卡 12分钟前 无人车往哪里开？ 穿透财报招股书 车圈最新认知 物理AI第一块万亿市场，在公路货运先跑通闭环了 申通安能用真金白银下单 杰西卡 2026-06-24 DeepWay深向 无人车往哪里开？ 车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 2026-06-10 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 2026-05-25 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡",
-      "relatedTitles": [
-        "无人车往哪里开？ 一个广告营销老炮"
-      ]
     }
   ],
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX Starship Launch Aborted on the Pad at the last moment",
+      "title": "SpaceX Starship launch aborted on the pad at the last moment",
       "summary": "SpaceX's next Starship flight is off indefinitely after a last-second abort on the pad. The mega rocket was preparing to blast off on a test flight Thursday from Texas when some of",
       "source": "AP Technology",
       "url": "https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228",
@@ -4116,7 +4196,7 @@ window.CHENCHEN_DAILY_DATA = {
       "globalWhitelistScore": 60,
       "keywords": "commercial space, low-altitude economy and satellite infrastructure",
       "relevanceToChina": "medium",
-      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX Starship Launch Aborted on the Pad at the last moment” against primary-source evidence.",
+      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX Starship launch aborted on the pad at the last moment” against primary-source evidence.",
       "priority": 5,
       "score": 155,
       "reporterScore": 169,
@@ -4131,7 +4211,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 108
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4195,359 +4275,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 98
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
-      "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
-      "publishedAt": "Thu, 16 Jul 2026 20:07:14 +0000",
-      "date": "2026-07-16",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Founders Fund hires former OpenAI exec Ryan Beiermeister (and not becaus” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "publishedAt": "Thu, 16 Jul 2026 15:31:09 +0000",
-      "date": "2026-07-16",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Why is OpenAI selling a ChatGPT basketball?” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-      "summary": "On today’s “Uncanny Valley,” we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight ",
-      "source": "WIRED Business",
-      "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-      "publishedAt": "Thu, 16 Jul 2026 22:17:27 +0000",
-      "date": "2026-07-17",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know ” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says",
-      "summary": "A study shows major artificial intelligence models are likely to refuse to criticize restrictive leaders worldwide.",
-      "source": "AP Technology",
-      "url": "https://apnews.com/article/artificial-intelligence-chatbots-censorship-bias-free-speech-fed8fdbf90751c10fe77b77832e0ffba",
-      "publishedAt": "2026-07-16",
-      "date": "2026-07-16",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI chatbots are at risk of spreading government restrictions on online s” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "EU orders Google to share search data and open Android system to AI rivals",
-      "summary": "The European Union on Thursday ordered Google to share its search data with rival search engines and open Android to competing AI services under its Digital Markets Act, in its lat",
-      "source": "France24 Technology",
-      "url": "https://www.france24.com/en/europe/20260716-eu-orders-google-to-share-search-data-and-open-android-system-to-ai-rivals",
-      "publishedAt": "2026-07-16",
-      "date": "2026-07-16",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “EU orders Google to share search data and open Android system to AI riva” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google Vids now lets you star in your own AI videos",
-      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editi",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "publishedAt": "Thu, 16 Jul 2026 18:32:54 +0000",
-      "date": "2026-07-16",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google Vids now lets you star in your own AI videos” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "publishedAt": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "date": "2026-07-16",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google’s AI Mode now lets you link and interact with select apps” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "TSMC's $265B US fab pledge is the outline of a concept of a plan",
-      "summary": "Beware of fab makers bearing press releases",
-      "source": "The Register",
-      "url": "https://www.theregister.com/systems/2026/07/16/tsmcs-265b-us-fab-pledge-is-the-outline-of-a-concept-of-a-plan/5273903",
-      "publishedAt": "Thu, 16 Jul 2026 21:54:51 +0200",
-      "date": "2026-07-16",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “TSMC's $265B US fab pledge is the outline of a concept of a plan” against primary-source evidence.",
-      "priority": 4,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
-      "summary": "Nvidia announces new AI model, Cosmos 3 Edge, and expansion of its physical AI ecosystems in Japan.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
-      "publishedAt": "Thu, 16 Jul 2026 16:08:29 GMT",
-      "date": "2026-07-16",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.58,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Nvidia unveils new AI model and expands Japan’s physical AI ecosystem” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "This Samsung Galaxy S26 Ultra defect is turning users' screens red, but a fix is in the works",
-      "summary": "It's official: Samsung's next Galaxy Unpacked event is set for July 22. Get ready for our first official look at the wider Galaxy Z Fold 8, Galaxy Z Flip 8 and more.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/article/this-samsung-galaxy-s26-ultra-defect-is-turning-users-screens-red-but-a-fix-is-in-the-works-192215664.html",
-      "publishedAt": "2026-07-15",
-      "date": "2026-07-15",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.71,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “This Samsung Galaxy S26 Ultra defect is turning users' screens red, but ” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
-      "summary": "Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
-      "publishedAt": "Thu, 16 Jul 2026 23:41:18 GMT",
-      "date": "2026-07-16",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially ” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4647,23 +4375,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
-      "summary": "NTSB findings back Elon Musk's claim that driver manually overrode FSD.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
-      "publishedAt": "Thu, 16 Jul 2026 14:48:32 +0000",
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+      "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "publishedAt": "Thu, 16 Jul 2026 20:07:14 +0000",
       "date": "2026-07-16",
       "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 85,
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTS” against primary-source evidence.",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Founders Fund hires former OpenAI exec Ryan Beiermeister (and not becaus” against primary-source evidence.",
       "priority": 5,
-      "score": 134,
-      "reporterScore": 134,
+      "score": 144,
+      "reporterScore": 144,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4671,11 +4399,75 @@ window.CHENCHEN_DAILY_DATA = {
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
+        "hardTechWeight": 95,
+        "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "publishedAt": "Thu, 16 Jul 2026 15:31:09 +0000",
+      "date": "2026-07-16",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Why is OpenAI selling a ChatGPT basketball?” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "summary": "On today’s “Uncanny Valley,” we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight ",
+      "source": "WIRED Business",
+      "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "publishedAt": "Thu, 16 Jul 2026 22:17:27 +0000",
+      "date": "2026-07-17",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know ” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4743,20 +4535,20 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI hides Codex agent instructions behind encryption, leaving developers in the dark",
-      "summary": "Developers worry encrypted MultiAgentV2 messages will make debugging and auditing harder",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/15/openai-hides-codex-agent-instructions-behind-encryption-leaving-developers-in-the-dark/5271484",
-      "publishedAt": "Wed, 15 Jul 2026 01:00:33 +0200",
-      "date": "2026-07-15",
-      "region": "Europe",
+      "title": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says",
+      "summary": "A study shows major artificial intelligence models are likely to refuse to criticize restrictive leaders worldwide.",
+      "source": "AP Technology",
+      "url": "https://apnews.com/article/artificial-intelligence-chatbots-censorship-bias-free-speech-fed8fdbf90751c10fe77b77832e0ffba",
+      "publishedAt": "2026-07-16",
+      "date": "2026-07-16",
+      "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.8,
+      "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI hides Codex agent instructions behind encryption, leaving develop” against primary-source evidence.",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI chatbots are at risk of spreading government restrictions on online s” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -4775,23 +4567,183 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "How to teach an old Intel Mac new tricks with OpenCore Legacy Patcher",
-      "summary": "Why to do it, and what to watch out for",
-      "source": "The Register",
-      "url": "https://www.theregister.com/software/2026/07/16/how-to-teach-an-old-intel-mac-new-tricks-with-opencore-legacy-patcher/5271880",
-      "publishedAt": "Thu, 16 Jul 2026 10:30:00 +0200",
+      "title": "EU orders Google to share search data and open Android system to AI rivals",
+      "summary": "The European Union on Thursday ordered Google to share its search data with rival search engines and open Android to competing AI services under its Digital Markets Act, in its lat",
+      "source": "France24 Technology",
+      "url": "https://www.france24.com/en/europe/20260716-eu-orders-google-to-share-search-data-and-open-android-system-to-ai-rivals",
+      "publishedAt": "2026-07-16",
       "date": "2026-07-16",
       "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “EU orders Google to share search data and open Android system to AI riva” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editi",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "publishedAt": "Thu, 16 Jul 2026 18:32:54 +0000",
+      "date": "2026-07-16",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google Vids now lets you star in your own AI videos” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "publishedAt": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "date": "2026-07-16",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google’s AI Mode now lets you link and interact with select apps” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
+      "summary": "Nvidia announces new AI model, Cosmos 3 Edge, and expansion of its physical AI ecosystems in Japan.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
+      "publishedAt": "Thu, 16 Jul 2026 16:08:29 GMT",
+      "date": "2026-07-16",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.58,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Nvidia unveils new AI model and expands Japan’s physical AI ecosystem” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "This Samsung Galaxy S26 Ultra defect is turning users' screens red, but a fix is in the works",
+      "summary": "It's official: Samsung's next Galaxy Unpacked event is set for July 22. Get ready for our first official look at the wider Galaxy Z Fold 8, Galaxy Z Flip 8 and more.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/article/this-samsung-galaxy-s26-ultra-defect-is-turning-users-screens-red-but-a-fix-is-in-the-works-192215664.html",
+      "publishedAt": "2026-07-15",
+      "date": "2026-07-15",
+      "region": "US",
       "category": "芯片",
-      "classificationConfidence": 0.62,
+      "classificationConfidence": 0.71,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “How to teach an old Intel Mac new tricks with OpenCore Legacy Patcher” against primary-source evidence.",
-      "priority": 4,
-      "score": 144,
-      "reporterScore": 144,
+      "relevanceToChina": "medium",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “This Samsung Galaxy S26 Ultra defect is turning users' screens red, but ” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
+      "summary": "Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+      "publishedAt": "Thu, 16 Jul 2026 23:45:16 GMT",
+      "date": "2026-07-16",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially ” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4868,10 +4820,42 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
+      "summary": "NTSB findings back Elon Musk's claim that driver manually overrode FSD.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
+      "publishedAt": "Thu, 16 Jul 2026 14:48:32 +0000",
+      "date": "2026-07-16",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTS” against primary-source evidence.",
+      "priority": 5,
+      "score": 134,
+      "reporterScore": 134,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-17｜V3\n生成时间：2026/7/17 07:42:48\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2587｜确认今日 25｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 25 条｜国际 14 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-17] 中国智慧闪耀全球人工智能治理\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/2026-07/17/content_548543.html\n   报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.\n\n2. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L216BDLA0512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.\n\n3. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L21918K90534A4SC.html\n   报道角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.\n\n4. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.\n\n5. [2026-07-17] 格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住\n   新浪科技｜2026-07-17｜https://finance.sina.com.cn/tech/discovery/2026-07-17/doc-iniiahrp8062981.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住” against primary-source evidence.\n\n本次新增线索：\n- 中国智慧闪耀全球人工智能治理｜科技日报｜https://www.stdaily.com/web/2026-07/17/content_548543.html\n- 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营｜网易科技｜https://www.163.com/dy/article/L216BDLA0512B07B.html\n- 国内首个空天地一体化全域智能产品矩阵发布｜网易科技｜https://www.163.com/dy/article/L21918K90534A4SC.html\n- 新突破 中国企业发布全球最大规模的开源模型Kimi K3｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n- 格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-17/doc-iniiahrp8062981.shtml\n- SpaceX Starship Launch Aborted on the Pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX Starship Launch Aborted on the Pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership｜CNBC Technology｜https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\n3. SpaceX aborts Starship test flight, sending stock lower｜CNBC Technology｜https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\n4. Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)｜TechCrunch｜https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/\n5. Why is OpenAI selling a ChatGPT basketball?｜TechCrunch｜https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-17｜V3\n生成时间：2026/7/17 07:42:48\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2587｜确认今日 25｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 25 条｜国际 14 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-17] 中国智慧闪耀全球人工智能治理\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/2026-07/17/content_548543.html\n   报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.\n\n2. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L216BDLA0512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.\n\n3. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L21918K90534A4SC.html\n   报道角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.\n\n4. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.\n\n5. [2026-07-17] 格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住\n   新浪科技｜2026-07-17｜https://finance.sina.com.cn/tech/discovery/2026-07-17/doc-iniiahrp8062981.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住” against primary-source evidence.\n\n本次新增线索：\n- 中国智慧闪耀全球人工智能治理｜科技日报｜https://www.stdaily.com/web/2026-07/17/content_548543.html\n- 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营｜网易科技｜https://www.163.com/dy/article/L216BDLA0512B07B.html\n- 国内首个空天地一体化全域智能产品矩阵发布｜网易科技｜https://www.163.com/dy/article/L21918K90534A4SC.html\n- 新突破 中国企业发布全球最大规模的开源模型Kimi K3｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n- 格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-17/doc-iniiahrp8062981.shtml\n- SpaceX Starship Launch Aborted on the Pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX Starship Launch Aborted on the Pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership｜CNBC Technology｜https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\n3. SpaceX aborts Starship test flight, sending stock lower｜CNBC Technology｜https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\n4. Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)｜TechCrunch｜https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/\n5. Why is OpenAI selling a ChatGPT basketball?｜TechCrunch｜https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-17｜生成时间：2026/7/17 07:42:48｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2587｜确认今日 25｜国际背景 24</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 25 条｜国际 14 条<br>延续跟踪线索：国内 0 条｜国际 10 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-17] 中国智慧闪耀全球人工智能治理</strong>\n      <span>科技日报｜2026-07-17｜<a href=\"https://www.stdaily.com/web/2026-07/17/content_548543.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：207｜需核验来源</span>\n      <p>报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营</strong>\n      <span>网易科技｜2026-07-17｜<a href=\"https://www.163.com/dy/article/L216BDLA0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布</strong>\n      <span>网易科技｜2026-07-17｜<a href=\"https://www.163.com/dy/article/L21918K90534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：195｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3</strong>\n      <span>科技日报｜2026-07-17｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：194｜需核验来源</span>\n      <p>报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-17] 格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住</strong>\n      <span>新浪科技｜2026-07-17｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-07-17/doc-iniiahrp8062981.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX Starship Launch Aborted on the Pad at the last moment</strong>\n      <span>时间：2026-07-16｜来源：AP Technology｜<a href=\"https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX Starship Launch Aborted on the Pad at the last moment” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership</strong>\n      <span>时间：Thu, 16 Jul 2026 14:15:44 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. SpaceX aborts Starship test flight, sending stock lower</strong>\n      <span>时间：Thu, 16 Jul 2026 23:31:34 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX aborts Starship test flight, sending stock lower” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)</strong>\n      <span>时间：Thu, 16 Jul 2026 20:07:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Founders Fund hires former OpenAI exec Ryan Beiermeister (and not becaus” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Why is OpenAI selling a ChatGPT basketball?</strong>\n      <span>时间：Thu, 16 Jul 2026 15:31:09 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Why is OpenAI selling a ChatGPT basketball?” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/17 07:42:48\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 25 条｜国际 14 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-17] 中国智慧闪耀全球人工智能治理\n   来源：科技日报\n   链接：https://www.stdaily.com/web/2026-07/17/content_548543.html\n   角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.\n\n2. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L216BDLA0512B07B.html\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.\n\n3. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L21918K90534A4SC.html\n   角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.\n\n4. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.\n\n5. [2026-07-17] 格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-07-17/doc-iniiahrp8062981.shtml\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住” against primary-source evidence.\n\n本次新增线索：\n- 中国智慧闪耀全球人工智能治理｜科技日报｜https://www.stdaily.com/web/2026-07/17/content_548543.html\n- 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营｜网易科技｜https://www.163.com/dy/article/L216BDLA0512B07B.html\n- 国内首个空天地一体化全域智能产品矩阵发布｜网易科技｜https://www.163.com/dy/article/L21918K90534A4SC.html\n- 新突破 中国企业发布全球最大规模的开源模型Kimi K3｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n- 格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-17/doc-iniiahrp8062981.shtml\n- SpaceX Starship Launch Aborted on the Pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. SpaceX Starship Launch Aborted on the Pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership｜CNBC Technology｜https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\n3. SpaceX aborts Starship test flight, sending stock lower｜CNBC Technology｜https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\n4. Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)｜TechCrunch｜https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/\n5. Why is OpenAI selling a ChatGPT basketball?｜TechCrunch｜https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-17｜V3\n生成时间：2026/7/17 08:08:51\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2538｜确认今日 27｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 24 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-17] 中国智慧闪耀全球人工智能治理\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/2026-07/17/content_548543.html\n   报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.\n\n2. [16:39] 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打\n   IT之家｜2026-07-17｜https://www.ithome.com/0/977/823.htm\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.\n\n3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L216BDLA0512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.\n\n4. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L21918K90534A4SC.html\n   报道角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.\n\n5. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.\n\n本次新增线索：\n- 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打｜IT之家｜https://www.ithome.com/0/977/823.htm\n- 中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml\n- 美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管｜IT之家｜https://www.ithome.com/0/977/850.htm\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX Starship launch aborted on the pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership｜CNBC Technology｜https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\n3. SpaceX aborts Starship test flight, sending stock lower｜CNBC Technology｜https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\n4. An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI｜WIRED Science｜https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/\n5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer｜MIT Technology Review｜https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-17｜V3\n生成时间：2026/7/17 08:08:51\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2538｜确认今日 27｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 24 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-17] 中国智慧闪耀全球人工智能治理\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/2026-07/17/content_548543.html\n   报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.\n\n2. [16:39] 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打\n   IT之家｜2026-07-17｜https://www.ithome.com/0/977/823.htm\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.\n\n3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L216BDLA0512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.\n\n4. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L21918K90534A4SC.html\n   报道角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.\n\n5. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.\n\n本次新增线索：\n- 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打｜IT之家｜https://www.ithome.com/0/977/823.htm\n- 中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml\n- 美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管｜IT之家｜https://www.ithome.com/0/977/850.htm\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX Starship launch aborted on the pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership｜CNBC Technology｜https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\n3. SpaceX aborts Starship test flight, sending stock lower｜CNBC Technology｜https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\n4. An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI｜WIRED Science｜https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/\n5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer｜MIT Technology Review｜https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-17｜生成时间：2026/7/17 08:08:51｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2538｜确认今日 27｜国际背景 21</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 24 条｜国际 21 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-17] 中国智慧闪耀全球人工智能治理</strong>\n      <span>科技日报｜2026-07-17｜<a href=\"https://www.stdaily.com/web/2026-07/17/content_548543.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：207｜需核验来源</span>\n      <p>报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [16:39] 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打</strong>\n      <span>IT之家｜2026-07-17｜<a href=\"https://www.ithome.com/0/977/823.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：189｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营</strong>\n      <span>网易科技｜2026-07-17｜<a href=\"https://www.163.com/dy/article/L216BDLA0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布</strong>\n      <span>网易科技｜2026-07-17｜<a href=\"https://www.163.com/dy/article/L21918K90534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：195｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3</strong>\n      <span>科技日报｜2026-07-17｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：194｜需核验来源</span>\n      <p>报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX Starship launch aborted on the pad at the last moment</strong>\n      <span>时间：2026-07-16｜来源：AP Technology｜<a href=\"https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX Starship launch aborted on the pad at the last moment” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership</strong>\n      <span>时间：Thu, 16 Jul 2026 14:15:44 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. SpaceX aborts Starship test flight, sending stock lower</strong>\n      <span>时间：Thu, 16 Jul 2026 23:31:34 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX aborts Starship test flight, sending stock lower” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI</strong>\n      <span>时间：Wed, 15 Jul 2026 12:00:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer</strong>\n      <span>时间：Wed, 15 Jul 2026 17:09:37 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/17 08:08:51\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 24 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-17] 中国智慧闪耀全球人工智能治理\n   来源：科技日报\n   链接：https://www.stdaily.com/web/2026-07/17/content_548543.html\n   角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.\n\n2. [16:39] 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打\n   来源：IT之家\n   链接：https://www.ithome.com/0/977/823.htm\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.\n\n3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L216BDLA0512B07B.html\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.\n\n4. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L21918K90534A4SC.html\n   角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.\n\n5. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.\n\n本次新增线索：\n- 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打｜IT之家｜https://www.ithome.com/0/977/823.htm\n- 中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml\n- 美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管｜IT之家｜https://www.ithome.com/0/977/850.htm\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. SpaceX Starship launch aborted on the pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership｜CNBC Technology｜https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\n3. SpaceX aborts Starship test flight, sending stock lower｜CNBC Technology｜https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\n4. An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI｜WIRED Science｜https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/\n5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer｜MIT Technology Review｜https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
