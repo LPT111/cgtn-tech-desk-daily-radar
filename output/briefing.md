@@ -3,25 +3,25 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/17 08:08:51
+生成时间：2026/7/17 08:15:08
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 0 条
-延续跟踪线索：国内 24 条｜国际 21 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 27 条｜国际 21 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-17] 中国智慧闪耀全球人工智能治理
+1. [2026-07-17] 全球人工智能治理期盼中国时刻
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0717/c1004-40762340.html
+   角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “全球人工智能治理期盼中国时刻” against primary-source evidence.
+
+2. [2026-07-17] 中国智慧闪耀全球人工智能治理
    来源：科技日报
    链接：https://www.stdaily.com/web/2026-07/17/content_548543.html
    角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.
-
-2. [16:39] 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打
-   来源：IT之家
-   链接：https://www.ithome.com/0/977/823.htm
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.
 
 3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营
    来源：网易科技
@@ -39,9 +39,7 @@ ChenChen 今日 Briefing｜V3
    角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.
 
 本次新增线索：
-- 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打｜IT之家｜https://www.ithome.com/0/977/823.htm
-- 中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml
-- 美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管｜IT之家｜https://www.ithome.com/0/977/850.htm
+- 全球人工智能治理期盼中国时刻｜人民网-科技｜http://finance.people.com.cn/n1/2026/0717/c1004-40762340.html
 
 今日热点方向：
 - AI 应用：AI动态（8 条，3 个来源）

@@ -1,27 +1,17 @@
 {
-  "generatedAt": "2026-07-17T00:08:51.533Z",
+  "generatedAt": "2026-07-17T00:15:08.384Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-17",
   "changeSummary": {
-    "domesticNew": 3,
+    "domesticNew": 1,
     "globalNew": 0,
-    "domesticContinued": 24,
+    "domesticContinued": 27,
     "globalContinued": 21,
     "topNewDomestic": [
       {
-        "title": "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/977/823.htm"
-      },
-      {
-        "title": "中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml"
-      },
-      {
-        "title": "美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/977/850.htm"
+        "title": "全球人工智能治理期盼中国时刻",
+        "source": "人民网-科技",
+        "url": "http://finance.people.com.cn/n1/2026/0717/c1004-40762340.html"
       }
     ],
     "topNewGlobal": [],
@@ -31,7 +21,7 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 873,
+    "domesticRejected": 872,
     "globalRejected": 879,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -46,18 +36,8 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 28,
+  "successSources": 30,
   "failedSources": [
-    {
-      "name": "快科技-综合",
-      "error": "This operation was aborted",
-      "optional": false
-    },
-    {
-      "name": "快科技-科学",
-      "error": "This operation was aborted",
-      "optional": false
-    },
     {
       "name": "财联社",
       "error": "fetch failed",
@@ -85,16 +65,6 @@
     }
   ],
   "failures": [
-    {
-      "name": "快科技-综合",
-      "error": "This operation was aborted",
-      "optional": false
-    },
-    {
-      "name": "快科技-科学",
-      "error": "This operation was aborted",
-      "optional": false
-    },
     {
       "name": "财联社",
       "error": "fetch failed",
@@ -140,8 +110,7 @@
       "name": "快科技-综合",
       "tier": "industry",
       "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "failed": false,
       "optional": false
     },
     {
@@ -155,8 +124,7 @@
       "name": "快科技-科学",
       "tier": "industry",
       "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "failed": false,
       "optional": false
     },
     {
@@ -377,11 +345,11 @@
   ],
   "itemsSeen": 1367,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 335,
-  "itemsAfterDedupe": 252,
-  "todayItemsSeen": 27,
+  "itemsAfterRelevantFilter": 331,
+  "itemsAfterDedupe": 249,
+  "todayItemsSeen": 28,
   "suspectedItemsSeen": 20,
-  "skippedNonToday": 200,
+  "skippedNonToday": 196,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -401,8 +369,7 @@
       "name": "快科技-综合",
       "tier": "industry",
       "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "failed": false,
       "optional": false
     },
     {
@@ -416,8 +383,7 @@
       "name": "快科技-科学",
       "tier": "industry",
       "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "failed": false,
       "optional": false
     },
     {
@@ -705,7 +671,8 @@
       "name": "The Register",
       "tier": "international",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "403 Forbidden",
       "optional": false
     },
     {
@@ -790,16 +757,6 @@
   ],
   "domesticFailedSources": [
     {
-      "name": "快科技-综合",
-      "error": "This operation was aborted",
-      "optional": false
-    },
-    {
-      "name": "快科技-科学",
-      "error": "This operation was aborted",
-      "optional": false
-    },
-    {
       "name": "财联社",
       "error": "fetch failed",
       "optional": true
@@ -832,6 +789,11 @@
       "optional": false
     },
     {
+      "name": "The Register",
+      "error": "403 Forbidden",
+      "optional": false
+    },
+    {
       "name": "White House OSTP",
       "error": "404 Not Found",
       "optional": false
@@ -843,7 +805,7 @@
     }
   ],
   "globalSourcesChecked": 21,
-  "globalSuccessSources": 18,
+  "globalSuccessSources": 17,
   "globalItemsSeen": 1171,
   "globalWindow": "latest_48h",
   "globalItemsAfterRelevantFilter": 129,
@@ -870,14 +832,14 @@
       "count": 3,
       "sourceCount": 3,
       "sources": [
-        "IT之家",
         "新浪科技",
-        "网易科技"
+        "网易科技",
+        "IT之家"
       ],
       "items": [
-        "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打",
         "格斗赛机器人头被打飞 功夫巨星甄子丹看得呆住",
-        "全球首例！人形机器人执刀手术登上《Nature》，"
+        "全球首例！人形机器人执刀手术登上《Nature》，",
+        "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打"
       ]
     },
     {
@@ -893,6 +855,19 @@
         "马斯克：下一次发射尝试预计在数日内进行",
         "SpaceX盘后跳水超4%",
         "SpaceXAI：Grok 4.5定价为每百万输入Token收费2美元 每百万输出Token收费6美元"
+      ]
+    },
+    {
+      "topic": "监管与安全动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "人民网-科技",
+        "科技日报"
+      ],
+      "items": [
+        "全球人工智能治理期盼中国时刻",
+        "中国智慧闪耀全球人工智能治理"
       ]
     },
     {
@@ -934,14 +909,14 @@
       ]
     },
     {
-      "topic": "监管与安全动态",
+      "topic": "低空经济与无人机",
       "count": 1,
       "sourceCount": 1,
       "sources": [
-        "科技日报"
+        "新浪科技"
       ],
       "items": [
-        "中国智慧闪耀全球人工智能治理"
+        "火箭回收破局 商业航天将聚焦卫星质量与管理"
       ]
     },
     {
@@ -953,17 +928,6 @@
       ],
       "items": [
         "中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围"
-      ]
-    },
-    {
-      "topic": "低空经济与无人机",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "火箭回收破局 商业航天将聚焦卫星质量与管理"
       ]
     },
     {
@@ -1001,6 +965,74 @@
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cDovL2ZpbmFuY2Uu",
+      "title": "全球人工智能治理期盼中国时刻",
+      "summary": "7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行。自2018年创办以来，大会已连续成功举办八届，并从2024年起增设全球治理议题，成为备受全球关注的人工智能国际盛会。",
+      "source": "人民网-科技",
+      "sources": [
+        "人民网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "http://finance.people.com.cn/n1/2026/0717/c1004-40762340.html",
+      "sourceUrls": [
+        "http://finance.people.com.cn/n1/2026/0717/c1004-40762340.html"
+      ],
+      "publishedAt": "2026-07-17",
+      "date": "2026-07-17",
+      "category": "监管与安全",
+      "classificationConfidence": 0.96,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 100,
+      "keywords": "technology policy, AI governance, safety and standards",
+      "priority": 5,
+      "score": 205,
+      "reporterScore": 223,
+      "scoreBreakdown": {
+        "hardTech": 100,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 12,
+        "sourceWeight": 8,
+        "primarySource": 12,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": true,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 100,
+        "reporterScore": 140
+      },
+      "isPrimarySource": true,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "live",
+      "angle": "Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “全球人工智能治理期盼中国时刻” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "监管与安全动态",
+      "rawText": "7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行。自2018年创办以来，大会已连续成功举办八届，并从2024年起增设全球治理议题，成为备受全球关注的人工智能国际盛会。",
+      "relatedTitles": [
+        "全球人工智能治理期盼中国时刻"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "中国智慧闪耀全球人工智能治理",
@@ -1068,74 +1100,6 @@
         "中国智慧闪耀全球人工智能治理"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打",
-      "summary": "据介绍，此次揭幕战采用 1V1 对抗赛的形式，共包含 5 个回合，每个回合时长 5 分钟，在这 5 分钟里，对对方选手的有效部位进行有效击打，即可获得分数。#机器人高能格斗头掉了身体还在打#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/977/823.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/977/823.htm"
-      ],
-      "publishedAt": "Thu, 16 Jul 2026 16:39:34 GMT",
-      "date": "2026-07-17",
-      "category": "机器人",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 175,
-      "reporterScore": 189,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "据介绍，此次揭幕战采用 1V1 对抗赛的形式，共包含 5 个回合，每个回合时长 5 分钟，在这 5 分钟里，对对方选手的有效部位进行有效击打，即可获得分数。#机器人高能格斗头掉了身体还在打#",
-      "relatedTitles": [
-        "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1546,22 +1510,22 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围",
-      "summary": "快科技7月17日消息，今日，市场调研机构洛图科技发布2026年6月中国扫地机器人市场销量数据。数据显示，6月中国扫地机器人线上市场零售量达到68.6万台，同比增长16.6%，环比增长22.1%；零售额为21.7亿元，同比增长12.0%，环比...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打",
+      "summary": "据介绍，此次揭幕战采用 1V1 对抗赛的形式，共包含 5 个回合，每个回合时长 5 分钟，在这 5 分钟里，对对方选手的有效部位进行有效击打，即可获得分数。#机器人高能格斗头掉了身体还在打#",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/977/823.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml"
+        "https://www.ithome.com/0/977/823.htm"
       ],
-      "publishedAt": "2026-07-17",
+      "publishedAt": "Thu, 16 Jul 2026 16:39:34 GMT",
       "date": "2026-07-17",
       "category": "机器人",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1571,20 +1535,20 @@
       "hardTechPriority": 90,
       "keywords": "robotics, embodied intelligence and smart manufacturing",
       "priority": 5,
-      "score": 166,
-      "reporterScore": 180,
+      "score": 175,
+      "reporterScore": 189,
       "scoreBreakdown": {
         "hardTech": 90,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
-        "cgtFocus": 0,
+        "cgtFocus": 12,
         "visual": 8,
-        "international": 0,
+        "international": 9,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -1592,94 +1556,26 @@
       "reporterSignals": {
         "primary": false,
         "visual": true,
-        "international": false,
-        "interview": true,
+        "international": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 90,
         "reporterScore": 123
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
+      "hasInterviewValue": false,
       "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "机器人动态",
-      "rawText": "快科技7月17日消息，今日，市场调研机构洛图科技发布2026年6月中国扫地机器人市场销量数据。数据显示，6月中国扫地机器人线上市场零售量达到68.6万台，同比增长16.6%，环比增长22.1%；零售额为21.7亿元，同比增长12.0%，环比...",
-      "relatedTitles": [
-        "中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管",
-      "summary": "旧金山市长致信加州交通部，要求对 Waymo 等自动驾驶公司加强监管。起因是 7 月 4 日多辆 Waymo 出租车碾过烟花导致起火和交通瘫痪。市长提出四项核心能力要求，并呼吁制定全州统一安全标准。#Waymo# #自动驾驶监管#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/977/850.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/977/850.htm"
-      ],
-      "publishedAt": "Fri, 17 Jul 2026 00:08:39 GMT",
-      "date": "2026-07-17",
-      "category": "新能源车",
-      "classificationConfidence": 0.8,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 174,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "video",
-      "angle": "Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管” against primary-source evidence.",
+      "angle": "Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "旧金山市长致信加州交通部，要求对 Waymo 等自动驾驶公司加强监管。起因是 7 月 4 日多辆 Waymo 出租车碾过烟花导致起火和交通瘫痪。市长提出四项核心能力要求，并呼吁制定全州统一安全标准。#Waymo# #自动驾驶监管#",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "据介绍，此次揭幕战采用 1V1 对抗赛的形式，共包含 5 个回合，每个回合时长 5 分钟，在这 5 分钟里，对对方选手的有效部位进行有效击打，即可获得分数。#机器人高能格斗头掉了身体还在打#",
       "relatedTitles": [
-        "美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管"
+        "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1954,6 +1850,74 @@
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围",
+      "summary": "快科技7月17日消息，今日，市场调研机构洛图科技发布2026年6月中国扫地机器人市场销量数据。数据显示，6月中国扫地机器人线上市场零售量达到68.6万台，同比增长16.6%，环比增长22.1%；零售额为21.7亿元，同比增长12.0%，环比...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml"
+      ],
+      "publishedAt": "2026-07-17",
+      "date": "2026-07-17",
+      "category": "机器人",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 166,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "快科技7月17日消息，今日，市场调研机构洛图科技发布2026年6月中国扫地机器人市场销量数据。数据显示，6月中国扫地机器人线上市场零售量达到68.6万台，同比增长16.6%，环比增长22.1%；零售额为21.7亿元，同比增长12.0%，环比...",
+      "relatedTitles": [
+        "中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "SpaceX 第 13 次星舰飞行测试中止，画面显示 4 个引擎未点火",
       "summary": "SpaceX 官方账号今天（7 月 17 日）发布推文，宣布由于发现故障，中止第 13 次星舰飞行测试，导致任务至少推迟 24 小时。",
@@ -2018,6 +1982,74 @@
       "rawText": "SpaceX 官方账号今天（7 月 17 日）发布推文，宣布由于发现故障，中止第 13 次星舰飞行测试，导致任务至少推迟 24 小时。",
       "relatedTitles": [
         "SpaceX 第 13 次星舰飞行测试中止，画面显示 4 个引擎未点火"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管",
+      "summary": "旧金山市长致信加州交通部，要求对 Waymo 等自动驾驶公司加强监管。起因是 7 月 4 日多辆 Waymo 出租车碾过烟花导致起火和交通瘫痪。市长提出四项核心能力要求，并呼吁制定全州统一安全标准。#Waymo# #自动驾驶监管#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/977/850.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/977/850.htm"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 00:08:39 GMT",
+      "date": "2026-07-17",
+      "category": "新能源车",
+      "classificationConfidence": 0.8,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 174,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "旧金山市长致信加州交通部，要求对 Waymo 等自动驾驶公司加强监管。起因是 7 月 4 日多辆 Waymo 出租车碾过烟花导致起火和交通瘫痪。市长提出四项核心能力要求，并呼吁制定全州统一安全标准。#Waymo# #自动驾驶监管#",
+      "relatedTitles": [
+        "美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管"
       ],
       "isNewSinceLastRun": false
     },
@@ -3043,7 +3075,7 @@
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "千里科技宣布接入阶跃Step AOS",
-      "summary": "Step AOS 阶跃入局，重构智能体时代操作系统 董事长印奇称“未来的OS一定是跨端的” 衡宇 8分钟前 AgentOS Step AOS 阶跃星辰 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把",
+      "summary": "Step AOS 阶跃入局，重构智能体时代操作系统 董事长印奇称“未来的OS一定是跨端的” 衡宇 31分钟前 AgentOS Step AOS 阶跃星辰 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -3512,7 +3544,7 @@
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "AgentOS",
-      "summary": "AgentOS 阶跃入局，重构智能体时代操作系统 董事长印奇称“未来的OS一定是跨端的” 衡宇 16分钟前 AgentOS Step AOS 阶跃星辰 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把",
+      "summary": "AgentOS 阶跃入局，重构智能体时代操作系统 董事长印奇称“未来的OS一定是跨端的” 衡宇 5分钟前 AgentOS Step AOS 阶跃星辰 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -3571,7 +3603,7 @@
       "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AgentOS” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "AgentOS 阶跃入局，重构智能体时代操作系统 董事长印奇称“未来的OS一定是跨端的” 衡宇 16分钟前 AgentOS Step AOS 阶跃星辰 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代 刚刚，全球首个具身专属的MoE视频模型，开源了！ 世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
+      "rawText": "AgentOS 阶跃入局，重构智能体时代操作系统 董事长印奇称“未来的OS一定是跨端的” 衡宇 5分钟前 AgentOS Step AOS 阶跃星辰 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代 刚刚，全球首个具身专属的MoE视频模型，开源了！ 世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
       "relatedTitles": [
         "AgentOS"
       ]
@@ -3847,7 +3879,7 @@
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "车圈最新认知",
-      "summary": "车圈最新认知 我宣布这是中国最神奇的造车新势力 仅靠一款车5年不倒 杰西卡 2026-07-07 极石汽车 车圈最新认知 蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己” 创业30年，6次低谷 杰西卡 2026-07-03 李斌 蔚来 车圈最新认知 一个广告营销老炮，率先冲刺A股无人驾驶第一股 最",
+      "summary": "车圈最新认知 物理AI第一块万亿市场，在公路货运先跑通闭环了 申通安能用真金白银下单 杰西卡 前天 14:06 DeepWay深向 无人车往哪里开？ 车圈最新认知 千里收购了一家毫米波雷达公司 布局全栈闭环 杰西卡 2026-06-12 千里科技 车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -3906,7 +3938,7 @@
       "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “车圈最新认知” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "人形机器人与具身智能",
-      "rawText": "车圈最新认知 我宣布这是中国最神奇的造车新势力 仅靠一款车5年不倒 杰西卡 2026-07-07 极石汽车 车圈最新认知 蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己” 创业30年，6次低谷 杰西卡 2026-07-03 李斌 蔚来 车圈最新认知 一个广告营销老炮，率先冲刺A股无人驾驶第一股 最大客户赛力斯，一单贡献全年三成收入 杰西卡 2026-07-02 无人车往哪里开？ 穿透财报招股书 车圈最新认知 物理AI第一块万亿市场，在公路货运先跑通闭环了 申通安能用真金白银下单 杰西卡 2026-06-24 DeepWay深向 无人车往哪里开？ 车圈最新认知 千里收购了一家毫米波雷达公司 布局全栈闭环 杰西卡 2026-06-12 千里科技 车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 2026-06-10 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 理想智驾一号位创业，落户北京亦庄了 10天跻身具身独角兽 杰西卡 2026-06-09 具身智能 理想汽车 车圈最新认知 A股账户可以买Robotaxi了",
+      "rawText": "车圈最新认知 物理AI第一块万亿市场，在公路货运先跑通闭环了 申通安能用真金白银下单 杰西卡 前天 14:06 DeepWay深向 无人车往哪里开？ 车圈最新认知 千里收购了一家毫米波雷达公司 布局全栈闭环 杰西卡 2026-06-12 千里科技 车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 2026-06-10 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 理想智驾一号位创业，落户北京亦庄了 10天跻身具身独角兽 杰西卡 2026-06-09 具身智能 理想汽车 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “豆包汽车”，目标市场10万-20万 国资入主，赛力斯让权 杰西卡 2026-06-02 火山引擎 赛力斯 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Rob",
       "relatedTitles": [
         "车圈最新认知"
       ]
@@ -4854,8 +4886,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-17｜V3\n生成时间：2026/7/17 08:08:51\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2538｜确认今日 27｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 24 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-17] 中国智慧闪耀全球人工智能治理\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/2026-07/17/content_548543.html\n   报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.\n\n2. [16:39] 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打\n   IT之家｜2026-07-17｜https://www.ithome.com/0/977/823.htm\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.\n\n3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L216BDLA0512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.\n\n4. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L21918K90534A4SC.html\n   报道角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.\n\n5. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.\n\n本次新增线索：\n- 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打｜IT之家｜https://www.ithome.com/0/977/823.htm\n- 中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml\n- 美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管｜IT之家｜https://www.ithome.com/0/977/850.htm\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX Starship launch aborted on the pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership｜CNBC Technology｜https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\n3. SpaceX aborts Starship test flight, sending stock lower｜CNBC Technology｜https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\n4. An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI｜WIRED Science｜https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/\n5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer｜MIT Technology Review｜https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-17｜V3\n生成时间：2026/7/17 08:08:51\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2538｜确认今日 27｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 24 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-17] 中国智慧闪耀全球人工智能治理\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/2026-07/17/content_548543.html\n   报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.\n\n2. [16:39] 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打\n   IT之家｜2026-07-17｜https://www.ithome.com/0/977/823.htm\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.\n\n3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L216BDLA0512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.\n\n4. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L21918K90534A4SC.html\n   报道角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.\n\n5. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.\n\n本次新增线索：\n- 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打｜IT之家｜https://www.ithome.com/0/977/823.htm\n- 中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml\n- 美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管｜IT之家｜https://www.ithome.com/0/977/850.htm\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX Starship launch aborted on the pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership｜CNBC Technology｜https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\n3. SpaceX aborts Starship test flight, sending stock lower｜CNBC Technology｜https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\n4. An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI｜WIRED Science｜https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/\n5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer｜MIT Technology Review｜https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-17｜生成时间：2026/7/17 08:08:51｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2538｜确认今日 27｜国际背景 21</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 24 条｜国际 21 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-17] 中国智慧闪耀全球人工智能治理</strong>\n      <span>科技日报｜2026-07-17｜<a href=\"https://www.stdaily.com/web/2026-07/17/content_548543.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：207｜需核验来源</span>\n      <p>报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [16:39] 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打</strong>\n      <span>IT之家｜2026-07-17｜<a href=\"https://www.ithome.com/0/977/823.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：189｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营</strong>\n      <span>网易科技｜2026-07-17｜<a href=\"https://www.163.com/dy/article/L216BDLA0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布</strong>\n      <span>网易科技｜2026-07-17｜<a href=\"https://www.163.com/dy/article/L21918K90534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：195｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3</strong>\n      <span>科技日报｜2026-07-17｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：194｜需核验来源</span>\n      <p>报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX Starship launch aborted on the pad at the last moment</strong>\n      <span>时间：2026-07-16｜来源：AP Technology｜<a href=\"https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX Starship launch aborted on the pad at the last moment” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership</strong>\n      <span>时间：Thu, 16 Jul 2026 14:15:44 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. SpaceX aborts Starship test flight, sending stock lower</strong>\n      <span>时间：Thu, 16 Jul 2026 23:31:34 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX aborts Starship test flight, sending stock lower” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI</strong>\n      <span>时间：Wed, 15 Jul 2026 12:00:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer</strong>\n      <span>时间：Wed, 15 Jul 2026 17:09:37 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/17 08:08:51\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 24 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-17] 中国智慧闪耀全球人工智能治理\n   来源：科技日报\n   链接：https://www.stdaily.com/web/2026-07/17/content_548543.html\n   角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.\n\n2. [16:39] 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打\n   来源：IT之家\n   链接：https://www.ithome.com/0/977/823.htm\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打” against primary-source evidence.\n\n3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L216BDLA0512B07B.html\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.\n\n4. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L21918K90534A4SC.html\n   角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.\n\n5. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.\n\n本次新增线索：\n- 震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打｜IT之家｜https://www.ithome.com/0/977/823.htm\n- 中国扫地机器人6月销量TOP10出炉：科沃斯稳居第一、大疆强势突围｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiahrn1305643.shtml\n- 美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管｜IT之家｜https://www.ithome.com/0/977/850.htm\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. SpaceX Starship launch aborted on the pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership｜CNBC Technology｜https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\n3. SpaceX aborts Starship test flight, sending stock lower｜CNBC Technology｜https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\n4. An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI｜WIRED Science｜https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/\n5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer｜MIT Technology Review｜https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-17｜V3\n生成时间：2026/7/17 08:15:08\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2538｜确认今日 28｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 27 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-17] 全球人工智能治理期盼中国时刻\n   人民网-科技｜2026-07-17｜http://finance.people.com.cn/n1/2026/0717/c1004-40762340.html\n   报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “全球人工智能治理期盼中国时刻” against primary-source evidence.\n\n2. [2026-07-17] 中国智慧闪耀全球人工智能治理\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/2026-07/17/content_548543.html\n   报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.\n\n3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L216BDLA0512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.\n\n4. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L21918K90534A4SC.html\n   报道角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.\n\n5. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.\n\n本次新增线索：\n- 全球人工智能治理期盼中国时刻｜人民网-科技｜http://finance.people.com.cn/n1/2026/0717/c1004-40762340.html\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX Starship launch aborted on the pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership｜CNBC Technology｜https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\n3. SpaceX aborts Starship test flight, sending stock lower｜CNBC Technology｜https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\n4. An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI｜WIRED Science｜https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/\n5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer｜MIT Technology Review｜https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-17｜V3\n生成时间：2026/7/17 08:15:08\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2538｜确认今日 28｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 27 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-17] 全球人工智能治理期盼中国时刻\n   人民网-科技｜2026-07-17｜http://finance.people.com.cn/n1/2026/0717/c1004-40762340.html\n   报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “全球人工智能治理期盼中国时刻” against primary-source evidence.\n\n2. [2026-07-17] 中国智慧闪耀全球人工智能治理\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/2026-07/17/content_548543.html\n   报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.\n\n3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L216BDLA0512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.\n\n4. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布\n   网易科技｜2026-07-17｜https://www.163.com/dy/article/L21918K90534A4SC.html\n   报道角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.\n\n5. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3\n   科技日报｜2026-07-17｜https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.\n\n本次新增线索：\n- 全球人工智能治理期盼中国时刻｜人民网-科技｜http://finance.people.com.cn/n1/2026/0717/c1004-40762340.html\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX Starship launch aborted on the pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership｜CNBC Technology｜https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\n3. SpaceX aborts Starship test flight, sending stock lower｜CNBC Technology｜https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\n4. An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI｜WIRED Science｜https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/\n5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer｜MIT Technology Review｜https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-17｜生成时间：2026/7/17 08:15:08｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2538｜确认今日 28｜国际背景 21</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 27 条｜国际 21 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-17] 全球人工智能治理期盼中国时刻</strong>\n      <span>人民网-科技｜2026-07-17｜<a href=\"http://finance.people.com.cn/n1/2026/0717/c1004-40762340.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：223｜一手来源</span>\n      <p>报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “全球人工智能治理期盼中国时刻” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-17] 中国智慧闪耀全球人工智能治理</strong>\n      <span>科技日报｜2026-07-17｜<a href=\"https://www.stdaily.com/web/2026-07/17/content_548543.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：207｜需核验来源</span>\n      <p>报道角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营</strong>\n      <span>网易科技｜2026-07-17｜<a href=\"https://www.163.com/dy/article/L216BDLA0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布</strong>\n      <span>网易科技｜2026-07-17｜<a href=\"https://www.163.com/dy/article/L21918K90534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：195｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3</strong>\n      <span>科技日报｜2026-07-17｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：194｜需核验来源</span>\n      <p>报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX Starship launch aborted on the pad at the last moment</strong>\n      <span>时间：2026-07-16｜来源：AP Technology｜<a href=\"https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX Starship launch aborted on the pad at the last moment” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership</strong>\n      <span>时间：Thu, 16 Jul 2026 14:15:44 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. SpaceX aborts Starship test flight, sending stock lower</strong>\n      <span>时间：Thu, 16 Jul 2026 23:31:34 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX aborts Starship test flight, sending stock lower” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI</strong>\n      <span>时间：Wed, 15 Jul 2026 12:00:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer</strong>\n      <span>时间：Wed, 15 Jul 2026 17:09:37 +0000｜来源：MIT Technology Review｜<a href=\"https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/17 08:15:08\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 27 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-17] 全球人工智能治理期盼中国时刻\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0717/c1004-40762340.html\n   角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “全球人工智能治理期盼中国时刻” against primary-source evidence.\n\n2. [2026-07-17] 中国智慧闪耀全球人工智能治理\n   来源：科技日报\n   链接：https://www.stdaily.com/web/2026-07/17/content_548543.html\n   角度：Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “中国智慧闪耀全球人工智能治理” against primary-source evidence.\n\n3. [2026-07-17] 影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L216BDLA0512B07B.html\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “影响市场重大事件：机器人企业发那科和川崎重工等加入英伟达的物理AI阵营” against primary-source evidence.\n\n4. [2026-07-17] 国内首个空天地一体化全域智能产品矩阵发布\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L21918K90534A4SC.html\n   角度：Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “国内首个空天地一体化全域智能产品矩阵发布” against primary-source evidence.\n\n5. [2026-07-17] 新突破 中国企业发布全球最大规模的开源模型Kimi K3\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/17/content_548550.html\n   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新突破 中国企业发布全球最大规模的开源模型Kimi K3” against primary-source evidence.\n\n本次新增线索：\n- 全球人工智能治理期盼中国时刻｜人民网-科技｜http://finance.people.com.cn/n1/2026/0717/c1004-40762340.html\n\n今日热点方向：\n- AI 应用：AI动态（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（4 条，2 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. SpaceX Starship launch aborted on the pad at the last moment｜AP Technology｜https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228\n2. Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership｜CNBC Technology｜https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html\n3. SpaceX aborts Starship test flight, sending stock lower｜CNBC Technology｜https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html\n4. An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI｜WIRED Science｜https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/\n5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer｜MIT Technology Review｜https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
