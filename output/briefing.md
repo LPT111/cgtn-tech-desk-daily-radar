@@ -3,14 +3,14 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/18 08:01:53
+生成时间：2026/7/18 08:12:28
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 0 条
-延续跟踪线索：国内 11 条｜国际 25 条
-本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
+新增核心线索：国内 0 条｜国际 0 条
+延续跟踪线索：国内 14 条｜国际 23 条
+本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
 1. [2026-07-18] 申通快递发布快递智能体平台“SClaw”
@@ -18,30 +18,28 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/2026-07-18/doc-iniiemqk3969172.shtml
    角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “申通快递发布快递智能体平台“SClaw”” against primary-source evidence.
 
-2. [2026-07-18] 美国旧金山检方要求苹果 App Store、谷歌 Play 商店下架 13 款“AI 脱衣”App
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-07-18/doc-iniierwk1462155.shtml
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国旧金山检方要求苹果 App Store、谷歌 Play 商店下架 13 款“AI 脱衣”App” against primary-source evidence.
-
-3. [23:44] 全球已知最大 eVTOL：牧羽天飞行重卡 AT8000 整机机身下线，最大起飞重量 8 吨
-   来源：IT之家
-   链接：https://www.ithome.com/0/978/339.htm
-   角度：Frame the item through urban services, logistics, safety and regulation, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “全球已知最大 eVTOL：牧羽天飞行重卡 AT8000 整机机身下线，最大起飞重量 8 吨” against primary-source evidence.
-
-4. [2026-07-18] 直击WAIC丨“接发球”全能行！人类与机器人“激烈”对打乒乓球
+2. [2026-07-18] 直击WAIC丨“接发球”全能行！人类与机器人“激烈”对打乒乓球
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/2026-07-18/doc-iniiemqn1480080.shtml
    角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “直击WAIC丨“接发球”全能行！人类与机器人“激烈”对打乒乓球” against primary-source evidence.
 
-5. [2026-07-18] 多国领导人呼吁携手推动人工智能向善普惠发展
+3. [2026-07-18] 美国旧金山检方要求苹果 App Store、谷歌 Play 商店下架 13 款“AI 脱衣”App
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-07-18/doc-iniierwk1462155.shtml
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国旧金山检方要求苹果 App Store、谷歌 Play 商店下架 13 款“AI 脱衣”App” against primary-source evidence.
+
+4. [2026-07-18] 多国领导人呼吁携手推动人工智能向善普惠发展
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-07-18/doc-iniicusu1494172.shtml
    角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “多国领导人呼吁携手推动人工智能向善普惠发展” against primary-source evidence.
 
+5. [2026-07-18] 思朗科技携自研“天穹”3D科学计算机、超智融合一体化平台等亮相世界人工智能大会
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L23R4KHH0534A4SC.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “思朗科技携自研“天穹”3D科学计算机、超智融合一体化平台等亮相世界人工智能大会” against primary-source evidence.
+
 本次新增线索：
-- 美国旧金山检方要求苹果 App Store、谷歌 Play 商店下架 13 款“AI 脱衣”App｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-18/doc-iniierwk1462155.shtml
-- 全球已知最大 eVTOL：牧羽天飞行重卡 AT8000 整机机身下线，最大起飞重量 8 吨｜IT之家｜https://www.ithome.com/0/978/339.htm
-- 俩未成年黑客搞得英国损失数十亿英镑：最终栽到一份外卖上｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-18/doc-iniiemqh7273342.shtml
+- 暂无新增核心线索。
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（4 条，3 个来源）
