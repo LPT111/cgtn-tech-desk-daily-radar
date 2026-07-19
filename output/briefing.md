@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/19 15:49:29
+生成时间：2026/7/19 16:21:17
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 43 条｜国际 4 条
-延续跟踪线索：国内 5 条｜国际 9 条
+新增核心线索：国内 3 条｜国际 0 条
+延续跟踪线索：国内 47 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -23,43 +23,40 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiimti0317361.shtml
    角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “直击WAIC｜对话滴普科技创始人赵杰辉：Agent竞争不在办公，而在复杂产业中的“智能复利”” against primary-source evidence.
 
-3. [04:07] 全国首个具身智能实训场样板点发布
+3. [2026-07-19] 直击WAIC丨安顿发布七诊合参AI机器人，5-10分钟即出中医健康评估报告
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tob/2026-07-19/doc-iniiirzf0206279.shtml
+   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “直击WAIC丨安顿发布七诊合参AI机器人，5-10分钟即出中医健康评估报告” against primary-source evidence.
+
+4. [04:07] 全国首个具身智能实训场样板点发布
    来源：IT之家
    链接：https://www.ithome.com/0/978/673.htm
    角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “全国首个具身智能实训场样板点发布” against primary-source evidence.
 
-4. [2026-07-19] 直击WAIC丨腾讯云ADP 4.0海外版发布，腾讯云吴运声：智能体成败关键在场景
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiimti0288225.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “直击WAIC丨腾讯云ADP 4.0海外版发布，腾讯云吴运声：智能体成败关键在场景” against primary-source evidence.
-
-5. [2026-07-19] 从产品出海到Token出海，WAIC上的全球新生意
+5. [2026-07-19] 加速进化发布双足人形机器人高算力旗舰平台Booster T2
    来源：网易科技
-   链接：https://www.163.com/dy/article/L2721BQN0534A4SC.html
-   角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “从产品出海到Token出海，WAIC上的全球新生意” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L279VLGL0534A4SC.html
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “加速进化发布双足人形机器人高算力旗舰平台Booster T2” against primary-source evidence.
 
 本次新增线索：
-- 和美与共：从世界人工智能大会看中国人工智能治理的路径与站位｜网易科技｜https://www.163.com/dy/article/L26PGC9M0534A4SC.html
-- 直击WAIC｜对话滴普科技创始人赵杰辉：Agent竞争不在办公，而在复杂产业中的“智能复利”｜新浪科技｜https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiimti0317361.shtml
-- 全国首个具身智能实训场样板点发布｜IT之家｜https://www.ithome.com/0/978/673.htm
-- 直击WAIC丨腾讯云ADP 4.0海外版发布，腾讯云吴运声：智能体成败关键在场景｜新浪科技｜https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiimti0288225.shtml
-- 从产品出海到Token出海，WAIC上的全球新生意｜网易科技｜https://www.163.com/dy/article/L2721BQN0534A4SC.html
-- 'The passport-style foldable is the future': how Apple made Samsung change its folding phone plans｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/passport-style-foldable-future-apple-000000368.html
+- 直击WAIC丨安顿发布七诊合参AI机器人，5-10分钟即出中医健康评估报告｜新浪科技｜https://finance.sina.com.cn/tob/2026-07-19/doc-iniiirzf0206279.shtml
+- 加速进化发布双足人形机器人高算力旗舰平台Booster T2｜网易科技｜https://www.163.com/dy/article/L279VLGL0534A4SC.html
+- WAIC现场专访乔宝杰：AI法律该如何制定？谁部署、谁受益、谁担责｜网易科技｜https://www.163.com/dy/article/L27AHLUN0534A4SC.html
 
 今日热点方向：
-- AI 应用：AI动态（14 条，3 个来源）
+- AI 应用：AI动态（15 条，3 个来源）
 - 芯片/半导体：国产 GPU / 算力基础设施（3 条，3 个来源）
-- 机器人/具身智能：机器人动态（4 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
 - 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
 - 太空与低空经济：
 - 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
-1. 'The passport-style foldable is the future': how Apple made Samsung change its folding phone plans｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/passport-style-foldable-future-apple-000000368.html
-2. SpaceX scrubs Starship launch after some of its engines didn't start｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/
-3. SpaceX stock has cratered nearly 23% since the company joined the Nasdaq-100｜CNBC Technology｜https://www.cnbc.com/2026/07/17/spacex-stock-starship-test-flight-aborted.html
-4. Agility Robotics plants its flag in Tesla’s backyard｜TechCrunch｜https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/
-5. Amazon's Zoox issues software recall after robotaxi drove into heavy smoke｜CNBC Technology｜https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html
+1. SpaceX scrubs Starship launch after some of its engines didn't start｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/
+2. SpaceX stock has cratered nearly 23% since the company joined the Nasdaq-100｜CNBC Technology｜https://www.cnbc.com/2026/07/17/spacex-stock-starship-test-flight-aborted.html
+3. Agility Robotics plants its flag in Tesla’s backyard｜TechCrunch｜https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/
+4. Amazon's Zoox issues software recall after robotaxi drove into heavy smoke｜CNBC Technology｜https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html
+5. Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
