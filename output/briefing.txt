@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/20 08:06:18
+生成时间：2026/7/20 08:15:34
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 0 条
-延续跟踪线索：国内 16 条｜国际 2 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 24 条｜国际 2 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -26,28 +26,24 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-07-20/doc-iniikxuu4903065.shtml
    角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind ““热穹顶”现象致美国多州创下高温新纪录” against primary-source evidence.
 
-4. [2026-07-20] 界面早报 | 世界人工智能合作组织未来将重点开展三方面工作
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L290KNEO0534A4SC.html
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “界面早报 | 世界人工智能合作组织未来将重点开展三方面工作” against primary-source evidence.
-
-5. [2026-07-20] 创新谈丨人工智能全球治理新的里程碑
+4. [2026-07-20] 创新谈丨人工智能全球治理新的里程碑
    来源：科技日报
    链接：https://www.stdaily.com/web/gdxw/2026-07/20/content_549788.html
    角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “创新谈丨人工智能全球治理新的里程碑” against primary-source evidence.
 
+5. [2026-07-20] “物理AI重塑智能制造”主题论坛举行
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-20/doc-iniikxus8126870.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““物理AI重塑智能制造”主题论坛举行” against primary-source evidence.
+
 本次新增线索：
-- 界面早报 | 世界人工智能合作组织未来将重点开展三方面工作｜网易科技｜https://www.163.com/dy/article/L290KNEO0534A4SC.html
-- 月之暗面Kimi团队：算力紧缺，会员暂停开放｜网易科技｜https://www.163.com/dy/article/L28UDQC30534A4SC.html
-- 总编辑圈点丨“隐身于眼前”的无人机研制成功｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/20/content_549802.html
-- IT早报 0720：华为靳玉志称境和界是互补关系；比亚迪大汉实车曝光；Kimi K3 打破美 AI 领先中国认知；西班牙二度夺冠，EA 连续五次成功预测世界杯冠军｜IT之家｜https://www.ithome.com/0/978/821.htm
-- 科学家开发出更坚韧耐磨的银涂层｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/20/content_549804.html
+- “换标”雪佛兰：消息称五菱缤果纯电汽车将登陆北美市场｜IT之家｜https://www.ithome.com/0/978/825.htm
 
 今日热点方向：
 - AI 应用：AI动态（8 条，3 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）
 - 太空与低空经济：太空与低空动态（2 条，1 个来源）
 - 科学前沿：科学前沿动态（2 条，2 个来源）
 
