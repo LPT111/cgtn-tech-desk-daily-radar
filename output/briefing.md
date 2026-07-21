@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/21 16:31:12
+生成时间：2026/7/21 16:47:47
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 0 条
-延续跟踪线索：国内 57 条｜国际 7 条
+新增核心线索：国内 7 条｜国际 0 条
+延续跟踪线索：国内 63 条｜国际 7 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -21,7 +21,7 @@ ChenChen 今日 Briefing｜V3
 2. [2026-07-21] Kimi K3创造 另一个“DeepSeek时刻”？
    来源：新浪科技
    链接：https://finance.sina.com.cn/roll/2026-07-21/doc-iniiphzq8110388.shtml
-   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Kimi K3创造 另一个“DeepSeek时刻”？” against primary-source evidence.
+   角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Kimi K3创造 另一个“DeepSeek时刻”？” against primary-source evidence.
 
 3. [2026-07-21] 拿下超级「Token工厂」，中部新算力枢纽来了
    来源：新浪科技
@@ -33,22 +33,22 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.ithome.com/0/979/497.htm
    角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AI 浪潮推动全球半导体需求，韩国 7 月前 20 天出口额同比增 62.9% 创新高” against primary-source evidence.
 
-5. [2026-07-21] 为人工智能划界 为社科研究赋能
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-07/21/content_38897338.htm
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “为人工智能划界 为社科研究赋能” against primary-source evidence.
+5. [2026-07-21] 台积电据悉计划自2027年起将代工价格调涨最高10
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L2CH584G0534A4SC.html
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “台积电据悉计划自2027年起将代工价格调涨最高10” against primary-source evidence.
 
 本次新增线索：
-- 携手非洲共同参与全球人工智能治理｜光明网-科技｜https://tech.gmw.cn/2026-07/21/content_38897354.htm
-- 为人工智能划界 为社科研究赋能｜光明网-科技｜https://tech.gmw.cn/2026-07/21/content_38897338.htm
-- OpenAI广告收入被过分高估？最新分析：只有创造历史才能达成目标｜网易科技｜https://www.163.com/dy/article/L2CFMAIE05198CJN.html
-- 智能体赋能：AuraStack AI Super Agent开启EDA自主工程时代｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniiqeez2449359.shtml
-- 标普上调三星电子评级展望至“正面”，受益于存｜网易科技｜https://www.163.com/dy/article/L2CGC7EQ0534A4SC.html
+- 台积电据悉计划自2027年起将代工价格调涨最高10｜网易科技｜https://www.163.com/dy/article/L2CH584G0534A4SC.html
+- WAIC 2026丨分布式人工智能工厂加速智能原生企业转型｜光明网-科技｜https://tech.gmw.cn/2026-07/21/content_38898382.htm
+- WAIC 2026丨空间智能与具身智能融合赋能产业升级｜光明网-科技｜https://tech.gmw.cn/2026-07/21/content_38898379.htm
+- 陈灵巧：卡位万亿“部署态”赛道，爱仕达以场景｜网易科技｜https://www.163.com/dy/article/L2CHLQKK05198CJN.html
+- OpenAI高管：Kimi K3强到没法用"蒸馏"解释｜网易科技｜https://www.163.com/tech/article/L2CHFP5I00097U7T.html
 
 今日热点方向：
-- AI 应用：AI动态（12 条，6 个来源）
+- AI 应用：AI动态（13 条，6 个来源）
 - 芯片/半导体：半导体供应链（10 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（4 条，3 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（6 条，4 个来源）
 - 太空与低空经济：太空与低空动态（2 条，1 个来源）
 - 科学前沿：科学前沿动态（2 条，1 个来源）
