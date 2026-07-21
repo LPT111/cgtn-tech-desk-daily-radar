@@ -1,33 +1,34 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-21T00:05:33.420Z",
+  "generatedAt": "2026-07-21T00:15:06.227Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-21",
   "changeSummary": {
-    "domesticNew": 2,
-    "globalNew": 0,
-    "domesticContinued": 13,
+    "domesticNew": 1,
+    "globalNew": 1,
+    "domesticContinued": 15,
     "globalContinued": 6,
     "topNewDomestic": [
       {
-        "title": "华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/979/285.htm"
-      },
-      {
-        "title": "AI+文旅，带来“诗和远方”新体验",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-07/21/content_550506.html"
+        "title": "科技早报 | 三星、SK海力士、美光放弃CXL控制器自研",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L2BK96ON0534A4SC.html"
       }
     ],
-    "topNewGlobal": [],
+    "topNewGlobal": [
+      {
+        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
+      }
+    ],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 885,
-    "globalRejected": 894,
+    "domesticRejected": 884,
+    "globalRejected": 893,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -41,8 +42,13 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 28,
   "failedSources": [
+    {
+      "name": "快科技-综合",
+      "error": "This operation was aborted",
+      "optional": false
+    },
     {
       "name": "财联社",
       "error": "fetch failed",
@@ -59,28 +65,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -91,6 +82,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
+      "name": "快科技-综合",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
       "name": "财联社",
       "error": "fetch failed",
       "optional": true
@@ -106,28 +102,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -155,7 +136,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "快科技-综合",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -247,7 +229,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学报",
       "tier": "research",
-      "parsed": 113,
+      "parsed": 112,
       "failed": false,
       "optional": false
     },
@@ -305,16 +287,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -335,9 +315,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 13,
+      "failed": false,
       "optional": false
     },
     {
@@ -345,7 +324,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -392,13 +371,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1301,
+  "itemsSeen": 1313,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 302,
-  "itemsAfterDedupe": 222,
-  "todayItemsSeen": 15,
+  "itemsAfterRelevantFilter": 299,
+  "itemsAfterDedupe": 217,
+  "todayItemsSeen": 16,
   "suspectedItemsSeen": 15,
-  "skippedNonToday": 193,
+  "skippedNonToday": 187,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -418,7 +397,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "快科技-综合",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -510,7 +490,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学报",
       "tier": "research",
-      "parsed": 113,
+      "parsed": 112,
       "failed": false,
       "optional": false
     },
@@ -568,16 +548,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -598,9 +576,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 13,
+      "failed": false,
       "optional": false
     },
     {
@@ -608,7 +585,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -809,6 +786,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
+      "name": "快科技-综合",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
       "name": "财联社",
       "error": "fetch failed",
       "optional": true
@@ -824,28 +806,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -875,7 +842,7 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1169,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 121,
+  "globalItemsAfterRelevantFilter": 122,
   "topics": [
     {
       "topic": "AI动态",
@@ -883,13 +850,13 @@ window.CHENCHEN_DAILY_DATA = {
       "sourceCount": 3,
       "sources": [
         "新浪科技",
-        "科技日报",
-        "IT之家"
+        "IT之家",
+        "科技日报"
       ],
       "items": [
         "东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力",
-        "AI+文旅，带来“诗和远方”新体验",
         "Adobe 相机应用 Project Indigo 测试新功能：AI 指导你怎么拍更出片",
+        "AI+文旅，带来“诗和远方”新体验",
         "从“看懂”到“做对”，物理AI前景可期",
         "科技观察家丨AI时代，动手创作的能力不能丢"
       ]
@@ -908,6 +875,19 @@ window.CHENCHEN_DAILY_DATA = {
         "热点回应丨国产开源大模型参数规模冲击新高度",
         "智能体：走出“技术秀场”，迈向“产业主场”",
         "OpenAI 董事会主席布雷特 · 泰勒大胆预测：一年后企业将不再担心 Token 成本"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
+        "网易科技"
+      ],
+      "items": [
+        "华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍",
+        "科技早报 | 三星、SK海力士、美光放弃CXL控制器自研"
       ]
     },
     {
@@ -931,17 +911,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "网络安全进入高复杂度时代：2025全球风险全景扫描"
-      ]
-    },
-    {
-      "topic": "芯片动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍"
       ]
     },
     {
@@ -1035,74 +1004,6 @@ window.CHENCHEN_DAILY_DATA = {
         "网络安全进入高复杂度时代：2025全球风险全景扫描"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍",
-      "summary": "进入 7 月，全球存储芯片板块经历回调，终端市场内存价格出现松动。华强北 16GB DDR5 内存报价在 1080-1200 元，较年初高点下跌近三成，但相比去年同期仍高出五六倍。商户表示今年是“最贵组装电脑季”，品牌电脑也纷纷涨价，市场接受度面临考验。#内存价格# #华强北#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/979/285.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/979/285.htm"
-      ],
-      "publishedAt": "Mon, 20 Jul 2026 23:50:29 GMT",
-      "date": "2026-07-21",
-      "category": "芯片",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 172,
-      "reporterScore": 180,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "进入 7 月，全球存储芯片板块经历回调，终端市场内存价格出现松动。华强北 16GB DDR5 内存报价在 1080-1200 元，较年初高点下跌近三成，但相比去年同期仍高出五六倍。商户表示今年是“最贵组装电脑季”，品牌电脑也纷纷涨价，市场接受度面临考验。#内存价格# #华强北#",
-      "relatedTitles": [
-        "华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1309,6 +1210,142 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍",
+      "summary": "进入 7 月，全球存储芯片板块经历回调，终端市场内存价格出现松动。华强北 16GB DDR5 内存报价在 1080-1200 元，较年初高点下跌近三成，但相比去年同期仍高出五六倍。商户表示今年是“最贵组装电脑季”，品牌电脑也纷纷涨价，市场接受度面临考验。#内存价格# #华强北#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/979/285.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/979/285.htm"
+      ],
+      "publishedAt": "Mon, 20 Jul 2026 23:50:29 GMT",
+      "date": "2026-07-21",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 172,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "进入 7 月，全球存储芯片板块经历回调，终端市场内存价格出现松动。华强北 16GB DDR5 内存报价在 1080-1200 元，较年初高点下跌近三成，但相比去年同期仍高出五六倍。商户表示今年是“最贵组装电脑季”，品牌电脑也纷纷涨价，市场接受度面临考验。#内存价格# #华强北#",
+      "relatedTitles": [
+        "华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "科技早报 | 三星、SK海力士、美光放弃CXL控制器自研",
+      "summary": "科技早报 | 三星、SK海力士、美光放弃CXL控制器自研；谷歌研发新型“Frozen”芯片,谷歌,amd,海力士,控制器,美光科技,三星电子,先进芯片,知名企业",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L2BK96ON0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L2BK96ON0534A4SC.html"
+      ],
+      "publishedAt": "2026-07-21",
+      "date": "2026-07-21",
+      "category": "芯片",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “科技早报 | 三星、SK海力士、美光放弃CXL控制器自研” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "科技早报 | 三星、SK海力士、美光放弃CXL控制器自研；谷歌研发新型“Frozen”芯片,谷歌,amd,海力士,控制器,美光科技,三星电子,先进芯片,知名企业",
+      "relatedTitles": [
+        "科技早报 | 三星、SK海力士、美光放弃CXL控制器自研"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "热点回应丨国产开源大模型参数规模冲击新高度",
       "summary": "所在位置： 中国科技网首页 > 正文 热点回应丨国产开源大模型参数规模冲击新高度 2026-07-21 07:26:27 来源: 科技日报 点击数： 热点",
@@ -1377,74 +1414,6 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "AI+文旅，带来“诗和远方”新体验",
-      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 AI+文旅，带来“诗和远方”新体验 2026-07-21 07:45:14 来源: 新华社 点击数： 热点",
-      "source": "科技日报",
-      "sources": [
-        "科技日报"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.stdaily.com/web/gdxw/2026-07/21/content_550506.html",
-      "sourceUrls": [
-        "https://www.stdaily.com/web/gdxw/2026-07/21/content_550506.html"
-      ],
-      "publishedAt": "2026-07-21",
-      "date": "2026-07-21",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 161,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 18,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI+文旅，带来“诗和远方”新体验” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 AI+文旅，带来“诗和远方”新体验 2026-07-21 07:45:14 来源: 新华社 点击数： 热点",
-      "relatedTitles": [
-        "AI+文旅，带来“诗和远方”新体验"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "Adobe 相机应用 Project Indigo 测试新功能：AI 指导你怎么拍更出片",
       "summary": "最新推出的 Project Indigo 1.1 版新增多项生成式 AI 照片编辑功能，用户可以一键清除画面中的干扰元素、营造浅景深效果、套用摄影或艺术风格、调整光线等。",
@@ -1509,6 +1478,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "最新推出的 Project Indigo 1.1 版新增多项生成式 AI 照片编辑功能，用户可以一键清除画面中的干扰元素、营造浅景深效果、套用摄影或艺术风格、调整光线等。",
       "relatedTitles": [
         "Adobe 相机应用 Project Indigo 测试新功能：AI 指导你怎么拍更出片"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "AI+文旅，带来“诗和远方”新体验",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 AI+文旅，带来“诗和远方”新体验 2026-07-21 07:45:14 来源: 新华社 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-07/21/content_550506.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-07/21/content_550506.html"
+      ],
+      "publishedAt": "2026-07-21",
+      "date": "2026-07-21",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI+文旅，带来“诗和远方”新体验” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 AI+文旅，带来“诗和远方”新体验 2026-07-21 07:45:14 来源: 新华社 点击数： 热点",
+      "relatedTitles": [
+        "AI+文旅，带来“诗和远方”新体验"
       ],
       "isNewSinceLastRun": false
     },
@@ -2058,6 +2095,73 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "广西：以AI赋能跨境视听合作",
+      "summary": "7月19日消息，2026世界人工智能大会期间，分子之心公布AI生物药设计平台MMDesign在环肽从头设计的新成果，针对p53 - MDM2、PD - L1等PPI靶点设计的候选环肽获湿实验验证。在p53 - MDM2靶点，首轮21条候选环肽16条命中，命中率超70%，最优结合亲和力达13.7微摩尔；在PD - L1靶",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-07/20/content_550222.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-07/20/content_550222.html"
+      ],
+      "publishedAt": "2026-07-20",
+      "date": "2026-07-20",
+      "category": "AI",
+      "classificationConfidence": 0.93,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 154,
+      "reporterScore": 162,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “广西：以AI赋能跨境视听合作” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 广西：以AI赋能跨境视听合作 2026-07-20 15:56:51 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "广西：以AI赋能跨境视听合作"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "对美国“人工智能霸凌”说“不”！",
       "summary": "中国绝对不会允许美国把中国排除在人工智能发展的大门之外，也不会允许美国实现在人工智能领域的霸凌地位。",
@@ -2256,73 +2360,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "7月20日，据美国Axios新闻网援引知情人士消息，美国政府正在考虑禁止中国人工智能模型。特朗普政府内部部",
       "relatedTitles": [
         "中国AI放大招后，美政府要下死手了？"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "美国AI新秀首发模型，参考中国技术",
-      "summary": "OpenAI前首席技术官米拉·穆拉蒂（MiraMurati）创办的人工智能初创公司思维机器实验室（Thin",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/internation/2026_07_16_823892.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/internation/2026_07_16_823892.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 148,
-      "reporterScore": 156,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国AI新秀首发模型，参考中国技术” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "OpenAI前首席技术官米拉·穆拉蒂（MiraMurati）创办的人工智能初创公司思维机器实验室（Thin",
-      "relatedTitles": [
-        "美国AI新秀首发模型，参考中国技术"
       ]
     },
     {
@@ -3095,6 +3132,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "publishedAt": "Tue, 21 Jul 2026 00:12:24 +0000",
+      "date": "2026-07-20",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.93,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic’s landmark $1.5B copyright settlement is approved” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
       "source": "TechCrunch",
@@ -3190,8 +3259,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-21｜V3\n生成时间：2026/7/21 08:05:33\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2470｜确认今日 15｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 13 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-21] 网络安全进入高复杂度时代：2025全球风险全景扫描\n   新浪科技｜2026-07-21｜https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniipats8085868.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “网络安全进入高复杂度时代：2025全球风险全景扫描” against primary-source evidence.\n\n2. [23:50] 华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍\n   IT之家｜2026-07-21｜https://www.ithome.com/0/979/285.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍” against primary-source evidence.\n\n3. [2026-07-21] 科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来\n   科技日报｜2026-07-21｜https://www.stdaily.com/web/2026-07/21/content_550485.html\n   报道角度：Explain the rule, the implementation mechanism and the consequences for the balance between innovation, safety and accountability, rather than repeating official language. For this item, test the claim behind “科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来” against primary-source evidence.\n\n4. [2026-07-21] 东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力\n   新浪科技｜2026-07-21｜https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniinscu9616000.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力” against primary-source evidence.\n\n5. [2026-07-21] 直击WAIC｜具身智能抢进工厂，营销智能体重构工\n   网易科技｜2026-07-21｜https://www.163.com/dy/article/L2BCNFES0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “直击WAIC｜具身智能抢进工厂，营销智能体重构工” against primary-source evidence.\n\n本次新增线索：\n- 华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍｜IT之家｜https://www.ithome.com/0/979/285.htm\n- AI+文旅，带来“诗和远方”新体验｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/21/content_550506.html\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI is scared of open-weight models. Should the US be?｜TechCrunch｜https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/\n2. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer｜CNBC Technology｜https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\n3. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says｜CNBC Technology｜https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html\n4. Can an Apple lawsuit derail OpenAI’s hardware plans?｜TechCrunch｜https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/\n5. Google is working on a new AI chip designed to make Gemini more efficient｜TechCrunch｜https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-21｜V3\n生成时间：2026/7/21 08:05:33\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2470｜确认今日 15｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 13 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-21] 网络安全进入高复杂度时代：2025全球风险全景扫描\n   新浪科技｜2026-07-21｜https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniipats8085868.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “网络安全进入高复杂度时代：2025全球风险全景扫描” against primary-source evidence.\n\n2. [23:50] 华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍\n   IT之家｜2026-07-21｜https://www.ithome.com/0/979/285.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍” against primary-source evidence.\n\n3. [2026-07-21] 科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来\n   科技日报｜2026-07-21｜https://www.stdaily.com/web/2026-07/21/content_550485.html\n   报道角度：Explain the rule, the implementation mechanism and the consequences for the balance between innovation, safety and accountability, rather than repeating official language. For this item, test the claim behind “科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来” against primary-source evidence.\n\n4. [2026-07-21] 东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力\n   新浪科技｜2026-07-21｜https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniinscu9616000.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力” against primary-source evidence.\n\n5. [2026-07-21] 直击WAIC｜具身智能抢进工厂，营销智能体重构工\n   网易科技｜2026-07-21｜https://www.163.com/dy/article/L2BCNFES0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “直击WAIC｜具身智能抢进工厂，营销智能体重构工” against primary-source evidence.\n\n本次新增线索：\n- 华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍｜IT之家｜https://www.ithome.com/0/979/285.htm\n- AI+文旅，带来“诗和远方”新体验｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/21/content_550506.html\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI is scared of open-weight models. Should the US be?｜TechCrunch｜https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/\n2. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer｜CNBC Technology｜https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\n3. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says｜CNBC Technology｜https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html\n4. Can an Apple lawsuit derail OpenAI’s hardware plans?｜TechCrunch｜https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/\n5. Google is working on a new AI chip designed to make Gemini more efficient｜TechCrunch｜https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-21｜生成时间：2026/7/21 08:05:33｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2470｜确认今日 15｜国际背景 6</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 0 条<br>延续跟踪线索：国内 13 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-21] 网络安全进入高复杂度时代：2025全球风险全景扫描</strong>\n      <span>新浪科技｜2026-07-21｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniipats8085868.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：202｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “网络安全进入高复杂度时代：2025全球风险全景扫描” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [23:50] 华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍</strong>\n      <span>IT之家｜2026-07-21｜<a href=\"https://www.ithome.com/0/979/285.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：180｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-21] 科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来</strong>\n      <span>科技日报｜2026-07-21｜<a href=\"https://www.stdaily.com/web/2026-07/21/content_550485.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：190｜需核验来源</span>\n      <p>报道角度：Explain the rule, the implementation mechanism and the consequences for the balance between innovation, safety and accountability, rather than repeating official language. For this item, test the claim behind “科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-21] 东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力</strong>\n      <span>新浪科技｜2026-07-21｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniinscu9616000.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-21] 直击WAIC｜具身智能抢进工厂，营销智能体重构工</strong>\n      <span>网易科技｜2026-07-21｜<a href=\"https://www.163.com/dy/article/L2BCNFES0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “直击WAIC｜具身智能抢进工厂，营销智能体重构工” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI is scared of open-weight models. Should the US be?</strong>\n      <span>时间：Mon, 20 Jul 2026 19:33:25 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI is scared of open-weight models. Should the US be?” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer</strong>\n      <span>时间：Mon, 20 Jul 2026 16:16:18 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AMD launches Helios, its first rack AI system to rival Nvidia, adding Mi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says</strong>\n      <span>时间：Mon, 20 Jul 2026 12:34:57 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “TSMC is accelerating Arizona factory build-out to capitalize on AI 'mega” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Can an Apple lawsuit derail OpenAI’s hardware plans?</strong>\n      <span>时间：Sun, 19 Jul 2026 19:24:45 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Can an Apple lawsuit derail OpenAI’s hardware plans?” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google is working on a new AI chip designed to make Gemini more efficient</strong>\n      <span>时间：Mon, 20 Jul 2026 21:21:15 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google is working on a new AI chip designed to make Gemini more efficien” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/21 08:05:33\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 13 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-21] 网络安全进入高复杂度时代：2025全球风险全景扫描\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniipats8085868.shtml\n   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “网络安全进入高复杂度时代：2025全球风险全景扫描” against primary-source evidence.\n\n2. [23:50] 华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍\n   来源：IT之家\n   链接：https://www.ithome.com/0/979/285.htm\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍” against primary-source evidence.\n\n3. [2026-07-21] 科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来\n   来源：科技日报\n   链接：https://www.stdaily.com/web/2026-07/21/content_550485.html\n   角度：Explain the rule, the implementation mechanism and the consequences for the balance between innovation, safety and accountability, rather than repeating official language. For this item, test the claim behind “科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来” against primary-source evidence.\n\n4. [2026-07-21] 东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniinscu9616000.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力” against primary-source evidence.\n\n5. [2026-07-21] 直击WAIC｜具身智能抢进工厂，营销智能体重构工\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2BCNFES0512B07B.html\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “直击WAIC｜具身智能抢进工厂，营销智能体重构工” against primary-source evidence.\n\n本次新增线索：\n- 华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍｜IT之家｜https://www.ithome.com/0/979/285.htm\n- AI+文旅，带来“诗和远方”新体验｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/21/content_550506.html\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. OpenAI is scared of open-weight models. Should the US be?｜TechCrunch｜https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/\n2. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer｜CNBC Technology｜https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\n3. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says｜CNBC Technology｜https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html\n4. Can an Apple lawsuit derail OpenAI’s hardware plans?｜TechCrunch｜https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/\n5. Google is working on a new AI chip designed to make Gemini more efficient｜TechCrunch｜https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-21｜V3\n生成时间：2026/7/21 08:15:06\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2482｜确认今日 16｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 15 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-21] 网络安全进入高复杂度时代：2025全球风险全景扫描\n   新浪科技｜2026-07-21｜https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniipats8085868.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “网络安全进入高复杂度时代：2025全球风险全景扫描” against primary-source evidence.\n\n2. [2026-07-21] 科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来\n   科技日报｜2026-07-21｜https://www.stdaily.com/web/2026-07/21/content_550485.html\n   报道角度：Explain the rule, the implementation mechanism and the consequences for the balance between innovation, safety and accountability, rather than repeating official language. For this item, test the claim behind “科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来” against primary-source evidence.\n\n3. [2026-07-21] 东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力\n   新浪科技｜2026-07-21｜https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniinscu9616000.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力” against primary-source evidence.\n\n4. [2026-07-21] 直击WAIC｜具身智能抢进工厂，营销智能体重构工\n   网易科技｜2026-07-21｜https://www.163.com/dy/article/L2BCNFES0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “直击WAIC｜具身智能抢进工厂，营销智能体重构工” against primary-source evidence.\n\n5. [23:50] 华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍\n   IT之家｜2026-07-21｜https://www.ithome.com/0/979/285.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍” against primary-source evidence.\n\n本次新增线索：\n- 科技早报 | 三星、SK海力士、美光放弃CXL控制器自研｜网易科技｜https://www.163.com/dy/article/L2BK96ON0534A4SC.html\n- Anthropic’s landmark $1.5B copyright settlement is approved｜TechCrunch｜https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI is scared of open-weight models. Should the US be?｜TechCrunch｜https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/\n2. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer｜CNBC Technology｜https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\n3. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says｜CNBC Technology｜https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html\n4. Anthropic’s landmark $1.5B copyright settlement is approved｜TechCrunch｜https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/\n5. Can an Apple lawsuit derail OpenAI’s hardware plans?｜TechCrunch｜https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-21｜V3\n生成时间：2026/7/21 08:15:06\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2482｜确认今日 16｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 15 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-21] 网络安全进入高复杂度时代：2025全球风险全景扫描\n   新浪科技｜2026-07-21｜https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniipats8085868.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “网络安全进入高复杂度时代：2025全球风险全景扫描” against primary-source evidence.\n\n2. [2026-07-21] 科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来\n   科技日报｜2026-07-21｜https://www.stdaily.com/web/2026-07/21/content_550485.html\n   报道角度：Explain the rule, the implementation mechanism and the consequences for the balance between innovation, safety and accountability, rather than repeating official language. For this item, test the claim behind “科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来” against primary-source evidence.\n\n3. [2026-07-21] 东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力\n   新浪科技｜2026-07-21｜https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniinscu9616000.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力” against primary-source evidence.\n\n4. [2026-07-21] 直击WAIC｜具身智能抢进工厂，营销智能体重构工\n   网易科技｜2026-07-21｜https://www.163.com/dy/article/L2BCNFES0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “直击WAIC｜具身智能抢进工厂，营销智能体重构工” against primary-source evidence.\n\n5. [23:50] 华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍\n   IT之家｜2026-07-21｜https://www.ithome.com/0/979/285.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍” against primary-source evidence.\n\n本次新增线索：\n- 科技早报 | 三星、SK海力士、美光放弃CXL控制器自研｜网易科技｜https://www.163.com/dy/article/L2BK96ON0534A4SC.html\n- Anthropic’s landmark $1.5B copyright settlement is approved｜TechCrunch｜https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI is scared of open-weight models. Should the US be?｜TechCrunch｜https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/\n2. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer｜CNBC Technology｜https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\n3. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says｜CNBC Technology｜https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html\n4. Anthropic’s landmark $1.5B copyright settlement is approved｜TechCrunch｜https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/\n5. Can an Apple lawsuit derail OpenAI’s hardware plans?｜TechCrunch｜https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-21｜生成时间：2026/7/21 08:15:06｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2482｜确认今日 16｜国际背景 7</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 1 条<br>延续跟踪线索：国内 15 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-21] 网络安全进入高复杂度时代：2025全球风险全景扫描</strong>\n      <span>新浪科技｜2026-07-21｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniipats8085868.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：202｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “网络安全进入高复杂度时代：2025全球风险全景扫描” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-21] 科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来</strong>\n      <span>科技日报｜2026-07-21｜<a href=\"https://www.stdaily.com/web/2026-07/21/content_550485.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：190｜需核验来源</span>\n      <p>报道角度：Explain the rule, the implementation mechanism and the consequences for the balance between innovation, safety and accountability, rather than repeating official language. For this item, test the claim behind “科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-21] 东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力</strong>\n      <span>新浪科技｜2026-07-21｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniinscu9616000.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-21] 直击WAIC｜具身智能抢进工厂，营销智能体重构工</strong>\n      <span>网易科技｜2026-07-21｜<a href=\"https://www.163.com/dy/article/L2BCNFES0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “直击WAIC｜具身智能抢进工厂，营销智能体重构工” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [23:50] 华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍</strong>\n      <span>IT之家｜2026-07-21｜<a href=\"https://www.ithome.com/0/979/285.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：180｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI is scared of open-weight models. Should the US be?</strong>\n      <span>时间：Mon, 20 Jul 2026 19:33:25 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI is scared of open-weight models. Should the US be?” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer</strong>\n      <span>时间：Mon, 20 Jul 2026 16:16:18 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AMD launches Helios, its first rack AI system to rival Nvidia, adding Mi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says</strong>\n      <span>时间：Mon, 20 Jul 2026 12:34:57 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “TSMC is accelerating Arizona factory build-out to capitalize on AI 'mega” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Anthropic’s landmark $1.5B copyright settlement is approved</strong>\n      <span>时间：Tue, 21 Jul 2026 00:12:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic’s landmark $1.5B copyright settlement is approved” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Can an Apple lawsuit derail OpenAI’s hardware plans?</strong>\n      <span>时间：Sun, 19 Jul 2026 19:24:45 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Can an Apple lawsuit derail OpenAI’s hardware plans?” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/21 08:15:06\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 15 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-21] 网络安全进入高复杂度时代：2025全球风险全景扫描\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniipats8085868.shtml\n   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “网络安全进入高复杂度时代：2025全球风险全景扫描” against primary-source evidence.\n\n2. [2026-07-21] 科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来\n   来源：科技日报\n   链接：https://www.stdaily.com/web/2026-07/21/content_550485.html\n   角度：Explain the rule, the implementation mechanism and the consequences for the balance between innovation, safety and accountability, rather than repeating official language. For this item, test the claim behind “科技新观察丨29国共享AI治理新红利 一个更加普惠的智能时代加速到来” against primary-source evidence.\n\n3. [2026-07-21] 东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-21/doc-iniinscu9616000.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “东莞滨海湾新区机关第三支部：以红色引擎点燃招商竞争力” against primary-source evidence.\n\n4. [2026-07-21] 直击WAIC｜具身智能抢进工厂，营销智能体重构工\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2BCNFES0512B07B.html\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “直击WAIC｜具身智能抢进工厂，营销智能体重构工” against primary-source evidence.\n\n5. [23:50] 华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍\n   来源：IT之家\n   链接：https://www.ithome.com/0/979/285.htm\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “华强北内存条价格回落：16GB DDR5 降至 1080~1200 元，较高点下跌近三成但较去年同期仍高出五六倍” against primary-source evidence.\n\n本次新增线索：\n- 科技早报 | 三星、SK海力士、美光放弃CXL控制器自研｜网易科技｜https://www.163.com/dy/article/L2BK96ON0534A4SC.html\n- Anthropic’s landmark $1.5B copyright settlement is approved｜TechCrunch｜https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. OpenAI is scared of open-weight models. Should the US be?｜TechCrunch｜https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/\n2. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer｜CNBC Technology｜https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\n3. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says｜CNBC Technology｜https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html\n4. Anthropic’s landmark $1.5B copyright settlement is approved｜TechCrunch｜https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/\n5. Can an Apple lawsuit derail OpenAI’s hardware plans?｜TechCrunch｜https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
