@@ -1,73 +1,47 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-21T23:43:34.081Z",
+  "generatedAt": "2026-07-22T00:01:56.374Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-22",
   "changeSummary": {
-    "domesticNew": 13,
-    "globalNew": 22,
-    "domesticContinued": 0,
-    "globalContinued": 3,
+    "domesticNew": 7,
+    "globalNew": 0,
+    "domesticContinued": 10,
+    "globalContinued": 25,
     "topNewDomestic": [
       {
-        "title": "纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/979/812.htm"
-      },
-      {
-        "title": "英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/979/826.htm"
-      },
-      {
-        "title": "DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/979/825.htm"
-      },
-      {
-        "title": "谷歌更新轻量版模型阵容 但旗舰Pro发布再延期",
+        "title": "SK海力士称无计划收购英特尔俄亥俄芯片园区",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L2DDB00205198CJN.html"
+        "url": "https://www.163.com/dy/article/L2E5GHB20534A4SC.html"
       },
       {
-        "title": "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍",
+        "title": "英伟达详解Vera CPU，向AMD、英特尔发起挑战；",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L2DC4D9R05198CJN.html"
+        "url": "https://www.163.com/dy/article/L2E60MKQ0512B07B.html"
+      },
+      {
+        "title": "海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-07/22/content_551158.html"
+      },
+      {
+        "title": "突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/979/829.htm"
+      },
+      {
+        "title": "热点回应丨中国AI技术闪耀世界杯赛场",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/2026-07/22/content_551156.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html"
-      },
-      {
-        "title": "US threatens sanctions against Chinese AI models over IP theft",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
-      },
-      {
-        "title": "Oracle faces $100M annual bill to back Wisconsin datacenter power promises",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728"
-      },
-      {
-        "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html"
-      },
-      {
-        "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 887,
+    "domesticRejected": 883,
     "globalRejected": 875,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -391,11 +365,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "itemsSeen": 1371,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 306,
-  "itemsAfterDedupe": 234,
-  "todayItemsSeen": 13,
-  "suspectedItemsSeen": 18,
-  "skippedNonToday": 203,
+  "itemsAfterRelevantFilter": 311,
+  "itemsAfterDedupe": 235,
+  "todayItemsSeen": 17,
+  "suspectedItemsSeen": 17,
+  "skippedNonToday": 200,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -851,55 +825,84 @@ window.CHENCHEN_DAILY_DATA = {
   "globalItemsAfterRelevantFilter": 112,
   "topics": [
     {
-      "topic": "半导体供应链",
-      "count": 4,
-      "sourceCount": 2,
+      "topic": "科学前沿动态",
+      "count": 3,
+      "sourceCount": 3,
       "sources": [
         "IT之家",
+        "科技日报",
         "网易科技"
       ],
       "items": [
-        "纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品",
-        "英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6",
-        "报道称英特尔与SK海力士未就俄亥俄州芯片园区进行谈判",
-        "SK海力士据悉正洽购英特尔俄亥俄州园区 拟生产存储芯片"
+        "美国将改革科研资金分配：从大学转向 AI，影响 2000 亿美元预算",
+        "最新发现与创新丨我科学家破译玉米高产密码",
+        "我国科学家破译玉米高产密码"
       ]
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 3,
+      "count": 4,
       "sourceCount": 2,
       "sources": [
-        "IT之家",
-        "网易科技"
+        "网易科技",
+        "IT之家"
       ],
       "items": [
+        "英伟达详解Vera CPU，向AMD、英特尔发起挑战；",
         "DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍",
         "谷歌更新轻量版模型阵容 但旗舰Pro发布再延期",
         "OpenA：ChatGPT Work和GPT-5.6今日起面向小型企业开放"
       ]
     },
     {
-      "topic": "芯片动态",
-      "count": 2,
-      "sourceCount": 1,
+      "topic": "半导体供应链",
+      "count": 3,
+      "sourceCount": 2,
       "sources": [
-        "网易科技"
+        "网易科技",
+        "IT之家"
       ],
       "items": [
-        "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍",
-        "英伟达详解下一代AI专用Vera CPU 称速度是其他CPU的两倍多"
+        "SK海力士称无计划收购英特尔俄亥俄芯片园区",
+        "纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品",
+        "英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6"
       ]
     },
     {
-      "topic": "科学前沿动态",
-      "count": 1,
-      "sourceCount": 1,
+      "topic": "芯片动态",
+      "count": 2,
+      "sourceCount": 2,
       "sources": [
+        "IT之家",
         "网易科技"
       ],
       "items": [
-        "我国科学家破译玉米高产密码"
+        "突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热",
+        "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍"
+      ]
+    },
+    {
+      "topic": "AI动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "科技日报",
+        "网易科技"
+      ],
+      "items": [
+        "热点回应丨中国AI技术闪耀世界杯赛场",
+        "CoreWeave首席执行官：公司正在大规模部署AI基础设施"
+      ]
+    },
+    {
+      "topic": "商业航天与卫星互联网",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "科技日报"
+      ],
+      "items": [
+        "海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”"
       ]
     },
     {
@@ -921,22 +924,147 @@ window.CHENCHEN_DAILY_DATA = {
         "IT之家"
       ],
       "items": [
-        "破解人类限制：OpenAI 自曝 AI 模型“越狱”始末，突破沙盒环境入侵 Hugging Face"
-      ]
-    },
-    {
-      "topic": "AI动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "CoreWeave首席执行官：公司正在大规模部署AI基础设施"
+        "OpenAI 自曝 AI 模型“失控”越狱，突破沙盒环境入侵 Hugging Face"
       ]
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "SK海力士称无计划收购英特尔俄亥俄芯片园区",
+      "summary": "韩媒爆料 SK 海力士正与英特尔谈判，欲收购其位于俄亥俄州的半导体园区以布局美国制造，但遭 SK 海力士官方否认。英特尔方面则不予置评，但强调会继续推进俄亥俄项目。此举反映了美国半导体产业链本土化趋势下，国际芯片巨头的战略调整与博弈。#SK海力士# #英特尔# #半导体",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L2E5GHB20534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L2E5GHB20534A4SC.html"
+      ],
+      "publishedAt": "2026-07-22",
+      "date": "2026-07-22",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “SK海力士称无计划收购英特尔俄亥俄芯片园区” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "SK海力士称无计划收购英特尔俄亥俄芯片园区,芯片,美国,sk,英特尔,海力士,俄亥俄,知名企业,半导体需求",
+      "relatedTitles": [
+        "SK海力士称无计划收购英特尔俄亥俄芯片园区"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "英伟达详解Vera CPU，向AMD、英特尔发起挑战；",
+      "summary": "英伟达详解Vera CPU，向AMD、英特尔发起挑战；谷歌推出三款Gemini新模型，加码AI智能体与网络安全市场丨全球科技早参,微软,英伟达,英特尔,amd,智能体,网络安全,超威半导体,Google",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L2E60MKQ0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L2E60MKQ0512B07B.html"
+      ],
+      "publishedAt": "2026-07-22",
+      "date": "2026-07-22",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达详解Vera CPU，向AMD、英特尔发起挑战；” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "英伟达详解Vera CPU，向AMD、英特尔发起挑战；谷歌推出三款Gemini新模型，加码AI智能体与网络安全市场丨全球科技早参,微软,英伟达,英特尔,amd,智能体,网络安全,超威半导体,Google",
+      "relatedTitles": [
+        "英伟达详解Vera CPU，向AMD、英特尔发起挑战；"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品",
@@ -1002,6 +1130,278 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "纬创在美国得克萨斯州沃斯堡开设其首家美国制造工厂，该工厂将生产英伟达 GB300、Vera Rubin 等 AI 超级芯片，总投资达 7 亿美元，计划 2026 年底岗位规模扩至 1000 个",
       "relatedTitles": [
         "纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 党旗在基层一线高高飘扬丨“绝不带任何隐患上天”——记海南商业航天发射场首席指挥员张小军 2026-07-22 07:45:03 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-07/22/content_551158.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-07/22/content_551158.html"
+      ],
+      "publishedAt": "2026-07-22",
+      "date": "2026-07-22",
+      "category": "太空与低空",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 182,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 党旗在基层一线高高飘扬丨“绝不带任何隐患上天”——记海南商业航天发射场首席指挥员张小军 2026-07-22 07:45:03 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热",
+      "summary": "科技媒体 Wccftech 昨日（7 月 21 日）发布博文，报道称三星自研 Exynos 2700 芯片主频可能突破 4.00GHz 频率门槛，目标峰值为 4.20GHz。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/979/829.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/979/829.htm"
+      ],
+      "publishedAt": "Tue, 21 Jul 2026 23:54:22 GMT",
+      "date": "2026-07-22",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 171,
+      "reporterScore": 179,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "科技媒体 Wccftech 昨日（7 月 21 日）发布博文，报道称三星自研 Exynos 2700 芯片主频可能突破 4.00GHz 频率门槛，目标峰值为 4.20GHz。",
+      "relatedTitles": [
+        "突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "热点回应丨中国AI技术闪耀世界杯赛场",
+      "summary": "所在位置： 中国科技网首页 > 正文 热点回应丨中国AI技术闪耀世界杯赛场 2026-07-22 07:42:02 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/2026-07/22/content_551156.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/2026-07/22/content_551156.html"
+      ],
+      "publishedAt": "2026-07-22",
+      "date": "2026-07-22",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 170,
+      "reporterScore": 178,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “热点回应丨中国AI技术闪耀世界杯赛场” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "所在位置： 中国科技网首页 > 正文 热点回应丨中国AI技术闪耀世界杯赛场 2026-07-22 07:42:02 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "热点回应丨中国AI技术闪耀世界杯赛场"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "美国将改革科研资金分配：从大学转向 AI，影响 2000 亿美元预算",
+      "summary": "特朗普政府计划改革联邦科研资金分配，未来每年约 2000 亿美元预算将更多流向个人科学家和 AI 应用，而非直接拨给大学。此举旨在加速技术发现以应对竞争，并减少官僚环节。白宫认为现有资助模式僵化，希望将 AI 置于科研核心。 #美国科研改革# #AI科研经费#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/979/827.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/979/827.htm"
+      ],
+      "publishedAt": "Tue, 21 Jul 2026 23:44:06 GMT",
+      "date": "2026-07-22",
+      "category": "科学前沿",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 174,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “美国将改革科研资金分配：从大学转向 AI，影响 2000 亿美元预算” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "特朗普政府计划改革联邦科研资金分配，未来每年约 2000 亿美元预算将更多流向个人科学家和 AI 应用，而非直接拨给大学。此举旨在加速技术发现以应对竞争，并减少官僚环节。白宫认为现有资助模式僵化，希望将 AI 置于科研核心。 #美国科研改革# #AI科研经费#",
+      "relatedTitles": [
+        "美国将改革科研资金分配：从大学转向 AI，影响 2000 亿美元预算"
       ],
       "isNewSinceLastRun": true
     },
@@ -1071,7 +1471,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1138,6 +1538,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "英伟达宣布 Vera Rubin 平台正迈向万亿级规模部署，并已在多家云服务商内部运行。基于 DeepSeek R1 模型的测试显示，在匹配交互性目标下，Vera Rubin NVL72 的每兆瓦 Tokens 吞吐量相比 Blackwell NVL72 提升了 10 倍，标志着 AI 推理能效的又一次飞跃。#AI芯片##英伟达#",
       "relatedTitles": [
         "DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "最新发现与创新丨我科学家破译玉米高产密码",
+      "summary": "所在位置： 中国科技网首页 > 正文 最新发现与创新丨我科学家破译玉米高产密码 2026-07-22 07:42:03 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/2026-07/22/content_551157.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/2026-07/22/content_551157.html"
+      ],
+      "publishedAt": "2026-07-22",
+      "date": "2026-07-22",
+      "category": "科学前沿",
+      "classificationConfidence": 0.93,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “最新发现与创新丨我科学家破译玉米高产密码” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "所在位置： 中国科技网首页 > 正文 最新发现与创新丨我科学家破译玉米高产密码 2026-07-22 07:42:03 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "最新发现与创新丨我科学家破译玉米高产密码"
       ],
       "isNewSinceLastRun": true
     },
@@ -1207,7 +1675,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌更新轻量版模型阵容 但旗舰Pro发布再延期"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1275,211 +1743,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "报道称英特尔与SK海力士未就俄亥俄州芯片园区进行谈判",
-      "summary": "报道称英特尔与SK海力士未就俄亥俄州芯片园区进行谈判,sk,英特尔,海力士,俄亥俄州,知名企业,半导体需求",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L2E4GDRE0534A4SC.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L2E4GDRE0534A4SC.html"
-      ],
-      "publishedAt": "2026-07-22",
-      "date": "2026-07-22",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “报道称英特尔与SK海力士未就俄亥俄州芯片园区进行谈判” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "报道称英特尔与SK海力士未就俄亥俄州芯片园区进行谈判,sk,英特尔,海力士,俄亥俄州,知名企业,半导体需求",
-      "relatedTitles": [
-        "报道称英特尔与SK海力士未就俄亥俄州芯片园区进行谈判"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "SK海力士据悉正洽购英特尔俄亥俄州园区 拟生产存储芯片",
-      "summary": "SK海力士据悉正洽购英特尔俄亥俄州园区 拟生产存储芯片,芯片,sk,海力士,英特尔,俄亥俄州,知名企业,半导体需求",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L2E3U5M205198CJN.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L2E3U5M205198CJN.html"
-      ],
-      "publishedAt": "2026-07-22",
-      "date": "2026-07-22",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “SK海力士据悉正洽购英特尔俄亥俄州园区 拟生产存储芯片” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "SK海力士据悉正洽购英特尔俄亥俄州园区 拟生产存储芯片,芯片,sk,海力士,英特尔,俄亥俄州,知名企业,半导体需求",
-      "relatedTitles": [
-        "SK海力士据悉正洽购英特尔俄亥俄州园区 拟生产存储芯片"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "英伟达详解下一代AI专用Vera CPU 称速度是其他CPU的两倍多",
-      "summary": "英伟达详解下一代AI专用Vera CPU 称速度是其他CPU的两倍多,英伟达,云平台,cpu,人工智能,服务器芯片,nvidia",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L2DC4D2G05198CJN.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L2DC4D2G05198CJN.html"
-      ],
-      "publishedAt": "2026-07-22",
-      "date": "2026-07-22",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达详解下一代AI专用Vera CPU 称速度是其他CPU的两倍多” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "英伟达详解下一代AI专用Vera CPU 称速度是其他CPU的两倍多,英伟达,云平台,cpu,人工智能,服务器芯片,nvidia",
-      "relatedTitles": [
-        "英伟达详解下一代AI专用Vera CPU 称速度是其他CPU的两倍多"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1547,7 +1811,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "我国科学家破译玉米高产密码"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1615,11 +1879,11 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉将Robotaxi服务扩展至奥兰多和坦帕"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "破解人类限制：OpenAI 自曝 AI 模型“越狱”始末，突破沙盒环境入侵 Hugging Face",
+      "title": "OpenAI 自曝 AI 模型“失控”越狱，突破沙盒环境入侵 Hugging Face",
       "summary": "OpenAI 在内部安全测试中，其 AI 模型突破了高度隔离的沙盒环境，并利用零日漏洞入侵了 Hugging Face 的生产基础设施。事件揭示了 AI 在网络安全攻防中的潜在能力与风险。#AI安全##OpenAI##Hugging Face#",
       "source": "IT之家",
       "sources": [
@@ -1676,14 +1940,14 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “破解人类限制：OpenAI 自曝 AI 模型“越狱”始末，突破沙盒环境入侵 Hugging Face” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 自曝 AI 模型“失控”越狱，突破沙盒环境入侵 Hugging Face” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "国家科技战略与监管",
       "rawText": "OpenAI 在内部安全测试中，其 AI 模型突破了高度隔离的沙盒环境，并利用零日漏洞入侵了 Hugging Face 的生产基础设施。事件揭示了 AI 在网络安全攻防中的潜在能力与风险。#AI安全##OpenAI##Hugging Face#",
       "relatedTitles": [
-        "破解人类限制：OpenAI 自曝 AI 模型“越狱”始末，突破沙盒环境入侵 Hugging Face"
+        "OpenAI 自曝 AI 模型“失控”越狱，突破沙盒环境入侵 Hugging Face"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1751,7 +2015,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "CoreWeave首席执行官：公司正在大规模部署AI基础设施"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1819,77 +2083,10 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenA：ChatGPT Work和GPT-5.6今日起面向小型企业开放"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "GMI Cloud",
-      "summary": "GMI Cloud IDC 2025 最新 Infra 报告力荐：GMI Cloud 领跑 AI 原生云赛道 以技术创新与全球布局加速企业 GenAI 规模化落地 十三 2025-10-20 GMI Cloud IDC 云原生 WAIC 2025 上 GMI Cloud 展现 AI 基建硬实力，破解出海商业化难题 与全",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/gmi-cloud",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/gmi-cloud"
-      ],
-      "publishedAt": "2026-07-45",
-      "date": "2026-07-45",
-      "category": "AI",
-      "classificationConfidence": 0.89,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 166,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 115
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “GMI Cloud” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "GMI Cloud IDC 2025 最新 Infra 报告力荐：GMI Cloud 领跑 AI 原生云赛道 以技术创新与全球布局加速企业 GenAI 规模化落地 十三 2025-10-20 GMI Cloud IDC 云原生 WAIC 2025 上 GMI Cloud 展现 AI 基建硬实力，破解出海商业化难题 与全球开发者、AI 企业及生态伙伴共探 AI 算力新未来 十三 2025-07-29 GMI Cloud WAIC 2025 在海外构建一个能够立即商业化的AI 应用，至少需要多少IT成本？ GMI Cloud 推出“ AI 应用构建成本计算器”，精准破解AI应用海外市场落地难题 十三 2025-07-27 GMI Cloud WAIC 全球仅6家！GMI Cloud跻身Reference Platform NCP行列 一家快速崛起的 AI Native Cloud 服务商 十三 2025-06-04 GMI Cloud 云服务 英伟达 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱 在",
-      "relatedTitles": [
-        "GMI Cloud"
-      ]
-    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "猿辅导AI大阅读发布，马旻：AI该启发思考，而非替代思考",
@@ -3067,7 +3264,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 123
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3099,7 +3296,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3131,71 +3328,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-      "summary": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
-      "publishedAt": "Tue, 21 Jul 2026 20:51:34 GMT",
-      "date": "2026-07-21",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Goldman Sachs creates private markets platform as rich investors seek th” against primary-source evidence.",
-      "priority": 5,
-      "score": 146,
-      "reporterScore": 154,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 100
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
-      "summary": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
-      "publishedAt": "Tue, 21 Jul 2026 18:05:10 +0000",
-      "date": "2026-07-21",
-      "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.97,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings” against primary-source evidence.",
-      "priority": 5,
-      "score": 142,
-      "reporterScore": 148,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 93
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3263,6 +3396,70 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+      "summary": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
+      "publishedAt": "Tue, 21 Jul 2026 20:51:34 GMT",
+      "date": "2026-07-21",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Goldman Sachs creates private markets platform as rich investors seek th” against primary-source evidence.",
+      "priority": 5,
+      "score": 146,
+      "reporterScore": 154,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 100
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+      "summary": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+      "publishedAt": "Tue, 21 Jul 2026 18:05:10 +0000",
+      "date": "2026-07-21",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.97,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings” against primary-source evidence.",
+      "priority": 5,
+      "score": 142,
+      "reporterScore": 148,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 93
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral",
       "summary": "Artificial intelligence company Anthropic announced on Thursday that it had raised $65 billion in a new funding round, valuing the Claude maker (founded by former OpenAI employees ",
       "source": "France24 Technology",
@@ -3291,7 +3488,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3323,7 +3520,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3355,7 +3552,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3387,7 +3584,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3419,7 +3616,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3451,7 +3648,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3483,7 +3680,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3515,295 +3712,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI appoints two new members to board of directors",
-      "summary": "OpenAI appointed longtime financial executives David Vélez and Robin Vince to its nonprofit and for-profit boards.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/21/openai-appoints-two-new-members-to-board-of-directors.html",
-      "publishedAt": "Tue, 21 Jul 2026 21:22:32 GMT",
-      "date": "2026-07-21",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI appoints two new members to board of directors” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
-      "summary": "The two AI developers spent a combined $3.17 million in the second quarter, up 23% from the first three months of 2026.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
-      "publishedAt": "Tue, 21 Jul 2026 20:58:29 GMT",
-      "date": "2026-07-21",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI, Anthropic boost lobbying as legacy tech and defense spending sli” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nebius stock surges nearly 19% as Nvidia discloses significant stake in neocloud",
-      "summary": "Nvidia said it would invest $2 billion into Nebius in March.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html",
-      "publishedAt": "Tue, 21 Jul 2026 20:50:50 GMT",
-      "date": "2026-07-21",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nebius stock surges nearly 19% as Nvidia discloses significant stake in ” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung’s Freestyle+ AI Smart Projector turns any wall into your next movie screen",
-      "summary": "Priced at $1,200, Samsung's new portable projector automatically corrects distortion, focuses in real time, and avoids obstacles blocking the picture.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/samsung-freestyle-ai-smart-projector-191939292.html",
-      "publishedAt": "2026-07-22",
-      "date": "2026-07-22",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.65,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Samsung’s Freestyle+ AI Smart Projector turns any wall into your next mo” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
-      "summary": "The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
-      "publishedAt": "Tue, 21 Jul 2026 22:34:35 GMT",
-      "date": "2026-07-21",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.97,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The Fed rang the alarm about Anthropic's Mythos AI model — but had to go” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung's New Tandem OLED Laptop Displays Promise to Pull You Deeper Into the Darkness",
-      "summary": "Deeper blacks and brighter highlight areas make for a vibrant screen, starting with Lenova's special-edition Yoga Pro 9i.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/samsungs-tandem-oled-laptop-displays-185050250.html",
-      "publishedAt": "2026-07-22",
-      "date": "2026-07-22",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung's New Tandem OLED Laptop Displays Promise to Pull You Deeper Int” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
-      "summary": "Many server makers are seeing faster growth as companies race to deploy artificial intelligence servers.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html",
-      "publishedAt": "Tue, 21 Jul 2026 22:10:56 GMT",
-      "date": "2026-07-21",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Super Micro surges 15% on new order and margin disclosure after SpaceX a” against primary-source evidence.",
-      "priority": 4,
-      "score": 138,
-      "reporterScore": 138,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX snaps 7-day losing streak, sets earnings date that triggers first big share unlock",
-      "summary": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak after announcing Aug. 4 as its maiden earnings report",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
-      "publishedAt": "Tue, 21 Jul 2026 20:18:25 GMT",
-      "date": "2026-07-21",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX snaps 7-day losing streak, sets earnings date that triggers first” against primary-source evidence.",
-      "priority": 4,
-      "score": 138,
-      "reporterScore": 138,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Advancing next-gen AI with materials science innovation",
-      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "publishedAt": "Tue, 21 Jul 2026 10:37:34 +0000",
-      "date": "2026-07-21",
-      "region": "US",
-      "category": "科学前沿",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “Advancing next-gen AI with materials science innovation” against primary-source evidence.",
-      "priority": 4,
-      "score": 134,
-      "reporterScore": 134,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3836,10 +3745,298 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI appoints two new members to board of directors",
+      "summary": "OpenAI appointed longtime financial executives David Vélez and Robin Vince to its nonprofit and for-profit boards.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/21/openai-appoints-two-new-members-to-board-of-directors.html",
+      "publishedAt": "Tue, 21 Jul 2026 21:22:32 GMT",
+      "date": "2026-07-21",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI appoints two new members to board of directors” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+      "summary": "The two AI developers spent a combined $3.17 million in the second quarter, up 23% from the first three months of 2026.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
+      "publishedAt": "Tue, 21 Jul 2026 20:58:29 GMT",
+      "date": "2026-07-21",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI, Anthropic boost lobbying as legacy tech and defense spending sli” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nebius stock surges nearly 19% as Nvidia discloses significant stake in neocloud",
+      "summary": "Nvidia said it would invest $2 billion into Nebius in March.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html",
+      "publishedAt": "Tue, 21 Jul 2026 20:50:50 GMT",
+      "date": "2026-07-21",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nebius stock surges nearly 19% as Nvidia discloses significant stake in ” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung’s Freestyle+ AI Smart Projector turns any wall into your next movie screen",
+      "summary": "Priced at $1,200, Samsung's new portable projector automatically corrects distortion, focuses in real time, and avoids obstacles blocking the picture.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/samsung-freestyle-ai-smart-projector-191939292.html",
+      "publishedAt": "2026-07-22",
+      "date": "2026-07-22",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.65,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Samsung’s Freestyle+ AI Smart Projector turns any wall into your next mo” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+      "summary": "The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
+      "publishedAt": "Tue, 21 Jul 2026 22:34:35 GMT",
+      "date": "2026-07-21",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.97,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The Fed rang the alarm about Anthropic's Mythos AI model — but had to go” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung's New Tandem OLED Laptop Displays Promise to Pull You Deeper Into the Darkness",
+      "summary": "Deeper blacks and brighter highlight areas make for a vibrant screen, starting with Lenova's special-edition Yoga Pro 9i.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/samsungs-tandem-oled-laptop-displays-185050250.html",
+      "publishedAt": "2026-07-22",
+      "date": "2026-07-22",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung's New Tandem OLED Laptop Displays Promise to Pull You Deeper Int” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
+      "summary": "Many server makers are seeing faster growth as companies race to deploy artificial intelligence servers.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html",
+      "publishedAt": "Tue, 21 Jul 2026 22:10:56 GMT",
+      "date": "2026-07-21",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Super Micro surges 15% on new order and margin disclosure after SpaceX a” against primary-source evidence.",
+      "priority": 4,
+      "score": 138,
+      "reporterScore": 138,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX snaps 7-day losing streak, sets earnings date that triggers first big share unlock",
+      "summary": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak after announcing Aug. 4 as its maiden earnings report",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
+      "publishedAt": "Tue, 21 Jul 2026 20:18:25 GMT",
+      "date": "2026-07-21",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX snaps 7-day losing streak, sets earnings date that triggers first” against primary-source evidence.",
+      "priority": 4,
+      "score": 138,
+      "reporterScore": 138,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "publishedAt": "Tue, 21 Jul 2026 10:37:34 +0000",
+      "date": "2026-07-21",
+      "region": "US",
+      "category": "科学前沿",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “Advancing next-gen AI with materials science innovation” against primary-source evidence.",
+      "priority": 4,
+      "score": 134,
+      "reporterScore": 134,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-22｜V3\n生成时间：2026/7/22 07:43:34\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2590｜确认今日 13｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 22 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [22:39] 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品\n   IT之家｜2026-07-22｜https://www.ithome.com/0/979/812.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品” against primary-source evidence.\n\n2. [23:37] 英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6\n   IT之家｜2026-07-22｜https://www.ithome.com/0/979/826.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6” against primary-source evidence.\n\n3. [23:34] DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍\n   IT之家｜2026-07-22｜https://www.ithome.com/0/979/825.htm\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍” against primary-source evidence.\n\n4. [2026-07-22] 谷歌更新轻量版模型阵容 但旗舰Pro发布再延期\n   网易科技｜2026-07-22｜https://www.163.com/dy/article/L2DDB00205198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌更新轻量版模型阵容 但旗舰Pro发布再延期” against primary-source evidence.\n\n5. [2026-07-22] 英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍\n   网易科技｜2026-07-22｜https://www.163.com/dy/article/L2DC4D9R05198CJN.html\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍” against primary-source evidence.\n\n本次新增线索：\n- 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品｜IT之家｜https://www.ithome.com/0/979/812.htm\n- 英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6｜IT之家｜https://www.ithome.com/0/979/826.htm\n- DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍｜IT之家｜https://www.ithome.com/0/979/825.htm\n- 谷歌更新轻量版模型阵容 但旗舰Pro发布再延期｜网易科技｜https://www.163.com/dy/article/L2DDB00205198CJN.html\n- 英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍｜网易科技｜https://www.163.com/dy/article/L2DC4D9R05198CJN.html\n- SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html\n2. US threatens sanctions against Chinese AI models over IP theft｜TechCrunch｜https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/\n3. Oracle faces $100M annual bill to back Wisconsin datacenter power promises｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728\n4. Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe｜CNBC Technology｜https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html\n5. Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings｜TechCrunch｜https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-22｜V3\n生成时间：2026/7/22 07:43:34\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2590｜确认今日 13｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 22 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [22:39] 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品\n   IT之家｜2026-07-22｜https://www.ithome.com/0/979/812.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品” against primary-source evidence.\n\n2. [23:37] 英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6\n   IT之家｜2026-07-22｜https://www.ithome.com/0/979/826.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6” against primary-source evidence.\n\n3. [23:34] DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍\n   IT之家｜2026-07-22｜https://www.ithome.com/0/979/825.htm\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍” against primary-source evidence.\n\n4. [2026-07-22] 谷歌更新轻量版模型阵容 但旗舰Pro发布再延期\n   网易科技｜2026-07-22｜https://www.163.com/dy/article/L2DDB00205198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌更新轻量版模型阵容 但旗舰Pro发布再延期” against primary-source evidence.\n\n5. [2026-07-22] 英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍\n   网易科技｜2026-07-22｜https://www.163.com/dy/article/L2DC4D9R05198CJN.html\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍” against primary-source evidence.\n\n本次新增线索：\n- 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品｜IT之家｜https://www.ithome.com/0/979/812.htm\n- 英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6｜IT之家｜https://www.ithome.com/0/979/826.htm\n- DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍｜IT之家｜https://www.ithome.com/0/979/825.htm\n- 谷歌更新轻量版模型阵容 但旗舰Pro发布再延期｜网易科技｜https://www.163.com/dy/article/L2DDB00205198CJN.html\n- 英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍｜网易科技｜https://www.163.com/dy/article/L2DC4D9R05198CJN.html\n- SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html\n2. US threatens sanctions against Chinese AI models over IP theft｜TechCrunch｜https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/\n3. Oracle faces $100M annual bill to back Wisconsin datacenter power promises｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728\n4. Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe｜CNBC Technology｜https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html\n5. Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings｜TechCrunch｜https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-22｜生成时间：2026/7/22 07:43:34｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2590｜确认今日 13｜国际背景 25</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 13 条｜国际 22 条<br>延续跟踪线索：国内 0 条｜国际 3 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [22:39] 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品</strong>\n      <span>IT之家｜2026-07-22｜<a href=\"https://www.ithome.com/0/979/812.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：194｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [23:37] 英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6</strong>\n      <span>IT之家｜2026-07-22｜<a href=\"https://www.ithome.com/0/979/826.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：180｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:34] DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍</strong>\n      <span>IT之家｜2026-07-22｜<a href=\"https://www.ithome.com/0/979/825.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：179｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-22] 谷歌更新轻量版模型阵容 但旗舰Pro发布再延期</strong>\n      <span>网易科技｜2026-07-22｜<a href=\"https://www.163.com/dy/article/L2DDB00205198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌更新轻量版模型阵容 但旗舰Pro发布再延期” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-22] 英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍</strong>\n      <span>网易科技｜2026-07-22｜<a href=\"https://www.163.com/dy/article/L2DC4D9R05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)</strong>\n      <span>时间：2026-07-22｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX launches satellite repair drone with 10-foot robotic arms to Eart” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. US threatens sanctions against Chinese AI models over IP theft</strong>\n      <span>时间：Tue, 21 Jul 2026 15:37:05 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “US threatens sanctions against Chinese AI models over IP theft” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Oracle faces $100M annual bill to back Wisconsin datacenter power promises</strong>\n      <span>时间：Tue, 21 Jul 2026 18:45:35 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Oracle faces $100M annual bill to back Wisconsin datacenter power promis” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe</strong>\n      <span>时间：Tue, 21 Jul 2026 20:51:34 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Goldman Sachs creates private markets platform as rich investors seek th” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings</strong>\n      <span>时间：Tue, 21 Jul 2026 18:05:10 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/22 07:43:34\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 22 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [22:39] 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品\n   来源：IT之家\n   链接：https://www.ithome.com/0/979/812.htm\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品” against primary-source evidence.\n\n2. [23:37] 英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6\n   来源：IT之家\n   链接：https://www.ithome.com/0/979/826.htm\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6” against primary-source evidence.\n\n3. [23:34] DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍\n   来源：IT之家\n   链接：https://www.ithome.com/0/979/825.htm\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍” against primary-source evidence.\n\n4. [2026-07-22] 谷歌更新轻量版模型阵容 但旗舰Pro发布再延期\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2DDB00205198CJN.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌更新轻量版模型阵容 但旗舰Pro发布再延期” against primary-source evidence.\n\n5. [2026-07-22] 英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2DC4D9R05198CJN.html\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍” against primary-source evidence.\n\n本次新增线索：\n- 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品｜IT之家｜https://www.ithome.com/0/979/812.htm\n- 英特尔代工业务自陈立武上任后迎来首个具名客户：携手 Fortinet 开发下一代安全处理器 SP6｜IT之家｜https://www.ithome.com/0/979/826.htm\n- DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍｜IT之家｜https://www.ithome.com/0/979/825.htm\n- 谷歌更新轻量版模型阵容 但旗舰Pro发布再延期｜网易科技｜https://www.163.com/dy/article/L2DDB00205198CJN.html\n- 英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍｜网易科技｜https://www.163.com/dy/article/L2DC4D9R05198CJN.html\n- SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html\n2. US threatens sanctions against Chinese AI models over IP theft｜TechCrunch｜https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/\n3. Oracle faces $100M annual bill to back Wisconsin datacenter power promises｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728\n4. Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe｜CNBC Technology｜https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html\n5. Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings｜TechCrunch｜https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-22｜V3\n生成时间：2026/7/22 08:01:56\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2590｜确认今日 17｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 0 条\n延续跟踪线索：国内 10 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-22] SK海力士称无计划收购英特尔俄亥俄芯片园区\n   网易科技｜2026-07-22｜https://www.163.com/dy/article/L2E5GHB20534A4SC.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “SK海力士称无计划收购英特尔俄亥俄芯片园区” against primary-source evidence.\n\n2. [2026-07-22] 英伟达详解Vera CPU，向AMD、英特尔发起挑战；\n   网易科技｜2026-07-22｜https://www.163.com/dy/article/L2E60MKQ0512B07B.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达详解Vera CPU，向AMD、英特尔发起挑战；” against primary-source evidence.\n\n3. [22:39] 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品\n   IT之家｜2026-07-22｜https://www.ithome.com/0/979/812.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品” against primary-source evidence.\n\n4. [2026-07-22] 海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”\n   科技日报｜2026-07-22｜https://www.stdaily.com/web/gdxw/2026-07/22/content_551158.html\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”” against primary-source evidence.\n\n5. [23:54] 突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热\n   IT之家｜2026-07-22｜https://www.ithome.com/0/979/829.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热” against primary-source evidence.\n\n本次新增线索：\n- SK海力士称无计划收购英特尔俄亥俄芯片园区｜网易科技｜https://www.163.com/dy/article/L2E5GHB20534A4SC.html\n- 英伟达详解Vera CPU，向AMD、英特尔发起挑战；｜网易科技｜https://www.163.com/dy/article/L2E60MKQ0512B07B.html\n- 海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/22/content_551158.html\n- 突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热｜IT之家｜https://www.ithome.com/0/979/829.htm\n- 热点回应丨中国AI技术闪耀世界杯赛场｜科技日报｜https://www.stdaily.com/web/2026-07/22/content_551156.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，3 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html\n2. US threatens sanctions against Chinese AI models over IP theft｜TechCrunch｜https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/\n3. Oracle faces $100M annual bill to back Wisconsin datacenter power promises｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728\n4. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer｜CNBC Technology｜https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\n5. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says｜CNBC Technology｜https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-22｜V3\n生成时间：2026/7/22 08:01:56\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2590｜确认今日 17｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 0 条\n延续跟踪线索：国内 10 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-22] SK海力士称无计划收购英特尔俄亥俄芯片园区\n   网易科技｜2026-07-22｜https://www.163.com/dy/article/L2E5GHB20534A4SC.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “SK海力士称无计划收购英特尔俄亥俄芯片园区” against primary-source evidence.\n\n2. [2026-07-22] 英伟达详解Vera CPU，向AMD、英特尔发起挑战；\n   网易科技｜2026-07-22｜https://www.163.com/dy/article/L2E60MKQ0512B07B.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达详解Vera CPU，向AMD、英特尔发起挑战；” against primary-source evidence.\n\n3. [22:39] 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品\n   IT之家｜2026-07-22｜https://www.ithome.com/0/979/812.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品” against primary-source evidence.\n\n4. [2026-07-22] 海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”\n   科技日报｜2026-07-22｜https://www.stdaily.com/web/gdxw/2026-07/22/content_551158.html\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”” against primary-source evidence.\n\n5. [23:54] 突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热\n   IT之家｜2026-07-22｜https://www.ithome.com/0/979/829.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热” against primary-source evidence.\n\n本次新增线索：\n- SK海力士称无计划收购英特尔俄亥俄芯片园区｜网易科技｜https://www.163.com/dy/article/L2E5GHB20534A4SC.html\n- 英伟达详解Vera CPU，向AMD、英特尔发起挑战；｜网易科技｜https://www.163.com/dy/article/L2E60MKQ0512B07B.html\n- 海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/22/content_551158.html\n- 突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热｜IT之家｜https://www.ithome.com/0/979/829.htm\n- 热点回应丨中国AI技术闪耀世界杯赛场｜科技日报｜https://www.stdaily.com/web/2026-07/22/content_551156.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，3 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html\n2. US threatens sanctions against Chinese AI models over IP theft｜TechCrunch｜https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/\n3. Oracle faces $100M annual bill to back Wisconsin datacenter power promises｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728\n4. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer｜CNBC Technology｜https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\n5. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says｜CNBC Technology｜https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-22｜生成时间：2026/7/22 08:01:56｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2590｜确认今日 17｜国际背景 25</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 7 条｜国际 0 条<br>延续跟踪线索：国内 10 条｜国际 25 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-22] SK海力士称无计划收购英特尔俄亥俄芯片园区</strong>\n      <span>网易科技｜2026-07-22｜<a href=\"https://www.163.com/dy/article/L2E5GHB20534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “SK海力士称无计划收购英特尔俄亥俄芯片园区” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-22] 英伟达详解Vera CPU，向AMD、英特尔发起挑战；</strong>\n      <span>网易科技｜2026-07-22｜<a href=\"https://www.163.com/dy/article/L2E60MKQ0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达详解Vera CPU，向AMD、英特尔发起挑战；” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [22:39] 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品</strong>\n      <span>IT之家｜2026-07-22｜<a href=\"https://www.ithome.com/0/979/812.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：194｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-22] 海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”</strong>\n      <span>科技日报｜2026-07-22｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/22/content_551158.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：182｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [23:54] 突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热</strong>\n      <span>IT之家｜2026-07-22｜<a href=\"https://www.ithome.com/0/979/829.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：179｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)</strong>\n      <span>时间：2026-07-22｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX launches satellite repair drone with 10-foot robotic arms to Eart” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. US threatens sanctions against Chinese AI models over IP theft</strong>\n      <span>时间：Tue, 21 Jul 2026 15:37:05 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “US threatens sanctions against Chinese AI models over IP theft” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Oracle faces $100M annual bill to back Wisconsin datacenter power promises</strong>\n      <span>时间：Tue, 21 Jul 2026 18:45:35 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Oracle faces $100M annual bill to back Wisconsin datacenter power promis” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer</strong>\n      <span>时间：Mon, 20 Jul 2026 16:16:18 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AMD launches Helios, its first rack AI system to rival Nvidia, adding Mi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says</strong>\n      <span>时间：Mon, 20 Jul 2026 12:34:57 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “TSMC is accelerating Arizona factory build-out to capitalize on AI 'mega” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/22 08:01:56\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 0 条\n延续跟踪线索：国内 10 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-22] SK海力士称无计划收购英特尔俄亥俄芯片园区\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2E5GHB20534A4SC.html\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “SK海力士称无计划收购英特尔俄亥俄芯片园区” against primary-source evidence.\n\n2. [2026-07-22] 英伟达详解Vera CPU，向AMD、英特尔发起挑战；\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2E60MKQ0512B07B.html\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达详解Vera CPU，向AMD、英特尔发起挑战；” against primary-source evidence.\n\n3. [22:39] 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品\n   来源：IT之家\n   链接：https://www.ithome.com/0/979/812.htm\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品” against primary-source evidence.\n\n4. [2026-07-22] 海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/22/content_551158.html\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”” against primary-source evidence.\n\n5. [23:54] 突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热\n   来源：IT之家\n   链接：https://www.ithome.com/0/979/829.htm\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热” against primary-source evidence.\n\n本次新增线索：\n- SK海力士称无计划收购英特尔俄亥俄芯片园区｜网易科技｜https://www.163.com/dy/article/L2E5GHB20534A4SC.html\n- 英伟达详解Vera CPU，向AMD、英特尔发起挑战；｜网易科技｜https://www.163.com/dy/article/L2E60MKQ0512B07B.html\n- 海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/22/content_551158.html\n- 突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热｜IT之家｜https://www.ithome.com/0/979/829.htm\n- 热点回应丨中国AI技术闪耀世界杯赛场｜科技日报｜https://www.stdaily.com/web/2026-07/22/content_551156.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，3 个来源）\n\n国际科技背景：\n1. SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html\n2. US threatens sanctions against Chinese AI models over IP theft｜TechCrunch｜https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/\n3. Oracle faces $100M annual bill to back Wisconsin datacenter power promises｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728\n4. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer｜CNBC Technology｜https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\n5. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says｜CNBC Technology｜https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
