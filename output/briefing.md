@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/22 16:46:34
+生成时间：2026/7/23 07:46:53
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 5 条｜国际 3 条
-延续跟踪线索：国内 64 条｜国际 22 条
+新增核心线索：国内 27 条｜国际 17 条
+延续跟踪线索：国内 0 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-22] 万亿参数成标配 国产AI大模型打响“贴身肉搏”战
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-07-22/doc-iniiqzkw4877916.shtml
-   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “万亿参数成标配 国产AI大模型打响“贴身肉搏”战” against primary-source evidence.
+1. [2026-07-23] 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L2GD7MO105198CJN.html
+   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产” against primary-source evidence.
 
-2. [2026-07-22] HBM垄断全球80%市场！却没有自己的AI大脑：韩国恐沦为高级代工厂
+2. [2026-07-23] 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-22/doc-iniisieh4805200.shtml
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “HBM垄断全球80%市场！却没有自己的AI大脑：韩国恐沦为高级代工厂” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位” against primary-source evidence.
 
-3. [2026-07-22] 启明创投在世界人工智能大会上发布2026 AI十大展望
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-07-22/doc-iniisiea8759448.shtml
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “启明创投在世界人工智能大会上发布2026 AI十大展望” against primary-source evidence.
+3. [2026-07-23] 影响市场重大事件：商业航天重要突破，全球最大
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L2GLLD130512B07B.html
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：商业航天重要突破，全球最大” against primary-source evidence.
 
-4. [2026-07-22] 奇富科技首倡金融大模型“六层路径”
+4. [2026-07-23] 科学家可能首次探测到系外卫星
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-07-22/doc-iniisawc2035454.shtml
-   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “奇富科技首倡金融大模型“六层路径”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “科学家可能首次探测到系外卫星” against primary-source evidence.
 
-5. [2026-07-22] 25家半导体企业上榜！2026《财富》中国500强出炉：台积电第22名、中芯国际第261名
+5. [2026-07-23] 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-07-22/doc-iniirwqk8025223.shtml
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “25家半导体企业上榜！2026《财富》中国500强出炉：台积电第22名、中芯国际第261名” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池” against primary-source evidence.
 
 本次新增线索：
-- 三星HBM混合键合芯片量产推迟！2029年配合英伟达新GPU｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-22/doc-iniispna7933870.shtml
-- 美团无人机累计完成订单超100万单｜网易科技｜https://www.163.com/dy/article/L2F3S5OJ0534A4SC.html
-- 惠科拟通过全资子公司涉足芯片先进封装及测试领域｜IT之家｜https://www.ithome.com/0/980/146.htm
-- “引力一号”一箭九星海上发射成功！商业航天组网能力持续兑现｜网易科技｜https://www.163.com/dy/article/L2EQ14390512B07B.html
-- 大众汽车集团：L3级自动驾驶能力最快将于2027年下半年启动交付｜网易科技｜https://www.163.com/dy/article/L2ESGQKI0534A4SC.html
-- Oracle faces $100M annual bill to back Wisconsin datacenter power promises｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728
+- 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产｜网易科技｜https://www.163.com/dy/article/L2GD7MO105198CJN.html
+- 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml
+- 影响市场重大事件：商业航天重要突破，全球最大｜网易科技｜https://www.163.com/dy/article/L2GLLD130512B07B.html
+- 科学家可能首次探测到系外卫星｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml
+- 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml
+- The U.S. wants to contain China’s AI. Silicon Valley keeps using it｜Rest of World｜https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 
 今日热点方向：
-- AI 应用：AI动态（15 条，6 个来源）
-- 芯片/半导体：半导体供应链（5 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（4 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（10 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（2 条，1 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- AI 应用：AI 应用与智能体（5 条，4 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
-1. Oracle faces $100M annual bill to back Wisconsin datacenter power promises｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728
-2. SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-satellite-repair-drone-130000736.html
-3. US threatens sanctions against Chinese AI models over IP theft｜TechCrunch｜https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/
-4. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer｜CNBC Technology｜https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html
-5. TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says｜CNBC Technology｜https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html
+1. The U.S. wants to contain China’s AI. Silicon Valley keeps using it｜Rest of World｜https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+2. Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable｜TechCrunch｜https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/
+3. Bessent says U.S. could sanction China over AI model 'theft'｜CNBC Technology｜https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html
+4. Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips｜TechCrunch｜https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/
+5. I Tested the New Veo 3 Engine on Artlist.io and Generated Full AI Audio｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/tested-veo-3-engine-artlist-171959684.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
