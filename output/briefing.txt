@@ -1,47 +1,43 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/22 08:01:56
+生成时间：2026/7/22 08:11:18
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 0 条
-延续跟踪线索：国内 10 条｜国际 25 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 17 条｜国际 24 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-22] SK海力士称无计划收购英特尔俄亥俄芯片园区
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L2E5GHB20534A4SC.html
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “SK海力士称无计划收购英特尔俄亥俄芯片园区” against primary-source evidence.
-
-2. [2026-07-22] 英伟达详解Vera CPU，向AMD、英特尔发起挑战；
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L2E60MKQ0512B07B.html
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达详解Vera CPU，向AMD、英特尔发起挑战；” against primary-source evidence.
-
-3. [22:39] 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品
+1. [22:39] 纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品
    来源：IT之家
    链接：https://www.ithome.com/0/979/812.htm
    角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品” against primary-source evidence.
 
-4. [2026-07-22] 海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”
+2. [2026-07-22] 国产芯片提速 端侧智能发力——2026世界人工智能大会观察
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-07/22/content_551164.html
+   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “国产芯片提速 端侧智能发力——2026世界人工智能大会观察” against primary-source evidence.
+
+3. [2026-07-22] SK海力士称无计划收购英特尔俄亥俄芯片园区
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L2E5GHB20534A4SC.html
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “SK海力士称无计划收购英特尔俄亥俄芯片园区” against primary-source evidence.
+
+4. [2026-07-22] 英伟达详解Vera CPU，向AMD、英特尔发起挑战；
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L2E60MKQ0512B07B.html
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达详解Vera CPU，向AMD、英特尔发起挑战；” against primary-source evidence.
+
+5. [2026-07-22] 海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”
    来源：科技日报
    链接：https://www.stdaily.com/web/gdxw/2026-07/22/content_551158.html
    角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”” against primary-source evidence.
 
-5. [23:54] 突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热
-   来源：IT之家
-   链接：https://www.ithome.com/0/979/829.htm
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热” against primary-source evidence.
-
 本次新增线索：
-- SK海力士称无计划收购英特尔俄亥俄芯片园区｜网易科技｜https://www.163.com/dy/article/L2E5GHB20534A4SC.html
-- 英伟达详解Vera CPU，向AMD、英特尔发起挑战；｜网易科技｜https://www.163.com/dy/article/L2E60MKQ0512B07B.html
-- 海南商业航天发射场首席指挥员张小军：“绝不带任何隐患上天”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/22/content_551158.html
-- 突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热｜IT之家｜https://www.ithome.com/0/979/829.htm
-- 热点回应丨中国AI技术闪耀世界杯赛场｜科技日报｜https://www.stdaily.com/web/2026-07/22/content_551156.html
+- 国产芯片提速 端侧智能发力——2026世界人工智能大会观察｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/22/content_551164.html
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（4 条，2 个来源）
