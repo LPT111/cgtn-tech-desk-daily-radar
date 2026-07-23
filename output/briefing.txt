@@ -1,12 +1,12 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/23 08:10:13
+生成时间：2026/7/23 08:15:31
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
+新增核心线索：国内 3 条｜国际 0 条
 延续跟踪线索：国内 25 条｜国际 32 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
@@ -37,15 +37,17 @@ ChenChen 今日 Briefing｜V3
    角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池” against primary-source evidence.
 
 本次新增线索：
-- Alphabet二季度电话会：AI需求推动基础设施投入加速｜网易科技｜https://www.163.com/dy/article/L2GOHIBN0534A4SC.html
+- 华泰证券：AI眼镜有望成为AI Agent进入物理世界的高频入口｜网易科技｜https://www.163.com/dy/article/L2GP8C440534A4SC.html
+- Alphabet CEO：市场对AI基础设施和解决方案需求旺盛 云业务积压订单已增至5140亿美元｜网易科技｜https://www.163.com/dy/article/L2GP66JN05198CJN.html
+- 梁文锋 4 小时投资人会议内容曝光：DeepSeek 不追求成为下一个字节或腾讯，克制、开源与低成本是实现 AGI 的核心策略｜IT之家｜https://www.ithome.com/0/980/367.htm
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（5 条，4 个来源）
+- AI 应用：AI 应用与智能体（7 条，4 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
 - 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（2 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. The U.S. wants to contain China’s AI. Silicon Valley keeps using it｜Rest of World｜https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
