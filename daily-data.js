@@ -1,73 +1,27 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-22T23:46:53.743Z",
+  "generatedAt": "2026-07-23T00:10:13.634Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-23",
   "changeSummary": {
-    "domesticNew": 27,
-    "globalNew": 17,
-    "domesticContinued": 0,
-    "globalContinued": 15,
+    "domesticNew": 1,
+    "globalNew": 0,
+    "domesticContinued": 25,
+    "globalContinued": 32,
     "topNewDomestic": [
       {
-        "title": "特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产",
+        "title": "Alphabet二季度电话会：AI需求推动基础设施投入加速",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L2GD7MO105198CJN.html"
-      },
-      {
-        "title": "7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml"
-      },
-      {
-        "title": "影响市场重大事件：商业航天重要突破，全球最大",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L2GLLD130512B07B.html"
-      },
-      {
-        "title": "科学家可能首次探测到系外卫星",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml"
-      },
-      {
-        "title": "全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml"
+        "url": "https://www.163.com/dy/article/L2GOHIBN0534A4SC.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
-        "source": "Rest of World",
-        "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/"
-      },
-      {
-        "title": "Bessent says U.S. could sanction China over AI model 'theft'",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html"
-      },
-      {
-        "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/"
-      },
-      {
-        "title": "I Tested the New Veo 3 Engine on Artlist.io and Generated Full AI Audio",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/audio/articles/tested-veo-3-engine-artlist-171959684.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 873,
+    "domesticRejected": 874,
     "globalRejected": 868,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,7 +36,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 29,
+  "successSources": 27,
   "failedSources": [
     {
       "name": "财联社",
@@ -105,9 +59,19 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -137,9 +101,19 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -243,7 +217,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "科技日报",
       "tier": "official",
-      "parsed": 71,
+      "parsed": 73,
       "failed": false,
       "optional": false
     },
@@ -344,8 +318,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 11,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -366,8 +341,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -400,13 +376,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1307,
+  "itemsSeen": 1237,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 295,
-  "itemsAfterDedupe": 229,
-  "todayItemsSeen": 27,
-  "suspectedItemsSeen": 19,
-  "skippedNonToday": 182,
+  "itemsAfterRelevantFilter": 287,
+  "itemsAfterDedupe": 227,
+  "todayItemsSeen": 26,
+  "suspectedItemsSeen": 18,
+  "skippedNonToday": 181,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -503,7 +479,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "科技日报",
       "tier": "official",
-      "parsed": 71,
+      "parsed": 73,
       "failed": false,
       "optional": false
     },
@@ -604,8 +580,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 11,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -626,8 +603,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -834,9 +812,19 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -865,7 +853,7 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1216,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 131,
+  "globalItemsAfterRelevantFilter": 130,
   "topics": [
     {
       "topic": "AI 应用与智能体",
@@ -888,10 +876,11 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "topic": "AI动态",
       "count": 7,
-      "sourceCount": 2,
+      "sourceCount": 3,
       "sources": [
         "新浪科技",
-        "IT之家"
+        "IT之家",
+        "网易科技"
       ],
       "items": [
         "7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位",
@@ -899,20 +888,6 @@ window.CHENCHEN_DAILY_DATA = {
         "广州人工智能相关企业已超2200家",
         "AI 算力需求爆发：高端 PCB 供不应求，价格暴涨 300%",
         "Alphabet云业务营收超预期 搜索广告收入略逊预估"
-      ]
-    },
-    {
-      "topic": "芯片动态",
-      "count": 3,
-      "sourceCount": 2,
-      "sources": [
-        "网易科技",
-        "IT之家"
-      ],
-      "items": [
-        "“芯片上的血管”借磁力实现精准可控生长 为构建完整血管网络组织提供新方法",
-        "苹果据悉将全面升级Mac产品线 触控OLED、M7芯片已在路上",
-        "消息称苹果 2026 款 Mac Mini 配 M5 Pro/M6 芯片，起步 512GB SSD"
       ]
     },
     {
@@ -927,6 +902,19 @@ window.CHENCHEN_DAILY_DATA = {
         "特斯拉 2026 财年第二财季归母净利润 11.11 亿美元，同比下降 5.21%",
         "特斯拉Q2营收同比增长26% 利润腰斩 资本支出大幅增加",
         "上半年汽车以旧换新370.7万辆；6月份我国锂离子"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "IT之家"
+      ],
+      "items": [
+        "苹果据悉将全面升级Mac产品线 触控OLED、M7芯片已在路上",
+        "消息称苹果 2026 款 Mac Mini 配 M5 Pro/M6 芯片，起步 512GB SSD"
       ]
     },
     {
@@ -966,17 +954,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "商业航天与卫星互联网",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "影响市场重大事件：商业航天重要突破，全球最大"
-      ]
-    },
-    {
       "topic": "太空与低空动态",
       "count": 1,
       "sourceCount": 1,
@@ -985,6 +962,17 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "科学家可能首次探测到系外卫星"
+      ]
+    },
+    {
+      "topic": "商业航天与卫星互联网",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "影响市场重大事件：商业航天重要突破，全球最大"
       ]
     },
     {
@@ -1066,7 +1054,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1134,7 +1122,75 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "科学家可能首次探测到系外卫星",
+      "summary": "CD-35 2722系统的艺术概念图。本报讯 一项7月22日发表于《自然》的观测结果，可能揭示了首个已知的三层等级系统，其中一颗卫星围绕褐矮星运行，褐矮星又围绕一颗恒星运行。由于系外卫星尚未建立明确的分类系统，因此还不清楚这一天体究竟属于系...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml"
+      ],
+      "publishedAt": "2026-07-23",
+      "date": "2026-07-23",
+      "category": "太空与低空",
+      "classificationConfidence": 0.65,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 175,
+      "reporterScore": 197,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 133
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “科学家可能首次探测到系外卫星” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "CD-35 2722系统的艺术概念图。本报讯 一项7月22日发表于《自然》的观测结果，可能揭示了首个已知的三层等级系统，其中一颗卫星围绕褐矮星运行，褐矮星又围绕一颗恒星运行。由于系外卫星尚未建立明确的分类系统，因此还不清楚这一天体究竟属于系...",
+      "relatedTitles": [
+        "科学家可能首次探测到系外卫星"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1202,75 +1258,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "影响市场重大事件：商业航天重要突破，全球最大"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "科学家可能首次探测到系外卫星",
-      "summary": "CD-35 2722系统的艺术概念图。本报讯 一项7月22日发表于《自然》的观测结果，可能揭示了首个已知的三层等级系统，其中一颗卫星围绕褐矮星运行，褐矮星又围绕一颗恒星运行。由于系外卫星尚未建立明确的分类系统，因此还不清楚这一天体究竟属于系...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml"
-      ],
-      "publishedAt": "2026-07-23",
-      "date": "2026-07-23",
-      "category": "太空与低空",
-      "classificationConfidence": 0.65,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "priority": 5,
-      "score": 165,
-      "reporterScore": 187,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 133
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “科学家可能首次探测到系外卫星” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "太空与低空动态",
-      "rawText": "CD-35 2722系统的艺术概念图。本报讯 一项7月22日发表于《自然》的观测结果，可能揭示了首个已知的三层等级系统，其中一颗卫星围绕褐矮星运行，褐矮星又围绕一颗恒星运行。由于系外卫星尚未建立明确的分类系统，因此还不清楚这一天体究竟属于系...",
-      "relatedTitles": [
-        "科学家可能首次探测到系外卫星"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1338,7 +1326,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1406,7 +1394,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Crunchbase：2025年全球约50%的风险投资流向AI行业"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1474,7 +1462,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "德州仪器发布乐观业绩展望 抱有极高预期的投资者不为所动"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1542,7 +1530,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "广州人工智能相关企业已超2200家"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1610,7 +1598,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美国发布报告称“极端事件归因”领域发展迅速"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1678,7 +1666,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "王兴兴：具身智能的“ChatGPT时刻”有望最快在两三年内到来"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1746,7 +1734,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉Q2利润远逊华尔街预期 成本上升拖累业绩"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1814,7 +1802,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI 总裁布罗克曼：Kimi K3 无疑相当不错，但我们仍有“巨大优势”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1882,7 +1870,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI 算力需求爆发：高端 PCB 供不应求，价格暴涨 300%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1950,7 +1938,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Alphabet云业务营收超预期 搜索广告收入略逊预估"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2018,75 +2006,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "咨询AI：增强型咨询的新时代"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "“芯片上的血管”借磁力实现精准可控生长 为构建完整血管网络组织提供新方法",
-      "summary": "“芯片上的血管”借磁力实现精准可控生长 为构建完整血管网络组织提供新方法,磁力,芯片,血管,机械",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L2GM1LLN05198CJN.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L2GM1LLN05198CJN.html"
-      ],
-      "publishedAt": "2026-07-23",
-      "date": "2026-07-23",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind ““芯片上的血管”借磁力实现精准可控生长 为构建完整血管网络组织提供新方法” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "“芯片上的血管”借磁力实现精准可控生长 为构建完整血管网络组织提供新方法,磁力,芯片,血管,机械",
-      "relatedTitles": [
-        "“芯片上的血管”借磁力实现精准可控生长 为构建完整血管网络组织提供新方法"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2154,7 +2074,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "苹果据悉将全面升级Mac产品线 触控OLED、M7芯片已在路上"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
@@ -2224,7 +2144,7 @@ window.CHENCHEN_DAILY_DATA = {
         "现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办",
         "议程揭晓！「金融+端侧 AI」产业前沿论坛共启智能新局"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2292,25 +2212,25 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "模型自主发动攻击 OpenAI遭遇史上首次评测失控事故 这是目前首起公开的大模型自主完成真实网络攻击的事件"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "微软称短信 / 语音 MFA 无法有效抵御 AI 攻击，明年 2 月要求 Entra 用户改用 Passkeys",
-      "summary": "科技媒体 Windows Latest 昨日（7 月 22 日）发布博文，报道称微软明确指出在 AI 时代，短信和语音不再是可靠的多因素身份验证（MFA），计划 2027 年 2 月 1 日开始，要求 Microsoft Entra 用户使用“通行密钥”（Passkey）。",
-      "source": "IT之家",
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "Alphabet二季度电话会：AI需求推动基础设施投入加速",
+      "summary": "Alphabet二季度电话会：AI需求推动基础设施投入加速，Gemini、云业务和AI生态全面扩张,云计算,云业务,皮查伊,电话会,总营收,gemini,alphabet,Alphabet",
+      "source": "网易科技",
       "sources": [
-        "IT之家"
+        "网易科技"
       ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/980/361.htm",
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L2GOHIBN0534A4SC.html",
       "sourceUrls": [
-        "https://www.ithome.com/0/980/361.htm"
+        "https://www.163.com/dy/article/L2GOHIBN0534A4SC.html"
       ],
-      "publishedAt": "Wed, 22 Jul 2026 23:33:59 GMT",
+      "publishedAt": "2026-07-23",
       "date": "2026-07-23",
       "category": "AI",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.68,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2320,12 +2240,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
+      "score": 155,
+      "reporterScore": 155,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 8,
+        "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
@@ -2333,7 +2253,7 @@ window.CHENCHEN_DAILY_DATA = {
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -2342,23 +2262,23 @@ window.CHENCHEN_DAILY_DATA = {
         "primary": false,
         "visual": false,
         "international": false,
-        "interview": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 120
+        "reporterScore": 110
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
+      "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “微软称短信 / 语音 MFA 无法有效抵御 AI 攻击，明年 2 月要求 Entra 用户改用 Passkeys” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Alphabet二季度电话会：AI需求推动基础设施投入加速” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI动态",
-      "rawText": "科技媒体 Windows Latest 昨日（7 月 22 日）发布博文，报道称微软明确指出在 AI 时代，短信和语音不再是可靠的多因素身份验证（MFA），计划 2027 年 2 月 1 日开始，要求 Microsoft Entra 用户使用“通行密钥”（Passkey）。",
+      "rawText": "Alphabet二季度电话会：AI需求推动基础设施投入加速，Gemini、云业务和AI生态全面扩张,云计算,云业务,皮查伊,电话会,总营收,gemini,alphabet,Alphabet",
       "relatedTitles": [
-        "微软称短信 / 语音 MFA 无法有效抵御 AI 攻击，明年 2 月要求 Entra 用户改用 Passkeys"
+        "Alphabet二季度电话会：AI需求推动基础设施投入加速"
       ],
       "isNewSinceLastRun": true
     },
@@ -2428,7 +2348,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "消息称苹果 2026 款 Mac Mini 配 M5 Pro/M6 芯片，起步 512GB SSD"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2496,7 +2416,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "汽车行业：中东危机会否加速欧洲电动车浪潮？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2564,7 +2484,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "科学家“拍摄”首张空间分辨的黑洞事件视界尺度谱指数图像"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2632,7 +2552,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉 2026 财年第二财季归母净利润 11.11 亿美元，同比下降 5.21%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2700,7 +2620,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "马斯克 SpaceXAI 正计划在得州建设大型 AI 数据中心，对标孟菲斯算力集群"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2768,7 +2688,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉Q2营收同比增长26% 利润腰斩 资本支出大幅增加"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2836,7 +2756,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "上半年汽车以旧换新370.7万辆；6月份我国锂离子"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2969,7 +2889,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Halliday G2” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "Halliday G2 Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议” 通过Meeting Flow让实时智能融入会议与商务沟通场景 量子位 1分钟前 AI眼镜 Halliday G2 Meeting Flow 热门文章 全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了 用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界 人在Meta，休个病假/产假转身被AI裁了？？ 妙啊！无人机直连卫星传Token 荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式",
+      "rawText": "Halliday G2 Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议” 通过Meeting Flow让实时智能融入会议与商务沟通场景 量子位 5分钟前 AI眼镜 Halliday G2 Meeting Flow 热门文章 全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了 用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界 人在Meta，休个病假/产假转身被AI裁了？？ 妙啊！无人机直连卫星传Token 荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式",
       "relatedTitles": [
         "Halliday G2"
       ]
@@ -3039,73 +2959,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "Builder 美图拿出1亿元，面向全行业寻找AI影像Builder 美图产品挑战赛（Meitu Hatch Catch）火热报名中 邓思邈 2分钟前 AI影像 Builder 美图 热门文章 全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了 用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界 妙啊！无人机直连卫星传Token 看了20万小时「人类干活实录」，机器人悟了 手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了",
       "relatedTitles": [
         "Builder"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "提供美国25%药物研发，药明康德为何屡遭打击？",
-      "summary": "首页 提供美国25%药物研发，药明康德为何屡遭打击？ 分享到： 特朗普再威胁：伊朗袭船就炸桥梁、电厂 美法官：明年6月开审“马杜罗案” 美方还抱怨：从中国拿到的关键矿产“不够多” “创纪录！6月欧洲插混新车销量，三成都是中国品牌” “打压中企，欧盟将自损400亿欧元” 医院给未成年人做流产手术，监护人不知情？南昌卫健委",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/industry-science/2024_08_21_745528.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/industry-science/2024_08_21_745528.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.76,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 144,
-      "reporterScore": 160,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 115
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “提供美国25%药物研发，药明康德为何屡遭打击？” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "首页 提供美国25%药物研发，药明康德为何屡遭打击？ 分享到： 特朗普再威胁：伊朗袭船就炸桥梁、电厂 美法官：明年6月开审“马杜罗案” 美方还抱怨：从中国拿到的关键矿产“不够多” “创纪录！6月欧洲插混新车销量，三成都是中国品牌” “打压中企，欧盟将自损400亿欧元” 医院给未成年人做流产手术，监护人不知情？南昌卫健委通报 法国瞄准中国跨境电商平台出台“反超快时尚”法，中方回应 谷歌AI搜索吸走流量，美国老牌媒体们酝酿“断供” 中国女足主帅辞职？足协辟谣 冲突停火后，泰国建成泰柬边境首段永久防弹围栏 “安哥拉第二大银行将加入CIPS” 两名中国公民不幸遇难，我总领馆提醒 新官上任，英防相再批以色列 OpenAI模型“越狱”攻击，救场的竟是中国AI工具 内蒙古警方通报16岁高中生被刺死案：案发地不属于涉黄场所 特朗普发狠：伊朗炸一艘船，美军就摧毁一座桥梁或电厂",
-      "relatedTitles": [
-        "提供美国25%药物研发，药明康德为何屡遭打击？"
       ]
     },
     {
@@ -3512,73 +3365,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "受让两子，世界排名第一韩国棋手赢了AI",
-      "summary": "首页 受让两子，世界排名第一韩国棋手赢了AI 分享到： 据韩联社报道，世界排名第一的韩国棋手申真谞九段21日在韩国棋院举办的“精锐数学·韩经棋神战”决胜局中，以11目半战胜围棋人工智能（AI）模型KataGo，总比分2比1逆转赢下此次人机大战。 据报道，本局继续采用申真谞受让两子的规则。申真谞执黑，保留用时5小时，另有",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/internation/2026_07_21_824564.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/internation/2026_07_21_824564.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 148,
-      "reporterScore": 156,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “受让两子，世界排名第一韩国棋手赢了AI” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "首页 受让两子，世界排名第一韩国棋手赢了AI 分享到： 据韩联社报道，世界排名第一的韩国棋手申真谞九段21日在韩国棋院举办的“精锐数学·韩经棋神战”决胜局中，以11目半战胜围棋人工智能（AI）模型KataGo，总比分2比1逆转赢下此次人机大战。 据报道，本局继续采用申真谞受让两子的规则。申真谞执黑，保留用时5小时，另有一次30秒读秒；KataGo不设总用时限制，但每手须在20秒内落子。 7月21日，申真谞（右）在韩国棋院举办的“精锐数学·韩经棋神战”决胜局中，以11目半战胜围棋AI模型KataGo。 韩联社 申真谞开局盘面领先18目半，胜率高达99%。KataGo一改前两局的开局套路，首手落在左上小目，申真谞以右下小目稳妥应对，双方平稳展开布局。 本局并无激烈中盘混战，双方以实地拉锯为主，与申真谞赛前透露的“避战稳地”策略相吻合。他在第80手发起攻击，在上边至中腹构筑庞大黑势，顺利转化为实地优势，早早锁定胜局。局势明朗后，申真谞依旧谨慎收官、反复核对目数，稳扎稳打直至终盘。 最终，凭借2胜1负的战绩，申真谞获得包括对局费在内的2.5亿韩元（约合人民币115万元）奖金，并获赠一辆捷尼赛思",
-      "relatedTitles": [
-        "受让两子，世界排名第一韩国棋手赢了AI"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "“刷不出火箭”，欧洲彻底拉了胯",
       "summary": "7月13日，美国彭博社撰文指出，由于运载火箭严重短缺，欧洲国家在太空竞赛中正落后于主要竞争对手。过去五年间，",
       "source": "观察者网-产业科技",
@@ -3776,6 +3562,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "首页 全球首艘！能装一万多辆汽车的运输船今天试航 分享到： 3月31日，中船广船国际为韩国HMM公司建造的10800车LNG双燃料汽车运输船（PCTC）1号船出海试航，这是目前全球在建的首艘万车级双燃料汽车运输船。 据了解，该船体总长230米，型宽40米，结构吃水10.5米，航速约19节，在高效运输与稳定航行间实现完美平衡。其中14层车库甲板设计，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。按5米一台标准车，所装载的车首尾相连，超过50公里。 这艘船采用燃油和LNG双燃料推进系统，配置轴带发电机，可以一边航行一边完成发电，从而达到节能减排的目的。这艘船环保性能卓越，满足国际海事组织Tier Ⅲ排放标准。 据广船国际相关负责人介绍，汽车运输船是高技术、高附加值船型，其建造难度大、技术含量高。一是需大量采用薄板建造，广船国际建造团队成功攻克了薄板变形控制的难题；二是滚装设备多，机械化程度高，而且过去这些滚装设备大都依赖进口，如今全都实现了国产化。万车船完成建造试航，标志着广船国际完全掌握了此类船型的建造技术，在该细分市场保持领先地位。 （总台记者 魏星",
       "relatedTitles": [
         "全球首艘！能装一万多辆汽车的运输船今天试航"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "黄仁勋谈中国AI：非常优秀，就该用",
+      "summary": "英伟达首席执行官黄仁勋7月21日表示，中国开源AI模型“非常优秀”，美国企业“应该使用”。他同时警告，限制开",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/internation/2026_07_23_824731.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/internation/2026_07_23_824731.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 136,
+      "reporterScore": 144,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “黄仁勋谈中国AI：非常优秀，就该用” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "英伟达首席执行官黄仁勋7月21日表示，中国开源AI模型“非常优秀”，美国企业“应该使用”。他同时警告，限制开",
+      "relatedTitles": [
+        "黄仁勋谈中国AI：非常优秀，就该用"
       ]
     },
     {
@@ -4145,7 +3998,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 115
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4177,7 +4030,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4209,7 +4062,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4241,39 +4094,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 103
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "I Tested the New Veo 3 Engine on Artlist.io and Generated Full AI Audio",
-      "summary": "The moment I’ve been waiting for is finally here.I’ve spent years running across continents, hanging out of helicopters, and pushing drones to their structural limits just to secur",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/audio/articles/tested-veo-3-engine-artlist-171959684.html",
-      "publishedAt": "2026-07-23",
-      "date": "2026-07-23",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “I Tested the New Veo 3 Engine on Artlist.io and Generated Full AI Audio” against primary-source evidence.",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 157,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 118
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4309,323 +4130,35 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI dice que su IA realizó por sí sola un hackeo “sin precedentes” a otra empresa",
-      "summary": "OpenAI, creadora de ChatGPT, informó que su sistema de inteligencia artificial hackeó por sí solo a otra empresa de IA en lo que la compañía calificó como un “incidente cibernético",
-      "source": "AP Technology",
-      "url": "https://apnews.com/article/openai-ciberataque-hackeo-ia-autonoma-d9f006ec99a4eeb619ae98b627b77319",
-      "publishedAt": "2026-07-22",
-      "date": "2026-07-22",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI dice que su IA realizó por sí sola un hackeo “sin precedentes” a ” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powe",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "publishedAt": "Wed, 22 Jul 2026 19:11:46 +0000",
-      "date": "2026-07-22",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “How OpenAI’s human mistake led to the AI-powered hack on Hugging Face” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI’s AI spending spree has ballooned to $750B",
-      "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "publishedAt": "Wed, 22 Jul 2026 16:13:30 +0000",
-      "date": "2026-07-22",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI’s AI spending spree has ballooned to $750B” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
-      "summary": "Anthropic's Mythos 5 and Fable 5 are back online this Wednesday after the company said it had productive conversations with the US government. Also, Kevin Warsh makes his first pub",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
-      "publishedAt": "Wed, 22 Jul 2026 18:02:57 +0000",
-      "date": "2026-07-23",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s ” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "publishedAt": "Wed, 22 Jul 2026 22:01:52 +0000",
-      "date": "2026-07-22",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google justifies its massive AI spending with a booming cloud business” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "5 Disadvantages Of Buying An AMD GPU Instead Of Nvidia",
-      "summary": "There's no arguing that AMD has come a long way with its graphics cards, but there's still a gap between it an Nvidia that many PC DIYers might ignore.",
+      "title": "I Tested the New Veo 3 Engine on Artlist.io and Generated Full AI Audio",
+      "summary": "The moment I’ve been waiting for is finally here.I’ve spent years running across continents, hanging out of helicopters, and pushing drones to their structural limits just to secur",
       "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/5-disadvantages-buying-amd-gpu-191700375.html",
+      "url": "https://tech.yahoo.com/audio/articles/tested-veo-3-engine-artlist-171959684.html",
       "publishedAt": "2026-07-23",
       "date": "2026-07-23",
       "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “5 Disadvantages Of Buying An AMD GPU Instead Of Nvidia” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung offers another peek at its AI-powered smart glasses at Galaxy Unpacked 2026",
-      "summary": "Samsung used its July 2026 Galaxy Unpacked event to refresh its foldable phone and smartwatch lineup, with three new handsets — the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8 and Galax",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/wearables/article/samsung-offers-another-peek-at-its-ai-powered-smart-glasses-at-galaxy-unpacked-2026-145330843.html",
-      "publishedAt": "2026-07-22",
-      "date": "2026-07-22",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.65,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung offers another peek at its AI-powered smart glasses at Galaxy Un” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung's most exciting Unpacked announcement is one it barely mentioned on stage",
-      "summary": "Samsung took the wraps off of a flashy new set of foldable phones at its July Galaxy Unpacked event, but one of the most exciting announcements was one that barely got a mention on",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/article/samsungs-most-exciting-unpacked-announcement-is-one-it-barely-mentioned-on-stage-165100789.html",
-      "publishedAt": "2026-07-23",
-      "date": "2026-07-23",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung's most exciting Unpacked announcement is one it barely mentioned” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Reddit stock sinks on report it may not renew Google AI content deal",
-      "summary": "Google's AI summaries have reduced traffic to websites from the search results page and Reddit is reconsidering the benefits of the deal, the Journal said.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
-      "publishedAt": "Wed, 22 Jul 2026 20:54:44 GMT",
-      "date": "2026-07-22",
-      "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Reddit stock sinks on report it may not renew Google AI content deal” against primary-source evidence.",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “I Tested the New Veo 3 Engine on Artlist.io and Generated Full AI Audio” against primary-source evidence.",
       "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
+      "score": 151,
+      "reporterScore": 157,
       "reporterSignals": {
         "primary": false,
-        "visual": false,
+        "visual": true,
         "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung’s new foldable gets an “Ultra” makeover",
-      "summary": "Samsung has announced three new folding phones, updating its existing models and adding a new one to its lineup, complete with a new form factor. The flagship model is getting a re",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/samsung-foldable-gets-ultra-makeover-195859135.html",
-      "publishedAt": "2026-07-23",
-      "date": "2026-07-23",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Samsung’s new foldable gets an “Ultra” makeover” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
+        "reporterScore": 118
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4661,70 +4194,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Science Corporation’s vision-restoring chip wins EU approval",
-      "summary": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
-      "publishedAt": "Wed, 22 Jul 2026 18:18:02 +0000",
-      "date": "2026-07-22",
-      "region": "US",
-      "category": "科学前沿",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “Science Corporation’s vision-restoring chip wins EU approval” against primary-source evidence.",
-      "priority": 4,
-      "score": 134,
-      "reporterScore": 134,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
-      "summary": "Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
-      "publishedAt": "Wed, 22 Jul 2026 22:30:40 GMT",
-      "date": "2026-07-22",
-      "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Tesla misses on earnings, as free cash flow turns negative and margins s” against primary-source evidence.",
-      "priority": 5,
-      "score": 133,
-      "reporterScore": 133,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI models hacked into another AI company on their own, ChatGPT maker says",
       "summary": "ChatGPT maker OpenAI says it is still investigating the “unprecedented cyber incident” that led its artificial intelligence systems to break out of a testing environment and hack i",
       "source": "AP Technology",
@@ -4757,6 +4226,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI dice que su IA realizó por sí sola un hackeo “sin precedentes” a otra empresa",
+      "summary": "OpenAI, creadora de ChatGPT, informó que su sistema de inteligencia artificial hackeó por sí solo a otra empresa de IA en lo que la compañía calificó como un “incidente cibernético",
+      "source": "AP Technology",
+      "url": "https://apnews.com/article/openai-ciberataque-hackeo-ia-autonoma-d9f006ec99a4eeb619ae98b627b77319",
+      "publishedAt": "2026-07-22",
+      "date": "2026-07-22",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI dice que su IA realizó por sí sola un hackeo “sin precedentes” a ” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral",
       "summary": "Artificial intelligence company Anthropic announced on Thursday that it had raised $65 billion in a new funding round, valuing the Claude maker (founded by former OpenAI employees ",
       "source": "France24 Technology",
@@ -4771,6 +4272,70 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powe",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "publishedAt": "Wed, 22 Jul 2026 19:11:46 +0000",
+      "date": "2026-07-22",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “How OpenAI’s human mistake led to the AI-powered hack on Hugging Face” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "publishedAt": "Wed, 22 Jul 2026 16:13:30 +0000",
+      "date": "2026-07-22",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI’s AI spending spree has ballooned to $750B” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -4835,6 +4400,70 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Cisco's open-weight bug busters take on Google and OpenAI” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+      "summary": "Anthropic's Mythos 5 and Fable 5 are back online this Wednesday after the company said it had productive conversations with the US government. Also, Kevin Warsh makes his first pub",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+      "publishedAt": "Wed, 22 Jul 2026 18:02:57 +0000",
+      "date": "2026-07-23",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s ” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "publishedAt": "Wed, 22 Jul 2026 22:01:52 +0000",
+      "date": "2026-07-22",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google justifies its massive AI spending with a booming cloud business” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -4949,6 +4578,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "5 Disadvantages Of Buying An AMD GPU Instead Of Nvidia",
+      "summary": "There's no arguing that AMD has come a long way with its graphics cards, but there's still a gap between it an Nvidia that many PC DIYers might ignore.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/5-disadvantages-buying-amd-gpu-191700375.html",
+      "publishedAt": "2026-07-23",
+      "date": "2026-07-23",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “5 Disadvantages Of Buying An AMD GPU Instead Of Nvidia” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI appoints two new members to board of directors",
       "summary": "OpenAI appointed longtime financial executives David Vélez and Robin Vince to its nonprofit and for-profit boards.",
       "source": "CNBC Technology",
@@ -5045,6 +4706,102 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung offers another peek at its AI-powered smart glasses at Galaxy Unpacked 2026",
+      "summary": "Samsung used its July 2026 Galaxy Unpacked event to refresh its foldable phone and smartwatch lineup, with three new handsets — the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8 and Galax",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/wearables/article/samsung-offers-another-peek-at-its-ai-powered-smart-glasses-at-galaxy-unpacked-2026-145330843.html",
+      "publishedAt": "2026-07-22",
+      "date": "2026-07-22",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.65,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung offers another peek at its AI-powered smart glasses at Galaxy Un” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung's most exciting Unpacked announcement is one it barely mentioned on stage",
+      "summary": "Samsung took the wraps off of a flashy new set of foldable phones at its July Galaxy Unpacked event, but one of the most exciting announcements was one that barely got a mention on",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/article/samsungs-most-exciting-unpacked-announcement-is-one-it-barely-mentioned-on-stage-165100789.html",
+      "publishedAt": "2026-07-23",
+      "date": "2026-07-23",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung's most exciting Unpacked announcement is one it barely mentioned” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Reddit stock sinks on report it may not renew Google AI content deal",
+      "summary": "Google's AI summaries have reduced traffic to websites from the search results page and Reddit is reconsidering the benefits of the deal, the Journal said.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
+      "publishedAt": "Wed, 22 Jul 2026 20:54:44 GMT",
+      "date": "2026-07-22",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Reddit stock sinks on report it may not renew Google AI content deal” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
       "summary": "The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.",
       "source": "CNBC Technology",
@@ -5073,6 +4830,38 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung’s new foldable gets an “Ultra” makeover",
+      "summary": "Samsung has announced three new folding phones, updating its existing models and adding a new one to its lineup, complete with a new form factor. The flagship model is getting a re",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/articles/samsung-foldable-gets-ultra-makeover-195859135.html",
+      "publishedAt": "2026-07-23",
+      "date": "2026-07-23",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Samsung’s new foldable gets an “Ultra” makeover” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -5109,6 +4898,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Science Corporation’s vision-restoring chip wins EU approval",
+      "summary": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
+      "publishedAt": "Wed, 22 Jul 2026 18:18:02 +0000",
+      "date": "2026-07-22",
+      "region": "US",
+      "category": "科学前沿",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “Science Corporation’s vision-restoring chip wins EU approval” against primary-source evidence.",
+      "priority": 4,
+      "score": 134,
+      "reporterScore": 134,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Advancing next-gen AI with materials science innovation",
       "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of",
       "source": "MIT Technology Review",
@@ -5138,10 +4959,42 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+      "summary": "Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
+      "publishedAt": "Wed, 22 Jul 2026 22:30:40 GMT",
+      "date": "2026-07-22",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Tesla misses on earnings, as free cash flow turns negative and margins s” against primary-source evidence.",
+      "priority": 5,
+      "score": 133,
+      "reporterScore": 133,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-23｜V3\n生成时间：2026/7/23 07:46:53\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2523｜确认今日 27｜国际背景 32\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 27 条｜国际 17 条\n延续跟踪线索：国内 0 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-23] 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产\n   网易科技｜2026-07-23｜https://www.163.com/dy/article/L2GD7MO105198CJN.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产” against primary-source evidence.\n\n2. [2026-07-23] 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位\n   新浪科技｜2026-07-23｜https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位” against primary-source evidence.\n\n3. [2026-07-23] 影响市场重大事件：商业航天重要突破，全球最大\n   网易科技｜2026-07-23｜https://www.163.com/dy/article/L2GLLD130512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：商业航天重要突破，全球最大” against primary-source evidence.\n\n4. [2026-07-23] 科学家可能首次探测到系外卫星\n   新浪科技｜2026-07-23｜https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “科学家可能首次探测到系外卫星” against primary-source evidence.\n\n5. [2026-07-23] 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池\n   新浪科技｜2026-07-23｜https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产｜网易科技｜https://www.163.com/dy/article/L2GD7MO105198CJN.html\n- 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml\n- 影响市场重大事件：商业航天重要突破，全球最大｜网易科技｜https://www.163.com/dy/article/L2GLLD130512B07B.html\n- 科学家可能首次探测到系外卫星｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml\n- 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml\n- The U.S. wants to contain China’s AI. Silicon Valley keeps using it｜Rest of World｜https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. wants to contain China’s AI. Silicon Valley keeps using it｜Rest of World｜https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable｜TechCrunch｜https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/\n3. Bessent says U.S. could sanction China over AI model 'theft'｜CNBC Technology｜https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html\n4. Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips｜TechCrunch｜https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/\n5. I Tested the New Veo 3 Engine on Artlist.io and Generated Full AI Audio｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/tested-veo-3-engine-artlist-171959684.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-23｜V3\n生成时间：2026/7/23 07:46:53\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2523｜确认今日 27｜国际背景 32\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 27 条｜国际 17 条\n延续跟踪线索：国内 0 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-23] 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产\n   网易科技｜2026-07-23｜https://www.163.com/dy/article/L2GD7MO105198CJN.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产” against primary-source evidence.\n\n2. [2026-07-23] 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位\n   新浪科技｜2026-07-23｜https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位” against primary-source evidence.\n\n3. [2026-07-23] 影响市场重大事件：商业航天重要突破，全球最大\n   网易科技｜2026-07-23｜https://www.163.com/dy/article/L2GLLD130512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：商业航天重要突破，全球最大” against primary-source evidence.\n\n4. [2026-07-23] 科学家可能首次探测到系外卫星\n   新浪科技｜2026-07-23｜https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “科学家可能首次探测到系外卫星” against primary-source evidence.\n\n5. [2026-07-23] 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池\n   新浪科技｜2026-07-23｜https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产｜网易科技｜https://www.163.com/dy/article/L2GD7MO105198CJN.html\n- 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml\n- 影响市场重大事件：商业航天重要突破，全球最大｜网易科技｜https://www.163.com/dy/article/L2GLLD130512B07B.html\n- 科学家可能首次探测到系外卫星｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml\n- 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml\n- The U.S. wants to contain China’s AI. Silicon Valley keeps using it｜Rest of World｜https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. wants to contain China’s AI. Silicon Valley keeps using it｜Rest of World｜https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable｜TechCrunch｜https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/\n3. Bessent says U.S. could sanction China over AI model 'theft'｜CNBC Technology｜https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html\n4. Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips｜TechCrunch｜https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/\n5. I Tested the New Veo 3 Engine on Artlist.io and Generated Full AI Audio｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/tested-veo-3-engine-artlist-171959684.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-23｜生成时间：2026/7/23 07:46:53｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2523｜确认今日 27｜国际背景 32</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 27 条｜国际 17 条<br>延续跟踪线索：国内 0 条｜国际 15 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-23] 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产</strong>\n      <span>网易科技｜2026-07-23｜<a href=\"https://www.163.com/dy/article/L2GD7MO105198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-23] 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位</strong>\n      <span>新浪科技｜2026-07-23｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-23] 影响市场重大事件：商业航天重要突破，全球最大</strong>\n      <span>网易科技｜2026-07-23｜<a href=\"https://www.163.com/dy/article/L2GLLD130512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：商业航天重要突破，全球最大” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-23] 科学家可能首次探测到系外卫星</strong>\n      <span>新浪科技｜2026-07-23｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：187｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “科学家可能首次探测到系外卫星” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-23] 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池</strong>\n      <span>新浪科技｜2026-07-23｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The U.S. wants to contain China’s AI. Silicon Valley keeps using it</strong>\n      <span>时间：Wed, 22 Jul 2026 10:00:00 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “The U.S. wants to contain China’s AI. Silicon Valley keeps using it” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable</strong>\n      <span>时间：Wed, 22 Jul 2026 20:49:03 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Treasury threatens sanctions after White House claims Moonshot distilled” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Bessent says U.S. could sanction China over AI model 'theft'</strong>\n      <span>时间：Tue, 21 Jul 2026 17:15:10 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Bessent says U.S. could sanction China over AI model 'theft'” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips</strong>\n      <span>时间：Wed, 22 Jul 2026 20:43:38 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla spending skyrockets as Cybercab, Semi, Megapack production timelin” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. I Tested the New Veo 3 Engine on Artlist.io and Generated Full AI Audio</strong>\n      <span>时间：2026-07-23｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/audio/articles/tested-veo-3-engine-artlist-171959684.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “I Tested the New Veo 3 Engine on Artlist.io and Generated Full AI Audio” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/23 07:46:53\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 27 条｜国际 17 条\n延续跟踪线索：国内 0 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-23] 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2GD7MO105198CJN.html\n   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产” against primary-source evidence.\n\n2. [2026-07-23] 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位” against primary-source evidence.\n\n3. [2026-07-23] 影响市场重大事件：商业航天重要突破，全球最大\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2GLLD130512B07B.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：商业航天重要突破，全球最大” against primary-source evidence.\n\n4. [2026-07-23] 科学家可能首次探测到系外卫星\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “科学家可能首次探测到系外卫星” against primary-source evidence.\n\n5. [2026-07-23] 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产｜网易科技｜https://www.163.com/dy/article/L2GD7MO105198CJN.html\n- 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml\n- 影响市场重大事件：商业航天重要突破，全球最大｜网易科技｜https://www.163.com/dy/article/L2GLLD130512B07B.html\n- 科学家可能首次探测到系外卫星｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml\n- 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml\n- The U.S. wants to contain China’s AI. Silicon Valley keeps using it｜Rest of World｜https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n国际科技背景：\n1. The U.S. wants to contain China’s AI. Silicon Valley keeps using it｜Rest of World｜https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable｜TechCrunch｜https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/\n3. Bessent says U.S. could sanction China over AI model 'theft'｜CNBC Technology｜https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html\n4. Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips｜TechCrunch｜https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/\n5. I Tested the New Veo 3 Engine on Artlist.io and Generated Full AI Audio｜Yahoo News Technology｜https://tech.yahoo.com/audio/articles/tested-veo-3-engine-artlist-171959684.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-23｜V3\n生成时间：2026/7/23 08:10:13\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2453｜确认今日 26｜国际背景 32\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 25 条｜国际 32 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-23] 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产\n   网易科技｜2026-07-23｜https://www.163.com/dy/article/L2GD7MO105198CJN.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产” against primary-source evidence.\n\n2. [2026-07-23] 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位\n   新浪科技｜2026-07-23｜https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位” against primary-source evidence.\n\n3. [2026-07-23] 科学家可能首次探测到系外卫星\n   新浪科技｜2026-07-23｜https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “科学家可能首次探测到系外卫星” against primary-source evidence.\n\n4. [2026-07-23] 影响市场重大事件：商业航天重要突破，全球最大\n   网易科技｜2026-07-23｜https://www.163.com/dy/article/L2GLLD130512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：商业航天重要突破，全球最大” against primary-source evidence.\n\n5. [2026-07-23] 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池\n   新浪科技｜2026-07-23｜https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池” against primary-source evidence.\n\n本次新增线索：\n- Alphabet二季度电话会：AI需求推动基础设施投入加速｜网易科技｜https://www.163.com/dy/article/L2GOHIBN0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. wants to contain China’s AI. Silicon Valley keeps using it｜Rest of World｜https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable｜TechCrunch｜https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/\n3. Bessent says U.S. could sanction China over AI model 'theft'｜CNBC Technology｜https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html\n4. Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips｜TechCrunch｜https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/\n5. Oracle faces $100M annual bill to back Wisconsin datacenter power promises｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-23｜V3\n生成时间：2026/7/23 08:10:13\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2453｜确认今日 26｜国际背景 32\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 25 条｜国际 32 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-23] 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产\n   网易科技｜2026-07-23｜https://www.163.com/dy/article/L2GD7MO105198CJN.html\n   报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产” against primary-source evidence.\n\n2. [2026-07-23] 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位\n   新浪科技｜2026-07-23｜https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位” against primary-source evidence.\n\n3. [2026-07-23] 科学家可能首次探测到系外卫星\n   新浪科技｜2026-07-23｜https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “科学家可能首次探测到系外卫星” against primary-source evidence.\n\n4. [2026-07-23] 影响市场重大事件：商业航天重要突破，全球最大\n   网易科技｜2026-07-23｜https://www.163.com/dy/article/L2GLLD130512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：商业航天重要突破，全球最大” against primary-source evidence.\n\n5. [2026-07-23] 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池\n   新浪科技｜2026-07-23｜https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池” against primary-source evidence.\n\n本次新增线索：\n- Alphabet二季度电话会：AI需求推动基础设施投入加速｜网易科技｜https://www.163.com/dy/article/L2GOHIBN0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. wants to contain China’s AI. Silicon Valley keeps using it｜Rest of World｜https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable｜TechCrunch｜https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/\n3. Bessent says U.S. could sanction China over AI model 'theft'｜CNBC Technology｜https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html\n4. Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips｜TechCrunch｜https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/\n5. Oracle faces $100M annual bill to back Wisconsin datacenter power promises｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-23｜生成时间：2026/7/23 08:10:13｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2453｜确认今日 26｜国际背景 32</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 25 条｜国际 32 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-23] 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产</strong>\n      <span>网易科技｜2026-07-23｜<a href=\"https://www.163.com/dy/article/L2GD7MO105198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-23] 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位</strong>\n      <span>新浪科技｜2026-07-23｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-23] 科学家可能首次探测到系外卫星</strong>\n      <span>新浪科技｜2026-07-23｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “科学家可能首次探测到系外卫星” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-23] 影响市场重大事件：商业航天重要突破，全球最大</strong>\n      <span>网易科技｜2026-07-23｜<a href=\"https://www.163.com/dy/article/L2GLLD130512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：商业航天重要突破，全球最大” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-23] 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池</strong>\n      <span>新浪科技｜2026-07-23｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The U.S. wants to contain China’s AI. Silicon Valley keeps using it</strong>\n      <span>时间：Wed, 22 Jul 2026 10:00:00 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “The U.S. wants to contain China’s AI. Silicon Valley keeps using it” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable</strong>\n      <span>时间：Wed, 22 Jul 2026 20:49:03 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Treasury threatens sanctions after White House claims Moonshot distilled” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Bessent says U.S. could sanction China over AI model 'theft'</strong>\n      <span>时间：Tue, 21 Jul 2026 17:15:10 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Bessent says U.S. could sanction China over AI model 'theft'” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips</strong>\n      <span>时间：Wed, 22 Jul 2026 20:43:38 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla spending skyrockets as Cybercab, Semi, Megapack production timelin” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Oracle faces $100M annual bill to back Wisconsin datacenter power promises</strong>\n      <span>时间：Tue, 21 Jul 2026 18:45:35 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Oracle faces $100M annual bill to back Wisconsin datacenter power promis” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/23 08:10:13\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 25 条｜国际 32 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-23] 特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2GD7MO105198CJN.html\n   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产” against primary-source evidence.\n\n2. [2026-07-23] 7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位” against primary-source evidence.\n\n3. [2026-07-23] 科学家可能首次探测到系外卫星\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfn7722056.shtml\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “科学家可能首次探测到系外卫星” against primary-source evidence.\n\n4. [2026-07-23] 影响市场重大事件：商业航天重要突破，全球最大\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2GLLD130512B07B.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：商业航天重要突破，全球最大” against primary-source evidence.\n\n5. [2026-07-23] 全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-07-23/doc-iniitvfn7744082.shtml\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池” against primary-source evidence.\n\n本次新增线索：\n- Alphabet二季度电话会：AI需求推动基础设施投入加速｜网易科技｜https://www.163.com/dy/article/L2GOHIBN0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n国际科技背景：\n1. The U.S. wants to contain China’s AI. Silicon Valley keeps using it｜Rest of World｜https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable｜TechCrunch｜https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/\n3. Bessent says U.S. could sanction China over AI model 'theft'｜CNBC Technology｜https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html\n4. Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips｜TechCrunch｜https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/\n5. Oracle faces $100M annual bill to back Wisconsin datacenter power promises｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
