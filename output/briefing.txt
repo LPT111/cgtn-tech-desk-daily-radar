@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/24 08:07:38
+生成时间：2026/7/24 08:14:10
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 10 条｜国际 1 条
-延续跟踪线索：国内 27 条｜国际 31 条
+新增核心线索：国内 0 条｜国际 6 条
+延续跟踪线索：国内 37 条｜国际 30 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -37,12 +37,11 @@ ChenChen 今日 Briefing｜V3
    角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨” against primary-source evidence.
 
 本次新增线索：
-- OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案｜IT之家｜https://www.ithome.com/0/980/898.htm
-- AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率｜IT之家｜https://www.ithome.com/0/980/872.htm
-- 我国成功发射天仪48星等5颗卫星｜网易科技｜https://www.163.com/dy/article/L2JAU5ET0534A4SC.html
-- 马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml
-- 佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-24/doc-iniiwenn9202058.shtml
-- Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-forgot-mention-one-galaxy-215121119.html
+- OpenAI won't let some customers export their chats, but this tool will｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795
+- OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699
+- One ChatGPT link could smuggle a rogue AI agent into your company｜The Register｜https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116
+- IBM insists AI didn't kill software deals, just delayed them｜The Register｜https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977
+- OpenAI admits it was the source of the agent swarm that attacked Hugging Face｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（8 条，4 个来源）
@@ -53,11 +52,11 @@ ChenChen 今日 Briefing｜V3
 - 科学前沿：科学前沿与科研设施（2 条，2 个来源）
 
 国际科技背景：
-1. China’s Open AI Models Are Challenging Silicon Valley’s Playbook｜WIRED Business｜https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/
-2. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says｜CNBC Technology｜https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html
-3. Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut｜CNBC Technology｜https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html
-4. AMD’s new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' chips into robots – APUs for physical AI bri｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/amd-x100-chip-lineup-puts-183000928.html
-5. Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-forgot-mention-one-galaxy-215121119.html
+1. OpenAI won't let some customers export their chats, but this tool will｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795
+2. OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699
+3. One ChatGPT link could smuggle a rogue AI agent into your company｜The Register｜https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116
+4. China’s Open AI Models Are Challenging Silicon Valley’s Playbook｜WIRED Business｜https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/
+5. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says｜CNBC Technology｜https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。

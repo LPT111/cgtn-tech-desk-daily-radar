@@ -1,44 +1,38 @@
 {
-  "generatedAt": "2026-07-24T00:07:38.781Z",
+  "generatedAt": "2026-07-24T00:14:10.847Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-24",
   "changeSummary": {
-    "domesticNew": 10,
-    "globalNew": 1,
-    "domesticContinued": 27,
-    "globalContinued": 31,
-    "topNewDomestic": [
-      {
-        "title": "OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/980/898.htm"
-      },
-      {
-        "title": "AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/980/872.htm"
-      },
-      {
-        "title": "我国成功发射天仪48星等5颗卫星",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L2JAU5ET0534A4SC.html"
-      },
-      {
-        "title": "马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml"
-      },
-      {
-        "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-07-24/doc-iniiwenn9202058.shtml"
-      }
-    ],
+    "domesticNew": 0,
+    "globalNew": 6,
+    "domesticContinued": 37,
+    "globalContinued": 30,
+    "topNewDomestic": [],
     "topNewGlobal": [
       {
-        "title": "Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/wearables/articles/samsung-forgot-mention-one-galaxy-215121119.html"
+        "title": "OpenAI won't let some customers export their chats, but this tool will",
+        "source": "The Register",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795"
+      },
+      {
+        "title": "OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning",
+        "source": "The Register",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699"
+      },
+      {
+        "title": "One ChatGPT link could smuggle a rogue AI agent into your company",
+        "source": "The Register",
+        "url": "https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116"
+      },
+      {
+        "title": "IBM insists AI didn't kill software deals, just delayed them",
+        "source": "The Register",
+        "url": "https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977"
+      },
+      {
+        "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
+        "source": "The Register",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939"
       }
     ],
     "hasPrevious": true
@@ -48,7 +42,7 @@
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
     "domesticRejected": 863,
-    "globalRejected": 868,
+    "globalRejected": 864,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -62,8 +56,13 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 30,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -86,6 +85,11 @@
     }
   ],
   "failures": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -161,7 +165,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -360,11 +365,11 @@
   ],
   "itemsSeen": 1373,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 334,
-  "itemsAfterDedupe": 254,
+  "itemsAfterRelevantFilter": 333,
+  "itemsAfterDedupe": 251,
   "todayItemsSeen": 37,
   "suspectedItemsSeen": 19,
-  "skippedNonToday": 196,
+  "skippedNonToday": 193,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -419,7 +424,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -684,7 +690,7 @@
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 0,
+      "parsed": 47,
       "failed": false,
       "optional": false
     },
@@ -770,6 +776,11 @@
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -809,9 +820,9 @@
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1169,
+  "globalItemsSeen": 1216,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 148,
+  "globalItemsAfterRelevantFilter": 135,
   "topics": [
     {
       "topic": "AI 应用与智能体",
@@ -825,10 +836,10 @@
       ],
       "items": [
         "OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案",
+        "7月24日隔夜要闻：道指收跌500点，布伦特原油站上100美元关口 美国公布新关税措施 英特尔盘后涨超13%",
         "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
         "解析AMD AAI 2026：从智能体到“物理 AI” AMD重构全栈算力格局",
-        "AMD CEO 苏姿丰：AI 服务器 Helios 已全面投产，预计今年三季度末出货",
-        "7月24日隔夜要闻：道指收跌500点，布伦特原油站上100美元关口 美国公布新关税措施 英特尔盘后涨超13%"
+        "AMD放话新品性能有望比肩英伟达 OpenAI等客户承诺大规模采用"
       ]
     },
     {
@@ -1052,7 +1063,7 @@
       "relatedTitles": [
         "OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1188,7 +1199,7 @@
       "relatedTitles": [
         "AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1256,7 +1267,7 @@
       "relatedTitles": [
         "我国成功发射天仪48星等5颗卫星"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1324,7 +1335,7 @@
       "relatedTitles": [
         "马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1461,74 +1472,6 @@
         "“共同塑造全球人工智能的未来”"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-      "summary": "IT之家 7 月 24 日消息，大家可能经常听到有网友因为豆包的讨好型人格而调侃“豆包经常给出错误的建议导致问题恶化”，但实际上这类问题并非豆包独有，ChatGPT 此前也曾因为谄媚问题而引发争议。当地时间 7 月 21 日，美国佛罗里达州...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-24/doc-iniiwenn9202058.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-07-24/doc-iniiwenn9202058.shtml"
-      ],
-      "publishedAt": "2026-07-24",
-      "date": "2026-07-24",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "IT之家 7 月 24 日消息，大家可能经常听到有网友因为豆包的讨好型人格而调侃“豆包经常给出错误的建议导致问题恶化”，但实际上这类问题并非豆包独有，ChatGPT 此前也曾因为谄媚问题而引发争议。当地时间 7 月 21 日，美国佛罗里达州...",
-      "relatedTitles": [
-        "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1735,210 +1678,6 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "苏姿丰：在服务器 CPU 营收方面，AMD 份额已达到 46%",
-      "summary": "今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，并称其服务器 CPU 营收份额已达 46%。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/980/874.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/980/874.htm"
-      ],
-      "publishedAt": "Thu, 23 Jul 2026 18:45:12 GMT",
-      "date": "2026-07-24",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 160,
-      "reporterScore": 168,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “苏姿丰：在服务器 CPU 营收方面，AMD 份额已达到 46%” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，并称其服务器 CPU 营收份额已达 46%。",
-      "relatedTitles": [
-        "苏姿丰：在服务器 CPU 营收方面，AMD 份额已达到 46%"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "解析AMD AAI 2026：从智能体到“物理 AI” AMD重构全栈算力格局",
-      "summary": "人工智能的风向正在发生微妙的变化。 过去一年多，大家最熟悉的是“生成式 AI”——你提问，大模型帮你写文章或画图。但现在的行业焦点，正在向两个更深度的方向演进：一个是“AI智能体（Agentic AI）”，也就是让 AI 变成像独立...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/it/2026-07-24/doc-iniiwenr4947890.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/it/2026-07-24/doc-iniiwenr4947890.shtml"
-      ],
-      "publishedAt": "2026-07-24",
-      "date": "2026-07-24",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “解析AMD AAI 2026：从智能体到“物理 AI” AMD重构全栈算力格局” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "人工智能的风向正在发生微妙的变化。 过去一年多，大家最熟悉的是“生成式 AI”——你提问，大模型帮你写文章或画图。但现在的行业焦点，正在向两个更深度的方向演进：一个是“AI智能体（Agentic AI）”，也就是让 AI 变成像独立...",
-      "relatedTitles": [
-        "解析AMD AAI 2026：从智能体到“物理 AI” AMD重构全栈算力格局"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "AMD CEO 苏姿丰：AI 服务器 Helios 已全面投产，预计今年三季度末出货",
-      "summary": "AMD CEO 苏姿丰宣布，搭载全新 Instinct MI455X AI 加速器和 Venice CPU 的 Helios 服务器已全面投产，预计三季度末出货。OpenAI 计划今年晚些时候部署该系统。苏姿丰表示 AMD 正实现重大跨越，目标在大规模计算领域取得领先。#AMD# #AI服务器#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/980/896.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/980/896.htm"
-      ],
-      "publishedAt": "Thu, 23 Jul 2026 23:45:56 GMT",
-      "date": "2026-07-24",
-      "category": "AI",
-      "classificationConfidence": 0.69,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AMD CEO 苏姿丰：AI 服务器 Helios 已全面投产，预计今年三季度末出货” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "AMD CEO 苏姿丰宣布，搭载全新 Instinct MI455X AI 加速器和 Venice CPU 的 Helios 服务器已全面投产，预计三季度末出货。OpenAI 计划今年晚些时候部署该系统。苏姿丰表示 AMD 正实现重大跨越，目标在大规模计算领域取得领先。#AMD# #AI服务器#",
-      "relatedTitles": [
-        "AMD CEO 苏姿丰：AI 服务器 Helios 已全面投产，预计今年三季度末出货"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "我国脑机接口迎重要突破 在全球范围内首次实现",
       "summary": "#中国脑机接口重要突破# #我国脑机接口攻克两大技术难关# 据央视财经今日报道，昨日下午，我国科研团队发布一款新型脑电信号采集装置，在全球范围内首次实现了跨地域上千人同步脑电信号采集。",
@@ -2143,6 +1882,74 @@
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+      "summary": "IT之家 7 月 24 日消息，大家可能经常听到有网友因为豆包的讨好型人格而调侃“豆包经常给出错误的建议导致问题恶化”，但实际上这类问题并非豆包独有，ChatGPT 此前也曾因为谄媚问题而引发争议。当地时间 7 月 21 日，美国佛罗里达州...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-24/doc-iniiwenn9202058.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-07-24/doc-iniiwenn9202058.shtml"
+      ],
+      "publishedAt": "2026-07-24",
+      "date": "2026-07-24",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "IT之家 7 月 24 日消息，大家可能经常听到有网友因为豆包的讨好型人格而调侃“豆包经常给出错误的建议导致问题恶化”，但实际上这类问题并非豆包独有，ChatGPT 此前也曾因为谄媚问题而引发争议。当地时间 7 月 21 日，美国佛罗里达州...",
+      "relatedTitles": [
+        "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "王朝 9 系旗舰轿车：比亚迪大汉官宣下月 2026 成都车展正式亮相",
       "summary": "比亚迪汽车官微 23 日宣布，王朝 9 系旗舰轿车大汉将于 8 月成都车展正式亮相。第二十九届成都国际汽车展览会（2026 成都车展）官宣将于 8 月 21 日 ~30 日举行，地点为四川成都中国西部国际博览城。",
@@ -2211,21 +2018,21 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "7月新能源汽车预计销量98万辆 渗透率64.5%再创历史新高",
-      "summary": "快科技7月24日消息，乘联分会放出最新市场预测，7月国内乘用车整体零售大概152万辆，其中新能源车型能卖到98万辆，市场渗透率直接冲到64.5%，刷新月度纪录。每年7月都是买车淡季，再加上高温、暴雨不断，出门看车的人变少，整体车市热度会往下...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "苏姿丰：在服务器 CPU 营收方面，AMD 份额已达到 46%",
+      "summary": "今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，并称其服务器 CPU 营收份额已达 46%。",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-24/doc-iniiwenr4946109.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/980/874.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-07-24/doc-iniiwenr4946109.shtml"
+        "https://www.ithome.com/0/980/874.htm"
       ],
-      "publishedAt": "2026-07-24",
+      "publishedAt": "Thu, 23 Jul 2026 18:45:12 GMT",
       "date": "2026-07-24",
-      "category": "新能源车",
+      "category": "芯片",
       "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
@@ -2233,19 +2040,19 @@
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 157,
-      "reporterScore": 157,
+      "score": 160,
+      "reporterScore": 168,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
         "visual": 0,
-        "international": 0,
+        "international": 9,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
@@ -2257,26 +2064,26 @@
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": false,
+        "international": true,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
+        "hardTechWeight": 95,
+        "reporterScore": 120
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “7月新能源汽车预计销量98万辆 渗透率64.5%再创历史新高” against primary-source evidence.",
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “苏姿丰：在服务器 CPU 营收方面，AMD 份额已达到 46%” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "快科技7月24日消息，乘联分会放出最新市场预测，7月国内乘用车整体零售大概152万辆，其中新能源车型能卖到98万辆，市场渗透率直接冲到64.5%，刷新月度纪录。每年7月都是买车淡季，再加上高温、暴雨不断，出门看车的人变少，整体车市热度会往下...",
+      "matchedTopic": "芯片动态",
+      "rawText": "今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，并称其服务器 CPU 营收份额已达 46%。",
       "relatedTitles": [
-        "7月新能源汽车预计销量98万辆 渗透率64.5%再创历史新高"
+        "苏姿丰：在服务器 CPU 营收方面，AMD 份额已达到 46%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2343,6 +2150,74 @@
       "rawText": "今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，并公布了下一代 AI 加速器 Instinct MI455X 的更多细节。",
       "relatedTitles": [
         "AMD 展示最强 AI 加速器 MI455X：台积电 2nm 工艺、3200 亿晶体管、432GB HBM4"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "解析AMD AAI 2026：从智能体到“物理 AI” AMD重构全栈算力格局",
+      "summary": "人工智能的风向正在发生微妙的变化。 过去一年多，大家最熟悉的是“生成式 AI”——你提问，大模型帮你写文章或画图。但现在的行业焦点，正在向两个更深度的方向演进：一个是“AI智能体（Agentic AI）”，也就是让 AI 变成像独立...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/it/2026-07-24/doc-iniiwenr4947890.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/it/2026-07-24/doc-iniiwenr4947890.shtml"
+      ],
+      "publishedAt": "2026-07-24",
+      "date": "2026-07-24",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “解析AMD AAI 2026：从智能体到“物理 AI” AMD重构全栈算力格局” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "人工智能的风向正在发生微妙的变化。 过去一年多，大家最熟悉的是“生成式 AI”——你提问，大模型帮你写文章或画图。但现在的行业焦点，正在向两个更深度的方向演进：一个是“AI智能体（Agentic AI）”，也就是让 AI 变成像独立...",
+      "relatedTitles": [
+        "解析AMD AAI 2026：从智能体到“物理 AI” AMD重构全栈算力格局"
       ],
       "isNewSinceLastRun": false
     },
@@ -2826,22 +2701,22 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
-      "summary": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗,pcb,服务器,英伟达,msap,公司营业收入",
-      "source": "网易科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "AMD CEO 苏姿丰：AI 服务器 Helios 已全面投产，预计今年三季度末出货",
+      "summary": "AMD CEO 苏姿丰宣布，搭载全新 Instinct MI455X AI 加速器和 Venice CPU 的 Helios 服务器已全面投产，预计三季度末出货。OpenAI 计划今年晚些时候部署该系统。苏姿丰表示 AMD 正实现重大跨越，目标在大规模计算领域取得领先。#AMD# #AI服务器#",
+      "source": "IT之家",
       "sources": [
-        "网易科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L2JB845205198CJN.html",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/980/896.htm",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L2JB845205198CJN.html"
+        "https://www.ithome.com/0/980/896.htm"
       ],
-      "publishedAt": "2026-07-24",
+      "publishedAt": "Thu, 23 Jul 2026 23:45:56 GMT",
       "date": "2026-07-24",
       "category": "AI",
-      "classificationConfidence": 0.68,
+      "classificationConfidence": 0.69,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2851,12 +2726,12 @@
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
+      "score": 159,
+      "reporterScore": 167,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
@@ -2864,7 +2739,7 @@
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -2873,25 +2748,25 @@
         "primary": false,
         "visual": false,
         "international": false,
-        "interview": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 110
+        "reporterScore": 120
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
+      "hasInterviewValue": true,
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗” against primary-source evidence.",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AMD CEO 苏姿丰：AI 服务器 Helios 已全面投产，预计今年三季度末出货” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗,pcb,服务器,英伟达,msap,公司营业收入",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "AMD CEO 苏姿丰宣布，搭载全新 Instinct MI455X AI 加速器和 Venice CPU 的 Helios 服务器已全面投产，预计三季度末出货。OpenAI 计划今年晚些时候部署该系统。苏姿丰表示 AMD 正实现重大跨越，目标在大规模计算领域取得领先。#AMD# #AI服务器#",
       "relatedTitles": [
-        "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗"
+        "AMD CEO 苏姿丰：AI 服务器 Helios 已全面投产，预计今年三季度末出货"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3235,6 +3110,74 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "7月新能源汽车预计销量98万辆 渗透率64.5%再创历史新高",
+      "summary": "快科技7月24日消息，乘联分会放出最新市场预测，7月国内乘用车整体零售大概152万辆，其中新能源车型能卖到98万辆，市场渗透率直接冲到64.5%，刷新月度纪录。每年7月都是买车淡季，再加上高温、暴雨不断，出门看车的人变少，整体车市热度会往下...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-24/doc-iniiwenr4946109.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-24/doc-iniiwenr4946109.shtml"
+      ],
+      "publishedAt": "2026-07-24",
+      "date": "2026-07-24",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 157,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “7月新能源汽车预计销量98万辆 渗透率64.5%再创历史新高” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "快科技7月24日消息，乘联分会放出最新市场预测，7月国内乘用车整体零售大概152万辆，其中新能源车型能卖到98万辆，市场渗透率直接冲到64.5%，刷新月度纪录。每年7月都是买车淡季，再加上高温、暴雨不断，出门看车的人变少，整体车市热度会往下...",
+      "relatedTitles": [
+        "7月新能源汽车预计销量98万辆 渗透率64.5%再创历史新高"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "谷歌逆势扩招：过去一年净增近 1.2 万员工，加码 AI 基础设施投资",
       "summary": "IT之家 7 月 24 日消息，在不少企业持续裁员并把更多资金投入 AI 之际，谷歌母公司 Alphabet 却在扩大招聘规模。据《商业内幕》今天（24 日）报道，Alphabet 第二季度业绩大幅增长，营收同比上升 24% 至 1198 ...",
       "source": "新浪科技",
@@ -3298,6 +3241,74 @@
       "rawText": "IT之家 7 月 24 日消息，在不少企业持续裁员并把更多资金投入 AI 之际，谷歌母公司 Alphabet 却在扩大招聘规模。据《商业内幕》今天（24 日）报道，Alphabet 第二季度业绩大幅增长，营收同比上升 24% 至 1198 ...",
       "relatedTitles": [
         "谷歌逆势扩招：过去一年净增近 1.2 万员工，加码 AI 基础设施投资"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
+      "summary": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗,pcb,服务器,英伟达,msap,公司营业收入",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L2JB845205198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L2JB845205198CJN.html"
+      ],
+      "publishedAt": "2026-07-24",
+      "date": "2026-07-24",
+      "category": "AI",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗,pcb,服务器,英伟达,msap,公司营业收入",
+      "relatedTitles": [
+        "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗"
       ],
       "isNewSinceLastRun": false
     },
@@ -4784,6 +4795,102 @@
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI won't let some customers export their chats, but this tool will",
+      "summary": "ChatGPT Business and Enterprise users lack the standard chat export option, so third-party utilities like scrapemychats fill the gap",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795",
+      "publishedAt": "Thu, 23 Jul 2026 22:48:39 +0200",
+      "date": "2026-07-23",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI won't let some customers export their chats, but this tool will” against primary-source evidence.",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 177,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning",
+      "summary": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699",
+      "publishedAt": "Thu, 23 Jul 2026 01:37:24 +0200",
+      "date": "2026-07-23",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 85,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI scored an own goal with Hugging Face attack, showing how open Chi” against primary-source evidence.",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "One ChatGPT link could smuggle a rogue AI agent into your company",
+      "summary": "Researchers say OpenAI flaw let phishing bait create an autonomous corporate mole armed with employee access",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116",
+      "publishedAt": "Thu, 23 Jul 2026 15:02:00 +0200",
+      "date": "2026-07-23",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “One ChatGPT link could smuggle a rogue AI agent into your company” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 160,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
       "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capa",
       "source": "WIRED Business",
@@ -4912,23 +5019,23 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades",
-      "summary": "Samsung has expanded software support for the Galaxy Watch 9 and Watch Ultra 2 to five major Wear OS upgrades, up from four on previous models.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/wearables/articles/samsung-forgot-mention-one-galaxy-215121119.html",
-      "publishedAt": "2026-07-24",
-      "date": "2026-07-24",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
+      "title": "IBM insists AI didn't kill software deals, just delayed them",
+      "summary": "Big Blue says customers postponed rather than abandoned major purchases as hardware soaked up enterprise budgets",
+      "source": "The Register",
+      "url": "https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977",
+      "publishedAt": "Thu, 23 Jul 2026 13:34:42 +0200",
+      "date": "2026-07-23",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.62,
       "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "globalWhitelistScore": 65,
+      "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades” against primary-source evidence.",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “IBM insists AI didn't kill software deals, just delayed them” against primary-source evidence.",
       "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
+      "score": 145,
+      "reporterScore": 145,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4937,9 +5044,41 @@
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 110
+        "reporterScore": 95
       },
-      "status": "confirmed_today",
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
+      "summary": "Sandboxed experiment found itself a zero day, escaped onto the open internet and validated scary predictions about rogue agents",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939",
+      "publishedAt": "Wed, 22 Jul 2026 03:30:45 +0200",
+      "date": "2026-07-22",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI admits it was the source of the agent swarm that attacked Hugging” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
       "isNewSinceLastRun": true
     },
     {
@@ -5037,6 +5176,38 @@
       },
       "status": "confirmed_today",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Tesla burns through a billion as Musk bets the farm on chips and bots",
+      "summary": "Optimus remains",
+      "source": "The Register",
+      "url": "https://www.theregister.com/offbeat/2026/07/23/tesla-burns-through-a-billion-as-musk-bets-the-farm-on-chips-and-bots/5276944",
+      "publishedAt": "Thu, 23 Jul 2026 15:45:00 +0200",
+      "date": "2026-07-23",
+      "region": "Europe",
+      "category": "新能源车",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Tesla burns through a billion as Musk bets the farm on chips and bots” against primary-source evidence.",
+      "priority": 5,
+      "score": 134,
+      "reporterScore": 134,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -5392,70 +5563,6 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
-      "summary": "The incident is unique because it was \"driven, end to end, by an autonomous AI agent system,\" according to Hugging Face.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
-      "publishedAt": "Wed, 22 Jul 2026 18:37:37 GMT",
-      "date": "2026-07-22",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI cyber models broke out of training environment to hack Hugging Fa” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
-      "summary": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
-      "publishedAt": "Thu, 23 Jul 2026 21:09:48 GMT",
-      "date": "2026-07-23",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Everything announced at Samsung Galaxy Unpacked 2026",
       "summary": "Ready to catch up with everything Samsung announced at its summer Galaxy Unpacked? Here's the rundown on everything you need to know about the Galaxy Z Fold 8, Z Flip 8, Galaxy Wat",
       "source": "Yahoo News Technology",
@@ -5516,6 +5623,38 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades",
+      "summary": "Samsung has expanded software support for the Galaxy Watch 9 and Watch Ultra 2 to five major Wear OS upgrades, up from four on previous models.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/wearables/articles/samsung-forgot-mention-one-galaxy-215121119.html",
+      "publishedAt": "2026-07-24",
+      "date": "2026-07-24",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -5807,8 +5946,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-24｜V3\n生成时间：2026/7/24 08:07:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2542｜确认今日 37｜国际背景 32\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 10 条｜国际 1 条\n延续跟踪线索：国内 27 条｜国际 31 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:56] OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案\n   IT之家｜2026-07-24｜https://www.ithome.com/0/980/898.htm\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案” against primary-source evidence.\n\n2. [2026-07-24] 影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”\n   网易科技｜2026-07-24｜https://www.163.com/dy/article/L2J7OBQC0512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”” against primary-source evidence.\n\n3. [18:30] AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率\n   IT之家｜2026-07-24｜https://www.ithome.com/0/980/872.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率” against primary-source evidence.\n\n4. [2026-07-24] 我国成功发射天仪48星等5颗卫星\n   网易科技｜2026-07-24｜https://www.163.com/dy/article/L2JAU5ET0534A4SC.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “我国成功发射天仪48星等5颗卫星” against primary-source evidence.\n\n5. [2026-07-24] 马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨\n   新浪科技｜2026-07-24｜https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案｜IT之家｜https://www.ithome.com/0/980/898.htm\n- AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率｜IT之家｜https://www.ithome.com/0/980/872.htm\n- 我国成功发射天仪48星等5颗卫星｜网易科技｜https://www.163.com/dy/article/L2JAU5ET0534A4SC.html\n- 马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml\n- 佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-24/doc-iniiwenn9202058.shtml\n- Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-forgot-mention-one-galaxy-215121119.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（8 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China’s Open AI Models Are Challenging Silicon Valley’s Playbook｜WIRED Business｜https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/\n2. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says｜CNBC Technology｜https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html\n3. Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut｜CNBC Technology｜https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html\n4. AMD’s new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' chips into robots – APUs for physical AI bri｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/amd-x100-chip-lineup-puts-183000928.html\n5. Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-forgot-mention-one-galaxy-215121119.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-24｜V3\n生成时间：2026/7/24 08:07:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2542｜确认今日 37｜国际背景 32\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 10 条｜国际 1 条\n延续跟踪线索：国内 27 条｜国际 31 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:56] OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案\n   IT之家｜2026-07-24｜https://www.ithome.com/0/980/898.htm\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案” against primary-source evidence.\n\n2. [2026-07-24] 影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”\n   网易科技｜2026-07-24｜https://www.163.com/dy/article/L2J7OBQC0512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”” against primary-source evidence.\n\n3. [18:30] AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率\n   IT之家｜2026-07-24｜https://www.ithome.com/0/980/872.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率” against primary-source evidence.\n\n4. [2026-07-24] 我国成功发射天仪48星等5颗卫星\n   网易科技｜2026-07-24｜https://www.163.com/dy/article/L2JAU5ET0534A4SC.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “我国成功发射天仪48星等5颗卫星” against primary-source evidence.\n\n5. [2026-07-24] 马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨\n   新浪科技｜2026-07-24｜https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案｜IT之家｜https://www.ithome.com/0/980/898.htm\n- AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率｜IT之家｜https://www.ithome.com/0/980/872.htm\n- 我国成功发射天仪48星等5颗卫星｜网易科技｜https://www.163.com/dy/article/L2JAU5ET0534A4SC.html\n- 马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml\n- 佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-24/doc-iniiwenn9202058.shtml\n- Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-forgot-mention-one-galaxy-215121119.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（8 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. China’s Open AI Models Are Challenging Silicon Valley’s Playbook｜WIRED Business｜https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/\n2. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says｜CNBC Technology｜https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html\n3. Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut｜CNBC Technology｜https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html\n4. AMD’s new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' chips into robots – APUs for physical AI bri｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/amd-x100-chip-lineup-puts-183000928.html\n5. Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-forgot-mention-one-galaxy-215121119.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-24｜生成时间：2026/7/24 08:07:38｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2542｜确认今日 37｜国际背景 32</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 10 条｜国际 1 条<br>延续跟踪线索：国内 27 条｜国际 31 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [23:56] OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案</strong>\n      <span>IT之家｜2026-07-24｜<a href=\"https://www.ithome.com/0/980/898.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：210｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-24] 影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”</strong>\n      <span>网易科技｜2026-07-24｜<a href=\"https://www.163.com/dy/article/L2J7OBQC0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [18:30] AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率</strong>\n      <span>IT之家｜2026-07-24｜<a href=\"https://www.ithome.com/0/980/872.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：196｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-24] 我国成功发射天仪48星等5颗卫星</strong>\n      <span>网易科技｜2026-07-24｜<a href=\"https://www.163.com/dy/article/L2JAU5ET0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “我国成功发射天仪48星等5颗卫星” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-24] 马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨</strong>\n      <span>新浪科技｜2026-07-24｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. China’s Open AI Models Are Challenging Silicon Valley’s Playbook</strong>\n      <span>时间：Wed, 22 Jul 2026 19:01:38 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “China’s Open AI Models Are Challenging Silicon Valley’s Playbook” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says</strong>\n      <span>时间：Thu, 23 Jul 2026 11:13:44 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Moonshot AI accessed Nvidia's chips despite Chinese export ban, White Ho” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut</strong>\n      <span>时间：Wed, 22 Jul 2026 13:00:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Samsung ups prices as it launches new foldable smartphones ahead of expe” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AMD’s new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' chips into robots – APUs for physical AI bri</strong>\n      <span>时间：2026-07-24｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/amd-x100-chip-lineup-puts-183000928.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AMD’s new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' chips int” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades</strong>\n      <span>时间：2026-07-24｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/wearables/articles/samsung-forgot-mention-one-galaxy-215121119.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/24 08:07:38\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 10 条｜国际 1 条\n延续跟踪线索：国内 27 条｜国际 31 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:56] OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案\n   来源：IT之家\n   链接：https://www.ithome.com/0/980/898.htm\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案” against primary-source evidence.\n\n2. [2026-07-24] 影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2J7OBQC0512B07B.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”” against primary-source evidence.\n\n3. [18:30] AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率\n   来源：IT之家\n   链接：https://www.ithome.com/0/980/872.htm\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率” against primary-source evidence.\n\n4. [2026-07-24] 我国成功发射天仪48星等5颗卫星\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2JAU5ET0534A4SC.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “我国成功发射天仪48星等5颗卫星” against primary-source evidence.\n\n5. [2026-07-24] 马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案｜IT之家｜https://www.ithome.com/0/980/898.htm\n- AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率｜IT之家｜https://www.ithome.com/0/980/872.htm\n- 我国成功发射天仪48星等5颗卫星｜网易科技｜https://www.163.com/dy/article/L2JAU5ET0534A4SC.html\n- 马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml\n- 佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-24/doc-iniiwenn9202058.shtml\n- Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-forgot-mention-one-galaxy-215121119.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（8 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n国际科技背景：\n1. China’s Open AI Models Are Challenging Silicon Valley’s Playbook｜WIRED Business｜https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/\n2. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says｜CNBC Technology｜https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html\n3. Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut｜CNBC Technology｜https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html\n4. AMD’s new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' chips into robots – APUs for physical AI bri｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/amd-x100-chip-lineup-puts-183000928.html\n5. Samsung forgot to mention one of the Galaxy Watch 9's biggest upgrades｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/samsung-forgot-mention-one-galaxy-215121119.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-24｜V3\n生成时间：2026/7/24 08:14:10\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2589｜确认今日 37｜国际背景 36\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 6 条\n延续跟踪线索：国内 37 条｜国际 30 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:56] OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案\n   IT之家｜2026-07-24｜https://www.ithome.com/0/980/898.htm\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案” against primary-source evidence.\n\n2. [2026-07-24] 影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”\n   网易科技｜2026-07-24｜https://www.163.com/dy/article/L2J7OBQC0512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”” against primary-source evidence.\n\n3. [18:30] AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率\n   IT之家｜2026-07-24｜https://www.ithome.com/0/980/872.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率” against primary-source evidence.\n\n4. [2026-07-24] 我国成功发射天仪48星等5颗卫星\n   网易科技｜2026-07-24｜https://www.163.com/dy/article/L2JAU5ET0534A4SC.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “我国成功发射天仪48星等5颗卫星” against primary-source evidence.\n\n5. [2026-07-24] 马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨\n   新浪科技｜2026-07-24｜https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨” against primary-source evidence.\n\n本次新增线索：\n- OpenAI won't let some customers export their chats, but this tool will｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795\n- OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699\n- One ChatGPT link could smuggle a rogue AI agent into your company｜The Register｜https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116\n- IBM insists AI didn't kill software deals, just delayed them｜The Register｜https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977\n- OpenAI admits it was the source of the agent swarm that attacked Hugging Face｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（8 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI won't let some customers export their chats, but this tool will｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795\n2. OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699\n3. One ChatGPT link could smuggle a rogue AI agent into your company｜The Register｜https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116\n4. China’s Open AI Models Are Challenging Silicon Valley’s Playbook｜WIRED Business｜https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/\n5. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says｜CNBC Technology｜https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-24｜V3\n生成时间：2026/7/24 08:14:10\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2589｜确认今日 37｜国际背景 36\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 6 条\n延续跟踪线索：国内 37 条｜国际 30 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:56] OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案\n   IT之家｜2026-07-24｜https://www.ithome.com/0/980/898.htm\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案” against primary-source evidence.\n\n2. [2026-07-24] 影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”\n   网易科技｜2026-07-24｜https://www.163.com/dy/article/L2J7OBQC0512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”” against primary-source evidence.\n\n3. [18:30] AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率\n   IT之家｜2026-07-24｜https://www.ithome.com/0/980/872.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率” against primary-source evidence.\n\n4. [2026-07-24] 我国成功发射天仪48星等5颗卫星\n   网易科技｜2026-07-24｜https://www.163.com/dy/article/L2JAU5ET0534A4SC.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “我国成功发射天仪48星等5颗卫星” against primary-source evidence.\n\n5. [2026-07-24] 马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨\n   新浪科技｜2026-07-24｜https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨” against primary-source evidence.\n\n本次新增线索：\n- OpenAI won't let some customers export their chats, but this tool will｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795\n- OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699\n- One ChatGPT link could smuggle a rogue AI agent into your company｜The Register｜https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116\n- IBM insists AI didn't kill software deals, just delayed them｜The Register｜https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977\n- OpenAI admits it was the source of the agent swarm that attacked Hugging Face｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（8 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI won't let some customers export their chats, but this tool will｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795\n2. OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699\n3. One ChatGPT link could smuggle a rogue AI agent into your company｜The Register｜https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116\n4. China’s Open AI Models Are Challenging Silicon Valley’s Playbook｜WIRED Business｜https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/\n5. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says｜CNBC Technology｜https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-24｜生成时间：2026/7/24 08:14:10｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2589｜确认今日 37｜国际背景 36</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 6 条<br>延续跟踪线索：国内 37 条｜国际 30 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [23:56] OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案</strong>\n      <span>IT之家｜2026-07-24｜<a href=\"https://www.ithome.com/0/980/898.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：210｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-24] 影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”</strong>\n      <span>网易科技｜2026-07-24｜<a href=\"https://www.163.com/dy/article/L2J7OBQC0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [18:30] AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率</strong>\n      <span>IT之家｜2026-07-24｜<a href=\"https://www.ithome.com/0/980/872.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：196｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-24] 我国成功发射天仪48星等5颗卫星</strong>\n      <span>网易科技｜2026-07-24｜<a href=\"https://www.163.com/dy/article/L2JAU5ET0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “我国成功发射天仪48星等5颗卫星” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-24] 马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨</strong>\n      <span>新浪科技｜2026-07-24｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI won't let some customers export their chats, but this tool will</strong>\n      <span>时间：Thu, 23 Jul 2026 22:48:39 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI won't let some customers export their chats, but this tool will” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning</strong>\n      <span>时间：Thu, 23 Jul 2026 01:37:24 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI scored an own goal with Hugging Face attack, showing how open Chi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. One ChatGPT link could smuggle a rogue AI agent into your company</strong>\n      <span>时间：Thu, 23 Jul 2026 15:02:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “One ChatGPT link could smuggle a rogue AI agent into your company” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. China’s Open AI Models Are Challenging Silicon Valley’s Playbook</strong>\n      <span>时间：Wed, 22 Jul 2026 19:01:38 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “China’s Open AI Models Are Challenging Silicon Valley’s Playbook” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says</strong>\n      <span>时间：Thu, 23 Jul 2026 11:13:44 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Moonshot AI accessed Nvidia's chips despite Chinese export ban, White Ho” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/24 08:14:10\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 6 条\n延续跟踪线索：国内 37 条｜国际 30 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:56] OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案\n   来源：IT之家\n   链接：https://www.ithome.com/0/980/898.htm\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 模型冲破隔离发动攻击后，美国会议员提出 AI“终止开关”法案” against primary-source evidence.\n\n2. [2026-07-24] 影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2J7OBQC0512B07B.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：“木头姐”力挺SpaceX：或成为“全球历史上最重要的公司”” against primary-source evidence.\n\n3. [18:30] AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率\n   来源：IT之家\n   链接：https://www.ithome.com/0/980/872.htm\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率” against primary-source evidence.\n\n4. [2026-07-24] 我国成功发射天仪48星等5颗卫星\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2JAU5ET0534A4SC.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “我国成功发射天仪48星等5颗卫星” against primary-source evidence.\n\n5. [2026-07-24] 马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniiwenr4940944.shtml\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨” against primary-source evidence.\n\n本次新增线索：\n- OpenAI won't let some customers export their chats, but this tool will｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795\n- OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699\n- One ChatGPT link could smuggle a rogue AI agent into your company｜The Register｜https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116\n- IBM insists AI didn't kill software deals, just delayed them｜The Register｜https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977\n- OpenAI admits it was the source of the agent swarm that attacked Hugging Face｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（8 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n国际科技背景：\n1. OpenAI won't let some customers export their chats, but this tool will｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795\n2. OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699\n3. One ChatGPT link could smuggle a rogue AI agent into your company｜The Register｜https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116\n4. China’s Open AI Models Are Challenging Silicon Valley’s Playbook｜WIRED Business｜https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/\n5. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says｜CNBC Technology｜https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
