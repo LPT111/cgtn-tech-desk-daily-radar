@@ -1,37 +1,17 @@
 {
-  "generatedAt": "2026-07-26T00:08:33.242Z",
+  "generatedAt": "2026-07-26T00:17:06.384Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-26",
   "changeSummary": {
-    "domesticNew": 6,
+    "domesticNew": 1,
     "globalNew": 0,
-    "domesticContinued": 2,
+    "domesticContinued": 8,
     "globalContinued": 20,
     "topNewDomestic": [
       {
-        "title": "中国有潜力成为机器人行业领导者",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml"
-      },
-      {
-        "title": "日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml"
-      },
-      {
-        "title": "Debian项目发起议案，讨论是否允许AI大模型参与开发",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml"
-      },
-      {
-        "title": "中南大学回应费某某学位论文涉嫌抄袭：已成立调查组",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassr0644687.shtml"
-      },
-      {
-        "title": "特斯拉 FSD v15 早期版本已上路，Robotaxi 车队率先搭载",
+        "title": "特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路",
         "source": "IT之家",
-        "url": "https://www.ithome.com/0/981/618.htm"
+        "url": "https://www.ithome.com/0/981/621.htm"
       }
     ],
     "topNewGlobal": [],
@@ -41,7 +21,7 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 892,
+    "domesticRejected": 891,
     "globalRejected": 880,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -56,7 +36,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 28,
+  "successSources": 30,
   "failedSources": [
     {
       "name": "财联社",
@@ -67,16 +47,6 @@
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -104,16 +74,6 @@
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -299,16 +259,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -387,11 +345,11 @@
   ],
   "itemsSeen": 1341,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 321,
-  "itemsAfterDedupe": 256,
-  "todayItemsSeen": 8,
-  "suspectedItemsSeen": 18,
-  "skippedNonToday": 230,
+  "itemsAfterRelevantFilter": 324,
+  "itemsAfterDedupe": 254,
+  "todayItemsSeen": 9,
+  "suspectedItemsSeen": 16,
+  "skippedNonToday": 228,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -560,16 +518,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -810,16 +766,6 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -856,7 +802,7 @@
   "globalSuccessSources": 18,
   "globalItemsSeen": 1219,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 115,
+  "globalItemsAfterRelevantFilter": 117,
   "topics": [
     {
       "topic": "人形机器人与具身智能",
@@ -868,6 +814,18 @@
       "items": [
         "中国有潜力成为机器人行业领导者",
         "日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路",
+        "特斯拉 FSD v15 早期版本已上路，Robotaxi 车队率先搭载"
       ]
     },
     {
@@ -901,17 +859,6 @@
       ],
       "items": [
         "中南大学回应费某某学位论文涉嫌抄袭：已成立调查组"
-      ]
-    },
-    {
-      "topic": "新能源车与智能驾驶",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "特斯拉 FSD v15 早期版本已上路，Robotaxi 车队率先搭载"
       ]
     },
     {
@@ -1004,7 +951,7 @@
       "relatedTitles": [
         "中国有潜力成为机器人行业领导者"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1072,7 +1019,7 @@
       "relatedTitles": [
         "日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1143,6 +1090,74 @@
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路",
+      "summary": "特斯拉正在智利和哥伦比亚招聘 AI 安全运营专员，职责包括监督网约车服务日常运营，这是 Robotaxi 迈向美国以外市场的首个实质性信号。此举旨在为未来海外服务进行道路测绘和数据采集，但正式上线仍需时日。#特斯拉Robotaxi#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/981/621.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/981/621.htm"
+      ],
+      "publishedAt": "Sun, 26 Jul 2026 00:10:17 GMT",
+      "date": "2026-07-26",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "特斯拉正在智利和哥伦比亚招聘 AI 安全运营专员，职责包括监督网约车服务日常运营，这是 Robotaxi 迈向美国以外市场的首个实质性信号。此举旨在为未来海外服务进行道路测绘和数据采集，但正式上线仍需时日。#特斯拉Robotaxi#",
+      "relatedTitles": [
+        "特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "Debian项目发起议案，讨论是否允许AI大模型参与开发",
       "summary": "7月24日，Debian项目开发者发起议案，讨论未来是否允许AI大语言模型开发Debian，有三个选项。提案A主张完全禁止使用大语言模型提交官方软件代码等，因其输出代码版权难确认、可能引入不规范内容且结果不一定正确；提案B允许用AI辅助开发，但开发者要确保内容符合许可证要求，对提交内容全权负责并做好标记；提案C认为大语",
@@ -1208,7 +1223,7 @@
       "relatedTitles": [
         "Debian项目发起议案，讨论是否允许AI大模型参与开发"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1276,7 +1291,7 @@
       "relatedTitles": [
         "中南大学回应费某某学位论文涉嫌抄袭：已成立调查组"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1344,7 +1359,7 @@
       "relatedTitles": [
         "特斯拉 FSD v15 早期版本已上路，Robotaxi 车队率先搭载"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1480,7 +1495,7 @@
       "relatedTitles": [
         "微信鸿蒙 App 获 8.0.19.44 正式版升级，消息称输入文字联想表情包等功能即将上线"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -1549,73 +1564,6 @@
       "rawText": "在7月18日举行的2026世界人工智能大会（WAIC）期间，珠海硅芯科技有限公司（以下简称硅芯科技）创始人兼首席科学家赵毅应邀出席“重构算力——AI算力需求与供给的结构性重构”产业链接会。",
       "relatedTitles": [
         "WAIC观察：3DIC EDA + AI 智能体，如何重构STCO新范式？"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "大渡河老鹰岩二级水电站成功截流",
-      "summary": "首页 大渡河老鹰岩二级水电站成功截流 实现关键节点目标 分享到： 记者今天（23日）从国家能源集团获悉，大渡河老鹰岩二级水电站河道截流圆满完成，顺利实现关键节点目标。 大江截流是水电工程建设中具有里程碑意义的控制性环节，标志着项目由辅助工程正式转入主体工程施工，为后续主体工程混凝土浇筑提供无水干地条件。此次电站截流的围",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/politics/2026_04_23_814684.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/politics/2026_04_23_814684.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.76,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 156,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 115
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “大渡河老鹰岩二级水电站成功截流” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "首页 大渡河老鹰岩二级水电站成功截流 实现关键节点目标 分享到： 记者今天（23日）从国家能源集团获悉，大渡河老鹰岩二级水电站河道截流圆满完成，顺利实现关键节点目标。 大江截流是水电工程建设中具有里程碑意义的控制性环节，标志着项目由辅助工程正式转入主体工程施工，为后续主体工程混凝土浇筑提供无水干地条件。此次电站截流的围堰最大填筑量约65万立方米，采用混凝土防渗墙，墙体厚度达1米，最大深度达91米，以应对河床60至90米深厚覆盖层的复杂地质条件。 老鹰岩二级水电站计划于2029年首台机组投产，总装机容量420兆瓦，设计年发电量18.38亿千瓦时，每年可节约标准煤超50万吨、减少二氧化碳排放超150万吨，将显著补强区域电力供应保障能力。 （总台央视记者 王世玉 古峻岭） 中国AI都救完场了，“OpenAI才发现闯祸了” 25家美国巨头呼吁不设限，“现在搞得要向中国AI求救” 要和马六甲争高下的陆桥黄了，暴露泰国面临的大问题 “中方推动下，探索重启”，伊朗、巴基斯坦致谢 “进一步切断联系”，拉脱维亚将禁止进口俄罗斯书籍和玩具 特朗普犯愁：苹果想用中企芯片，美光却警告 景德镇手工瓷业遗存，申遗",
-      "relatedTitles": [
-        "大渡河老鹰岩二级水电站成功截流"
       ]
     },
     {
@@ -1951,73 +1899,6 @@
       "rawText": "当时，全球科技界最深层的震动并非“中国又多了一款大模型”——毕竟各大开源榜单上，中国模型从未缺席。真正击碎既有认知的，是这家中国本土公司在没有美国顶级算力优势的极限施压下，用铁般的事实证明AI能力的跃升，绝非只有“无限堆砌GPU”这一条死路。一年之后，KimiK3的降临，宣告了故事走向一个全新的高潮",
       "relatedTitles": [
         "从DeepSeek到K3：中国大模型如何跨入全球第一梯队"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "新中国第一条通江达海的运河工程，有最新进展",
-      "summary": "首页 平陆运河全线通水 陆海新通道提速赋能西部发展 分享到： 6月3日，随着平陆运河马道枢纽和企石枢纽开始充水，平陆运河全线通水，全面进入有水调试阶段。 平陆运河是西部陆海新通道骨干工程，全长134.2公里，北起广西横州市平塘江口，经钦州市灵山县陆屋镇，沿钦江进入北部湾。 作为新中国成立以来我国第一条国家层面统筹的通江",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/politics/2026_06_04_819438.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/politics/2026_06_04_819438.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.76,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 148,
-      "reporterScore": 156,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “新中国第一条通江达海的运河工程，有最新进展” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "首页 平陆运河全线通水 陆海新通道提速赋能西部发展 分享到： 6月3日，随着平陆运河马道枢纽和企石枢纽开始充水，平陆运河全线通水，全面进入有水调试阶段。 平陆运河是西部陆海新通道骨干工程，全长134.2公里，北起广西横州市平塘江口，经钦州市灵山县陆屋镇，沿钦江进入北部湾。 作为新中国成立以来我国第一条国家层面统筹的通江达海的运河工程，平陆运河开辟了西江至北部湾的江海直连通道，成为西南地区运距最短、最经济、最便捷的出海通道。 （记者：陈露缘 梁舜 周华 孙闯） 中国AI都救完场了，“OpenAI才发现闯祸了” 25家美国巨头呼吁不设限，“现在搞得要向中国AI求救” 要和马六甲争高下的陆桥黄了，暴露泰国面临的大问题 “中方推动下，探索重启”，伊朗、巴基斯坦致谢 “进一步切断联系”，拉脱维亚将禁止进口俄罗斯书籍和玩具 特朗普犯愁：苹果想用中企芯片，美光却警告 景德镇手工瓷业遗存，申遗成功！ 果然，有人跳出来了：硅谷CEO怎么帮中国说话 40岁佛得角门将找到新工作，身价翻了十倍 特朗普抢镜：我要竞选第四任期 马科斯会见中国大使：希望“重置”中菲关系 三沙建市后首任市委书记、市长肖杰，被开除党籍",
-      "relatedTitles": [
-        "新中国第一条通江达海的运河工程，有最新进展"
       ]
     },
     {
@@ -2857,6 +2738,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Intel knows it needs to ‘leapfrog’ ARM and AMD, says CEO Lip-Bu Tan",
+      "summary": "Chipzilla changes PC biz name to reflect belief edge and robots could be as valuable one day",
+      "source": "The Register",
+      "url": "https://www.theregister.com/systems/2026/07/24/intel-knows-it-needs-to-leapfrog-arm-and-amd-says-ceo-lip-bu-tan/5277968",
+      "publishedAt": "Fri, 24 Jul 2026 07:17:54 +0200",
+      "date": "2026-07-24",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Intel knows it needs to ‘leapfrog’ ARM and AMD, says CEO Lip-Bu Tan” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 158,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 103
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
       "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
       "source": "Ars Technica",
@@ -2986,7 +2899,7 @@
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI-Hugging Face attack doesn't mean agents are evil – unless you tell them to be",
-      "summary": "Are we human?",
+      "summary": "Attack models gonna attack",
       "source": "The Register",
       "url": "https://www.theregister.com/security/2026/07/24/openai-hugging-face-attack-doesnt-mean-agents-are-evil-unless-you-tell-them-to-be/5277881",
       "publishedAt": "Fri, 24 Jul 2026 01:51:28 +0200",
@@ -3032,38 +2945,6 @@
       "relevanceToChina": "medium",
       "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic's Opus 5 is about token efficiency, not a capability leap” against primary-source evidence.",
       "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Intel knows it needs to ‘leapfrog’ ARM and AMD, says CEO Lip-Bu Tan",
-      "summary": "Are we human?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/systems/2026/07/24/intel-knows-it-needs-to-leapfrog-arm-and-amd-says-ceo-lip-bu-tan/5277968",
-      "publishedAt": "Fri, 24 Jul 2026 07:17:54 +0200",
-      "date": "2026-07-24",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Intel knows it needs to ‘leapfrog’ ARM and AMD, says CEO Lip-Bu Tan” against primary-source evidence.",
-      "priority": 4,
       "score": 144,
       "reporterScore": 144,
       "reporterSignals": {
@@ -3336,8 +3217,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-26｜V3\n生成时间：2026/7/26 08:08:33\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2560｜确认今日 8｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 2 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-26] 中国有潜力成为机器人行业领导者\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “中国有潜力成为机器人行业领导者” against primary-source evidence.\n\n2. [2026-07-26] 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国” against primary-source evidence.\n\n3. [2026-07-26] 运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikahax1157458.shtml\n   报道角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单” against primary-source evidence.\n\n4. [2026-07-26] Debian项目发起议案，讨论是否允许AI大模型参与开发\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Debian项目发起议案，讨论是否允许AI大模型参与开发” against primary-source evidence.\n\n5. [2026-07-26] 中南大学回应费某某学位论文涉嫌抄袭：已成立调查组\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassr0644687.shtml\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “中南大学回应费某某学位论文涉嫌抄袭：已成立调查组” against primary-source evidence.\n\n本次新增线索：\n- 中国有潜力成为机器人行业领导者｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml\n- 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml\n- Debian项目发起议案，讨论是否允许AI大模型参与开发｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml\n- 中南大学回应费某某学位论文涉嫌抄袭：已成立调查组｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassr0644687.shtml\n- 特斯拉 FSD v15 早期版本已上路，Robotaxi 车队率先搭载｜IT之家｜https://www.ithome.com/0/981/618.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX launches new V3 Starlink satellites but suffers another booster failure｜TechCrunch｜https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/\n2. U.S., other nations back open-source AI with 'strong security' at China summit｜CNBC Technology｜https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html\n3. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/\n4. Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html\n5. Anthropic launches Opus 5｜TechCrunch｜https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-26｜V3\n生成时间：2026/7/26 08:08:33\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2560｜确认今日 8｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 2 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-26] 中国有潜力成为机器人行业领导者\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “中国有潜力成为机器人行业领导者” against primary-source evidence.\n\n2. [2026-07-26] 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国” against primary-source evidence.\n\n3. [2026-07-26] 运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikahax1157458.shtml\n   报道角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单” against primary-source evidence.\n\n4. [2026-07-26] Debian项目发起议案，讨论是否允许AI大模型参与开发\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Debian项目发起议案，讨论是否允许AI大模型参与开发” against primary-source evidence.\n\n5. [2026-07-26] 中南大学回应费某某学位论文涉嫌抄袭：已成立调查组\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassr0644687.shtml\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “中南大学回应费某某学位论文涉嫌抄袭：已成立调查组” against primary-source evidence.\n\n本次新增线索：\n- 中国有潜力成为机器人行业领导者｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml\n- 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml\n- Debian项目发起议案，讨论是否允许AI大模型参与开发｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml\n- 中南大学回应费某某学位论文涉嫌抄袭：已成立调查组｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassr0644687.shtml\n- 特斯拉 FSD v15 早期版本已上路，Robotaxi 车队率先搭载｜IT之家｜https://www.ithome.com/0/981/618.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX launches new V3 Starlink satellites but suffers another booster failure｜TechCrunch｜https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/\n2. U.S., other nations back open-source AI with 'strong security' at China summit｜CNBC Technology｜https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html\n3. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/\n4. Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html\n5. Anthropic launches Opus 5｜TechCrunch｜https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-26｜生成时间：2026/7/26 08:08:33｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2560｜确认今日 8｜国际背景 20</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 0 条<br>延续跟踪线索：国内 2 条｜国际 20 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-26] 中国有潜力成为机器人行业领导者</strong>\n      <span>新浪科技｜2026-07-26｜<a href=\"https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “中国有潜力成为机器人行业领导者” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-26] 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国</strong>\n      <span>新浪科技｜2026-07-26｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-26] 运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单</strong>\n      <span>新浪科技｜2026-07-26｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikahax1157458.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：191｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-26] Debian项目发起议案，讨论是否允许AI大模型参与开发</strong>\n      <span>新浪科技｜2026-07-26｜<a href=\"https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Debian项目发起议案，讨论是否允许AI大模型参与开发” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-26] 中南大学回应费某某学位论文涉嫌抄袭：已成立调查组</strong>\n      <span>新浪科技｜2026-07-26｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassr0644687.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：161｜需核验来源</span>\n      <p>报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “中南大学回应费某某学位论文涉嫌抄袭：已成立调查组” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX launches new V3 Starlink satellites but suffers another booster failure</strong>\n      <span>时间：Fri, 24 Jul 2026 23:25:47 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX launches new V3 Starlink satellites but suffers another booster f” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. U.S., other nations back open-source AI with 'strong security' at China summit</strong>\n      <span>时间：Fri, 24 Jul 2026 02:42:21 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “U.S., other nations back open-source AI with 'strong security' at China ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm</strong>\n      <span>时间：Fri, 24 Jul 2026 17:53:01 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/uncanny-valley-podcast/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models</strong>\n      <span>时间：Fri, 24 Jul 2026 17:55:37 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-we” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Anthropic launches Opus 5</strong>\n      <span>时间：Fri, 24 Jul 2026 17:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic launches Opus 5” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/26 08:08:33\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 2 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-26] 中国有潜力成为机器人行业领导者\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “中国有潜力成为机器人行业领导者” against primary-source evidence.\n\n2. [2026-07-26] 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国” against primary-source evidence.\n\n3. [2026-07-26] 运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikahax1157458.shtml\n   角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单” against primary-source evidence.\n\n4. [2026-07-26] Debian项目发起议案，讨论是否允许AI大模型参与开发\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Debian项目发起议案，讨论是否允许AI大模型参与开发” against primary-source evidence.\n\n5. [2026-07-26] 中南大学回应费某某学位论文涉嫌抄袭：已成立调查组\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassr0644687.shtml\n   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “中南大学回应费某某学位论文涉嫌抄袭：已成立调查组” against primary-source evidence.\n\n本次新增线索：\n- 中国有潜力成为机器人行业领导者｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml\n- 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml\n- Debian项目发起议案，讨论是否允许AI大模型参与开发｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml\n- 中南大学回应费某某学位论文涉嫌抄袭：已成立调查组｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassr0644687.shtml\n- 特斯拉 FSD v15 早期版本已上路，Robotaxi 车队率先搭载｜IT之家｜https://www.ithome.com/0/981/618.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. SpaceX launches new V3 Starlink satellites but suffers another booster failure｜TechCrunch｜https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/\n2. U.S., other nations back open-source AI with 'strong security' at China summit｜CNBC Technology｜https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html\n3. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/\n4. Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html\n5. Anthropic launches Opus 5｜TechCrunch｜https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-26｜V3\n生成时间：2026/7/26 08:17:06\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2560｜确认今日 9｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-26] 中国有潜力成为机器人行业领导者\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “中国有潜力成为机器人行业领导者” against primary-source evidence.\n\n2. [2026-07-26] 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国” against primary-source evidence.\n\n3. [2026-07-26] 运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikahax1157458.shtml\n   报道角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单” against primary-source evidence.\n\n4. [00:10] 特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路\n   IT之家｜2026-07-26｜https://www.ithome.com/0/981/621.htm\n   报道角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路” against primary-source evidence.\n\n5. [2026-07-26] Debian项目发起议案，讨论是否允许AI大模型参与开发\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Debian项目发起议案，讨论是否允许AI大模型参与开发” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路｜IT之家｜https://www.ithome.com/0/981/621.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX launches new V3 Starlink satellites but suffers another booster failure｜TechCrunch｜https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/\n2. U.S., other nations back open-source AI with 'strong security' at China summit｜CNBC Technology｜https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html\n3. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/\n4. Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html\n5. Anthropic launches Opus 5｜TechCrunch｜https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-26｜V3\n生成时间：2026/7/26 08:17:06\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2560｜确认今日 9｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-26] 中国有潜力成为机器人行业领导者\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “中国有潜力成为机器人行业领导者” against primary-source evidence.\n\n2. [2026-07-26] 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国” against primary-source evidence.\n\n3. [2026-07-26] 运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikahax1157458.shtml\n   报道角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单” against primary-source evidence.\n\n4. [00:10] 特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路\n   IT之家｜2026-07-26｜https://www.ithome.com/0/981/621.htm\n   报道角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路” against primary-source evidence.\n\n5. [2026-07-26] Debian项目发起议案，讨论是否允许AI大模型参与开发\n   新浪科技｜2026-07-26｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Debian项目发起议案，讨论是否允许AI大模型参与开发” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路｜IT之家｜https://www.ithome.com/0/981/621.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX launches new V3 Starlink satellites but suffers another booster failure｜TechCrunch｜https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/\n2. U.S., other nations back open-source AI with 'strong security' at China summit｜CNBC Technology｜https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html\n3. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/\n4. Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html\n5. Anthropic launches Opus 5｜TechCrunch｜https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-26｜生成时间：2026/7/26 08:17:06｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2560｜确认今日 9｜国际背景 20</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 8 条｜国际 20 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-26] 中国有潜力成为机器人行业领导者</strong>\n      <span>新浪科技｜2026-07-26｜<a href=\"https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “中国有潜力成为机器人行业领导者” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-26] 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国</strong>\n      <span>新浪科技｜2026-07-26｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-26] 运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单</strong>\n      <span>新浪科技｜2026-07-26｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikahax1157458.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：191｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [00:10] 特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路</strong>\n      <span>IT之家｜2026-07-26｜<a href=\"https://www.ithome.com/0/981/621.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：172｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-26] Debian项目发起议案，讨论是否允许AI大模型参与开发</strong>\n      <span>新浪科技｜2026-07-26｜<a href=\"https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Debian项目发起议案，讨论是否允许AI大模型参与开发” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX launches new V3 Starlink satellites but suffers another booster failure</strong>\n      <span>时间：Fri, 24 Jul 2026 23:25:47 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX launches new V3 Starlink satellites but suffers another booster f” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. U.S., other nations back open-source AI with 'strong security' at China summit</strong>\n      <span>时间：Fri, 24 Jul 2026 02:42:21 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “U.S., other nations back open-source AI with 'strong security' at China ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm</strong>\n      <span>时间：Fri, 24 Jul 2026 17:53:01 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/uncanny-valley-podcast/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models</strong>\n      <span>时间：Fri, 24 Jul 2026 17:55:37 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-we” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Anthropic launches Opus 5</strong>\n      <span>时间：Fri, 24 Jul 2026 17:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic launches Opus 5” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/26 08:17:06\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-26] 中国有潜力成为机器人行业领导者\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “中国有潜力成为机器人行业领导者” against primary-source evidence.\n\n2. [2026-07-26] 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国” against primary-source evidence.\n\n3. [2026-07-26] 运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikahax1157458.shtml\n   角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单” against primary-source evidence.\n\n4. [00:10] 特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路\n   来源：IT之家\n   链接：https://www.ithome.com/0/981/621.htm\n   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路” against primary-source evidence.\n\n5. [2026-07-26] Debian项目发起议案，讨论是否允许AI大模型参与开发\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Debian项目发起议案，讨论是否允许AI大模型参与开发” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路｜IT之家｜https://www.ithome.com/0/981/621.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. SpaceX launches new V3 Starlink satellites but suffers another booster failure｜TechCrunch｜https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/\n2. U.S., other nations back open-source AI with 'strong security' at China summit｜CNBC Technology｜https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html\n3. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/\n4. Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html\n5. Anthropic launches Opus 5｜TechCrunch｜https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }

@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/26 08:08:33
+生成时间：2026/7/26 08:17:06
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 0 条
-延续跟踪线索：国内 2 条｜国际 20 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 8 条｜国际 20 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -26,28 +26,24 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikahax1157458.shtml
    角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单” against primary-source evidence.
 
-4. [2026-07-26] Debian项目发起议案，讨论是否允许AI大模型参与开发
+4. [00:10] 特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路
+   来源：IT之家
+   链接：https://www.ithome.com/0/981/621.htm
+   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路” against primary-source evidence.
+
+5. [2026-07-26] Debian项目发起议案，讨论是否允许AI大模型参与开发
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml
    角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Debian项目发起议案，讨论是否允许AI大模型参与开发” against primary-source evidence.
 
-5. [2026-07-26] 中南大学回应费某某学位论文涉嫌抄袭：已成立调查组
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassr0644687.shtml
-   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “中南大学回应费某某学位论文涉嫌抄袭：已成立调查组” against primary-source evidence.
-
 本次新增线索：
-- 中国有潜力成为机器人行业领导者｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml
-- 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml
-- Debian项目发起议案，讨论是否允许AI大模型参与开发｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml
-- 中南大学回应费某某学位论文涉嫌抄袭：已成立调查组｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassr0644687.shtml
-- 特斯拉 FSD v15 早期版本已上路，Robotaxi 车队率先搭载｜IT之家｜https://www.ithome.com/0/981/618.htm
+- 特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路｜IT之家｜https://www.ithome.com/0/981/621.htm
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（1 条，1 个来源）
 - 芯片/半导体：
 - 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）
 - 太空与低空经济：
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
