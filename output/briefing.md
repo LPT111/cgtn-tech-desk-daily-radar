@@ -3,58 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/26 07:45:42
+生成时间：2026/7/26 08:08:33
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 6 条
-延续跟踪线索：国内 0 条｜国际 17 条
+新增核心线索：国内 6 条｜国际 0 条
+延续跟踪线索：国内 2 条｜国际 20 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-26] 中国有潜力成为机器人行业领导者——对话赵同阳
+1. [2026-07-26] 中国有潜力成为机器人行业领导者
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-26/doc-iniizzuv4071709.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “中国有潜力成为机器人行业领导者——对话赵同阳” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “中国有潜力成为机器人行业领导者” against primary-source evidence.
 
-2. [2026-07-26] 运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单
+2. [2026-07-26] 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国” against primary-source evidence.
+
+3. [2026-07-26] 运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikahax1157458.shtml
    角度：Build an accountability-focused policy story around technology competition, dialogue and supply-chain consequences, timelines, enforcement and affected stakeholders. For this item, test the claim behind “运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单” against primary-source evidence.
 
-3. [2026-07-26] Debian 项目发起议案，讨论是否允许 AI 大模型参与开发
+4. [2026-07-26] Debian项目发起议案，讨论是否允许AI大模型参与开发
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-07-26/doc-inikasst1034138.shtml
-   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Debian 项目发起议案，讨论是否允许 AI 大模型参与开发” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml
+   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Debian项目发起议案，讨论是否允许AI大模型参与开发” against primary-source evidence.
 
-4. [23:39] 为引流编造暴雨致死谣言、AI 恶意嫁接冒充本地灾情，多名造谣者被警方依法查处
-   来源：IT之家
-   链接：https://www.ithome.com/0/981/614.htm
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “为引流编造暴雨致死谣言、AI 恶意嫁接冒充本地灾情，多名造谣者被警方依法查处” against primary-source evidence.
+5. [2026-07-26] 中南大学回应费某某学位论文涉嫌抄袭：已成立调查组
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassr0644687.shtml
+   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “中南大学回应费某某学位论文涉嫌抄袭：已成立调查组” against primary-source evidence.
 
 本次新增线索：
-- 中国有潜力成为机器人行业领导者——对话赵同阳｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-iniizzuv4071709.shtml
-- 运营商财经网康钊：中国将多家德国军工巨头列入出口管制名单｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikahax1157458.shtml
-- Debian 项目发起议案，讨论是否允许 AI 大模型参与开发｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-26/doc-inikasst1034138.shtml
-- 为引流编造暴雨致死谣言、AI 恶意嫁接冒充本地灾情，多名造谣者被警方依法查处｜IT之家｜https://www.ithome.com/0/981/614.htm
-- Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html
-- SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/
+- 中国有潜力成为机器人行业领导者｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassr0630614.shtml
+- 日本技术人员发布宇树G1拆机视频后认输：短期内赶不上中国｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassk8768106.shtml
+- Debian项目发起议案，讨论是否允许AI大模型参与开发｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-07-26/doc-inikassp3853816.shtml
+- 中南大学回应费某某学位论文涉嫌抄袭：已成立调查组｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikassr0644687.shtml
+- 特斯拉 FSD v15 早期版本已上路，Robotaxi 车队率先搭载｜IT之家｜https://www.ithome.com/0/981/618.htm
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（1 条，1 个来源）
 - 芯片/半导体：
-- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：
+- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
 - 太空与低空经济：
-- 科学前沿：
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html
-2. SpaceX launches new V3 Starlink satellites but suffers another booster failure｜TechCrunch｜https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/
-3. U.S., other nations back open-source AI with 'strong security' at China summit｜CNBC Technology｜https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html
-4. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/
-5. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/
+1. SpaceX launches new V3 Starlink satellites but suffers another booster failure｜TechCrunch｜https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/
+2. U.S., other nations back open-source AI with 'strong security' at China summit｜CNBC Technology｜https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html
+3. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/
+4. Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html
+5. Anthropic launches Opus 5｜TechCrunch｜https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
