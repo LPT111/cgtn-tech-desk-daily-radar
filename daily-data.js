@@ -1,68 +1,42 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-26T23:45:44.966Z",
+  "generatedAt": "2026-07-27T00:09:02.177Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-27",
   "changeSummary": {
-    "domesticNew": 13,
-    "globalNew": 4,
-    "domesticContinued": 0,
-    "globalContinued": 4,
+    "domesticNew": 4,
+    "globalNew": 0,
+    "domesticContinued": 13,
+    "globalContinued": 8,
     "topNewDomestic": [
       {
-        "title": "马斯克说美国挡不住中国AI模型；日方拆解宇树G1",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L2QV5VP70512B07B.html"
-      },
-      {
-        "title": "“中国的螺丝拧着特别顺滑”，日本技术人员拆解",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L2Q9938A0512B07B.html"
-      },
-      {
-        "title": "英伟达以10亿美元投资获得Naver4.5%股份",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L2R16BNN0534A4SC.html"
-      },
-      {
-        "title": "从大熊猫到机器人，APEC嘉宾实地感受成都“软硬",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L2Q8NRGQ0512B07B.html"
-      },
-      {
-        "title": "科研评价改革，需警惕不正当激励",
+        "title": "OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0707590.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0766660.shtml"
+      },
+      {
+        "title": "《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-07/27/content_553932.html"
+      },
+      {
+        "title": "李开复向彭博社摊牌：明年盈利，2027港交所见",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrk8484984.shtml"
+      },
+      {
+        "title": "APEC数字周走进成都 中国西部释放数字经济合作新机遇",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-07/27/content_553941.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
-        "source": "AP Technology",
-        "url": "https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce"
-      },
-      {
-        "title": "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup",
-        "source": "AP Technology",
-        "url": "https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b"
-      },
-      {
-        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
-      },
-      {
-        "title": "Anthropic debuts Opus 5 at half the price of its Fable sibling",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/07/25/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/5278630"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 887,
+    "domesticRejected": 883,
     "globalRejected": 892,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -77,13 +51,8 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -106,11 +75,6 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "failures": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -186,8 +150,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -386,11 +349,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "itemsSeen": 1327,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 322,
-  "itemsAfterDedupe": 255,
-  "todayItemsSeen": 13,
+  "itemsAfterRelevantFilter": 324,
+  "itemsAfterDedupe": 254,
+  "todayItemsSeen": 17,
   "suspectedItemsSeen": 17,
-  "skippedNonToday": 225,
+  "skippedNonToday": 221,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -445,8 +408,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -797,11 +759,6 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -847,13 +804,15 @@ window.CHENCHEN_DAILY_DATA = {
   "topics": [
     {
       "topic": "AI 应用与智能体",
-      "count": 2,
+      "count": 4,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
         "网易科技"
       ],
       "items": [
+        "OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患",
+        "李开复向彭博社摊牌：明年盈利，2027港交所见",
         "Google：2026年AI代理趋势报告",
         "英伟达正与OpenAI洽谈，拟为数据中心项目提供25"
       ]
@@ -885,6 +844,17 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "AI动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "科技日报"
+      ],
+      "items": [
+        "《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布"
+      ]
+    },
+    {
       "topic": "芯片动态",
       "count": 1,
       "sourceCount": 1,
@@ -904,6 +874,17 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "从大熊猫到机器人，APEC嘉宾实地感受成都“软硬"
+      ]
+    },
+    {
+      "topic": "数字基础设施与数据要素",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "科技日报"
+      ],
+      "items": [
+        "APEC数字周走进成都 中国西部释放数字经济合作新机遇"
       ]
     },
     {
@@ -941,6 +922,142 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患",
+      "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0766660.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0766660.shtml"
+      ],
+      "publishedAt": "2026-07-27",
+      "date": "2026-07-27",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 192,
+      "reporterScore": 214,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 138
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技7月27日消息，此前OpenAI发布调查报告，基于GPT-5.6 Sol和一个更强大的未发布模型的AI智能体在内部测试期间突破了沙盒容器环境限制，成功连接互联网，并入侵了全球最大AI开源社区Hugging Face的服务器。需要注意的...",
+      "relatedTitles": [
+        "OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布 2026-07-27 07:37:39 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-07/27/content_553932.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-07/27/content_553932.html"
+      ],
+      "publishedAt": "2026-07-27",
+      "date": "2026-07-27",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 181,
+      "reporterScore": 189,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布 2026-07-27 07:37:39 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "马斯克说美国挡不住中国AI模型；日方拆解宇树G1",
@@ -1007,7 +1124,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "马斯克说美国挡不住中国AI模型；日方拆解宇树G1"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1075,7 +1192,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "“中国的螺丝拧着特别顺滑”，日本技术人员拆解"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1142,6 +1259,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "英伟达以10亿美元投资获得Naver4.5%股份,工厂,英伟达,naver",
       "relatedTitles": [
         "英伟达以10亿美元投资获得Naver4.5%股份"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "李开复向彭博社摊牌：明年盈利，2027港交所见",
+      "summary": "来源：36氪从中国OpenAI到中国Palantir，彭博社专访李开复的“换道三年”。今年WAIC大会期间，彭博社对李开复做了一场视频专访。信息量很大，核心信号只有一个：零一万物要上市了，要做“中国第一家真正赚钱的AI公司”。也就是说，在A...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrk8484984.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrk8484984.shtml"
+      ],
+      "publishedAt": "2026-07-27",
+      "date": "2026-07-27",
+      "category": "AI",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “李开复向彭博社摊牌：明年盈利，2027港交所见” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "来源：36氪从中国OpenAI到中国Palantir，彭博社专访李开复的“换道三年”。今年WAIC大会期间，彭博社对李开复做了一场视频专访。信息量很大，核心信号只有一个：零一万物要上市了，要做“中国第一家真正赚钱的AI公司”。也就是说，在A...",
+      "relatedTitles": [
+        "李开复向彭博社摊牌：明年盈利，2027港交所见"
       ],
       "isNewSinceLastRun": true
     },
@@ -1211,7 +1396,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "从大熊猫到机器人，APEC嘉宾实地感受成都“软硬"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1279,7 +1464,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "科研评价改革，需警惕不正当激励"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1347,7 +1532,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中国工程院召开学习陈立泉、贲德院士科学家精神座谈会"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1415,7 +1600,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Google：2026年AI代理趋势报告"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1482,6 +1667,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "英伟达正与OpenAI洽谈，拟为数据中心项目提供2500亿美元融资担保,财务,英伟达,融资担保,openai",
       "relatedTitles": [
         "英伟达正与OpenAI洽谈，拟为数据中心项目提供25"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "APEC数字周走进成都 中国西部释放数字经济合作新机遇",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 APEC数字周走进成都 中国西部释放数字经济合作新机遇 2026-07-27 07:59:34 来源: 新华网 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-07/27/content_553941.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-07/27/content_553941.html"
+      ],
+      "publishedAt": "2026-07-27",
+      "date": "2026-07-27",
+      "category": "数字经济",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 70,
+      "keywords": "digital infrastructure, data flows and the platform economy",
+      "priority": 4,
+      "score": 136,
+      "reporterScore": 136,
+      "scoreBreakdown": {
+        "hardTech": 70,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 70,
+        "reporterScore": 85
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Assess the practical value of digital infrastructure, data flows and the platform economy: users, data flows, productivity, market structure and regulatory trade-offs. For this item, test the claim behind “APEC数字周走进成都 中国西部释放数字经济合作新机遇” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字基础设施与数据要素",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 APEC数字周走进成都 中国西部释放数字经济合作新机遇 2026-07-27 07:59:34 来源: 新华网 点击数： 热点",
+      "relatedTitles": [
+        "APEC数字周走进成都 中国西部释放数字经济合作新机遇"
       ],
       "isNewSinceLastRun": true
     },
@@ -1551,7 +1804,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "10家国内车企干不过1家卖电池的！宁德宣布扩产1.5倍 日赚2.4亿"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1619,7 +1872,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "深耕基础研究，为大国重器淬炼“钢筋铁骨”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1687,7 +1940,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "他，在盐滩放歌在高原寻锂"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1755,7 +2008,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "乘客开门撞倒他人 电动车违规载人担责吗？法院判了"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1823,7 +2076,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "曝华为畅连 App 无网「实时对讲」功能将在 HarmonyOS 7.0 后续版本适配部分机型"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2294,6 +2547,76 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "►文观察者网心智观察所7月15日，韩国首尔中央地方检察厅公平交易调查部突击搜查了中国澜起科技、日本瑞萨电子以及美国Rambus三家公司在韩国的办公室，调查三家公司是否涉嫌在内存接口芯片市场存在价格串通行为。为什么不是CPU、GPU或DRAM，而是这颗过去很少进入公众视野的接口芯片。答案在于AI产业过去两年的财富流向",
       "relatedTitles": [
         "澜起科技被韩国检方调查：当AI的钱开始流向亚洲硬件，中国公司站到了风暴眼"
+      ]
+    },
+    {
+      "id": "aHR0cDovL3d3dy5uZXdz",
+      "title": "OpenAI模型失控，中国开源模型“救场”",
+      "summary": "随着中国开源大模型持续冲击美国人工智能（AI）产业，美国政府准备再次动手打压中国AI。据美国彭博社报道，当地",
+      "source": "新华网-科技",
+      "sources": [
+        "新华网-科技",
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "http://www.news.cn/tech/20260724/36a9840f66be44e79e0ac89aa8765951/c.html",
+      "sourceUrls": [
+        "http://www.news.cn/tech/20260724/36a9840f66be44e79e0ac89aa8765951/c.html",
+        "https://www.guancha.cn/internation/2026_07_21_824596.shtml"
+      ],
+      "publishedAt": "2026-07-24",
+      "date": "2026-07-24",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 148,
+      "reporterScore": 156,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI模型失控，中国开源模型“救场”” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "OpenAI模型失控，中国开源模型“救场”-\" 第一问：AI大模型为什么会自主攻击网络。\"",
+      "relatedTitles": [
+        "OpenAI模型失控，中国开源模型“救场”",
+        "怕了？美财长扬言：严查中国AI"
       ]
     },
     {
@@ -2898,79 +3221,6 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI视界，不止于想象"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "热点回应丨OpenAI模型失控，中国开源模型“救场”",
-      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 热点回应丨OpenAI模型失控，中国开源模型“救场” 2026-07-24 07:40:23 来源: 科技日报 点击数： 热点",
-      "source": "科技日报",
-      "sources": [
-        "新华网-科技",
-        "观察者网-产业科技",
-        "科技日报"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.stdaily.com/web/gdxw/2026-07/24/content_552634.html",
-      "sourceUrls": [
-        "http://www.news.cn/tech/20260724/36a9840f66be44e79e0ac89aa8765951/c.html",
-        "https://www.guancha.cn/internation/2026_07_21_824596.shtml",
-        "https://www.stdaily.com/web/gdxw/2026-07/24/content_552634.html"
-      ],
-      "publishedAt": "2026-07-24",
-      "date": "2026-07-24",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 3,
-      "score": 83,
-      "reporterScore": 83,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -60,
-        "sourceAuthority": 18,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “热点回应丨OpenAI模型失控，中国开源模型“救场”” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 热点回应丨OpenAI模型失控，中国开源模型“救场” 2026-07-24 07:40:23 来源: 科技日报 点击数： 热点",
-      "relatedTitles": [
-        "OpenAI模型失控，中国开源模型“救场”",
-        "怕了？美财长扬言：严查中国AI",
-        "热点回应丨OpenAI模型失控，中国开源模型“救场”"
-      ]
     }
   ],
   "globalLeads": [
@@ -3004,7 +3254,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3040,6 +3290,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+      "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+      "publishedAt": "Sat, 25 Jul 2026 17:47:22 +0000",
+      "date": "2026-07-26",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX eyes tower catch for next Starship after auspicious end to 13th f” against primary-source evidence.",
+      "priority": 5,
+      "score": 147,
+      "reporterScore": 155,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 100
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup",
       "summary": "In 1984, the Skynet of \"The Terminator\" films were science fiction. But it looks more and more realistic in 2026 after OpenAI agent broke out of a test corral, traveled the interne",
       "source": "AP Technology",
@@ -3068,7 +3350,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3100,7 +3382,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3130,38 +3412,6 @@ window.CHENCHEN_DAILY_DATA = {
         "softNews": false,
         "hardTechWeight": 95,
         "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-      "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-      "publishedAt": "Sat, 25 Jul 2026 17:47:22 +0000",
-      "date": "2026-07-26",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX eyes tower catch for next Starship after auspicious end to 13th f” against primary-source evidence.",
-      "priority": 5,
-      "score": 147,
-      "reporterScore": 155,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 100
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
@@ -3231,8 +3481,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-27｜V3\n生成时间：2026/7/27 07:45:44\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2545｜确认今日 13｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 4 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-27] 马斯克说美国挡不住中国AI模型；日方拆解宇树G1\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2QV5VP70512B07B.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克说美国挡不住中国AI模型；日方拆解宇树G1” against primary-source evidence.\n\n2. [2026-07-27] “中国的螺丝拧着特别顺滑”，日本技术人员拆解\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2Q9938A0512B07B.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind ““中国的螺丝拧着特别顺滑”，日本技术人员拆解” against primary-source evidence.\n\n3. [2026-07-27] 英伟达以10亿美元投资获得Naver4.5%股份\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2R16BNN0534A4SC.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达以10亿美元投资获得Naver4.5%股份” against primary-source evidence.\n\n4. [2026-07-27] 从大熊猫到机器人，APEC嘉宾实地感受成都“软硬\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2Q8NRGQ0512B07B.html\n   报道角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “从大熊猫到机器人，APEC嘉宾实地感受成都“软硬” against primary-source evidence.\n\n5. [2026-07-27] 科研评价改革，需警惕不正当激励\n   新浪科技｜2026-07-27｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0707590.shtml\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “科研评价改革，需警惕不正当激励” against primary-source evidence.\n\n本次新增线索：\n- 马斯克说美国挡不住中国AI模型；日方拆解宇树G1｜网易科技｜https://www.163.com/dy/article/L2QV5VP70512B07B.html\n- “中国的螺丝拧着特别顺滑”，日本技术人员拆解｜网易科技｜https://www.163.com/dy/article/L2Q9938A0512B07B.html\n- 英伟达以10亿美元投资获得Naver4.5%股份｜网易科技｜https://www.163.com/dy/article/L2R16BNN0534A4SC.html\n- 从大熊猫到机器人，APEC嘉宾实地感受成都“软硬｜网易科技｜https://www.163.com/dy/article/L2Q8NRGQ0512B07B.html\n- 科研评价改革，需警惕不正当激励｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0707590.shtml\n- Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US｜AP Technology｜https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（4 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US｜AP Technology｜https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce\n2. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/\n3. For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup｜AP Technology｜https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b\n4. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack｜TechCrunch｜https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/\n5. Anthropic debuts Opus 5 at half the price of its Fable sibling｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/25/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/5278630",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-27｜V3\n生成时间：2026/7/27 07:45:44\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2545｜确认今日 13｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 4 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-27] 马斯克说美国挡不住中国AI模型；日方拆解宇树G1\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2QV5VP70512B07B.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克说美国挡不住中国AI模型；日方拆解宇树G1” against primary-source evidence.\n\n2. [2026-07-27] “中国的螺丝拧着特别顺滑”，日本技术人员拆解\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2Q9938A0512B07B.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind ““中国的螺丝拧着特别顺滑”，日本技术人员拆解” against primary-source evidence.\n\n3. [2026-07-27] 英伟达以10亿美元投资获得Naver4.5%股份\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2R16BNN0534A4SC.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达以10亿美元投资获得Naver4.5%股份” against primary-source evidence.\n\n4. [2026-07-27] 从大熊猫到机器人，APEC嘉宾实地感受成都“软硬\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2Q8NRGQ0512B07B.html\n   报道角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “从大熊猫到机器人，APEC嘉宾实地感受成都“软硬” against primary-source evidence.\n\n5. [2026-07-27] 科研评价改革，需警惕不正当激励\n   新浪科技｜2026-07-27｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0707590.shtml\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “科研评价改革，需警惕不正当激励” against primary-source evidence.\n\n本次新增线索：\n- 马斯克说美国挡不住中国AI模型；日方拆解宇树G1｜网易科技｜https://www.163.com/dy/article/L2QV5VP70512B07B.html\n- “中国的螺丝拧着特别顺滑”，日本技术人员拆解｜网易科技｜https://www.163.com/dy/article/L2Q9938A0512B07B.html\n- 英伟达以10亿美元投资获得Naver4.5%股份｜网易科技｜https://www.163.com/dy/article/L2R16BNN0534A4SC.html\n- 从大熊猫到机器人，APEC嘉宾实地感受成都“软硬｜网易科技｜https://www.163.com/dy/article/L2Q8NRGQ0512B07B.html\n- 科研评价改革，需警惕不正当激励｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0707590.shtml\n- Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US｜AP Technology｜https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（4 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US｜AP Technology｜https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce\n2. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/\n3. For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup｜AP Technology｜https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b\n4. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack｜TechCrunch｜https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/\n5. Anthropic debuts Opus 5 at half the price of its Fable sibling｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/25/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/5278630",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-27｜生成时间：2026/7/27 07:45:44｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2545｜确认今日 13｜国际背景 8</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 13 条｜国际 4 条<br>延续跟踪线索：国内 0 条｜国际 4 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-27] 马斯克说美国挡不住中国AI模型；日方拆解宇树G1</strong>\n      <span>网易科技｜2026-07-27｜<a href=\"https://www.163.com/dy/article/L2QV5VP70512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克说美国挡不住中国AI模型；日方拆解宇树G1” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-27] “中国的螺丝拧着特别顺滑”，日本技术人员拆解</strong>\n      <span>网易科技｜2026-07-27｜<a href=\"https://www.163.com/dy/article/L2Q9938A0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind ““中国的螺丝拧着特别顺滑”，日本技术人员拆解” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-27] 英伟达以10亿美元投资获得Naver4.5%股份</strong>\n      <span>网易科技｜2026-07-27｜<a href=\"https://www.163.com/dy/article/L2R16BNN0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：169｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达以10亿美元投资获得Naver4.5%股份” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-27] 从大熊猫到机器人，APEC嘉宾实地感受成都“软硬</strong>\n      <span>网易科技｜2026-07-27｜<a href=\"https://www.163.com/dy/article/L2Q8NRGQ0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：164｜需核验来源</span>\n      <p>报道角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “从大熊猫到机器人，APEC嘉宾实地感受成都“软硬” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-27] 科研评价改革，需警惕不正当激励</strong>\n      <span>新浪科技｜2026-07-27｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0707590.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：162｜需核验来源</span>\n      <p>报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “科研评价改革，需警惕不正当激励” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US</strong>\n      <span>时间：2026-07-26｜来源：AP Technology｜<a href=\"https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Cheaper, open and intelligent: Chinese AI models gain ground, as they ma” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm</strong>\n      <span>时间：Fri, 24 Jul 2026 17:53:01 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/uncanny-valley-podcast/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup</strong>\n      <span>时间：2026-07-26｜来源：AP Technology｜<a href=\"https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “For some, so-called 'Skynet Day' came too close to sci-fi after a rogue ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack</strong>\n      <span>时间：Sun, 26 Jul 2026 16:33:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Anthropic debuts Opus 5 at half the price of its Fable sibling</strong>\n      <span>时间：Sat, 25 Jul 2026 01:03:06 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/07/25/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/5278630\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic debuts Opus 5 at half the price of its Fable sibling” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/27 07:45:44\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 4 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-27] 马斯克说美国挡不住中国AI模型；日方拆解宇树G1\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2QV5VP70512B07B.html\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克说美国挡不住中国AI模型；日方拆解宇树G1” against primary-source evidence.\n\n2. [2026-07-27] “中国的螺丝拧着特别顺滑”，日本技术人员拆解\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2Q9938A0512B07B.html\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind ““中国的螺丝拧着特别顺滑”，日本技术人员拆解” against primary-source evidence.\n\n3. [2026-07-27] 英伟达以10亿美元投资获得Naver4.5%股份\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2R16BNN0534A4SC.html\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达以10亿美元投资获得Naver4.5%股份” against primary-source evidence.\n\n4. [2026-07-27] 从大熊猫到机器人，APEC嘉宾实地感受成都“软硬\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2Q8NRGQ0512B07B.html\n   角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “从大熊猫到机器人，APEC嘉宾实地感受成都“软硬” against primary-source evidence.\n\n5. [2026-07-27] 科研评价改革，需警惕不正当激励\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0707590.shtml\n   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “科研评价改革，需警惕不正当激励” against primary-source evidence.\n\n本次新增线索：\n- 马斯克说美国挡不住中国AI模型；日方拆解宇树G1｜网易科技｜https://www.163.com/dy/article/L2QV5VP70512B07B.html\n- “中国的螺丝拧着特别顺滑”，日本技术人员拆解｜网易科技｜https://www.163.com/dy/article/L2Q9938A0512B07B.html\n- 英伟达以10亿美元投资获得Naver4.5%股份｜网易科技｜https://www.163.com/dy/article/L2R16BNN0534A4SC.html\n- 从大熊猫到机器人，APEC嘉宾实地感受成都“软硬｜网易科技｜https://www.163.com/dy/article/L2Q8NRGQ0512B07B.html\n- 科研评价改革，需警惕不正当激励｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0707590.shtml\n- Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US｜AP Technology｜https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（4 条，1 个来源）\n\n国际科技背景：\n1. Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US｜AP Technology｜https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce\n2. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/\n3. For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup｜AP Technology｜https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b\n4. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack｜TechCrunch｜https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/\n5. Anthropic debuts Opus 5 at half the price of its Fable sibling｜The Register｜https://www.theregister.com/ai-and-ml/2026/07/25/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/5278630\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-27｜V3\n生成时间：2026/7/27 08:09:02\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2545｜确认今日 17｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 13 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-27] OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患\n   新浪科技｜2026-07-27｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0766660.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患” against primary-source evidence.\n\n2. [2026-07-27] 《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布\n   科技日报｜2026-07-27｜https://www.stdaily.com/web/gdxw/2026-07/27/content_553932.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布” against primary-source evidence.\n\n3. [2026-07-27] 马斯克说美国挡不住中国AI模型；日方拆解宇树G1\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2QV5VP70512B07B.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克说美国挡不住中国AI模型；日方拆解宇树G1” against primary-source evidence.\n\n4. [2026-07-27] “中国的螺丝拧着特别顺滑”，日本技术人员拆解\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2Q9938A0512B07B.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind ““中国的螺丝拧着特别顺滑”，日本技术人员拆解” against primary-source evidence.\n\n5. [2026-07-27] 英伟达以10亿美元投资获得Naver4.5%股份\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2R16BNN0534A4SC.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达以10亿美元投资获得Naver4.5%股份” against primary-source evidence.\n\n本次新增线索：\n- OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0766660.shtml\n- 《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/27/content_553932.html\n- 李开复向彭博社摊牌：明年盈利，2027港交所见｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrk8484984.shtml\n- APEC数字周走进成都 中国西部释放数字经济合作新机遇｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/27/content_553941.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（4 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US｜AP Technology｜https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce\n2. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/\n3. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/\n4. For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup｜AP Technology｜https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b\n5. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack｜TechCrunch｜https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-27｜V3\n生成时间：2026/7/27 08:09:02\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2545｜确认今日 17｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 13 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-27] OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患\n   新浪科技｜2026-07-27｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0766660.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患” against primary-source evidence.\n\n2. [2026-07-27] 《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布\n   科技日报｜2026-07-27｜https://www.stdaily.com/web/gdxw/2026-07/27/content_553932.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布” against primary-source evidence.\n\n3. [2026-07-27] 马斯克说美国挡不住中国AI模型；日方拆解宇树G1\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2QV5VP70512B07B.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克说美国挡不住中国AI模型；日方拆解宇树G1” against primary-source evidence.\n\n4. [2026-07-27] “中国的螺丝拧着特别顺滑”，日本技术人员拆解\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2Q9938A0512B07B.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind ““中国的螺丝拧着特别顺滑”，日本技术人员拆解” against primary-source evidence.\n\n5. [2026-07-27] 英伟达以10亿美元投资获得Naver4.5%股份\n   网易科技｜2026-07-27｜https://www.163.com/dy/article/L2R16BNN0534A4SC.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达以10亿美元投资获得Naver4.5%股份” against primary-source evidence.\n\n本次新增线索：\n- OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0766660.shtml\n- 《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/27/content_553932.html\n- 李开复向彭博社摊牌：明年盈利，2027港交所见｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrk8484984.shtml\n- APEC数字周走进成都 中国西部释放数字经济合作新机遇｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/27/content_553941.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（4 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US｜AP Technology｜https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce\n2. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/\n3. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/\n4. For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup｜AP Technology｜https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b\n5. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack｜TechCrunch｜https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-27｜生成时间：2026/7/27 08:09:02｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2545｜确认今日 17｜国际背景 8</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 13 条｜国际 8 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-27] OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患</strong>\n      <span>新浪科技｜2026-07-27｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0766660.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-27] 《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布</strong>\n      <span>科技日报｜2026-07-27｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/27/content_553932.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：189｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-27] 马斯克说美国挡不住中国AI模型；日方拆解宇树G1</strong>\n      <span>网易科技｜2026-07-27｜<a href=\"https://www.163.com/dy/article/L2QV5VP70512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克说美国挡不住中国AI模型；日方拆解宇树G1” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-27] “中国的螺丝拧着特别顺滑”，日本技术人员拆解</strong>\n      <span>网易科技｜2026-07-27｜<a href=\"https://www.163.com/dy/article/L2Q9938A0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind ““中国的螺丝拧着特别顺滑”，日本技术人员拆解” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-27] 英伟达以10亿美元投资获得Naver4.5%股份</strong>\n      <span>网易科技｜2026-07-27｜<a href=\"https://www.163.com/dy/article/L2R16BNN0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：169｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达以10亿美元投资获得Naver4.5%股份” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US</strong>\n      <span>时间：2026-07-26｜来源：AP Technology｜<a href=\"https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Cheaper, open and intelligent: Chinese AI models gain ground, as they ma” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm</strong>\n      <span>时间：Fri, 24 Jul 2026 17:53:01 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/uncanny-valley-podcast/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight</strong>\n      <span>时间：Sat, 25 Jul 2026 17:47:22 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX eyes tower catch for next Starship after auspicious end to 13th f” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup</strong>\n      <span>时间：2026-07-26｜来源：AP Technology｜<a href=\"https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “For some, so-called 'Skynet Day' came too close to sci-fi after a rogue ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack</strong>\n      <span>时间：Sun, 26 Jul 2026 16:33:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/27 08:09:02\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 13 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-27] OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0766660.shtml\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患” against primary-source evidence.\n\n2. [2026-07-27] 《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/27/content_553932.html\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布” against primary-source evidence.\n\n3. [2026-07-27] 马斯克说美国挡不住中国AI模型；日方拆解宇树G1\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2QV5VP70512B07B.html\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克说美国挡不住中国AI模型；日方拆解宇树G1” against primary-source evidence.\n\n4. [2026-07-27] “中国的螺丝拧着特别顺滑”，日本技术人员拆解\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2Q9938A0512B07B.html\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind ““中国的螺丝拧着特别顺滑”，日本技术人员拆解” against primary-source evidence.\n\n5. [2026-07-27] 英伟达以10亿美元投资获得Naver4.5%股份\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2R16BNN0534A4SC.html\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达以10亿美元投资获得Naver4.5%股份” against primary-source evidence.\n\n本次新增线索：\n- OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0766660.shtml\n- 《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/27/content_553932.html\n- 李开复向彭博社摊牌：明年盈利，2027港交所见｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrk8484984.shtml\n- APEC数字周走进成都 中国西部释放数字经济合作新机遇｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/27/content_553941.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（4 条，1 个来源）\n\n国际科技背景：\n1. Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US｜AP Technology｜https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce\n2. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/\n3. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/\n4. For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup｜AP Technology｜https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b\n5. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack｜TechCrunch｜https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
