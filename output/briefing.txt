@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/27 18:10:59
+生成时间：2026/7/28 07:50:03
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 12 条｜国际 2 条
-延续跟踪线索：国内 55 条｜国际 8 条
+新增核心线索：国内 17 条｜国际 12 条
+延续跟踪线索：国内 0 条｜国际 1 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-27] 显示行业唯一！BOE（京东方）AI工厂入选WAIC《人工智能高价值场景应用案例集》
+1. [2026-07-28] Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikfxaz3052880.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “显示行业唯一！BOE（京东方）AI工厂入选WAIC《人工智能高价值场景应用案例集》” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml
+   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角” against primary-source evidence.
 
-2. [2026-07-27] 兰州化物所党委专题学习习近平总书记重要讲话精神
-   来源：中国科学院
-   链接：https://www.cas.cn/djcx/gz/202607/t20260727_5116418.shtml
-   角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “兰州化物所党委专题学习习近平总书记重要讲话精神” against primary-source evidence.
-
-3. [2026-07-27] 让人工智能成为造福人类的国际公共产品
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-07/27/content_38908866.htm
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “让人工智能成为造福人类的国际公共产品” against primary-source evidence.
-
-4. [2026-07-27] AI时代如何培养下一代？猿编程开启中国AI教育新范式
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/2026-07-27/doc-inikfxca9821687.shtml
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI时代如何培养下一代？猿编程开启中国AI教育新范式” against primary-source evidence.
-
-5. [2026-07-27] 中国推动人工智能向上向善 造福人类
+2. [2026-07-28] 中国大模型周调用量是美国14倍；三星海力士将与
    来源：网易科技
-   链接：https://www.163.com/dy/article/L2QUE1QM0514R9L4.html
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “中国推动人工智能向上向善 造福人类” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L2TI17B40512B07B.html
+   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国大模型周调用量是美国14倍；三星海力士将与” against primary-source evidence.
+
+3. [2026-07-28] 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L2SR8IEH05198CJN.html
+   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持” against primary-source evidence.
+
+4. [2026-07-28] 特朗普：将问普京俄罗斯是否向伊朗提供了卫星图
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2877984.shtml
+   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “特朗普：将问普京俄罗斯是否向伊朗提供了卫星图” against primary-source evidence.
+
+5. [2026-07-28] 亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-07-28/doc-inikiewh8116091.shtml
+   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络” against primary-source evidence.
 
 本次新增线索：
-- 显示行业唯一！BOE（京东方）AI工厂入选WAIC《人工智能高价值场景应用案例集》｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikfxaz3052880.shtml
-- 兰州化物所党委专题学习习近平总书记重要讲话精神｜中国科学院｜https://www.cas.cn/djcx/gz/202607/t20260727_5116418.shtml
-- AI时代如何培养下一代？猿编程开启中国AI教育新范式｜新浪科技｜https://finance.sina.com.cn/tech/2026-07-27/doc-inikfxca9821687.shtml
-- 美团方面否认 LongCat 模型负责人裴鹏离职传言｜IT之家｜https://www.ithome.com/0/982/142.htm
-- 电工所召开2026年第7次党委理论学习中心组会议｜中国科学院｜https://www.cas.cn/djcx/gz/202607/t20260727_5116416.shtml
-- SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/
+- Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角｜新浪科技｜https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml
+- 中国大模型周调用量是美国14倍；三星海力士将与｜网易科技｜https://www.163.com/dy/article/L2TI17B40512B07B.html
+- 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持｜网易科技｜https://www.163.com/dy/article/L2SR8IEH05198CJN.html
+- 特朗普：将问普京俄罗斯是否向伊朗提供了卫星图｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2877984.shtml
+- 亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-28/doc-inikiewh8116091.shtml
+- Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html
 
 今日热点方向：
-- AI 应用：AI动态（16 条，6 个来源）
-- 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：机器人动态（4 条，3 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，2 个来源）
-- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- AI 应用：AI动态（4 条，2 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
+- 太空与低空经济：太空与低空动态（3 条，2 个来源）
+- 科学前沿：
 
 国际科技背景：
-1. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/
-2. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/
-3. Europe got its own TBPN-style live show, and everyone’s angling for a guest spot｜TechCrunch｜https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/
-4. Team uses AlphaFold AI to redesign gene-editing proteins to make them safer｜Ars Technica｜https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/
-5. For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup｜AP Technology｜https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b
+1. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html
+2. Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX｜TechCrunch｜https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/
+3. Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers｜Ars Technica｜https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/
+4. OpenAI’s Hugging Face breach has reignited the debate over alignment and control｜TechCrunch｜https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/
+5. Threads users can now chat with Meta AI in their DMs｜TechCrunch｜https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
