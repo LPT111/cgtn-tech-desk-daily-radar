@@ -3,60 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/27 08:16:08
+生成时间：2026/7/27 16:58:24
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 0 条
-延续跟踪线索：国内 15 条｜国际 8 条
+新增核心线索：国内 38 条｜国际 4 条
+延续跟踪线索：国内 0 条｜国际 7 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-27] 丰收筑底 科技蓄力 一组数据读懂中国硬核经济满满亮点
+1. [2026-07-27] 中国推动人工智能向上向善 造福人类
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L2QUE1QM0514R9L4.html
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “中国推动人工智能向上向善 造福人类” against primary-source evidence.
+
+2. [2026-07-27] 从“中国智造”亮丽名片感悟中国式现代化
    来源：中国日报-科技
-   链接：https://cn.chinadaily.com.cn/a/202607/27/WS6a66a29ea310d709c2fbfb94.html
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “丰收筑底 科技蓄力 一组数据读懂中国硬核经济满满亮点” against primary-source evidence.
+   链接：https://china.chinadaily.com.cn/a/202607/27/WS6a66cac0a310d709c2fbfc7e.html
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “从“中国智造”亮丽名片感悟中国式现代化” against primary-source evidence.
 
-2. [2026-07-27] 马斯克说美国挡不住中国AI模型；日方拆解宇树G1
+3. [2026-07-27] 卫星ETF鹏华(563790)涨近3%，星舰V3测试成功，
    来源：网易科技
-   链接：https://www.163.com/dy/article/L2QV5VP70512B07B.html
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克说美国挡不住中国AI模型；日方拆解宇树G1” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L2RBVHNL0534A4SC.html
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “卫星ETF鹏华(563790)涨近3%，星舰V3测试成功，” against primary-source evidence.
 
-3. [2026-07-27] 《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布
+4. [2026-07-27] 广西青少年人工智能及机器人竞赛聚焦AI赋能与东盟交流
    来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-07/27/content_553932.html
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布” against primary-source evidence.
+   链接：https://www.stdaily.com/web/gdxw/2026-07/27/content_554191.html
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “广西青少年人工智能及机器人竞赛聚焦AI赋能与东盟交流” against primary-source evidence.
 
-4. [2026-07-27] OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患
+5. [2026-07-27] Kimi K3 48小时跑通芯片设计！中国AI距离美国只差两三月 硅谷坐不住了
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikevrt0766660.shtml
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI失控AI内幕揭晓：越狱一周才被发现！存重大安全隐患” against primary-source evidence.
-
-5. [2026-07-27] 英伟达以10亿美元投资获得NAVER4.5%股份
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L2R32D330534A4SC.html
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达以10亿美元投资获得NAVER4.5%股份” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikezxm3141903.shtml
+   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Kimi K3 48小时跑通芯片设计！中国AI距离美国只差两三月 硅谷坐不住了” against primary-source evidence.
 
 本次新增线索：
-- 丰收筑底 科技蓄力 一组数据读懂中国硬核经济满满亮点｜中国日报-科技｜https://cn.chinadaily.com.cn/a/202607/27/WS6a66a29ea310d709c2fbfb94.html
-- 英伟达以10亿美元投资获得NAVER4.5%股份｜网易科技｜https://www.163.com/dy/article/L2R32D330534A4SC.html
-- 报道称英伟达正就为OpenAI数据中心枢纽提供2500亿美元担保进行磋商｜网易科技｜https://www.163.com/dy/article/L2R32IFD0534A4SC.html
+- 中国推动人工智能向上向善 造福人类｜网易科技｜https://www.163.com/dy/article/L2QUE1QM0514R9L4.html
+- 从“中国智造”亮丽名片感悟中国式现代化｜中国日报-科技｜https://china.chinadaily.com.cn/a/202607/27/WS6a66cac0a310d709c2fbfc7e.html
+- 卫星ETF鹏华(563790)涨近3%，星舰V3测试成功，｜网易科技｜https://www.163.com/dy/article/L2RBVHNL0534A4SC.html
+- 广西青少年人工智能及机器人竞赛聚焦AI赋能与东盟交流｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/27/content_554191.html
+- Kimi K3 48小时跑通芯片设计！中国AI距离美国只差两三月 硅谷坐不住了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-27/doc-inikezxm3141903.shtml
+- Team uses AlphaFold AI to redesign gene-editing proteins to make them safer｜Ars Technica｜https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（4 条，2 个来源）
-- 芯片/半导体：
-- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
-- 太空与低空经济：
-- 科学前沿：科学前沿动态（4 条，1 个来源）
+- AI 应用：AI动态（12 条，4 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：机器人动态（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
+- 太空与低空经济：低空经济与无人机（2 条，2 个来源）
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
-1. Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US｜AP Technology｜https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce
-2. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/
+1. China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast/
+2. Team uses AlphaFold AI to redesign gene-editing proteins to make them safer｜Ars Technica｜https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/
 3. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/
-4. For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup｜AP Technology｜https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b
-5. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack｜TechCrunch｜https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/
+4. The Hugging Face Breach Exposed A Gap In AI Safety Controls｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/hugging-face-breach-exposed-gap-063223166.html
+5. "Saving Private Ryan": Samsung's internal project to literally fold metal in latest Galaxy Z Fold 8 "seemed｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/saving-private-ryan-samsungs-internal-052700108.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
