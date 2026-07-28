@@ -1,64 +1,49 @@
 {
-  "generatedAt": "2026-07-27T23:50:03.811Z",
+  "generatedAt": "2026-07-28T00:09:20.732Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-28",
   "changeSummary": {
-    "domesticNew": 17,
-    "globalNew": 12,
-    "domesticContinued": 0,
-    "globalContinued": 1,
+    "domesticNew": 6,
+    "globalNew": 2,
+    "domesticContinued": 17,
+    "globalContinued": 12,
     "topNewDomestic": [
       {
-        "title": "Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角",
+        "title": "中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2623975.shtml"
       },
       {
-        "title": "中国大模型周调用量是美国14倍；三星海力士将与",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L2TI17B40512B07B.html"
-      },
-      {
-        "title": "英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L2SR8IEH05198CJN.html"
-      },
-      {
-        "title": "特朗普：将问普京俄罗斯是否向伊朗提供了卫星图",
+        "title": "落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2877984.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2619070.shtml"
       },
       {
-        "title": "亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络",
+        "title": "微软 AI 负责人苏莱曼谈 OpenAI“失控”事件：AI 攻击崛起的警告，预防很重要",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/982/296.htm"
+      },
+      {
+        "title": "莱迪思完成对 AMI 收购，携手打造安全管理和控制平台",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/982/294.htm"
+      },
+      {
+        "title": "黄仁勋，终于站队了",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-07-28/doc-inikiewh8116091.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewr0412945.shtml"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues",
+        "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
         "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html"
+        "url": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html"
       },
       {
-        "title": "Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/"
-      },
-      {
-        "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/"
-      },
-      {
-        "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/"
-      },
-      {
-        "title": "Threads users can now chat with Meta AI in their DMs",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/"
+        "title": "5 Things You Probably Didn't Know Your Nvidia GPU Could Do",
+        "source": "Yahoo News Technology",
+        "url": "https://tech.yahoo.com/computing/articles/5-things-probably-didnt-know-224700613.html"
       }
     ],
     "hasPrevious": true
@@ -67,8 +52,8 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 883,
-    "globalRejected": 887,
+    "domesticRejected": 877,
+    "globalRejected": 886,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,7 +67,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 29,
   "failedSources": [
     {
       "name": "财联社",
@@ -103,6 +88,11 @@
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -130,6 +120,11 @@
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -355,8 +350,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 60,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -389,13 +385,13 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1351,
+  "itemsSeen": 1291,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 313,
-  "itemsAfterDedupe": 234,
-  "todayItemsSeen": 17,
+  "itemsAfterRelevantFilter": 314,
+  "itemsAfterDedupe": 233,
+  "todayItemsSeen": 23,
   "suspectedItemsSeen": 15,
-  "skippedNonToday": 200,
+  "skippedNonToday": 193,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -614,8 +610,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 60,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -716,8 +713,9 @@
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 50,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "403 Forbidden",
       "optional": false
     },
     {
@@ -822,6 +820,11 @@
       "optional": true
     },
     {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国务院政策文件",
       "error": "403 Forbidden",
       "optional": false
@@ -831,6 +834,11 @@
     {
       "name": "Reuters Technology",
       "error": "401 HTTP Forbidden",
+      "optional": false
+    },
+    {
+      "name": "The Register",
+      "error": "403 Forbidden",
       "optional": false
     },
     {
@@ -845,14 +853,29 @@
     }
   ],
   "globalSourcesChecked": 21,
-  "globalSuccessSources": 18,
-  "globalItemsSeen": 1220,
+  "globalSuccessSources": 17,
+  "globalItemsSeen": 1170,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 111,
+  "globalItemsAfterRelevantFilter": 127,
   "topics": [
     {
+      "topic": "国家科技战略与监管",
+      "count": 3,
+      "sourceCount": 3,
+      "sources": [
+        "IT之家",
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "微软 AI 负责人苏莱曼谈 OpenAI“失控”事件：AI 攻击崛起的警告，预防很重要",
+        "OpenAI、英伟达CEO将会见美国参议员，讨论AI安",
+        "Anthropic：从未倡导过禁止公开权重模型"
+      ]
+    },
+    {
       "topic": "AI动态",
-      "count": 4,
+      "count": 5,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
@@ -861,8 +884,38 @@
       "items": [
         "Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角",
         "促进认知进阶的有力体系",
+        "Kimi K3完整开放！2.78万亿参数模型可部署",
         "微软 CEO 纳德拉：依赖单一 AI 满足所有需求的公司恐将无法生存",
         "AI推动软件漏洞发现数量激增，微软、谷歌安全漏"
+      ]
+    },
+    {
+      "topic": "AI 应用与智能体",
+      "count": 4,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一",
+        "中国大模型周调用量是美国14倍；三星海力士将与",
+        "英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持",
+        "美团AI“小团”全面升级；阿里AI Agent“千问办"
+      ]
+    },
+    {
+      "topic": "半导体供应链",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大",
+        "莱迪思完成对 AMI 收购，携手打造安全管理和控制平台",
+        "内存涨价的元凶：HBM内存到底是何方神圣"
       ]
     },
     {
@@ -893,40 +946,14 @@
       ]
     },
     {
-      "topic": "国家科技战略与监管",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "网易科技",
-        "新浪科技"
-      ],
-      "items": [
-        "OpenAI、英伟达CEO将会见美国参议员，讨论AI安",
-        "Anthropic：从未倡导过禁止公开权重模型"
-      ]
-    },
-    {
-      "topic": "AI 应用与智能体",
-      "count": 3,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "中国大模型周调用量是美国14倍；三星海力士将与",
-        "英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持",
-        "美团AI“小团”全面升级；阿里AI Agent“千问办"
-      ]
-    },
-    {
-      "topic": "半导体供应链",
+      "topic": "国产 GPU / 算力基础设施",
       "count": 1,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "内存涨价的元凶：HBM内存到底是何方神圣"
+        "黄仁勋，终于站队了"
       ]
     },
     {
@@ -953,6 +980,74 @@
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一",
+      "summary": "快科技7月28日消息，小米集团董事长特别助理、战略市场部副总经理徐洁云近日对外公布了小米MiMo大模型最新排名。原文如下：上周（7月20日—7月26日），全球调用量排名前五均为中国AI大模型。其中，小米MiMo-V2.5升至第一，周调用量达...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2623975.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2623975.shtml"
+      ],
+      "publishedAt": "2026-07-28",
+      "date": "2026-07-28",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技7月28日消息，小米集团董事长特别助理、战略市场部副总经理徐洁云近日对外公布了小米MiMo大模型最新排名。原文如下：上周（7月20日—7月26日），全球调用量排名前五均为中国AI大模型。其中，小米MiMo-V2.5升至第一，周调用量达...",
+      "relatedTitles": [
+        "中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角",
@@ -1019,7 +1114,7 @@
       "relatedTitles": [
         "Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1087,7 +1182,7 @@
       "relatedTitles": [
         "中国大模型周调用量是美国14倍；三星海力士将与"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1154,6 +1249,74 @@
       "rawText": "英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持,谷歌,英伟达,人工智能,初创公司,轨道算力,知名企业,openai",
       "relatedTitles": [
         "英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大",
+      "summary": "快科技7月28日消息，在成功造出两台150nm光刻机原型机之后，俄罗斯相关部门对外公开表态，将在今年年底正式完全掌握130nm全流程光刻技术。俄罗斯泽列诺格勒纳米技术中心ZNTC目前已经正式启动两套设计工艺为150nm的电子束光刻系统原型的...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2619070.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2619070.shtml"
+      ],
+      "publishedAt": "2026-07-28",
+      "date": "2026-07-28",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "快科技7月28日消息，在成功造出两台150nm光刻机原型机之后，俄罗斯相关部门对外公开表态，将在今年年底正式完全掌握130nm全流程光刻技术。俄罗斯泽列诺格勒纳米技术中心ZNTC目前已经正式启动两套设计工艺为150nm的电子束光刻系统原型的...",
+      "relatedTitles": [
+        "落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大"
       ],
       "isNewSinceLastRun": true
     },
@@ -1223,7 +1386,7 @@
       "relatedTitles": [
         "特朗普：将问普京俄罗斯是否向伊朗提供了卫星图"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1291,7 +1454,7 @@
       "relatedTitles": [
         "亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1358,6 +1521,74 @@
       "rawText": "亚马逊入局卫星通信大战：计划部署5000颗卫星 瞄准移动终端用户,手机,移动终端,知名企业,亚马逊公司,spacex,卫星通信大战,业务准入促进卫星",
       "relatedTitles": [
         "亚马逊入局卫星通信大战：计划部署5000颗卫星 瞄准移动终端用户"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "微软 AI 负责人苏莱曼谈 OpenAI“失控”事件：AI 攻击崛起的警告，预防很重要",
+      "summary": "微软 AI 负责人苏莱曼将 OpenAI 模型攻击 Hugging Face 事件称为 AI 网络攻击崛起的“警告信号”，强调预防原则至关重要。微软同时发布了自称性能更强、成本更低的网络安全模型 MAI-Cyber-1-Flash，以应对日益增长的自主 AI 攻击威胁。#AI安全# #微软AI#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/982/296.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/982/296.htm"
+      ],
+      "publishedAt": "Tue, 28 Jul 2026 00:01:46 GMT",
+      "date": "2026-07-28",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “微软 AI 负责人苏莱曼谈 OpenAI“失控”事件：AI 攻击崛起的警告，预防很重要” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国家科技战略与监管",
+      "rawText": "微软 AI 负责人苏莱曼将 OpenAI 模型攻击 Hugging Face 事件称为 AI 网络攻击崛起的“警告信号”，强调预防原则至关重要。微软同时发布了自称性能更强、成本更低的网络安全模型 MAI-Cyber-1-Flash，以应对日益增长的自主 AI 攻击威胁。#AI安全# #微软AI#",
+      "relatedTitles": [
+        "微软 AI 负责人苏莱曼谈 OpenAI“失控”事件：AI 攻击崛起的警告，预防很重要"
       ],
       "isNewSinceLastRun": true
     },
@@ -1427,7 +1658,143 @@
       "relatedTitles": [
         "影响市场重大事件：商业航天重磅利好，全国多地"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "莱迪思完成对 AMI 收购，携手打造安全管理和控制平台",
+      "summary": "AMI 将继续恪守其秉持的“芯片中立”原则：其固件和管理性解决方案将继续开发和交付，不会偏袒包括母公司在内的任何半导体供应商。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/982/294.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/982/294.htm"
+      ],
+      "publishedAt": "Mon, 27 Jul 2026 23:57:25 GMT",
+      "date": "2026-07-28",
+      "category": "芯片",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 163,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “莱迪思完成对 AMI 收购，携手打造安全管理和控制平台” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "AMI 将继续恪守其秉持的“芯片中立”原则：其固件和管理性解决方案将继续开发和交付，不会偏袒包括母公司在内的任何半导体供应商。",
+      "relatedTitles": [
+        "莱迪思完成对 AMI 收购，携手打造安全管理和控制平台"
+      ],
       "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "OpenAI、英伟达CEO将会见美国参议员，讨论AI安",
+      "summary": "OpenAI、英伟达CEO将会见美国参议员，讨论AI安全风险,黄仁勋,斯科特,美国政府,首席执行官,美国参议员,openai,英伟达ceo",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L2TIK5GS0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L2TIK5GS0534A4SC.html"
+      ],
+      "publishedAt": "2026-07-28",
+      "date": "2026-07-28",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI、英伟达CEO将会见美国参议员，讨论AI安” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国家科技战略与监管",
+      "rawText": "OpenAI、英伟达CEO将会见美国参议员，讨论AI安全风险,黄仁勋,斯科特,美国政府,首席执行官,美国参议员,openai,英伟达ceo",
+      "relatedTitles": [
+        "OpenAI、英伟达CEO将会见美国参议员，讨论AI安"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1495,7 +1862,7 @@
       "relatedTitles": [
         "美团AI“小团”全面升级；阿里AI Agent“千问办"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1563,7 +1930,75 @@
       "relatedTitles": [
         "内存涨价的元凶：HBM内存到底是何方神圣"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "Anthropic：从未倡导过禁止公开权重模型",
+      "summary": "Anthropic回应近期相关说法，称其从未主张全面封禁开放权重人工智能模型。 公司首席执行官达里奥·阿莫代伊表示，该企业并不认同“开放权重模型本身更便于搭建AI安全防护机制”这一观点。此番表态凸显行业内围绕人工智能开源发展与安全管...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhyqk8196306.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhyqk8196306.shtml"
+      ],
+      "publishedAt": "2026-07-28",
+      "date": "2026-07-28",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic：从未倡导过禁止公开权重模型” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国家科技战略与监管",
+      "rawText": "Anthropic回应近期相关说法，称其从未主张全面封禁开放权重人工智能模型。 公司首席执行官达里奥·阿莫代伊表示，该企业并不认同“开放权重模型本身更便于搭建AI安全防护机制”这一观点。此番表态凸显行业内围绕人工智能开源发展与安全管...",
+      "relatedTitles": [
+        "Anthropic：从未倡导过禁止公开权重模型"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1630,6 +2065,142 @@
       "rawText": "■董毓当下，虽然人工智能（AI）带来的影响深远而复杂，但社会已经达成一些共识：面向科学界和教育界的调查表明，智能时代需要新型人才，而其核心能力包括批判性思维、人机协同、提问、判断、深度学习和知识创造等。这些理念并非首次提出，真正的难点在于如...",
       "relatedTitles": [
         "促进认知进阶的有力体系"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "黄仁勋，终于站队了",
+      "summary": "来源：36氪一个GPU公司的CEO，人生第一条推文，不谈GPU。文｜画画来源｜版面之外（ID：Out_take）封面来源｜IC photo黄仁勋发了他人生第一条推文。这家掌管几万亿美元公司的人，几十年没在社交媒体上说过话。过去我们看到黄仁勋...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewr0412945.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewr0412945.shtml"
+      ],
+      "publishedAt": "2026-07-28",
+      "date": "2026-07-28",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “黄仁勋，终于站队了” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "来源：36氪一个GPU公司的CEO，人生第一条推文，不谈GPU。文｜画画来源｜版面之外（ID：Out_take）封面来源｜IC photo黄仁勋发了他人生第一条推文。这家掌管几万亿美元公司的人，几十年没在社交媒体上说过话。过去我们看到黄仁勋...",
+      "relatedTitles": [
+        "黄仁勋，终于站队了"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "Kimi K3完整开放！2.78万亿参数模型可部署",
+      "summary": "Kimi K3完整开放，2.78万亿参数模型终于可以自行部署,kimi,翻译,上下文,月之暗面,代码",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/tech/article/L2TKTNE800097U7T.html",
+      "sourceUrls": [
+        "https://www.163.com/tech/article/L2TKTNE800097U7T.html"
+      ],
+      "publishedAt": "2026-07-28",
+      "date": "2026-07-28",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Kimi K3完整开放！2.78万亿参数模型可部署” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "Kimi K3完整开放，2.78万亿参数模型终于可以自行部署,kimi,翻译,上下文,月之暗面,代码",
+      "relatedTitles": [
+        "Kimi K3完整开放！2.78万亿参数模型可部署"
       ],
       "isNewSinceLastRun": true
     },
@@ -1699,143 +2270,7 @@
       "relatedTitles": [
         "亚马逊Leo拟部署5105颗卫星，加入手机直连卫星"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "OpenAI、英伟达CEO将会见美国参议员，讨论AI安",
-      "summary": "OpenAI、英伟达CEO将会见美国参议员，讨论AI安全风险,黄仁勋,斯科特,美国政府,首席执行官,美国参议员,openai,英伟达ceo",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L2TIK5GS0534A4SC.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L2TIK5GS0534A4SC.html"
-      ],
-      "publishedAt": "2026-07-28",
-      "date": "2026-07-28",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 154,
-      "reporterScore": 162,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI、英伟达CEO将会见美国参议员，讨论AI安” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国家科技战略与监管",
-      "rawText": "OpenAI、英伟达CEO将会见美国参议员，讨论AI安全风险,黄仁勋,斯科特,美国政府,首席执行官,美国参议员,openai,英伟达ceo",
-      "relatedTitles": [
-        "OpenAI、英伟达CEO将会见美国参议员，讨论AI安"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "Anthropic：从未倡导过禁止公开权重模型",
-      "summary": "Anthropic回应近期相关说法，称其从未主张全面封禁开放权重人工智能模型。 公司首席执行官达里奥·阿莫代伊表示，该企业并不认同“开放权重模型本身更便于搭建AI安全防护机制”这一观点。此番表态凸显行业内围绕人工智能开源发展与安全管...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhyqk8196306.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhyqk8196306.shtml"
-      ],
-      "publishedAt": "2026-07-28",
-      "date": "2026-07-28",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 157,
-      "reporterScore": 157,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic：从未倡导过禁止公开权重模型” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国家科技战略与监管",
-      "rawText": "Anthropic回应近期相关说法，称其从未主张全面封禁开放权重人工智能模型。 公司首席执行官达里奥·阿莫代伊表示，该企业并不认同“开放权重模型本身更便于搭建AI安全防护机制”这一观点。此番表态凸显行业内围绕人工智能开源发展与安全管...",
-      "relatedTitles": [
-        "Anthropic：从未倡导过禁止公开权重模型"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1903,7 +2338,7 @@
       "relatedTitles": [
         "微软 CEO 纳德拉：依赖单一 AI 满足所有需求的公司恐将无法生存"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1971,7 +2406,7 @@
       "relatedTitles": [
         "AI推动软件漏洞发现数量激增，微软、谷歌安全漏"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2039,7 +2474,7 @@
       "relatedTitles": [
         "停产 9 年的歌诗图有望复活，消息称本田正研发基于雅阁的掀背 SUV"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2107,7 +2542,7 @@
       "relatedTitles": [
         "哈啰电单车用上开源鸿蒙系统+海思模组：NFC碰一碰开锁、车机自带导航"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -3120,6 +3555,38 @@
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
+      "summary": "Chinese open-weight models are gaining steam against leading offerings from American companies. OpenAI and Anthropic did not sign the letter.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
+      "publishedAt": "Mon, 27 Jul 2026 23:43:50 GMT",
+      "date": "2026-07-27",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 85,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic CEO Dario Amodei says AI company isn't advocating for ban of o” against primary-source evidence.",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 166,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues",
       "summary": "Microsoft, SpaceX, Palantir, alongside dozens of other tech companies from the U.S. and Europe, have joined the Open Secure AI Alliance.",
       "source": "CNBC Technology",
@@ -3148,199 +3615,7 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX",
-      "summary": "Amazon is expanding its plans for providing satellite connectivity to mobile phones.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
-      "publishedAt": "Mon, 27 Jul 2026 18:08:29 +0000",
-      "date": "2026-07-27",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “Amazon’s new satellite network for mobile phones could turn up the heat ” against primary-source evidence.",
-      "priority": 5,
-      "score": 147,
-      "reporterScore": 153,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 98
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-      "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-      "publishedAt": "Mon, 27 Jul 2026 21:40:27 +0000",
-      "date": "2026-07-28",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made route” against primary-source evidence.",
-      "priority": 5,
-      "score": 147,
-      "reporterScore": 153,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "summary": "OpenAI recently experienced a security incident in which a model it was testing autonomously escaped its sandbox and infiltrated another AI company to complete its task. Here's wha",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "publishedAt": "Mon, 27 Jul 2026 17:28:42 +0000",
-      "date": "2026-07-27",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI’s Hugging Face breach has reignited the debate over alignment and” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Threads users can now chat with Meta AI in their DMs",
-      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "publishedAt": "Mon, 27 Jul 2026 16:45:24 +0000",
-      "date": "2026-07-27",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Threads users can now chat with Meta AI in their DMs” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "publishedAt": "Mon, 27 Jul 2026 15:57:12 +0000",
-      "date": "2026-07-27",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google’s AI search is rapidly becoming the default, new data shows” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Microsoft's solution to AI security: more AI and more acronyms",
-      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/07/27/microsofts-solution-to-ai-security-more-ai-and-more-acronyms/5279140",
-      "publishedAt": "Mon, 27 Jul 2026 21:50:27 +0200",
-      "date": "2026-07-27",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Microsoft's solution to AI security: more AI and more acronyms” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3376,6 +3651,198 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "5 Things You Probably Didn't Know Your Nvidia GPU Could Do",
+      "summary": "Your Nvidia graphics card can do a lot more than just run games. We highlight five of the craziest Nvidia features every user needs to know about.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/5-things-probably-didnt-know-224700613.html",
+      "publishedAt": "2026-07-28",
+      "date": "2026-07-28",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “5 Things You Probably Didn't Know Your Nvidia GPU Could Do” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX",
+      "summary": "Amazon is expanding its plans for providing satellite connectivity to mobile phones.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+      "publishedAt": "Mon, 27 Jul 2026 18:08:29 +0000",
+      "date": "2026-07-27",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “Amazon’s new satellite network for mobile phones could turn up the heat ” against primary-source evidence.",
+      "priority": 5,
+      "score": 147,
+      "reporterScore": 153,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 98
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+      "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+      "publishedAt": "Mon, 27 Jul 2026 21:40:27 +0000",
+      "date": "2026-07-28",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made route” against primary-source evidence.",
+      "priority": 5,
+      "score": 147,
+      "reporterScore": 153,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "summary": "OpenAI recently experienced a security incident in which a model it was testing autonomously escaped its sandbox and infiltrated another AI company to complete its task. Here's wha",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "publishedAt": "Mon, 27 Jul 2026 17:28:42 +0000",
+      "date": "2026-07-27",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI’s Hugging Face breach has reignited the debate over alignment and” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "publishedAt": "Mon, 27 Jul 2026 16:45:24 +0000",
+      "date": "2026-07-27",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Threads users can now chat with Meta AI in their DMs” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "publishedAt": "Mon, 27 Jul 2026 15:57:12 +0000",
+      "date": "2026-07-27",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google’s AI search is rapidly becoming the default, new data shows” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "AMD's Venice is the first 2nm x86 server chip, but the stack doesn't fully ship until 2027",
       "summary": "AMD's Zen 6 Venice EPYC is a 2nm, 256-core, 512-thread juggernaut which comes into play at the same time as Nvidia is gunning for the data center CPU market.",
       "source": "Yahoo News Technology",
@@ -3404,7 +3871,7 @@
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3436,7 +3903,7 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3468,7 +3935,7 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3500,7 +3967,7 @@
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3532,11 +3999,11 @@
         "reporterScore": 100
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-28｜V3\n生成时间：2026/7/28 07:50:03\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2571｜确认今日 17｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 17 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-28] Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角\n   新浪科技｜2026-07-28｜https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角” against primary-source evidence.\n\n2. [2026-07-28] 中国大模型周调用量是美国14倍；三星海力士将与\n   网易科技｜2026-07-28｜https://www.163.com/dy/article/L2TI17B40512B07B.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国大模型周调用量是美国14倍；三星海力士将与” against primary-source evidence.\n\n3. [2026-07-28] 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持\n   网易科技｜2026-07-28｜https://www.163.com/dy/article/L2SR8IEH05198CJN.html\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持” against primary-source evidence.\n\n4. [2026-07-28] 特朗普：将问普京俄罗斯是否向伊朗提供了卫星图\n   新浪科技｜2026-07-28｜https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2877984.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “特朗普：将问普京俄罗斯是否向伊朗提供了卫星图” against primary-source evidence.\n\n5. [2026-07-28] 亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络\n   新浪科技｜2026-07-28｜https://finance.sina.com.cn/tech/digi/2026-07-28/doc-inikiewh8116091.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络” against primary-source evidence.\n\n本次新增线索：\n- Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角｜新浪科技｜https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml\n- 中国大模型周调用量是美国14倍；三星海力士将与｜网易科技｜https://www.163.com/dy/article/L2TI17B40512B07B.html\n- 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持｜网易科技｜https://www.163.com/dy/article/L2SR8IEH05198CJN.html\n- 特朗普：将问普京俄罗斯是否向伊朗提供了卫星图｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2877984.shtml\n- 亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-28/doc-inikiewh8116091.shtml\n- Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（3 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html\n2. Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX｜TechCrunch｜https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/\n3. Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers｜Ars Technica｜https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/\n4. OpenAI’s Hugging Face breach has reignited the debate over alignment and control｜TechCrunch｜https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/\n5. Threads users can now chat with Meta AI in their DMs｜TechCrunch｜https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-28｜V3\n生成时间：2026/7/28 07:50:03\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2571｜确认今日 17｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 17 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-28] Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角\n   新浪科技｜2026-07-28｜https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角” against primary-source evidence.\n\n2. [2026-07-28] 中国大模型周调用量是美国14倍；三星海力士将与\n   网易科技｜2026-07-28｜https://www.163.com/dy/article/L2TI17B40512B07B.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国大模型周调用量是美国14倍；三星海力士将与” against primary-source evidence.\n\n3. [2026-07-28] 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持\n   网易科技｜2026-07-28｜https://www.163.com/dy/article/L2SR8IEH05198CJN.html\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持” against primary-source evidence.\n\n4. [2026-07-28] 特朗普：将问普京俄罗斯是否向伊朗提供了卫星图\n   新浪科技｜2026-07-28｜https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2877984.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “特朗普：将问普京俄罗斯是否向伊朗提供了卫星图” against primary-source evidence.\n\n5. [2026-07-28] 亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络\n   新浪科技｜2026-07-28｜https://finance.sina.com.cn/tech/digi/2026-07-28/doc-inikiewh8116091.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络” against primary-source evidence.\n\n本次新增线索：\n- Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角｜新浪科技｜https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml\n- 中国大模型周调用量是美国14倍；三星海力士将与｜网易科技｜https://www.163.com/dy/article/L2TI17B40512B07B.html\n- 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持｜网易科技｜https://www.163.com/dy/article/L2SR8IEH05198CJN.html\n- 特朗普：将问普京俄罗斯是否向伊朗提供了卫星图｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2877984.shtml\n- 亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-28/doc-inikiewh8116091.shtml\n- Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（3 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html\n2. Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX｜TechCrunch｜https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/\n3. Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers｜Ars Technica｜https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/\n4. OpenAI’s Hugging Face breach has reignited the debate over alignment and control｜TechCrunch｜https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/\n5. Threads users can now chat with Meta AI in their DMs｜TechCrunch｜https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-28｜生成时间：2026/7/28 07:50:03｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2571｜确认今日 17｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 17 条｜国际 12 条<br>延续跟踪线索：国内 0 条｜国际 1 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-28] Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角</strong>\n      <span>新浪科技｜2026-07-28｜<a href=\"https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-28] 中国大模型周调用量是美国14倍；三星海力士将与</strong>\n      <span>网易科技｜2026-07-28｜<a href=\"https://www.163.com/dy/article/L2TI17B40512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国大模型周调用量是美国14倍；三星海力士将与” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-28] 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持</strong>\n      <span>网易科技｜2026-07-28｜<a href=\"https://www.163.com/dy/article/L2SR8IEH05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-28] 特朗普：将问普京俄罗斯是否向伊朗提供了卫星图</strong>\n      <span>新浪科技｜2026-07-28｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2877984.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “特朗普：将问普京俄罗斯是否向伊朗提供了卫星图” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-28] 亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络</strong>\n      <span>新浪科技｜2026-07-28｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-28/doc-inikiewh8116091.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues</strong>\n      <span>时间：Mon, 27 Jul 2026 11:32:45 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberatt” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX</strong>\n      <span>时间：Mon, 27 Jul 2026 18:08:29 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “Amazon’s new satellite network for mobile phones could turn up the heat ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers</strong>\n      <span>时间：Mon, 27 Jul 2026 21:40:27 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made route” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI’s Hugging Face breach has reignited the debate over alignment and control</strong>\n      <span>时间：Mon, 27 Jul 2026 17:28:42 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI’s Hugging Face breach has reignited the debate over alignment and” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Threads users can now chat with Meta AI in their DMs</strong>\n      <span>时间：Mon, 27 Jul 2026 16:45:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Threads users can now chat with Meta AI in their DMs” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/28 07:50:03\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 17 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-28] Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角” against primary-source evidence.\n\n2. [2026-07-28] 中国大模型周调用量是美国14倍；三星海力士将与\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2TI17B40512B07B.html\n   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国大模型周调用量是美国14倍；三星海力士将与” against primary-source evidence.\n\n3. [2026-07-28] 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2SR8IEH05198CJN.html\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持” against primary-source evidence.\n\n4. [2026-07-28] 特朗普：将问普京俄罗斯是否向伊朗提供了卫星图\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2877984.shtml\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “特朗普：将问普京俄罗斯是否向伊朗提供了卫星图” against primary-source evidence.\n\n5. [2026-07-28] 亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-28/doc-inikiewh8116091.shtml\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络” against primary-source evidence.\n\n本次新增线索：\n- Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角｜新浪科技｜https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml\n- 中国大模型周调用量是美国14倍；三星海力士将与｜网易科技｜https://www.163.com/dy/article/L2TI17B40512B07B.html\n- 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持｜网易科技｜https://www.163.com/dy/article/L2SR8IEH05198CJN.html\n- 特朗普：将问普京俄罗斯是否向伊朗提供了卫星图｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2877984.shtml\n- 亚马逊正式为 Leo 递交设备直连申请，计划建设超 5000 卫星大型网络｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-28/doc-inikiewh8116091.shtml\n- Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（3 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html\n2. Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX｜TechCrunch｜https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/\n3. Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers｜Ars Technica｜https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/\n4. OpenAI’s Hugging Face breach has reignited the debate over alignment and control｜TechCrunch｜https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/\n5. Threads users can now chat with Meta AI in their DMs｜TechCrunch｜https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-28｜V3\n生成时间：2026/7/28 08:09:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2461｜确认今日 23｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 2 条\n延续跟踪线索：国内 17 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-28] 中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一\n   新浪科技｜2026-07-28｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2623975.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一” against primary-source evidence.\n\n2. [2026-07-28] Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角\n   新浪科技｜2026-07-28｜https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角” against primary-source evidence.\n\n3. [2026-07-28] 中国大模型周调用量是美国14倍；三星海力士将与\n   网易科技｜2026-07-28｜https://www.163.com/dy/article/L2TI17B40512B07B.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国大模型周调用量是美国14倍；三星海力士将与” against primary-source evidence.\n\n4. [2026-07-28] 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持\n   网易科技｜2026-07-28｜https://www.163.com/dy/article/L2SR8IEH05198CJN.html\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持” against primary-source evidence.\n\n5. [2026-07-28] 落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大\n   新浪科技｜2026-07-28｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2619070.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大” against primary-source evidence.\n\n本次新增线索：\n- 中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2623975.shtml\n- 落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2619070.shtml\n- 微软 AI 负责人苏莱曼谈 OpenAI“失控”事件：AI 攻击崛起的警告，预防很重要｜IT之家｜https://www.ithome.com/0/982/296.htm\n- 莱迪思完成对 AMI 收购，携手打造安全管理和控制平台｜IT之家｜https://www.ithome.com/0/982/294.htm\n- 黄仁勋，终于站队了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewr0412945.shtml\n- Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html\n\n今日热点方向：\n- AI 应用：AI动态（5 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（3 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html\n2. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html\n3. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/\n4. 5 Things You Probably Didn't Know Your Nvidia GPU Could Do｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/5-things-probably-didnt-know-224700613.html\n5. Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX｜TechCrunch｜https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-28｜V3\n生成时间：2026/7/28 08:09:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2461｜确认今日 23｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 2 条\n延续跟踪线索：国内 17 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-28] 中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一\n   新浪科技｜2026-07-28｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2623975.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一” against primary-source evidence.\n\n2. [2026-07-28] Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角\n   新浪科技｜2026-07-28｜https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角” against primary-source evidence.\n\n3. [2026-07-28] 中国大模型周调用量是美国14倍；三星海力士将与\n   网易科技｜2026-07-28｜https://www.163.com/dy/article/L2TI17B40512B07B.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国大模型周调用量是美国14倍；三星海力士将与” against primary-source evidence.\n\n4. [2026-07-28] 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持\n   网易科技｜2026-07-28｜https://www.163.com/dy/article/L2SR8IEH05198CJN.html\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持” against primary-source evidence.\n\n5. [2026-07-28] 落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大\n   新浪科技｜2026-07-28｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2619070.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大” against primary-source evidence.\n\n本次新增线索：\n- 中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2623975.shtml\n- 落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2619070.shtml\n- 微软 AI 负责人苏莱曼谈 OpenAI“失控”事件：AI 攻击崛起的警告，预防很重要｜IT之家｜https://www.ithome.com/0/982/296.htm\n- 莱迪思完成对 AMI 收购，携手打造安全管理和控制平台｜IT之家｜https://www.ithome.com/0/982/294.htm\n- 黄仁勋，终于站队了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewr0412945.shtml\n- Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html\n\n今日热点方向：\n- AI 应用：AI动态（5 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（3 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html\n2. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html\n3. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/\n4. 5 Things You Probably Didn't Know Your Nvidia GPU Could Do｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/5-things-probably-didnt-know-224700613.html\n5. Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX｜TechCrunch｜https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-28｜生成时间：2026/7/28 08:09:20｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2461｜确认今日 23｜国际背景 14</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 2 条<br>延续跟踪线索：国内 17 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-28] 中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一</strong>\n      <span>新浪科技｜2026-07-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2623975.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-28] Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角</strong>\n      <span>新浪科技｜2026-07-28｜<a href=\"https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-28] 中国大模型周调用量是美国14倍；三星海力士将与</strong>\n      <span>网易科技｜2026-07-28｜<a href=\"https://www.163.com/dy/article/L2TI17B40512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国大模型周调用量是美国14倍；三星海力士将与” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-28] 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持</strong>\n      <span>网易科技｜2026-07-28｜<a href=\"https://www.163.com/dy/article/L2SR8IEH05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-28] 落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大</strong>\n      <span>新浪科技｜2026-07-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2619070.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models</strong>\n      <span>时间：Mon, 27 Jul 2026 23:43:50 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic CEO Dario Amodei says AI company isn't advocating for ban of o” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues</strong>\n      <span>时间：Mon, 27 Jul 2026 11:32:45 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberatt” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight</strong>\n      <span>时间：Sat, 25 Jul 2026 17:47:22 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX eyes tower catch for next Starship after auspicious end to 13th f” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. 5 Things You Probably Didn't Know Your Nvidia GPU Could Do</strong>\n      <span>时间：2026-07-28｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/5-things-probably-didnt-know-224700613.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “5 Things You Probably Didn't Know Your Nvidia GPU Could Do” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX</strong>\n      <span>时间：Mon, 27 Jul 2026 18:08:29 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “Amazon’s new satellite network for mobile phones could turn up the heat ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/28 08:09:20\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 2 条\n延续跟踪线索：国内 17 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-28] 中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2623975.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一” against primary-source evidence.\n\n2. [2026-07-28] Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角” against primary-source evidence.\n\n3. [2026-07-28] 中国大模型周调用量是美国14倍；三星海力士将与\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2TI17B40512B07B.html\n   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国大模型周调用量是美国14倍；三星海力士将与” against primary-source evidence.\n\n4. [2026-07-28] 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L2SR8IEH05198CJN.html\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持” against primary-source evidence.\n\n5. [2026-07-28] 落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2619070.shtml\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大” against primary-source evidence.\n\n本次新增线索：\n- 中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2623975.shtml\n- 落后西方近30年 就是奔腾4水平！俄罗斯称今年底掌握130nm光刻技术 意义重大｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2619070.shtml\n- 微软 AI 负责人苏莱曼谈 OpenAI“失控”事件：AI 攻击崛起的警告，预防很重要｜IT之家｜https://www.ithome.com/0/982/296.htm\n- 莱迪思完成对 AMI 收购，携手打造安全管理和控制平台｜IT之家｜https://www.ithome.com/0/982/294.htm\n- 黄仁勋，终于站队了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewr0412945.shtml\n- Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html\n\n今日热点方向：\n- AI 应用：AI动态（5 条，2 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（3 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models｜CNBC Technology｜https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html\n2. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html\n3. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/\n4. 5 Things You Probably Didn't Know Your Nvidia GPU Could Do｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/5-things-probably-didnt-know-224700613.html\n5. Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX｜TechCrunch｜https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
