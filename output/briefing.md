@@ -3,61 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/28 08:13:38
+生成时间：2026/7/28 16:05:22
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 1 条
-延续跟踪线索：国内 23 条｜国际 13 条
+新增核心线索：国内 58 条｜国际 3 条
+延续跟踪线索：国内 3 条｜国际 11 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-07-28] Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角
+1. [05:26] 首届 CMG 世界机器人登泰山大赛启动
+   来源：IT之家
+   链接：https://www.ithome.com/0/982/506.htm
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “首届 CMG 世界机器人登泰山大赛启动” against primary-source evidence.
+
+2. [2026-07-28] Cadence上调全年预期，AI芯片与系统设计软件需求持续增长
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/2026-07-28/doc-inikhyqp2712610.shtml
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Kimi K3正式开源！2.8万亿参数砸向全球，华盛顿被逼到墙角” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikivuc2541616.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “Cadence上调全年预期，AI芯片与系统设计软件需求持续增长” against primary-source evidence.
 
-2. [2026-07-28] 中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一
+3. [2026-07-28] 不再被卡脖子关键一步！国产光刻机开启小批量生产 阿斯麦暴跌8%
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikiewm2623975.shtml
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国超越美国拿下全球 2/3调用量 小米MiMo大模型全球调用量第一” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikimei2650483.shtml
+   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “不再被卡脖子关键一步！国产光刻机开启小批量生产 阿斯麦暴跌8%” against primary-source evidence.
 
-3. [2026-07-28] 中国大模型周调用量是美国14倍；三星海力士将与
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L2TI17B40512B07B.html
-   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国大模型周调用量是美国14倍；三星海力士将与” against primary-source evidence.
+4. [07:58] LM Studio Bionic 智能体工具新增月之暗面 Kimi K3 模型支持，定价方案公布
+   来源：IT之家
+   链接：https://www.ithome.com/0/982/606.htm
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “LM Studio Bionic 智能体工具新增月之暗面 Kimi K3 模型支持，定价方案公布” against primary-source evidence.
 
-4. [2026-07-28] 英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L2SR8IEH05198CJN.html
-   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “英伟达押注OpenAI前首席科学家创业公司 SSI获大规模算力与资金支持” against primary-source evidence.
-
-5. [2026-07-28] 特朗普：将问普京俄罗斯是否向伊朗提供了卫星图
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2877984.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “特朗普：将问普京俄罗斯是否向伊朗提供了卫星图” against primary-source evidence.
+5. [07:54] 马斯克：特斯拉 Terafab 芯片工厂选址即将公布，将举行单独的发布会
+   来源：IT之家
+   链接：https://www.ithome.com/0/982/605.htm
+   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “马斯克：特斯拉 Terafab 芯片工厂选址即将公布，将举行单独的发布会” against primary-source evidence.
 
 本次新增线索：
-- 界面早报 | 商务部回应美宣称拟对中国人工智能企业开展调查并实施制裁｜网易科技｜https://www.163.com/dy/article/L2TIGJUN0534A4SC.html
-- 广东发布百项应用场景——量子科技从“实验室”迈向“应用场”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/28/content_554529.html
-- Adaptavist 调查：近三分之二白领怀念“前 AI 时代”的工作方式｜IT之家｜https://www.ithome.com/0/982/297.htm
-- Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI｜TechCrunch｜https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
+- 首届 CMG 世界机器人登泰山大赛启动｜IT之家｜https://www.ithome.com/0/982/506.htm
+- Cadence上调全年预期，AI芯片与系统设计软件需求持续增长｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikivuc2541616.shtml
+- 不再被卡脖子关键一步！国产光刻机开启小批量生产 阿斯麦暴跌8%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-28/doc-inikimei2650483.shtml
+- LM Studio Bionic 智能体工具新增月之暗面 Kimi K3 模型支持，定价方案公布｜IT之家｜https://www.ithome.com/0/982/606.htm
+- 马斯克：特斯拉 Terafab 芯片工厂选址即将公布，将举行单独的发布会｜IT之家｜https://www.ithome.com/0/982/605.htm
+- Nvidia signs deal to deploy edge AI on future Moon missions — laying the groundwork for a permanent human h｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/nvidia-signs-deal-deploy-edge-232500523.html
 
 今日热点方向：
-- AI 应用：AI动态（7 条，3 个来源）
-- 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
+- AI 应用：AI 应用与智能体（12 条，3 个来源）
+- 芯片/半导体：半导体供应链（7 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，4 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
 - 太空与低空经济：太空与低空动态（3 条，2 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
-1. Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI｜TechCrunch｜https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
-2. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html
-3. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/
-4. Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX｜TechCrunch｜https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/
-5. Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers｜Ars Technica｜https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/
+1. Nvidia signs deal to deploy edge AI on future Moon missions — laying the groundwork for a permanent human h｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/nvidia-signs-deal-deploy-edge-232500523.html
+2. Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI｜TechCrunch｜https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
+3. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues｜CNBC Technology｜https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html
+4. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight｜Ars Technica｜https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/
+5. I use Google's AI to thrift for my big family — these are the 5 features that actually save me money｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/googles-ai-thrift-big-family-043000368.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
