@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/7/30 08:06:45
+生成时间：2026/7/30 08:14:08
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 1 条
-延续跟踪线索：国内 15 条｜国际 15 条
+新增核心线索：国内 3 条｜国际 1 条
+延续跟踪线索：国内 19 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -26,10 +26,10 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml
    角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect research infrastructure and long-term innovation capacity to China’s wider innovation capacity. For this item, test the claim behind “科学家研制出用于量子计算的硅芯片” against primary-source evidence.
 
-4. [2026-07-30] OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源
+4. [2026-07-30] 996被全球追捧！OpenAI CEO：生产力越高人越忙 AI带来4天工作制别想了
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2056995.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2066754.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “996被全球追捧！OpenAI CEO：生产力越高人越忙 AI带来4天工作制别想了” against primary-source evidence.
 
 5. [2026-07-30] 我国蜂群无人机首次实现台风过境全程立体观测
    来源：新浪科技
@@ -37,15 +37,13 @@ ChenChen 今日 Briefing｜V3
    角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国蜂群无人机首次实现台风过境全程立体观测” against primary-source evidence.
 
 本次新增线索：
-- 扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2060162.shtml
-- OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2056995.shtml
-- 英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议｜IT之家｜https://www.ithome.com/0/983/362.htm
-- AI剧集频登电视“大屏”，释放什么信号｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/30/content_555807.html
-- 微软 Anthropic 投资录得 32 亿美元收益，而 OpenAI 减记 6 亿美元｜IT之家｜https://www.ithome.com/0/983/382.htm
-- View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736
+- 996被全球追捧！OpenAI CEO：生产力越高人越忙 AI带来4天工作制别想了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2066754.shtml
+- 微软 Anthropic 投资录得 32 亿美元收益，而 OpenAI 减记 6 亿美元｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2065161.shtml
+- 三星电子 2026 财年第二财季归母净利润 71.27 万亿韩元，同比增长 1344.46%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2065312.shtml
+- A requiem for Optane, Intel's KV cache killer that could have eased the RAM price crunch｜The Register｜https://www.theregister.com/storage/2026/07/29/a-requiem-for-optane-intels-kv-cache-killer-that-could-have-eased-the-ram-price-crunch/5280063
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（6 条，3 个来源）
+- AI 应用：AI 应用与智能体（7 条，3 个来源）
 - 芯片/半导体：
 - 机器人/具身智能：
 - 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
@@ -54,7 +52,7 @@ ChenChen 今日 Briefing｜V3
 
 国际科技背景：
 1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html
-2. View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736
+2. A requiem for Optane, Intel's KV cache killer that could have eased the RAM price crunch｜The Register｜https://www.theregister.com/storage/2026/07/29/a-requiem-for-optane-intels-kv-cache-killer-that-could-have-eased-the-ram-price-crunch/5280063
 3. Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline｜CNBC Technology｜https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html
 4. Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag｜TechCrunch｜https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/
 5. Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI｜TechCrunch｜https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/
