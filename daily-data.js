@@ -1,64 +1,44 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-29T23:46:27.149Z",
+  "generatedAt": "2026-07-30T00:06:45.819Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-30",
   "changeSummary": {
-    "domesticNew": 18,
-    "globalNew": 10,
-    "domesticContinued": 0,
-    "globalContinued": 6,
+    "domesticNew": 6,
+    "globalNew": 1,
+    "domesticContinued": 15,
+    "globalContinued": 15,
     "topNewDomestic": [
       {
-        "title": "内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%",
+        "title": "扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptar1235100.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2060162.shtml"
       },
       {
-        "title": "我国蜂群无人机首次实现台风过境全程立体观测",
+        "title": "OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2056995.shtml"
       },
       {
-        "title": "科学家研制出用于量子计算的硅芯片",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml"
+        "title": "英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/983/362.htm"
       },
       {
-        "title": "AI工具实现大规模蛋白质改造",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L32N7FUI05198CJN.html"
+        "title": "AI剧集频登电视“大屏”，释放什么信号",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-07/30/content_555807.html"
       },
       {
-        "title": "SpaceX获得美国太空军16亿美元的合同",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpnut1304977.shtml"
+        "title": "微软 Anthropic 投资录得 32 亿美元收益，而 OpenAI 减记 6 亿美元",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/983/382.htm"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html"
-      },
-      {
-        "title": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html"
-      },
-      {
-        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
-      },
-      {
-        "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/"
-      },
-      {
-        "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/"
+        "title": "View All News and Updates",
+        "source": "NIST AI",
+        "url": "https://www.nist.gov/news-events/news-updates/topic/2753736"
       }
     ],
     "hasPrevious": true
@@ -67,7 +47,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 882,
+    "domesticRejected": 879,
     "globalRejected": 884,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,7 +62,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 27,
+  "successSources": 29,
   "failedSources": [
     {
       "name": "财联社",
@@ -100,23 +80,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -142,23 +112,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -343,8 +303,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -365,9 +324,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 11,
+      "failed": false,
       "optional": false
     },
     {
@@ -375,7 +333,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -422,13 +380,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1360,
+  "itemsSeen": 1371,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 286,
-  "itemsAfterDedupe": 222,
-  "todayItemsSeen": 18,
-  "suspectedItemsSeen": 14,
-  "skippedNonToday": 190,
+  "itemsAfterRelevantFilter": 289,
+  "itemsAfterDedupe": 221,
+  "todayItemsSeen": 21,
+  "suspectedItemsSeen": 15,
+  "skippedNonToday": 183,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -605,8 +563,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -627,9 +584,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 11,
+      "failed": false,
       "optional": false
     },
     {
@@ -637,7 +593,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -752,7 +708,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 50,
+      "parsed": 0,
       "failed": false,
       "optional": false
     },
@@ -853,23 +809,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -897,65 +843,68 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1220,
+  "globalItemsSeen": 1170,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 101,
+  "globalItemsAfterRelevantFilter": 121,
   "topics": [
     {
       "topic": "AI 应用与智能体",
-      "count": 4,
+      "count": 6,
       "sourceCount": 3,
       "sources": [
-        "观察者网-产业科技",
         "新浪科技",
+        "观察者网-产业科技",
         "IT之家"
       ],
       "items": [
+        "OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源",
         "中国AI都救完场了，“OpenAI才发现闯祸了”",
+        "微软 Anthropic 投资录得 32 亿美元收益，而 OpenAI 减记 6 亿美元",
         "啊哈？翁荔又回 OpenAI 了？",
-        "微软确认 Copilot“超级应用”年内问世，整合智能体、AI 编程、聊天",
-        "OpenAI 总裁布罗克曼谈苹果诉讼：我们没有兴趣窃取其它企业商业机密"
+        "微软确认 Copilot“超级应用”年内问世，整合智能体、AI 编程、聊天"
       ]
     },
     {
       "topic": "AI动态",
-      "count": 4,
-      "sourceCount": 2,
+      "count": 5,
+      "sourceCount": 3,
       "sources": [
-        "网易科技",
-        "新浪科技"
+        "新浪科技",
+        "科技日报",
+        "网易科技"
       ],
       "items": [
-        "AI工具实现大规模蛋白质改造",
+        "扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题",
+        "AI剧集频登电视“大屏”，释放什么信号",
         "沃什：资本支出热正推高人工智能基础设施的价格",
         "独家丨曾深耕百度17年，喻友平卸任中关村科金总裁，投身物理AI",
         "AI医疗人才缺口将达250万 复合型人才薪资涨30%"
       ]
     },
     {
-      "topic": "科学前沿与科研设施",
+      "topic": "芯片动态",
       "count": 3,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
-        "网易科技"
+        "IT之家"
       ],
       "items": [
-        "科学家研制出用于量子计算的硅芯片",
-        "硅基量子芯片能执行基本运算",
-        "罗敏敏：不向年轻人灌输成功学"
+        "内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%",
+        "英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议",
+        "三星电子 2026 财年第二财季归母净利润 71.27 万亿韩元，同比增长 1344.46%"
       ]
     },
     {
-      "topic": "芯片动态",
+      "topic": "科学前沿与科研设施",
       "count": 2,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%",
-        "英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议"
+        "科学家研制出用于量子计算的硅芯片",
+        "罗敏敏：不向年轻人灌输成功学"
       ]
     },
     {
@@ -1015,6 +964,74 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题",
+      "summary": "快科技7月30日消息，据媒体报道，美国Meta创始人马克·扎克伯格近日在接受媒体采访时明确表示，美国政府不应为了在人工智能竞赛中抢占优势而禁止中国AI模型，并警告称，美国前沿实验室可能通过“利用监管力量”来压制本土竞争。扎克伯格认为，禁止使...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2060162.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2060162.shtml"
+      ],
+      "publishedAt": "2026-07-30",
+      "date": "2026-07-30",
+      "category": "AI",
+      "classificationConfidence": 0.94,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 184,
+      "reporterScore": 200,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 130
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "快科技7月30日消息，据媒体报道，美国Meta创始人马克·扎克伯格近日在接受媒体采访时明确表示，美国政府不应为了在人工智能竞赛中抢占优势而禁止中国AI模型，并警告称，美国前沿实验室可能通过“利用监管力量”来压制本土竞争。扎克伯格认为，禁止使...",
+      "relatedTitles": [
+        "扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%",
@@ -1081,75 +1098,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "我国蜂群无人机首次实现台风过境全程立体观测",
-      "summary": "本报讯（记者高雅丽）随着台风“红霞”逐渐逼近，自7月24日起，中国气象科学研究院专项气象保障技术研究中心联合深圳市国家气候观象台，在位于深圳市大鹏半岛的中国气象局粤港澳大湾区低空经济无人航空气象保障野外科学试验基地，首次采用蜂群无人机观测方...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml"
-      ],
-      "publishedAt": "2026-07-30",
-      "date": "2026-07-30",
-      "category": "太空与低空",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "priority": 5,
-      "score": 178,
-      "reporterScore": 192,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国蜂群无人机首次实现台风过境全程立体观测” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "低空经济与无人机",
-      "rawText": "本报讯（记者高雅丽）随着台风“红霞”逐渐逼近，自7月24日起，中国气象科学研究院专项气象保障技术研究中心联合深圳市国家气候观象台，在位于深圳市大鹏半岛的中国气象局粤港澳大湾区低空经济无人航空气象保障野外科学试验基地，首次采用蜂群无人机观测方...",
-      "relatedTitles": [
-        "我国蜂群无人机首次实现台风过境全程立体观测"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1217,20 +1166,20 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "科学家研制出用于量子计算的硅芯片"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "AI工具实现大规模蛋白质改造",
-      "summary": "AI工具实现大规模蛋白质改造,美国,翻译器,人工智能,ai工具,蛋白质改造",
-      "source": "网易科技",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源",
+      "summary": "IT之家 7 月 30 日消息，OpenAI 今天（7 月 30 日）在 X 平台发布推文，宣布启动 ChatGPT for Academic Researchers 计划，将向 10 万名科研人员免费开放 ChatGPT 高级功能。科学家...",
+      "source": "新浪科技",
       "sources": [
-        "网易科技"
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L32N7FUI05198CJN.html",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2056995.shtml",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L32N7FUI05198CJN.html"
+        "https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2056995.shtml"
       ],
       "publishedAt": "2026-07-30",
       "date": "2026-07-30",
@@ -1245,20 +1194,20 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 176,
-      "reporterScore": 184,
+      "score": 163,
+      "reporterScore": 171,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
         "visual": 0,
-        "international": 9,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -1266,26 +1215,94 @@ window.CHENCHEN_DAILY_DATA = {
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": true,
-        "interview": false,
+        "international": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
         "reporterScore": 120
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
+      "hasInterviewValue": true,
       "hasVisualValue": false,
-      "hasInternationalValue": true,
+      "hasInternationalValue": false,
       "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI工具实现大规模蛋白质改造” against primary-source evidence.",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "AI工具实现大规模蛋白质改造,美国,翻译器,人工智能,ai工具,蛋白质改造",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "IT之家 7 月 30 日消息，OpenAI 今天（7 月 30 日）在 X 平台发布推文，宣布启动 ChatGPT for Academic Researchers 计划，将向 10 万名科研人员免费开放 ChatGPT 高级功能。科学家...",
       "relatedTitles": [
-        "AI工具实现大规模蛋白质改造"
+        "OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源"
       ],
       "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "我国蜂群无人机首次实现台风过境全程立体观测",
+      "summary": "本报讯（记者高雅丽）随着台风“红霞”逐渐逼近，自7月24日起，中国气象科学研究院专项气象保障技术研究中心联合深圳市国家气候观象台，在位于深圳市大鹏半岛的中国气象局粤港澳大湾区低空经济无人航空气象保障野外科学试验基地，首次采用蜂群无人机观测方...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml"
+      ],
+      "publishedAt": "2026-07-30",
+      "date": "2026-07-30",
+      "category": "太空与低空",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 168,
+      "reporterScore": 182,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国蜂群无人机首次实现台风过境全程立体观测” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "低空经济与无人机",
+      "rawText": "本报讯（记者高雅丽）随着台风“红霞”逐渐逼近，自7月24日起，中国气象科学研究院专项气象保障技术研究中心联合深圳市国家气候观象台，在位于深圳市大鹏半岛的中国气象局粤港澳大湾区低空经济无人航空气象保障野外科学试验基地，首次采用蜂群无人机观测方...",
+      "relatedTitles": [
+        "我国蜂群无人机首次实现台风过境全程立体观测"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1352,6 +1369,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "当地时间7月29日，美国太空军宣布，美国太空探索技术公司（SpaceX）获一份价值16亿美元的合同。该公司需在2027年底前执行18次“猎鹰9”号火箭发射任务，每次发射将搭载用于探测和追踪空中目标的军用卫星升空。 (AI生成)",
       "relatedTitles": [
         "SpaceX获得美国太空军16亿美元的合同"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议",
+      "summary": "英伟达宣布将于 8 月 26 日（太平洋时间）召开财报电话会议，讨论截至 7 月 26 日的 2027 财年第二季度业绩。会议将通过官网直播，首席财务官科莱特 · 克雷斯的书面评论将在业绩公布后发布。届时，金融分析师和机构投资者将有机会提问。#英伟达财报#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/983/362.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/983/362.htm"
+      ],
+      "publishedAt": "Wed, 29 Jul 2026 21:07:19 GMT",
+      "date": "2026-07-30",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "英伟达宣布将于 8 月 26 日（太平洋时间）召开财报电话会议，讨论截至 7 月 26 日的 2027 财年第二季度业绩。会议将通过官网直播，首席财务官科莱特 · 克雷斯的书面评论将在业绩公布后发布。届时，金融分析师和机构投资者将有机会提问。#英伟达财报#",
+      "relatedTitles": [
+        "英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议"
       ],
       "isNewSinceLastRun": true
     },
@@ -1421,24 +1506,24 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "影响市场重大事件：Rocket Lab拿下2.66亿美元合同"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议",
-      "summary": "英伟达宣布将于 8 月 26 日（太平洋时间）召开财报电话会议，讨论截至 7 月 26 日的 2027 财年第二季度业绩。会议将通过官网直播，首席财务官科莱特 · 克雷斯的书面评论将在业绩公布后发布。届时，金融分析师和机构投资者将有机会提问。#英伟达财报#",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "AI剧集频登电视“大屏”，释放什么信号",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 AI剧集频登电视“大屏”，释放什么信号 2026-07-30 07:38:33 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
       "sources": [
-        "新浪科技"
+        "科技日报"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptan9613981.shtml",
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-07/30/content_555807.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptan9613981.shtml"
+        "https://www.stdaily.com/web/gdxw/2026-07/30/content_555807.html"
       ],
       "publishedAt": "2026-07-30",
       "date": "2026-07-30",
-      "category": "芯片",
+      "category": "AI",
       "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
@@ -1447,14 +1532,14 @@ window.CHENCHEN_DAILY_DATA = {
         "source"
       ],
       "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
+      "score": 161,
+      "reporterScore": 161,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 18,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
@@ -1462,7 +1547,7 @@ window.CHENCHEN_DAILY_DATA = {
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -1471,23 +1556,23 @@ window.CHENCHEN_DAILY_DATA = {
         "primary": false,
         "visual": false,
         "international": false,
-        "interview": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 120
+        "reporterScore": 110
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
+      "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议” against primary-source evidence.",
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI剧集频登电视“大屏”，释放什么信号” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "IT之家 7 月 30 日消息，英伟达昨日（7 月 29 日）发布公告，宣布太平洋时间 8 月 26 日星期三下午 2 点（IT之家注：北京时间 8 月 27 日早上 5 点）召开财报电话会议，讨论 2027 财年第二财季（截至 2026 ...",
+      "matchedTopic": "AI动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 AI剧集频登电视“大屏”，释放什么信号 2026-07-30 07:38:33 来源: 科技日报 点击数： 热点",
       "relatedTitles": [
-        "英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议"
+        "AI剧集频登电视“大屏”，释放什么信号"
       ],
       "isNewSinceLastRun": true
     },
@@ -1557,7 +1642,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中国AI都救完场了，“OpenAI才发现闯祸了”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1625,42 +1710,42 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "沃什：资本支出热正推高人工智能基础设施的价格"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "硅基量子芯片能执行基本运算",
-      "summary": "硅基量子芯片能执行基本运算,硅基,量子计算,量子芯片,芯片网络",
-      "source": "网易科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "微软 Anthropic 投资录得 32 亿美元收益，而 OpenAI 减记 6 亿美元",
+      "summary": "微软最新财报揭示了其在 AI 赛道上的投资回报差异。Anthropic 在第四季度为微软带来 32 亿美元收益，而 OpenAI 的投资则被减记 6 亿美元。微软全年从 OpenAI 投资中仍获利 50 亿美元，但季度表现凸显了 AI 投资的风险与机遇并存。#AI投资# #微软财报#",
+      "source": "IT之家",
       "sources": [
-        "网易科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L32N7FUH05198CJN.html",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/983/382.htm",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L32N7FUH05198CJN.html"
+        "https://www.ithome.com/0/983/382.htm"
       ],
-      "publishedAt": "2026-07-30",
+      "publishedAt": "Thu, 30 Jul 2026 00:01:32 GMT",
       "date": "2026-07-30",
-      "category": "科学前沿",
-      "classificationConfidence": 0.84,
+      "category": "AI",
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 157,
-      "reporterScore": 157,
+      "score": 151,
+      "reporterScore": 151,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
         "visual": 0,
         "international": 0,
         "policy": 0,
@@ -1678,20 +1763,88 @@ window.CHENCHEN_DAILY_DATA = {
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect the scientific mechanism, evidence and translational boundary to China’s wider innovation capacity. For this item, test the claim behind “硅基量子芯片能执行基本运算” against primary-source evidence.",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “微软 Anthropic 投资录得 32 亿美元收益，而 OpenAI 减记 6 亿美元” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "硅基量子芯片能执行基本运算,硅基,量子计算,量子芯片,芯片网络",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "微软最新财报揭示了其在 AI 赛道上的投资回报差异。Anthropic 在第四季度为微软带来 32 亿美元收益，而 OpenAI 的投资则被减记 6 亿美元。微软全年从 OpenAI 投资中仍获利 50 亿美元，但季度表现凸显了 AI 投资的风险与机遇并存。#AI投资# #微软财报#",
       "relatedTitles": [
-        "硅基量子芯片能执行基本运算"
+        "微软 Anthropic 投资录得 32 亿美元收益，而 OpenAI 减记 6 亿美元"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "三星电子 2026 财年第二财季归母净利润 71.27 万亿韩元，同比增长 1344.46%",
+      "summary": "三星电子 2026 财年第二财季业绩快报营业总收入 171.5 万亿韩元、同比增长 130.00%；归母净利润 71.27 万亿韩元、同比增长 1344.46%。#三星电子##二季报-业绩快报#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/983/380.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/983/380.htm"
+      ],
+      "publishedAt": "Wed, 29 Jul 2026 23:50:48 GMT",
+      "date": "2026-07-30",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “三星电子 2026 财年第二财季归母净利润 71.27 万亿韩元，同比增长 1344.46%” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "三星电子 2026 财年第二财季业绩快报营业总收入 171.5 万亿韩元、同比增长 130.00%；归母净利润 71.27 万亿韩元、同比增长 1344.46%。#三星电子##二季报-业绩快报#",
+      "relatedTitles": [
+        "三星电子 2026 财年第二财季归母净利润 71.27 万亿韩元，同比增长 1344.46%"
       ],
       "isNewSinceLastRun": true
     },
@@ -1761,7 +1914,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "独家丨曾深耕百度17年，喻友平卸任中关村科金总裁，投身物理AI"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1829,7 +1982,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "啊哈？翁荔又回 OpenAI 了？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1897,7 +2050,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI医疗人才缺口将达250万 复合型人才薪资涨30%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1965,7 +2118,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "微软确认 Copilot“超级应用”年内问世，整合智能体、AI 编程、聊天"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2033,7 +2186,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI 总裁布罗克曼谈苹果诉讼：我们没有兴趣窃取其它企业商业机密"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2101,7 +2254,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "奔驰“最小 SUV”迎来电动化换代，全新 GLA 正式首秀"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2169,7 +2322,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "罗敏敏：不向年轻人灌输成功学"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2237,7 +2390,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "揭秘 AI 入侵 Hugging Face 全过程：4 天半执行 17600 次操作"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -3178,6 +3331,73 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI视界，不止于想象"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "无人车往哪里开？ 一个广告营销老炮",
+      "summary": "无人车往哪里开？ 一个广告营销老炮，率先冲刺A股无人驾驶第一股 最大客户赛力斯，一单贡献全年三成收入 杰西卡 12分钟前 无人车往哪里开？ 穿透财报招股书 车圈最新认知 物理AI第一块万亿市场，在公路货运先跑通闭环了 申通安能用真金白银下单 杰西卡 2026-06-24 DeepWay深向 无人车往哪里开？ 车圈最新认",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%be%80%e5%93%aa%e9%87%8c%e5%bc%80%ef%bc%9f"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "新能源车",
+      "classificationConfidence": 0.76,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 119,
+      "reporterScore": 125,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 93
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “无人车往哪里开？ 一个广告营销老炮” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "无人车往哪里开？ 一个广告营销老炮，率先冲刺A股无人驾驶第一股 最大客户赛力斯，一单贡献全年三成收入 杰西卡 12分钟前 无人车往哪里开？ 穿透财报招股书 车圈最新认知 物理AI第一块万亿市场，在公路货运先跑通闭环了 申通安能用真金白银下单 杰西卡 2026-06-24 DeepWay深向 无人车往哪里开？ 车圈最新认知 东风联手九识，商用无人车也有“HI模式”了 商用车AI基座已成型 杰西卡 2026-06-10 东风OpenVAN 九识智能 无人车往哪里开？ 车圈最新认知 A股账户可以买Robotaxi了 Robotaxi双雄同日官宣 杰西卡 2026-06-04 小马智行 文远知行 无人车往哪里开？ 车圈最新认知 “卡车界特斯拉”，刚刚又融了2亿美元 90后天才+70后老将打造 杰西卡 2026-05-26 无人车往哪里开？ 车圈最新认知 零一汽车 无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务 特斯拉学会“躲交警”了 杰西卡 2026-05-25 Waymo 无人车往哪里开？ 特斯拉 车圈最新认知 Robotaxi第一股又涨疯了 卖车收入暴涨116% 杰西卡",
+      "relatedTitles": [
+        "无人车往哪里开？ 一个广告营销老炮"
+      ]
     }
   ],
   "globalLeads": [
@@ -3211,6 +3431,38 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 130
       },
       "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "View All News and Updates",
+      "summary": "Department of Commerce Announces Letters of Intent With 7 Companies for $874 Million to Accelerate Semiconductor R&D for the Compute Supply Chain July 29, 2026 The Department of Co",
+      "source": "NIST AI",
+      "url": "https://www.nist.gov/news-events/news-updates/topic/2753736",
+      "publishedAt": "2026-07-29",
+      "date": "2026-07-29",
+      "region": "US",
+      "category": "监管与安全",
+      "classificationConfidence": 0.85,
+      "hardTechPriority": 100,
+      "globalWhitelistScore": 75,
+      "keywords": "technology policy, AI governance, safety and standards",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use standards, implementation and international rule-setting to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “View All News and Updates” against primary-source evidence.",
+      "priority": 5,
+      "score": 139,
+      "reporterScore": 165,
+      "reporterSignals": {
+        "primary": true,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": true,
+        "hardTechWeight": 100,
+        "reporterScore": 80
+      },
+      "status": "recent_48h",
       "isNewSinceLastRun": true
     },
     {
@@ -3243,7 +3495,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3275,7 +3527,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3307,199 +3559,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Wed, 29 Jul 2026 21:16:39 +0000",
-      "date": "2026-07-29",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Discover what’s next for AI, from the SaaS reckoning to the agent securi” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "publishedAt": "Wed, 29 Jul 2026 15:52:48 +0000",
-      "date": "2026-07-29",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic is finding bugs faster than Microsoft can fix them” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
-      "summary": "Deciding what's real on the Internet won't be easy in the future.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-      "publishedAt": "Wed, 29 Jul 2026 11:00:39 +0000",
-      "date": "2026-07-29",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google's SynthID watermark is hard to break, but it doesn't solve AI dis” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
-      "summary": "Improved efficiency in EPP mode leads to ~32% jump in \"1% low\" frame rates.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
-      "publishedAt": "Wed, 29 Jul 2026 15:33:20 +0000",
-      "date": "2026-07-29",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “New AMD Linux patch boosts low-end gaming performance on Steam Deck” against primary-source evidence.",
-      "priority": 4,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2",
-      "summary": "OpenAI is trying to reassure employees that the business is healthy as competition emerges from Anthropic as well as a host of open-source players.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
-      "publishedAt": "Wed, 29 Jul 2026 23:09:42 GMT",
-      "date": "2026-07-29",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI CFO Sarah Friar tells employees that annualized revenue in July t” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom",
-      "summary": "Nvidia, SK Hynix and Samsung Electronics have led the selloff since market close on Friday.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-      "publishedAt": "Wed, 29 Jul 2026 11:25:02 GMT",
-      "date": "2026-07-29",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.61,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Chip stocks shed more than $1 trillion as selloff hits companies powerin” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3567,23 +3627,183 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "A requiem for Optane, Intel's KV cache killer that could have eased the RAM price crunch",
-      "summary": "",
-      "source": "The Register",
-      "url": "https://www.theregister.com/storage/2026/07/29/a-requiem-for-optane-intels-kv-cache-killer-that-could-have-eased-the-ram-price-crunch/5280063",
-      "publishedAt": "Wed, 29 Jul 2026 01:27:59 +0200",
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Wed, 29 Jul 2026 21:16:39 +0000",
       "date": "2026-07-29",
-      "region": "Europe",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Discover what’s next for AI, from the SaaS reckoning to the agent securi” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+      "publishedAt": "Wed, 29 Jul 2026 15:52:48 +0000",
+      "date": "2026-07-29",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic is finding bugs faster than Microsoft can fix them” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
+      "summary": "Deciding what's real on the Internet won't be easy in the future.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+      "publishedAt": "Wed, 29 Jul 2026 11:00:39 +0000",
+      "date": "2026-07-29",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google's SynthID watermark is hard to break, but it doesn't solve AI dis” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
+      "summary": "Improved efficiency in EPP mode leads to ~32% jump in \"1% low\" frame rates.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
+      "publishedAt": "Wed, 29 Jul 2026 15:33:20 +0000",
+      "date": "2026-07-29",
+      "region": "US",
       "category": "芯片",
       "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "low",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “A requiem for Optane, Intel's KV cache killer that could have eased the ” against primary-source evidence.",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “New AMD Linux patch boosts low-end gaming performance on Steam Deck” against primary-source evidence.",
       "priority": 4,
       "score": 144,
       "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2",
+      "summary": "OpenAI is trying to reassure employees that the business is healthy as competition emerges from Anthropic as well as a host of open-source players.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
+      "publishedAt": "Wed, 29 Jul 2026 23:09:42 GMT",
+      "date": "2026-07-29",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI CFO Sarah Friar tells employees that annualized revenue in July t” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom",
+      "summary": "Nvidia, SK Hynix and Samsung Electronics have led the selloff since market close on Friday.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+      "publishedAt": "Wed, 29 Jul 2026 11:25:02 GMT",
+      "date": "2026-07-29",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.61,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Chip stocks shed more than $1 trillion as selloff hits companies powerin” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -3694,8 +3914,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-30｜V3\n生成时间：2026/7/30 07:46:27\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2580｜确认今日 18｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 10 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-30] 内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptar1235100.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%” against primary-source evidence.\n\n2. [2026-07-30] 我国蜂群无人机首次实现台风过境全程立体观测\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml\n   报道角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国蜂群无人机首次实现台风过境全程立体观测” against primary-source evidence.\n\n3. [2026-07-30] 科学家研制出用于量子计算的硅芯片\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect research infrastructure and long-term innovation capacity to China’s wider innovation capacity. For this item, test the claim behind “科学家研制出用于量子计算的硅芯片” against primary-source evidence.\n\n4. [2026-07-30] AI工具实现大规模蛋白质改造\n   网易科技｜2026-07-30｜https://www.163.com/dy/article/L32N7FUI05198CJN.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI工具实现大规模蛋白质改造” against primary-source evidence.\n\n5. [2026-07-30] SpaceX获得美国太空军16亿美元的合同\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpnut1304977.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX获得美国太空军16亿美元的合同” against primary-source evidence.\n\n本次新增线索：\n- 内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptar1235100.shtml\n- 我国蜂群无人机首次实现台风过境全程立体观测｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml\n- 科学家研制出用于量子计算的硅芯片｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml\n- AI工具实现大规模蛋白质改造｜网易科技｜https://www.163.com/dy/article/L32N7FUI05198CJN.html\n- SpaceX获得美国太空军16亿美元的合同｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpnut1304977.shtml\n- The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n2. Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline｜CNBC Technology｜https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html\n3. Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag｜TechCrunch｜https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/\n4. Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI｜TechCrunch｜https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/\n5. Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026｜TechCrunch｜https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-30｜V3\n生成时间：2026/7/30 07:46:27\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2580｜确认今日 18｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 10 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-30] 内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptar1235100.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%” against primary-source evidence.\n\n2. [2026-07-30] 我国蜂群无人机首次实现台风过境全程立体观测\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml\n   报道角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国蜂群无人机首次实现台风过境全程立体观测” against primary-source evidence.\n\n3. [2026-07-30] 科学家研制出用于量子计算的硅芯片\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect research infrastructure and long-term innovation capacity to China’s wider innovation capacity. For this item, test the claim behind “科学家研制出用于量子计算的硅芯片” against primary-source evidence.\n\n4. [2026-07-30] AI工具实现大规模蛋白质改造\n   网易科技｜2026-07-30｜https://www.163.com/dy/article/L32N7FUI05198CJN.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI工具实现大规模蛋白质改造” against primary-source evidence.\n\n5. [2026-07-30] SpaceX获得美国太空军16亿美元的合同\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpnut1304977.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX获得美国太空军16亿美元的合同” against primary-source evidence.\n\n本次新增线索：\n- 内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptar1235100.shtml\n- 我国蜂群无人机首次实现台风过境全程立体观测｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml\n- 科学家研制出用于量子计算的硅芯片｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml\n- AI工具实现大规模蛋白质改造｜网易科技｜https://www.163.com/dy/article/L32N7FUI05198CJN.html\n- SpaceX获得美国太空军16亿美元的合同｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpnut1304977.shtml\n- The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n2. Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline｜CNBC Technology｜https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html\n3. Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag｜TechCrunch｜https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/\n4. Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI｜TechCrunch｜https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/\n5. Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026｜TechCrunch｜https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-30｜生成时间：2026/7/30 07:46:27｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2580｜确认今日 18｜国际背景 16</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 18 条｜国际 10 条<br>延续跟踪线索：国内 0 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-30] 内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%</strong>\n      <span>新浪科技｜2026-07-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptar1235100.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-30] 我国蜂群无人机首次实现台风过境全程立体观测</strong>\n      <span>新浪科技｜2026-07-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国蜂群无人机首次实现台风过境全程立体观测” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-30] 科学家研制出用于量子计算的硅芯片</strong>\n      <span>新浪科技｜2026-07-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：187｜需核验来源</span>\n      <p>报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect research infrastructure and long-term innovation capacity to China’s wider innovation capacity. For this item, test the claim behind “科学家研制出用于量子计算的硅芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-30] AI工具实现大规模蛋白质改造</strong>\n      <span>网易科技｜2026-07-30｜<a href=\"https://www.163.com/dy/article/L32N7FUI05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI工具实现大规模蛋白质改造” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-30] SpaceX获得美国太空军16亿美元的合同</strong>\n      <span>新浪科技｜2026-07-30｜<a href=\"https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpnut1304977.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX获得美国太空军16亿美元的合同” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The U.S. wants Asia to use its AI — but China dominates cheaper models</strong>\n      <span>时间：Wed, 29 Jul 2026 23:10:46 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “The U.S. wants Asia to use its AI — but China dominates cheaper models” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline</strong>\n      <span>时间：Wed, 29 Jul 2026 20:33:41 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Sam Altman to meet with White House's Wiles this week ahead of AI framew” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag</strong>\n      <span>时间：Wed, 29 Jul 2026 22:46:03 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed b” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI</strong>\n      <span>时间：Wed, 29 Jul 2026 21:07:48 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Thinking Machines co-founder Lilian Weng left the company citing health ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026</strong>\n      <span>时间：Wed, 29 Jul 2026 21:16:39 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Discover what’s next for AI, from the SaaS reckoning to the agent securi” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/30 07:46:27\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 10 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-30] 内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptar1235100.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%” against primary-source evidence.\n\n2. [2026-07-30] 我国蜂群无人机首次实现台风过境全程立体观测\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml\n   角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国蜂群无人机首次实现台风过境全程立体观测” against primary-source evidence.\n\n3. [2026-07-30] 科学家研制出用于量子计算的硅芯片\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml\n   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect research infrastructure and long-term innovation capacity to China’s wider innovation capacity. For this item, test the claim behind “科学家研制出用于量子计算的硅芯片” against primary-source evidence.\n\n4. [2026-07-30] AI工具实现大规模蛋白质改造\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L32N7FUI05198CJN.html\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI工具实现大规模蛋白质改造” against primary-source evidence.\n\n5. [2026-07-30] SpaceX获得美国太空军16亿美元的合同\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpnut1304977.shtml\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX获得美国太空军16亿美元的合同” against primary-source evidence.\n\n本次新增线索：\n- 内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptar1235100.shtml\n- 我国蜂群无人机首次实现台风过境全程立体观测｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml\n- 科学家研制出用于量子计算的硅芯片｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml\n- AI工具实现大规模蛋白质改造｜网易科技｜https://www.163.com/dy/article/L32N7FUI05198CJN.html\n- SpaceX获得美国太空军16亿美元的合同｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpnut1304977.shtml\n- The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（3 条，2 个来源）\n\n国际科技背景：\n1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n2. Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline｜CNBC Technology｜https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html\n3. Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag｜TechCrunch｜https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/\n4. Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI｜TechCrunch｜https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/\n5. Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026｜TechCrunch｜https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-30｜V3\n生成时间：2026/7/30 08:06:45\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2541｜确认今日 21｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 1 条\n延续跟踪线索：国内 15 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-30] 扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2060162.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题” against primary-source evidence.\n\n2. [2026-07-30] 内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptar1235100.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%” against primary-source evidence.\n\n3. [2026-07-30] 科学家研制出用于量子计算的硅芯片\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect research infrastructure and long-term innovation capacity to China’s wider innovation capacity. For this item, test the claim behind “科学家研制出用于量子计算的硅芯片” against primary-source evidence.\n\n4. [2026-07-30] OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2056995.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源” against primary-source evidence.\n\n5. [2026-07-30] 我国蜂群无人机首次实现台风过境全程立体观测\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml\n   报道角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国蜂群无人机首次实现台风过境全程立体观测” against primary-source evidence.\n\n本次新增线索：\n- 扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2060162.shtml\n- OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2056995.shtml\n- 英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议｜IT之家｜https://www.ithome.com/0/983/362.htm\n- AI剧集频登电视“大屏”，释放什么信号｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/30/content_555807.html\n- 微软 Anthropic 投资录得 32 亿美元收益，而 OpenAI 减记 6 亿美元｜IT之家｜https://www.ithome.com/0/983/382.htm\n- View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n2. View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736\n3. Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline｜CNBC Technology｜https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html\n4. Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag｜TechCrunch｜https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/\n5. Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI｜TechCrunch｜https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-30｜V3\n生成时间：2026/7/30 08:06:45\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2541｜确认今日 21｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 1 条\n延续跟踪线索：国内 15 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-30] 扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2060162.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题” against primary-source evidence.\n\n2. [2026-07-30] 内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptar1235100.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%” against primary-source evidence.\n\n3. [2026-07-30] 科学家研制出用于量子计算的硅芯片\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect research infrastructure and long-term innovation capacity to China’s wider innovation capacity. For this item, test the claim behind “科学家研制出用于量子计算的硅芯片” against primary-source evidence.\n\n4. [2026-07-30] OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2056995.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源” against primary-source evidence.\n\n5. [2026-07-30] 我国蜂群无人机首次实现台风过境全程立体观测\n   新浪科技｜2026-07-30｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml\n   报道角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国蜂群无人机首次实现台风过境全程立体观测” against primary-source evidence.\n\n本次新增线索：\n- 扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2060162.shtml\n- OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2056995.shtml\n- 英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议｜IT之家｜https://www.ithome.com/0/983/362.htm\n- AI剧集频登电视“大屏”，释放什么信号｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/30/content_555807.html\n- 微软 Anthropic 投资录得 32 亿美元收益，而 OpenAI 减记 6 亿美元｜IT之家｜https://www.ithome.com/0/983/382.htm\n- View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n2. View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736\n3. Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline｜CNBC Technology｜https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html\n4. Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag｜TechCrunch｜https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/\n5. Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI｜TechCrunch｜https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-30｜生成时间：2026/7/30 08:06:45｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2541｜确认今日 21｜国际背景 16</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 1 条<br>延续跟踪线索：国内 15 条｜国际 15 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-30] 扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题</strong>\n      <span>新浪科技｜2026-07-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2060162.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-30] 内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%</strong>\n      <span>新浪科技｜2026-07-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptar1235100.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-30] 科学家研制出用于量子计算的硅芯片</strong>\n      <span>新浪科技｜2026-07-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：187｜需核验来源</span>\n      <p>报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect research infrastructure and long-term innovation capacity to China’s wider innovation capacity. For this item, test the claim behind “科学家研制出用于量子计算的硅芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-30] OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源</strong>\n      <span>新浪科技｜2026-07-30｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2056995.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-30] 我国蜂群无人机首次实现台风过境全程立体观测</strong>\n      <span>新浪科技｜2026-07-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：182｜需核验来源</span>\n      <p>报道角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国蜂群无人机首次实现台风过境全程立体观测” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The U.S. wants Asia to use its AI — but China dominates cheaper models</strong>\n      <span>时间：Wed, 29 Jul 2026 23:10:46 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “The U.S. wants Asia to use its AI — but China dominates cheaper models” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. View All News and Updates</strong>\n      <span>时间：2026-07-29｜来源：NIST AI｜<a href=\"https://www.nist.gov/news-events/news-updates/topic/2753736\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use standards, implementation and international rule-setting to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “View All News and Updates” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline</strong>\n      <span>时间：Wed, 29 Jul 2026 20:33:41 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Sam Altman to meet with White House's Wiles this week ahead of AI framew” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag</strong>\n      <span>时间：Wed, 29 Jul 2026 22:46:03 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed b” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI</strong>\n      <span>时间：Wed, 29 Jul 2026 21:07:48 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Thinking Machines co-founder Lilian Weng left the company citing health ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/30 08:06:45\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 1 条\n延续跟踪线索：国内 15 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-30] 扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2060162.shtml\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题” against primary-source evidence.\n\n2. [2026-07-30] 内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptar1235100.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存价格暴涨300% 手机市场乱套了！2026上半年SoC出货大跌15%” against primary-source evidence.\n\n3. [2026-07-30] 科学家研制出用于量子计算的硅芯片\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptan9620283.shtml\n   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect research infrastructure and long-term innovation capacity to China’s wider innovation capacity. For this item, test the claim behind “科学家研制出用于量子计算的硅芯片” against primary-source evidence.\n\n4. [2026-07-30] OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2056995.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源” against primary-source evidence.\n\n5. [2026-07-30] 我国蜂群无人机首次实现台风过境全程立体观测\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptat5255375.shtml\n   角度：Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国蜂群无人机首次实现台风过境全程立体观测” against primary-source evidence.\n\n本次新增线索：\n- 扎克伯格发声：美国不应封禁中国AI 应该向内找自身问题｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikptav2060162.shtml\n- OpenAI 计划向 10 万名科学家免费开放 GPT-5.6 系列 AI 模型等资源｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikptav2056995.shtml\n- 英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议｜IT之家｜https://www.ithome.com/0/983/362.htm\n- AI剧集频登电视“大屏”，释放什么信号｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/30/content_555807.html\n- 微软 Anthropic 投资录得 32 亿美元收益，而 OpenAI 减记 6 亿美元｜IT之家｜https://www.ithome.com/0/983/382.htm\n- View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（2 条，1 个来源）\n\n国际科技背景：\n1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n2. View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736\n3. Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline｜CNBC Technology｜https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html\n4. Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag｜TechCrunch｜https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/\n5. Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI｜TechCrunch｜https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
