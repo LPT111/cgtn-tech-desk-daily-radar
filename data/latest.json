@@ -1,64 +1,44 @@
 {
-  "generatedAt": "2026-07-30T23:46:14.121Z",
+  "generatedAt": "2026-07-31T00:12:11.507Z",
   "radarVersion": "v3",
   "targetDate": "2026-07-31",
   "changeSummary": {
-    "domesticNew": 18,
-    "globalNew": 19,
-    "domesticContinued": 0,
-    "globalContinued": 10,
+    "domesticNew": 5,
+    "globalNew": 1,
+    "domesticContinued": 18,
+    "globalContinued": 26,
     "topNewDomestic": [
       {
-        "title": "告别剧本式演示，具身智能进入生产力时代",
+        "title": "筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-07/31/content_556550.html"
+      },
+      {
+        "title": "谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/roll/2026-07-31/doc-inikrvzr0997923.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksaik9291273.shtml"
       },
       {
-        "title": "7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举",
+        "title": "DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4579987.shtml"
       },
       {
-        "title": "美多名议员阻挠苹果采购中国芯片",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L35AA8L205198CJN.html"
-      },
-      {
-        "title": "库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级",
+        "title": "消息称 DeepSeek 计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力",
         "source": "IT之家",
-        "url": "https://www.ithome.com/0/983/920.htm"
+        "url": "https://www.ithome.com/0/983/925.htm"
       },
       {
-        "title": "小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光",
+        "title": "AI 提不出下一个「王的猜想」",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-07-31/doc-inikrvzn9374560.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4580329.shtml"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
-      },
-      {
-        "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-        "source": "WIRED Business",
-        "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/"
-      },
-      {
-        "title": "AI before AI: The forgotten Soviet programme (1/2)",
-        "source": "France24 Technology",
-        "url": "https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme"
-      },
-      {
-        "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-        "source": "WIRED Business",
-        "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/"
-      },
-      {
-        "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/"
+        "title": "View All News and Updates",
+        "source": "NIST AI",
+        "url": "https://www.nist.gov/news-events/news-updates/topic/2753736"
       }
     ],
     "hasPrevious": true
@@ -67,8 +47,8 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 882,
-    "globalRejected": 871,
+    "domesticRejected": 877,
+    "globalRejected": 873,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -95,23 +75,23 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
+      "name": "科技部",
       "error": "fetch failed",
       "optional": false
     },
     {
       "name": "科技部-国际合作",
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -132,23 +112,23 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
+      "name": "科技部",
       "error": "fetch failed",
       "optional": false
     },
     {
       "name": "科技部-国际合作",
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -309,7 +289,7 @@
     {
       "name": "央视新闻科技",
       "tier": "official",
-      "parsed": 2,
+      "parsed": 1,
       "failed": false,
       "optional": true
     },
@@ -325,23 +305,22 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "科技部",
       "tier": "official",
-      "parsed": 20,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -349,14 +328,15 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 11,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -364,7 +344,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -411,12 +391,12 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1370,
+  "itemsSeen": 1338,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 300,
-  "itemsAfterDedupe": 231,
-  "todayItemsSeen": 18,
-  "suspectedItemsSeen": 17,
+  "itemsAfterRelevantFilter": 301,
+  "itemsAfterDedupe": 234,
+  "todayItemsSeen": 23,
+  "suspectedItemsSeen": 15,
   "skippedNonToday": 194,
   "domesticSourceStats": [
     {
@@ -570,7 +550,7 @@
     {
       "name": "央视新闻科技",
       "tier": "official",
-      "parsed": 2,
+      "parsed": 1,
       "failed": false,
       "optional": true
     },
@@ -586,23 +566,22 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "科技部",
       "tier": "official",
-      "parsed": 20,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -610,14 +589,15 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 11,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -625,7 +605,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -740,7 +720,7 @@
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 50,
+      "parsed": 0,
       "failed": false,
       "optional": false
     },
@@ -836,23 +816,23 @@
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
+      "name": "科技部",
       "error": "fetch failed",
       "optional": false
     },
     {
       "name": "科技部-国际合作",
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -880,13 +860,31 @@
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1219,
+  "globalItemsSeen": 1169,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 109,
+  "globalItemsAfterRelevantFilter": 130,
   "topics": [
     {
+      "topic": "AI 应用与智能体",
+      "count": 7,
+      "sourceCount": 4,
+      "sources": [
+        "科技日报",
+        "新浪科技",
+        "IT之家",
+        "网易科技"
+      ],
+      "items": [
+        "筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动",
+        "7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举",
+        "消息称 DeepSeek 计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力",
+        "应对成本竞争压力 OpenAI降价至多80%巩固市场",
+        "多家银行正洽谈为Anthropic的数据中心开发商提供150亿美元贷款 谷歌将提供财务担保和芯片支持"
+      ]
+    },
+    {
       "topic": "AI动态",
-      "count": 5,
+      "count": 6,
       "sourceCount": 3,
       "sources": [
         "IT之家",
@@ -898,23 +896,7 @@
         "打击低质量 AI 内容，领英现允许用户举报 AI 垃圾帖文",
         "马来西亚拟推出“全民人工智能计划”",
         "谷歌：多亏人工智能，6 月修复的 Chrome 漏洞比过去两年总和还多",
-        "亚马逊云业务营收连续第五个季度增长 AI服务需求旺盛"
-      ]
-    },
-    {
-      "topic": "AI 应用与智能体",
-      "count": 5,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "网易科技"
-      ],
-      "items": [
-        "7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举",
-        "应对成本竞争压力 OpenAI降价至多80%巩固市场",
-        "多家银行正洽谈为Anthropic的数据中心开发商提供150亿美元贷款 谷歌将提供财务担保和芯片支持",
-        "AI股受挫之际，城堡投资据悉大举买入前OpenAI研",
-        "OpenAI下调GPT-5.6部分模型价格"
+        "AI 提不出下一个「王的猜想」"
       ]
     },
     {
@@ -932,6 +914,30 @@
       ]
     },
     {
+      "topic": "人形机器人与具身智能",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作",
+        "告别剧本式演示，具身智能进入生产力时代"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布",
+        "台积电泄密案新进展：主犯工程师被判刑10年"
+      ]
+    },
+    {
       "topic": "新能源车与智能驾驶",
       "count": 2,
       "sourceCount": 1,
@@ -941,28 +947,6 @@
       "items": [
         "小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光",
         "从“拼电量”到“拼算力” 汽车产业下半场怎么走"
-      ]
-    },
-    {
-      "topic": "人形机器人与具身智能",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "告别剧本式演示，具身智能进入生产力时代"
-      ]
-    },
-    {
-      "topic": "芯片动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "台积电泄密案新进展：主犯工程师被判刑10年"
       ]
     },
     {
@@ -978,6 +962,210 @@
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动",
+      "summary": "首页 我国启动人工智能大模型IPv6能力提升专项行动 分享到： 据央视新闻报道，记者今天（7月28日）从雄安新区了解到，“人工智能大模型IPv6能力提升专项行动”由中央网信办联合北京、上海、浙江、深圳四地网信办，会同5家头部大模型企业在雄安新区共同启动，推动生成式大模型应用，全面支持IPv6，为智能时代筑牢网络根基。 ",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-07/31/content_556550.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-07/31/content_556550.html"
+      ],
+      "publishedAt": "2026-07-31",
+      "date": "2026-07-31",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 190,
+      "reporterScore": 206,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 130
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动 2026-07-31 07:44:25 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作",
+      "summary": "快科技7月31日消息，昨日，谷歌DeepMind发布博文，宣布推出一款全新的、面向机器人的人工智能模型，声称可使人形机器人能够协调全身动作。新模型名为Gemini Robotics 2，其能够让机器人在执行任务时完成行走、下蹲、操控物体等动...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksaik9291273.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksaik9291273.shtml"
+      ],
+      "publishedAt": "2026-07-31",
+      "date": "2026-07-31",
+      "category": "机器人",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 178,
+      "reporterScore": 192,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "快科技7月31日消息，昨日，谷歌DeepMind发布博文，宣布推出一款全新的、面向机器人的人工智能模型，声称可使人形机器人能够协调全身动作。新模型名为Gemini Robotics 2，其能够让机器人在执行任务时完成行走、下蹲、操控物体等动...",
+      "relatedTitles": [
+        "谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布",
+      "summary": "快科技7月31日消息，瑞萨电子宣布推出第三代DDR5 MRDIMM芯片组解决方案，将服务器级DDR5 MRDIMM传输速率提升至16000 MT/s，较第二代方案带宽提高25%。新方案包含第三代多路复用寄存时钟驱动器（MRCD，型号RRG5...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4579987.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4579987.shtml"
+      ],
+      "publishedAt": "2026-07-31",
+      "date": "2026-07-31",
+      "category": "芯片",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 175,
+      "reporterScore": 183,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "快科技7月31日消息，瑞萨电子宣布推出第三代DDR5 MRDIMM芯片组解决方案，将服务器级DDR5 MRDIMM传输速率提升至16000 MT/s，较第二代方案带宽提高25%。新方案包含第三代多路复用寄存时钟驱动器（MRCD，型号RRG5...",
+      "relatedTitles": [
+        "DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "告别剧本式演示，具身智能进入生产力时代",
@@ -1044,7 +1232,7 @@
       "relatedTitles": [
         "告别剧本式演示，具身智能进入生产力时代"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1112,7 +1300,7 @@
       "relatedTitles": [
         "7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1180,7 +1368,7 @@
       "relatedTitles": [
         "美多名议员阻挠苹果采购中国芯片"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1247,6 +1435,74 @@
       "rawText": "科技媒体 The Verge 今天（7 月 31 日）发布博文，报道称 2026 财年（2025 年 9 月 27 日～2026 年 9 月 26 日）第三财季（2026 年 3 月 28 日～2026 年 6 月 27 日）电话会议上，苹果首席执行官蒂姆 · 库克（Tim Cook）暗示未来将会为高频使用人工智能功能的用户提供付费升级渠道。",
       "relatedTitles": [
         "库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "消息称 DeepSeek 计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力",
+      "summary": "据彭博社报道，DeepSeek 正扩大算力布局，计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力。部分算力预计 2027 年底或 2028 年初投用，目前暂不清楚项目所用芯片。#DeepSeekAI数据中心#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/983/925.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/983/925.htm"
+      ],
+      "publishedAt": "Fri, 31 Jul 2026 00:08:56 GMT",
+      "date": "2026-07-31",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 163,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “消息称 DeepSeek 计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "据彭博社报道，DeepSeek 正扩大算力布局，计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力。部分算力预计 2027 年底或 2028 年初投用，目前暂不清楚项目所用芯片。#DeepSeekAI数据中心#",
+      "relatedTitles": [
+        "消息称 DeepSeek 计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力"
       ],
       "isNewSinceLastRun": true
     },
@@ -1316,7 +1572,7 @@
       "relatedTitles": [
         "小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1384,7 +1640,7 @@
       "relatedTitles": [
         "从“拼电量”到“拼算力” 汽车产业下半场怎么走"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1452,7 +1708,7 @@
       "relatedTitles": [
         "应对成本竞争压力 OpenAI降价至多80%巩固市场"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1520,7 +1776,7 @@
       "relatedTitles": [
         "打击低质量 AI 内容，领英现允许用户举报 AI 垃圾帖文"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1588,7 +1844,7 @@
       "relatedTitles": [
         "台积电泄密案新进展：主犯工程师被判刑10年"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1656,7 +1912,7 @@
       "relatedTitles": [
         "三星难逃“周期魔咒”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1724,7 +1980,7 @@
       "relatedTitles": [
         "马来西亚拟推出“全民人工智能计划”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1792,7 +2048,7 @@
       "relatedTitles": [
         "谷歌：多亏人工智能，6 月修复的 Chrome 漏洞比过去两年总和还多"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1860,7 +2116,7 @@
       "relatedTitles": [
         "7月31日热门中概股多数上涨 台积电涨7.63%，理想汽车跌2.25%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1930,7 +2186,7 @@
         "Anthropic拟获150亿美元融资建设得州AI数据中心",
         "多家银行正洽谈为Anthropic的数据中心开发商提供150亿美元贷款 谷歌将提供财务担保和芯片支持"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1997,6 +2253,74 @@
       "rawText": "据新华社电 美国国家航空航天局（NASA）7月28日表示，用于抬升尼尔·格雷尔斯·斯威夫特（又称“雨燕”）天文台轨道的商业在轨服务航天器日前出现技术故障。目前，任务团队正尝试恢复航天器稳定姿态，并评估后续任务计划。这一代号“LINK”的航天...",
       "relatedTitles": [
         "美提升“雨燕”天文台轨道的航天器出现技术故障"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "AI 提不出下一个「王的猜想」",
+      "summary": "来源：36氪即便AI已经会证明复杂的数学猜想，却还想不出爱因斯坦脑中的那台电梯。来源｜APPSO（ID：appsolution）封面来源｜pexels过去几天，一篇名为《王的猜想》的文章刷屏了。它原本是《广西日报》为数学家王虹写的一篇人物特...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4580329.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4580329.shtml"
+      ],
+      "publishedAt": "2026-07-31",
+      "date": "2026-07-31",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI 提不出下一个「王的猜想」” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "来源：36氪即便AI已经会证明复杂的数学猜想，却还想不出爱因斯坦脑中的那台电梯。来源｜APPSO（ID：appsolution）封面来源｜pexels过去几天，一篇名为《王的猜想》的文章刷屏了。它原本是《广西日报》为数学家王虹写的一篇人物特...",
+      "relatedTitles": [
+        "AI 提不出下一个「王的猜想」"
       ],
       "isNewSinceLastRun": true
     },
@@ -2066,7 +2390,7 @@
       "relatedTitles": [
         "AI股受挫之际，城堡投资据悉大举买入前OpenAI研"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2134,7 +2458,7 @@
       "relatedTitles": [
         "OpenAI下调GPT-5.6部分模型价格"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2202,7 +2526,7 @@
       "relatedTitles": [
         "亚马逊云业务营收连续第五个季度增长 AI服务需求旺盛"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2271,73 +2595,6 @@
       "rawText": "在7月18日举行的2026世界人工智能大会（WAIC）期间，珠海硅芯科技有限公司（以下简称硅芯科技）创始人兼首席科学家赵毅应邀出席“重构算力——AI算力需求与供给的结构性重构”产业链接会。",
       "relatedTitles": [
         "WAIC观察：3DIC EDA + AI 智能体，如何重构STCO新范式？"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "提供美国25%药物研发，药明康德为何屡遭打击？",
-      "summary": "首页 提供美国25%药物研发，药明康德为何屡遭打击？ 分享到： 新西兰外长叫华裔议员“回自己国家”，中国大使罕见发声 和美德决裂、赞扬中国…法国这个总统候选人有多头铁 “从零件设备到员工，SpaceX要求全面剔除中国因素” 陕西省文旅厅：“网民骚扰要求拆除唐代古迹”信息不实 这就是“言论自由”？俄女记者因“亲俄”遭法国",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/industry-science/2024_08_21_745528.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/industry-science/2024_08_21_745528.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "太空与低空",
-      "classificationConfidence": 0.76,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "priority": 5,
-      "score": 147,
-      "reporterScore": 169,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 118
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “提供美国25%药物研发，药明康德为何屡遭打击？” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "低空经济与无人机",
-      "rawText": "首页 提供美国25%药物研发，药明康德为何屡遭打击？ 分享到： 新西兰外长叫华裔议员“回自己国家”，中国大使罕见发声 和美德决裂、赞扬中国…法国这个总统候选人有多头铁 “从零件设备到员工，SpaceX要求全面剔除中国因素” 陕西省文旅厅：“网民骚扰要求拆除唐代古迹”信息不实 这就是“言论自由”？俄女记者因“亲俄”遭法国下令驱逐 董宇辉自称看了500多遍《大话西游》，周星驰反应亮了 非洲媒体人直言：中国做了大量实事，但急需提升“可见度” 颜宁：我勉强算人才，王虹才叫天才，“贫个嘴，看看人家（北大）” 上半年国内游戏市场收入超1884亿元，同比增长12% 美工程师咋呼：不得了，中国AI搜出来“台湾属于中国” 憋坏招，“应对中国，印度得再加把劲” “暗杀未遂”，俄罗斯一家无人机制造商创始人遭枪击 CNN主持人：我跟中国机器人一较高下 日本熊本地震已造成17人死亡 “中国全球最大份额品类+1，美国-4” 我国成功发射通信技术试验卫星二十七号A/B星",
-      "relatedTitles": [
-        "提供美国25%药物研发，药明康德为何屡遭打击？"
       ]
     },
     {
@@ -2606,73 +2863,6 @@
       "rawText": "据美国《洛杉矶时报》7月26日报道，中国人工智能模型正在美国市场获得越来越多关注，逐渐占据市场。一些美国开发",
       "relatedTitles": [
         "“便宜、开放又够强，中国AI模型正在美国攻城略地”"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "我国启动人工智能大模型IPv6能力提升专项行动",
-      "summary": "首页 我国启动人工智能大模型IPv6能力提升专项行动 分享到： 据央视新闻报道，记者今天（7月28日）从雄安新区了解到，“人工智能大模型IPv6能力提升专项行动”由中央网信办联合北京、上海、浙江、深圳四地网信办，会同5家头部大模型企业在雄安新区共同启动，推动生成式大模型应用，全面支持IPv6，为智能时代筑牢网络根基。 ",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/politics/2026_07_28_825368.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/politics/2026_07_28_825368.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 147,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “我国启动人工智能大模型IPv6能力提升专项行动” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "首页 我国启动人工智能大模型IPv6能力提升专项行动 分享到： 据央视新闻报道，记者今天（7月28日）从雄安新区了解到，“人工智能大模型IPv6能力提升专项行动”由中央网信办联合北京、上海、浙江、深圳四地网信办，会同5家头部大模型企业在雄安新区共同启动，推动生成式大模型应用，全面支持IPv6，为智能时代筑牢网络根基。 当前，基于人工智能大模型的各类应用蓬勃发展，Token流量呈现爆发式增长趋势，对网络承载能力提出了新要求。IPv6凭借海量地址空间、高效路由机制和内生安全能力成为支撑大模型应用的关键底座。这次专项行动为期一年，将着力增强大模型IPv6规模化应用能力，完善大模型IPv6管理规范，提高大模型基础设施IPv6支持水平，推动大模型应用IPv6放量引流，提升大模型API调用IPv6访问占比，推进大模型与IPv6融合创新，促进互联网向原生智能演进。 今天还正式启动了雄安新区IPv6单栈部署行动。雄安新区将全面推进单栈IPv6部署，从夯基础、广赋能、强攻关、育生态四个维度协同发力，到2030年新建片区将全面实现IPv6单栈规模化运行。 新西兰外长叫华裔议员“回自己国家”，中国大使罕见发",
-      "relatedTitles": [
-        "我国启动人工智能大模型IPv6能力提升专项行动"
       ]
     },
     {
@@ -3381,6 +3571,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "View All News and Updates",
+      "summary": "Department of Commerce Announces Letters of Intent With 7 Companies for $874 Million to Accelerate Semiconductor R&D for the Compute Supply Chain July 29, 2026 The Department of Co",
+      "source": "NIST AI",
+      "url": "https://www.nist.gov/news-events/news-updates/topic/2753736",
+      "publishedAt": "2026-07-29",
+      "date": "2026-07-29",
+      "region": "US",
+      "category": "监管与安全",
+      "classificationConfidence": 0.85,
+      "hardTechPriority": 100,
+      "globalWhitelistScore": 75,
+      "keywords": "technology policy, AI governance, safety and standards",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use standards, implementation and international rule-setting to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “View All News and Updates” against primary-source evidence.",
+      "priority": 5,
+      "score": 139,
+      "reporterScore": 165,
+      "reporterSignals": {
+        "primary": true,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": true,
+        "hardTechWeight": 100,
+        "reporterScore": 80
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
       "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
       "source": "TechCrunch",
@@ -3409,7 +3631,7 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3441,7 +3663,7 @@
         "reporterScore": 120
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3473,7 +3695,7 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3505,7 +3727,7 @@
         "reporterScore": 103
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3537,423 +3759,7 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "publishedAt": "Thu, 30 Jul 2026 23:08:58 +0000",
-      "date": "2026-07-30",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Reddit reports a solid quarter but shows signs of AI’s impact” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "publishedAt": "Thu, 30 Jul 2026 22:41:41 +0000",
-      "date": "2026-07-30",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Investors love AI, as long as you’re a cloud host” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to ",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "publishedAt": "Thu, 30 Jul 2026 18:57:58 +0000",
-      "date": "2026-07-30",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google says it fixed more Chrome bugs in June than over the past two yea” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung warns memory crunch will last through 2028 as profit rises 19-fold",
-      "summary": "Tech giant counts record piles of cash while buyers face years of elevated prices",
-      "source": "The Register",
-      "url": "https://www.theregister.com/systems/2026/07/30/samsung-warns-memory-crunch-will-last-through-2028-as-profit-rises-19-fold/5281142",
-      "publishedAt": "Thu, 30 Jul 2026 15:50:00 +0200",
-      "date": "2026-07-30",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung warns memory crunch will last through 2028 as profit rises 19-fo” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "publishedAt": "Wed, 29 Jul 2026 15:52:48 +0000",
-      "date": "2026-07-29",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic is finding bugs faster than Microsoft can fix them” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
-      "summary": "Deciding what's real on the Internet won't be easy in the future.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-      "publishedAt": "Wed, 29 Jul 2026 11:00:39 +0000",
-      "date": "2026-07-29",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google's SynthID watermark is hard to break, but it doesn't solve AI dis” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Amazon's AWS posts fastest growth since 2021, citing AI and chip demand",
-      "summary": "Amazon Web Services announced new business with Meta and OpenAI in the quarter.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/30/aws-earnings-q2-2026.html",
-      "publishedAt": "Thu, 30 Jul 2026 20:29:43 GMT",
-      "date": "2026-07-30",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.88,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Amazon's AWS posts fastest growth since 2021, citing AI and chip demand” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "The Convergence Revolution — When AI Meets Every Emerging Technology",
-      "summary": "Artificial intelligence's true revolutionary impact stems from its convergence with other advanced technologies",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/articles/convergence-revolution-ai-meets-every-233004193.html",
-      "publishedAt": "2026-07-31",
-      "date": "2026-07-31",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The Convergence Revolution — When AI Meets Every Emerging Technology” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Reddit CEO says Google's AI Overviews can't replace '10 blue links' for referral traffic",
-      "summary": "Reddit CEO Steve Huffman said his company has to find ways to work around changes at Google, which is delivering less traffic than in the past.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/30/reddit-ceo-says-googles-ai-overviews-cant-replace-10-blue-links-.html",
-      "publishedAt": "Thu, 30 Jul 2026 22:53:05 GMT",
-      "date": "2026-07-30",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Reddit CEO says Google's AI Overviews can't replace '10 blue links' for ” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "AMD and Micron surge, Lam Research climbs 17% as chip stocks rip higher",
-      "summary": "Strong earnings from Lam Research, Microsoft and Arm boosted hard-hit semiconductor stocks.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/30/chip-stock-rally-lam-research-micron-amd.html",
-      "publishedAt": "Thu, 30 Jul 2026 20:04:13 GMT",
-      "date": "2026-07-30",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “AMD and Micron surge, Lam Research climbs 17% as chip stocks rip higher” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung could finally build Galaxy Buds with ear hooks for workouts",
-      "summary": "Samsung's leaked open-ear Galaxy Buds could finally give fitness fans a secure workout option, setting the stage for a showdown with Shokz and other established rivals.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/audio/articles/samsung-could-finally-build-galaxy-163600858.html",
-      "publishedAt": "2026-07-31",
-      "date": "2026-07-31",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung could finally build Galaxy Buds with ear hooks for workouts” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Galaxy S27 Release Date: Samsung Plans Huge Battery Life Upgrade",
-      "summary": "Samsung is bringing silicon-carbon batteries to the Galaxy S27 series, with huge increases. Here's what that means and the risk Samsung is taking.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/galaxy-s27-release-date-samsung-195551815.html",
-      "publishedAt": "2026-07-31",
-      "date": "2026-07-31",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Galaxy S27 Release Date: Samsung Plans Huge Battery Life Upgrade” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung's Fold 8 Preorders Are Outpacing Last Year's Fold 7 by 5x",
-      "summary": "And during RAMageddon, no less.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/samsungs-fold-8-preorders-outpacing-183023608.html",
-      "publishedAt": "2026-07-31",
-      "date": "2026-07-31",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung's Fold 8 Preorders Are Outpacing Last Year's Fold 7 by 5x” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3986,38 +3792,6 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tesla made its 10 millionth EV",
-      "summary": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
-      "publishedAt": "Thu, 30 Jul 2026 16:00:25 +0000",
-      "date": "2026-07-30",
-      "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla made its 10 millionth EV” against primary-source evidence.",
-      "priority": 5,
-      "score": 134,
-      "reporterScore": 134,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4085,20 +3859,20 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
-      "summary": "Capex spending? What? Me worry?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
-      "publishedAt": "Thu, 30 Jul 2026 01:17:56 +0200",
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "publishedAt": "Thu, 30 Jul 2026 23:08:58 +0000",
       "date": "2026-07-30",
-      "region": "Europe",
+      "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.62,
+      "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Microsoft's cloud brings rain of revenue but modest M365 AI revenue harv” against primary-source evidence.",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Reddit reports a solid quarter but shows signs of AI’s impact” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -4117,21 +3891,117 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "A requiem for Optane, Intel's KV cache killer that could have eased the RAM price crunch",
-      "summary": "With microscopic latencies and otherworldly write endurance, it was perfect for today",
-      "source": "The Register",
-      "url": "https://www.theregister.com/storage/2026/07/29/a-requiem-for-optane-intels-kv-cache-killer-that-could-have-eased-the-ram-price-crunch/5280063",
-      "publishedAt": "Wed, 29 Jul 2026 01:27:59 +0200",
-      "date": "2026-07-29",
-      "region": "Europe",
-      "category": "芯片",
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "publishedAt": "Thu, 30 Jul 2026 22:41:41 +0000",
+      "date": "2026-07-30",
+      "region": "US",
+      "category": "AI",
       "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “A requiem for Optane, Intel's KV cache killer that could have eased the ” against primary-source evidence.",
-      "priority": 4,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Investors love AI, as long as you’re a cloud host” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "publishedAt": "Thu, 30 Jul 2026 18:57:58 +0000",
+      "date": "2026-07-30",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google says it fixed more Chrome bugs in June than over the past two yea” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+      "publishedAt": "Wed, 29 Jul 2026 15:52:48 +0000",
+      "date": "2026-07-29",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic is finding bugs faster than Microsoft can fix them” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
+      "summary": "Deciding what's real on the Internet won't be easy in the future.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+      "publishedAt": "Wed, 29 Jul 2026 11:00:39 +0000",
+      "date": "2026-07-29",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google's SynthID watermark is hard to break, but it doesn't solve AI dis” against primary-source evidence.",
+      "priority": 5,
       "score": 144,
       "reporterScore": 144,
       "reporterSignals": {
@@ -4181,6 +4051,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Amazon's AWS posts fastest growth since 2021, citing AI and chip demand",
+      "summary": "Amazon Web Services announced new business with Meta and OpenAI in the quarter.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/30/aws-earnings-q2-2026.html",
+      "publishedAt": "Thu, 30 Jul 2026 20:29:43 GMT",
+      "date": "2026-07-30",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.88,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Amazon's AWS posts fastest growth since 2021, citing AI and chip demand” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2",
       "summary": "OpenAI is trying to reassure employees that the business is healthy as competition emerges from Anthropic as well as a host of open-source players.",
       "source": "CNBC Technology",
@@ -4195,6 +4097,102 @@
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI CFO Sarah Friar tells employees that annualized revenue in July t” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "The Convergence Revolution — When AI Meets Every Emerging Technology",
+      "summary": "Artificial intelligence's true revolutionary impact stems from its convergence with other advanced technologies",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/articles/convergence-revolution-ai-meets-every-233004193.html",
+      "publishedAt": "2026-07-31",
+      "date": "2026-07-31",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The Convergence Revolution — When AI Meets Every Emerging Technology” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Reddit CEO says Google's AI Overviews can't replace '10 blue links' for referral traffic",
+      "summary": "Reddit CEO Steve Huffman said his company has to find ways to work around changes at Google, which is delivering less traffic than in the past.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/30/reddit-ceo-says-googles-ai-overviews-cant-replace-10-blue-links-.html",
+      "publishedAt": "Thu, 30 Jul 2026 22:53:05 GMT",
+      "date": "2026-07-30",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Reddit CEO says Google's AI Overviews can't replace '10 blue links' for ” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "AMD and Micron surge, Lam Research climbs 17% as chip stocks rip higher",
+      "summary": "Strong earnings from Lam Research, Microsoft and Arm boosted hard-hit semiconductor stocks.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/30/chip-stock-rally-lam-research-micron-amd.html",
+      "publishedAt": "Thu, 30 Jul 2026 20:04:13 GMT",
+      "date": "2026-07-30",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “AMD and Micron surge, Lam Research climbs 17% as chip stocks rip higher” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -4274,10 +4272,138 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung could finally build Galaxy Buds with ear hooks for workouts",
+      "summary": "Samsung's leaked open-ear Galaxy Buds could finally give fitness fans a secure workout option, setting the stage for a showdown with Shokz and other established rivals.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/audio/articles/samsung-could-finally-build-galaxy-163600858.html",
+      "publishedAt": "2026-07-31",
+      "date": "2026-07-31",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung could finally build Galaxy Buds with ear hooks for workouts” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Galaxy S27 Release Date: Samsung Plans Huge Battery Life Upgrade",
+      "summary": "Samsung is bringing silicon-carbon batteries to the Galaxy S27 series, with huge increases. Here's what that means and the risk Samsung is taking.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/articles/galaxy-s27-release-date-samsung-195551815.html",
+      "publishedAt": "2026-07-31",
+      "date": "2026-07-31",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Galaxy S27 Release Date: Samsung Plans Huge Battery Life Upgrade” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung's Fold 8 Preorders Are Outpacing Last Year's Fold 7 by 5x",
+      "summary": "And during RAMageddon, no less.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/articles/samsungs-fold-8-preorders-outpacing-183023608.html",
+      "publishedAt": "2026-07-31",
+      "date": "2026-07-31",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Samsung's Fold 8 Preorders Are Outpacing Last Year's Fold 7 by 5x” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Tesla made its 10 millionth EV",
+      "summary": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+      "publishedAt": "Thu, 30 Jul 2026 16:00:25 +0000",
+      "date": "2026-07-30",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla made its 10 millionth EV” against primary-source evidence.",
+      "priority": 5,
+      "score": 134,
+      "reporterScore": 134,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-31｜V3\n生成时间：2026/7/31 07:46:14\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2589｜确认今日 18｜国际背景 29\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 19 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-31] 告别剧本式演示，具身智能进入生产力时代\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/roll/2026-07-31/doc-inikrvzr0997923.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “告别剧本式演示，具身智能进入生产力时代” against primary-source evidence.\n\n2. [2026-07-31] 7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举” against primary-source evidence.\n\n3. [2026-07-31] 美多名议员阻挠苹果采购中国芯片\n   网易科技｜2026-07-31｜https://www.163.com/dy/article/L35AA8L205198CJN.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “美多名议员阻挠苹果采购中国芯片” against primary-source evidence.\n\n4. [23:36] 库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级\n   IT之家｜2026-07-31｜https://www.ithome.com/0/983/920.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级” against primary-source evidence.\n\n5. [2026-07-31] 小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-inikrvzn9374560.shtml\n   报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光” against primary-source evidence.\n\n本次新增线索：\n- 告别剧本式演示，具身智能进入生产力时代｜新浪科技｜https://finance.sina.com.cn/roll/2026-07-31/doc-inikrvzr0997923.shtml\n- 7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml\n- 美多名议员阻挠苹果采购中国芯片｜网易科技｜https://www.163.com/dy/article/L35AA8L205198CJN.html\n- 库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级｜IT之家｜https://www.ithome.com/0/983/920.htm\n- 小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-inikrvzn9374560.shtml\n- AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares｜TechCrunch｜https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n2. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares｜TechCrunch｜https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Gemini Robotics 2 Brings Google's AI Into the Physical World｜WIRED Business｜https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-31｜V3\n生成时间：2026/7/31 07:46:14\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2589｜确认今日 18｜国际背景 29\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 19 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-31] 告别剧本式演示，具身智能进入生产力时代\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/roll/2026-07-31/doc-inikrvzr0997923.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “告别剧本式演示，具身智能进入生产力时代” against primary-source evidence.\n\n2. [2026-07-31] 7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举” against primary-source evidence.\n\n3. [2026-07-31] 美多名议员阻挠苹果采购中国芯片\n   网易科技｜2026-07-31｜https://www.163.com/dy/article/L35AA8L205198CJN.html\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “美多名议员阻挠苹果采购中国芯片” against primary-source evidence.\n\n4. [23:36] 库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级\n   IT之家｜2026-07-31｜https://www.ithome.com/0/983/920.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级” against primary-source evidence.\n\n5. [2026-07-31] 小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-inikrvzn9374560.shtml\n   报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光” against primary-source evidence.\n\n本次新增线索：\n- 告别剧本式演示，具身智能进入生产力时代｜新浪科技｜https://finance.sina.com.cn/roll/2026-07-31/doc-inikrvzr0997923.shtml\n- 7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml\n- 美多名议员阻挠苹果采购中国芯片｜网易科技｜https://www.163.com/dy/article/L35AA8L205198CJN.html\n- 库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级｜IT之家｜https://www.ithome.com/0/983/920.htm\n- 小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-inikrvzn9374560.shtml\n- AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares｜TechCrunch｜https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n2. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares｜TechCrunch｜https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Gemini Robotics 2 Brings Google's AI Into the Physical World｜WIRED Business｜https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-31｜生成时间：2026/7/31 07:46:14｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2589｜确认今日 18｜国际背景 29</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 18 条｜国际 19 条<br>延续跟踪线索：国内 0 条｜国际 10 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-31] 告别剧本式演示，具身智能进入生产力时代</strong>\n      <span>新浪科技｜2026-07-31｜<a href=\"https://finance.sina.com.cn/roll/2026-07-31/doc-inikrvzr0997923.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “告别剧本式演示，具身智能进入生产力时代” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-31] 7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举</strong>\n      <span>新浪科技｜2026-07-31｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-31] 美多名议员阻挠苹果采购中国芯片</strong>\n      <span>网易科技｜2026-07-31｜<a href=\"https://www.163.com/dy/article/L35AA8L205198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “美多名议员阻挠苹果采购中国芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [23:36] 库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级</strong>\n      <span>IT之家｜2026-07-31｜<a href=\"https://www.ithome.com/0/983/920.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：179｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-31] 小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光</strong>\n      <span>新浪科技｜2026-07-31｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-31/doc-inikrvzn9374560.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：175｜需核验来源</span>\n      <p>报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The U.S. wants Asia to use its AI — but China dominates cheaper models</strong>\n      <span>时间：Wed, 29 Jul 2026 23:10:46 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “The U.S. wants Asia to use its AI — but China dominates cheaper models” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares</strong>\n      <span>时间：Thu, 30 Jul 2026 23:25:58 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI hedge fund Situational Awareness may have sold its public portfolio, ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic</strong>\n      <span>时间：Thu, 30 Jul 2026 17:51:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anth” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AI before AI: The forgotten Soviet programme (1/2)</strong>\n      <span>时间：2026-07-30｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI before AI: The forgotten Soviet programme (1/2)” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Gemini Robotics 2 Brings Google's AI Into the Physical World</strong>\n      <span>时间：Thu, 30 Jul 2026 15:04:22 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/google-gemini-can-control-humanoid-robots/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Gemini Robotics 2 Brings Google's AI Into the Physical World” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/31 07:46:14\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 19 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-31] 告别剧本式演示，具身智能进入生产力时代\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-07-31/doc-inikrvzr0997923.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “告别剧本式演示，具身智能进入生产力时代” against primary-source evidence.\n\n2. [2026-07-31] 7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举” against primary-source evidence.\n\n3. [2026-07-31] 美多名议员阻挠苹果采购中国芯片\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L35AA8L205198CJN.html\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “美多名议员阻挠苹果采购中国芯片” against primary-source evidence.\n\n4. [23:36] 库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级\n   来源：IT之家\n   链接：https://www.ithome.com/0/983/920.htm\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级” against primary-source evidence.\n\n5. [2026-07-31] 小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-31/doc-inikrvzn9374560.shtml\n   角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光” against primary-source evidence.\n\n本次新增线索：\n- 告别剧本式演示，具身智能进入生产力时代｜新浪科技｜https://finance.sina.com.cn/roll/2026-07-31/doc-inikrvzr0997923.shtml\n- 7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml\n- 美多名议员阻挠苹果采购中国芯片｜网易科技｜https://www.163.com/dy/article/L35AA8L205198CJN.html\n- 库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级｜IT之家｜https://www.ithome.com/0/983/920.htm\n- 小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-inikrvzn9374560.shtml\n- AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares｜TechCrunch｜https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n2. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares｜TechCrunch｜https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Gemini Robotics 2 Brings Google's AI Into the Physical World｜WIRED Business｜https://www.wired.com/story/google-gemini-can-control-humanoid-robots/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-31｜V3\n生成时间：2026/7/31 08:12:11\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2507｜确认今日 23｜国际背景 27\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 1 条\n延续跟踪线索：国内 18 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-31] 筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动\n   科技日报｜2026-07-31｜https://www.stdaily.com/web/gdxw/2026-07/31/content_556550.html\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动” against primary-source evidence.\n\n2. [2026-07-31] 谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksaik9291273.shtml\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作” against primary-source evidence.\n\n3. [2026-07-31] DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4579987.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布” against primary-source evidence.\n\n4. [2026-07-31] 告别剧本式演示，具身智能进入生产力时代\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/roll/2026-07-31/doc-inikrvzr0997923.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “告别剧本式演示，具身智能进入生产力时代” against primary-source evidence.\n\n5. [2026-07-31] 7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举” against primary-source evidence.\n\n本次新增线索：\n- 筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/31/content_556550.html\n- 谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksaik9291273.shtml\n- DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4579987.shtml\n- 消息称 DeepSeek 计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力｜IT之家｜https://www.ithome.com/0/983/925.htm\n- AI 提不出下一个「王的猜想」｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4580329.shtml\n- View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，4 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n2. View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736\n3. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares｜TechCrunch｜https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/\n4. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n5. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-07-31｜V3\n生成时间：2026/7/31 08:12:11\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2507｜确认今日 23｜国际背景 27\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 1 条\n延续跟踪线索：国内 18 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-31] 筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动\n   科技日报｜2026-07-31｜https://www.stdaily.com/web/gdxw/2026-07/31/content_556550.html\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动” against primary-source evidence.\n\n2. [2026-07-31] 谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksaik9291273.shtml\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作” against primary-source evidence.\n\n3. [2026-07-31] DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4579987.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布” against primary-source evidence.\n\n4. [2026-07-31] 告别剧本式演示，具身智能进入生产力时代\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/roll/2026-07-31/doc-inikrvzr0997923.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “告别剧本式演示，具身智能进入生产力时代” against primary-source evidence.\n\n5. [2026-07-31] 7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举\n   新浪科技｜2026-07-31｜https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举” against primary-source evidence.\n\n本次新增线索：\n- 筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/31/content_556550.html\n- 谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksaik9291273.shtml\n- DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4579987.shtml\n- 消息称 DeepSeek 计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力｜IT之家｜https://www.ithome.com/0/983/925.htm\n- AI 提不出下一个「王的猜想」｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4580329.shtml\n- View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，4 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n2. View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736\n3. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares｜TechCrunch｜https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/\n4. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n5. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-07-31｜生成时间：2026/7/31 08:12:11｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2507｜确认今日 23｜国际背景 27</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 5 条｜国际 1 条<br>延续跟踪线索：国内 18 条｜国际 26 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-07-31] 筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动</strong>\n      <span>科技日报｜2026-07-31｜<a href=\"https://www.stdaily.com/web/gdxw/2026-07/31/content_556550.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：206｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-07-31] 谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作</strong>\n      <span>新浪科技｜2026-07-31｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksaik9291273.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-07-31] DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布</strong>\n      <span>新浪科技｜2026-07-31｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4579987.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-07-31] 告别剧本式演示，具身智能进入生产力时代</strong>\n      <span>新浪科技｜2026-07-31｜<a href=\"https://finance.sina.com.cn/roll/2026-07-31/doc-inikrvzr0997923.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “告别剧本式演示，具身智能进入生产力时代” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-07-31] 7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举</strong>\n      <span>新浪科技｜2026-07-31｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The U.S. wants Asia to use its AI — but China dominates cheaper models</strong>\n      <span>时间：Wed, 29 Jul 2026 23:10:46 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “The U.S. wants Asia to use its AI — but China dominates cheaper models” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. View All News and Updates</strong>\n      <span>时间：2026-07-29｜来源：NIST AI｜<a href=\"https://www.nist.gov/news-events/news-updates/topic/2753736\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use standards, implementation and international rule-setting to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “View All News and Updates” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares</strong>\n      <span>时间：Thu, 30 Jul 2026 23:25:58 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI hedge fund Situational Awareness may have sold its public portfolio, ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic</strong>\n      <span>时间：Thu, 30 Jul 2026 17:51:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anth” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. AI before AI: The forgotten Soviet programme (1/2)</strong>\n      <span>时间：2026-07-30｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI before AI: The forgotten Soviet programme (1/2)” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/7/31 08:12:11\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 1 条\n延续跟踪线索：国内 18 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-07-31] 筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-07/31/content_556550.html\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动” against primary-source evidence.\n\n2. [2026-07-31] 谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksaik9291273.shtml\n   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作” against primary-source evidence.\n\n3. [2026-07-31] DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4579987.shtml\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布” against primary-source evidence.\n\n4. [2026-07-31] 告别剧本式演示，具身智能进入生产力时代\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-07-31/doc-inikrvzr0997923.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “告别剧本式演示，具身智能进入生产力时代” against primary-source evidence.\n\n5. [2026-07-31] 7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举” against primary-source evidence.\n\n本次新增线索：\n- 筑牢智能时代网络根基 人工智能大模型IPv6能力提升专项行动启动｜科技日报｜https://www.stdaily.com/web/gdxw/2026-07/31/content_556550.html\n- 谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksaik9291273.shtml\n- DDR5内存冲到16000MT/s！第三代MRDIMM芯片组正式发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4579987.shtml\n- 消息称 DeepSeek 计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力｜IT之家｜https://www.ithome.com/0/983/925.htm\n- AI 提不出下一个「王的猜想」｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-07-31/doc-iniksair4580329.shtml\n- View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，4 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. The U.S. wants Asia to use its AI — but China dominates cheaper models｜CNBC Technology｜https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html\n2. View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736\n3. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares｜TechCrunch｜https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/\n4. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n5. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
