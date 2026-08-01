@@ -1,66 +1,20 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-07-31T23:46:45.563Z",
+  "generatedAt": "2026-08-01T00:09:04.016Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-01",
   "changeSummary": {
-    "domesticNew": 6,
-    "globalNew": 17,
-    "domesticContinued": 0,
-    "globalContinued": 9,
+    "domesticNew": 1,
+    "globalNew": 0,
+    "domesticContinued": 5,
+    "globalContinued": 26,
     "topNewDomestic": [
       {
-        "title": "OpenAI本周预览了AI模型Astra",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L37QSGV205198CJN.html"
-      },
-      {
-        "title": "8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池",
+        "title": "OpenAI本周向美国决策者演示新模型系列Astra",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml"
-      },
-      {
-        "title": "华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml"
-      },
-      {
-        "title": "DeepSeek又更新了，这次梁文锋没放大招",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L37D8PKI051188EA.html"
-      },
-      {
-        "title": "俞大鹏：量子计算——从理论构想到未来引擎",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml"
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Chinese AI Researchers Are Finding Their Voice on X",
-        "source": "WIRED Business",
-        "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/"
-      },
-      {
-        "title": "A discarded SpaceX rocket is on a high-speed collision course with the moon",
-        "source": "AP Technology",
-        "url": "https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5"
-      },
-      {
-        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
-      },
-      {
-        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/"
-      },
-      {
-        "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
@@ -82,13 +36,8 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 29,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -103,11 +52,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -117,11 +61,6 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -135,11 +74,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -151,7 +85,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 182,
+      "parsed": 167,
       "failed": false,
       "optional": false
     },
@@ -201,8 +135,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -365,9 +298,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 60,
+      "failed": false,
       "optional": false
     },
     {
@@ -400,18 +332,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1306,
+  "itemsSeen": 1351,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 271,
-  "itemsAfterDedupe": 220,
+  "itemsAfterRelevantFilter": 276,
+  "itemsAfterDedupe": 222,
   "todayItemsSeen": 6,
   "suspectedItemsSeen": 20,
-  "skippedNonToday": 193,
+  "skippedNonToday": 196,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 182,
+      "parsed": 167,
       "failed": false,
       "optional": false
     },
@@ -461,8 +393,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -625,9 +556,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 60,
+      "failed": false,
       "optional": false
     },
     {
@@ -814,11 +744,6 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -832,11 +757,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -865,18 +785,18 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1220,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 110,
+  "globalItemsAfterRelevantFilter": 109,
   "topics": [
     {
       "topic": "AI 应用与智能体",
       "count": 4,
       "sourceCount": 2,
       "sources": [
-        "网易科技",
-        "新浪科技"
+        "新浪科技",
+        "网易科技"
       ],
       "items": [
-        "OpenAI本周预览了AI模型Astra",
+        "OpenAI本周向美国决策者演示新模型系列Astra",
         "8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池",
         "华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平",
         "DeepSeek又更新了，这次梁文锋没放大招"
@@ -907,22 +827,22 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "leads": [
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "OpenAI本周预览了AI模型Astra",
-      "summary": "OpenAI本周预览了AI模型Astra,特朗普,人工智能,ai模型,系列模型,astra,华盛顿特区,openai",
-      "source": "网易科技",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "OpenAI本周向美国决策者演示新模型系列Astra",
+      "summary": "媒体援引三名听取过相关计划介绍的人士报道，OpenAI首席执行官Sam Altman本周在华盛顿向政策制定者和监管官员演示了该公司准备发布的新模型系列“Astra”。 报道称，Astra完成耗时较长任务的能力将提升。 媒体称，目...",
+      "source": "新浪科技",
       "sources": [
-        "网易科技"
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L37QSGV205198CJN.html",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L37QSGV205198CJN.html"
+        "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml"
       ],
       "publishedAt": "2026-08-01",
       "date": "2026-08-01",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.9,
       "classificationEvidence": [
         "title",
         "summary",
@@ -932,20 +852,20 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
+      "score": 172,
+      "reporterScore": 188,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
         "visual": 0,
-        "international": 0,
+        "international": 9,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -953,24 +873,24 @@ window.CHENCHEN_DAILY_DATA = {
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": false,
-        "interview": false,
+        "international": true,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 110
+        "reporterScore": 130
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
+      "hasInterviewValue": true,
       "hasVisualValue": false,
-      "hasInternationalValue": false,
+      "hasInternationalValue": true,
       "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI本周预览了AI模型Astra” against primary-source evidence.",
+      "angle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "OpenAI本周预览了AI模型Astra,特朗普,人工智能,ai模型,系列模型,astra,华盛顿特区,openai",
+      "rawText": "媒体援引三名听取过相关计划介绍的人士报道，OpenAI首席执行官Sam Altman本周在华盛顿向政策制定者和监管官员演示了该公司准备发布的新模型系列“Astra”。 报道称，Astra完成耗时较长任务的能力将提升。 媒体称，目...",
       "relatedTitles": [
-        "OpenAI本周预览了AI模型Astra"
+        "OpenAI本周向美国决策者演示新模型系列Astra"
       ],
       "isNewSinceLastRun": true
     },
@@ -1040,7 +960,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1108,7 +1028,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1176,7 +1096,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "DeepSeek又更新了，这次梁文锋没放大招"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1244,7 +1164,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "俞大鹏：量子计算——从理论构想到未来引擎"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1312,7 +1232,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "云计算三巨头本周市值增加近1.5万亿美元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -1988,19 +1908,19 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "SIGGRAPH 无障碍化身小黑子只需6枚传感器",
+      "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
       "summary": "SIGGRAPH 无障碍化身小黑子只需6枚传感器，来自清华轻量化动捕新成果｜SIGGRAPH 2024 建模非惯性力带来“虚拟加速” 明敏 2024-05-25 SIGGRAPH 清华大学 老黄发布最强AIGC芯片！内存容量暴增近50%，可运行任意大模型，“生成式AI的iPhone时刻已来” 还牵手抱抱脸搞起大模型版C",
       "source": "量子位",
       "sources": [
         "量子位"
       ],
       "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/siggraph",
+      "url": "https://www.qbitai.com/2026/07/464328.html",
       "sourceUrls": [
-        "https://www.qbitai.com/tag/siggraph"
+        "https://www.qbitai.com/2026/07/464328.html"
       ],
-      "publishedAt": "",
-      "date": "",
+      "publishedAt": "2026-07-46",
+      "date": "2026-07-46",
       "category": "AI",
       "classificationConfidence": 0.99,
       "classificationEvidence": [
@@ -2045,12 +1965,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SIGGRAPH 无障碍化身小黑子只需6枚传感器” against primary-source evidence.",
+      "angle": "Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "SIGGRAPH 无障碍化身小黑子只需6枚传感器，来自清华轻量化动捕新成果｜SIGGRAPH 2024 建模非惯性力带来“虚拟加速” 明敏 2024-05-25 SIGGRAPH 清华大学 老黄发布最强AIGC芯片！内存容量暴增近50%，可运行任意大模型，“生成式AI的iPhone时刻已来” 还牵手抱抱脸搞起大模型版Colab 萧箫 2023-08-09 AIGC SIGGRAPH 英伟达 让GAN再次伟大！拽一拽关键点就能让狮子张嘴&大象转身，汤晓鸥弟子的DragGAN爆火，网友：R.I.P. Photoshop GitHub上5k多Star 萧箫 2023-05-21 AI修图 GAN SIGGRAPH 设计 草图人像变3D模特，360° 无死角还原姿势，一张就行，多“草”都可｜SIGGRAPH 2022 可亲自上手试验一把 丰色 2022-08-22 3D姿态估计 SIGGRAPH 图形学大牛归国投身产业，还是个让女孩们败家的赛道 四届SIGGRAPH技术论文委员会委员 白交 2021-08-24 SIGGRAPH 图形学 他2年拿下博士学位，发表11篇顶会论文！浙大校友李旻辰斩",
+      "rawText": "6/07/464328.html\" target=\"_blank\"> SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI 开源项目GitHub狂揽8000+Star 邓思邈 <span class=\"",
       "relatedTitles": [
-        "SIGGRAPH 无障碍化身小黑子只需6枚传感器"
+        "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI"
       ]
     },
     {
@@ -2457,73 +2377,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "“985”博导不如初中辍学的张雪？",
-      "summary": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/politics/2026_04_14_813533.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/politics/2026_04_14_813533.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "科学前沿",
-      "classificationConfidence": 0.82,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 4,
-      "score": 129,
-      "reporterScore": 129,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind ““985”博导不如初中辍学的张雪？” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻视基础研究，甚至矮化科研工作者的态度却不可取。 需要厘清的是，博导与张雪并非处于对立面，而是站在创新链条的不同位置。高校是基础研究的主阵地，很多博导主要从事原理性研究，他们处于创新链前端，要解决的是“从0到1”的问题。张雪则在创新链后端，主要实现工程化落地，要解决的是“从10到100”的问题。二者角色、职责不同，不能用“造机子”的尺子去衡量做基础研究的学者。我们理当为张雪的成功喝彩，但不能因此否定博导们研究的科学价值和学术意义。 基础研究很多时候看似“无用”，但今天的“无用”或许就是明天的“大用”。基础研究所激发的原始创新往往具有奠基性、颠覆性和引领性，是新技术、新发明的先导。评判基础研究的价值不在一时，而在长远。从半导体、计算机到激光技术，我们今天日常生活中广泛使用的很",
-      "relatedTitles": [
-        "“985”博导不如初中辍学的张雪？"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "DeepSeek V4正式版来了，但只来了一半",
       "summary": "DeepSeek-V4正式版终于来了。",
       "source": "观察者网-产业科技",
@@ -2655,6 +2508,73 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI视界，不止于想象"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "MEET大会",
+      "summary": "gory/zhiku\">智库 活动 MEET大会 AIGC <a href=\"https://www.qbita",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/meet/meet2026/",
+      "sourceUrls": [
+        "https://www.qbitai.com/meet/meet2026/"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 121,
+      "reporterScore": 121,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MEET大会” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "gory/zhiku\">智库 活动 MEET大会 AIGC <a href=\"https://www.qbita",
+      "relatedTitles": [
+        "MEET大会"
+      ]
     }
   ],
   "globalLeads": [
@@ -2688,7 +2608,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 130
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2720,199 +2640,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 108
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "publishedAt": "Fri, 31 Jul 2026 19:47:28 +0000",
-      "date": "2026-07-31",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google nixes its Earth AI feature one day after launch, amid criticism i” against primary-source evidence.",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 160,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "summary": "Watch as Equity breaks down Sam Altman's call to slow down AI, why Anthropic signed on too, and the week's biggest tech deals from Amazon's satellite bid to DoorDash's drone push.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "publishedAt": "Fri, 31 Jul 2026 17:26:32 +0000",
-      "date": "2026-08-01",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Sam Altman isn’t the only one who wants to pump the brakes on AI” against primary-source evidence.",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 158,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 118
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google Earth briefly let you generate AI images from satellite imagery — then Google pulled it",
-      "summary": "Alphabet's Google said on Friday it was rolling back an AI image-generation feature it had ‌introduced in Google Earth just a day ago, after ‌users shared images that appeared to v",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/article/google-earth-briefly-let-you-generate-ai-images-from-satellite-imagery--then-google-pulled-it-161305188.html",
-      "publishedAt": "2026-08-01",
-      "date": "2026-08-01",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.71,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google Earth briefly let you generate AI images from satellite imagery —” against primary-source evidence.",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 157,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 118
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
-      "summary": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
-      "publishedAt": "Fri, 31 Jul 2026 13:45:53 +0000",
-      "date": "2026-07-31",
-      "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.65,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla reportedly might sell its China business ahead of a SpaceX merger” against primary-source evidence.",
-      "priority": 5,
-      "score": 149,
-      "reporterScore": 157,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth",
-      "summary": "The impact will kick up a plume of debris so high, it’ll likely be visible through some telescopes. Astronomers will be watching.",
-      "source": "WIRED Science",
-      "url": "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
-      "publishedAt": "Fri, 31 Jul 2026 23:38:56 +0000",
-      "date": "2026-08-01",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 70,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be” against primary-source evidence.",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 156,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "A Man Is Tracking the Tesla Roadster in Space To See if It Will Ever Hit Earth",
-      "summary": "Eight years ago, Elon Musk and his SpaceX company launched a Tesla Roadster into space as a dummy payload for the Falcon Heavy test flight in February 2018. With a fake astronaut i",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/science/articles/man-tracking-tesla-roadster-space-154031608.html",
-      "publishedAt": "2026-08-01",
-      "date": "2026-08-01",
-      "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.68,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 70,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “A Man Is Tracking the Tesla Roadster in Space To See if It Will Ever Hit” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 152,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2980,6 +2708,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "publishedAt": "Fri, 31 Jul 2026 19:47:28 +0000",
+      "date": "2026-07-31",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google nixes its Earth AI feature one day after launch, amid criticism i” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 160,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
       "summary": "Ahead of the launch of Siri AI, Apple's outgoing CEO Tim Cook said the company will charge for artificial intelligence through iCloud.",
       "source": "CNBC Technology",
@@ -3008,6 +2768,38 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "summary": "Watch as Equity breaks down Sam Altman's call to slow down AI, why Anthropic signed on too, and the week's biggest tech deals from Amazon's satellite bid to DoorDash's drone push.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "publishedAt": "Fri, 31 Jul 2026 17:26:32 +0000",
+      "date": "2026-08-01",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Sam Altman isn’t the only one who wants to pump the brakes on AI” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 158,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 118
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -3044,6 +2836,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google Earth briefly let you generate AI images from satellite imagery — then Google pulled it",
+      "summary": "Alphabet's Google said on Friday it was rolling back an AI image-generation feature it had ‌introduced in Google Earth just a day ago, after ‌users shared images that appeared to v",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/article/google-earth-briefly-let-you-generate-ai-images-from-satellite-imagery--then-google-pulled-it-161305188.html",
+      "publishedAt": "2026-08-01",
+      "date": "2026-08-01",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.71,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google Earth briefly let you generate AI images from satellite imagery —” against primary-source evidence.",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 157,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 118
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
       "summary": "South Korea's chip heavyweights SK Hynix and Samsung Electronics soared more than 20% on Friday, tracking a sharp rally in U.S. technology stocks.",
       "source": "CNBC Technology",
@@ -3076,6 +2900,102 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
+      "summary": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
+      "publishedAt": "Fri, 31 Jul 2026 13:45:53 +0000",
+      "date": "2026-07-31",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.65,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla reportedly might sell its China business ahead of a SpaceX merger” against primary-source evidence.",
+      "priority": 5,
+      "score": 149,
+      "reporterScore": 157,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth",
+      "summary": "The impact will kick up a plume of debris so high, it’ll likely be visible through some telescopes. Astronomers will be watching.",
+      "source": "WIRED Science",
+      "url": "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
+      "publishedAt": "Fri, 31 Jul 2026 23:38:56 +0000",
+      "date": "2026-08-01",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 70,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be” against primary-source evidence.",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 156,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "A Man Is Tracking the Tesla Roadster in Space To See if It Will Ever Hit Earth",
+      "summary": "Eight years ago, Elon Musk and his SpaceX company launched a Tesla Roadster into space as a dummy payload for the Falcon Heavy test flight in February 2018. With a fake astronaut i",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/science/articles/man-tracking-tesla-roadster-space-154031608.html",
+      "publishedAt": "2026-08-01",
+      "date": "2026-08-01",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.68,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 70,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “A Man Is Tracking the Tesla Roadster in Space To See if It Will Ever Hit” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 152,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Anthropic says its AI models hacked 3 organizations during testing",
       "summary": "Anthropic's Mythos 5 and Fable 5 are back online this Wednesday after the company said it had productive conversations with the US government. Also, Kevin Warsh makes his first pub",
       "source": "AP Technology",
@@ -3104,7 +3024,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3133,10 +3053,10 @@ window.CHENCHEN_DAILY_DATA = {
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 110
+        "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3168,7 +3088,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3200,7 +3120,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3232,7 +3152,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3264,103 +3184,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
-      "summary": "The company is facing pressure to cater to a more cost-sensitive customer base.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
-      "publishedAt": "Thu, 30 Jul 2026 17:27:49 GMT",
-      "date": "2026-07-30",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.97,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow se” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Luxury Brand Caviar Releases Movie-Themed Samsung Z Fold8 Devices",
-      "summary": "Fancy a $12,000 24K Gold Samsung Fold 8 featuring 'The Godfather', 'Scarface' or The Joker on Samsung Z Fold8 Ultra? Well, it just so happens…",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/luxury-brand-caviar-releases-movie-183249464.html",
-      "publishedAt": "2026-08-01",
-      "date": "2026-08-01",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Luxury Brand Caviar Releases Movie-Themed Samsung Z Fold8 Devices” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "publishedAt": "Fri, 31 Jul 2026 15:16:17 +0000",
-      "date": "2026-07-31",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX won’t remove all of xAI’s unpermitted turbines for another year” against primary-source evidence.",
-      "priority": 4,
-      "score": 139,
-      "reporterScore": 139,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3392,6 +3216,70 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
+      "summary": "The company is facing pressure to cater to a more cost-sensitive customer base.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
+      "publishedAt": "Thu, 30 Jul 2026 17:27:49 GMT",
+      "date": "2026-07-30",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.97,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow se” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Luxury Brand Caviar Releases Movie-Themed Samsung Z Fold8 Devices",
+      "summary": "Fancy a $12,000 24K Gold Samsung Fold 8 featuring 'The Godfather', 'Scarface' or The Joker on Samsung Z Fold8 Ultra? Well, it just so happens…",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/articles/luxury-brand-caviar-releases-movie-183249464.html",
+      "publishedAt": "2026-08-01",
+      "date": "2026-08-01",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Luxury Brand Caviar Releases Movie-Themed Samsung Z Fold8 Devices” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -3489,10 +3377,42 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "publishedAt": "Fri, 31 Jul 2026 15:16:17 +0000",
+      "date": "2026-07-31",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX won’t remove all of xAI’s unpermitted turbines for another year” against primary-source evidence.",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 139,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-01｜V3\n生成时间：2026/8/1 07:46:45\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2526｜确认今日 6｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 17 条\n延续跟踪线索：国内 0 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] OpenAI本周预览了AI模型Astra\n   网易科技｜2026-08-01｜https://www.163.com/dy/article/L37QSGV205198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI本周预览了AI模型Astra” against primary-source evidence.\n\n2. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.\n\n3. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.\n\n4. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招\n   网易科技｜2026-08-01｜https://www.163.com/dy/article/L37D8PKI051188EA.html\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.\n\n5. [2026-08-01] 俞大鹏：量子计算——从理论构想到未来引擎\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\n   报道角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “俞大鹏：量子计算——从理论构想到未来引擎” against primary-source evidence.\n\n本次新增线索：\n- OpenAI本周预览了AI模型Astra｜网易科技｜https://www.163.com/dy/article/L37QSGV205198CJN.html\n- 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n- 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n- DeepSeek又更新了，这次梁文锋没放大招｜网易科技｜https://www.163.com/dy/article/L37D8PKI051188EA.html\n- 俞大鹏：量子计算——从理论构想到未来引擎｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\n- Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n4. Sam Altman isn’t the only one who wants to pump the brakes on AI｜TechCrunch｜https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/\n5. Google Earth briefly let you generate AI images from satellite imagery — then Google pulled it｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/google-earth-briefly-let-you-generate-ai-images-from-satellite-imagery--then-google-pulled-it-161305188.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-01｜V3\n生成时间：2026/8/1 07:46:45\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2526｜确认今日 6｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 17 条\n延续跟踪线索：国内 0 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] OpenAI本周预览了AI模型Astra\n   网易科技｜2026-08-01｜https://www.163.com/dy/article/L37QSGV205198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI本周预览了AI模型Astra” against primary-source evidence.\n\n2. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.\n\n3. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.\n\n4. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招\n   网易科技｜2026-08-01｜https://www.163.com/dy/article/L37D8PKI051188EA.html\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.\n\n5. [2026-08-01] 俞大鹏：量子计算——从理论构想到未来引擎\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\n   报道角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “俞大鹏：量子计算——从理论构想到未来引擎” against primary-source evidence.\n\n本次新增线索：\n- OpenAI本周预览了AI模型Astra｜网易科技｜https://www.163.com/dy/article/L37QSGV205198CJN.html\n- 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n- 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n- DeepSeek又更新了，这次梁文锋没放大招｜网易科技｜https://www.163.com/dy/article/L37D8PKI051188EA.html\n- 俞大鹏：量子计算——从理论构想到未来引擎｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\n- Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n4. Sam Altman isn’t the only one who wants to pump the brakes on AI｜TechCrunch｜https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/\n5. Google Earth briefly let you generate AI images from satellite imagery — then Google pulled it｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/google-earth-briefly-let-you-generate-ai-images-from-satellite-imagery--then-google-pulled-it-161305188.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-01｜生成时间：2026/8/1 07:46:45｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2526｜确认今日 6｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 17 条<br>延续跟踪线索：国内 0 条｜国际 9 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-01] OpenAI本周预览了AI模型Astra</strong>\n      <span>网易科技｜2026-08-01｜<a href=\"https://www.163.com/dy/article/L37QSGV205198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI本周预览了AI模型Astra” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招</strong>\n      <span>网易科技｜2026-08-01｜<a href=\"https://www.163.com/dy/article/L37D8PKI051188EA.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-01] 俞大鹏：量子计算——从理论构想到未来引擎</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：145｜需核验来源</span>\n      <p>报道角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “俞大鹏：量子计算——从理论构想到未来引擎” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese AI Researchers Are Finding Their Voice on X</strong>\n      <span>时间：Fri, 31 Jul 2026 18:14:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese AI Researchers Are Finding Their Voice on X” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. A discarded SpaceX rocket is on a high-speed collision course with the moon</strong>\n      <span>时间：2026-07-31｜来源：AP Technology｜<a href=\"https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “A discarded SpaceX rocket is on a high-speed collision course with the m” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation</strong>\n      <span>时间：Fri, 31 Jul 2026 19:47:28 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google nixes its Earth AI feature one day after launch, amid criticism i” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Sam Altman isn’t the only one who wants to pump the brakes on AI</strong>\n      <span>时间：Fri, 31 Jul 2026 17:26:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Sam Altman isn’t the only one who wants to pump the brakes on AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google Earth briefly let you generate AI images from satellite imagery — then Google pulled it</strong>\n      <span>时间：2026-08-01｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/article/google-earth-briefly-let-you-generate-ai-images-from-satellite-imagery--then-google-pulled-it-161305188.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google Earth briefly let you generate AI images from satellite imagery —” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/1 07:46:45\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 17 条\n延续跟踪线索：国内 0 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] OpenAI本周预览了AI模型Astra\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L37QSGV205198CJN.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI本周预览了AI模型Astra” against primary-source evidence.\n\n2. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.\n\n3. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.\n\n4. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L37D8PKI051188EA.html\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.\n\n5. [2026-08-01] 俞大鹏：量子计算——从理论构想到未来引擎\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\n   角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “俞大鹏：量子计算——从理论构想到未来引擎” against primary-source evidence.\n\n本次新增线索：\n- OpenAI本周预览了AI模型Astra｜网易科技｜https://www.163.com/dy/article/L37QSGV205198CJN.html\n- 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n- 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n- DeepSeek又更新了，这次梁文锋没放大招｜网易科技｜https://www.163.com/dy/article/L37D8PKI051188EA.html\n- 俞大鹏：量子计算——从理论构想到未来引擎｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\n- Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n4. Sam Altman isn’t the only one who wants to pump the brakes on AI｜TechCrunch｜https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/\n5. Google Earth briefly let you generate AI images from satellite imagery — then Google pulled it｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/google-earth-briefly-let-you-generate-ai-images-from-satellite-imagery--then-google-pulled-it-161305188.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-01｜V3\n生成时间：2026/8/1 08:09:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2571｜确认今日 6｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] OpenAI本周向美国决策者演示新模型系列Astra\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.\n\n2. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.\n\n3. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.\n\n4. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招\n   网易科技｜2026-08-01｜https://www.163.com/dy/article/L37D8PKI051188EA.html\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.\n\n5. [2026-08-01] 俞大鹏：量子计算——从理论构想到未来引擎\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\n   报道角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “俞大鹏：量子计算——从理论构想到未来引擎” against primary-source evidence.\n\n本次新增线索：\n- OpenAI本周向美国决策者演示新模型系列Astra｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-01｜V3\n生成时间：2026/8/1 08:09:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2571｜确认今日 6｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] OpenAI本周向美国决策者演示新模型系列Astra\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.\n\n2. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.\n\n3. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.\n\n4. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招\n   网易科技｜2026-08-01｜https://www.163.com/dy/article/L37D8PKI051188EA.html\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.\n\n5. [2026-08-01] 俞大鹏：量子计算——从理论构想到未来引擎\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\n   报道角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “俞大鹏：量子计算——从理论构想到未来引擎” against primary-source evidence.\n\n本次新增线索：\n- OpenAI本周向美国决策者演示新模型系列Astra｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-01｜生成时间：2026/8/1 08:09:04｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2571｜确认今日 6｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 5 条｜国际 26 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-01] OpenAI本周向美国决策者演示新模型系列Astra</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招</strong>\n      <span>网易科技｜2026-08-01｜<a href=\"https://www.163.com/dy/article/L37D8PKI051188EA.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-01] 俞大鹏：量子计算——从理论构想到未来引擎</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：145｜需核验来源</span>\n      <p>报道角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “俞大鹏：量子计算——从理论构想到未来引擎” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese AI Researchers Are Finding Their Voice on X</strong>\n      <span>时间：Fri, 31 Jul 2026 18:14:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese AI Researchers Are Finding Their Voice on X” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. A discarded SpaceX rocket is on a high-speed collision course with the moon</strong>\n      <span>时间：2026-07-31｜来源：AP Technology｜<a href=\"https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “A discarded SpaceX rocket is on a high-speed collision course with the m” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic</strong>\n      <span>时间：Thu, 30 Jul 2026 17:51:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anth” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AI before AI: The forgotten Soviet programme (1/2)</strong>\n      <span>时间：2026-07-30｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI before AI: The forgotten Soviet programme (1/2)” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation</strong>\n      <span>时间：Fri, 31 Jul 2026 19:47:28 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google nixes its Earth AI feature one day after launch, amid criticism i” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/1 08:09:04\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] OpenAI本周向美国决策者演示新模型系列Astra\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.\n\n2. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.\n\n3. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.\n\n4. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L37D8PKI051188EA.html\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.\n\n5. [2026-08-01] 俞大鹏：量子计算——从理论构想到未来引擎\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\n   角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “俞大鹏：量子计算——从理论构想到未来引擎” against primary-source evidence.\n\n本次新增线索：\n- OpenAI本周向美国决策者演示新模型系列Astra｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
