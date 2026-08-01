@@ -1,27 +1,37 @@
 {
-  "generatedAt": "2026-08-01T08:22:27.543Z",
+  "generatedAt": "2026-08-01T08:35:00.679Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-01",
   "changeSummary": {
-    "domesticNew": 3,
+    "domesticNew": 5,
     "globalNew": 0,
-    "domesticContinued": 32,
+    "domesticContinued": 34,
     "globalContinued": 25,
     "topNewDomestic": [
       {
-        "title": "消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产",
+        "title": "比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvanc0438334.shtml"
       },
       {
-        "title": "快递外卖电动车须悬挂专用号牌 北京新规今起施行",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-08/01/content_557513.html"
+        "title": "中国油气人工智能科技大会：枫清科技倡议深化产学研协同",
+        "source": "光明网-科技",
+        "url": "https://tech.gmw.cn/2026-08/01/content_38921816.htm"
       },
       {
-        "title": "奇瑞集团7月销量27.7万辆 同比增长23.3%",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L38PCCBP0512B07B.html"
+        "title": "西安汽车消费补贴政策升级：新车二手车都有补贴，新款车型额外多补",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/984/492.htm"
+      },
+      {
+        "title": "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/984/557.htm"
+      },
+      {
+        "title": "中国科协年会“医用生物电子材料”专题论坛举办",
+        "source": "光明网-科技",
+        "url": "https://tech.gmw.cn/2026-08/01/content_38921818.htm"
       }
     ],
     "topNewGlobal": [],
@@ -31,7 +41,7 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 865,
+    "domesticRejected": 861,
     "globalRejected": 875,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -46,27 +56,12 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 27,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -74,13 +69,8 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -91,24 +81,9 @@
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -116,13 +91,8 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -135,7 +105,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 182,
+      "parsed": 177,
       "failed": false,
       "optional": false
     },
@@ -185,8 +155,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -299,16 +268,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -329,9 +296,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -339,7 +305,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -386,18 +352,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1360,
+  "itemsSeen": 1365,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 285,
-  "itemsAfterDedupe": 226,
-  "todayItemsSeen": 35,
+  "itemsAfterRelevantFilter": 293,
+  "itemsAfterDedupe": 234,
+  "todayItemsSeen": 39,
   "suspectedItemsSeen": 22,
-  "skippedNonToday": 166,
+  "skippedNonToday": 170,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 182,
+      "parsed": 177,
       "failed": false,
       "optional": false
     },
@@ -447,8 +413,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -561,16 +526,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -591,9 +554,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -601,7 +563,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -802,24 +764,9 @@
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -827,13 +774,8 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -867,17 +809,17 @@
   "topics": [
     {
       "topic": "新能源车动态",
-      "count": 11,
+      "count": 12,
       "sourceCount": 4,
       "sources": [
         "新浪科技",
-        "科技日报",
         "网易科技",
-        "IT之家"
+        "IT之家",
+        "科技日报"
       ],
       "items": [
+        "比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录",
         "特斯拉感谢1000万车主：忍受嘲笑 把少数人的冒险开成千万人的日常",
-        "快递外卖电动车须悬挂专用号牌 北京新规今起施行",
         "新势力7月交付榜：零跑首破10万创行业纪录 蔚来小鹏企稳、理想连续三月同环比双降",
         "比亚迪大唐本月起产能将持续提升，冲击 1.5 万台",
         "一汽-大众“双终身质保”权益范围扩大，新增燃油轿车及 PHEV 车型"
@@ -885,19 +827,35 @@
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 5,
-      "sourceCount": 3,
+      "count": 6,
+      "sourceCount": 4,
       "sources": [
         "新浪科技",
+        "IT之家",
         "网易科技",
         "光明网-科技"
       ],
       "items": [
         "OpenAI本周向美国决策者演示新模型系列Astra",
         "OPPO Find X10 系列新机入网，消息称预计 9 月下旬发布",
+        "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元",
         "汽车早报｜工信部赴奇瑞、蔚来、江汽开展监督检查 特斯拉中国车机正式接入豆包大模型",
-        "DeepSeek又更新了，这次梁文锋没放大招",
-        "“材智讲堂”（第二期）在京召开 聚焦原材料行业工业智能体发展"
+        "DeepSeek又更新了，这次梁文锋没放大招"
+      ]
+    },
+    {
+      "topic": "AI动态",
+      "count": 3,
+      "sourceCount": 3,
+      "sources": [
+        "光明网-科技",
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "中国油气人工智能科技大会：枫清科技倡议深化产学研协同",
+        "马斯克和奥尔特曼达成共识：人类已迈入 AI 奇点时代",
+        "乐奇AI眼镜进入加拿大市场"
       ]
     },
     {
@@ -935,7 +893,7 @@
       "sourceCount": 2,
       "sources": [
         "网易科技",
-        "新浪科技"
+        "IT之家"
       ],
       "items": [
         "特斯拉：平均每18秒左右全球就有一辆新的特斯拉下线",
@@ -954,19 +912,6 @@
       "items": [
         "北斗卫星导航系统全面完成在轨升级",
         "大规模股份解锁、财报发布前夕，空头大幅加仓 SpaceX"
-      ]
-    },
-    {
-      "topic": "AI动态",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "网易科技"
-      ],
-      "items": [
-        "马斯克和奥尔特曼达成共识：人类已迈入 AI 奇点时代",
-        "乐奇AI眼镜进入加拿大市场"
       ]
     },
     {
@@ -1013,6 +958,17 @@
       ],
       "items": [
         "石头 P30 Pro 自清洁扫拖机器人 8 月 14 日上市，主打超薄热活水洗地"
+      ]
+    },
+    {
+      "topic": "科学前沿与科研设施",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "光明网-科技"
+      ],
+      "items": [
+        "中国科协年会“医用生物电子材料”专题论坛举办"
       ]
     }
   ],
@@ -1086,74 +1042,6 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产",
-      "summary": "IT之家 8 月 1 日消息，工商时报于 7 月 30 日发布博文，报道称台积电加速 1.4nm 半导体工厂建设，台中二期扩建园区首座厂房预计 2027 年 4 月前完工。报道称台积电位于台中二期扩建园区的 1.4nm 先进制程新厂正加快建...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml"
-      ],
-      "publishedAt": "2026-08-01",
-      "date": "2026-08-01",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 183,
-      "reporterScore": 197,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 128
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "IT之家 8 月 1 日消息，工商时报于 7 月 30 日发布博文，报道称台积电加速 1.4nm 半导体工厂建设，台中二期扩建园区首座厂房预计 2027 年 4 月前完工。报道称台积电位于台中二期扩建园区的 1.4nm 先进制程新厂正加快建...",
-      "relatedTitles": [
-        "消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cDovL2ZpbmFuY2Uu",
       "title": "超大城市全域覆盖低空无人机遥感监测网络建成",
       "summary": "科技日报讯（记者吴纯新）无人机自动起降、5分钟到达市内任一地点、AI实时识别城市各类问题……7月29日，武汉市测绘研究院联合大疆行业应用，集中展示了全国首个超大城市全域覆盖低空无人机遥感监测网络——武",
@@ -1218,6 +1106,142 @@
       "rawText": "科技日报讯（记者吴纯新）无人机自动起降、5分钟到达市内任一地点、AI实时识别城市各类问题……7月29日，武汉市测绘研究院联合大疆行业应用，集中展示了全国首个超大城市全域覆盖低空无人机遥感监测网络——武",
       "relatedTitles": [
         "超大城市全域覆盖低空无人机遥感监测网络建成"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录",
+      "summary": "IT之家 8 月 1 日消息，腾势 Z9S 将于 8 月 3 日 19:30 举行预售发布会，比亚迪旗下腾势汽车总经理李慧今日“剧透”：腾势 Z9S 搭载第二代刀片电池及闪充技术，预售发布会将揭晓量产车型纯电续航全球新纪录。IT之家注意到，...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvanc0438334.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvanc0438334.shtml"
+      ],
+      "publishedAt": "2026-08-01",
+      "date": "2026-08-01",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 170,
+      "reporterScore": 192,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 128
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "IT之家 8 月 1 日消息，腾势 Z9S 将于 8 月 3 日 19:30 举行预售发布会，比亚迪旗下腾势汽车总经理李慧今日“剧透”：腾势 Z9S 搭载第二代刀片电池及闪充技术，预售发布会将揭晓量产车型纯电续航全球新纪录。IT之家注意到，...",
+      "relatedTitles": [
+        "比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产",
+      "summary": "IT之家 8 月 1 日消息，工商时报于 7 月 30 日发布博文，报道称台积电加速 1.4nm 半导体工厂建设，台中二期扩建园区首座厂房预计 2027 年 4 月前完工。报道称台积电位于台中二期扩建园区的 1.4nm 先进制程新厂正加快建...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml"
+      ],
+      "publishedAt": "2026-08-01",
+      "date": "2026-08-01",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 183,
+      "reporterScore": 197,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 128
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "IT之家 8 月 1 日消息，工商时报于 7 月 30 日发布博文，报道称台积电加速 1.4nm 半导体工厂建设，台中二期扩建园区首座厂房预计 2027 年 4 月前完工。报道称台积电位于台中二期扩建园区的 1.4nm 先进制程新厂正加快建...",
+      "relatedTitles": [
+        "消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产"
       ],
       "isNewSinceLastRun": false
     },
@@ -1766,6 +1790,74 @@
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "中国油气人工智能科技大会：枫清科技倡议深化产学研协同",
+      "summary": "以“AI赋能油气产业绿色低碳与高质量发展”为主题。",
+      "source": "光明网-科技",
+      "sources": [
+        "光明网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://tech.gmw.cn/2026-08/01/content_38921816.htm",
+      "sourceUrls": [
+        "https://tech.gmw.cn/2026-08/01/content_38921816.htm"
+      ],
+      "publishedAt": "2026-08-01",
+      "date": "2026-08-01",
+      "category": "AI",
+      "classificationConfidence": 0.93,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国油气人工智能科技大会：枫清科技倡议深化产学研协同” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "以“AI赋能油气产业绿色低碳与高质量发展”为主题。",
+      "relatedTitles": [
+        "中国油气人工智能科技大会：枫清科技倡议深化产学研协同"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "特斯拉：平均每18秒左右全球就有一辆新的特斯拉下线",
       "summary": "特斯拉：平均每18秒左右全球就有一辆新的特斯拉下线,原型车,量产车,新能源汽车,特斯拉(公司)",
@@ -1970,6 +2062,74 @@
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "西安汽车消费补贴政策升级：新车二手车都有补贴，新款车型额外多补",
+      "summary": "8 月 1 日起，西安汽车消费补贴政策升级。个人消费者购买纳入《减免车辆购置税的新能源汽车车型目录》的新能源乘用车，按照购车发票价格的 2% 给予补贴，最高补贴 1 万元。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/984/492.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/984/492.htm"
+      ],
+      "publishedAt": "Sat, 01 Aug 2026 05:59:05 GMT",
+      "date": "2026-08-01",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 149,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “西安汽车消费补贴政策升级：新车二手车都有补贴，新款车型额外多补” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "8 月 1 日起，西安汽车消费补贴政策升级。个人消费者购买纳入《减免车辆购置税的新能源汽车车型目录》的新能源乘用车，按照购车发票价格的 2% 给予补贴，最高补贴 1 万元。",
+      "relatedTitles": [
+        "西安汽车消费补贴政策升级：新车二手车都有补贴，新款车型额外多补"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "韩国7月出口飙升至历史第二高 半导体出口同比暴增近180%",
       "summary": "韩国7月出口飙升至历史第二高 半导体出口同比暴增近180%,韩国,半导体",
@@ -2038,37 +2198,37 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "快递外卖电动车须悬挂专用号牌 北京新规今起施行",
-      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 快递外卖电动车须悬挂专用号牌 北京新规今起施行 2026-08-01 16:14:45 来源: 央视新闻客户端 点击数： 热点",
-      "source": "科技日报",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元",
+      "summary": "这些成果由 OpenAI 的下一代核心模型 Astra 的内部版本计算得出。",
+      "source": "IT之家",
       "sources": [
-        "科技日报"
+        "IT之家"
       ],
-      "sourceTier": "official",
-      "url": "https://www.stdaily.com/web/gdxw/2026-08/01/content_557513.html",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/984/557.htm",
       "sourceUrls": [
-        "https://www.stdaily.com/web/gdxw/2026-08/01/content_557513.html"
+        "https://www.ithome.com/0/984/557.htm"
       ],
-      "publishedAt": "2026-08-01",
+      "publishedAt": "Sat, 01 Aug 2026 08:23:25 GMT",
       "date": "2026-08-01",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
+      "category": "AI",
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
       "score": 151,
       "reporterScore": 151,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 18,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
@@ -2088,20 +2248,20 @@
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “快递外卖电动车须悬挂专用号牌 北京新规今起施行” against primary-source evidence.",
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 快递外卖电动车须悬挂专用号牌 北京新规今起施行 2026-08-01 16:14:45 来源: 央视新闻客户端 点击数： 热点",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "这些成果由 OpenAI 的下一代核心模型 Astra 的内部版本计算得出。",
       "relatedTitles": [
-        "快递外卖电动车须悬挂专用号牌 北京新规今起施行"
+        "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元"
       ],
       "isNewSinceLastRun": true
     },
@@ -2170,74 +2330,6 @@
       "rawText": "SpaceX 下周将迎来财报发布和限售股解禁，目前空头持仓占流通股约 34%，做空头寸达 246 亿美元，规模已经超过特斯拉。",
       "relatedTitles": [
         "大规模股份解锁、财报发布前夕，空头大幅加仓 SpaceX"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "西安汽车消费补贴政策升级：新车二手车都有补贴，新款车型额外多补",
-      "summary": "IT之家 8 月 1 日消息，据“西安发布”，8 月 1 日起，西安汽车消费补贴政策升级。个人消费者购买纳入《减免车辆购置税的新能源汽车车型目录》的新能源乘用车，按照购车发票价格的 2% 给予补贴，最高补贴 1 万元。对购买 2026 年新...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikuwem0657028.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikuwem0657028.shtml"
-      ],
-      "publishedAt": "2026-08-01",
-      "date": "2026-08-01",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “西安汽车消费补贴政策升级：新车二手车都有补贴，新款车型额外多补” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "IT之家 8 月 1 日消息，据“西安发布”，8 月 1 日起，西安汽车消费补贴政策升级。个人消费者购买纳入《减免车辆购置税的新能源汽车车型目录》的新能源乘用车，按照购车发票价格的 2% 给予补贴，最高补贴 1 万元。对购买 2026 年新...",
-      "relatedTitles": [
-        "西安汽车消费补贴政策升级：新车二手车都有补贴，新款车型额外多补"
       ],
       "isNewSinceLastRun": false
     },
@@ -2582,21 +2674,21 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "奇瑞集团7月销量27.7万辆 同比增长23.3%",
-      "summary": "奇瑞集团7月销量27.7万辆 同比增长23.3%,奇瑞集团,新能源汽车,新能源市场",
-      "source": "网易科技",
+      "id": "aHR0cHM6Ly90ZWNoLmdt",
+      "title": "中国科协年会“医用生物电子材料”专题论坛举办",
+      "summary": "以“脑机接口先进材料”为主题。",
+      "source": "光明网-科技",
       "sources": [
-        "网易科技"
+        "光明网-科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L38PCCBP0512B07B.html",
+      "url": "https://tech.gmw.cn/2026-08/01/content_38921818.htm",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L38PCCBP0512B07B.html"
+        "https://tech.gmw.cn/2026-08/01/content_38921818.htm"
       ],
       "publishedAt": "2026-08-01",
       "date": "2026-08-01",
-      "category": "新能源车",
+      "category": "科学前沿",
       "classificationConfidence": 0.71,
       "classificationEvidence": [
         "title",
@@ -2605,7 +2697,7 @@
         "source"
       ],
       "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "keywords": "frontier science, research infrastructure and scientific discovery",
       "priority": 5,
       "score": 145,
       "reporterScore": 145,
@@ -2639,13 +2731,13 @@
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “奇瑞集团7月销量27.7万辆 同比增长23.3%” against primary-source evidence.",
+      "format": "package",
+      "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect the scientific mechanism, evidence and translational boundary to China’s wider innovation capacity. For this item, test the claim behind “中国科协年会“医用生物电子材料”专题论坛举办” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "奇瑞集团7月销量27.7万辆 同比增长23.3%,奇瑞集团,新能源汽车,新能源市场",
+      "matchedTopic": "科学前沿与科研设施",
+      "rawText": "以“脑机接口先进材料”为主题。",
       "relatedTitles": [
-        "奇瑞集团7月销量27.7万辆 同比增长23.3%"
+        "中国科协年会“医用生物电子材料”专题论坛举办"
       ],
       "isNewSinceLastRun": true
     },
@@ -2854,6 +2946,74 @@
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "快递外卖电动车须悬挂专用号牌 北京新规今起施行",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 快递外卖电动车须悬挂专用号牌 北京新规今起施行 2026-08-01 16:14:45 来源: 央视新闻客户端 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-08/01/content_557513.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-08/01/content_557513.html"
+      ],
+      "publishedAt": "2026-08-01",
+      "date": "2026-08-01",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “快递外卖电动车须悬挂专用号牌 北京新规今起施行” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 快递外卖电动车须悬挂专用号牌 北京新规今起施行 2026-08-01 16:14:45 来源: 央视新闻客户端 点击数： 热点",
+      "relatedTitles": [
+        "快递外卖电动车须悬挂专用号牌 北京新规今起施行"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "蔚来公司7月交付35,934台，同比增长超七成",
       "summary": "【TechWeb】8月1日消息，2026年7月，蔚来公司交付新车35,934台，同比增长71.0%。其中，蔚来品牌交付新车20,008台，同比增长57.9%；乐道品牌交付新车10,155台，同比增长69.9%；firefly萤火虫品牌交付新...",
@@ -2918,6 +3078,74 @@
       "rawText": "【TechWeb】8月1日消息，2026年7月，蔚来公司交付新车35,934台，同比增长71.0%。其中，蔚来品牌交付新车20,008台，同比增长57.9%；乐道品牌交付新车10,155台，同比增长69.9%；firefly萤火虫品牌交付新...",
       "relatedTitles": [
         "蔚来公司7月交付35,934台，同比增长超七成"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "奇瑞集团7月销量27.7万辆 同比增长23.3%",
+      "summary": "奇瑞集团7月销量27.7万辆 同比增长23.3%,奇瑞集团,新能源汽车,新能源市场",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L38PCCBP0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L38PCCBP0512B07B.html"
+      ],
+      "publishedAt": "2026-08-01",
+      "date": "2026-08-01",
+      "category": "新能源车",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “奇瑞集团7月销量27.7万辆 同比增长23.3%” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "奇瑞集团7月销量27.7万辆 同比增长23.3%,奇瑞集团,新能源汽车,新能源市场",
+      "relatedTitles": [
+        "奇瑞集团7月销量27.7万辆 同比增长23.3%"
       ],
       "isNewSinceLastRun": false
     },
@@ -5422,7 +5650,7 @@
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
-      "summary": "Capex spending? What? Me worry?",
+      "summary": "Are we human?",
       "source": "The Register",
       "url": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
       "publishedAt": "Thu, 30 Jul 2026 01:17:56 +0200",
@@ -5676,8 +5904,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-01｜V3\n生成时间：2026/8/1 16:22:27\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2580｜确认今日 35｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 32 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] 北斗卫星导航系统全面完成在轨升级\n   人民网-科技｜2026-08-01｜http://finance.people.com.cn/n1/2026/0801/c1004-40772086.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “北斗卫星导航系统全面完成在轨升级” against primary-source evidence.\n\n2. [2026-08-01] 消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产” against primary-source evidence.\n\n3. [2026-08-01] 超大城市全域覆盖低空无人机遥感监测网络建成\n   人民网-科技｜2026-08-01｜http://finance.people.com.cn/n1/2026/0801/c1004-40772079.html\n   报道角度：Frame the item through urban services, logistics, safety and regulation, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “超大城市全域覆盖低空无人机遥感监测网络建成” against primary-source evidence.\n\n4. [2026-08-01] 盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqm0620881.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元” against primary-source evidence.\n\n5. [2026-08-01] 云幕智造携多款人形机器人亮相2026 ChinaJoy\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqp4006829.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “云幕智造携多款人形机器人亮相2026 ChinaJoy” against primary-source evidence.\n\n本次新增线索：\n- 消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml\n- 快递外卖电动车须悬挂专用号牌 北京新规今起施行｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/01/content_557513.html\n- 奇瑞集团7月销量27.7万辆 同比增长23.3%｜网易科技｜https://www.163.com/dy/article/L38PCCBP0512B07B.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（11 条，4 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-01｜V3\n生成时间：2026/8/1 16:22:27\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2580｜确认今日 35｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 32 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] 北斗卫星导航系统全面完成在轨升级\n   人民网-科技｜2026-08-01｜http://finance.people.com.cn/n1/2026/0801/c1004-40772086.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “北斗卫星导航系统全面完成在轨升级” against primary-source evidence.\n\n2. [2026-08-01] 消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产” against primary-source evidence.\n\n3. [2026-08-01] 超大城市全域覆盖低空无人机遥感监测网络建成\n   人民网-科技｜2026-08-01｜http://finance.people.com.cn/n1/2026/0801/c1004-40772079.html\n   报道角度：Frame the item through urban services, logistics, safety and regulation, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “超大城市全域覆盖低空无人机遥感监测网络建成” against primary-source evidence.\n\n4. [2026-08-01] 盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqm0620881.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元” against primary-source evidence.\n\n5. [2026-08-01] 云幕智造携多款人形机器人亮相2026 ChinaJoy\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqp4006829.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “云幕智造携多款人形机器人亮相2026 ChinaJoy” against primary-source evidence.\n\n本次新增线索：\n- 消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml\n- 快递外卖电动车须悬挂专用号牌 北京新规今起施行｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/01/content_557513.html\n- 奇瑞集团7月销量27.7万辆 同比增长23.3%｜网易科技｜https://www.163.com/dy/article/L38PCCBP0512B07B.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（11 条，4 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-01｜生成时间：2026/8/1 16:22:27｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2580｜确认今日 35｜国际背景 25</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 32 条｜国际 25 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-01] 北斗卫星导航系统全面完成在轨升级</strong>\n      <span>人民网-科技｜2026-08-01｜<a href=\"http://finance.people.com.cn/n1/2026/0801/c1004-40772086.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：219｜一手来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “北斗卫星导航系统全面完成在轨升级” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-01] 消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-01] 超大城市全域覆盖低空无人机遥感监测网络建成</strong>\n      <span>人民网-科技｜2026-08-01｜<a href=\"http://finance.people.com.cn/n1/2026/0801/c1004-40772079.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜一手来源</span>\n      <p>报道角度：Frame the item through urban services, logistics, safety and regulation, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “超大城市全域覆盖低空无人机遥感监测网络建成” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-01] 盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqm0620881.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-01] 云幕智造携多款人形机器人亮相2026 ChinaJoy</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqp4006829.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “云幕智造携多款人形机器人亮相2026 ChinaJoy” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese AI Researchers Are Finding Their Voice on X</strong>\n      <span>时间：Fri, 31 Jul 2026 18:14:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese AI Researchers Are Finding Their Voice on X” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. A discarded SpaceX rocket is on a high-speed collision course with the moon</strong>\n      <span>时间：2026-07-31｜来源：AP Technology｜<a href=\"https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “A discarded SpaceX rocket is on a high-speed collision course with the m” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic</strong>\n      <span>时间：Thu, 30 Jul 2026 17:51:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anth” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AI before AI: The forgotten Soviet programme (1/2)</strong>\n      <span>时间：2026-07-30｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI before AI: The forgotten Soviet programme (1/2)” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation</strong>\n      <span>时间：Fri, 31 Jul 2026 19:47:28 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google nixes its Earth AI feature one day after launch, amid criticism i” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/1 16:22:27\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 32 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] 北斗卫星导航系统全面完成在轨升级\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0801/c1004-40772086.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “北斗卫星导航系统全面完成在轨升级” against primary-source evidence.\n\n2. [2026-08-01] 消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产” against primary-source evidence.\n\n3. [2026-08-01] 超大城市全域覆盖低空无人机遥感监测网络建成\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0801/c1004-40772079.html\n   角度：Frame the item through urban services, logistics, safety and regulation, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “超大城市全域覆盖低空无人机遥感监测网络建成” against primary-source evidence.\n\n4. [2026-08-01] 盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqm0620881.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元” against primary-source evidence.\n\n5. [2026-08-01] 云幕智造携多款人形机器人亮相2026 ChinaJoy\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqp4006829.shtml\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “云幕智造携多款人形机器人亮相2026 ChinaJoy” against primary-source evidence.\n\n本次新增线索：\n- 消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml\n- 快递外卖电动车须悬挂专用号牌 北京新规今起施行｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/01/content_557513.html\n- 奇瑞集团7月销量27.7万辆 同比增长23.3%｜网易科技｜https://www.163.com/dy/article/L38PCCBP0512B07B.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，3 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（11 条，4 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-01｜V3\n生成时间：2026/8/1 16:35:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2585｜确认今日 39｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 34 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] 北斗卫星导航系统全面完成在轨升级\n   人民网-科技｜2026-08-01｜http://finance.people.com.cn/n1/2026/0801/c1004-40772086.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “北斗卫星导航系统全面完成在轨升级” against primary-source evidence.\n\n2. [2026-08-01] 超大城市全域覆盖低空无人机遥感监测网络建成\n   人民网-科技｜2026-08-01｜http://finance.people.com.cn/n1/2026/0801/c1004-40772079.html\n   报道角度：Frame the item through urban services, logistics, safety and regulation, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “超大城市全域覆盖低空无人机遥感监测网络建成” against primary-source evidence.\n\n3. [2026-08-01] 比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvanc0438334.shtml\n   报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录” against primary-source evidence.\n\n4. [2026-08-01] 消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产” against primary-source evidence.\n\n5. [2026-08-01] 盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqm0620881.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元” against primary-source evidence.\n\n本次新增线索：\n- 比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvanc0438334.shtml\n- 中国油气人工智能科技大会：枫清科技倡议深化产学研协同｜光明网-科技｜https://tech.gmw.cn/2026-08/01/content_38921816.htm\n- 西安汽车消费补贴政策升级：新车二手车都有补贴，新款车型额外多补｜IT之家｜https://www.ithome.com/0/984/492.htm\n- 均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元｜IT之家｜https://www.ithome.com/0/984/557.htm\n- 中国科协年会“医用生物电子材料”专题论坛举办｜光明网-科技｜https://tech.gmw.cn/2026-08/01/content_38921818.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（12 条，4 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-01｜V3\n生成时间：2026/8/1 16:35:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2585｜确认今日 39｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 34 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] 北斗卫星导航系统全面完成在轨升级\n   人民网-科技｜2026-08-01｜http://finance.people.com.cn/n1/2026/0801/c1004-40772086.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “北斗卫星导航系统全面完成在轨升级” against primary-source evidence.\n\n2. [2026-08-01] 超大城市全域覆盖低空无人机遥感监测网络建成\n   人民网-科技｜2026-08-01｜http://finance.people.com.cn/n1/2026/0801/c1004-40772079.html\n   报道角度：Frame the item through urban services, logistics, safety and regulation, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “超大城市全域覆盖低空无人机遥感监测网络建成” against primary-source evidence.\n\n3. [2026-08-01] 比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvanc0438334.shtml\n   报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录” against primary-source evidence.\n\n4. [2026-08-01] 消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产” against primary-source evidence.\n\n5. [2026-08-01] 盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqm0620881.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元” against primary-source evidence.\n\n本次新增线索：\n- 比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvanc0438334.shtml\n- 中国油气人工智能科技大会：枫清科技倡议深化产学研协同｜光明网-科技｜https://tech.gmw.cn/2026-08/01/content_38921816.htm\n- 西安汽车消费补贴政策升级：新车二手车都有补贴，新款车型额外多补｜IT之家｜https://www.ithome.com/0/984/492.htm\n- 均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元｜IT之家｜https://www.ithome.com/0/984/557.htm\n- 中国科协年会“医用生物电子材料”专题论坛举办｜光明网-科技｜https://tech.gmw.cn/2026-08/01/content_38921818.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（12 条，4 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-01｜生成时间：2026/8/1 16:35:00｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2585｜确认今日 39｜国际背景 25</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 5 条｜国际 0 条<br>延续跟踪线索：国内 34 条｜国际 25 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-01] 北斗卫星导航系统全面完成在轨升级</strong>\n      <span>人民网-科技｜2026-08-01｜<a href=\"http://finance.people.com.cn/n1/2026/0801/c1004-40772086.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：219｜一手来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “北斗卫星导航系统全面完成在轨升级” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-01] 超大城市全域覆盖低空无人机遥感监测网络建成</strong>\n      <span>人民网-科技｜2026-08-01｜<a href=\"http://finance.people.com.cn/n1/2026/0801/c1004-40772079.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜一手来源</span>\n      <p>报道角度：Frame the item through urban services, logistics, safety and regulation, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “超大城市全域覆盖低空无人机遥感监测网络建成” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-01] 比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvanc0438334.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-01] 消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-01] 盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqm0620881.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese AI Researchers Are Finding Their Voice on X</strong>\n      <span>时间：Fri, 31 Jul 2026 18:14:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese AI Researchers Are Finding Their Voice on X” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. A discarded SpaceX rocket is on a high-speed collision course with the moon</strong>\n      <span>时间：2026-07-31｜来源：AP Technology｜<a href=\"https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “A discarded SpaceX rocket is on a high-speed collision course with the m” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic</strong>\n      <span>时间：Thu, 30 Jul 2026 17:51:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anth” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AI before AI: The forgotten Soviet programme (1/2)</strong>\n      <span>时间：2026-07-30｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI before AI: The forgotten Soviet programme (1/2)” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation</strong>\n      <span>时间：Fri, 31 Jul 2026 19:47:28 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google nixes its Earth AI feature one day after launch, amid criticism i” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/1 16:35:00\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 34 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] 北斗卫星导航系统全面完成在轨升级\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0801/c1004-40772086.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “北斗卫星导航系统全面完成在轨升级” against primary-source evidence.\n\n2. [2026-08-01] 超大城市全域覆盖低空无人机遥感监测网络建成\n   来源：人民网-科技\n   链接：http://finance.people.com.cn/n1/2026/0801/c1004-40772079.html\n   角度：Frame the item through urban services, logistics, safety and regulation, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “超大城市全域覆盖低空无人机遥感监测网络建成” against primary-source evidence.\n\n3. [2026-08-01] 比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvanc0438334.shtml\n   角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录” against primary-source evidence.\n\n4. [2026-08-01] 消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvani0568933.shtml\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产” against primary-source evidence.\n\n5. [2026-08-01] 盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqm0620881.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “盒马拟出售旗下烘培公司55%股权 交易对价1.3亿元” against primary-source evidence.\n\n本次新增线索：\n- 比亚迪李慧：腾势 Z9S 搭载第二代刀片电池，预售发布会将揭晓量产车型纯电续航全球新纪录｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikvanc0438334.shtml\n- 中国油气人工智能科技大会：枫清科技倡议深化产学研协同｜光明网-科技｜https://tech.gmw.cn/2026-08/01/content_38921816.htm\n- 西安汽车消费补贴政策升级：新车二手车都有补贴，新款车型额外多补｜IT之家｜https://www.ithome.com/0/984/492.htm\n- 均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元｜IT之家｜https://www.ithome.com/0/984/557.htm\n- 中国科协年会“医用生物电子材料”专题论坛举办｜光明网-科技｜https://tech.gmw.cn/2026-08/01/content_38921818.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（3 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（12 条，4 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
