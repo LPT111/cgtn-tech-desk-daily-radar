@@ -1,17 +1,17 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-01T00:09:04.016Z",
+  "generatedAt": "2026-08-01T00:14:12.364Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-01",
   "changeSummary": {
     "domesticNew": 1,
     "globalNew": 0,
-    "domesticContinued": 5,
+    "domesticContinued": 6,
     "globalContinued": 26,
     "topNewDomestic": [
       {
-        "title": "OpenAI本周向美国决策者演示新模型系列Astra",
+        "title": "AI叙事降温 “算力金属”还能涨吗",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml"
+        "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhr4057473.shtml"
       }
     ],
     "topNewGlobal": [],
@@ -21,7 +21,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 894,
+    "domesticRejected": 893,
     "globalRejected": 874,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -334,11 +334,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "itemsSeen": 1351,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 276,
-  "itemsAfterDedupe": 222,
-  "todayItemsSeen": 6,
+  "itemsAfterRelevantFilter": 279,
+  "itemsAfterDedupe": 225,
+  "todayItemsSeen": 7,
   "suspectedItemsSeen": 20,
-  "skippedNonToday": 196,
+  "skippedNonToday": 197,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -803,6 +803,17 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "国产 GPU / 算力基础设施",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "AI叙事降温 “算力金属”还能涨吗"
+      ]
+    },
+    {
       "topic": "科学前沿与科研设施",
       "count": 1,
       "sourceCount": 1,
@@ -891,6 +902,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "媒体援引三名听取过相关计划介绍的人士报道，OpenAI首席执行官Sam Altman本周在华盛顿向政策制定者和监管官员演示了该公司准备发布的新模型系列“Astra”。 报道称，Astra完成耗时较长任务的能力将提升。 媒体称，目...",
       "relatedTitles": [
         "OpenAI本周向美国决策者演示新模型系列Astra"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "AI叙事降温 “算力金属”还能涨吗",
+      "summary": "过去两年AI浪潮推动云厂商等资源品价格上涨，如今市场希望看到AI实际利润，“算力金属”面临重新审视。今年国际铜价震荡走强，6月LME铜价一度突破1.4万美元/吨，截至7月31日18:17报13823.5美元/吨。标普预计数据中心铜需求2025 - 2040年从110万吨增至250万吨。当前铜价面临大厂投入能否转化利润、",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhr4057473.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhr4057473.shtml"
+      ],
+      "publishedAt": "2026-08-01",
+      "date": "2026-08-01",
+      "category": "AI",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI叙事降温 “算力金属”还能涨吗” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "过去两年AI浪潮推动云厂商等资源品价格上涨，如今市场希望看到AI实际利润，“算力金属”面临重新审视。今年国际铜价震荡走强，6月LME铜价一度突破1.4万美元/吨，截至7月31日18:17报13823.5美元/吨。标普预计数据中心铜需求2025 - 2040年从110万吨增至250万吨。当前铜价面临大厂投入能否转化利润、架构演进是否降低用铜强度两大考验。虽有质疑，但大厂仍在扩张，AI对铜需求有支撑但非上涨充分条件，不同机构对铜及其他金属价格走势判断不一。 (AI生成)",
+      "relatedTitles": [
+        "AI叙事降温 “算力金属”还能涨吗"
       ],
       "isNewSinceLastRun": true
     },
@@ -1908,19 +1987,19 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+      "title": "SIGGRAPH 无障碍化身小黑子只需6枚传感器",
       "summary": "SIGGRAPH 无障碍化身小黑子只需6枚传感器，来自清华轻量化动捕新成果｜SIGGRAPH 2024 建模非惯性力带来“虚拟加速” 明敏 2024-05-25 SIGGRAPH 清华大学 老黄发布最强AIGC芯片！内存容量暴增近50%，可运行任意大模型，“生成式AI的iPhone时刻已来” 还牵手抱抱脸搞起大模型版C",
       "source": "量子位",
       "sources": [
         "量子位"
       ],
       "sourceTier": "industry",
-      "url": "https://www.qbitai.com/2026/07/464328.html",
+      "url": "https://www.qbitai.com/tag/siggraph",
       "sourceUrls": [
-        "https://www.qbitai.com/2026/07/464328.html"
+        "https://www.qbitai.com/tag/siggraph"
       ],
-      "publishedAt": "2026-07-46",
-      "date": "2026-07-46",
+      "publishedAt": "",
+      "date": "",
       "category": "AI",
       "classificationConfidence": 0.99,
       "classificationEvidence": [
@@ -1965,12 +2044,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI” against primary-source evidence.",
+      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “SIGGRAPH 无障碍化身小黑子只需6枚传感器” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "6/07/464328.html\" target=\"_blank\"> SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI 开源项目GitHub狂揽8000+Star 邓思邈 <span class=\"",
+      "rawText": "SIGGRAPH 无障碍化身小黑子只需6枚传感器，来自清华轻量化动捕新成果｜SIGGRAPH 2024 建模非惯性力带来“虚拟加速” 明敏 2024-05-25 SIGGRAPH 清华大学 老黄发布最强AIGC芯片！内存容量暴增近50%，可运行任意大模型，“生成式AI的iPhone时刻已来” 还牵手抱抱脸搞起大模型版Colab 萧箫 2023-08-09 AIGC SIGGRAPH 英伟达 让GAN再次伟大！拽一拽关键点就能让狮子张嘴&大象转身，汤晓鸥弟子的DragGAN爆火，网友：R.I.P. Photoshop GitHub上5k多Star 萧箫 2023-05-21 AI修图 GAN SIGGRAPH 设计 草图人像变3D模特，360° 无死角还原姿势，一张就行，多“草”都可｜SIGGRAPH 2022 可亲自上手试验一把 丰色 2022-08-22 3D姿态估计 SIGGRAPH 图形学大牛归国投身产业，还是个让女孩们败家的赛道 四届SIGGRAPH技术论文委员会委员 白交 2021-08-24 SIGGRAPH 图形学 他2年拿下博士学位，发表11篇顶会论文！浙大校友李旻辰斩",
       "relatedTitles": [
-        "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI"
+        "SIGGRAPH 无障碍化身小黑子只需6枚传感器"
       ]
     },
     {
@@ -2377,6 +2456,73 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "“985”博导不如初中辍学的张雪？",
+      "summary": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/politics/2026_04_14_813533.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/politics/2026_04_14_813533.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "科学前沿",
+      "classificationConfidence": 0.82,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 4,
+      "score": 129,
+      "reporterScore": 129,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind ““985”博导不如初中辍学的张雪？” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻视基础研究，甚至矮化科研工作者的态度却不可取。 需要厘清的是，博导与张雪并非处于对立面，而是站在创新链条的不同位置。高校是基础研究的主阵地，很多博导主要从事原理性研究，他们处于创新链前端，要解决的是“从0到1”的问题。张雪则在创新链后端，主要实现工程化落地，要解决的是“从10到100”的问题。二者角色、职责不同，不能用“造机子”的尺子去衡量做基础研究的学者。我们理当为张雪的成功喝彩，但不能因此否定博导们研究的科学价值和学术意义。 基础研究很多时候看似“无用”，但今天的“无用”或许就是明天的“大用”。基础研究所激发的原始创新往往具有奠基性、颠覆性和引领性，是新技术、新发明的先导。评判基础研究的价值不在一时，而在长远。从半导体、计算机到激光技术，我们今天日常生活中广泛使用的很",
+      "relatedTitles": [
+        "“985”博导不如初中辍学的张雪？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "DeepSeek V4正式版来了，但只来了一半",
       "summary": "DeepSeek-V4正式版终于来了。",
       "source": "观察者网-产业科技",
@@ -2507,73 +2653,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "enjoy\" class=\"grid-320 card observe\"> 智瞰AI AI视界，不止于想象 思享家 <div class=\"swiper-wrapper\"",
       "relatedTitles": [
         "AI视界，不止于想象"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "MEET大会",
-      "summary": "gory/zhiku\">智库 活动 MEET大会 AIGC <a href=\"https://www.qbita",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/meet/meet2026/",
-      "sourceUrls": [
-        "https://www.qbitai.com/meet/meet2026/"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 121,
-      "reporterScore": 121,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MEET大会” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "gory/zhiku\">智库 活动 MEET大会 AIGC <a href=\"https://www.qbita",
-      "relatedTitles": [
-        "MEET大会"
       ]
     }
   ],
@@ -3093,7 +3172,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Anthropic and OpenAI are competing to see whose agents can go rogue harder",
-      "summary": "Are we human?",
+      "summary": "Whoever wins, we lose",
       "source": "The Register",
       "url": "https://www.theregister.com/security/2026/07/31/anthropic-and-openai-are-competing-to-see-whose-agents-can-go-rogue-harder/5281797",
       "publishedAt": "Fri, 31 Jul 2026 17:04:04 +0200",
@@ -3157,7 +3236,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
-      "summary": "Are we human?",
+      "summary": "Capex spending? What? Me worry?",
       "source": "The Register",
       "url": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
       "publishedAt": "Thu, 30 Jul 2026 01:17:56 +0200",
@@ -3317,11 +3396,11 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "AMD and Micron surge, Lam Research climbs 17% as chip stocks rip higher",
-      "summary": "Strong earnings from Lam Research, Microsoft and Arm boosted hard-hit semiconductor stocks.",
+      "summary": "",
       "source": "CNBC Technology",
       "url": "https://www.cnbc.com/2026/07/30/chip-stock-rally-lam-research-micron-amd.html",
       "publishedAt": "Thu, 30 Jul 2026 20:04:13 GMT",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "region": "US",
       "category": "芯片",
       "classificationConfidence": 0.62,
@@ -3411,8 +3490,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-01｜V3\n生成时间：2026/8/1 08:09:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2571｜确认今日 6｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] OpenAI本周向美国决策者演示新模型系列Astra\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.\n\n2. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.\n\n3. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.\n\n4. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招\n   网易科技｜2026-08-01｜https://www.163.com/dy/article/L37D8PKI051188EA.html\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.\n\n5. [2026-08-01] 俞大鹏：量子计算——从理论构想到未来引擎\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\n   报道角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “俞大鹏：量子计算——从理论构想到未来引擎” against primary-source evidence.\n\n本次新增线索：\n- OpenAI本周向美国决策者演示新模型系列Astra｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-01｜V3\n生成时间：2026/8/1 08:09:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2571｜确认今日 6｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] OpenAI本周向美国决策者演示新模型系列Astra\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.\n\n2. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.\n\n3. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.\n\n4. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招\n   网易科技｜2026-08-01｜https://www.163.com/dy/article/L37D8PKI051188EA.html\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.\n\n5. [2026-08-01] 俞大鹏：量子计算——从理论构想到未来引擎\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\n   报道角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “俞大鹏：量子计算——从理论构想到未来引擎” against primary-source evidence.\n\n本次新增线索：\n- OpenAI本周向美国决策者演示新模型系列Astra｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-01｜生成时间：2026/8/1 08:09:04｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2571｜确认今日 6｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 5 条｜国际 26 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-01] OpenAI本周向美国决策者演示新模型系列Astra</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招</strong>\n      <span>网易科技｜2026-08-01｜<a href=\"https://www.163.com/dy/article/L37D8PKI051188EA.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-01] 俞大鹏：量子计算——从理论构想到未来引擎</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：145｜需核验来源</span>\n      <p>报道角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “俞大鹏：量子计算——从理论构想到未来引擎” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese AI Researchers Are Finding Their Voice on X</strong>\n      <span>时间：Fri, 31 Jul 2026 18:14:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese AI Researchers Are Finding Their Voice on X” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. A discarded SpaceX rocket is on a high-speed collision course with the moon</strong>\n      <span>时间：2026-07-31｜来源：AP Technology｜<a href=\"https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “A discarded SpaceX rocket is on a high-speed collision course with the m” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic</strong>\n      <span>时间：Thu, 30 Jul 2026 17:51:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anth” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AI before AI: The forgotten Soviet programme (1/2)</strong>\n      <span>时间：2026-07-30｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI before AI: The forgotten Soviet programme (1/2)” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation</strong>\n      <span>时间：Fri, 31 Jul 2026 19:47:28 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google nixes its Earth AI feature one day after launch, amid criticism i” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/1 08:09:04\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] OpenAI本周向美国决策者演示新模型系列Astra\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.\n\n2. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.\n\n3. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.\n\n4. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L37D8PKI051188EA.html\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.\n\n5. [2026-08-01] 俞大鹏：量子计算——从理论构想到未来引擎\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-01/doc-inikufhp0671642.shtml\n   角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “俞大鹏：量子计算——从理论构想到未来引擎” against primary-source evidence.\n\n本次新增线索：\n- OpenAI本周向美国决策者演示新模型系列Astra｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-01｜V3\n生成时间：2026/8/1 08:14:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2571｜确认今日 7｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 6 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] OpenAI本周向美国决策者演示新模型系列Astra\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.\n\n2. [2026-08-01] AI叙事降温 “算力金属”还能涨吗\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhr4057473.shtml\n   报道角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI叙事降温 “算力金属”还能涨吗” against primary-source evidence.\n\n3. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.\n\n4. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.\n\n5. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招\n   网易科技｜2026-08-01｜https://www.163.com/dy/article/L37D8PKI051188EA.html\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.\n\n本次新增线索：\n- AI叙事降温 “算力金属”还能涨吗｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhr4057473.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-01｜V3\n生成时间：2026/8/1 08:14:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2571｜确认今日 7｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 6 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] OpenAI本周向美国决策者演示新模型系列Astra\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.\n\n2. [2026-08-01] AI叙事降温 “算力金属”还能涨吗\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhr4057473.shtml\n   报道角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI叙事降温 “算力金属”还能涨吗” against primary-source evidence.\n\n3. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.\n\n4. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平\n   新浪科技｜2026-08-01｜https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.\n\n5. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招\n   网易科技｜2026-08-01｜https://www.163.com/dy/article/L37D8PKI051188EA.html\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.\n\n本次新增线索：\n- AI叙事降温 “算力金属”还能涨吗｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhr4057473.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-01｜生成时间：2026/8/1 08:14:12｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2571｜确认今日 7｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 6 条｜国际 26 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-01] OpenAI本周向美国决策者演示新模型系列Astra</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-01] AI叙事降温 “算力金属”还能涨吗</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhr4057473.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI叙事降温 “算力金属”还能涨吗” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平</strong>\n      <span>新浪科技｜2026-08-01｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招</strong>\n      <span>网易科技｜2026-08-01｜<a href=\"https://www.163.com/dy/article/L37D8PKI051188EA.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese AI Researchers Are Finding Their Voice on X</strong>\n      <span>时间：Fri, 31 Jul 2026 18:14:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese AI Researchers Are Finding Their Voice on X” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. A discarded SpaceX rocket is on a high-speed collision course with the moon</strong>\n      <span>时间：2026-07-31｜来源：AP Technology｜<a href=\"https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “A discarded SpaceX rocket is on a high-speed collision course with the m” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic</strong>\n      <span>时间：Thu, 30 Jul 2026 17:51:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anth” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AI before AI: The forgotten Soviet programme (1/2)</strong>\n      <span>时间：2026-07-30｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI before AI: The forgotten Soviet programme (1/2)” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation</strong>\n      <span>时间：Fri, 31 Jul 2026 19:47:28 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google nixes its Earth AI feature one day after launch, amid criticism i” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/1 08:14:12\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 6 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-01] OpenAI本周向美国决策者演示新模型系列Astra\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI本周向美国决策者演示新模型系列Astra” against primary-source evidence.\n\n2. [2026-08-01] AI叙事降温 “算力金属”还能涨吗\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhr4057473.shtml\n   角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI叙事降温 “算力金属”还能涨吗” against primary-source evidence.\n\n3. [2026-08-01] 8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqks9251323.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “8.1 复盘及策略 大盘震荡反弹 AI应用领涨 逻辑及股池” against primary-source evidence.\n\n4. [2026-08-01] 华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-01/doc-iniktqkz1067204.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华尔街00后AI股神高杠杆爆仓出局：不到一个月从439%收益到强平” against primary-source evidence.\n\n5. [2026-08-01] DeepSeek又更新了，这次梁文锋没放大招\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L37D8PKI051188EA.html\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek又更新了，这次梁文锋没放大招” against primary-source evidence.\n\n本次新增线索：\n- AI叙事降温 “算力金属”还能涨吗｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhr4057473.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. A discarded SpaceX rocket is on a high-speed collision course with the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. AI before AI: The forgotten Soviet programme (1/2)｜France24 Technology｜https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme\n5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
