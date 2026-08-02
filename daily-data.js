@@ -1,74 +1,43 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-01T23:43:58.572Z",
+  "generatedAt": "2026-08-02T00:06:16.818Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-02",
   "changeSummary": {
-    "domesticNew": 7,
-    "globalNew": 5,
-    "domesticContinued": 0,
-    "globalContinued": 9,
+    "domesticNew": 4,
+    "globalNew": 0,
+    "domesticContinued": 5,
+    "globalContinued": 12,
     "topNewDomestic": [
       {
-        "title": "珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面",
+        "title": "悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwkft5524895.shtml"
-      },
-      {
-        "title": "半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikvtix3555078.shtml"
-      },
-      {
-        "title": "闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikvtiv0247348.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikwqpk9900451.shtml"
       },
       {
         "title": "未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/984/649.htm"
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpp3168577.shtml"
       },
       {
-        "title": "因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/984/647.htm"
+        "title": "王选院士：一直将这篇报道压在玻璃板下",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikwqpr5409596.shtml"
+      },
+      {
+        "title": "小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpk9901425.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html"
-      },
-      {
-        "title": "The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)",
-        "source": "France24 Technology",
-        "url": "https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2"
-      },
-      {
-        "title": "Anthropic says Claude models accessed outside systems during testing",
-        "source": "France24 Technology",
-        "url": "https://www.france24.com/en/technology/20260731-ai-safety-scare-anthropic-says-claude-models-accessed-outside-systems-during-testing"
-      },
-      {
-        "title": "Sam Altman is still making the case for parenting via ChatGPT",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
-      },
-      {
-        "title": "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
-        "source": "The Register",
-        "url": "https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 893,
-    "globalRejected": 886,
+    "domesticRejected": 891,
+    "globalRejected": 888,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,12 +51,27 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 27,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -98,6 +82,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -107,9 +96,24 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -120,6 +124,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -131,7 +140,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 182,
+      "parsed": 171,
       "failed": false,
       "optional": false
     },
@@ -181,7 +190,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -294,14 +304,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -344,8 +356,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 60,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -378,18 +391,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1371,
+  "itemsSeen": 1300,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 317,
-  "itemsAfterDedupe": 247,
-  "todayItemsSeen": 7,
+  "itemsAfterRelevantFilter": 303,
+  "itemsAfterDedupe": 240,
+  "todayItemsSeen": 9,
   "suspectedItemsSeen": 23,
-  "skippedNonToday": 217,
+  "skippedNonToday": 208,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 182,
+      "parsed": 171,
       "failed": false,
       "optional": false
     },
@@ -439,7 +452,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -552,14 +566,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -602,8 +618,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 60,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -704,7 +721,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 50,
+      "parsed": 0,
       "failed": false,
       "optional": false
     },
@@ -790,9 +807,24 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -803,6 +835,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -829,9 +866,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1220,
+  "globalItemsSeen": 1170,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 104,
+  "globalItemsAfterRelevantFilter": 124,
   "topics": [
     {
       "topic": "AI动态",
@@ -842,10 +879,22 @@ window.CHENCHEN_DAILY_DATA = {
         "IT之家"
       ],
       "items": [
-        "珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面",
         "未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉",
+        "珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面",
         "因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查",
         "AI到底是否泡沫！00后AI股神清仓 仅用6天时间血亏1400亿：本人道歉以后不碰杠杆"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查",
+        "小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开"
       ]
     },
     {
@@ -860,6 +909,17 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "科学前沿动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "王选院士：一直将这篇报道压在玻璃板下"
+      ]
+    },
+    {
       "topic": "芯片动态",
       "count": 1,
       "sourceCount": 1,
@@ -869,20 +929,145 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态"
       ]
-    },
-    {
-      "topic": "新能源车动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开"
-      ]
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查",
+      "summary": "快科技8月2日消息，据electrek报道，美国国家公路交通安全管理局（NHTSA）官网文件显示，该机构已对约120万辆特斯拉汽车展开初步调查，原因是收到156起前悬架部件在行驶中突然脱落的投诉。本次调查涵盖2018至2020款Model ...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikwqpk9900451.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikwqpk9900451.shtml"
+      ],
+      "publishedAt": "2026-08-02",
+      "date": "2026-08-02",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 176,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "快科技8月2日消息，据electrek报道，美国国家公路交通安全管理局（NHTSA）官网文件显示，该机构已对约120万辆特斯拉汽车展开初步调查，原因是收到156起前悬架部件在行驶中突然脱落的投诉。本次调查涵盖2018至2020款Model ...",
+      "relatedTitles": [
+        "悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉",
+      "summary": "IT之家 8 月 2 日消息，海外知名科普创作者汉克 · 格林（Hank Green）表示，在因使用 AI 而受到粉丝批评后，他将放缓内容创作节奏。据IT之家了解，除了个人频道外，格林还运营着知名科普 YouTube 频道 SciShow ...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpp3168577.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpp3168577.shtml"
+      ],
+      "publishedAt": "2026-08-02",
+      "date": "2026-08-02",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 8 月 2 日消息，海外知名科普创作者汉克 · 格林（Hank Green）表示，在因使用 AI 而受到粉丝批评后，他将放缓内容创作节奏。据IT之家了解，除了个人频道外，格林还运营着知名科普 YouTube 频道 SciShow ...",
+      "relatedTitles": [
+        "未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面",
@@ -949,7 +1134,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1016,6 +1201,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "IT之家 8 月 1 日消息，晶圆代工厂力积电 7 月 31 日发布重大消息公告，董事长暨创办人黄崇仁因心肺衰竭，于当日中午在家里睡梦中安详辞世，享年 76 岁。公开资料显示，黄崇仁（1949 年 —2026 年 7 月 31 日）是中国台...",
       "relatedTitles": [
         "半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "王选院士：一直将这篇报道压在玻璃板下",
+      "summary": "2020年1月15日，中国国家博物馆，一场庄重的仪式正在举行——著名计算机科学家王选的夫人陈堃銶，将一套13件“汉字激光照排系统科研实物”捐给国博，永久入藏。其中，一张发黄的《光明日报》格外引人注目，头版头条刊载的正是对汉字激光照排技术的首...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikwqpr5409596.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikwqpr5409596.shtml"
+      ],
+      "publishedAt": "2026-08-02",
+      "date": "2026-08-02",
+      "category": "科学前沿",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “王选院士：一直将这篇报道压在玻璃板下” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "2020年1月15日，中国国家博物馆，一场庄重的仪式正在举行——著名计算机科学家王选的夫人陈堃銶，将一套13件“汉字激光照排系统科研实物”捐给国博，永久入藏。其中，一张发黄的《光明日报》格外引人注目，头版头条刊载的正是对汉字激光照排技术的首...",
+      "relatedTitles": [
+        "王选院士：一直将这篇报道压在玻璃板下"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开",
+      "summary": "IT之家 8 月 2 日消息，小米汽车昨晚发布了答网友问（第 265 集），针对澎程系列新车的滑轨和座椅旋转与市面其他车的区别、澎程驾驶起来体验如何、小米龙甲电池 55 摄氏度热失控无热蔓延是什么意思等问题进行了解答。IT之家附小米汽车本期...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpk9901425.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpk9901425.shtml"
+      ],
+      "publishedAt": "2026-08-02",
+      "date": "2026-08-02",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use battery innovation and infrastructure to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "IT之家 8 月 2 日消息，小米汽车昨晚发布了答网友问（第 265 集），针对澎程系列新车的滑轨和座椅旋转与市面其他车的区别、澎程驾驶起来体验如何、小米龙甲电池 55 摄氏度热失控无热蔓延是什么意思等问题进行了解答。IT之家附小米汽车本期...",
+      "relatedTitles": [
+        "小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开"
       ],
       "isNewSinceLastRun": true
     },
@@ -1085,75 +1406,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉",
-      "summary": "汉克 · 格林因使用 ChatGPT 做研究未提前披露引发粉丝争议，他致歉承认过度依赖 AI，宣布将放缓内容更新，重新审视与 AI 的关系。#AI创作争议#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/984/649.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/984/649.htm"
-      ],
-      "publishedAt": "Sat, 01 Aug 2026 23:38:39 GMT",
-      "date": "2026-08-02",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 160,
-      "reporterScore": 168,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "汉克 · 格林因使用 ChatGPT 做研究未提前披露引发粉丝争议，他致歉承认过度依赖 AI，宣布将放缓内容更新，重新审视与 AI 的关系。#AI创作争议#",
-      "relatedTitles": [
-        "未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1221,75 +1474,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开",
-      "summary": "#小米汽车#昨晚发布了答网友问（第 265 集），针对澎程系列新车的滑轨和座椅旋转与市面其他车的区别、澎程驾驶起来体验如何、小米龙甲电池 55 摄氏度热失控无热蔓延是什么意思等问题进行了解答。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/984/648.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/984/648.htm"
-      ],
-      "publishedAt": "Sat, 01 Aug 2026 23:35:39 GMT",
-      "date": "2026-08-02",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 149,
-      "reporterScore": 157,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Report the industrial consequence of battery innovation and infrastructure: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "#小米汽车#昨晚发布了答网友问（第 265 集），针对澎程系列新车的滑轨和座椅旋转与市面其他车的区别、澎程驾驶起来体验如何、小米龙甲电池 55 摄氏度热失控无热蔓延是什么意思等问题进行了解答。",
-      "relatedTitles": [
-        "小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1357,7 +1542,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI到底是否泡沫！00后AI股神清仓 仅用6天时间血亏1400亿：本人道歉以后不碰杠杆"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2944,38 +3129,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran",
-      "summary": "Google has abruptly rolled back the controversial Nano Banana 2 image generation feature in Google Earth less than 24 hours after launch following viral safety backlash.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html",
-      "publishedAt": "2026-08-02",
-      "date": "2026-08-02",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran” against primary-source evidence.",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 159,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
       "summary": "This week on “Uncanny Valley,” we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in searc",
       "source": "WIRED Business",
@@ -3036,6 +3189,38 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran",
+      "summary": "Google has abruptly rolled back the controversial Nano Banana 2 image generation feature in Google Earth less than 24 hours after launch following viral safety backlash.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html",
+      "publishedAt": "2026-08-02",
+      "date": "2026-08-02",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran” against primary-source evidence.",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 159,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -3164,7 +3349,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3196,7 +3381,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3228,39 +3413,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
-      "summary": "88 custom cores, 176 funky threads, 1.5 TB of laptop RAM, and 1.8 TB/s of NVLink connectivity — this isn",
-      "source": "The Register",
-      "url": "https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056",
-      "publishedAt": "Sat, 01 Aug 2026 11:02:00 +0200",
-      "date": "2026-08-01",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.97,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “A deep dive into Nvidia's Vera CPU and the Olympus cores that power it” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3325,42 +3478,10 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic and OpenAI are competing to see whose agents can go rogue harder",
-      "summary": "Whoever wins, we lose",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/07/31/anthropic-and-openai-are-competing-to-see-whose-agents-can-go-rogue-harder/5281797",
-      "publishedAt": "Fri, 31 Jul 2026 17:04:04 +0200",
-      "date": "2026-07-31",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic and OpenAI are competing to see whose agents can go rogue hard” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-02｜V3\n生成时间：2026/8/2 07:43:58\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2591｜确认今日 7｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 5 条\n延续跟踪线索：国内 0 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-02] 珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwkft5524895.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面” against primary-source evidence.\n\n2. [2026-08-02] 半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikvtix3555078.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘” against primary-source evidence.\n\n3. [2026-08-02] 闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikvtiv0247348.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态” against primary-source evidence.\n\n4. [23:38] 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉\n   IT之家｜2026-08-02｜https://www.ithome.com/0/984/649.htm\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉” against primary-source evidence.\n\n5. [23:33] 因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查\n   IT之家｜2026-08-02｜https://www.ithome.com/0/984/647.htm\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查” against primary-source evidence.\n\n本次新增线索：\n- 珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwkft5524895.shtml\n- 半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikvtix3555078.shtml\n- 闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikvtiv0247348.shtml\n- 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉｜IT之家｜https://www.ithome.com/0/984/649.htm\n- 因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查｜IT之家｜https://www.ithome.com/0/984/647.htm\n- Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n5. Sam Altman isn’t the only one who wants to pump the brakes on AI｜TechCrunch｜https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-02｜V3\n生成时间：2026/8/2 07:43:58\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2591｜确认今日 7｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 5 条\n延续跟踪线索：国内 0 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-02] 珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwkft5524895.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面” against primary-source evidence.\n\n2. [2026-08-02] 半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikvtix3555078.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘” against primary-source evidence.\n\n3. [2026-08-02] 闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikvtiv0247348.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态” against primary-source evidence.\n\n4. [23:38] 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉\n   IT之家｜2026-08-02｜https://www.ithome.com/0/984/649.htm\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉” against primary-source evidence.\n\n5. [23:33] 因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查\n   IT之家｜2026-08-02｜https://www.ithome.com/0/984/647.htm\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查” against primary-source evidence.\n\n本次新增线索：\n- 珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwkft5524895.shtml\n- 半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikvtix3555078.shtml\n- 闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikvtiv0247348.shtml\n- 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉｜IT之家｜https://www.ithome.com/0/984/649.htm\n- 因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查｜IT之家｜https://www.ithome.com/0/984/647.htm\n- Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n5. Sam Altman isn’t the only one who wants to pump the brakes on AI｜TechCrunch｜https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-02｜生成时间：2026/8/2 07:43:58｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2591｜确认今日 7｜国际背景 14</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 7 条｜国际 5 条<br>延续跟踪线索：国内 0 条｜国际 9 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-02] 珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面</strong>\n      <span>新浪科技｜2026-08-02｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwkft5524895.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-02] 半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘</strong>\n      <span>新浪科技｜2026-08-02｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikvtix3555078.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-02] 闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态</strong>\n      <span>新浪科技｜2026-08-02｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikvtiv0247348.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [23:38] 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉</strong>\n      <span>IT之家｜2026-08-02｜<a href=\"https://www.ithome.com/0/984/649.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：168｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [23:33] 因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查</strong>\n      <span>IT之家｜2026-08-02｜<a href=\"https://www.ithome.com/0/984/647.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：168｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese AI Researchers Are Finding Their Voice on X</strong>\n      <span>时间：Fri, 31 Jul 2026 18:14:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese AI Researchers Are Finding Their Voice on X” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran</strong>\n      <span>时间：2026-08-02｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic</strong>\n      <span>时间：Thu, 30 Jul 2026 17:51:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anth” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation</strong>\n      <span>时间：Fri, 31 Jul 2026 19:47:28 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google nixes its Earth AI feature one day after launch, amid criticism i” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Sam Altman isn’t the only one who wants to pump the brakes on AI</strong>\n      <span>时间：Fri, 31 Jul 2026 17:26:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Sam Altman isn’t the only one who wants to pump the brakes on AI” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/2 07:43:58\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 5 条\n延续跟踪线索：国内 0 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-02] 珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwkft5524895.shtml\n   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面” against primary-source evidence.\n\n2. [2026-08-02] 半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikvtix3555078.shtml\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘” against primary-source evidence.\n\n3. [2026-08-02] 闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikvtiv0247348.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态” against primary-source evidence.\n\n4. [23:38] 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉\n   来源：IT之家\n   链接：https://www.ithome.com/0/984/649.htm\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉” against primary-source evidence.\n\n5. [23:33] 因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查\n   来源：IT之家\n   链接：https://www.ithome.com/0/984/647.htm\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查” against primary-source evidence.\n\n本次新增线索：\n- 珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwkft5524895.shtml\n- 半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikvtix3555078.shtml\n- 闭源代码砍掉79%！首款AMD锐龙 AM5开源固件发布：消费级主板告别黑盒状态｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikvtiv0247348.shtml\n- 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉｜IT之家｜https://www.ithome.com/0/984/649.htm\n- 因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查｜IT之家｜https://www.ithome.com/0/984/647.htm\n- Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html\n3. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n4. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n5. Sam Altman isn’t the only one who wants to pump the brakes on AI｜TechCrunch｜https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-02｜V3\n生成时间：2026/8/2 08:06:16\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2470｜确认今日 9｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-02] 悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikwqpk9900451.shtml\n   报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查” against primary-source evidence.\n\n2. [2026-08-02] 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpp3168577.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉” against primary-source evidence.\n\n3. [2026-08-02] 珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwkft5524895.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面” against primary-source evidence.\n\n4. [2026-08-02] 半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikvtix3555078.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘” against primary-source evidence.\n\n5. [2026-08-02] 王选院士：一直将这篇报道压在玻璃板下\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikwqpr5409596.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “王选院士：一直将这篇报道压在玻璃板下” against primary-source evidence.\n\n本次新增线索：\n- 悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikwqpk9900451.shtml\n- 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpp3168577.shtml\n- 王选院士：一直将这篇报道压在玻璃板下｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikwqpr5409596.shtml\n- 小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpk9901425.shtml\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n3. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n4. Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html\n5. Sam Altman isn’t the only one who wants to pump the brakes on AI｜TechCrunch｜https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-02｜V3\n生成时间：2026/8/2 08:06:16\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2470｜确认今日 9｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-02] 悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikwqpk9900451.shtml\n   报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查” against primary-source evidence.\n\n2. [2026-08-02] 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpp3168577.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉” against primary-source evidence.\n\n3. [2026-08-02] 珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwkft5524895.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面” against primary-source evidence.\n\n4. [2026-08-02] 半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikvtix3555078.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘” against primary-source evidence.\n\n5. [2026-08-02] 王选院士：一直将这篇报道压在玻璃板下\n   新浪科技｜2026-08-02｜https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikwqpr5409596.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “王选院士：一直将这篇报道压在玻璃板下” against primary-source evidence.\n\n本次新增线索：\n- 悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikwqpk9900451.shtml\n- 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpp3168577.shtml\n- 王选院士：一直将这篇报道压在玻璃板下｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikwqpr5409596.shtml\n- 小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpk9901425.shtml\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n3. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n4. Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html\n5. Sam Altman isn’t the only one who wants to pump the brakes on AI｜TechCrunch｜https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-02｜生成时间：2026/8/2 08:06:16｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2470｜确认今日 9｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 5 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-02] 悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查</strong>\n      <span>新浪科技｜2026-08-02｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikwqpk9900451.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：176｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-02] 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉</strong>\n      <span>新浪科技｜2026-08-02｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpp3168577.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-02] 珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面</strong>\n      <span>新浪科技｜2026-08-02｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwkft5524895.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-02] 半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘</strong>\n      <span>新浪科技｜2026-08-02｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikvtix3555078.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-02] 王选院士：一直将这篇报道压在玻璃板下</strong>\n      <span>新浪科技｜2026-08-02｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikwqpr5409596.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：161｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “王选院士：一直将这篇报道压在玻璃板下” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese AI Researchers Are Finding Their Voice on X</strong>\n      <span>时间：Fri, 31 Jul 2026 18:14:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese AI Researchers Are Finding Their Voice on X” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic</strong>\n      <span>时间：Thu, 30 Jul 2026 17:51:10 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anth” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation</strong>\n      <span>时间：Fri, 31 Jul 2026 19:47:28 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google nixes its Earth AI feature one day after launch, amid criticism i” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran</strong>\n      <span>时间：2026-08-02｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Sam Altman isn’t the only one who wants to pump the brakes on AI</strong>\n      <span>时间：Fri, 31 Jul 2026 17:26:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Sam Altman isn’t the only one who wants to pump the brakes on AI” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/2 08:06:16\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-02] 悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikwqpk9900451.shtml\n   角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查” against primary-source evidence.\n\n2. [2026-08-02] 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpp3168577.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉” against primary-source evidence.\n\n3. [2026-08-02] 珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwkft5524895.shtml\n   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面” against primary-source evidence.\n\n4. [2026-08-02] 半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikvtix3555078.shtml\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘” against primary-source evidence.\n\n5. [2026-08-02] 王选院士：一直将这篇报道压在玻璃板下\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikwqpr5409596.shtml\n   角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “王选院士：一直将这篇报道压在玻璃板下” against primary-source evidence.\n\n本次新增线索：\n- 悬架会突然脱落失效！美国NHTSA对120万辆特斯拉展开调查｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-02/doc-inikwqpk9900451.shtml\n- 未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpp3168577.shtml\n- 王选院士：一直将这篇报道压在玻璃板下｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikwqpr5409596.shtml\n- 小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikwqpk9901425.shtml\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic｜WIRED Business｜https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/\n3. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation｜TechCrunch｜https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/\n4. Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-pulls-earth-ai-tool-232353558.html\n5. Sam Altman isn’t the only one who wants to pump the brakes on AI｜TechCrunch｜https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
