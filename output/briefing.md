@@ -3,53 +3,55 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/2 16:25:22
+生成时间：2026/8/2 16:37:57
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 0 条
-延续跟踪线索：国内 30 条｜国际 16 条
+新增核心线索：国内 9 条｜国际 0 条
+延续跟踪线索：国内 19 条｜国际 16 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-02] 算力狂奔，电力共振：比特与瓦特如何“双向赋能”？
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-08-02/doc-inikwzci3045485.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “算力狂奔，电力共振：比特与瓦特如何“双向赋能”？” against primary-source evidence.
+1. [04:34] 前 DeepMind 研究员蒂博爆料：谷歌曾在 ChatGPT 发布一年前做出类似产品，但最终被雪藏
+   来源：IT之家
+   链接：https://www.ithome.com/0/984/716.htm
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “前 DeepMind 研究员蒂博爆料：谷歌曾在 ChatGPT 发布一年前做出类似产品，但最终被雪藏” against primary-source evidence.
 
-2. [2026-08-02] 人工智能从干活到负责
+2. [06:42] 长三角（嘉兴）Token 运营中心启动，DeepSeek、千问等 100 余款大模型可选
+   来源：IT之家
+   链接：https://www.ithome.com/0/984/730.htm
+   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “长三角（嘉兴）Token 运营中心启动，DeepSeek、千问等 100 余款大模型可选” against primary-source evidence.
+
+3. [2026-08-02] 人工智能从干活到负责
    来源：人民网-科技
    链接：http://finance.people.com.cn/n1/2026/0802/c1004-40772279.html
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人工智能从干活到负责” against primary-source evidence.
 
-3. [2026-08-02] 人工智能翻译的“能”与“不能”
+4. [2026-08-02] 人工智能翻译的“能”与“不能”
    来源：人民网-科技
    链接：http://finance.people.com.cn/n1/2026/0802/c1004-40772264.html
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人工智能翻译的“能”与“不能”” against primary-source evidence.
 
-4. [2026-08-02] 前DeepMind技术大牛曝光！谷歌曾比ChatGPT早一年做出类似产品 但最终被雪藏
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikxfmf2925431.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “前DeepMind技术大牛曝光！谷歌曾比ChatGPT早一年做出类似产品 但最终被雪藏” against primary-source evidence.
-
-5. [2026-08-02] 中国产品包揽全球大模型调用量前五
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L3B63LFT0534A4SC.html
-   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国产品包揽全球大模型调用量前五” against primary-source evidence.
+5. [08:30] 上纬新材启元宣布与暴雪《魔兽世界》合作，推出限定“鱼人定制款”Q1 机器人
+   来源：IT之家
+   链接：https://www.ithome.com/0/984/758.htm
+   角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “上纬新材启元宣布与暴雪《魔兽世界》合作，推出限定“鱼人定制款”Q1 机器人” against primary-source evidence.
 
 本次新增线索：
-- 首届全国青少年人工智能大赛决赛上海开赛，设 5 大前沿赛道｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikxfmf2944193.shtml
-- 几千元续航翻倍！新能源外挂电池灰产曝光：线上引流线下暗改｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikxfmi5247496.shtml
-- Snapchat 平台宣布打击低质量 AI 内容，完全由 AI 生成的视频将不会被算法推荐｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-02/doc-inikxfmi5243259.shtml
+- 前 DeepMind 研究员蒂博爆料：谷歌曾在 ChatGPT 发布一年前做出类似产品，但最终被雪藏｜IT之家｜https://www.ithome.com/0/984/716.htm
+- 长三角（嘉兴）Token 运营中心启动，DeepSeek、千问等 100 余款大模型可选｜IT之家｜https://www.ithome.com/0/984/730.htm
+- 上纬新材启元宣布与暴雪《魔兽世界》合作，推出限定“鱼人定制款”Q1 机器人｜IT之家｜https://www.ithome.com/0/984/758.htm
+- 未来感拉满！机器人点球大战来了｜央视新闻科技｜https://news.cctv.com/2026/08/02/ARTIyfPCSQLE1SLMOOvD6oz7260801.shtml
+- 首届全国青少年人工智能大赛决赛上海开赛，设 5 大前沿赛道｜IT之家｜https://www.ithome.com/0/984/744.htm
 
 今日热点方向：
-- AI 应用：AI动态（9 条，4 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
+- AI 应用：AI动态（9 条，3 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：机器人动态（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）
 - 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/
