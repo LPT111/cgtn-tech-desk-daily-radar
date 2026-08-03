@@ -1,49 +1,24 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-02T23:44:58.834Z",
+  "generatedAt": "2026-08-03T00:07:09.081Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-03",
   "changeSummary": {
-    "domesticNew": 14,
-    "globalNew": 2,
-    "domesticContinued": 0,
-    "globalContinued": 4,
+    "domesticNew": 1,
+    "globalNew": 1,
+    "domesticContinued": 12,
+    "globalContinued": 6,
     "topNewDomestic": [
       {
-        "title": "AI调度系统接管望远镜开启自主观星",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-08-03/doc-inikytnz2985557.shtml"
-      },
-      {
-        "title": "经济学家汉克：AI 成本极高，难以大规模取代人力",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml"
-      },
-      {
-        "title": "千万级块体非晶合金攻关项目启动",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml"
-      },
-      {
-        "title": "北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml"
-      },
-      {
-        "title": "IBM三项独立实验实现“量子优势”",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L3D11RKB05198CJN.html"
+        "title": "弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/2026-08/03/content_558151.html"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Palantir's new battlefield AI containers carrying Nvidia accelerators",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html"
-      },
-      {
-        "title": "Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/science/articles/opinion-flight-13-starship-mostly-140000194.html"
+        "title": "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
+        "source": "The Register",
+        "url": "https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056"
       }
     ],
     "hasPrevious": true
@@ -52,8 +27,8 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 886,
-    "globalRejected": 894,
+    "domesticRejected": 887,
+    "globalRejected": 893,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -67,7 +42,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 29,
   "failedSources": [
     {
       "name": "财联社",
@@ -85,24 +60,9 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -132,24 +92,9 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -166,7 +111,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 137,
+      "parsed": 138,
       "failed": false,
       "optional": false
     },
@@ -259,7 +204,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "科技日报",
       "tier": "official",
-      "parsed": 71,
+      "parsed": 73,
       "failed": false,
       "optional": false
     },
@@ -331,16 +276,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -361,9 +304,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -418,18 +360,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1317,
+  "itemsSeen": 1330,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 309,
-  "itemsAfterDedupe": 249,
-  "todayItemsSeen": 14,
+  "itemsAfterRelevantFilter": 310,
+  "itemsAfterDedupe": 246,
+  "todayItemsSeen": 13,
   "suspectedItemsSeen": 22,
-  "skippedNonToday": 211,
+  "skippedNonToday": 207,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 137,
+      "parsed": 138,
       "failed": false,
       "optional": false
     },
@@ -522,7 +464,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "科技日报",
       "tier": "official",
-      "parsed": 71,
+      "parsed": 73,
       "failed": false,
       "optional": false
     },
@@ -594,16 +536,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -624,9 +564,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -749,7 +688,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 0,
+      "parsed": 50,
       "failed": false,
       "optional": false
     },
@@ -850,24 +789,9 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -899,9 +823,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1171,
+  "globalItemsSeen": 1221,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 122,
+  "globalItemsAfterRelevantFilter": 102,
   "topics": [
     {
       "topic": "新能源车动态",
@@ -919,27 +843,26 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "科学前沿与科研设施",
+      "topic": "科学前沿动态",
       "count": 2,
       "sourceCount": 2,
       "sources": [
-        "新浪科技",
-        "网易科技"
+        "科技日报",
+        "新浪科技"
       ],
       "items": [
-        "北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒",
-        "IBM三项独立实验实现“量子优势”"
+        "弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”",
+        "千万级块体非晶合金攻关项目启动"
       ]
     },
     {
       "topic": "AI动态",
-      "count": 3,
+      "count": 2,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "AI调度系统接管望远镜开启自主观星",
         "经济学家汉克：AI 成本极高，难以大规模取代人力",
         "面向未来：数字安全前瞻的六大支柱"
       ]
@@ -957,14 +880,14 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "科学前沿动态",
+      "topic": "科学前沿与科研设施",
       "count": 1,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "千万级块体非晶合金攻关项目启动"
+        "北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒"
       ]
     },
     {
@@ -991,74 +914,6 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "AI调度系统接管望远镜开启自主观星",
-      "summary": "银河系在维克托·M·布兰科4米望远镜上划出一条优美的弧线。图片来源：美国国家科学基金会等机构科技日报讯 （记者刘霞）据物理学家组织网8月1日报道，美国西北大学、芝加哥大学与费米实验室科学家，研发出一款人工智能（AI）调度系统，可接管望远镜并...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-08-03/doc-inikytnz2985557.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/discovery/2026-08-03/doc-inikytnz2985557.shtml"
-      ],
-      "publishedAt": "2026-08-03",
-      "date": "2026-08-03",
-      "category": "AI",
-      "classificationConfidence": 0.94,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 184,
-      "reporterScore": 200,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 130
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI调度系统接管望远镜开启自主观星” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "银河系在维克托·M·布兰科4米望远镜上划出一条优美的弧线。图片来源：美国国家科学基金会等机构科技日报讯 （记者刘霞）据物理学家组织网8月1日报道，美国西北大学、芝加哥大学与费米实验室科学家，研发出一款人工智能（AI）调度系统，可接管望远镜并...",
-      "relatedTitles": [
-        "AI调度系统接管望远镜开启自主观星"
-      ],
-      "isNewSinceLastRun": true
-    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "经济学家汉克：AI 成本极高，难以大规模取代人力",
@@ -1124,6 +979,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "IT之家 8 月 3 日消息，美国约翰斯 · 霍普金斯大学应用经济学教授史蒂夫 · 汉克（Steve Hanke）表示，认为人工智能最终会免费、提供服务几乎没有成本，这种想法既脱离现实，也站不住脚。汉克在接受 Business Inside...",
       "relatedTitles": [
         "经济学家汉克：AI 成本极高，难以大规模取代人力"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”",
+      "summary": "所在位置： 中国科技网首页 > 正文 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”——记贵州省地质矿产局首席科学家周琦 2026-08-03 07:42:29 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/2026-08/03/content_558151.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/2026-08/03/content_558151.html"
+      ],
+      "publishedAt": "2026-08-03",
+      "date": "2026-08-03",
+      "category": "科学前沿",
+      "classificationConfidence": 0.93,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "所在位置： 中国科技网首页 > 正文 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”——记贵州省地质矿产局首席科学家周琦 2026-08-03 07:42:29 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”"
       ],
       "isNewSinceLastRun": true
     },
@@ -1193,7 +1116,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "千万级块体非晶合金攻关项目启动"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1261,75 +1184,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "IBM三项独立实验实现“量子优势”",
-      "summary": "IBM三项独立实验实现“量子优势”,实验,ibm,量子优势,量子计算芯片,国际商业机器公司",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L3D11RKB05198CJN.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L3D11RKB05198CJN.html"
-      ],
-      "publishedAt": "2026-08-03",
-      "date": "2026-08-03",
-      "category": "科学前沿",
-      "classificationConfidence": 0.94,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 5,
-      "score": 166,
-      "reporterScore": 174,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “IBM三项独立实验实现“量子优势”” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "IBM三项独立实验实现“量子优势”,实验,ibm,量子优势,量子计算芯片,国际商业机器公司",
-      "relatedTitles": [
-        "IBM三项独立实验实现“量子优势”"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1397,7 +1252,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "面向未来：数字安全前瞻的六大支柱"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1465,7 +1320,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "长三角（嘉兴）Token运营中心正式启动；亚马逊"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1533,7 +1388,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "5080从8000涨到12000！一天一变 电脑价格飙升：显卡、存储涨价推高成本"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1601,7 +1456,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1669,7 +1524,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "贾跃亭：法拉第未来 FF EAI 机器人 7 月实现销售及出货 152 台，创单月新高"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1737,7 +1592,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "梅赛德斯-奔驰 CEO 反思过度取消汽车实体按键，更希望让大屏与按键实现共存"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1805,7 +1660,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "宁德时代获小摩增持约40.90万股 每股作价约627.77港元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1873,7 +1728,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "比亚迪7月销量41.9万辆领跑，零跑首超10万辆大"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1941,7 +1796,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "涉及悬架故障，近120万辆特斯拉汽车被调查；吉"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2010,73 +1865,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势。量子位在会上发布了「2025人工智能年度榜单」与「2025年度AI十大趋势报告」。 大会直播回顾 MEET2025 回顾 MEET2024 回顾 MEET2023 回顾 特邀嘉宾 &times; 重磅发布 2025人工智能年度榜单 我们希望为关注前沿科技创新的人提供一个独立的第三方参照系 为在技术与产业一线摸索前行的团队加一份笃定 为仍在押注长期主义的建设者刻下年度坐标 2025年度AI十大趋势报告 报告由量子位智库打造 基于对全球AI技术发展、产业应用和社会影响的深度调研与分析 全面呈现了人工智能领域的最新现状与未来发展趋势 独家观点 张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 百",
       "relatedTitles": [
         "MEET大会"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "应对成本竞争压力 OpenAI降价至多80%巩固市场",
-      "summary": "OpenAI 全球开发者狂喜！Codex移除5小时限制，Fable 5订阅再延7天，有人烧token烧到住院 有人因为token用不完就连续工作，把自己整医院里去了 梦晨 20小时前 OpenAI GPT-5.6一发布，Claude终于舍得重置Fable 5额度了 听雨 2026-07-10 OpenAI 刚刚，Ope",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzv1438890.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzv1438890.shtml"
-      ],
-      "publishedAt": "2026-07-31",
-      "date": "2026-07-31",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 156,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 115
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “应对成本竞争压力 OpenAI降价至多80%巩固市场” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "OpenAI于周四宣布下调两款最新人工智能模型GPT-5.6Terra与GPT-5.6Luna的定价，距离两款模型公开发布仅约三周。 企业客户对成本愈发敏感，若无法清晰看到投资回报，就不愿部署高价模型，OpenAI正面临满足这类客户...",
-      "relatedTitles": [
-        "应对成本竞争压力 OpenAI降价至多80%巩固市场"
       ]
     },
     {
@@ -2278,6 +2066,140 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "据英国广播公司（BBC）当地时间8月1日报道，谷歌推出谷歌地球（GoogleEarth）人工智能（AI）图",
       "relatedTitles": [
         "能制造虚假卫星图，谷歌紧急撤下Google Earth AI工具"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "应对成本竞争压力 OpenAI降价至多80%巩固市场",
+      "summary": "OpenAI GPT-5.6一发布，Claude终于舍得重置Fable 5额度了 听雨 15小时前 OpenAI 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 To safe AGI. henry 前天 14:29 OpenAI GPT-5.6突然发布！Fable5痛失最强基模王座 一口气端出三款GPT 5.6",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzv1438890.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzv1438890.shtml"
+      ],
+      "publishedAt": "2026-07-31",
+      "date": "2026-07-31",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 169,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “应对成本竞争压力 OpenAI降价至多80%巩固市场” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "OpenAI于周四宣布下调两款最新人工智能模型GPT-5.6Terra与GPT-5.6Luna的定价，距离两款模型公开发布仅约三周。 企业客户对成本愈发敏感，若无法清晰看到投资回报，就不愿部署高价模型，OpenAI正面临满足这类客户...",
+      "relatedTitles": [
+        "应对成本竞争压力 OpenAI降价至多80%巩固市场"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "Harness",
+      "summary": "Harness DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手 原本4亿+token、61美元的账单，直降至12美元 鱼羊 2026-05-25 Deepseek Harness Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注 全球首个消费级AI",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/harness",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/harness"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 166,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Harness” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "Harness DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手 原本4亿+token、61美元的账单，直降至12美元 鱼羊 2026-05-25 Deepseek Harness Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注 全球首个消费级AI Agent Harness冲上热搜 衡宇 2026-04-09 AI Agent Harness 硅谷创业公司 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 GPT-5.6一发布，Claude终于舍得重置Fable 5额度了 GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放 一群做自动驾驶的人，盯上了睡眠这件事",
+      "relatedTitles": [
+        "Harness"
       ]
     },
     {
@@ -2613,73 +2535,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "美国又对中国机器人下黑手，保护主义的老路走得通吗？",
       "relatedTitles": [
         "美国又对中国机器人下黑手，保护主义的老路走得通吗？"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "订单已排到2030年！“单船最大装车量达10800辆”",
-      "summary": "首页 订单已排到2030年！“单船最大装车量达10800辆” 分享到： 28日，由中国船舶集团广船国际建造的全球首艘万车级双燃料汽车运输船在广州南沙完成交付。 该船长230米，型宽40米，设计了14层车库甲板，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。同时，船舶还搭载了最新的绿色",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/politics/2026_04_29_815428.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/politics/2026_04_29_815428.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "新能源车",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 4,
-      "score": 134,
-      "reporterScore": 150,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “订单已排到2030年！“单船最大装车量达10800辆”” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "首页 订单已排到2030年！“单船最大装车量达10800辆” 分享到： 28日，由中国船舶集团广船国际建造的全球首艘万车级双燃料汽车运输船在广州南沙完成交付。 该船长230米，型宽40米，设计了14层车库甲板，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。同时，船舶还搭载了最新的绿色燃料系统，符合全球最新环保要求。 全球首艘万车级双燃料汽车运输船的正式交付，标志着我国完全掌握了此类船型的建造技术，在该细分市场保持全球领先地位。 今年第一季度，我国汽车出口222.6万辆，同比增长56.7%，新能源汽车市场继续保持快速增长态势。记者发现，快速增长的汽车出口需求，也拉动了全球航运市场对汽车运输船的需求。2026年一季度，我国交付汽车运输船11艘，同比增长9.5%。 在中船广船国际，汽车运输船正在船坞中加紧生产，排期已至2030年。当前全球汽车贸易需求持续增长，造船厂已累计承接汽车运输船订单超40艘，万车级汽车运输船自推出以来更是广受市场青睐。 中船广船国际10800车汽车运输船技术经理张付利表示，目前10800车总共有14条订单，从公司建造的趋势来看，最初",
-      "relatedTitles": [
-        "订单已排到2030年！“单船最大装车量达10800辆”"
       ]
     },
     {
@@ -3487,23 +3342,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Palantir's new battlefield AI containers carrying Nvidia accelerators",
-      "summary": "Palantir's portable AI data centers could change military computing by taking powerful Nvidia hardware directly into combat zones",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html",
-      "publishedAt": "2026-08-03",
-      "date": "2026-08-03",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.58,
+      "title": "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
+      "summary": "88 custom cores, 176 funky threads, 1.5 TB of laptop RAM, and 1.8 TB/s of NVLink connectivity — this isn",
+      "source": "The Register",
+      "url": "https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056",
+      "publishedAt": "Sat, 01 Aug 2026 11:02:00 +0200",
+      "date": "2026-08-01",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.97,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Palantir's new battlefield AI containers carrying Nvidia accelerators” against primary-source evidence.",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “A deep dive into Nvidia's Vera CPU and the Olympus cores that power it” against primary-source evidence.",
       "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
+      "score": 144,
+      "reporterScore": 144,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -3512,39 +3367,7 @@ window.CHENCHEN_DAILY_DATA = {
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX",
-      "summary": "The largest human-made object ever to fly in space landed like a ballet dancer and wound up floating in the water intact, still and sending telemetry.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/science/articles/opinion-flight-13-starship-mostly-140000194.html",
-      "publishedAt": "2026-08-02",
-      "date": "2026-08-02",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 70,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX” against primary-source evidence.",
-      "priority": 5,
-      "score": 141,
-      "reporterScore": 141,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
+        "reporterScore": 95
       },
       "status": "recent_48h",
       "isNewSinceLastRun": true
@@ -3612,10 +3435,74 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Palantir's new battlefield AI containers carrying Nvidia accelerators",
+      "summary": "Palantir's portable AI data centers could change military computing by taking powerful Nvidia hardware directly into combat zones",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html",
+      "publishedAt": "2026-08-03",
+      "date": "2026-08-03",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.58,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Palantir's new battlefield AI containers carrying Nvidia accelerators” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX",
+      "summary": "The largest human-made object ever to fly in space landed like a ballet dancer and wound up floating in the water intact, still and sending telemetry.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/science/articles/opinion-flight-13-starship-mostly-140000194.html",
+      "publishedAt": "2026-08-02",
+      "date": "2026-08-02",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 70,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX” against primary-source evidence.",
+      "priority": 5,
+      "score": 141,
+      "reporterScore": 141,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-03｜V3\n生成时间：2026/8/3 07:44:58\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2488｜确认今日 14｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 14 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 4 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-03] AI调度系统接管望远镜开启自主观星\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/discovery/2026-08-03/doc-inikytnz2985557.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI调度系统接管望远镜开启自主观星” against primary-source evidence.\n\n2. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.\n\n3. [2026-08-03] 千万级块体非晶合金攻关项目启动\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.\n\n4. [2026-08-03] 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.\n\n5. [2026-08-03] IBM三项独立实验实现“量子优势”\n   网易科技｜2026-08-03｜https://www.163.com/dy/article/L3D11RKB05198CJN.html\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “IBM三项独立实验实现“量子优势”” against primary-source evidence.\n\n本次新增线索：\n- AI调度系统接管望远镜开启自主观星｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-03/doc-inikytnz2985557.shtml\n- 经济学家汉克：AI 成本极高，难以大规模取代人力｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n- 千万级块体非晶合金攻关项目启动｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\n- 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\n- IBM三项独立实验实现“量子优势”｜网易科技｜https://www.163.com/dy/article/L3D11RKB05198CJN.html\n- Palantir's new battlefield AI containers carrying Nvidia accelerators｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\n3. Palantir's new battlefield AI containers carrying Nvidia accelerators｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html\n4. Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/opinion-flight-13-starship-mostly-140000194.html\n5. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-03｜V3\n生成时间：2026/8/3 07:44:58\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2488｜确认今日 14｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 14 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 4 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-03] AI调度系统接管望远镜开启自主观星\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/discovery/2026-08-03/doc-inikytnz2985557.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI调度系统接管望远镜开启自主观星” against primary-source evidence.\n\n2. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.\n\n3. [2026-08-03] 千万级块体非晶合金攻关项目启动\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.\n\n4. [2026-08-03] 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.\n\n5. [2026-08-03] IBM三项独立实验实现“量子优势”\n   网易科技｜2026-08-03｜https://www.163.com/dy/article/L3D11RKB05198CJN.html\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “IBM三项独立实验实现“量子优势”” against primary-source evidence.\n\n本次新增线索：\n- AI调度系统接管望远镜开启自主观星｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-03/doc-inikytnz2985557.shtml\n- 经济学家汉克：AI 成本极高，难以大规模取代人力｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n- 千万级块体非晶合金攻关项目启动｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\n- 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\n- IBM三项独立实验实现“量子优势”｜网易科技｜https://www.163.com/dy/article/L3D11RKB05198CJN.html\n- Palantir's new battlefield AI containers carrying Nvidia accelerators｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\n3. Palantir's new battlefield AI containers carrying Nvidia accelerators｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html\n4. Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/opinion-flight-13-starship-mostly-140000194.html\n5. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-03｜生成时间：2026/8/3 07:44:58｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2488｜确认今日 14｜国际背景 6</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 14 条｜国际 2 条<br>延续跟踪线索：国内 0 条｜国际 4 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-03] AI调度系统接管望远镜开启自主观星</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-03/doc-inikytnz2985557.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI调度系统接管望远镜开启自主观星” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-03] 千万级块体非晶合金攻关项目启动</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：175｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-03] 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：174｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-03] IBM三项独立实验实现“量子优势”</strong>\n      <span>网易科技｜2026-08-03｜<a href=\"https://www.163.com/dy/article/L3D11RKB05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：174｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “IBM三项独立实验实现“量子优势”” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese AI Researchers Are Finding Their Voice on X</strong>\n      <span>时间：Fri, 31 Jul 2026 18:14:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese AI Researchers Are Finding Their Voice on X” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth</strong>\n      <span>时间：Fri, 31 Jul 2026 23:38:56 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Palantir's new battlefield AI containers carrying Nvidia accelerators</strong>\n      <span>时间：2026-08-03｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Palantir's new battlefield AI containers carrying Nvidia accelerators” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX</strong>\n      <span>时间：2026-08-02｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/opinion-flight-13-starship-mostly-140000194.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)</strong>\n      <span>时间：2026-08-01｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/3 07:44:58\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 14 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 4 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-03] AI调度系统接管望远镜开启自主观星\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-03/doc-inikytnz2985557.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI调度系统接管望远镜开启自主观星” against primary-source evidence.\n\n2. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.\n\n3. [2026-08-03] 千万级块体非晶合金攻关项目启动\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\n   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.\n\n4. [2026-08-03] 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\n   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.\n\n5. [2026-08-03] IBM三项独立实验实现“量子优势”\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L3D11RKB05198CJN.html\n   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “IBM三项独立实验实现“量子优势”” against primary-source evidence.\n\n本次新增线索：\n- AI调度系统接管望远镜开启自主观星｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-03/doc-inikytnz2985557.shtml\n- 经济学家汉克：AI 成本极高，难以大规模取代人力｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n- 千万级块体非晶合金攻关项目启动｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\n- 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\n- IBM三项独立实验实现“量子优势”｜网易科技｜https://www.163.com/dy/article/L3D11RKB05198CJN.html\n- Palantir's new battlefield AI containers carrying Nvidia accelerators｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（2 条，2 个来源）\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\n3. Palantir's new battlefield AI containers carrying Nvidia accelerators｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html\n4. Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/opinion-flight-13-starship-mostly-140000194.html\n5. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-03｜V3\n生成时间：2026/8/3 08:07:09\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2551｜确认今日 13｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 12 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.\n\n2. [2026-08-03] 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”\n   科技日报｜2026-08-03｜https://www.stdaily.com/web/2026-08/03/content_558151.html\n   报道角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”” against primary-source evidence.\n\n3. [2026-08-03] 千万级块体非晶合金攻关项目启动\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.\n\n4. [2026-08-03] 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.\n\n5. [2026-08-03] 面向未来：数字安全前瞻的六大支柱\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikypev6407336.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “面向未来：数字安全前瞻的六大支柱” against primary-source evidence.\n\n本次新增线索：\n- 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”｜科技日报｜https://www.stdaily.com/web/2026-08/03/content_558151.html\n- A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\n3. A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\n4. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\n5. Sam Altman is still making the case for parenting via ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-03｜V3\n生成时间：2026/8/3 08:07:09\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2551｜确认今日 13｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 12 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.\n\n2. [2026-08-03] 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”\n   科技日报｜2026-08-03｜https://www.stdaily.com/web/2026-08/03/content_558151.html\n   报道角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”” against primary-source evidence.\n\n3. [2026-08-03] 千万级块体非晶合金攻关项目启动\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.\n\n4. [2026-08-03] 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.\n\n5. [2026-08-03] 面向未来：数字安全前瞻的六大支柱\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikypev6407336.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “面向未来：数字安全前瞻的六大支柱” against primary-source evidence.\n\n本次新增线索：\n- 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”｜科技日报｜https://www.stdaily.com/web/2026-08/03/content_558151.html\n- A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\n3. A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\n4. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\n5. Sam Altman is still making the case for parenting via ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-03｜生成时间：2026/8/3 08:07:09｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2551｜确认今日 13｜国际背景 7</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 1 条<br>延续跟踪线索：国内 12 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-03] 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”</strong>\n      <span>科技日报｜2026-08-03｜<a href=\"https://www.stdaily.com/web/2026-08/03/content_558151.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：167｜需核验来源</span>\n      <p>报道角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-03] 千万级块体非晶合金攻关项目启动</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：175｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-03] 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：174｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-03] 面向未来：数字安全前瞻的六大支柱</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikypev6407336.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “面向未来：数字安全前瞻的六大支柱” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese AI Researchers Are Finding Their Voice on X</strong>\n      <span>时间：Fri, 31 Jul 2026 18:14:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese AI Researchers Are Finding Their Voice on X” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth</strong>\n      <span>时间：Fri, 31 Jul 2026 23:38:56 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. A deep dive into Nvidia's Vera CPU and the Olympus cores that power it</strong>\n      <span>时间：Sat, 01 Aug 2026 11:02:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “A deep dive into Nvidia's Vera CPU and the Olympus cores that power it” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)</strong>\n      <span>时间：2026-08-01｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Sam Altman is still making the case for parenting via ChatGPT</strong>\n      <span>时间：Sat, 01 Aug 2026 17:07:34 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Sam Altman is still making the case for parenting via ChatGPT” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/3 08:07:09\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 12 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.\n\n2. [2026-08-03] 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”\n   来源：科技日报\n   链接：https://www.stdaily.com/web/2026-08/03/content_558151.html\n   角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”” against primary-source evidence.\n\n3. [2026-08-03] 千万级块体非晶合金攻关项目启动\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\n   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.\n\n4. [2026-08-03] 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\n   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.\n\n5. [2026-08-03] 面向未来：数字安全前瞻的六大支柱\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikypev6407336.shtml\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “面向未来：数字安全前瞻的六大支柱” against primary-source evidence.\n\n本次新增线索：\n- 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”｜科技日报｜https://www.stdaily.com/web/2026-08/03/content_558151.html\n- A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\n3. A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\n4. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\n5. Sam Altman is still making the case for parenting via ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };

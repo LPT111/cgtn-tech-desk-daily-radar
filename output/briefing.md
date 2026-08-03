@@ -3,25 +3,25 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/3 07:44:58
+生成时间：2026/8/3 08:07:09
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 14 条｜国际 2 条
-延续跟踪线索：国内 0 条｜国际 4 条
+新增核心线索：国内 1 条｜国际 1 条
+延续跟踪线索：国内 12 条｜国际 6 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-03] AI调度系统接管望远镜开启自主观星
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-08-03/doc-inikytnz2985557.shtml
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI调度系统接管望远镜开启自主观星” against primary-source evidence.
-
-2. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力
+1. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml
    角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.
+
+2. [2026-08-03] 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”
+   来源：科技日报
+   链接：https://www.stdaily.com/web/2026-08/03/content_558151.html
+   角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”” against primary-source evidence.
 
 3. [2026-08-03] 千万级块体非晶合金攻关项目启动
    来源：新浪科技
@@ -33,33 +33,29 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml
    角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.
 
-5. [2026-08-03] IBM三项独立实验实现“量子优势”
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L3D11RKB05198CJN.html
-   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “IBM三项独立实验实现“量子优势”” against primary-source evidence.
+5. [2026-08-03] 面向未来：数字安全前瞻的六大支柱
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikypev6407336.shtml
+   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “面向未来：数字安全前瞻的六大支柱” against primary-source evidence.
 
 本次新增线索：
-- AI调度系统接管望远镜开启自主观星｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-03/doc-inikytnz2985557.shtml
-- 经济学家汉克：AI 成本极高，难以大规模取代人力｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml
-- 千万级块体非晶合金攻关项目启动｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml
-- 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml
-- IBM三项独立实验实现“量子优势”｜网易科技｜https://www.163.com/dy/article/L3D11RKB05198CJN.html
-- Palantir's new battlefield AI containers carrying Nvidia accelerators｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html
+- 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”｜科技日报｜https://www.stdaily.com/web/2026-08/03/content_558151.html
+- A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056
 
 今日热点方向：
-- AI 应用：AI动态（3 条，1 个来源）
+- AI 应用：AI动态（2 条，1 个来源）
 - 芯片/半导体：
 - 机器人/具身智能：机器人动态（2 条，1 个来源）
 - 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
 - 太空与低空经济：
-- 科学前沿：科学前沿与科研设施（2 条，2 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
 1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/
 2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/
-3. Palantir's new battlefield AI containers carrying Nvidia accelerators｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html
-4. Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/opinion-flight-13-starship-mostly-140000194.html
-5. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2
+3. A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056
+4. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2
+5. Sam Altman is still making the case for parenting via ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
