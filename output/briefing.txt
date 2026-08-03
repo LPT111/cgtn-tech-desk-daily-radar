@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/3 18:07:24
+生成时间：2026/8/4 07:54:51
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 0 条
-延续跟踪线索：国内 51 条｜国际 9 条
+新增核心线索：国内 19 条｜国际 13 条
+延续跟踪线索：国内 0 条｜国际 0 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-03] 国产智能机器人全球爆单的启示
+1. [2026-08-04] 正听丨听说中国开源大模型或遭限制，连美国企业都急了
+   来源：科技日报
+   链接：https://www.stdaily.com/web/2026-08/04/content_558683.html
+   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “正听丨听说中国开源大模型或遭限制，连美国企业都急了” against primary-source evidence.
+
+2. [2026-08-04] 美国大学语言教师是如何与AI共处的
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnx6190252.shtml
-   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “国产智能机器人全球爆单的启示” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-04/doc-inimamwc5741361.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国大学语言教师是如何与AI共处的” against primary-source evidence.
 
-2. [2026-08-03] 中国推动人工智能惠及全球
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-08/03/content_38923277.htm
-   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “中国推动人工智能惠及全球” against primary-source evidence.
-
-3. [2026-08-03] 锚定Z世代消费主力 AI数字人亮相休食行业
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-08/03/content_38925024.htm
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “锚定Z世代消费主力 AI数字人亮相休食行业” against primary-source evidence.
-
-4. [2026-08-03] FCC新规波及扫地机器人 新型号入市受限制
+3. [2026-08-04] 库克称苹果正评估算力成本，iOS 27 的 Siri AI 额度方案尚未敲定
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikzqsp6056230.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “FCC新规波及扫地机器人 新型号入市受限制” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-04/doc-inimcatv5461800.shtml
+   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “库克称苹果正评估算力成本，iOS 27 的 Siri AI 额度方案尚未敲定” against primary-source evidence.
 
-5. [2026-08-03] 产品从成熟度5%到出货量全球第二！我国团队何以改写协作机器人竞争规则
+4. [2026-08-04] 白宫将于周二会晤AI巨头 讨论前沿模型安全测试框架
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L3F85MTR05198CJN.html
+   角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “白宫将于周二会晤AI巨头 讨论前沿模型安全测试框架” against primary-source evidence.
+
+5. [2026-08-04] 铠侠官宣 GP1 XL-FLASH PCIe Gen6 固态硬盘，随机读取 100M IOPS
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikzqsr2828856.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “产品从成熟度5%到出货量全球第二！我国团队何以改写协作机器人竞争规则” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-04/doc-inimcatr5755662.shtml
+   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “铠侠官宣 GP1 XL-FLASH PCIe Gen6 固态硬盘，随机读取 100M IOPS” against primary-source evidence.
 
 本次新增线索：
-- 锚定Z世代消费主力 AI数字人亮相休食行业｜光明网-科技｜https://tech.gmw.cn/2026-08/03/content_38925024.htm
-- 自变量机器人发布并开源HOST框架｜网易科技｜https://www.163.com/dy/article/L3DF36EN0534A4SC.html
-- ChatGPT Atlas 浏览器将于 8 月 9 日停止服务，用户需抓紧导出书签数据｜IT之家｜https://www.ithome.com/0/985/191.htm
-- 六大自主车企7月出口处高位 奇瑞海外销量占比超七成｜网易科技｜https://www.163.com/dy/article/L3E4MEOT05198CJN.html
-- 比亚迪仰望 U8L 鼎藏版「暮雪千山」高定主题套装亮相，新车定位全尺寸行政旗舰四座 SUV｜IT之家｜https://www.ithome.com/0/985/116.htm
+- 正听丨听说中国开源大模型或遭限制，连美国企业都急了｜科技日报｜https://www.stdaily.com/web/2026-08/04/content_558683.html
+- 美国大学语言教师是如何与AI共处的｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-04/doc-inimamwc5741361.shtml
+- 库克称苹果正评估算力成本，iOS 27 的 Siri AI 额度方案尚未敲定｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-04/doc-inimcatv5461800.shtml
+- 白宫将于周二会晤AI巨头 讨论前沿模型安全测试框架｜网易科技｜https://www.163.com/dy/article/L3F85MTR05198CJN.html
+- 铠侠官宣 GP1 XL-FLASH PCIe Gen6 固态硬盘，随机读取 100M IOPS｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-04/doc-inimcatr5755662.shtml
+- Meta straps on a ‘Kick Me’ sign by mistakenly taking down video by India’s prime minister｜The Register｜https://www.theregister.com/public-sector/2026/08/03/meta-straps-on-a-kick-me-sign-by-mistakenly-taking-down-video-by-indias-prime-minister/5282130
 
 今日热点方向：
-- AI 应用：AI动态（9 条，5 个来源）
-- 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（9 条，4 个来源）
-- 新能源车/智能驾驶：新能源车动态（8 条，4 个来源）
+- AI 应用：AI动态（6 条，3 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）
 - 太空与低空经济：
 - 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
-1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/
-2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/
-3. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2
-4. Sam Altman is still making the case for parenting via ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/
-5. AI-assisted staging draws boos at the Richard Wagner festival in Germany｜AP Technology｜https://apnews.com/article/germany-bayreuth-wagner-festival-ai-f4300cdc0be195dabdadfa6d2ab4254c
+1. Meta straps on a ‘Kick Me’ sign by mistakenly taking down video by India’s prime minister｜The Register｜https://www.theregister.com/public-sector/2026/08/03/meta-straps-on-a-kick-me-sign-by-mistakenly-taking-down-video-by-indias-prime-minister/5282130
+2. SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana｜Ars Technica｜https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/
+3. AI slop pollutes the CVE pipeline with fake vulns｜The Register｜https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462
+4. Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated｜TechCrunch｜https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/
+5. Influencers draw backlash for attending OpenAI’s first luxury trip｜TechCrunch｜https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
