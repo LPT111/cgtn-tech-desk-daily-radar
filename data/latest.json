@@ -1,34 +1,43 @@
 {
-  "generatedAt": "2026-08-03T00:07:09.081Z",
+  "generatedAt": "2026-08-03T00:16:12.740Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-03",
   "changeSummary": {
-    "domesticNew": 1,
-    "globalNew": 1,
-    "domesticContinued": 12,
-    "globalContinued": 6,
+    "domesticNew": 4,
+    "globalNew": 0,
+    "domesticContinued": 8,
+    "globalContinued": 5,
     "topNewDomestic": [
       {
-        "title": "弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/2026-08/03/content_558151.html"
-      }
-    ],
-    "topNewGlobal": [
+        "title": "国产智能机器人全球爆单的启示",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnx6190252.shtml"
+      },
       {
-        "title": "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
-        "source": "The Register",
-        "url": "https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056"
+        "title": "贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnx6221607.shtml"
+      },
+      {
+        "title": "美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/984/833.htm"
+      },
+      {
+        "title": "双轨并行！联发科首度确认ASIC项目采用英特尔EMIB-T封装",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4741626.shtml"
       }
     ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 887,
-    "globalRejected": 893,
+    "domesticRejected": 888,
+    "globalRejected": 895,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -42,7 +51,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 29,
+  "successSources": 25,
   "failedSources": [
     {
       "name": "财联社",
@@ -60,14 +69,34 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -92,14 +121,34 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -111,7 +160,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 138,
+      "parsed": 115,
       "failed": false,
       "optional": false
     },
@@ -204,7 +253,7 @@
     {
       "name": "科技日报",
       "tier": "official",
-      "parsed": 73,
+      "parsed": 71,
       "failed": false,
       "optional": false
     },
@@ -276,14 +325,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -304,8 +355,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -313,7 +365,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -326,8 +378,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 60,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -360,18 +413,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1330,
+  "itemsSeen": 1235,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 310,
-  "itemsAfterDedupe": 246,
-  "todayItemsSeen": 13,
-  "suspectedItemsSeen": 22,
-  "skippedNonToday": 207,
+  "itemsAfterRelevantFilter": 296,
+  "itemsAfterDedupe": 237,
+  "todayItemsSeen": 12,
+  "suspectedItemsSeen": 21,
+  "skippedNonToday": 200,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 138,
+      "parsed": 115,
       "failed": false,
       "optional": false
     },
@@ -464,7 +517,7 @@
     {
       "name": "科技日报",
       "tier": "official",
-      "parsed": 73,
+      "parsed": 71,
       "failed": false,
       "optional": false
     },
@@ -536,14 +589,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -564,8 +619,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -573,7 +629,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -586,8 +642,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 60,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -688,8 +745,9 @@
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 50,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "403 Forbidden",
       "optional": false
     },
     {
@@ -789,14 +847,34 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -811,6 +889,11 @@
       "optional": false
     },
     {
+      "name": "The Register",
+      "error": "403 Forbidden",
+      "optional": false
+    },
+    {
       "name": "White House OSTP",
       "error": "404 Not Found",
       "optional": false
@@ -822,14 +905,28 @@
     }
   ],
   "globalSourcesChecked": 21,
-  "globalSuccessSources": 18,
-  "globalItemsSeen": 1221,
+  "globalSuccessSources": 17,
+  "globalItemsSeen": 1171,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 102,
+  "globalItemsAfterRelevantFilter": 122,
   "topics": [
     {
+      "topic": "机器人动态",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录",
+        "美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元",
+        "贾跃亭：法拉第未来 FF EAI 机器人 7 月实现销售及出货 152 台，创单月新高"
+      ]
+    },
+    {
       "topic": "新能源车动态",
-      "count": 4,
+      "count": 3,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
@@ -837,57 +934,30 @@
       ],
       "items": [
         "梅赛德斯-奔驰 CEO 反思过度取消汽车实体按键，更希望让大屏与按键实现共存",
-        "宁德时代获小摩增持约40.90万股 每股作价约627.77港元",
         "比亚迪7月销量41.9万辆领跑，零跑首超10万辆大",
         "涉及悬架故障，近120万辆特斯拉汽车被调查；吉"
       ]
     },
     {
-      "topic": "科学前沿动态",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "科技日报",
-        "新浪科技"
-      ],
-      "items": [
-        "弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”",
-        "千万级块体非晶合金攻关项目启动"
-      ]
-    },
-    {
-      "topic": "AI动态",
-      "count": 2,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "经济学家汉克：AI 成本极高，难以大规模取代人力",
-        "面向未来：数字安全前瞻的六大支柱"
-      ]
-    },
-    {
-      "topic": "机器人动态",
-      "count": 2,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元",
-        "贾跃亭：法拉第未来 FF EAI 机器人 7 月实现销售及出货 152 台，创单月新高"
-      ]
-    },
-    {
-      "topic": "科学前沿与科研设施",
+      "topic": "人形机器人与具身智能",
       "count": 1,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒"
+        "国产智能机器人全球爆单的启示"
+      ]
+    },
+    {
+      "topic": "AI动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "经济学家汉克：AI 成本极高，难以大规模取代人力"
       ]
     },
     {
@@ -911,9 +981,99 @@
       "items": [
         "5080从8000涨到12000！一天一变 电脑价格飙升：显卡、存储涨价推高成本"
       ]
+    },
+    {
+      "topic": "科学前沿动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "科技日报"
+      ],
+      "items": [
+        "弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”"
+      ]
+    },
+    {
+      "topic": "半导体供应链",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "双轨并行！联发科首度确认ASIC项目采用英特尔EMIB-T封装"
+      ]
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "国产智能机器人全球爆单的启示",
+      "summary": "国家发展改革委数据显示，上半年全球每销售10台人形和四足智能机器人，8台产自中国。亮眼份额背后有中国制造迭代逻辑，带来三层启示：一是完整产业链构筑差异化优势，国内供应链体系使新品迭代周期缩短，打开增量市场，中国制造优势向高端智能装备延伸；二是订单放量标志行业跨过概念验证期，成本下行、场景扩容促商业化落地，形成产业生态；",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnx6190252.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnx6190252.shtml"
+      ],
+      "publishedAt": "2026-08-03",
+      "date": "2026-08-03",
+      "category": "机器人",
+      "classificationConfidence": 0.94,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 187,
+      "reporterScore": 209,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 133
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “国产智能机器人全球爆单的启示” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "国家发展改革委数据显示，上半年全球每销售10台人形和四足智能机器人，8台产自中国。亮眼份额背后有中国制造迭代逻辑，带来三层启示：一是完整产业链构筑差异化优势，国内供应链体系使新品迭代周期缩短，打开增量市场，中国制造优势向高端智能装备延伸；二是订单放量标志行业跨过概念验证期，成本下行、场景扩容促商业化落地，形成产业生态；三是份额领先不等于技术登顶，2025年中国人形机器人出货量占全球84.7%、市场规模占53.8%，但部分环节有技术差距，产业应转向核心技术攻坚。 (AI生成)",
+      "relatedTitles": [
+        "国产智能机器人全球爆单的启示"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "经济学家汉克：AI 成本极高，难以大规模取代人力",
@@ -983,103 +1143,35 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”",
-      "summary": "所在位置： 中国科技网首页 > 正文 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”——记贵州省地质矿产局首席科学家周琦 2026-08-03 07:42:29 来源: 科技日报 点击数： 热点",
-      "source": "科技日报",
-      "sources": [
-        "科技日报"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.stdaily.com/web/2026-08/03/content_558151.html",
-      "sourceUrls": [
-        "https://www.stdaily.com/web/2026-08/03/content_558151.html"
-      ],
-      "publishedAt": "2026-08-03",
-      "date": "2026-08-03",
-      "category": "科学前沿",
-      "classificationConfidence": 0.93,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 18,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "所在位置： 中国科技网首页 > 正文 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”——记贵州省地质矿产局首席科学家周琦 2026-08-03 07:42:29 来源: 科技日报 点击数： 热点",
-      "relatedTitles": [
-        "弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "千万级块体非晶合金攻关项目启动",
-      "summary": "本报讯（记者朱汉斌）7月31日，Dowell系列块体非晶合金新材料发布会暨千万级块体非晶合金横向攻关项目启动仪式在中国科学院东莞材料科学与技术研究所（以下简称东莞材料所）举行。这是继7月1日“块体非晶合金产学研用创新联合体”成立后的又一关键...",
+      "title": "贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录",
+      "summary": "快科技8月3日消息，今日，法拉第未来创始人贾跃亭发文透露，FF EAI机器人7月实现销售及出货152台，再创单月新高。截至7月底，法拉第未来累计实现销售及出货394台，向全年2000台出货目标稳步迈进。据悉，今年5月11日，贾跃亭公开表示F...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnx6221607.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnx6221607.shtml"
       ],
       "publishedAt": "2026-08-03",
       "date": "2026-08-03",
-      "category": "科学前沿",
-      "classificationConfidence": 0.71,
+      "category": "机器人",
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
       "priority": 5,
-      "score": 161,
-      "reporterScore": 175,
+      "score": 158,
+      "reporterScore": 164,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 90,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
@@ -1089,7 +1181,7 @@
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -1098,130 +1190,62 @@
         "primary": false,
         "visual": true,
         "international": false,
-        "interview": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 118
+        "hardTechWeight": 90,
+        "reporterScore": 113
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
+      "hasInterviewValue": false,
       "hasVisualValue": true,
       "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.",
+      "format": "video",
+      "angle": "Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "本报讯（记者朱汉斌）7月31日，Dowell系列块体非晶合金新材料发布会暨千万级块体非晶合金横向攻关项目启动仪式在中国科学院东莞材料科学与技术研究所（以下简称东莞材料所）举行。这是继7月1日“块体非晶合金产学研用创新联合体”成立后的又一关键...",
+      "matchedTopic": "机器人动态",
+      "rawText": "快科技8月3日消息，今日，法拉第未来创始人贾跃亭发文透露，FF EAI机器人7月实现销售及出货152台，再创单月新高。截至7月底，法拉第未来累计实现销售及出货394台，向全年2000台出货目标稳步迈进。据悉，今年5月11日，贾跃亭公开表示F...",
       "relatedTitles": [
-        "千万级块体非晶合金攻关项目启动"
+        "贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录"
       ],
-      "isNewSinceLastRun": false
+      "isNewSinceLastRun": true
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒",
-      "summary": "快科技8月3日消息，北京大学集成电路学院杨玉超教授团队与中国科学院联合研制出全球首款基于相变忆阻器的毫秒级神经动力学系统芯片，首次将神经动力学硬件系统的单步运算时间压缩至2.12毫秒，实现了类人脑级别的高速、高精度运算。这一成果为脑机接口、...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元",
+      "summary": "DoorDash 的 Dot 配送机器人虽然能自主行驶，但从餐厅取餐柜到机器人的短短几步仍需人工完成。部分配送员已接到“装载机器人”的新任务，每次耗时约 5 分钟，报酬约 5 美元。这引发了关于自动化与人力效率的讨论。#DoorDash配送机器人#",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/984/833.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml"
+        "https://www.ithome.com/0/984/833.htm"
       ],
-      "publishedAt": "2026-08-03",
+      "publishedAt": "Sun, 02 Aug 2026 23:20:08 GMT",
       "date": "2026-08-03",
-      "category": "科学前沿",
-      "classificationConfidence": 0.66,
+      "category": "机器人",
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
       "priority": 5,
-      "score": 166,
-      "reporterScore": 174,
+      "score": 154,
+      "reporterScore": 160,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 90,
         "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "快科技8月3日消息，北京大学集成电路学院杨玉超教授团队与中国科学院联合研制出全球首款基于相变忆阻器的毫秒级神经动力学系统芯片，首次将神经动力学硬件系统的单步运算时间压缩至2.12毫秒，实现了类人脑级别的高速、高精度运算。这一成果为脑机接口、...",
-      "relatedTitles": [
-        "北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "面向未来：数字安全前瞻的六大支柱",
-      "summary": "随着生成式AI、智能代理、沉浸式计算与数字身份技术快速演进，数字安全风险正从单点事件演变为跨平台、跨行业、跨地域的系统性挑战。报告指出，数字风险扩散速度已明显快于传统治理模式，组织需要由”事后响应”转向”前瞻预警”。目前，美国已有超过41%...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikypev6407336.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikypev6407336.shtml"
-      ],
-      "publishedAt": "2026-08-03",
-      "date": "2026-08-03",
-      "category": "AI",
-      "classificationConfidence": 0.76,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
+        "visual": 8,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
@@ -1232,27 +1256,27 @@
       },
       "reporterSignals": {
         "primary": false,
-        "visual": false,
-        "international": true,
+        "visual": true,
+        "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
+        "hardTechWeight": 90,
+        "reporterScore": 113
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “面向未来：数字安全前瞻的六大支柱” against primary-source evidence.",
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "随着生成式AI、智能代理、沉浸式计算与数字身份技术快速演进，数字安全风险正从单点事件演变为跨平台、跨行业、跨地域的系统性挑战。报告指出，数字风险扩散速度已明显快于传统治理模式，组织需要由”事后响应”转向”前瞻预警”。目前，美国已有超过41%...",
+      "matchedTopic": "机器人动态",
+      "rawText": "DoorDash 的 Dot 配送机器人虽然能自主行驶，但从餐厅取餐柜到机器人的短短几步仍需人工完成。部分配送员已接到“装载机器人”的新任务，每次耗时约 5 分钟，报酬约 5 美元。这引发了关于自动化与人力效率的讨论。#DoorDash配送机器人#",
       "relatedTitles": [
-        "面向未来：数字安全前瞻的六大支柱"
+        "美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元"
       ],
-      "isNewSinceLastRun": false
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1391,40 +1415,108 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元",
-      "summary": "DoorDash 的 Dot 配送机器人虽然能自主行驶，但从餐厅取餐柜到机器人的短短几步仍需人工完成。部分配送员已接到“装载机器人”的新任务，每次耗时约 5 分钟，报酬约 5 美元。这引发了关于自动化与人力效率的讨论。#DoorDash配送机器人#",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”",
+      "summary": "所在位置： 中国科技网首页 > 正文 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”——记贵州省地质矿产局首席科学家周琦 2026-08-03 07:42:29 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
       "sources": [
-        "新浪科技"
+        "科技日报"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6206138.shtml",
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/2026-08/03/content_558151.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6206138.shtml"
+        "https://www.stdaily.com/web/2026-08/03/content_558151.html"
       ],
       "publishedAt": "2026-08-03",
       "date": "2026-08-03",
-      "category": "机器人",
-      "classificationConfidence": 0.75,
+      "category": "科学前沿",
+      "classificationConfidence": 0.93,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
       "priority": 5,
-      "score": 158,
-      "reporterScore": 164,
+      "score": 159,
+      "reporterScore": 167,
       "scoreBreakdown": {
-        "hardTech": 90,
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "所在位置： 中国科技网首页 > 正文 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”——记贵州省地质矿产局首席科学家周琦 2026-08-03 07:42:29 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "双轨并行！联发科首度确认ASIC项目采用英特尔EMIB-T封装",
+      "summary": "快科技8月3日消息，据媒体报道，在近日举行的业绩说明会上，联发科首次公开确认其ASIC（专用集成电路）项目已采用英特尔EMIB-T先进封装技术。相较今年4月底的模糊表态，此次说明更为具体——彼时联发科CEO蔡力行仅透露公司正同时投资两套封装...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4741626.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4741626.shtml"
+      ],
+      "publishedAt": "2026-08-03",
+      "date": "2026-08-03",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 0,
-        "visual": 8,
+        "visual": 0,
         "international": 0,
         "policy": 0,
         "sourceWeight": 8,
@@ -1436,27 +1528,27 @@
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
+        "visual": false,
         "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
-      "hasVisualValue": true,
+      "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元” against primary-source evidence.",
+      "format": "graphic",
+      "angle": "Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “双轨并行！联发科首度确认ASIC项目采用英特尔EMIB-T封装” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "机器人动态",
-      "rawText": "IT之家 8 月 3 日消息，美国外卖平台 DoorDash 的配送机器人如今也需要人工协助。在部分已经部署 Dot 配送机器人的地区，一些 DoorDash 配送员最近通过 App 收到了新的任务：负责将外卖装入机器人。虽然这些机器人能够...",
+      "matchedTopic": "半导体供应链",
+      "rawText": "快科技8月3日消息，据媒体报道，在近日举行的业绩说明会上，联发科首次公开确认其ASIC（专用集成电路）项目已采用英特尔EMIB-T先进封装技术。相较今年4月底的模糊表态，此次说明更为具体——彼时联发科CEO蔡力行仅透露公司正同时投资两套封装...",
       "relatedTitles": [
-        "美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元"
+        "双轨并行！联发科首度确认ASIC项目采用英特尔EMIB-T封装"
       ],
-      "isNewSinceLastRun": false
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1591,74 +1683,6 @@
       "rawText": "IT之家 8 月 3 日消息，梅赛德斯-奔驰近年来不断扩大车内数字化配置，推出了 MBUX Hyperscreen 和 Superscreen 智能座舱，利用大量屏幕取代了传统物理按键。这种设计虽然带来了更强的科技感，但并未得到所有消费者认...",
       "relatedTitles": [
         "梅赛德斯-奔驰 CEO 反思过度取消汽车实体按键，更希望让大屏与按键实现共存"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "宁德时代获小摩增持约40.90万股 每股作价约627.77港元",
-      "summary": "香港联交所最新数据显示，7月27日，小摩增持宁德时代（03750）40.9022万股，每股作价627.7732港元，总金额约为2.57亿港元。增持后最新持股数目约为1328.92万股，持股比例为6.08%。...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-03/doc-inikytnr4730533.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-03/doc-inikytnr4730533.shtml"
-      ],
-      "publishedAt": "2026-08-03",
-      "date": "2026-08-03",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “宁德时代获小摩增持约40.90万股 每股作价约627.77港元” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "香港联交所最新数据显示，7月27日，小摩增持宁德时代（03750）40.9022万股，每股作价627.7732港元，总金额约为2.57亿港元。增持后最新持股数目约为1328.92万股，持股比例为6.08%。...",
-      "relatedTitles": [
-        "宁德时代获小摩增持约40.90万股 每股作价约627.77港元"
       ],
       "isNewSinceLastRun": false
     },
@@ -1868,6 +1892,73 @@
       ]
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "突发！OpenAI下一代AI攻克10项菲尔兹奖级难题",
+      "summary": "OpenAI 全球开发者狂喜！Codex移除5小时限制，Fable 5订阅再延7天，有人烧token烧到住院 有人因为token用不完就连续工作，把自己整医院里去了 梦晨 20小时前 OpenAI GPT-5.6一发布，Claude终于舍得重置Fable 5额度了 听雨 2026-07-10 OpenAI 刚刚，Ope",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/internet/2026-08-02/doc-inikwqpk9912251.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/internet/2026-08-02/doc-inikwqpk9912251.shtml"
+      ],
+      "publishedAt": "2026-08-02",
+      "date": "2026-08-02",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 156,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “突发！OpenAI下一代AI攻克10项菲尔兹奖级难题” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "来源：新智元 OpenAI还有大招！ 奥特曼刚演示的内部模型Astra，一口气在10个数学难题取得重大突破！ 这249页的PDF，在整个数学圈都是非常炸裂的程度。 论文：https：//cdn.openai.com...",
+      "relatedTitles": [
+        "突发！OpenAI下一代AI攻克10项菲尔兹奖级难题"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "WAIC观察：3DIC EDA + AI 智能体，如何重构STCO新范式？",
       "summary": "在7月18日举行的2026世界人工智能大会（WAIC）期间，珠海硅芯科技有限公司（以下简称硅芯科技）创始人兼首席科学家赵毅应邀出席“重构算力——AI算力需求与供给的结构性重构”产业链接会。",
@@ -2066,140 +2157,6 @@
       "rawText": "据英国广播公司（BBC）当地时间8月1日报道，谷歌推出谷歌地球（GoogleEarth）人工智能（AI）图",
       "relatedTitles": [
         "能制造虚假卫星图，谷歌紧急撤下Google Earth AI工具"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "应对成本竞争压力 OpenAI降价至多80%巩固市场",
-      "summary": "OpenAI GPT-5.6一发布，Claude终于舍得重置Fable 5额度了 听雨 15小时前 OpenAI 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴 To safe AGI. henry 前天 14:29 OpenAI GPT-5.6突然发布！Fable5痛失最强基模王座 一口气端出三款GPT 5.6",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzv1438890.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzv1438890.shtml"
-      ],
-      "publishedAt": "2026-07-31",
-      "date": "2026-07-31",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 169,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “应对成本竞争压力 OpenAI降价至多80%巩固市场” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "OpenAI于周四宣布下调两款最新人工智能模型GPT-5.6Terra与GPT-5.6Luna的定价，距离两款模型公开发布仅约三周。 企业客户对成本愈发敏感，若无法清晰看到投资回报，就不愿部署高价模型，OpenAI正面临满足这类客户...",
-      "relatedTitles": [
-        "应对成本竞争压力 OpenAI降价至多80%巩固市场"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "Harness",
-      "summary": "Harness DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手 原本4亿+token、61美元的账单，直降至12美元 鱼羊 2026-05-25 Deepseek Harness Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注 全球首个消费级AI",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/harness",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/harness"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 166,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 115
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Harness” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "Harness DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手 原本4亿+token、61美元的账单，直降至12美元 鱼羊 2026-05-25 Deepseek Harness Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注 全球首个消费级AI Agent Harness冲上热搜 衡宇 2026-04-09 AI Agent Harness 硅谷创业公司 热门文章 2026年世界人工智能大会，7月17-7月20上海举办 GPT-5.6一发布，Claude终于舍得重置Fable 5额度了 GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放 一群做自动驾驶的人，盯上了睡眠这件事",
-      "relatedTitles": [
-        "Harness"
       ]
     },
     {
@@ -2535,6 +2492,73 @@
       "rawText": "美国又对中国机器人下黑手，保护主义的老路走得通吗？",
       "relatedTitles": [
         "美国又对中国机器人下黑手，保护主义的老路走得通吗？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "订单已排到2030年！“单船最大装车量达10800辆”",
+      "summary": "首页 订单已排到2030年！“单船最大装车量达10800辆” 分享到： 28日，由中国船舶集团广船国际建造的全球首艘万车级双燃料汽车运输船在广州南沙完成交付。 该船长230米，型宽40米，设计了14层车库甲板，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。同时，船舶还搭载了最新的绿色",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/politics/2026_04_29_815428.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/politics/2026_04_29_815428.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "新能源车",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 134,
+      "reporterScore": 150,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “订单已排到2030年！“单船最大装车量达10800辆”” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "首页 订单已排到2030年！“单船最大装车量达10800辆” 分享到： 28日，由中国船舶集团广船国际建造的全球首艘万车级双燃料汽车运输船在广州南沙完成交付。 该船长230米，型宽40米，设计了14层车库甲板，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。同时，船舶还搭载了最新的绿色燃料系统，符合全球最新环保要求。 全球首艘万车级双燃料汽车运输船的正式交付，标志着我国完全掌握了此类船型的建造技术，在该细分市场保持全球领先地位。 今年第一季度，我国汽车出口222.6万辆，同比增长56.7%，新能源汽车市场继续保持快速增长态势。记者发现，快速增长的汽车出口需求，也拉动了全球航运市场对汽车运输船的需求。2026年一季度，我国交付汽车运输船11艘，同比增长9.5%。 在中船广船国际，汽车运输船正在船坞中加紧生产，排期已至2030年。当前全球汽车贸易需求持续增长，造船厂已累计承接汽车运输船订单超40艘，万车级汽车运输船自推出以来更是广受市场青睐。 中船广船国际10800车汽车运输船技术经理张付利表示，目前10800车总共有14条订单，从公司建造的趋势来看，最初",
+      "relatedTitles": [
+        "订单已排到2030年！“单船最大装车量达10800辆”"
       ]
     },
     {
@@ -3007,73 +3031,6 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "突发！OpenAI下一代AI攻克10项菲尔兹奖级难题",
-      "summary": "来源：新智元 OpenAI还有大招！ 奥特曼刚演示的内部模型Astra，一口气在10个数学难题取得重大突破！ 这249页的PDF，在整个数学圈都是非常炸裂的程度。 论文：https：//cdn.openai.com...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/internet/2026-08-02/doc-inikwqpk9912251.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/internet/2026-08-02/doc-inikwqpk9912251.shtml"
-      ],
-      "publishedAt": "2026-08-02",
-      "date": "2026-08-02",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 127,
-      "reporterScore": 127,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “突发！OpenAI下一代AI攻克10项菲尔兹奖级难题” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "来源：新智元 OpenAI还有大招！ 奥特曼刚演示的内部模型Astra，一口气在10个数学难题取得重大突破！ 这249页的PDF，在整个数学圈都是非常炸裂的程度。 论文：https：//cdn.openai.com...",
-      "relatedTitles": [
-        "突发！OpenAI下一代AI攻克10项菲尔兹奖级难题"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "数百万本书，正在被AI巨头“阅后即焚”",
       "summary": "AI公司开始盯上纸质书，最早是从Anthropic惹上的一场官司里露出端倪的。",
@@ -3342,38 +3299,6 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
-      "summary": "88 custom cores, 176 funky threads, 1.5 TB of laptop RAM, and 1.8 TB/s of NVLink connectivity — this isn",
-      "source": "The Register",
-      "url": "https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056",
-      "publishedAt": "Sat, 01 Aug 2026 11:02:00 +0200",
-      "date": "2026-08-01",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.97,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “A deep dive into Nvidia's Vera CPU and the Olympus cores that power it” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)",
       "summary": "Some 70 years before the current frenzy of record-breaking fundraising by modern AI giants such as OpenAI and Anthropic, the Rockefeller Foundation made what may have been the firs",
       "source": "France24 Technology",
@@ -3438,38 +3363,6 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Palantir's new battlefield AI containers carrying Nvidia accelerators",
-      "summary": "Palantir's portable AI data centers could change military computing by taking powerful Nvidia hardware directly into combat zones",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/articles/palantirs-battlefield-ai-containers-carrying-193000349.html",
-      "publishedAt": "2026-08-03",
-      "date": "2026-08-03",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.58,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Palantir's new battlefield AI containers carrying Nvidia accelerators” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX",
       "summary": "The largest human-made object ever to fly in space landed like a ballet dancer and wound up floating in the water intact, still and sending telemetry.",
       "source": "Yahoo News Technology",
@@ -3501,8 +3394,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-03｜V3\n生成时间：2026/8/3 08:07:09\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2551｜确认今日 13｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 12 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.\n\n2. [2026-08-03] 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”\n   科技日报｜2026-08-03｜https://www.stdaily.com/web/2026-08/03/content_558151.html\n   报道角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”” against primary-source evidence.\n\n3. [2026-08-03] 千万级块体非晶合金攻关项目启动\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.\n\n4. [2026-08-03] 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.\n\n5. [2026-08-03] 面向未来：数字安全前瞻的六大支柱\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikypev6407336.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “面向未来：数字安全前瞻的六大支柱” against primary-source evidence.\n\n本次新增线索：\n- 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”｜科技日报｜https://www.stdaily.com/web/2026-08/03/content_558151.html\n- A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\n3. A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\n4. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\n5. Sam Altman is still making the case for parenting via ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-03｜V3\n生成时间：2026/8/3 08:07:09\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2551｜确认今日 13｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 12 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.\n\n2. [2026-08-03] 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”\n   科技日报｜2026-08-03｜https://www.stdaily.com/web/2026-08/03/content_558151.html\n   报道角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”” against primary-source evidence.\n\n3. [2026-08-03] 千万级块体非晶合金攻关项目启动\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.\n\n4. [2026-08-03] 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.\n\n5. [2026-08-03] 面向未来：数字安全前瞻的六大支柱\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikypev6407336.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “面向未来：数字安全前瞻的六大支柱” against primary-source evidence.\n\n本次新增线索：\n- 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”｜科技日报｜https://www.stdaily.com/web/2026-08/03/content_558151.html\n- A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\n3. A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\n4. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\n5. Sam Altman is still making the case for parenting via ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-03｜生成时间：2026/8/3 08:07:09｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2551｜确认今日 13｜国际背景 7</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 1 条<br>延续跟踪线索：国内 12 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-03] 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”</strong>\n      <span>科技日报｜2026-08-03｜<a href=\"https://www.stdaily.com/web/2026-08/03/content_558151.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：167｜需核验来源</span>\n      <p>报道角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-03] 千万级块体非晶合金攻关项目启动</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：175｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-03] 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：174｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-03] 面向未来：数字安全前瞻的六大支柱</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikypev6407336.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “面向未来：数字安全前瞻的六大支柱” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese AI Researchers Are Finding Their Voice on X</strong>\n      <span>时间：Fri, 31 Jul 2026 18:14:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese AI Researchers Are Finding Their Voice on X” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth</strong>\n      <span>时间：Fri, 31 Jul 2026 23:38:56 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. A deep dive into Nvidia's Vera CPU and the Olympus cores that power it</strong>\n      <span>时间：Sat, 01 Aug 2026 11:02:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “A deep dive into Nvidia's Vera CPU and the Olympus cores that power it” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)</strong>\n      <span>时间：2026-08-01｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Sam Altman is still making the case for parenting via ChatGPT</strong>\n      <span>时间：Sat, 01 Aug 2026 17:07:34 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Sam Altman is still making the case for parenting via ChatGPT” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/3 08:07:09\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 1 条\n延续跟踪线索：国内 12 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.\n\n2. [2026-08-03] 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”\n   来源：科技日报\n   链接：https://www.stdaily.com/web/2026-08/03/content_558151.html\n   角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”” against primary-source evidence.\n\n3. [2026-08-03] 千万级块体非晶合金攻关项目启动\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4695521.shtml\n   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “千万级块体非晶合金攻关项目启动” against primary-source evidence.\n\n4. [2026-08-03] 北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnz2972538.shtml\n   角度：Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “北大团队研制全球首款毫秒级神经动力学芯片：单步运算仅2.12毫秒” against primary-source evidence.\n\n5. [2026-08-03] 面向未来：数字安全前瞻的六大支柱\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikypev6407336.shtml\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “面向未来：数字安全前瞻的六大支柱” against primary-source evidence.\n\n本次新增线索：\n- 弘扬科学家精神·强国先锋丨一个找矿人的“深地长征”｜科技日报｜https://www.stdaily.com/web/2026-08/03/content_558151.html\n- A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\n3. A deep dive into Nvidia's Vera CPU and the Olympus cores that power it｜The Register｜https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056\n4. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\n5. Sam Altman is still making the case for parenting via ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-03｜V3\n生成时间：2026/8/3 08:16:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2406｜确认今日 12｜国际背景 5\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-03] 国产智能机器人全球爆单的启示\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnx6190252.shtml\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “国产智能机器人全球爆单的启示” against primary-source evidence.\n\n2. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.\n\n3. [2026-08-03] 贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnx6221607.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录” against primary-source evidence.\n\n4. [23:20] 美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元\n   IT之家｜2026-08-03｜https://www.ithome.com/0/984/833.htm\n   报道角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元” against primary-source evidence.\n\n5. [2026-08-03] 长三角（嘉兴）Token运营中心正式启动；亚马逊\n   网易科技｜2026-08-03｜https://www.163.com/dy/article/L3D04HCP0512B07B.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “长三角（嘉兴）Token运营中心正式启动；亚马逊” against primary-source evidence.\n\n本次新增线索：\n- 国产智能机器人全球爆单的启示｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnx6190252.shtml\n- 贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnx6221607.shtml\n- 美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元｜IT之家｜https://www.ithome.com/0/984/833.htm\n- 双轨并行！联发科首度确认ASIC项目采用英特尔EMIB-T封装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4741626.shtml\n\n今日热点方向：\n- AI 应用：AI动态（1 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\n3. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\n4. Sam Altman is still making the case for parenting via ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/\n5. Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/opinion-flight-13-starship-mostly-140000194.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-03｜V3\n生成时间：2026/8/3 08:16:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2406｜确认今日 12｜国际背景 5\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-03] 国产智能机器人全球爆单的启示\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnx6190252.shtml\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “国产智能机器人全球爆单的启示” against primary-source evidence.\n\n2. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.\n\n3. [2026-08-03] 贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录\n   新浪科技｜2026-08-03｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnx6221607.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录” against primary-source evidence.\n\n4. [23:20] 美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元\n   IT之家｜2026-08-03｜https://www.ithome.com/0/984/833.htm\n   报道角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元” against primary-source evidence.\n\n5. [2026-08-03] 长三角（嘉兴）Token运营中心正式启动；亚马逊\n   网易科技｜2026-08-03｜https://www.163.com/dy/article/L3D04HCP0512B07B.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “长三角（嘉兴）Token运营中心正式启动；亚马逊” against primary-source evidence.\n\n本次新增线索：\n- 国产智能机器人全球爆单的启示｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnx6190252.shtml\n- 贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnx6221607.shtml\n- 美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元｜IT之家｜https://www.ithome.com/0/984/833.htm\n- 双轨并行！联发科首度确认ASIC项目采用英特尔EMIB-T封装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4741626.shtml\n\n今日热点方向：\n- AI 应用：AI动态（1 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\n3. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\n4. Sam Altman is still making the case for parenting via ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/\n5. Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/opinion-flight-13-starship-mostly-140000194.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-03｜生成时间：2026/8/3 08:16:12｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2406｜确认今日 12｜国际背景 5</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 8 条｜国际 5 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-03] 国产智能机器人全球爆单的启示</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnx6190252.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “国产智能机器人全球爆单的启示” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-03] 贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录</strong>\n      <span>新浪科技｜2026-08-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnx6221607.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：164｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [23:20] 美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元</strong>\n      <span>IT之家｜2026-08-03｜<a href=\"https://www.ithome.com/0/984/833.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：160｜需核验来源</span>\n      <p>报道角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-03] 长三角（嘉兴）Token运营中心正式启动；亚马逊</strong>\n      <span>网易科技｜2026-08-03｜<a href=\"https://www.163.com/dy/article/L3D04HCP0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “长三角（嘉兴）Token运营中心正式启动；亚马逊” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese AI Researchers Are Finding Their Voice on X</strong>\n      <span>时间：Fri, 31 Jul 2026 18:14:43 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Chinese AI Researchers Are Finding Their Voice on X” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth</strong>\n      <span>时间：Fri, 31 Jul 2026 23:38:56 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)</strong>\n      <span>时间：2026-08-01｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Sam Altman is still making the case for parenting via ChatGPT</strong>\n      <span>时间：Sat, 01 Aug 2026 17:07:34 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Sam Altman is still making the case for parenting via ChatGPT” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX</strong>\n      <span>时间：2026-08-02｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/opinion-flight-13-starship-mostly-140000194.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/3 08:16:12\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-03] 国产智能机器人全球爆单的启示\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnx6190252.shtml\n   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “国产智能机器人全球爆单的启示” against primary-source evidence.\n\n2. [2026-08-03] 经济学家汉克：AI 成本极高，难以大规模取代人力\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-03/doc-inikytnx6212253.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “经济学家汉克：AI 成本极高，难以大规模取代人力” against primary-source evidence.\n\n3. [2026-08-03] 贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnx6221607.shtml\n   角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录” against primary-source evidence.\n\n4. [23:20] 美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元\n   来源：IT之家\n   链接：https://www.ithome.com/0/984/833.htm\n   角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元” against primary-source evidence.\n\n5. [2026-08-03] 长三角（嘉兴）Token运营中心正式启动；亚马逊\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L3D04HCP0512B07B.html\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “长三角（嘉兴）Token运营中心正式启动；亚马逊” against primary-source evidence.\n\n本次新增线索：\n- 国产智能机器人全球爆单的启示｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikytnx6190252.shtml\n- 贾跃亭FF机器人业务提速：7月EAI机器人出货152台 刷新月度销售纪录｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnx6221607.shtml\n- 美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元｜IT之家｜https://www.ithome.com/0/984/833.htm\n- 双轨并行！联发科首度确认ASIC项目采用英特尔EMIB-T封装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikytnr4741626.shtml\n\n今日热点方向：\n- AI 应用：AI动态（1 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Chinese AI Researchers Are Finding Their Voice on X｜WIRED Business｜https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/\n2. SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth｜WIRED Science｜https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/\n3. The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)｜France24 Technology｜https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2\n4. Sam Altman is still making the case for parenting via ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/\n5. Opinion - Flight 13 of Starship was (mostly) a triumph for SpaceX｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/opinion-flight-13-starship-mostly-140000194.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
