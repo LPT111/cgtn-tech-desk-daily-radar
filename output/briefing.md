@@ -3,59 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/4 08:14:25
+生成时间：2026/8/4 16:08:46
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 2 条｜国际 0 条
-延续跟踪线索：国内 17 条｜国际 10 条
+新增核心线索：国内 59 条｜国际 1 条
+延续跟踪线索：国内 5 条｜国际 9 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [00:10] 航拍显示马斯克得州 ATCF 芯片厂施工快速推进，布局全流程一体化芯片制造
-   来源：IT之家
-   链接：https://www.ithome.com/0/985/295.htm
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “航拍显示马斯克得州 ATCF 芯片厂施工快速推进，布局全流程一体化芯片制造” against primary-source evidence.
+1. [2026-08-04] AI赋能腐蚀学科发展 中外专家共话人才培养新路径
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0804/c1004-40773796.html
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI赋能腐蚀学科发展 中外专家共话人才培养新路径” against primary-source evidence.
 
-2. [2026-08-04] 朱雀三号遥二预计8月中旬发射，拟再次验证一级
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L3FLOULH0512B07B.html
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “朱雀三号遥二预计8月中旬发射，拟再次验证一级” against primary-source evidence.
-
-3. [2026-08-04] 正听丨听说中国开源大模型或遭限制，连美国企业都急了
-   来源：科技日报
-   链接：https://www.stdaily.com/web/2026-08/04/content_558683.html
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “正听丨听说中国开源大模型或遭限制，连美国企业都急了” against primary-source evidence.
-
-4. [2026-08-04] 库克称苹果正评估算力成本，iOS 27 的 Siri AI 额度方案尚未敲定
+2. [2026-08-04] DeepSeek又发重磅更新 行业梦回2025年春天
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-04/doc-inimcatv5461800.shtml
-   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “库克称苹果正评估算力成本，iOS 27 的 Siri AI 额度方案尚未敲定” against primary-source evidence.
+   链接：https://finance.sina.com.cn/roll/2026-08-04/doc-inimawmx5585720.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek又发重磅更新 行业梦回2025年春天” against primary-source evidence.
 
-5. [2026-08-04] 白宫将于周二会晤AI巨头 讨论前沿模型安全测试框架
+3. [2026-08-04] 中微公司上半年净利预增近3倍：投资收益贡献过半利润，设备研发持续突破
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-04/doc-inimctri5750398.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “中微公司上半年净利预增近3倍：投资收益贡献过半利润，设备研发持续突破” against primary-source evidence.
+
+4. [2026-08-04] FMS 2026聚焦CXL内存池化与NVMe功耗遥测，AI优化从单芯片扩到平台功耗
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-04/doc-inimctrp5370928.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “FMS 2026聚焦CXL内存池化与NVMe功耗遥测，AI优化从单芯片扩到平台功耗” against primary-source evidence.
+
+5. [2026-08-04] 中国大模型调用量连续十四周领跑全球，人工智能
    来源：网易科技
-   链接：https://www.163.com/dy/article/L3F85MTR05198CJN.html
-   角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “白宫将于周二会晤AI巨头 讨论前沿模型安全测试框架” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L3G5DTM80534A4SC.html
+   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “中国大模型调用量连续十四周领跑全球，人工智能” against primary-source evidence.
 
 本次新增线索：
-- 航拍显示马斯克得州 ATCF 芯片厂施工快速推进，布局全流程一体化芯片制造｜IT之家｜https://www.ithome.com/0/985/295.htm
-- 朱雀三号遥二预计8月中旬发射，拟再次验证一级｜网易科技｜https://www.163.com/dy/article/L3FLOULH0512B07B.html
+- AI赋能腐蚀学科发展 中外专家共话人才培养新路径｜人民网-科技｜http://finance.people.com.cn/n1/2026/0804/c1004-40773796.html
+- DeepSeek又发重磅更新 行业梦回2025年春天｜新浪科技｜https://finance.sina.com.cn/roll/2026-08-04/doc-inimawmx5585720.shtml
+- 中微公司上半年净利预增近3倍：投资收益贡献过半利润，设备研发持续突破｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-04/doc-inimctri5750398.shtml
+- FMS 2026聚焦CXL内存池化与NVMe功耗遥测，AI优化从单芯片扩到平台功耗｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-04/doc-inimctrp5370928.shtml
+- 中国大模型调用量连续十四周领跑全球，人工智能｜网易科技｜https://www.163.com/dy/article/L3G5DTM80534A4SC.html
+- Samsung’s discounted smart monitor is $349.99, its lowest price yet｜Yahoo News Technology｜https://tech.yahoo.com/home/articles/samsung-discounted-smart-monitor-349-211338567.html
 
 今日热点方向：
-- AI 应用：AI动态（6 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- AI 应用：AI动态（16 条，7 个来源）
+- 芯片/半导体：半导体供应链（6 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，2 个来源）
+- 太空与低空经济：低空经济与无人机（2 条，2 个来源）
 - 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
 1. SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana｜Ars Technica｜https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/
-2. Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated｜TechCrunch｜https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/
-3. Influencers draw backlash for attending OpenAI’s first luxury trip｜TechCrunch｜https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/
-4. Congress’ favorite AI tool? ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/
-5. Samsung bans smart TV apps that share users’ internet connections with strangers｜TechCrunch｜https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/
+2. Samsung’s discounted smart monitor is $349.99, its lowest price yet｜Yahoo News Technology｜https://tech.yahoo.com/home/articles/samsung-discounted-smart-monitor-349-211338567.html
+3. Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated｜TechCrunch｜https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/
+4. Influencers draw backlash for attending OpenAI’s first luxury trip｜TechCrunch｜https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/
+5. Congress’ favorite AI tool? ChatGPT｜TechCrunch｜https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
