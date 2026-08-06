@@ -1,58 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/6 08:13:35
+生成时间：2026/8/6 16:06:30
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 0 条｜国际 1 条
-延续跟踪线索：国内 24 条｜国际 30 条
+新增核心线索：国内 66 条｜国际 4 条
+延续跟踪线索：国内 1 条｜国际 30 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-06] 继 OpenAI、Anthropic 之后，Meta AI 模型测试期间也发生“越界”事件
+1. [2026-08-06] 百年通信巨头诺基亚收购恩智浦晶圆厂，专攻磷化铟光学半导体
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-06/doc-inimiqxv0802845.shtml
-   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “继 OpenAI、Anthropic 之后，Meta AI 模型测试期间也发生“越界”事件” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-06/doc-inimkfvm3927632.shtml
+   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “百年通信巨头诺基亚收购恩智浦晶圆厂，专攻磷化铟光学半导体” against primary-source evidence.
 
-2. [2026-08-06] AI应用繁荣背后的效率幻觉：企业AI成熟度调查
+2. [2026-08-06] 百年通信巨头亲自造芯！诺基亚收购晶圆厂：专攻磷化铟光芯片
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimikrv4100459.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI应用繁荣背后的效率幻觉：企业AI成熟度调查” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimkfvc3042587.shtml
+   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “百年通信巨头亲自造芯！诺基亚收购晶圆厂：专攻磷化铟光芯片” against primary-source evidence.
 
-3. [2026-08-06] Meta推出首款AI编程智能体 主打低价挑战OpenAI
+3. [2026-08-06] 全国最大AI算力园区“远景星河基地”投产
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/shenji/2026-08-06/doc-inimivfi3121545.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “全国最大AI算力园区“远景星河基地”投产” against primary-source evidence.
+
+4. [2026-08-06] 美国“元”公司AI模型测试期间入侵另一家公司
    来源：网易科技
-   链接：https://www.163.com/dy/article/L3KFA88H05198CJN.html
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Meta推出首款AI编程智能体 主打低价挑战OpenAI” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L3LJ62OH0534A4SC.html
+   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国“元”公司AI模型测试期间入侵另一家公司” against primary-source evidence.
 
-4. [2026-08-06] 安永：2026年全球消费者健康调查
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimhxzz4322941.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “安永：2026年全球消费者健康调查” against primary-source evidence.
-
-5. [2026-08-06] 走出数学与代码，大模型还能自我进化吗？
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimiqxt4021843.shtml
-   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “走出数学与代码，大模型还能自我进化吗？” against primary-source evidence.
+5. [2026-08-06] 驾驭好人工智能这匹千里马
+   来源：光明网-科技
+   链接：https://tech.gmw.cn/2026-08/06/content_38929681.htm
+   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “驾驭好人工智能这匹千里马” against primary-source evidence.
 
 本次新增线索：
-- Cloud startup Volta claims $10B AI lab deal for Norway bit barn｜The Register｜https://www.theregister.com/off-prem/2026/08/05/cloud-startup-volta-claims-10b-ai-lab-deal-for-norway-bit-barn/5283352
+- 百年通信巨头诺基亚收购恩智浦晶圆厂，专攻磷化铟光学半导体｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-06/doc-inimkfvm3927632.shtml
+- 百年通信巨头亲自造芯！诺基亚收购晶圆厂：专攻磷化铟光芯片｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimkfvc3042587.shtml
+- 全国最大AI算力园区“远景星河基地”投产｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-08-06/doc-inimivfi3121545.shtml
+- 美国“元”公司AI模型测试期间入侵另一家公司｜网易科技｜https://www.163.com/dy/article/L3LJ62OH0534A4SC.html
+- 驾驭好人工智能这匹千里马｜光明网-科技｜https://tech.gmw.cn/2026-08/06/content_38929681.htm
+- SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat｜CNBC Technology｜https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（6 条，2 个来源）
-- 芯片/半导体：
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
-- 太空与低空经济：太空与低空动态（2 条，1 个来源）
-- 科学前沿：
+- AI 应用：AI动态（18 条，7 个来源）
+- 芯片/半导体：半导体供应链（5 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，4 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（6 条，4 个来源）
 
 国际科技背景：
 1. China is Tesla's cash cow, but for how much longer?｜Ars Technica｜https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/
 2. Amazon's Zoox to launch paid robotaxi service in Las Vegas on Aug. 10｜CNBC Technology｜https://www.cnbc.com/2026/08/05/amazon-zoox-paid-robotaxi-rides-las-vegas.html
 3. AI Influencers Are Heading Into Uncharted Territory｜WIRED Business｜https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/
 4. Jeff Dean and other top AI researchers are leaving Google to launch their own startup｜TechCrunch｜https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/
-5. Operationalize AI at scale with HPE and NVIDIA｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/05/sponsored-operational-ai-at-scale-with-hpe-and-nvidia/5282929
+5. SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat｜CNBC Technology｜https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
