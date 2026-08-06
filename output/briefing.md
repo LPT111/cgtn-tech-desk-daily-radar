@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/6 08:07:22
+生成时间：2026/8/6 08:13:35
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 11 条｜国际 1 条
-延续跟踪线索：国内 13 条｜国际 29 条
+新增核心线索：国内 0 条｜国际 1 条
+延续跟踪线索：国内 24 条｜国际 30 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,33 +18,28 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/digi/2026-08-06/doc-inimiqxv0802845.shtml
    角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “继 OpenAI、Anthropic 之后，Meta AI 模型测试期间也发生“越界”事件” against primary-source evidence.
 
-2. [2026-08-06] 安永：2026年全球消费者健康调查
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimhxzz4322941.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “安永：2026年全球消费者健康调查” against primary-source evidence.
-
-3. [2026-08-06] 走出数学与代码，大模型还能自我进化吗？
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimiqxt4021843.shtml
-   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “走出数学与代码，大模型还能自我进化吗？” against primary-source evidence.
-
-4. [2026-08-06] AI应用繁荣背后的效率幻觉：企业AI成熟度调查
+2. [2026-08-06] AI应用繁荣背后的效率幻觉：企业AI成熟度调查
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimikrv4100459.shtml
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI应用繁荣背后的效率幻觉：企业AI成熟度调查” against primary-source evidence.
 
-5. [2026-08-06] 手动飞行太累！美联航越洋航班自动驾驶故障 机长选择中途备降
+3. [2026-08-06] Meta推出首款AI编程智能体 主打低价挑战OpenAI
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L3KFA88H05198CJN.html
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Meta推出首款AI编程智能体 主打低价挑战OpenAI” against primary-source evidence.
+
+4. [2026-08-06] 安永：2026年全球消费者健康调查
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-08-06/doc-inimiqxm3101728.shtml
-   角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “手动飞行太累！美联航越洋航班自动驾驶故障 机长选择中途备降” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimhxzz4322941.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “安永：2026年全球消费者健康调查” against primary-source evidence.
+
+5. [2026-08-06] 走出数学与代码，大模型还能自我进化吗？
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimiqxt4021843.shtml
+   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “走出数学与代码，大模型还能自我进化吗？” against primary-source evidence.
 
 本次新增线索：
-- 继 OpenAI、Anthropic 之后，Meta AI 模型测试期间也发生“越界”事件｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-06/doc-inimiqxv0802845.shtml
-- 安永：2026年全球消费者健康调查｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimhxzz4322941.shtml
-- 走出数学与代码，大模型还能自我进化吗？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimiqxt4021843.shtml
-- 手动飞行太累！美联航越洋航班自动驾驶故障 机长选择中途备降｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-06/doc-inimiqxm3101728.shtml
-- 研究发现：苹果 iCloud Private Relay 隐私功能会泄露用户真实 IP 地址｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-06/doc-inimiqxv0802825.shtml
-- Operationalize AI at scale with HPE and NVIDIA｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/05/sponsored-operational-ai-at-scale-with-hpe-and-nvidia/5282929
+- Cloud startup Volta claims $10B AI lab deal for Norway bit barn｜The Register｜https://www.theregister.com/off-prem/2026/08/05/cloud-startup-volta-claims-10b-ai-lab-deal-for-norway-bit-barn/5283352
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（6 条，2 个来源）
@@ -56,10 +51,10 @@ ChenChen 今日 Briefing｜V3
 
 国际科技背景：
 1. China is Tesla's cash cow, but for how much longer?｜Ars Technica｜https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/
-2. Operationalize AI at scale with HPE and NVIDIA｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/05/sponsored-operational-ai-at-scale-with-hpe-and-nvidia/5282929
-3. Amazon's Zoox to launch paid robotaxi service in Las Vegas on Aug. 10｜CNBC Technology｜https://www.cnbc.com/2026/08/05/amazon-zoox-paid-robotaxi-rides-las-vegas.html
-4. AI Influencers Are Heading Into Uncharted Territory｜WIRED Business｜https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/
-5. Jeff Dean and other top AI researchers are leaving Google to launch their own startup｜TechCrunch｜https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/
+2. Amazon's Zoox to launch paid robotaxi service in Las Vegas on Aug. 10｜CNBC Technology｜https://www.cnbc.com/2026/08/05/amazon-zoox-paid-robotaxi-rides-las-vegas.html
+3. AI Influencers Are Heading Into Uncharted Territory｜WIRED Business｜https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/
+4. Jeff Dean and other top AI researchers are leaving Google to launch their own startup｜TechCrunch｜https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/
+5. Operationalize AI at scale with HPE and NVIDIA｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/05/sponsored-operational-ai-at-scale-with-hpe-and-nvidia/5282929
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
