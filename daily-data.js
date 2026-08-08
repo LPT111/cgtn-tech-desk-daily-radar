@@ -1,74 +1,38 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-08T23:13:38.705Z",
+  "generatedAt": "2026-08-08T23:38:46.483Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-09",
   "changeSummary": {
-    "domesticNew": 7,
-    "globalNew": 8,
-    "domesticContinued": 0,
-    "globalContinued": 6,
+    "domesticNew": 3,
+    "globalNew": 0,
+    "domesticContinued": 7,
+    "globalContinued": 11,
     "topNewDomestic": [
       {
-        "title": "道技之辨与逍遥游 庄子视角下的艺术与科技融合",
+        "title": "最新爆料：哈萨比斯竟然也想走，但谷歌怕了…",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml"
       },
       {
-        "title": "模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄",
+        "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
         "source": "IT之家",
-        "url": "https://www.ithome.com/0/987/460.htm"
+        "url": "https://www.ithome.com/0/987/465.htm"
       },
       {
-        "title": "谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml"
-      },
-      {
-        "title": "现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办",
-        "source": "观察者网-产业科技",
-        "url": "https://www.guancha.cn/GongSi/2026_05_19_817531.shtml"
-      },
-      {
-        "title": "服装品牌李维斯遭黑客攻击，部分企业数据被窃取",
+        "title": "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众",
         "source": "IT之家",
-        "url": "https://www.ithome.com/0/987/454.htm"
+        "url": "https://www.ithome.com/0/987/463.htm"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107"
-      },
-      {
-        "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
-        "source": "WIRED Science",
-        "url": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/"
-      },
-      {
-        "title": "South Korean satellite spots SpaceX lunar impact",
-        "source": "The Register",
-        "url": "https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741"
-      },
-      {
-        "title": "OpenAI acquires presentation startup NextSlide",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
-      },
-      {
-        "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 893,
-    "globalRejected": 886,
+    "domesticRejected": 890,
+    "globalRejected": 889,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,8 +46,13 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 30,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -106,6 +75,11 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "failures": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -131,7 +105,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 161,
+      "parsed": 160,
       "failed": false,
       "optional": false
     },
@@ -181,7 +155,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -378,18 +353,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1350,
+  "itemsSeen": 1349,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 305,
-  "itemsAfterDedupe": 232,
-  "todayItemsSeen": 7,
-  "suspectedItemsSeen": 15,
-  "skippedNonToday": 208,
+  "itemsAfterRelevantFilter": 304,
+  "itemsAfterDedupe": 227,
+  "todayItemsSeen": 10,
+  "suspectedItemsSeen": 14,
+  "skippedNonToday": 203,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 161,
+      "parsed": 160,
       "failed": false,
       "optional": false
     },
@@ -439,7 +414,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -704,7 +680,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 48,
+      "parsed": 0,
       "failed": false,
       "optional": false
     },
@@ -790,6 +766,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -829,10 +810,24 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1223,
+  "globalItemsSeen": 1175,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 115,
+  "globalItemsAfterRelevantFilter": 126,
   "topics": [
+    {
+      "topic": "AI动态",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "道技之辨与逍遥游 庄子视角下的艺术与科技融合",
+        "最新爆料：哈萨比斯竟然也想走，但谷歌怕了…",
+        "研究：人们无法有效区分 AI 生成与人类原创短篇小说"
+      ]
+    },
     {
       "topic": "监管与安全动态",
       "count": 3,
@@ -848,14 +843,15 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "AI动态",
-      "count": 1,
+      "topic": "国产 GPU / 算力基础设施",
+      "count": 2,
       "sourceCount": 1,
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
       "items": [
-        "道技之辨与逍遥游 庄子视角下的艺术与科技融合"
+        "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众",
+        "亚马逊筹建得州数据中心，配套发电厂或成美国最大碳排放源"
       ]
     },
     {
@@ -878,17 +874,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "天河未来产业新增量子科技关键板块"
-      ]
-    },
-    {
-      "topic": "国产 GPU / 算力基础设施",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "亚马逊筹建得州数据中心，配套发电厂或成美国最大碳排放源"
       ]
     }
   ],
@@ -959,6 +944,74 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "道技之辨与逍遥游 庄子视角下的艺术与科技融合"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "最新爆料：哈萨比斯竟然也想走，但谷歌怕了…",
+      "summary": "本周 AI 圈最大的人事地震应该非谷歌莫属 —— 首席科学家 Jeff Dean 宣布离职，结束长达 27 年的任职生涯；哈萨比斯也卸任 DeepMind 首席执行官，转任 DeepMind 董事长兼谷歌母公司 Alphabet 的首席科学...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml"
+      ],
+      "publishedAt": "2026-08-09",
+      "date": "2026-08-09",
+      "category": "AI",
+      "classificationConfidence": 0.76,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "本周 AI 圈最大的人事地震应该非谷歌莫属 —— 首席科学家 Jeff Dean 宣布离职，结束长达 27 年的任职生涯；哈萨比斯也卸任 DeepMind 首席执行官，转任 DeepMind 董事长兼谷歌母公司 Alphabet 的首席科学...",
+      "relatedTitles": [
+        "最新爆料：哈萨比斯竟然也想走，但谷歌怕了…"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1026,6 +1079,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "本次泄露源于上游服务商 Metabase 遭网络攻击，黑客利用零日漏洞入侵，窃取了用户姓名、联系方式等信息，不过用户支付信息未受影响，Framework 已通知所有受影响客户。#数据安全#",
       "relatedTitles": [
         "模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
+      "summary": "一项最新研究对比了 AI 与人类创作的短篇小说，发现读者认为 AI 生成的故事更具吸引力。但有趣的是，当被告知故事是“人类创作”时，评价反而更高。研究也证实，多数人难以区分 AI 与人类作品。#AI写作# 你觉得自己能分辨出来吗？",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/987/465.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/987/465.htm"
+      ],
+      "publishedAt": "Sat, 08 Aug 2026 23:24:13 GMT",
+      "date": "2026-08-09",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "一项最新研究对比了 AI 与人类创作的短篇小说，发现读者认为 AI 生成的故事更具吸引力。但有趣的是，当被告知故事是“人类创作”时，评价反而更高。研究也证实，多数人难以区分 AI 与人类作品。#AI写作# 你觉得自己能分辨出来吗？",
+      "relatedTitles": [
+        "研究：人们无法有效区分 AI 生成与人类原创短篇小说"
       ],
       "isNewSinceLastRun": true
     },
@@ -1095,7 +1216,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
@@ -1162,6 +1283,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "当大模型的浪潮从云端奔涌而下，AI正以前所未有的速度向手机、PC、可穿戴设备、智能汽车等终端渗透。端侧AI——这一被视为下一轮产业变革核心引擎的新赛道，正站在技术突破与资本聚焦的交汇点上。",
       "relatedTitles": [
         "现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众",
+      "summary": "美国内华达州最大电力公司起诉一家数据中心开发商，称其新数据中心用电量将占公司总发电量的三分之一，要求其承担 10 亿美元电网升级费，否则成本将转嫁给普通家庭。#AI能耗争议#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/987/463.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/987/463.htm"
+      ],
+      "publishedAt": "Sat, 08 Aug 2026 23:19:05 GMT",
+      "date": "2026-08-09",
+      "category": "数字经济",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 70,
+      "keywords": "digital infrastructure, data flows and the platform economy",
+      "priority": 4,
+      "score": 135,
+      "reporterScore": 143,
+      "scoreBreakdown": {
+        "hardTech": 70,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 70,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Frame this as infrastructure rather than consumer hype, using digital infrastructure, data flows and the platform economy, adoption and measurable economic effects. For this item, test the claim behind “美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "美国内华达州最大电力公司起诉一家数据中心开发商，称其新数据中心用电量将占公司总发电量的三分之一，要求其承担 10 亿美元电网升级费，否则成本将转嫁给普通家庭。#AI能耗争议#",
+      "relatedTitles": [
+        "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众"
       ],
       "isNewSinceLastRun": true
     },
@@ -1231,7 +1420,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "服装品牌李维斯遭黑客攻击，部分企业数据被窃取"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1299,7 +1488,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "天河未来产业新增量子科技关键板块"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1367,77 +1556,10 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "亚马逊筹建得州数据中心，配套发电厂或成美国最大碳排放源"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "MEET大会",
-      "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/meet/meet2026/",
-      "sourceUrls": [
-        "https://www.qbitai.com/meet/meet2026/"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 180,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MEET大会” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势。量子位在会上发布了「2025人工智能年度榜单」与「2025年度AI十大趋势报告」。 大会直播回顾 MEET2025 回顾 MEET2024 回顾 MEET2023 回顾 特邀嘉宾 &times; 重磅发布 2025人工智能年度榜单 我们希望为关注前沿科技创新的人提供一个独立的第三方参照系 为在技术与产业一线摸索前行的团队加一份笃定 为仍在押注长期主义的建设者刻下年度坐标 2025年度AI十大趋势报告 报告由量子位智库打造 基于对全球AI技术发展、产业应用和社会影响的深度调研与分析 全面呈现了人工智能领域的最新现状与未来发展趋势 独家观点 张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 百",
-      "relatedTitles": [
-        "MEET大会"
-      ]
-    },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "WAIC观察：3DIC EDA + AI 智能体，如何重构STCO新范式？",
@@ -2380,23 +2502,23 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
-      "summary": "Researchers scour social media to measure developer concerns about AI coding tools",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
-      "publishedAt": "Sat, 08 Aug 2026 15:00:00 +0200",
-      "date": "2026-08-08",
-      "region": "Europe",
+      "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
+      "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand ",
+      "source": "WIRED Science",
+      "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
+      "publishedAt": "Thu, 06 Aug 2026 16:23:04 +0000",
+      "date": "2026-08-07",
+      "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.97,
       "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
+      "globalWhitelistScore": 70,
       "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privac” against primary-source evidence.",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else” against primary-source evidence.",
       "priority": 5,
-      "score": 152,
-      "reporterScore": 160,
+      "score": 155,
+      "reporterScore": 163,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -2408,7 +2530,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2438,70 +2560,6 @@ window.CHENCHEN_DAILY_DATA = {
         "softNews": false,
         "hardTechWeight": 90,
         "reporterScore": 98
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "South Korean satellite spots SpaceX lunar impact",
-      "summary": "Before and after shots of Elon",
-      "source": "The Register",
-      "url": "https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741",
-      "publishedAt": "Sat, 08 Aug 2026 11:46:00 +0200",
-      "date": "2026-08-08",
-      "region": "Europe",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 70,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “South Korean satellite spots SpaceX lunar impact” against primary-source evidence.",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 156,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 98
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-      "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand ",
-      "source": "WIRED Science",
-      "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-      "publishedAt": "Thu, 06 Aug 2026 16:23:04 +0000",
-      "date": "2026-08-07",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.97,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 70,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else” against primary-source evidence.",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 163,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
@@ -2536,135 +2594,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-      "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "publishedAt": "Sat, 08 Aug 2026 12:00:01 GMT",
-      "date": "2026-08-08",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Hugging Face hack marks start of dangerous AI cyber era and many firms '” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung Music Studio 7 review: Whether music or movies, this speaker is a multi-functional whizz",
-      "summary": "The LS70H is a more accomplished all-rounder than you might expect",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/audio/articles/samsung-music-studio-7-review-101100342.html",
-      "publishedAt": "2026-08-08",
-      "date": "2026-08-08",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung Music Studio 7 review: Whether music or movies, this speaker is ” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Millions Of Galaxy Phones Are Weeks Away From Free Samsung Upgrade",
-      "summary": "Samsung's One UI 9 is spreading to millions more Galaxy phones. The Galaxy Z Fold 7, Z Flip 7, S26 and S25 are all next in line. Here's the full timeline.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/gemini/articles/millions-galaxy-phones-weeks-away-212704501.html",
-      "publishedAt": "2026-08-09",
-      "date": "2026-08-09",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Millions Of Galaxy Phones Are Weeks Away From Free Samsung Upgrade” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Homeowner says Tesla Powerwall 3 installers changed plans, then left the job unfinished",
-      "summary": "\"Tesla seems like they have a huge disconnect between the project team and the installers.\"",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/home/articles/homeowner-says-tesla-powerwall-3-182800110.html",
-      "publishedAt": "2026-08-09",
-      "date": "2026-08-09",
-      "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Homeowner says Tesla Powerwall 3 installers changed plans, then left the” against primary-source evidence.",
-      "priority": 5,
-      "score": 133,
-      "reporterScore": 133,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2732,38 +2662,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs",
-      "summary": "Timer interrupts reopen branch predictor poisoning window, with a working Zen 2 exploit to prove it",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081",
-      "publishedAt": "Fri, 07 Aug 2026 16:15:00 +0200",
-      "date": "2026-08-07",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “MIT boffins' TONTOU attack slips through Spectre defenses on Intel and A” against primary-source evidence.",
-      "priority": 4,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI's first device may be a $300 donut-shaped speaker that'll talk to you",
       "summary": "OpenAI's first hardware device might be a donut-shaped speaker loaded with ChatGPT and priced between $300 and $400, according to a new report.",
       "source": "Yahoo News Technology",
@@ -2792,6 +2690,102 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+      "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "publishedAt": "Sat, 08 Aug 2026 12:00:01 GMT",
+      "date": "2026-08-08",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Hugging Face hack marks start of dangerous AI cyber era and many firms '” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung Music Studio 7 review: Whether music or movies, this speaker is a multi-functional whizz",
+      "summary": "The LS70H is a more accomplished all-rounder than you might expect",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/audio/articles/samsung-music-studio-7-review-101100342.html",
+      "publishedAt": "2026-08-08",
+      "date": "2026-08-08",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung Music Studio 7 review: Whether music or movies, this speaker is ” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Millions Of Galaxy Phones Are Weeks Away From Free Samsung Upgrade",
+      "summary": "Samsung's One UI 9 is spreading to millions more Galaxy phones. The Galaxy Z Fold 7, Z Flip 7, S26 and S25 are all next in line. Here's the full timeline.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/millions-galaxy-phones-weeks-away-212704501.html",
+      "publishedAt": "2026-08-09",
+      "date": "2026-08-09",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Millions Of Galaxy Phones Are Weeks Away From Free Samsung Upgrade” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -2825,10 +2819,42 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Homeowner says Tesla Powerwall 3 installers changed plans, then left the job unfinished",
+      "summary": "\"Tesla seems like they have a huge disconnect between the project team and the installers.\"",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/home/articles/homeowner-says-tesla-powerwall-3-182800110.html",
+      "publishedAt": "2026-08-09",
+      "date": "2026-08-09",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Homeowner says Tesla Powerwall 3 installers changed plans, then left the” against primary-source evidence.",
+      "priority": 5,
+      "score": 133,
+      "reporterScore": 133,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-09｜V3\n生成时间：2026/8/9 07:13:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2573｜确认今日 7｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 8 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.\n\n2. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/460.htm\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.\n\n3. [2026-08-09] 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称” against primary-source evidence.\n\n4. [22:54] 现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办\n   观察者网-产业科技｜2026-08-09｜https://www.guancha.cn/GongSi/2026_05_19_817531.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办” against primary-source evidence.\n\n5. [22:50] 服装品牌李维斯遭黑客攻击，部分企业数据被窃取\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/454.htm\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “服装品牌李维斯遭黑客攻击，部分企业数据被窃取” against primary-source evidence.\n\n本次新增线索：\n- 道技之辨与逍遥游 庄子视角下的艺术与科技融合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n- 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄｜IT之家｜https://www.ithome.com/0/987/460.htm\n- 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\n- 现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办｜观察者网-产业科技｜https://www.guancha.cn/GongSi/2026_05_19_817531.shtml\n- 服装品牌李维斯遭黑客攻击，部分企业数据被窃取｜IT之家｜https://www.ithome.com/0/987/454.htm\n- Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n\n今日热点方向：\n- AI 应用：AI动态（1 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n3. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n4. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-09｜V3\n生成时间：2026/8/9 07:13:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2573｜确认今日 7｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 8 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.\n\n2. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/460.htm\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.\n\n3. [2026-08-09] 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称” against primary-source evidence.\n\n4. [22:54] 现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办\n   观察者网-产业科技｜2026-08-09｜https://www.guancha.cn/GongSi/2026_05_19_817531.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办” against primary-source evidence.\n\n5. [22:50] 服装品牌李维斯遭黑客攻击，部分企业数据被窃取\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/454.htm\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “服装品牌李维斯遭黑客攻击，部分企业数据被窃取” against primary-source evidence.\n\n本次新增线索：\n- 道技之辨与逍遥游 庄子视角下的艺术与科技融合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n- 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄｜IT之家｜https://www.ithome.com/0/987/460.htm\n- 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\n- 现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办｜观察者网-产业科技｜https://www.guancha.cn/GongSi/2026_05_19_817531.shtml\n- 服装品牌李维斯遭黑客攻击，部分企业数据被窃取｜IT之家｜https://www.ithome.com/0/987/454.htm\n- Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n\n今日热点方向：\n- AI 应用：AI动态（1 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n3. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n4. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-09｜生成时间：2026/8/9 07:13:38｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2573｜确认今日 7｜国际背景 14</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 7 条｜国际 8 条<br>延续跟踪线索：国内 0 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄</strong>\n      <span>IT之家｜2026-08-09｜<a href=\"https://www.ithome.com/0/987/460.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：169｜需核验来源</span>\n      <p>报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-09] 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：157｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [22:54] 现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办</strong>\n      <span>观察者网-产业科技｜2026-08-09｜<a href=\"https://www.guancha.cn/GongSi/2026_05_19_817531.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [22:50] 服装品牌李维斯遭黑客攻击，部分企业数据被窃取</strong>\n      <span>IT之家｜2026-08-09｜<a href=\"https://www.ithome.com/0/987/454.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：153｜需核验来源</span>\n      <p>报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “服装品牌李维斯遭黑客攻击，部分企业数据被窃取” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default</strong>\n      <span>时间：Sat, 08 Aug 2026 15:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privac” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket</strong>\n      <span>时间：Sat, 08 Aug 2026 12:00:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Here Are the First Images of the Crater Left on the Moon by SpaceX’s Roc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. South Korean satellite spots SpaceX lunar impact</strong>\n      <span>时间：Sat, 08 Aug 2026 11:46:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “South Korean satellite spots SpaceX lunar impact” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else</strong>\n      <span>时间：Thu, 06 Aug 2026 16:23:04 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI acquires presentation startup NextSlide</strong>\n      <span>时间：Sat, 08 Aug 2026 19:41:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI acquires presentation startup NextSlide” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/9 07:13:38\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 8 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.\n\n2. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄\n   来源：IT之家\n   链接：https://www.ithome.com/0/987/460.htm\n   角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.\n\n3. [2026-08-09] 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\n   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称” against primary-source evidence.\n\n4. [22:54] 现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办\n   来源：观察者网-产业科技\n   链接：https://www.guancha.cn/GongSi/2026_05_19_817531.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办” against primary-source evidence.\n\n5. [22:50] 服装品牌李维斯遭黑客攻击，部分企业数据被窃取\n   来源：IT之家\n   链接：https://www.ithome.com/0/987/454.htm\n   角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “服装品牌李维斯遭黑客攻击，部分企业数据被窃取” against primary-source evidence.\n\n本次新增线索：\n- 道技之辨与逍遥游 庄子视角下的艺术与科技融合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n- 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄｜IT之家｜https://www.ithome.com/0/987/460.htm\n- 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\n- 现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办｜观察者网-产业科技｜https://www.guancha.cn/GongSi/2026_05_19_817531.shtml\n- 服装品牌李维斯遭黑客攻击，部分企业数据被窃取｜IT之家｜https://www.ithome.com/0/987/454.htm\n- Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n\n今日热点方向：\n- AI 应用：AI动态（1 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n3. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n4. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-09｜V3\n生成时间：2026/8/9 07:38:46\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2524｜确认今日 10｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 7 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.\n\n2. [2026-08-09] 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.\n\n3. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/460.htm\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.\n\n4. [23:24] 研究：人们无法有效区分 AI 生成与人类原创短篇小说\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/465.htm\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.\n\n5. [2026-08-09] 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称” against primary-source evidence.\n\n本次新增线索：\n- 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n- 研究：人们无法有效区分 AI 生成与人类原创短篇小说｜IT之家｜https://www.ithome.com/0/987/465.htm\n- 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众｜IT之家｜https://www.ithome.com/0/987/463.htm\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n3. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n4. OpenAI says it slowed Astra model development over security concerns｜TechCrunch｜https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/\n5. The Hottest New AI Chatbot Is Just a Guy Answering Your Questions｜WIRED Business｜https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-09｜V3\n生成时间：2026/8/9 07:38:46\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2524｜确认今日 10｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 7 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.\n\n2. [2026-08-09] 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.\n\n3. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/460.htm\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.\n\n4. [23:24] 研究：人们无法有效区分 AI 生成与人类原创短篇小说\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/465.htm\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.\n\n5. [2026-08-09] 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称” against primary-source evidence.\n\n本次新增线索：\n- 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n- 研究：人们无法有效区分 AI 生成与人类原创短篇小说｜IT之家｜https://www.ithome.com/0/987/465.htm\n- 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众｜IT之家｜https://www.ithome.com/0/987/463.htm\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n3. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n4. OpenAI says it slowed Astra model development over security concerns｜TechCrunch｜https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/\n5. The Hottest New AI Chatbot Is Just a Guy Answering Your Questions｜WIRED Business｜https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-09｜生成时间：2026/8/9 07:38:46｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2524｜确认今日 10｜国际背景 11</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 7 条｜国际 11 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-09] 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄</strong>\n      <span>IT之家｜2026-08-09｜<a href=\"https://www.ithome.com/0/987/460.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：169｜需核验来源</span>\n      <p>报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [23:24] 研究：人们无法有效区分 AI 生成与人类原创短篇小说</strong>\n      <span>IT之家｜2026-08-09｜<a href=\"https://www.ithome.com/0/987/465.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：151｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-09] 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：157｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else</strong>\n      <span>时间：Thu, 06 Aug 2026 16:23:04 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket</strong>\n      <span>时间：Sat, 08 Aug 2026 12:00:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Here Are the First Images of the Crater Left on the Moon by SpaceX’s Roc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI acquires presentation startup NextSlide</strong>\n      <span>时间：Sat, 08 Aug 2026 19:41:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI acquires presentation startup NextSlide” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI says it slowed Astra model development over security concerns</strong>\n      <span>时间：Fri, 07 Aug 2026 22:48:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI says it slowed Astra model development over security concerns” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. The Hottest New AI Chatbot Is Just a Guy Answering Your Questions</strong>\n      <span>时间：Fri, 07 Aug 2026 10:00:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “The Hottest New AI Chatbot Is Just a Guy Answering Your Questions” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/9 07:38:46\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 7 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.\n\n2. [2026-08-09] 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.\n\n3. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄\n   来源：IT之家\n   链接：https://www.ithome.com/0/987/460.htm\n   角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.\n\n4. [23:24] 研究：人们无法有效区分 AI 生成与人类原创短篇小说\n   来源：IT之家\n   链接：https://www.ithome.com/0/987/465.htm\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.\n\n5. [2026-08-09] 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\n   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称” against primary-source evidence.\n\n本次新增线索：\n- 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n- 研究：人们无法有效区分 AI 生成与人类原创短篇小说｜IT之家｜https://www.ithome.com/0/987/465.htm\n- 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众｜IT之家｜https://www.ithome.com/0/987/463.htm\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n3. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n4. OpenAI says it slowed Astra model development over security concerns｜TechCrunch｜https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/\n5. The Hottest New AI Chatbot Is Just a Guy Answering Your Questions｜WIRED Business｜https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
