@@ -1,30 +1,41 @@
 {
-  "generatedAt": "2026-08-08T23:38:46.483Z",
+  "generatedAt": "2026-08-08T23:48:17.675Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-09",
   "changeSummary": {
-    "domesticNew": 3,
-    "globalNew": 0,
-    "domesticContinued": 7,
+    "domesticNew": 2,
+    "globalNew": 3,
+    "domesticContinued": 8,
     "globalContinued": 11,
     "topNewDomestic": [
       {
-        "title": "最新爆料：哈萨比斯竟然也想走，但谷歌怕了…",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml"
-      },
-      {
         "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/987/465.htm"
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshaz5938311.shtml"
       },
       {
         "title": "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/987/463.htm"
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2136454.shtml"
       }
     ],
-    "topNewGlobal": [],
+    "topNewGlobal": [
+      {
+        "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
+        "source": "The Register",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107"
+      },
+      {
+        "title": "South Korean satellite spots SpaceX lunar impact",
+        "source": "The Register",
+        "url": "https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741"
+      },
+      {
+        "title": "MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs",
+        "source": "The Register",
+        "url": "https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081"
+      }
+    ],
     "hasPrevious": true
   },
   "qualityMetrics": {
@@ -32,7 +43,7 @@
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
     "domesticRejected": 890,
-    "globalRejected": 889,
+    "globalRejected": 886,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -46,7 +57,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 28,
   "failedSources": [
     {
       "name": "财联社",
@@ -64,9 +75,19 @@
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -91,9 +112,19 @@
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -297,8 +328,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -306,7 +338,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -319,8 +351,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -353,13 +386,13 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1349,
+  "itemsSeen": 1278,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 304,
-  "itemsAfterDedupe": 227,
+  "itemsAfterRelevantFilter": 294,
+  "itemsAfterDedupe": 220,
   "todayItemsSeen": 10,
   "suspectedItemsSeen": 14,
-  "skippedNonToday": 203,
+  "skippedNonToday": 192,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -556,8 +589,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -565,7 +599,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -578,8 +612,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -680,7 +715,7 @@
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 0,
+      "parsed": 48,
       "failed": false,
       "optional": false
     },
@@ -781,9 +816,19 @@
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -810,24 +855,10 @@
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1175,
+  "globalItemsSeen": 1223,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 126,
+  "globalItemsAfterRelevantFilter": 113,
   "topics": [
-    {
-      "topic": "AI动态",
-      "count": 3,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "IT之家"
-      ],
-      "items": [
-        "道技之辨与逍遥游 庄子视角下的艺术与科技融合",
-        "最新爆料：哈萨比斯竟然也想走，但谷歌怕了…",
-        "研究：人们无法有效区分 AI 生成与人类原创短篇小说"
-      ]
-    },
     {
       "topic": "监管与安全动态",
       "count": 3,
@@ -845,13 +876,27 @@
     {
       "topic": "国产 GPU / 算力基础设施",
       "count": 2,
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": [
+        "新浪科技",
         "IT之家"
       ],
       "items": [
         "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众",
         "亚马逊筹建得州数据中心，配套发电厂或成美国最大碳排放源"
+      ]
+    },
+    {
+      "topic": "AI动态",
+      "count": 3,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "道技之辨与逍遥游 庄子视角下的艺术与科技融合",
+        "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
+        "最新爆料：哈萨比斯竟然也想走，但谷歌怕了…"
       ]
     },
     {
@@ -948,6 +993,142 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
+      "summary": "IT之家 8 月 9 日消息，从《奥德赛》到阿加莎 · 克里斯蒂的犯罪小说，人类创作了大量精彩故事，填满了一代又一代人的书架。但一项研究表明，如今人工智能或许已经开始成为人类作家的竞争对手。发表在《判断与决策》（Judgment and D...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshaz5938311.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshaz5938311.shtml"
+      ],
+      "publishedAt": "2026-08-09",
+      "date": "2026-08-09",
+      "category": "AI",
+      "classificationConfidence": 0.88,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 8 月 9 日消息，从《奥德赛》到阿加莎 · 克里斯蒂的犯罪小说，人类创作了大量精彩故事，填满了一代又一代人的书架。但一项研究表明，如今人工智能或许已经开始成为人类作家的竞争对手。发表在《判断与决策》（Judgment and D...",
+      "relatedTitles": [
+        "研究：人们无法有效区分 AI 生成与人类原创短篇小说"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众",
+      "summary": "IT之家 8 月 9 日消息，据央视新闻今日报道，据美国方面 7 日消息，美国内华达州最大能源供应商内华达能源公司已经正式起诉正在该州建造数据中心的一家开发商，指控其试图将电费成本转嫁给消费者。据称，内华达能源公司为内华达州 90% 的用户...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2136454.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2136454.shtml"
+      ],
+      "publishedAt": "2026-08-09",
+      "date": "2026-08-09",
+      "category": "数字经济",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 70,
+      "keywords": "digital infrastructure, data flows and the platform economy",
+      "priority": 5,
+      "score": 147,
+      "reporterScore": 163,
+      "scoreBreakdown": {
+        "hardTech": 70,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 70,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Explain who benefits from digital infrastructure, data flows and the platform economy, what scales nationally and what barriers remain. For this item, test the claim behind “美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "IT之家 8 月 9 日消息，据央视新闻今日报道，据美国方面 7 日消息，美国内华达州最大能源供应商内华达能源公司已经正式起诉正在该州建造数据中心的一家开发商，指控其试图将电费成本转嫁给消费者。据称，内华达能源公司为内华达州 90% 的用户...",
+      "relatedTitles": [
+        "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "最新爆料：哈萨比斯竟然也想走，但谷歌怕了…",
       "summary": "本周 AI 圈最大的人事地震应该非谷歌莫属 —— 首席科学家 Jeff Dean 宣布离职，结束长达 27 年的任职生涯；哈萨比斯也卸任 DeepMind 首席执行官，转任 DeepMind 董事长兼谷歌母公司 Alphabet 的首席科学...",
       "source": "新浪科技",
@@ -1012,7 +1193,7 @@
       "relatedTitles": [
         "最新爆料：哈萨比斯竟然也想走，但谷歌怕了…"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1081,74 +1262,6 @@
         "模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
-      "summary": "一项最新研究对比了 AI 与人类创作的短篇小说，发现读者认为 AI 生成的故事更具吸引力。但有趣的是，当被告知故事是“人类创作”时，评价反而更高。研究也证实，多数人难以区分 AI 与人类作品。#AI写作# 你觉得自己能分辨出来吗？",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/987/465.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/987/465.htm"
-      ],
-      "publishedAt": "Sat, 08 Aug 2026 23:24:13 GMT",
-      "date": "2026-08-09",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 151,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "一项最新研究对比了 AI 与人类创作的短篇小说，发现读者认为 AI 生成的故事更具吸引力。但有趣的是，当被告知故事是“人类创作”时，评价反而更高。研究也证实，多数人难以区分 AI 与人类作品。#AI写作# 你觉得自己能分辨出来吗？",
-      "relatedTitles": [
-        "研究：人们无法有效区分 AI 生成与人类原创短篇小说"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1285,74 +1398,6 @@
         "现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众",
-      "summary": "美国内华达州最大电力公司起诉一家数据中心开发商，称其新数据中心用电量将占公司总发电量的三分之一，要求其承担 10 亿美元电网升级费，否则成本将转嫁给普通家庭。#AI能耗争议#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/987/463.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/987/463.htm"
-      ],
-      "publishedAt": "Sat, 08 Aug 2026 23:19:05 GMT",
-      "date": "2026-08-09",
-      "category": "数字经济",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 70,
-      "keywords": "digital infrastructure, data flows and the platform economy",
-      "priority": 4,
-      "score": 135,
-      "reporterScore": 143,
-      "scoreBreakdown": {
-        "hardTech": 70,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 70,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Frame this as infrastructure rather than consumer hype, using digital infrastructure, data flows and the platform economy, adoption and measurable economic effects. For this item, test the claim behind “美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "美国内华达州最大电力公司起诉一家数据中心开发商，称其新数据中心用电量将占公司总发电量的三分之一，要求其承担 10 亿美元电网升级费，否则成本将转嫁给普通家庭。#AI能耗争议#",
-      "relatedTitles": [
-        "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2502,6 +2547,70 @@
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
+      "summary": "Researchers scour social media to measure developer concerns about AI coding tools",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
+      "publishedAt": "Sat, 08 Aug 2026 15:00:00 +0200",
+      "date": "2026-08-08",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privac” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 160,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "South Korean satellite spots SpaceX lunar impact",
+      "summary": "",
+      "source": "The Register",
+      "url": "https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741",
+      "publishedAt": "Sat, 08 Aug 2026 11:46:00 +0200",
+      "date": "2026-08-08",
+      "region": "Europe",
+      "category": "太空与低空",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 70,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “South Korean satellite spots SpaceX lunar impact” against primary-source evidence.",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 156,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 98
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
       "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand ",
       "source": "WIRED Science",
@@ -2563,6 +2672,38 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs",
+      "summary": "",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081",
+      "publishedAt": "Fri, 07 Aug 2026 16:15:00 +0200",
+      "date": "2026-08-07",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “MIT boffins' TONTOU attack slips through Spectre defenses on Intel and A” against primary-source evidence.",
+      "priority": 4,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2853,8 +2994,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-09｜V3\n生成时间：2026/8/9 07:38:46\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2524｜确认今日 10｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 7 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.\n\n2. [2026-08-09] 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.\n\n3. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/460.htm\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.\n\n4. [23:24] 研究：人们无法有效区分 AI 生成与人类原创短篇小说\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/465.htm\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.\n\n5. [2026-08-09] 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称” against primary-source evidence.\n\n本次新增线索：\n- 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n- 研究：人们无法有效区分 AI 生成与人类原创短篇小说｜IT之家｜https://www.ithome.com/0/987/465.htm\n- 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众｜IT之家｜https://www.ithome.com/0/987/463.htm\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n3. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n4. OpenAI says it slowed Astra model development over security concerns｜TechCrunch｜https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/\n5. The Hottest New AI Chatbot Is Just a Guy Answering Your Questions｜WIRED Business｜https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-09｜V3\n生成时间：2026/8/9 07:38:46\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2524｜确认今日 10｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 7 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.\n\n2. [2026-08-09] 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.\n\n3. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/460.htm\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.\n\n4. [23:24] 研究：人们无法有效区分 AI 生成与人类原创短篇小说\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/465.htm\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.\n\n5. [2026-08-09] 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\n   报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称” against primary-source evidence.\n\n本次新增线索：\n- 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n- 研究：人们无法有效区分 AI 生成与人类原创短篇小说｜IT之家｜https://www.ithome.com/0/987/465.htm\n- 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众｜IT之家｜https://www.ithome.com/0/987/463.htm\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n3. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n4. OpenAI says it slowed Astra model development over security concerns｜TechCrunch｜https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/\n5. The Hottest New AI Chatbot Is Just a Guy Answering Your Questions｜WIRED Business｜https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-09｜生成时间：2026/8/9 07:38:46｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2524｜确认今日 10｜国际背景 11</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 7 条｜国际 11 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-09] 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄</strong>\n      <span>IT之家｜2026-08-09｜<a href=\"https://www.ithome.com/0/987/460.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：169｜需核验来源</span>\n      <p>报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [23:24] 研究：人们无法有效区分 AI 生成与人类原创短篇小说</strong>\n      <span>IT之家｜2026-08-09｜<a href=\"https://www.ithome.com/0/987/465.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：151｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-09] 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：157｜需核验来源</span>\n      <p>报道角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else</strong>\n      <span>时间：Thu, 06 Aug 2026 16:23:04 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket</strong>\n      <span>时间：Sat, 08 Aug 2026 12:00:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Here Are the First Images of the Crater Left on the Moon by SpaceX’s Roc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI acquires presentation startup NextSlide</strong>\n      <span>时间：Sat, 08 Aug 2026 19:41:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI acquires presentation startup NextSlide” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI says it slowed Astra model development over security concerns</strong>\n      <span>时间：Fri, 07 Aug 2026 22:48:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI says it slowed Astra model development over security concerns” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. The Hottest New AI Chatbot Is Just a Guy Answering Your Questions</strong>\n      <span>时间：Fri, 07 Aug 2026 10:00:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “The Hottest New AI Chatbot Is Just a Guy Answering Your Questions” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/9 07:38:46\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 7 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.\n\n2. [2026-08-09] 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.\n\n3. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄\n   来源：IT之家\n   链接：https://www.ithome.com/0/987/460.htm\n   角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.\n\n4. [23:24] 研究：人们无法有效区分 AI 生成与人类原创短篇小说\n   来源：IT之家\n   链接：https://www.ithome.com/0/987/465.htm\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.\n\n5. [2026-08-09] 谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2125411.shtml\n   角度：Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称” against primary-source evidence.\n\n本次新增线索：\n- 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n- 研究：人们无法有效区分 AI 生成与人类原创短篇小说｜IT之家｜https://www.ithome.com/0/987/465.htm\n- 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众｜IT之家｜https://www.ithome.com/0/987/463.htm\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n3. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n4. OpenAI says it slowed Astra model development over security concerns｜TechCrunch｜https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/\n5. The Hottest New AI Chatbot Is Just a Guy Answering Your Questions｜WIRED Business｜https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-09｜V3\n生成时间：2026/8/9 07:48:17\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2501｜确认今日 10｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 3 条\n延续跟踪线索：国内 8 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.\n\n2. [2026-08-09] 研究：人们无法有效区分 AI 生成与人类原创短篇小说\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshaz5938311.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.\n\n3. [2026-08-09] 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2136454.shtml\n   报道角度：Explain who benefits from digital infrastructure, data flows and the platform economy, what scales nationally and what barriers remain. For this item, test the claim behind “美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众” against primary-source evidence.\n\n4. [2026-08-09] 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.\n\n5. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/460.htm\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.\n\n本次新增线索：\n- 研究：人们无法有效区分 AI 生成与人类原创短篇小说｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshaz5938311.shtml\n- 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2136454.shtml\n- Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n- South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n- MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs｜The Register｜https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n2. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n3. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n4. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n5. MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs｜The Register｜https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-09｜V3\n生成时间：2026/8/9 07:48:17\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2501｜确认今日 10｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 3 条\n延续跟踪线索：国内 8 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.\n\n2. [2026-08-09] 研究：人们无法有效区分 AI 生成与人类原创短篇小说\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshaz5938311.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.\n\n3. [2026-08-09] 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2136454.shtml\n   报道角度：Explain who benefits from digital infrastructure, data flows and the platform economy, what scales nationally and what barriers remain. For this item, test the claim behind “美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众” against primary-source evidence.\n\n4. [2026-08-09] 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.\n\n5. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/460.htm\n   报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.\n\n本次新增线索：\n- 研究：人们无法有效区分 AI 生成与人类原创短篇小说｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshaz5938311.shtml\n- 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2136454.shtml\n- Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n- South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n- MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs｜The Register｜https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n2. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n3. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n4. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n5. MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs｜The Register｜https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-09｜生成时间：2026/8/9 07:48:17｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2501｜确认今日 10｜国际背景 14</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 3 条<br>延续跟踪线索：国内 8 条｜国际 11 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-09] 研究：人们无法有效区分 AI 生成与人类原创短篇小说</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshaz5938311.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-09] 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2136454.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：70｜记者分：163｜需核验来源</span>\n      <p>报道角度：Explain who benefits from digital infrastructure, data flows and the platform economy, what scales nationally and what barriers remain. For this item, test the claim behind “美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-09] 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄</strong>\n      <span>IT之家｜2026-08-09｜<a href=\"https://www.ithome.com/0/987/460.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：169｜需核验来源</span>\n      <p>报道角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default</strong>\n      <span>时间：Sat, 08 Aug 2026 15:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privac” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. South Korean satellite spots SpaceX lunar impact</strong>\n      <span>时间：Sat, 08 Aug 2026 11:46:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “South Korean satellite spots SpaceX lunar impact” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else</strong>\n      <span>时间：Thu, 06 Aug 2026 16:23:04 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket</strong>\n      <span>时间：Sat, 08 Aug 2026 12:00:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Here Are the First Images of the Crater Left on the Moon by SpaceX’s Roc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs</strong>\n      <span>时间：Fri, 07 Aug 2026 16:15:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “MIT boffins' TONTOU attack slips through Spectre defenses on Intel and A” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/9 07:48:17\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 3 条\n延续跟踪线索：国内 8 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 道技之辨与逍遥游 庄子视角下的艺术与科技融合\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimrrfc2379878.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “道技之辨与逍遥游 庄子视角下的艺术与科技融合” against primary-source evidence.\n\n2. [2026-08-09] 研究：人们无法有效区分 AI 生成与人类原创短篇小说\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshaz5938311.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “研究：人们无法有效区分 AI 生成与人类原创短篇小说” against primary-source evidence.\n\n3. [2026-08-09] 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2136454.shtml\n   角度：Explain who benefits from digital infrastructure, data flows and the platform economy, what scales nationally and what barriers remain. For this item, test the claim behind “美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众” against primary-source evidence.\n\n4. [2026-08-09] 最新爆料：哈萨比斯竟然也想走，但谷歌怕了…\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshav2134782.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最新爆料：哈萨比斯竟然也想走，但谷歌怕了…” against primary-source evidence.\n\n5. [23:07] 模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄\n   来源：IT之家\n   链接：https://www.ithome.com/0/987/460.htm\n   角度：Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄” against primary-source evidence.\n\n本次新增线索：\n- 研究：人们无法有效区分 AI 生成与人类原创短篇小说｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshaz5938311.shtml\n- 美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimshav2136454.shtml\n- Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n- South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n- MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs｜The Register｜https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n2. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n3. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n4. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n5. MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs｜The Register｜https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
