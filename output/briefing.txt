@@ -1,14 +1,14 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/9 14:57:52
+生成时间：2026/8/9 15:18:30
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 0 条
-延续跟踪线索：国内 32 条｜国际 13 条
-本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
+新增核心线索：国内 0 条｜国际 0 条
+延续跟踪线索：国内 34 条｜国际 13 条
+本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
 1. [2026-08-09] 今年上半年人形机器人领域新设企业11.6万户
@@ -16,20 +16,20 @@ ChenChen 今日 Briefing｜V3
    链接：http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html
    角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “今年上半年人形机器人领域新设企业11.6万户” against primary-source evidence.
 
-2. [02:58] 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才
-   来源：IT之家
-   链接：https://www.ithome.com/0/987/511.htm
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才” against primary-source evidence.
-
-3. [2026-08-09] 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等
+2. [2026-08-09] 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml
    角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等” against primary-source evidence.
 
-4. [2026-08-09] 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛
+3. [2026-08-09] 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛
    来源：科技日报
    链接：https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html
    角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “多项竞技比拼！第二届世界人形机器人运动会将于22日开赛” against primary-source evidence.
+
+4. [02:58] 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才
+   来源：IT之家
+   链接：https://www.ithome.com/0/987/511.htm
+   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才” against primary-source evidence.
 
 5. [2026-08-09] 美国人工智能模型为何屡屡“越界”
    来源：科技日报
@@ -37,15 +37,13 @@ ChenChen 今日 Briefing｜V3
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国人工智能模型为何屡屡“越界”” against primary-source evidence.
 
 本次新增线索：
-- 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才｜IT之家｜https://www.ithome.com/0/987/511.htm
-- 顶级投行的肯定！高盛预测小米汽车2028年交付破100万辆｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimtchp8820179.shtml
-- 美加利福尼亚州推出1.35亿美元新能源汽车购车补贴政策｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr8941563.shtml
+- 暂无新增核心线索。
 
 今日热点方向：
 - AI 应用：AI动态（7 条，3 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（6 条，5 个来源）
-- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
