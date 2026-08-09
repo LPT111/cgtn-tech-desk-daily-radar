@@ -1,58 +1,47 @@
 {
-  "generatedAt": "2026-08-09T23:15:01.229Z",
+  "generatedAt": "2026-08-09T23:40:46.117Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-10",
   "changeSummary": {
-    "domesticNew": 6,
-    "globalNew": 2,
-    "domesticContinued": 0,
-    "globalContinued": 6,
+    "domesticNew": 8,
+    "globalNew": 0,
+    "domesticContinued": 5,
+    "globalContinued": 8,
     "topNewDomestic": [
       {
-        "title": "OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml"
+        "title": "首个全国产10万卡AI超集群投用；今年上半年人形",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L3V1JBRC0512B07B.html"
       },
       {
-        "title": "国际首次！“银河画卷”绘出银河系波纹褶皱",
+        "title": "宇树科技今日启动申购，A 股迎来“人形机器人第一股”",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzx3042856.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimuriv2935798.shtml"
       },
       {
-        "title": "Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzz5159414.shtml"
+        "title": "开放共赢是人工智能发展的必由之路（和音）",
+        "source": "中国日报-科技",
+        "url": "https://china.chinadaily.com.cn/a/202608/10/WS6a790cd2a310d709c2fc242f.html"
       },
       {
-        "title": "汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/987/650.htm"
+        "title": "影响市场重大事件：马斯克：即将发射的第三代星链卫星V3",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L3V1UGC10512B07B.html"
       },
       {
-        "title": "城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimtync8544797.shtml"
+        "title": "中信建投：继续看好大厂Capex生态、国产芯片与超节点、算力服务、Pre-AI、B端AI应用和本地推理",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L3V2EUL90534A4SC.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-        "source": "WIRED Business",
-        "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/"
-      },
-      {
-        "title": "Texas could host Samsung's first floating data center",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/texas-could-host-samsungs-first-210500065.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 894,
+    "domesticRejected": 887,
     "globalRejected": 892,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -67,12 +56,32 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 26,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -80,8 +89,13 @@
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -92,9 +106,29 @@
   ],
   "failures": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -102,8 +136,13 @@
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -116,7 +155,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 120,
+      "parsed": 122,
       "failed": false,
       "optional": false
     },
@@ -166,7 +205,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -207,15 +247,16 @@
     {
       "name": "科技日报",
       "tier": "official",
-      "parsed": 71,
+      "parsed": 69,
       "failed": false,
       "optional": false
     },
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -279,14 +320,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -307,8 +350,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -316,7 +360,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -363,18 +407,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1308,
+  "itemsSeen": 1235,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 299,
-  "itemsAfterDedupe": 226,
-  "todayItemsSeen": 6,
+  "itemsAfterRelevantFilter": 241,
+  "itemsAfterDedupe": 194,
+  "todayItemsSeen": 13,
   "suspectedItemsSeen": 16,
-  "skippedNonToday": 203,
+  "skippedNonToday": 164,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 120,
+      "parsed": 122,
       "failed": false,
       "optional": false
     },
@@ -424,7 +468,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -465,15 +510,16 @@
     {
       "name": "科技日报",
       "tier": "official",
-      "parsed": 71,
+      "parsed": 69,
       "failed": false,
       "optional": false
     },
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -537,14 +583,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -565,8 +613,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -574,7 +623,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -775,9 +824,29 @@
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -785,8 +854,13 @@
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -820,14 +894,67 @@
   "topics": [
     {
       "topic": "AI 应用与智能体",
-      "count": 2,
-      "sourceCount": 1,
+      "count": 4,
+      "sourceCount": 2,
       "sources": [
-        "新浪科技"
+        "新浪科技",
+        "网易科技"
       ],
       "items": [
         "OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制",
+        "中信建投：继续看好大厂Capex生态、国产芯片与超节点、算力服务、Pre-AI、B端AI应用和本地推理",
+        "中信建投：DeepSeek拟提价，持续关注国产大模型",
         "Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王"
+      ]
+    },
+    {
+      "topic": "人形机器人与具身智能",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "首个全国产10万卡AI超集群投用；今年上半年人形",
+        "宇树科技今日启动申购，A 股迎来“人形机器人第一股”"
+      ]
+    },
+    {
+      "topic": "AI动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "中国日报-科技",
+        "IT之家"
+      ],
+      "items": [
+        "开放共赢是人工智能发展的必由之路（和音）",
+        "硅谷 AI 抢人大战，光砸钱已经不够用了"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
+        "新浪科技"
+      ],
+      "items": [
+        "汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器",
+        "宁德时代宜春枧下窝锂矿复产迎来关键期"
+      ]
+    },
+    {
+      "topic": "太空与低空动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "影响市场重大事件：马斯克：即将发射的第三代星链卫星V3"
       ]
     },
     {
@@ -839,28 +966,6 @@
       ],
       "items": [
         "国际首次！“银河画卷”绘出银河系波纹褶皱"
-      ]
-    },
-    {
-      "topic": "新能源车动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器"
-      ]
-    },
-    {
-      "topic": "AI动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代"
       ]
     },
     {
@@ -876,6 +981,142 @@
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "首个全国产10万卡AI超集群投用；今年上半年人形",
+      "summary": "首个全国产10万卡AI超集群投用；今年上半年人形机器人领域新设企业11.6万户｜数智早参,通用,算力,数智早参,人形机器人,世界人工智能大会",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L3V1JBRC0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L3V1JBRC0512B07B.html"
+      ],
+      "publishedAt": "2026-08-10",
+      "date": "2026-08-10",
+      "category": "AI",
+      "classificationConfidence": 0.79,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 184,
+      "reporterScore": 198,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 128
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “首个全国产10万卡AI超集群投用；今年上半年人形” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "首个全国产10万卡AI超集群投用；今年上半年人形机器人领域新设企业11.6万户｜数智早参,通用,算力,数智早参,人形机器人,世界人工智能大会",
+      "relatedTitles": [
+        "首个全国产10万卡AI超集群投用；今年上半年人形"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "宇树科技今日启动申购，A 股迎来“人形机器人第一股”",
+      "summary": "IT之家 8 月 10 日消息，8 月 10 日，宇树科技正式启动申购，A 股即将迎来“人形机器人第一股”。此前，宇树科技确定发行价为 150.80 元 / 股，对应市值约 609.93 亿元。本次拟公开发行 4044.64 万股，占发行后...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimuriv2935798.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimuriv2935798.shtml"
+      ],
+      "publishedAt": "2026-08-10",
+      "date": "2026-08-10",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 178,
+      "reporterScore": 192,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “宇树科技今日启动申购，A 股迎来“人形机器人第一股”” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "IT之家 8 月 10 日消息，8 月 10 日，宇树科技正式启动申购，A 股即将迎来“人形机器人第一股”。此前，宇树科技确定发行价为 150.80 元 / 股，对应市值约 609.93 亿元。本次拟公开发行 4044.64 万股，占发行后...",
+      "relatedTitles": [
+        "宇树科技今日启动申购，A 股迎来“人形机器人第一股”"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制",
@@ -938,9 +1179,281 @@
       "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "IT之家 8 月 10 日消息，OpenAI 宣布即将取消免费版和 Go 版用户在纯文本对话中的次数限制，从当地时间 8 月 10 日（今天）开始，免费账户和 Go 账户用户在进行普通文字聊天时，将不再受到消息数量上限限制，可以持续进行文本...",
+      "rawText": "8 月 10 日，OpenAI 宣布取消免费版和 Go 版用户纯文本对话次数限制，可持续进行文本对话，但图片生成、文件上传及语音模式仍有独立使用额度。本周起，GPT - 5.6 Luna 替代 GPT - 5.5 Instant 成免费和 Go 级别账户默认模型，还新增“Think”按钮，纯文本场景无限制。Plus 和 Pro 付费用户方面，旗舰模型 GPT - 5.6 Sol 优化对话体验，付费用户获“思考强度”调节选项。OpenAI 称调整目标是提升 AI 使用普及度，也有助于增强免费用户黏性，降低用户流失。 (AI生成)",
       "relatedTitles": [
         "OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9jaGluYS5j",
+      "title": "开放共赢是人工智能发展的必由之路（和音）",
+      "summary": "人工智能是面向未来的全球性事业，发展成果理应惠及各国人民。",
+      "source": "中国日报-科技",
+      "sources": [
+        "中国日报-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://china.chinadaily.com.cn/a/202608/10/WS6a790cd2a310d709c2fc242f.html",
+      "sourceUrls": [
+        "https://china.chinadaily.com.cn/a/202608/10/WS6a790cd2a310d709c2fc242f.html"
+      ],
+      "publishedAt": "2026-08-10",
+      "date": "2026-08-10",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “开放共赢是人工智能发展的必由之路（和音）” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "人工智能是面向未来的全球性事业，发展成果理应惠及各国人民。",
+      "relatedTitles": [
+        "开放共赢是人工智能发展的必由之路（和音）"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "影响市场重大事件：马斯克：即将发射的第三代星链卫星V3",
+      "summary": "影响市场重大事件：马斯克：即将发射的第三代星链卫星V3，综合性能比V2高出一个数量级，第二代星链今年的收入将达到200亿美元；2026国际基础科学大会在北京开幕,量子,数量级,北京市,星链卫星,埃隆_马斯克,spacex,基础科学大会,太空探索技术公司",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L3V1UGC10512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L3V1UGC10512B07B.html"
+      ],
+      "publishedAt": "2026-08-10",
+      "date": "2026-08-10",
+      "category": "太空与低空",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 181,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：马斯克：即将发射的第三代星链卫星V3” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "影响市场重大事件：马斯克：即将发射的第三代星链卫星V3，综合性能比V2高出一个数量级，第二代星链今年的收入将达到200亿美元；2026国际基础科学大会在北京开幕,量子,数量级,北京市,星链卫星,埃隆_马斯克,spacex,基础科学大会,太空探索技术公司",
+      "relatedTitles": [
+        "影响市场重大事件：马斯克：即将发射的第三代星链卫星V3"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "中信建投：继续看好大厂Capex生态、国产芯片与超节点、算力服务、Pre-AI、B端AI应用和本地推理",
+      "summary": "中信建投：继续看好大厂Capex生态、国产芯片与超节点、算力服务、Pre-AI、B端AI应用和本地推理,推理,算力,pre,国产芯片,中信建投,capex",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L3V2EUL90534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L3V2EUL90534A4SC.html"
+      ],
+      "publishedAt": "2026-08-10",
+      "date": "2026-08-10",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “中信建投：继续看好大厂Capex生态、国产芯片与超节点、算力服务、Pre-AI、B端AI应用和本地推理” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "中信建投：继续看好大厂Capex生态、国产芯片与超节点、算力服务、Pre-AI、B端AI应用和本地推理,推理,算力,pre,国产芯片,中信建投,capex",
+      "relatedTitles": [
+        "中信建投：继续看好大厂Capex生态、国产芯片与超节点、算力服务、Pre-AI、B端AI应用和本地推理"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "中信建投：DeepSeek拟提价，持续关注国产大模型",
+      "summary": "中信建投：DeepSeek拟提价，持续关注国产大模型及算力产业链,产业链,景气度,中信建投,算力需求,deepseek",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L3V2DOU10534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L3V2DOU10534A4SC.html"
+      ],
+      "publishedAt": "2026-08-10",
+      "date": "2026-08-10",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中信建投：DeepSeek拟提价，持续关注国产大模型” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "中信建投：DeepSeek拟提价，持续关注国产大模型及算力产业链,产业链,景气度,中信建投,算力需求,deepseek",
+      "relatedTitles": [
+        "中信建投：DeepSeek拟提价，持续关注国产大模型"
       ],
       "isNewSinceLastRun": true
     },
@@ -1010,12 +1523,12 @@
       "relatedTitles": [
         "国际首次！“银河画卷”绘出银河系波纹褶皱"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王",
-      "summary": "Deepseek 破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨 好消息是V4正式版能力有升级 衡宇 2026-06-30 API Deepseek 算力 Claude Mythos让梁文锋决定融资 DeepSeek不储备弹药根本没法打下去了 梦晨 2026-06-29 Deepseek 梁文锋署名的D",
+      "summary": "编辑｜冷猫Anthropic 和 OpenAI 的竞争愈发白热化。自从 DeepSeek V4 Flash 带着超级性价比之王的身份入局之后，海外大厂似乎没有一个坐得住的。Anthropic 的最新 Sonnet 5.5 模型被爆出已经箭在...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -1071,12 +1584,80 @@
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王” against primary-source evidence.",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
       "rawText": "编辑｜冷猫Anthropic 和 OpenAI 的竞争愈发白热化。自从 DeepSeek V4 Flash 带着超级性价比之王的身份入局之后，海外大厂似乎没有一个坐得住的。Anthropic 的最新 Sonnet 5.5 模型被爆出已经箭在...",
       "relatedTitles": [
         "Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "硅谷 AI 抢人大战，光砸钱已经不够用了",
+      "summary": "在 AI 热潮下，顶尖人才成了稀缺资源。Cursor 公司为了招揽心仪候选人，不仅为其建立专属 Slack 频道，甚至投其所好赠送独特乐器。这种“追求式”招聘反映了行业新现实：对于顶尖人才，单纯的加薪已不够，理解与用心才是关键。#AI人才招聘#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/987/652.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/987/652.htm"
+      ],
+      "publishedAt": "Sun, 09 Aug 2026 23:26:10 GMT",
+      "date": "2026-08-10",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “硅谷 AI 抢人大战，光砸钱已经不够用了” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "在 AI 热潮下，顶尖人才成了稀缺资源。Cursor 公司为了招揽心仪候选人，不仅为其建立专属 Slack 频道，甚至投其所好赠送独特乐器。这种“追求式”招聘反映了行业新现实：对于顶尖人才，单纯的加薪已不够，理解与用心才是关键。#AI人才招聘#",
+      "relatedTitles": [
+        "硅谷 AI 抢人大战，光砸钱已经不够用了"
       ],
       "isNewSinceLastRun": true
     },
@@ -1146,38 +1727,38 @@
       "relatedTitles": [
         "汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代",
-      "summary": "新快报讯 记者方轶 通讯员江沅芳 李程远报道 近日，在粤桂协作支持下的2026年广西忻城县首期智慧农业AI模型应用青年技能培训班正式开班，20名城乡青年集中“蓄能充电”。这标志着忻城县农业即将步入“低空+AI”融合发展新阶段，也为粤...",
+      "title": "宁德时代宜春枧下窝锂矿复产迎来关键期",
+      "summary": "江西省宜丰县圳口里 - 奉新县枧下窝锂矿何时复产受关注。该矿由宁德时代旗下公司运营，2025 年 8 月 9 日采矿许可证到期后停产至今。其环评报告和公众参与说明公示于 8 月 7 日完成，待提交评审。复产需取得系列批文，环评要经专家评审、法定公示后才批复。过去一年围绕复工有诸多传闻，近期复产工作进展较大，此前公司已重",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimtync8544797.shtml",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-10/doc-inimtymz1595552.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimtync8544797.shtml"
+        "https://finance.sina.com.cn/jjxw/2026-08-10/doc-inimtymz1595552.shtml"
       ],
       "publishedAt": "2026-08-10",
       "date": "2026-08-10",
-      "category": "AI",
-      "classificationConfidence": 0.75,
+      "category": "新能源车",
+      "classificationConfidence": 0.68,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
+      "score": 145,
+      "reporterScore": 145,
       "scoreBreakdown": {
-        "hardTech": 95,
+        "hardTech": 85,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
@@ -1199,20 +1780,20 @@
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
+        "hardTechWeight": 85,
+        "reporterScore": 100
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代” against primary-source evidence.",
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “宁德时代宜春枧下窝锂矿复产迎来关键期” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "新快报讯 记者方轶 通讯员江沅芳 李程远报道 近日，在粤桂协作支持下的2026年广西忻城县首期智慧农业AI模型应用青年技能培训班正式开班，20名城乡青年集中“蓄能充电”。这标志着忻城县农业即将步入“低空+AI”融合发展新阶段，也为粤...",
+      "matchedTopic": "新能源车动态",
+      "rawText": "江西省宜丰县圳口里 - 奉新县枧下窝锂矿何时复产受关注。该矿由宁德时代旗下公司运营，2025 年 8 月 9 日采矿许可证到期后停产至今。其环评报告和公众参与说明公示于 8 月 7 日完成，待提交评审。复产需取得系列批文，环评要经专家评审、法定公示后才批复。过去一年围绕复工有诸多传闻，近期复产工作进展较大，此前公司已重新获得《建设项目用地预审与选址意见书》、取得《安全生产许可证》。多家宜春锂企认为最快三季度、最迟年底前复产，一家受访企业称环评审批已到最后环节。 (AI生成)",
       "relatedTitles": [
-        "城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代"
+        "宁德时代宜春枧下窝锂矿复产迎来关键期"
       ],
       "isNewSinceLastRun": true
     },
@@ -1282,77 +1863,10 @@
       "relatedTitles": [
         "LG 能源与龙蟠科技进一步加深合作关系，签订超 5 万亿韩元磷酸铁锂正极材料大单"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "MEET大会",
-      "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/meet/meet2026/",
-      "sourceUrls": [
-        "https://www.qbitai.com/meet/meet2026/"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 180,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MEET大会” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势。量子位在会上发布了「2025人工智能年度榜单」与「2025年度AI十大趋势报告」。 大会直播回顾 MEET2025 回顾 MEET2024 回顾 MEET2023 回顾 特邀嘉宾 &times; 重磅发布 2025人工智能年度榜单 我们希望为关注前沿科技创新的人提供一个独立的第三方参照系 为在技术与产业一线摸索前行的团队加一份笃定 为仍在押注长期主义的建设者刻下年度坐标 2025年度AI十大趋势报告 报告由量子位智库打造 基于对全球AI技术发展、产业应用和社会影响的深度调研与分析 全面呈现了人工智能领域的最新现状与未来发展趋势 独家观点 张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 百",
-      "relatedTitles": [
-        "MEET大会"
-      ]
-    },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "WAIC观察：3DIC EDA + AI 智能体，如何重构STCO新范式？",
@@ -2158,6 +2672,73 @@
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "Claude",
+      "summary": "Claude Claude的脑子里，也长出了一块「意识」 内部发现「类脑空间」，删掉就变傻 克雷西 2026-07-07 Claude Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户 单词数r也是风险问题？！ 克雷西 2026-07-03 Claude Fable 5 A社你解释下，啥叫Sonne",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/claude",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/claude"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 129,
+      "reporterScore": 137,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Claude” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "Claude Claude的脑子里，也长出了一块「意识」 内部发现「类脑空间」，删掉就变傻 克雷西 2026-07-07 Claude Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户 单词数r也是风险问题？！ 克雷西 2026-07-03 Claude Fable 5 A社你解释下，啥叫Sonnet 5比Fable 5还贵？ “性价比模型”价格明降暗涨 克雷西 2026-07-01 Claude 刚刚，Claude Code大升级！卡帕西：LLM第三次变革 目前A社约65%的产品代码已经由Claude Tag参与完成 henry 2026-06-24 Agent Claude Anthropic老大的唯一 -1，就是AI股神的未婚妻 那位被OpenAI开除的股神 闻乐 2026-06-12 Anthropic Claude Dario Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜 聪明人总能花最少的钱办最好的事，AI也一样。 henry 2026-06-11 Claude Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱 Cla",
+      "relatedTitles": [
+        "Claude"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "“985”博导不如初中辍学的张雪？",
       "summary": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻",
@@ -2426,70 +3007,6 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
-      "source": "WIRED Business",
-      "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-      "publishedAt": "Sun, 09 Aug 2026 09:30:00 +0000",
-      "date": "2026-08-09",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “These AI Barons Are Ready to Give Away Their Fortunes” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Texas could host Samsung's first floating data center",
-      "summary": "Samsung pushes floating data center into Texas despite growing uncertainty over power grid approvals and expanding AI infrastructure demand",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/texas-could-host-samsungs-first-210500065.html",
-      "publishedAt": "2026-08-10",
-      "date": "2026-08-10",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.68,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Texas could host Samsung's first floating data center” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI acquires presentation startup NextSlide",
       "summary": "NextSlide says its team members are now working on ChatGPT.",
       "source": "TechCrunch",
@@ -2536,6 +3053,38 @@
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privac” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+      "source": "WIRED Business",
+      "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "publishedAt": "Sun, 09 Aug 2026 09:30:00 +0000",
+      "date": "2026-08-09",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “These AI Barons Are Ready to Give Away Their Fortunes” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -2615,10 +3164,42 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Texas could host Samsung's first floating data center",
+      "summary": "Samsung pushes floating data center into Texas despite growing uncertainty over power grid approvals and expanding AI infrastructure demand",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/texas-could-host-samsungs-first-210500065.html",
+      "publishedAt": "2026-08-10",
+      "date": "2026-08-10",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.68,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Texas could host Samsung's first floating data center” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-10｜V3\n生成时间：2026/8/10 07:15:01\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2531｜确认今日 6｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-10] OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制\n   新浪科技｜2026-08-10｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制” against primary-source evidence.\n\n2. [2026-08-10] 国际首次！“银河画卷”绘出银河系波纹褶皱\n   新浪科技｜2026-08-10｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzx3042856.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “国际首次！“银河画卷”绘出银河系波纹褶皱” against primary-source evidence.\n\n3. [2026-08-10] Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王\n   新浪科技｜2026-08-10｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzz5159414.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王” against primary-source evidence.\n\n4. [23:07] 汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器\n   IT之家｜2026-08-10｜https://www.ithome.com/0/987/650.htm\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器” against primary-source evidence.\n\n5. [2026-08-10] 城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代\n   新浪科技｜2026-08-10｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimtync8544797.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml\n- 国际首次！“银河画卷”绘出银河系波纹褶皱｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzx3042856.shtml\n- Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzz5159414.shtml\n- 汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器｜IT之家｜https://www.ithome.com/0/987/650.htm\n- 城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimtync8544797.shtml\n- These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n2. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n3. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n4. Texas could host Samsung's first floating data center｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/texas-could-host-samsungs-first-210500065.html\n5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-10｜V3\n生成时间：2026/8/10 07:15:01\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2531｜确认今日 6｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-10] OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制\n   新浪科技｜2026-08-10｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制” against primary-source evidence.\n\n2. [2026-08-10] 国际首次！“银河画卷”绘出银河系波纹褶皱\n   新浪科技｜2026-08-10｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzx3042856.shtml\n   报道角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “国际首次！“银河画卷”绘出银河系波纹褶皱” against primary-source evidence.\n\n3. [2026-08-10] Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王\n   新浪科技｜2026-08-10｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzz5159414.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王” against primary-source evidence.\n\n4. [23:07] 汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器\n   IT之家｜2026-08-10｜https://www.ithome.com/0/987/650.htm\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器” against primary-source evidence.\n\n5. [2026-08-10] 城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代\n   新浪科技｜2026-08-10｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimtync8544797.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml\n- 国际首次！“银河画卷”绘出银河系波纹褶皱｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzx3042856.shtml\n- Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzz5159414.shtml\n- 汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器｜IT之家｜https://www.ithome.com/0/987/650.htm\n- 城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimtync8544797.shtml\n- These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n2. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n3. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n4. Texas could host Samsung's first floating data center｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/texas-could-host-samsungs-first-210500065.html\n5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-10｜生成时间：2026/8/10 07:15:01｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2531｜确认今日 6｜国际背景 8</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 2 条<br>延续跟踪线索：国内 0 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-10] OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制</strong>\n      <span>新浪科技｜2026-08-10｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-10] 国际首次！“银河画卷”绘出银河系波纹褶皱</strong>\n      <span>新浪科技｜2026-08-10｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzx3042856.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “国际首次！“银河画卷”绘出银河系波纹褶皱” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-10] Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王</strong>\n      <span>新浪科技｜2026-08-10｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzz5159414.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [23:07] 汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器</strong>\n      <span>IT之家｜2026-08-10｜<a href=\"https://www.ithome.com/0/987/650.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：158｜需核验来源</span>\n      <p>报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-10] 城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代</strong>\n      <span>新浪科技｜2026-08-10｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimtync8544797.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket</strong>\n      <span>时间：Sat, 08 Aug 2026 12:00:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Here Are the First Images of the Crater Left on the Moon by SpaceX’s Roc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. South Korean satellite spots SpaceX lunar impact</strong>\n      <span>时间：Sat, 08 Aug 2026 11:46:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “South Korean satellite spots SpaceX lunar impact” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. These AI Barons Are Ready to Give Away Their Fortunes</strong>\n      <span>时间：Sun, 09 Aug 2026 09:30:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “These AI Barons Are Ready to Give Away Their Fortunes” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Texas could host Samsung's first floating data center</strong>\n      <span>时间：2026-08-10｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/texas-could-host-samsungs-first-210500065.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Texas could host Samsung's first floating data center” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI acquires presentation startup NextSlide</strong>\n      <span>时间：Sat, 08 Aug 2026 19:41:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI acquires presentation startup NextSlide” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/10 07:15:01\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-10] OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制” against primary-source evidence.\n\n2. [2026-08-10] 国际首次！“银河画卷”绘出银河系波纹褶皱\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzx3042856.shtml\n   角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “国际首次！“银河画卷”绘出银河系波纹褶皱” against primary-source evidence.\n\n3. [2026-08-10] Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzz5159414.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王” against primary-source evidence.\n\n4. [23:07] 汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器\n   来源：IT之家\n   链接：https://www.ithome.com/0/987/650.htm\n   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器” against primary-source evidence.\n\n5. [2026-08-10] 城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimtync8544797.shtml\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml\n- 国际首次！“银河画卷”绘出银河系波纹褶皱｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzx3042856.shtml\n- Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzz5159414.shtml\n- 汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器｜IT之家｜https://www.ithome.com/0/987/650.htm\n- 城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimtync8544797.shtml\n- These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n2. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n3. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n4. Texas could host Samsung's first floating data center｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/texas-could-host-samsungs-first-210500065.html\n5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-10｜V3\n生成时间：2026/8/10 07:40:46\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2458｜确认今日 13｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-10] 首个全国产10万卡AI超集群投用；今年上半年人形\n   网易科技｜2026-08-10｜https://www.163.com/dy/article/L3V1JBRC0512B07B.html\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “首个全国产10万卡AI超集群投用；今年上半年人形” against primary-source evidence.\n\n2. [2026-08-10] 宇树科技今日启动申购，A 股迎来“人形机器人第一股”\n   新浪科技｜2026-08-10｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimuriv2935798.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “宇树科技今日启动申购，A 股迎来“人形机器人第一股”” against primary-source evidence.\n\n3. [2026-08-10] OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制\n   新浪科技｜2026-08-10｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制” against primary-source evidence.\n\n4. [2026-08-10] 开放共赢是人工智能发展的必由之路（和音）\n   中国日报-科技｜2026-08-10｜https://china.chinadaily.com.cn/a/202608/10/WS6a790cd2a310d709c2fc242f.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “开放共赢是人工智能发展的必由之路（和音）” against primary-source evidence.\n\n5. [2026-08-10] 影响市场重大事件：马斯克：即将发射的第三代星链卫星V3\n   网易科技｜2026-08-10｜https://www.163.com/dy/article/L3V1UGC10512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：马斯克：即将发射的第三代星链卫星V3” against primary-source evidence.\n\n本次新增线索：\n- 首个全国产10万卡AI超集群投用；今年上半年人形｜网易科技｜https://www.163.com/dy/article/L3V1JBRC0512B07B.html\n- 宇树科技今日启动申购，A 股迎来“人形机器人第一股”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimuriv2935798.shtml\n- 开放共赢是人工智能发展的必由之路（和音）｜中国日报-科技｜https://china.chinadaily.com.cn/a/202608/10/WS6a790cd2a310d709c2fc242f.html\n- 影响市场重大事件：马斯克：即将发射的第三代星链卫星V3｜网易科技｜https://www.163.com/dy/article/L3V1UGC10512B07B.html\n- 中信建投：继续看好大厂Capex生态、国产芯片与超节点、算力服务、Pre-AI、B端AI应用和本地推理｜网易科技｜https://www.163.com/dy/article/L3V2EUL90534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n2. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n3. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n4. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n5. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-10｜V3\n生成时间：2026/8/10 07:40:46\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2458｜确认今日 13｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-10] 首个全国产10万卡AI超集群投用；今年上半年人形\n   网易科技｜2026-08-10｜https://www.163.com/dy/article/L3V1JBRC0512B07B.html\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “首个全国产10万卡AI超集群投用；今年上半年人形” against primary-source evidence.\n\n2. [2026-08-10] 宇树科技今日启动申购，A 股迎来“人形机器人第一股”\n   新浪科技｜2026-08-10｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimuriv2935798.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “宇树科技今日启动申购，A 股迎来“人形机器人第一股”” against primary-source evidence.\n\n3. [2026-08-10] OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制\n   新浪科技｜2026-08-10｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制” against primary-source evidence.\n\n4. [2026-08-10] 开放共赢是人工智能发展的必由之路（和音）\n   中国日报-科技｜2026-08-10｜https://china.chinadaily.com.cn/a/202608/10/WS6a790cd2a310d709c2fc242f.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “开放共赢是人工智能发展的必由之路（和音）” against primary-source evidence.\n\n5. [2026-08-10] 影响市场重大事件：马斯克：即将发射的第三代星链卫星V3\n   网易科技｜2026-08-10｜https://www.163.com/dy/article/L3V1UGC10512B07B.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：马斯克：即将发射的第三代星链卫星V3” against primary-source evidence.\n\n本次新增线索：\n- 首个全国产10万卡AI超集群投用；今年上半年人形｜网易科技｜https://www.163.com/dy/article/L3V1JBRC0512B07B.html\n- 宇树科技今日启动申购，A 股迎来“人形机器人第一股”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimuriv2935798.shtml\n- 开放共赢是人工智能发展的必由之路（和音）｜中国日报-科技｜https://china.chinadaily.com.cn/a/202608/10/WS6a790cd2a310d709c2fc242f.html\n- 影响市场重大事件：马斯克：即将发射的第三代星链卫星V3｜网易科技｜https://www.163.com/dy/article/L3V1UGC10512B07B.html\n- 中信建投：继续看好大厂Capex生态、国产芯片与超节点、算力服务、Pre-AI、B端AI应用和本地推理｜网易科技｜https://www.163.com/dy/article/L3V2EUL90534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n2. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n3. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n4. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n5. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-10｜生成时间：2026/8/10 07:40:46｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2458｜确认今日 13｜国际背景 8</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 8 条｜国际 0 条<br>延续跟踪线索：国内 5 条｜国际 8 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-10] 首个全国产10万卡AI超集群投用；今年上半年人形</strong>\n      <span>网易科技｜2026-08-10｜<a href=\"https://www.163.com/dy/article/L3V1JBRC0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “首个全国产10万卡AI超集群投用；今年上半年人形” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-10] 宇树科技今日启动申购，A 股迎来“人形机器人第一股”</strong>\n      <span>新浪科技｜2026-08-10｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimuriv2935798.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “宇树科技今日启动申购，A 股迎来“人形机器人第一股”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-10] OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制</strong>\n      <span>新浪科技｜2026-08-10｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-10] 开放共赢是人工智能发展的必由之路（和音）</strong>\n      <span>中国日报-科技｜2026-08-10｜<a href=\"https://china.chinadaily.com.cn/a/202608/10/WS6a790cd2a310d709c2fc242f.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “开放共赢是人工智能发展的必由之路（和音）” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-10] 影响市场重大事件：马斯克：即将发射的第三代星链卫星V3</strong>\n      <span>网易科技｜2026-08-10｜<a href=\"https://www.163.com/dy/article/L3V1UGC10512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：马斯克：即将发射的第三代星链卫星V3” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket</strong>\n      <span>时间：Sat, 08 Aug 2026 12:00:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Here Are the First Images of the Crater Left on the Moon by SpaceX’s Roc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. South Korean satellite spots SpaceX lunar impact</strong>\n      <span>时间：Sat, 08 Aug 2026 11:46:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “South Korean satellite spots SpaceX lunar impact” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI acquires presentation startup NextSlide</strong>\n      <span>时间：Sat, 08 Aug 2026 19:41:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI acquires presentation startup NextSlide” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default</strong>\n      <span>时间：Sat, 08 Aug 2026 15:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privac” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. These AI Barons Are Ready to Give Away Their Fortunes</strong>\n      <span>时间：Sun, 09 Aug 2026 09:30:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “These AI Barons Are Ready to Give Away Their Fortunes” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/10 07:40:46\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-10] 首个全国产10万卡AI超集群投用；今年上半年人形\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L3V1JBRC0512B07B.html\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “首个全国产10万卡AI超集群投用；今年上半年人形” against primary-source evidence.\n\n2. [2026-08-10] 宇树科技今日启动申购，A 股迎来“人形机器人第一股”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimuriv2935798.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “宇树科技今日启动申购，A 股迎来“人形机器人第一股”” against primary-source evidence.\n\n3. [2026-08-10] OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制” against primary-source evidence.\n\n4. [2026-08-10] 开放共赢是人工智能发展的必由之路（和音）\n   来源：中国日报-科技\n   链接：https://china.chinadaily.com.cn/a/202608/10/WS6a790cd2a310d709c2fc242f.html\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “开放共赢是人工智能发展的必由之路（和音）” against primary-source evidence.\n\n5. [2026-08-10] 影响市场重大事件：马斯克：即将发射的第三代星链卫星V3\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L3V1UGC10512B07B.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：马斯克：即将发射的第三代星链卫星V3” against primary-source evidence.\n\n本次新增线索：\n- 首个全国产10万卡AI超集群投用；今年上半年人形｜网易科技｜https://www.163.com/dy/article/L3V1JBRC0512B07B.html\n- 宇树科技今日启动申购，A 股迎来“人形机器人第一股”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimuriv2935798.shtml\n- 开放共赢是人工智能发展的必由之路（和音）｜中国日报-科技｜https://china.chinadaily.com.cn/a/202608/10/WS6a790cd2a310d709c2fc242f.html\n- 影响市场重大事件：马斯克：即将发射的第三代星链卫星V3｜网易科技｜https://www.163.com/dy/article/L3V1UGC10512B07B.html\n- 中信建投：继续看好大厂Capex生态、国产芯片与超节点、算力服务、Pre-AI、B端AI应用和本地推理｜网易科技｜https://www.163.com/dy/article/L3V2EUL90534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n2. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n3. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n4. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n5. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }

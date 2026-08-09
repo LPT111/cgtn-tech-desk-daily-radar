@@ -1,63 +1,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/10 07:15:01
+生成时间：2026/8/10 07:40:46
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 2 条
-延续跟踪线索：国内 0 条｜国际 6 条
+新增核心线索：国内 8 条｜国际 0 条
+延续跟踪线索：国内 5 条｜国际 8 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-10] OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制
+1. [2026-08-10] 首个全国产10万卡AI超集群投用；今年上半年人形
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L3V1JBRC0512B07B.html
+   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “首个全国产10万卡AI超集群投用；今年上半年人形” against primary-source evidence.
+
+2. [2026-08-10] 宇树科技今日启动申购，A 股迎来“人形机器人第一股”
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimuriv2935798.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “宇树科技今日启动申购，A 股迎来“人形机器人第一股”” against primary-source evidence.
+
+3. [2026-08-10] OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml
    角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制” against primary-source evidence.
 
-2. [2026-08-10] 国际首次！“银河画卷”绘出银河系波纹褶皱
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzx3042856.shtml
-   角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “国际首次！“银河画卷”绘出银河系波纹褶皱” against primary-source evidence.
+4. [2026-08-10] 开放共赢是人工智能发展的必由之路（和音）
+   来源：中国日报-科技
+   链接：https://china.chinadaily.com.cn/a/202608/10/WS6a790cd2a310d709c2fc242f.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “开放共赢是人工智能发展的必由之路（和音）” against primary-source evidence.
 
-3. [2026-08-10] Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzz5159414.shtml
-   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王” against primary-source evidence.
-
-4. [23:07] 汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器
-   来源：IT之家
-   链接：https://www.ithome.com/0/987/650.htm
-   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器” against primary-source evidence.
-
-5. [2026-08-10] 城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimtync8544797.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代” against primary-source evidence.
+5. [2026-08-10] 影响市场重大事件：马斯克：即将发射的第三代星链卫星V3
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L3V1UGC10512B07B.html
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：马斯克：即将发射的第三代星链卫星V3” against primary-source evidence.
 
 本次新增线索：
-- OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimurit1325343.shtml
-- 国际首次！“银河画卷”绘出银河系波纹褶皱｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzx3042856.shtml
-- Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimukzz5159414.shtml
-- 汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器｜IT之家｜https://www.ithome.com/0/987/650.htm
-- 城乡青年集中“充电” 忻城蓄力农业“低空+AI”时代｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimtync8544797.shtml
-- These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/
+- 首个全国产10万卡AI超集群投用；今年上半年人形｜网易科技｜https://www.163.com/dy/article/L3V1JBRC0512B07B.html
+- 宇树科技今日启动申购，A 股迎来“人形机器人第一股”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimuriv2935798.shtml
+- 开放共赢是人工智能发展的必由之路（和音）｜中国日报-科技｜https://china.chinadaily.com.cn/a/202608/10/WS6a790cd2a310d709c2fc242f.html
+- 影响市场重大事件：马斯克：即将发射的第三代星链卫星V3｜网易科技｜https://www.163.com/dy/article/L3V1UGC10512B07B.html
+- 中信建投：继续看好大厂Capex生态、国产芯片与超节点、算力服务、Pre-AI、B端AI应用和本地推理｜网易科技｜https://www.163.com/dy/article/L3V2EUL90534A4SC.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（2 条，1 个来源）
+- AI 应用：AI 应用与智能体（4 条，2 个来源）
 - 芯片/半导体：
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
-- 太空与低空经济：
+- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/
 2. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741
-3. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/
-4. Texas could host Samsung's first floating data center｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/texas-could-host-samsungs-first-210500065.html
-5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/
+3. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/
+4. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107
+5. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
