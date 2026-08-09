@@ -1,53 +1,37 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-09T06:28:57.357Z",
+  "generatedAt": "2026-08-09T06:57:52.515Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-09",
   "changeSummary": {
-    "domesticNew": 32,
-    "globalNew": 1,
-    "domesticContinued": 1,
-    "globalContinued": 12,
+    "domesticNew": 3,
+    "globalNew": 0,
+    "domesticContinued": 32,
+    "globalContinued": 13,
     "topNewDomestic": [
       {
         "title": "消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/987/511.htm"
+      },
+      {
+        "title": "顶级投行的肯定！高盛预测小米汽车2028年交付破100万辆",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimssst8989240.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimtchp8820179.shtml"
       },
       {
-        "title": "今年上半年人形机器人领域新设企业11.6万户",
-        "source": "人民网-科技",
-        "url": "http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html"
-      },
-      {
-        "title": "刚刚，OpenAI最大预训练模型Doug曝光",
+        "title": "美加利福尼亚州推出1.35亿美元新能源汽车购车补贴政策",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimswyt5709288.shtml"
-      },
-      {
-        "title": "2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml"
-      },
-      {
-        "title": "多项竞技比拼！第二届世界人形机器人运动会将于22日开赛",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html"
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr8941563.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/expensive-gold-plated-nvidia-gpu-004700155.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 867,
+    "domesticRejected": 865,
     "globalRejected": 887,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -62,13 +46,8 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 30,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -80,29 +59,14 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -112,11 +76,6 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -127,29 +86,14 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -161,7 +105,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 149,
+      "parsed": 144,
       "failed": false,
       "optional": false
     },
@@ -211,8 +155,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -333,8 +276,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -355,9 +297,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -365,7 +306,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -378,9 +319,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -413,18 +353,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1265,
+  "itemsSeen": 1331,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 303,
-  "itemsAfterDedupe": 233,
-  "todayItemsSeen": 33,
+  "itemsAfterRelevantFilter": 317,
+  "itemsAfterDedupe": 236,
+  "todayItemsSeen": 35,
   "suspectedItemsSeen": 16,
-  "skippedNonToday": 179,
+  "skippedNonToday": 181,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 149,
+      "parsed": 144,
       "failed": false,
       "optional": false
     },
@@ -474,8 +414,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -596,8 +535,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -618,9 +556,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -628,7 +565,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -641,9 +578,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -830,11 +766,6 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -845,29 +776,14 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -943,35 +859,50 @@ window.CHENCHEN_DAILY_DATA = {
         "IT之家"
       ],
       "items": [
-        "刚刚，OpenAI最大预训练模型Doug曝光",
         "2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等",
-        "韶音推出“OpenFit 2 AI”开放式耳机：升级千问大模型，1698 元"
-      ]
-    },
-    {
-      "topic": "新能源车与智能驾驶",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "人民网-科技"
-      ],
-      "items": [
-        "从技术展示走向规模化落地 智驾迭代重塑新能源汽车产业新格局丨新经济观察",
-        "探秘一块锂电池的“重生”之旅"
+        "韶音推出“OpenFit 2 AI”开放式耳机：升级千问大模型，1698 元",
+        "刚刚，OpenAI最大预训练模型Doug曝光"
       ]
     },
     {
       "topic": "新能源车动态",
-      "count": 2,
+      "count": 3,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
         "IT之家"
       ],
       "items": [
+        "顶级投行的肯定！高盛预测小米汽车2028年交付破100万辆",
         "蔚来第4,000座换电站落成暨第五代换电站投入运营",
         "小米汽车：澎程 N90 Max 四门可选智能电动门，支持开门杀预警和避障"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "人民网-科技"
+      ],
+      "items": [
+        "美加利福尼亚州推出1.35亿美元新能源汽车购车补贴政策",
+        "从技术展示走向规模化落地 智驾迭代重塑新能源汽车产业新格局丨新经济观察",
+        "探秘一块锂电池的“重生”之旅"
+      ]
+    },
+    {
+      "topic": "半导体供应链",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
+        "新浪科技"
+      ],
+      "items": [
+        "消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才",
+        "自主研发！芯上微装350nm步进投影光刻机通过工艺验证"
       ]
     },
     {
@@ -988,18 +919,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "半导体供应链",
-      "count": 2,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才",
-        "自主研发！芯上微装350nm步进投影光刻机通过工艺验证"
-      ]
-    },
-    {
       "topic": "国产 GPU / 算力基础设施",
       "count": 2,
       "sourceCount": 1,
@@ -1009,6 +928,17 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "天玑 9500 新变体曝光，iQOO Neo 11 至尊版首发搭载",
         "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众"
+      ]
+    },
+    {
+      "topic": "机器人动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "神舟二十三乘组“周报”上新：佩戴 VR 一体机开展行为学测试，机器人小航在轨“成长”"
       ]
     },
     {
@@ -1031,17 +961,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "丘成桐：民众对基础研究热忱空前高涨，期待更多女性勇敢追梦"
-      ]
-    },
-    {
-      "topic": "机器人动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "神舟二十三乘组“周报”上新：佩戴 VR 一体机开展行为学测试，机器人小航在轨“成长”"
       ]
     },
     {
@@ -1079,74 +998,6 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才",
-      "summary": "IT之家 8 月 9 日消息，据 Chosun 报道，三星电子将为其位于得克萨斯州的先进晶圆代工（半导体代工制造）工厂启动首批实习生招聘工作，该工厂定于今年年底开始运营。据业内人士消息，三星电子近日启动了美国泰勒晶圆厂明年夏季实习生的招聘工...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimssst8989240.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimssst8989240.shtml"
-      ],
-      "publishedAt": "2026-08-09",
-      "date": "2026-08-09",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 192,
-      "reporterScore": 214,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 138
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "IT之家 8 月 9 日消息，据 Chosun 报道，三星电子将为其位于得克萨斯州的先进晶圆代工（半导体代工制造）工厂启动首批实习生招聘工作，该工厂定于今年年底开始运营。据业内人士消息，三星电子近日启动了美国泰勒晶圆厂明年夏季实习生的招聘工...",
-      "relatedTitles": [
-        "消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才"
-      ],
-      "isNewSinceLastRun": true
-    },
     {
       "id": "aHR0cDovL2VudC5wZW9w",
       "title": "今年上半年人形机器人领域新设企业11.6万户",
@@ -1213,24 +1064,24 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "今年上半年人形机器人领域新设企业11.6万户"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "刚刚，OpenAI最大预训练模型Doug曝光",
-      "summary": "OpenAI 全球开发者狂喜！Codex移除5小时限制，Fable 5订阅再延7天，有人烧token烧到住院 有人因为token用不完就连续工作，把自己整医院里去了 梦晨 20小时前 OpenAI GPT-5.6一发布，Claude终于舍得重置Fable 5额度了 听雨 2026-07-10 OpenAI 刚刚，Ope",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才",
+      "summary": "三星电子启动其美国泰勒晶圆厂首批实习生招聘，为年底投产做准备。随着台积电也加速美国建厂，双方围绕当地半导体人才的争夺战即将打响。#半导体行业动态#",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimswyt5709288.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/987/511.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimswyt5709288.shtml"
+        "https://www.ithome.com/0/987/511.htm"
       ],
-      "publishedAt": "2026-08-09",
+      "publishedAt": "Sun, 09 Aug 2026 02:58:44 GMT",
       "date": "2026-08-09",
-      "category": "AI",
+      "category": "芯片",
       "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
@@ -1239,14 +1090,14 @@ window.CHENCHEN_DAILY_DATA = {
         "source"
       ],
       "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 184,
-      "reporterScore": 200,
+      "score": 180,
+      "reporterScore": 196,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 12,
         "visual": 0,
@@ -1273,13 +1124,13 @@ window.CHENCHEN_DAILY_DATA = {
       "hasInterviewValue": true,
       "hasVisualValue": false,
       "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，OpenAI最大预训练模型Doug曝光” against primary-source evidence.",
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "8 月 9 日，长期关注 OpenAI 模型动向的 X 用户 ChrisGPT 爆料称，OpenAI 正在推进一个代号为 Doug 的新一轮大型预训练模型。按照他的说法，Doug 将是 OpenAI 迄今规模最大的一次预训练项目，而且它与 ...",
+      "matchedTopic": "半导体供应链",
+      "rawText": "三星电子启动其美国泰勒晶圆厂首批实习生招聘，为年底投产做准备。随着台积电也加速美国建厂，双方围绕当地半导体人才的争夺战即将打响。#半导体行业动态#",
       "relatedTitles": [
-        "刚刚，OpenAI最大预训练模型Doug曝光"
+        "消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才"
       ],
       "isNewSinceLastRun": true
     },
@@ -1349,7 +1200,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1417,7 +1268,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "多项竞技比拼！第二届世界人形机器人运动会将于22日开赛"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1484,6 +1335,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 美国人工智能模型为何屡屡“越界” 2026-08-09 08:31:14 来源: 新华社 点击数： 热点",
       "relatedTitles": [
         "美国人工智能模型为何屡屡“越界”"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "顶级投行的肯定！高盛预测小米汽车2028年交付破100万辆",
+      "summary": "快科技8月9日消息，据报道，此前，国际知名投行高盛发布研究报告，对小米汽车未来三年的市场表现给出乐观预期。从报告配套的数据图表可以看到，高盛预测2026年小米汽车全年交付50万辆，2027年达到77万辆，到2028年，小米汽车整体交付量有望...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimtchp8820179.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimtchp8820179.shtml"
+      ],
+      "publishedAt": "2026-08-09",
+      "date": "2026-08-09",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 178,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “顶级投行的肯定！高盛预测小米汽车2028年交付破100万辆” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "快科技8月9日消息，据报道，此前，国际知名投行高盛发布研究报告，对小米汽车未来三年的市场表现给出乐观预期。从报告配套的数据图表可以看到，高盛预测2026年小米汽车全年交付50万辆，2027年达到77万辆，到2028年，小米汽车整体交付量有望...",
+      "relatedTitles": [
+        "顶级投行的肯定！高盛预测小米汽车2028年交付破100万辆"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "美加利福尼亚州推出1.35亿美元新能源汽车购车补贴政策",
+      "summary": "美国加利福尼亚州州长加文·纽森在阿拉米达县宣布，加州正式推出一项名为“MyFirstEV”的新能源汽车购车补贴计划。该计划将拨款1.355亿美元，为符合条件的首次购车者提供最高3500美元的即时补贴，预计将惠及约7.3万辆零排放汽车的购...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr8941563.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr8941563.shtml"
+      ],
+      "publishedAt": "2026-08-09",
+      "date": "2026-08-09",
+      "category": "新能源车",
+      "classificationConfidence": 0.95,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 178,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “美加利福尼亚州推出1.35亿美元新能源汽车购车补贴政策” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "美国加利福尼亚州州长加文·纽森在阿拉米达县宣布，加州正式推出一项名为“MyFirstEV”的新能源汽车购车补贴计划。该计划将拨款1.355亿美元，为符合条件的首次购车者提供最高3500美元的即时补贴，预计将惠及约7.3万辆零排放汽车的购...",
+      "relatedTitles": [
+        "美加利福尼亚州推出1.35亿美元新能源汽车购车补贴政策"
       ],
       "isNewSinceLastRun": true
     },
@@ -1553,7 +1540,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1621,7 +1608,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "马斯克发布 Terafab 渲染视频：Optimus 人形机器人、Robovan 无人车齐亮相"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1689,7 +1676,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "从技术展示走向规模化落地 智驾迭代重塑新能源汽车产业新格局丨新经济观察"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1757,7 +1744,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "首个全国产 10 万卡 AI 超集群投用：每秒峰值算力相当全人类持续计算 200 年"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1825,7 +1812,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "自主研发！芯上微装350nm步进投影光刻机通过工艺验证"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cDovL2VudC5wZW9w",
@@ -1893,7 +1880,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "探秘一块锂电池的“重生”之旅"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1961,7 +1948,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI硬件板块重挫后，8月市场主线将切换至创新药"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2029,7 +2016,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "韶音推出“OpenFit 2 AI”开放式耳机：升级千问大模型，1698 元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2097,45 +2084,45 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "A股人形机器人第一股即将登场 宇树科技明天申购：150.8元/股"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "安全公司警告新型攻击方式：黑客利用甲骨文 Oracle 数据库作为系统攻击跳板",
-      "summary": "黑客利用未做安全校验的应用，通过 SQL 注入获得 Oracle 数据库权限，植入恶意工具窃取 Windows 用户密码，传统杀毒软件对此类攻击检测能力不足。#网络安全#",
-      "source": "IT之家",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "刚刚，OpenAI最大预训练模型Doug曝光",
+      "summary": "8 月 9 日，长期关注 OpenAI 模型动向的 X 用户 ChrisGPT 爆料称，OpenAI 正在推进一个代号为 Doug 的新一轮大型预训练模型。按照他的说法，Doug 将是 OpenAI 迄今规模最大的一次预训练项目，而且它与 ...",
+      "source": "新浪科技",
       "sources": [
-        "IT之家"
+        "新浪科技"
       ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/987/538.htm",
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimswyt5709288.shtml",
       "sourceUrls": [
-        "https://www.ithome.com/0/987/538.htm"
+        "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimswyt5709288.shtml"
       ],
-      "publishedAt": "Sun, 09 Aug 2026 05:14:47 GMT",
+      "publishedAt": "2026-08-09",
       "date": "2026-08-09",
-      "category": "监管与安全",
-      "classificationConfidence": 0.71,
+      "category": "AI",
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "technology policy, AI governance, safety and standards",
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 161,
-      "reporterScore": 169,
+      "score": 163,
+      "reporterScore": 171,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 8,
+        "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
         "international": 0,
-        "policy": 12,
+        "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
         "interviewValue": 8,
@@ -2150,22 +2137,22 @@ window.CHENCHEN_DAILY_DATA = {
         "interview": true,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
+        "hardTechWeight": 95,
+        "reporterScore": 120
       },
       "isPrimarySource": false,
       "hasInterviewValue": true,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "live",
-      "angle": "Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “安全公司警告新型攻击方式：黑客利用甲骨文 Oracle 数据库作为系统攻击跳板” against primary-source evidence.",
+      "format": "package",
+      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，OpenAI最大预训练模型Doug曝光” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "监管与安全动态",
-      "rawText": "黑客利用未做安全校验的应用，通过 SQL 注入获得 Oracle 数据库权限，植入恶意工具窃取 Windows 用户密码，传统杀毒软件对此类攻击检测能力不足。#网络安全#",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "8 月 9 日，长期关注 OpenAI 模型动向的 X 用户 ChrisGPT 爆料称，OpenAI 正在推进一个代号为 Doug 的新一轮大型预训练模型。按照他的说法，Doug 将是 OpenAI 迄今规模最大的一次预训练项目，而且它与 ...",
       "relatedTitles": [
-        "安全公司警告新型攻击方式：黑客利用甲骨文 Oracle 数据库作为系统攻击跳板"
+        "刚刚，OpenAI最大预训练模型Doug曝光"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2233,7 +2220,75 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Meta CTO：AI 省下的时间，不是用来休假的"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "神舟二十三乘组“周报”上新：佩戴 VR 一体机开展行为学测试，机器人小航在轨“成长”",
+      "summary": "神舟二十三号乘组的新一期“周报”来啦！除了常规的超声检查和握力测试，航天员们还与机器人“小航”进行了互动实验，为未来优化在轨机器人行为提供数据。此外，太空跑台动力学研究也在同步进行中。#神舟二十三号# #中国空间站#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/987/539.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/987/539.htm"
+      ],
+      "publishedAt": "Sun, 09 Aug 2026 05:26:02 GMT",
+      "date": "2026-08-09",
+      "category": "机器人",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 166,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “神舟二十三乘组“周报”上新：佩戴 VR 一体机开展行为学测试，机器人小航在轨“成长”” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "神舟二十三号乘组的新一期“周报”来啦！除了常规的超声检查和握力测试，航天员们还与机器人“小航”进行了互动实验，为未来优化在轨机器人行为提供数据。此外，太空跑台动力学研究也在同步进行中。#神舟二十三号# #中国空间站#",
+      "relatedTitles": [
+        "神舟二十三乘组“周报”上新：佩戴 VR 一体机开展行为学测试，机器人小航在轨“成长”"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2301,7 +2356,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "星舰第 13 次试飞上面级溅落后保持完整，但马斯克称回收情况不乐观"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2369,7 +2424,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "国家统计局：人工智能推动消费电子产品迭代升级，需求增加、价格上涨，平板电脑、计算机和移动电话机分别上涨 11.3%、5.5% 和 1.0%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2437,7 +2492,75 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "丘成桐：民众对基础研究热忱空前高涨，期待更多女性勇敢追梦"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "安全公司警告新型攻击方式：黑客利用甲骨文 Oracle 数据库作为系统攻击跳板",
+      "summary": "黑客利用未做安全校验的应用，通过 SQL 注入获得 Oracle 数据库权限，植入恶意工具窃取 Windows 用户密码，传统杀毒软件对此类攻击检测能力不足。#网络安全#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/987/538.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/987/538.htm"
+      ],
+      "publishedAt": "Sun, 09 Aug 2026 05:14:47 GMT",
+      "date": "2026-08-09",
+      "category": "监管与安全",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "technology policy, AI governance, safety and standards",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 159,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 12,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "live",
+      "angle": "Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “安全公司警告新型攻击方式：黑客利用甲骨文 Oracle 数据库作为系统攻击跳板” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "监管与安全动态",
+      "rawText": "黑客利用未做安全校验的应用，通过 SQL 注入获得 Oracle 数据库权限，植入恶意工具窃取 Windows 用户密码，传统杀毒软件对此类攻击检测能力不足。#网络安全#",
+      "relatedTitles": [
+        "安全公司警告新型攻击方式：黑客利用甲骨文 Oracle 数据库作为系统攻击跳板"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2465,13 +2588,13 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 85,
       "keywords": "technology policy, AI governance, safety and standards",
       "priority": 5,
-      "score": 161,
-      "reporterScore": 169,
+      "score": 151,
+      "reporterScore": 159,
       "scoreBreakdown": {
         "hardTech": 85,
         "today": 18,
         "sourceAuthority": 8,
-        "multiSource": 22,
+        "multiSource": 12,
         "cgtFocus": 0,
         "visual": 0,
         "international": 0,
@@ -2506,74 +2629,6 @@ window.CHENCHEN_DAILY_DATA = {
         "模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "神舟二十三乘组“周报”上新：佩戴 VR 一体机开展行为学测试，机器人小航在轨“成长”",
-      "summary": "神舟二十三号乘组的新一期“周报”来啦！除了常规的超声检查和握力测试，航天员们还与机器人“小航”进行了互动实验，为未来优化在轨机器人行为提供数据。此外，太空跑台动力学研究也在同步进行中。#神舟二十三号# #中国空间站#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/987/539.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/987/539.htm"
-      ],
-      "publishedAt": "Sun, 09 Aug 2026 05:26:02 GMT",
-      "date": "2026-08-09",
-      "category": "机器人",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 4,
-      "score": 140,
-      "reporterScore": 154,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 0,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “神舟二十三乘组“周报”上新：佩戴 VR 一体机开展行为学测试，机器人小航在轨“成长”” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "机器人动态",
-      "rawText": "神舟二十三号乘组的新一期“周报”来啦！除了常规的超声检查和握力测试，航天员们还与机器人“小航”进行了互动实验，为未来优化在轨机器人行为提供数据。此外，太空跑台动力学研究也在同步进行中。#神舟二十三号# #中国空间站#",
-      "relatedTitles": [
-        "神舟二十三乘组“周报”上新：佩戴 VR 一体机开展行为学测试，机器人小航在轨“成长”"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2641,7 +2696,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "天玑 9500 新变体曝光，iQOO Neo 11 至尊版首发搭载"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2709,7 +2764,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "技嘉推出钛金雕 1600PG5 AI TOP 钛金电源：1600W 功率、搭全彩 LCD 屏"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2777,7 +2832,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "微软承认 Win11 需要提升运行速度、减少广告，部分修复已推送"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2845,7 +2900,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "67 岁农民大伯误信 AI 推荐除草剂，150 亩芝麻苗一夜枯萎"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2913,7 +2968,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "研究：人们无法有效区分 AI 生成与人类原创短篇小说"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2981,7 +3036,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "蔚来第4,000座换电站落成暨第五代换电站投入运营"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3049,7 +3104,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "活力中国调研行｜安徽首例半侵入式脑机接口康复案例：瘫痪半年后"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3117,7 +3172,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3185,7 +3240,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "小米汽车：澎程 N90 Max 四门可选智能电动门，支持开门杀预警和避障"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3213,13 +3268,13 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 85,
       "keywords": "technology policy, AI governance, safety and standards",
       "priority": 4,
-      "score": 126,
-      "reporterScore": 134,
+      "score": 116,
+      "reporterScore": 124,
       "scoreBreakdown": {
         "hardTech": 85,
         "today": 18,
         "sourceAuthority": 8,
-        "multiSource": 22,
+        "multiSource": 12,
         "cgtFocus": 0,
         "visual": 0,
         "international": 0,
@@ -3253,7 +3308,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "海备思推出墨水屏数显 NVMe 固态硬盘盒：配备超级电容技术、10Gbps 速率，首发价 219 元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3321,7 +3376,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "奕境 X9 鸿蒙座舱 HarmonySpace 6 全球首秀明日举行"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -4433,6 +4488,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
+      "summary": "Researchers scour social media to measure developer concerns about AI coding tools",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
+      "publishedAt": "Sat, 08 Aug 2026 15:00:00 +0200",
+      "date": "2026-08-08",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privac” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 160,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
       "summary": "Although no one captured a direct image of the impact, scientists have detected signals confirming the rocket hit the lunar surface. Orbiters could provide the first images of the ",
       "source": "WIRED Science",
@@ -4466,7 +4553,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "South Korean satellite spots SpaceX lunar impact",
-      "summary": "Are we human?",
+      "summary": "Before and after shots of Elon",
       "source": "The Register",
       "url": "https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741",
       "publishedAt": "Sat, 08 Aug 2026 11:46:00 +0200",
@@ -4494,38 +4581,6 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity",
-      "summary": "This special edition Nvidia GPU, designed to celebrate the Middle East, takes the idea of a showpiece PC accessory to an even more glamorous level.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/expensive-gold-plated-nvidia-gpu-004700155.html",
-      "publishedAt": "2026-08-09",
-      "date": "2026-08-09",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authen” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4575,38 +4630,6 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI says it slowed Astra model development over security concerns” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
-      "summary": "Are we human?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
-      "publishedAt": "Sat, 08 Aug 2026 15:00:00 +0200",
-      "date": "2026-08-08",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privac” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -4721,6 +4744,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity",
+      "summary": "This special edition Nvidia GPU, designed to celebrate the Middle East, takes the idea of a showpiece PC accessory to an even more glamorous level.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/expensive-gold-plated-nvidia-gpu-004700155.html",
+      "publishedAt": "2026-08-09",
+      "date": "2026-08-09",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authen” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
       "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
       "source": "CNBC Technology",
@@ -4816,8 +4871,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-09｜V3\n生成时间：2026/8/9 14:28:57\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2488｜确认今日 33｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 32 条｜国际 1 条\n延续跟踪线索：国内 1 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimssst8989240.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才” against primary-source evidence.\n\n2. [2026-08-09] 今年上半年人形机器人领域新设企业11.6万户\n   人民网-科技｜2026-08-09｜http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “今年上半年人形机器人领域新设企业11.6万户” against primary-source evidence.\n\n3. [2026-08-09] 刚刚，OpenAI最大预训练模型Doug曝光\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimswyt5709288.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，OpenAI最大预训练模型Doug曝光” against primary-source evidence.\n\n4. [2026-08-09] 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等” against primary-source evidence.\n\n5. [2026-08-09] 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛\n   科技日报｜2026-08-09｜https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “多项竞技比拼！第二届世界人形机器人运动会将于22日开赛” against primary-source evidence.\n\n本次新增线索：\n- 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimssst8989240.shtml\n- 今年上半年人形机器人领域新设企业11.6万户｜人民网-科技｜http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html\n- 刚刚，OpenAI最大预训练模型Doug曝光｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimswyt5709288.shtml\n- 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml\n- 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html\n- This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/expensive-gold-plated-nvidia-gpu-004700155.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（6 条，5 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n3. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n4. This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/expensive-gold-plated-nvidia-gpu-004700155.html\n5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-09｜V3\n生成时间：2026/8/9 14:28:57\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2488｜确认今日 33｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 32 条｜国际 1 条\n延续跟踪线索：国内 1 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimssst8989240.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才” against primary-source evidence.\n\n2. [2026-08-09] 今年上半年人形机器人领域新设企业11.6万户\n   人民网-科技｜2026-08-09｜http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “今年上半年人形机器人领域新设企业11.6万户” against primary-source evidence.\n\n3. [2026-08-09] 刚刚，OpenAI最大预训练模型Doug曝光\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimswyt5709288.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，OpenAI最大预训练模型Doug曝光” against primary-source evidence.\n\n4. [2026-08-09] 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等” against primary-source evidence.\n\n5. [2026-08-09] 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛\n   科技日报｜2026-08-09｜https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “多项竞技比拼！第二届世界人形机器人运动会将于22日开赛” against primary-source evidence.\n\n本次新增线索：\n- 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimssst8989240.shtml\n- 今年上半年人形机器人领域新设企业11.6万户｜人民网-科技｜http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html\n- 刚刚，OpenAI最大预训练模型Doug曝光｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimswyt5709288.shtml\n- 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml\n- 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html\n- This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/expensive-gold-plated-nvidia-gpu-004700155.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（6 条，5 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n3. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n4. This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/expensive-gold-plated-nvidia-gpu-004700155.html\n5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-09｜生成时间：2026/8/9 14:28:57｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2488｜确认今日 33｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 32 条｜国际 1 条<br>延续跟踪线索：国内 1 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-09] 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimssst8989240.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-09] 今年上半年人形机器人领域新设企业11.6万户</strong>\n      <span>人民网-科技｜2026-08-09｜<a href=\"http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：214｜一手来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “今年上半年人形机器人领域新设企业11.6万户” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-09] 刚刚，OpenAI最大预训练模型Doug曝光</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimswyt5709288.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，OpenAI最大预训练模型Doug曝光” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-09] 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-09] 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛</strong>\n      <span>科技日报｜2026-08-09｜<a href=\"https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：199｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “多项竞技比拼！第二届世界人形机器人运动会将于22日开赛” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else</strong>\n      <span>时间：Thu, 06 Aug 2026 16:23:04 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket</strong>\n      <span>时间：Sat, 08 Aug 2026 12:00:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Here Are the First Images of the Crater Left on the Moon by SpaceX’s Roc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. South Korean satellite spots SpaceX lunar impact</strong>\n      <span>时间：Sat, 08 Aug 2026 11:46:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “South Korean satellite spots SpaceX lunar impact” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity</strong>\n      <span>时间：2026-08-09｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/expensive-gold-plated-nvidia-gpu-004700155.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authen” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI acquires presentation startup NextSlide</strong>\n      <span>时间：Sat, 08 Aug 2026 19:41:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI acquires presentation startup NextSlide” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/9 14:28:57\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 32 条｜国际 1 条\n延续跟踪线索：国内 1 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimssst8989240.shtml\n   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才” against primary-source evidence.\n\n2. [2026-08-09] 今年上半年人形机器人领域新设企业11.6万户\n   来源：人民网-科技\n   链接：http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “今年上半年人形机器人领域新设企业11.6万户” against primary-source evidence.\n\n3. [2026-08-09] 刚刚，OpenAI最大预训练模型Doug曝光\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimswyt5709288.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，OpenAI最大预训练模型Doug曝光” against primary-source evidence.\n\n4. [2026-08-09] 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等” against primary-source evidence.\n\n5. [2026-08-09] 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “多项竞技比拼！第二届世界人形机器人运动会将于22日开赛” against primary-source evidence.\n\n本次新增线索：\n- 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimssst8989240.shtml\n- 今年上半年人形机器人领域新设企业11.6万户｜人民网-科技｜http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html\n- 刚刚，OpenAI最大预训练模型Doug曝光｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimswyt5709288.shtml\n- 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml\n- 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html\n- This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/expensive-gold-plated-nvidia-gpu-004700155.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（6 条，5 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n2. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n3. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n4. This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/expensive-gold-plated-nvidia-gpu-004700155.html\n5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-09｜V3\n生成时间：2026/8/9 14:57:52\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2554｜确认今日 35｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 32 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 今年上半年人形机器人领域新设企业11.6万户\n   人民网-科技｜2026-08-09｜http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “今年上半年人形机器人领域新设企业11.6万户” against primary-source evidence.\n\n2. [02:58] 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/511.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才” against primary-source evidence.\n\n3. [2026-08-09] 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等” against primary-source evidence.\n\n4. [2026-08-09] 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛\n   科技日报｜2026-08-09｜https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “多项竞技比拼！第二届世界人形机器人运动会将于22日开赛” against primary-source evidence.\n\n5. [2026-08-09] 美国人工智能模型为何屡屡“越界”\n   科技日报｜2026-08-09｜https://www.stdaily.com/web/gdxw/2026-08/09/content_561396.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国人工智能模型为何屡屡“越界”” against primary-source evidence.\n\n本次新增线索：\n- 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才｜IT之家｜https://www.ithome.com/0/987/511.htm\n- 顶级投行的肯定！高盛预测小米汽车2028年交付破100万辆｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimtchp8820179.shtml\n- 美加利福尼亚州推出1.35亿美元新能源汽车购车补贴政策｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr8941563.shtml\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（6 条，5 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n2. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n3. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n4. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-09｜V3\n生成时间：2026/8/9 14:57:52\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2554｜确认今日 35｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 32 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 今年上半年人形机器人领域新设企业11.6万户\n   人民网-科技｜2026-08-09｜http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “今年上半年人形机器人领域新设企业11.6万户” against primary-source evidence.\n\n2. [02:58] 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才\n   IT之家｜2026-08-09｜https://www.ithome.com/0/987/511.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才” against primary-source evidence.\n\n3. [2026-08-09] 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等\n   新浪科技｜2026-08-09｜https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等” against primary-source evidence.\n\n4. [2026-08-09] 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛\n   科技日报｜2026-08-09｜https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “多项竞技比拼！第二届世界人形机器人运动会将于22日开赛” against primary-source evidence.\n\n5. [2026-08-09] 美国人工智能模型为何屡屡“越界”\n   科技日报｜2026-08-09｜https://www.stdaily.com/web/gdxw/2026-08/09/content_561396.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国人工智能模型为何屡屡“越界”” against primary-source evidence.\n\n本次新增线索：\n- 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才｜IT之家｜https://www.ithome.com/0/987/511.htm\n- 顶级投行的肯定！高盛预测小米汽车2028年交付破100万辆｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimtchp8820179.shtml\n- 美加利福尼亚州推出1.35亿美元新能源汽车购车补贴政策｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr8941563.shtml\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（6 条，5 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n2. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n3. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n4. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-09｜生成时间：2026/8/9 14:57:52｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2554｜确认今日 35｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 32 条｜国际 13 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-09] 今年上半年人形机器人领域新设企业11.6万户</strong>\n      <span>人民网-科技｜2026-08-09｜<a href=\"http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：214｜一手来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “今年上半年人形机器人领域新设企业11.6万户” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [02:58] 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才</strong>\n      <span>IT之家｜2026-08-09｜<a href=\"https://www.ithome.com/0/987/511.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：196｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-09] 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等</strong>\n      <span>新浪科技｜2026-08-09｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-09] 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛</strong>\n      <span>科技日报｜2026-08-09｜<a href=\"https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：199｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “多项竞技比拼！第二届世界人形机器人运动会将于22日开赛” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-09] 美国人工智能模型为何屡屡“越界”</strong>\n      <span>科技日报｜2026-08-09｜<a href=\"https://www.stdaily.com/web/gdxw/2026-08/09/content_561396.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：190｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国人工智能模型为何屡屡“越界”” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else</strong>\n      <span>时间：Thu, 06 Aug 2026 16:23:04 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default</strong>\n      <span>时间：Sat, 08 Aug 2026 15:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privac” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket</strong>\n      <span>时间：Sat, 08 Aug 2026 12:00:00 +0000｜来源：WIRED Science｜<a href=\"https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Here Are the First Images of the Crater Left on the Moon by SpaceX’s Roc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. South Korean satellite spots SpaceX lunar impact</strong>\n      <span>时间：Sat, 08 Aug 2026 11:46:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “South Korean satellite spots SpaceX lunar impact” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI acquires presentation startup NextSlide</strong>\n      <span>时间：Sat, 08 Aug 2026 19:41:13 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI acquires presentation startup NextSlide” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/9 14:57:52\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 32 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-09] 今年上半年人形机器人领域新设企业11.6万户\n   来源：人民网-科技\n   链接：http://ent.people.com.cn/n1/2026/0809/c1012-40776283.html\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “今年上半年人形机器人领域新设企业11.6万户” against primary-source evidence.\n\n2. [02:58] 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才\n   来源：IT之家\n   链接：https://www.ithome.com/0/987/511.htm\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才” against primary-source evidence.\n\n3. [2026-08-09] 2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyt5686621.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等” against primary-source evidence.\n\n4. [2026-08-09] 多项竞技比拼！第二届世界人形机器人运动会将于22日开赛\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-08/09/content_561398.html\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “多项竞技比拼！第二届世界人形机器人运动会将于22日开赛” against primary-source evidence.\n\n5. [2026-08-09] 美国人工智能模型为何屡屡“越界”\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-08/09/content_561396.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国人工智能模型为何屡屡“越界”” against primary-source evidence.\n\n本次新增线索：\n- 消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才｜IT之家｜https://www.ithome.com/0/987/511.htm\n- 顶级投行的肯定！高盛预测小米汽车2028年交付破100万辆｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimtchp8820179.shtml\n- 美加利福尼亚州推出1.35亿美元新能源汽车购车补贴政策｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr8941563.shtml\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（6 条，5 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else｜WIRED Science｜https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/\n2. Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107\n3. Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket｜WIRED Science｜https://www.wired.com/story/first-images-spacex-rocket-moon-crater/\n4. South Korean satellite spots SpaceX lunar impact｜The Register｜https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741\n5. OpenAI acquires presentation startup NextSlide｜TechCrunch｜https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
