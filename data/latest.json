@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-08-10T23:46:19.706Z",
+  "generatedAt": "2026-08-10T23:53:50.416Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-11",
   "changeSummary": {
-    "domesticNew": 2,
-    "globalNew": 1,
-    "domesticContinued": 10,
-    "globalContinued": 6,
-    "topNewDomestic": [
-      {
-        "title": "财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml"
-      },
-      {
-        "title": "摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml"
-      }
-    ],
-    "topNewGlobal": [
-      {
-        "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
-      }
-    ],
+    "domesticNew": 0,
+    "globalNew": 0,
+    "domesticContinued": 12,
+    "globalContinued": 7,
+    "topNewDomestic": [],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
@@ -47,12 +30,32 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 26,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -60,8 +63,13 @@
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -72,9 +80,29 @@
   ],
   "failures": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -82,8 +110,13 @@
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -103,7 +136,7 @@
     {
       "name": "IT之家",
       "tier": "industry",
-      "parsed": 60,
+      "parsed": 59,
       "failed": false,
       "optional": false
     },
@@ -146,7 +179,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -194,8 +228,9 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -259,14 +294,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -287,8 +324,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -296,7 +334,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -343,13 +381,13 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1361,
+  "itemsSeen": 1287,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 300,
-  "itemsAfterDedupe": 221,
+  "itemsAfterRelevantFilter": 258,
+  "itemsAfterDedupe": 203,
   "todayItemsSeen": 12,
   "suspectedItemsSeen": 17,
-  "skippedNonToday": 191,
+  "skippedNonToday": 173,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -361,7 +399,7 @@
     {
       "name": "IT之家",
       "tier": "industry",
-      "parsed": 60,
+      "parsed": 59,
       "failed": false,
       "optional": false
     },
@@ -404,7 +442,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -452,8 +491,9 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -517,14 +557,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -545,8 +587,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -554,7 +597,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -755,9 +798,29 @@
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -765,8 +828,13 @@
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -796,7 +864,7 @@
   "globalSuccessSources": 18,
   "globalItemsSeen": 1222,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 102,
+  "globalItemsAfterRelevantFilter": 101,
   "topics": [
     {
       "topic": "科学前沿动态",
@@ -846,8 +914,8 @@
         "新浪科技"
       ],
       "items": [
-        "摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付",
         "OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相",
+        "摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付",
         "谷歌、OpenAI等巨头称AI实现每周4天工作制：员工实际更累了 要执行“9006”"
       ]
     },
@@ -941,7 +1009,7 @@
       "relatedTitles": [
         "财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1013,74 +1081,6 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付",
-      "summary": "快科技8月11日消息，据The Information报道，微软正加速推进自研AI芯片战略，计划明年大幅提升下一代芯片产量，目标直指Anthropic等头部云客户，推动其从内部验证走向外部商用。尽管首代Maia 200芯片当前采用率未及预期...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml"
-      ],
-      "publishedAt": "2026-08-11",
-      "date": "2026-08-11",
-      "category": "AI",
-      "classificationConfidence": 0.79,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "快科技8月11日消息，据The Information报道，微软正加速推进自研AI芯片战略，计划明年大幅提升下一代芯片产量，目标直指Anthropic等头部云客户，推动其从内部验证走向外部商用。尽管首代Maia 200芯片当前采用率未及预期...",
-      "relatedTitles": [
-        "摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相",
       "summary": "周一，OpenAI宣布扩展Daybreak专属网络安全计划，该计划5月首次推出。此次扩展为Daybreak Blue和Daybreak Red两个访问层级。正值多家AI开发商近期披露多起网络安全事件，促使加强防护呼声渐高。Daybreak Blue为用户提供先进通用模型特殊访问权，调整安全措施支持防御工作；Daybre",
       "source": "新浪科技",
@@ -1144,6 +1144,74 @@
       "rawText": "周一，OpenAI宣布扩展Daybreak专属网络安全计划，该计划5月首次推出。此次扩展为Daybreak Blue和Daybreak Red两个访问层级。正值多家AI开发商近期披露多起网络安全事件，促使加强防护呼声渐高。Daybreak Blue为用户提供先进通用模型特殊访问权，调整安全措施支持防御工作；Daybreak Red可利用专门训练的网络安全模型测试、研究漏洞。还推出GPT - 5.6 - Cyber模型供Daybreak Red用户使用。OpenAI建议多数组织从Daybreak Blue起步，且上周暂停Astra模型部分内部活动，评估能力并加强安全措施。 (AI生成)",
       "relatedTitles": [
         "OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付",
+      "summary": "快科技8月11日消息，据The Information报道，微软正加速推进自研AI芯片战略，计划明年大幅提升下一代芯片产量，目标直指Anthropic等头部云客户，推动其从内部验证走向外部商用。尽管首代Maia 200芯片当前采用率未及预期...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml"
+      ],
+      "publishedAt": "2026-08-11",
+      "date": "2026-08-11",
+      "category": "AI",
+      "classificationConfidence": 0.79,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技8月11日消息，据The Information报道，微软正加速推进自研AI芯片战略，计划明年大幅提升下一代芯片产量，目标直指Anthropic等头部云客户，推动其从内部验证走向外部商用。尽管首代Maia 200芯片当前采用率未及预期...",
+      "relatedTitles": [
+        "摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付"
       ],
       "isNewSinceLastRun": false
     },
@@ -2836,38 +2904,6 @@
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-      "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-      "publishedAt": "Sun, 09 Aug 2026 11:31:42 GMT",
-      "date": "2026-08-09",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anth” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
       "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
       "source": "TechCrunch",
@@ -2996,6 +3032,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+      "publishedAt": "Sun, 09 Aug 2026 11:31:42 GMT",
+      "date": "2026-08-09",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anth” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Intel plans $15 billion stock offering as AI demand accelerates",
       "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
       "source": "CNBC Technology",
@@ -3059,8 +3127,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-11｜V3\n生成时间：2026/8/11 07:46:19\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2583｜确认今日 12｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 10 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.\n\n2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.\n\n3. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.\n\n4. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.\n\n5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.\n\n本次新增线索：\n- 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n- 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n- How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\n3. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n4. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\n5. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-11｜V3\n生成时间：2026/8/11 07:46:19\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2583｜确认今日 12｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 10 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.\n\n2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.\n\n3. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.\n\n4. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.\n\n5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.\n\n本次新增线索：\n- 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n- 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n- How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\n3. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n4. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\n5. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-11｜生成时间：2026/8/11 07:46:19｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2583｜确认今日 12｜国际背景 7</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 1 条<br>延续跟踪线索：国内 10 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta</strong>\n      <span>时间：Sun, 09 Aug 2026 11:31:42 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anth” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI</strong>\n      <span>时间：Mon, 10 Aug 2026 20:53:02 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. These AI Barons Are Ready to Give Away Their Fortunes</strong>\n      <span>时间：Sun, 09 Aug 2026 09:30:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “These AI Barons Are Ready to Give Away Their Fortunes” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’</strong>\n      <span>时间：Mon, 10 Aug 2026 22:09:00 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’</strong>\n      <span>时间：Mon, 10 Aug 2026 14:06:08 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “House Dems call for AI companies to testify on recent hacks: ‘Clear risk” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/11 07:46:19\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 10 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.\n\n2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.\n\n3. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.\n\n4. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.\n\n5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.\n\n本次新增线索：\n- 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n- 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n- How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\n3. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n4. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\n5. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-11｜V3\n生成时间：2026/8/11 07:53:50\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2509｜确认今日 12｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 7 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.\n\n2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.\n\n3. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.\n\n4. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.\n\n5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\n2. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n3. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\n4. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html\n5. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-11｜V3\n生成时间：2026/8/11 07:53:50\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2509｜确认今日 12｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 7 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.\n\n2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.\n\n3. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.\n\n4. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.\n\n5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\n2. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n3. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\n4. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html\n5. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-11｜生成时间：2026/8/11 07:53:50｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2509｜确认今日 12｜国际背景 7</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 0 条<br>延续跟踪线索：国内 12 条｜国际 7 条<br>本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI</strong>\n      <span>时间：Mon, 10 Aug 2026 20:53:02 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. These AI Barons Are Ready to Give Away Their Fortunes</strong>\n      <span>时间：Sun, 09 Aug 2026 09:30:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “These AI Barons Are Ready to Give Away Their Fortunes” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’</strong>\n      <span>时间：Mon, 10 Aug 2026 22:09:00 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’</strong>\n      <span>时间：Mon, 10 Aug 2026 14:06:08 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “House Dems call for AI companies to testify on recent hacks: ‘Clear risk” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta</strong>\n      <span>时间：Sun, 09 Aug 2026 11:31:42 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anth” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/11 07:53:50\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 7 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.\n\n2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.\n\n3. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.\n\n4. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.\n\n5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\n2. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n3. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\n4. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html\n5. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
