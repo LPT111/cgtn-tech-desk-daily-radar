@@ -3,63 +3,60 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/11 07:20:59
+生成时间：2026/8/11 07:46:19
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 11 条｜国际 6 条
-延续跟踪线索：国内 0 条｜国际 1 条
+新增核心线索：国内 2 条｜国际 1 条
+延续跟踪线索：国内 10 条｜国际 6 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅
+1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.
+
+2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.
 
-2. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相
+3. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.
+
+4. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相
    来源：新浪科技
    链接：https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml
    角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.
 
-3. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装
+5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml
    角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.
 
-4. [2026-08-11] 我国发现首个稀散金属独立新矿物乌斯河锗矿
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwisx1027155.shtml
-   角度：Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “我国发现首个稀散金属独立新矿物乌斯河锗矿” against primary-source evidence.
-
-5. [2026-08-11] 我国科学家首次揭示冰室气候下极热事件完整图景
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L41JKI7A0534A4SC.html
-   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “我国科学家首次揭示冰室气候下极热事件完整图景” against primary-source evidence.
-
 本次新增线索：
-- 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml
-- OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相｜新浪科技｜https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml
-- 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml
-- 我国发现首个稀散金属独立新矿物乌斯河锗矿｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwisx1027155.shtml
-- 我国科学家首次揭示冰室气候下极热事件完整图景｜网易科技｜https://www.163.com/dy/article/L41JKI7A0534A4SC.html
-- Meta pushes global AI vision amid race with OpenAI, Anthropic and China｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-ai-model-zuckerberg-142513459.html
+- 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml
+- 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml
+- How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（2 条，1 个来源）
+- AI 应用：AI 应用与智能体（3 条，1 个来源）
 - 芯片/半导体：
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）
 - 太空与低空经济：
 - 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
-1. Meta pushes global AI vision amid race with OpenAI, Anthropic and China｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-ai-model-zuckerberg-142513459.html
+1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html
 2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/
-3. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html
-4. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html
-5. Intel plans $15 billion stock offering as AI demand accelerates｜CNBC Technology｜https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html
+3. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/
+4. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html
+5. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。

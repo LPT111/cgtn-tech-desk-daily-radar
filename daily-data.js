@@ -1,64 +1,29 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-10T23:20:59.099Z",
+  "generatedAt": "2026-08-10T23:46:19.706Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-11",
   "changeSummary": {
-    "domesticNew": 11,
-    "globalNew": 6,
-    "domesticContinued": 0,
-    "globalContinued": 1,
+    "domesticNew": 2,
+    "globalNew": 1,
+    "domesticContinued": 10,
+    "globalContinued": 6,
     "topNewDomestic": [
       {
-        "title": "美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅",
+        "title": "财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml"
+        "url": "https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml"
       },
       {
-        "title": "OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相",
+        "title": "摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml"
-      },
-      {
-        "title": "郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml"
-      },
-      {
-        "title": "我国发现首个稀散金属独立新矿物乌斯河锗矿",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwisx1027155.shtml"
-      },
-      {
-        "title": "我国科学家首次揭示冰室气候下极热事件完整图景",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L41JKI7A0534A4SC.html"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Meta pushes global AI vision amid race with OpenAI, Anthropic and China",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-ai-model-zuckerberg-142513459.html"
-      },
-      {
-        "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
-      },
-      {
-        "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
+        "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
         "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html"
-      },
-      {
-        "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html"
-      },
-      {
-        "title": "Intel plans $15 billion stock offering as AI demand accelerates",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html"
+        "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
       }
     ],
     "hasPrevious": true
@@ -67,7 +32,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 889,
+    "domesticRejected": 888,
     "globalRejected": 893,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,27 +47,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 27,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -110,13 +60,8 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -127,24 +72,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -152,13 +82,8 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -171,7 +96,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 173,
+      "parsed": 174,
       "failed": false,
       "optional": false
     },
@@ -221,8 +146,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -270,9 +194,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -336,8 +259,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -365,9 +287,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -375,7 +296,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -422,18 +343,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1287,
+  "itemsSeen": 1361,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 263,
-  "itemsAfterDedupe": 208,
-  "todayItemsSeen": 11,
-  "suspectedItemsSeen": 18,
-  "skippedNonToday": 177,
+  "itemsAfterRelevantFilter": 300,
+  "itemsAfterDedupe": 221,
+  "todayItemsSeen": 12,
+  "suspectedItemsSeen": 17,
+  "skippedNonToday": 191,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 173,
+      "parsed": 174,
       "failed": false,
       "optional": false
     },
@@ -483,8 +404,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -532,9 +452,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -598,8 +517,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -627,9 +545,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -637,7 +554,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -838,24 +755,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -863,13 +765,8 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -902,21 +799,6 @@ window.CHENCHEN_DAILY_DATA = {
   "globalItemsAfterRelevantFilter": 102,
   "topics": [
     {
-      "topic": "新能源车动态",
-      "count": 3,
-      "sourceCount": 3,
-      "sources": [
-        "新浪科技",
-        "IT之家",
-        "网易科技"
-      ],
-      "items": [
-        "销量暴跌55%！5万元以下小车卖不动了：微型车受众对价格敏感、品牌忠诚度低",
-        "Stellantis 新专利：可折叠“皮卡式”尾门，让轿车也能拉大件",
-        "上海、宜兴国资联手，投了一家固态电池材料企业"
-      ]
-    },
-    {
       "topic": "科学前沿动态",
       "count": 3,
       "sourceCount": 2,
@@ -944,15 +826,40 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "AI 应用与智能体",
+      "topic": "新能源车动态",
       "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
+        "网易科技"
+      ],
+      "items": [
+        "Stellantis 新专利：可折叠“皮卡式”尾门，让轿车也能拉大件",
+        "上海、宜兴国资联手，投了一家固态电池材料企业"
+      ]
+    },
+    {
+      "topic": "AI 应用与智能体",
+      "count": 3,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
+        "摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付",
         "OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相",
         "谷歌、OpenAI等巨头称AI实现每周4天工作制：员工实际更累了 要执行“9006”"
+      ]
+    },
+    {
+      "topic": "人形机器人与具身智能",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日"
       ]
     },
     {
@@ -968,6 +875,74 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日",
+      "summary": "全球汇率新浪最全炒汇神器。8月9日，美伊局势有新动态，特朗普称“低调处理”伊朗问题，倾向经济施压；伊朗公布美军基地遭袭前后卫星对比图，高层有人事变动，总统与最高领袖会面。同日，日本长崎核爆纪念活动上高市早苗谈“无核三原则”仍模糊。拜登之子称其癌症扩散。国家统计局数据显示7月CPI温和上涨、PPI同比涨幅回落。北京“10",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml"
+      ],
+      "publishedAt": "2026-08-11",
+      "date": "2026-08-11",
+      "category": "太空与低空",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 187,
+      "reporterScore": 209,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 133
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "全球汇率新浪最全炒汇神器。8月9日，美伊局势有新动态，特朗普称“低调处理”伊朗问题，倾向经济施压；伊朗公布美军基地遭袭前后卫星对比图，高层有人事变动，总统与最高领袖会面。同日，日本长崎核爆纪念活动上高市早苗谈“无核三原则”仍模糊。拜登之子称其癌症扩散。国家统计局数据显示7月CPI温和上涨、PPI同比涨幅回落。北京“10万+”豪宅入市。宇树科技8月10日申购，中一签或赚20万。苹果测试长鑫科技芯片。胖东来将关24年老店。多家公司发布业绩、回购等公告，今日宇树科技等新股申购。 (AI生成)--新浪财经领先金融信息服务平台",
+      "relatedTitles": [
+        "财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅",
@@ -1033,6 +1008,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "IT之家 8 月 11 日消息，海外点评平台 Yelp 与 ChatGPT 宣布达成进一步内容合作，美国和加拿大的 ChatGPT 用户如今可以直接在聊天过程中通过 Yelp 完成餐厅预订（Yelp Reservations）和加入餐厅预订...",
       "relatedTitles": [
         "美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付",
+      "summary": "快科技8月11日消息，据The Information报道，微软正加速推进自研AI芯片战略，计划明年大幅提升下一代芯片产量，目标直指Anthropic等头部云客户，推动其从内部验证走向外部商用。尽管首代Maia 200芯片当前采用率未及预期...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml"
+      ],
+      "publishedAt": "2026-08-11",
+      "date": "2026-08-11",
+      "category": "AI",
+      "classificationConfidence": 0.79,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技8月11日消息，据The Information报道，微软正加速推进自研AI芯片战略，计划明年大幅提升下一代芯片产量，目标直指Anthropic等头部云客户，推动其从内部验证走向外部商用。尽管首代Maia 200芯片当前采用率未及预期...",
+      "relatedTitles": [
+        "摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付"
       ],
       "isNewSinceLastRun": true
     },
@@ -1102,7 +1145,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1170,7 +1213,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1238,7 +1281,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "我国发现首个稀散金属独立新矿物乌斯河锗矿"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1306,75 +1349,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "我国科学家首次揭示冰室气候下极热事件完整图景"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "销量暴跌55%！5万元以下小车卖不动了：微型车受众对价格敏感、品牌忠诚度低",
-      "summary": "8月10日，在国内车市整体遇冷背景下，微型车与高端车市场呈现“冰火两重天”格局。上半年40万元以上车型销量同比增长1%，其中新能源车型涨幅达46%；而5万元以下车型销量跌幅达55%。微型电动车主力车型销量大幅下滑。分析指出，微型车受众对价格...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwisz7868222.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwisz7868222.shtml"
-      ],
-      "publishedAt": "2026-08-11",
-      "date": "2026-08-11",
-      "category": "新能源车",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 157,
-      "reporterScore": 157,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “销量暴跌55%！5万元以下小车卖不动了：微型车受众对价格敏感、品牌忠诚度低” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "8月10日，在国内车市整体遇冷背景下，微型车与高端车市场呈现“冰火两重天”格局。上半年40万元以上车型销量同比增长1%，其中新能源车型涨幅达46%；而5万元以下车型销量跌幅达55%。微型电动车主力车型销量大幅下滑。分析指出，微型车受众对价格...",
-      "relatedTitles": [
-        "销量暴跌55%！5万元以下小车卖不动了：微型车受众对价格敏感、品牌忠诚度低"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1442,7 +1417,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Stellantis 新专利：可折叠“皮卡式”尾门，让轿车也能拉大件"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1510,7 +1485,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌、OpenAI等巨头称AI实现每周4天工作制：员工实际更累了 要执行“9006”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1578,7 +1553,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英伟达与黑石、高盛等六家华尔街巨头合作，筹划"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1646,7 +1621,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "验证达尔文150年前猜想 食虫植物添新成员"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1714,7 +1689,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "上海、宜兴国资联手，投了一家固态电池材料企业"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2657,73 +2632,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "墨芯人工智能",
-      "summary": "量子位 20小时前 墨芯人工智能 <img width=\"242\" heigh",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/%e5%a2%a8%e8%8a%af%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/%e5%a2%a8%e8%8a%af%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.98,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 133,
-      "reporterScore": 133,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “墨芯人工智能” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "量子位 20小时前 墨芯人工智能 <img width=\"242\" heigh",
-      "relatedTitles": [
-        "墨芯人工智能"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "“985”博导不如初中辍学的张雪？",
       "summary": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻",
@@ -2928,34 +2836,34 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Meta pushes global AI vision amid race with OpenAI, Anthropic and China",
-      "summary": "Meta boss Mark Zuckerberg laid out a vision for how the United States and the social media giant could win a global race to dominate AI amid fierce competition from China.\"Given ho",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-ai-model-zuckerberg-142513459.html",
-      "publishedAt": "2026-08-11",
-      "date": "2026-08-11",
+      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+      "publishedAt": "Sun, 09 Aug 2026 11:31:42 GMT",
+      "date": "2026-08-09",
       "region": "US",
       "category": "AI",
       "classificationConfidence": 0.99,
       "hardTechPriority": 95,
-      "globalWhitelistScore": 85,
+      "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Meta pushes global AI vision amid race with OpenAI, Anthropic and China” against primary-source evidence.",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anth” against primary-source evidence.",
       "priority": 5,
-      "score": 158,
-      "reporterScore": 166,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": true,
+        "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 120
+        "reporterScore": 95
       },
-      "status": "confirmed_today",
+      "status": "recent_48h",
       "isNewSinceLastRun": true
     },
     {
@@ -2988,135 +2896,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
-      "summary": "Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
-      "publishedAt": "Mon, 10 Aug 2026 22:09:00 GMT",
-      "date": "2026-08-10",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
-      "summary": "A group of House Democrats is calling on leaders of Anthropic, OpenAI and other AI companies to testify in Congress about recent hacking incidents.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
-      "publishedAt": "Mon, 10 Aug 2026 14:06:08 GMT",
-      "date": "2026-08-10",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “House Dems call for AI companies to testify on recent hacks: ‘Clear risk” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Intel plans $15 billion stock offering as AI demand accelerates",
-      "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
-      "publishedAt": "Mon, 10 Aug 2026 20:01:00 GMT",
-      "date": "2026-08-10",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.65,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Intel plans $15 billion stock offering as AI demand accelerates” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "AI for science needs reasoning, not just data",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been disco",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "publishedAt": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "date": "2026-08-10",
-      "region": "US",
-      "category": "科学前沿",
-      "classificationConfidence": 0.82,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 70,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “AI for science needs reasoning, not just data” against primary-source evidence.",
-      "priority": 4,
-      "score": 137,
-      "reporterScore": 137,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3149,10 +2929,138 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
+      "summary": "Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+      "publishedAt": "Mon, 10 Aug 2026 22:09:00 GMT",
+      "date": "2026-08-10",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
+      "summary": "A group of House Democrats is calling on leaders of Anthropic, OpenAI and other AI companies to testify in Congress about recent hacking incidents.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
+      "publishedAt": "Mon, 10 Aug 2026 14:06:08 GMT",
+      "date": "2026-08-10",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “House Dems call for AI companies to testify on recent hacks: ‘Clear risk” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Intel plans $15 billion stock offering as AI demand accelerates",
+      "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+      "publishedAt": "Mon, 10 Aug 2026 20:01:00 GMT",
+      "date": "2026-08-10",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.65,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Intel plans $15 billion stock offering as AI demand accelerates” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "AI for science needs reasoning, not just data",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been disco",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "publishedAt": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "date": "2026-08-10",
+      "region": "US",
+      "category": "科学前沿",
+      "classificationConfidence": 0.82,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 70,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “AI for science needs reasoning, not just data” against primary-source evidence.",
+      "priority": 4,
+      "score": 137,
+      "reporterScore": 137,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-11｜V3\n生成时间：2026/8/11 07:20:59\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2509｜确认今日 11｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.\n\n2. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.\n\n3. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.\n\n4. [2026-08-11] 我国发现首个稀散金属独立新矿物乌斯河锗矿\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwisx1027155.shtml\n   报道角度：Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “我国发现首个稀散金属独立新矿物乌斯河锗矿” against primary-source evidence.\n\n5. [2026-08-11] 我国科学家首次揭示冰室气候下极热事件完整图景\n   网易科技｜2026-08-11｜https://www.163.com/dy/article/L41JKI7A0534A4SC.html\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “我国科学家首次揭示冰室气候下极热事件完整图景” against primary-source evidence.\n\n本次新增线索：\n- 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n- OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相｜新浪科技｜https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n- 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n- 我国发现首个稀散金属独立新矿物乌斯河锗矿｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwisx1027155.shtml\n- 我国科学家首次揭示冰室气候下极热事件完整图景｜网易科技｜https://www.163.com/dy/article/L41JKI7A0534A4SC.html\n- Meta pushes global AI vision amid race with OpenAI, Anthropic and China｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-ai-model-zuckerberg-142513459.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Meta pushes global AI vision amid race with OpenAI, Anthropic and China｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-ai-model-zuckerberg-142513459.html\n2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\n3. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\n4. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html\n5. Intel plans $15 billion stock offering as AI demand accelerates｜CNBC Technology｜https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-11｜V3\n生成时间：2026/8/11 07:20:59\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2509｜确认今日 11｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.\n\n2. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.\n\n3. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.\n\n4. [2026-08-11] 我国发现首个稀散金属独立新矿物乌斯河锗矿\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwisx1027155.shtml\n   报道角度：Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “我国发现首个稀散金属独立新矿物乌斯河锗矿” against primary-source evidence.\n\n5. [2026-08-11] 我国科学家首次揭示冰室气候下极热事件完整图景\n   网易科技｜2026-08-11｜https://www.163.com/dy/article/L41JKI7A0534A4SC.html\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “我国科学家首次揭示冰室气候下极热事件完整图景” against primary-source evidence.\n\n本次新增线索：\n- 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n- OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相｜新浪科技｜https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n- 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n- 我国发现首个稀散金属独立新矿物乌斯河锗矿｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwisx1027155.shtml\n- 我国科学家首次揭示冰室气候下极热事件完整图景｜网易科技｜https://www.163.com/dy/article/L41JKI7A0534A4SC.html\n- Meta pushes global AI vision amid race with OpenAI, Anthropic and China｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-ai-model-zuckerberg-142513459.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Meta pushes global AI vision amid race with OpenAI, Anthropic and China｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-ai-model-zuckerberg-142513459.html\n2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\n3. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\n4. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html\n5. Intel plans $15 billion stock offering as AI demand accelerates｜CNBC Technology｜https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-11｜生成时间：2026/8/11 07:20:59｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2509｜确认今日 11｜国际背景 7</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 11 条｜国际 6 条<br>延续跟踪线索：国内 0 条｜国际 1 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-11] 我国发现首个稀散金属独立新矿物乌斯河锗矿</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwisx1027155.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：162｜需核验来源</span>\n      <p>报道角度：Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “我国发现首个稀散金属独立新矿物乌斯河锗矿” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-11] 我国科学家首次揭示冰室气候下极热事件完整图景</strong>\n      <span>网易科技｜2026-08-11｜<a href=\"https://www.163.com/dy/article/L41JKI7A0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：161｜需核验来源</span>\n      <p>报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “我国科学家首次揭示冰室气候下极热事件完整图景” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Meta pushes global AI vision amid race with OpenAI, Anthropic and China</strong>\n      <span>时间：2026-08-11｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-ai-model-zuckerberg-142513459.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Meta pushes global AI vision amid race with OpenAI, Anthropic and China” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI</strong>\n      <span>时间：Mon, 10 Aug 2026 20:53:02 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’</strong>\n      <span>时间：Mon, 10 Aug 2026 22:09:00 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’</strong>\n      <span>时间：Mon, 10 Aug 2026 14:06:08 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “House Dems call for AI companies to testify on recent hacks: ‘Clear risk” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Intel plans $15 billion stock offering as AI demand accelerates</strong>\n      <span>时间：Mon, 10 Aug 2026 20:01:00 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Intel plans $15 billion stock offering as AI demand accelerates” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/11 07:20:59\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 11 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.\n\n2. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.\n\n3. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.\n\n4. [2026-08-11] 我国发现首个稀散金属独立新矿物乌斯河锗矿\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwisx1027155.shtml\n   角度：Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “我国发现首个稀散金属独立新矿物乌斯河锗矿” against primary-source evidence.\n\n5. [2026-08-11] 我国科学家首次揭示冰室气候下极热事件完整图景\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L41JKI7A0534A4SC.html\n   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “我国科学家首次揭示冰室气候下极热事件完整图景” against primary-source evidence.\n\n本次新增线索：\n- 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n- OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相｜新浪科技｜https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n- 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n- 我国发现首个稀散金属独立新矿物乌斯河锗矿｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwisx1027155.shtml\n- 我国科学家首次揭示冰室气候下极热事件完整图景｜网易科技｜https://www.163.com/dy/article/L41JKI7A0534A4SC.html\n- Meta pushes global AI vision amid race with OpenAI, Anthropic and China｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-ai-model-zuckerberg-142513459.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. Meta pushes global AI vision amid race with OpenAI, Anthropic and China｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-ai-model-zuckerberg-142513459.html\n2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\n3. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\n4. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html\n5. Intel plans $15 billion stock offering as AI demand accelerates｜CNBC Technology｜https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-11｜V3\n生成时间：2026/8/11 07:46:19\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2583｜确认今日 12｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 10 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.\n\n2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.\n\n3. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.\n\n4. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.\n\n5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.\n\n本次新增线索：\n- 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n- 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n- How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\n3. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n4. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\n5. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-11｜V3\n生成时间：2026/8/11 07:46:19\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2583｜确认今日 12｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 10 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.\n\n2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.\n\n3. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.\n\n4. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.\n\n5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装\n   新浪科技｜2026-08-11｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.\n\n本次新增线索：\n- 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n- 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n- How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\n3. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n4. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\n5. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-11｜生成时间：2026/8/11 07:46:19｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2583｜确认今日 12｜国际背景 7</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 1 条<br>延续跟踪线索：国内 10 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装</strong>\n      <span>新浪科技｜2026-08-11｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta</strong>\n      <span>时间：Sun, 09 Aug 2026 11:31:42 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anth” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI</strong>\n      <span>时间：Mon, 10 Aug 2026 20:53:02 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. These AI Barons Are Ready to Give Away Their Fortunes</strong>\n      <span>时间：Sun, 09 Aug 2026 09:30:00 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “These AI Barons Are Ready to Give Away Their Fortunes” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’</strong>\n      <span>时间：Mon, 10 Aug 2026 22:09:00 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’</strong>\n      <span>时间：Mon, 10 Aug 2026 14:06:08 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “House Dems call for AI companies to testify on recent hacks: ‘Clear risk” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/11 07:46:19\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 10 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-11] 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日” against primary-source evidence.\n\n2. [2026-08-11] 美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwuhy6009964.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅” against primary-source evidence.\n\n3. [2026-08-11] 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付” against primary-source evidence.\n\n4. [2026-08-11] OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相” against primary-source evidence.\n\n5. [2026-08-11] 郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0854081.shtml\n   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “郭明錤否认台积电积压苹果芯片：不存在10亿美元A20 Pro等待封装” against primary-source evidence.\n\n本次新增线索：\n- 财经早报：特朗普称美军已“100%控制”霍尔木兹海峡，中星4B卫星发射失利原因正在排查丨2026年8月11日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-08-11/doc-inimwuhx4502646.shtml\n- 摆脱外部芯片依赖！微软MAIA 300最快9月亮相 预计2027年交付｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimwuht0864043.shtml\n- How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta｜CNBC Technology｜https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\n2. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/\n3. These AI Barons Are Ready to Give Away Their Fortunes｜WIRED Business｜https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\n4. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html\n5. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’｜CNBC Technology｜https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
