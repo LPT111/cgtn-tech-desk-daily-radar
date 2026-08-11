@@ -1,73 +1,47 @@
 {
-  "generatedAt": "2026-08-11T23:25:23.292Z",
+  "generatedAt": "2026-08-11T23:52:38.403Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-12",
   "changeSummary": {
-    "domesticNew": 16,
-    "globalNew": 9,
-    "domesticContinued": 0,
-    "globalContinued": 3,
+    "domesticNew": 6,
+    "globalNew": 0,
+    "domesticContinued": 12,
+    "globalContinued": 12,
     "topNewDomestic": [
       {
-        "title": "AI模型揭示人类如何阅读",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml"
-      },
-      {
-        "title": "Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimysxx7186184.shtml"
-      },
-      {
-        "title": "巨型卫星星座产生的碎片可能危及自身运行",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773675.shtml"
-      },
-      {
-        "title": "上半年智元超越宇树科技登顶人形机器人出货榜首",
+        "title": "华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L445UE1N0512B07B.html"
+        "url": "https://www.163.com/dy/article/L447LJDF0512B07B.html"
       },
       {
-        "title": "以后让Claude写的东西 可能要小心留暗底了",
+        "title": "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-08-12/doc-inimzcpt7001063.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpw5414167.shtml"
+      },
+      {
+        "title": "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpv3792198.shtml"
+      },
+      {
+        "title": "男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpt7016072.shtml"
+      },
+      {
+        "title": "OpenAI 推出预览版 ChatGPT for Linux 桌面端应用",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/988/562.htm"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html"
-      },
-      {
-        "title": "OpenAI launches ChatGPT desktop app for Linux",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
-      },
-      {
-        "title": "French newspapers appeal to antitrust regulator over Google's AI summaries",
-        "source": "France24 Technology",
-        "url": "https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries"
-      },
-      {
-        "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
-      },
-      {
-        "title": "Hey, big spender – OpenAI has a new SKU just for you",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 884,
+    "domesticRejected": 882,
     "globalRejected": 888,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,8 +56,13 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 30,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -106,6 +85,11 @@
     }
   ],
   "failures": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -181,7 +165,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -380,11 +365,11 @@
   ],
   "itemsSeen": 1365,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 294,
-  "itemsAfterDedupe": 230,
-  "todayItemsSeen": 16,
+  "itemsAfterRelevantFilter": 293,
+  "itemsAfterDedupe": 227,
+  "todayItemsSeen": 18,
   "suspectedItemsSeen": 20,
-  "skippedNonToday": 194,
+  "skippedNonToday": 189,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -439,7 +424,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -790,6 +776,11 @@
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -835,19 +826,19 @@
   "topics": [
     {
       "topic": "AI 应用与智能体",
-      "count": 7,
+      "count": 8,
       "sourceCount": 3,
       "sources": [
         "新浪科技",
-        "IT之家",
-        "网易科技"
+        "网易科技",
+        "IT之家"
       ],
       "items": [
-        "以后让Claude写的东西 可能要小心留暗底了",
         "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs",
+        "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献",
+        "以后让Claude写的东西 可能要小心留暗底了",
         "南开大学与字节跳动共建数学与智能联合实验室",
-        "Auto-Research「终极大考」：新基准撕下大模型科研伪装",
-        "OpenAI高管Brad Lightcap将离职 开启“新项目”"
+        "Auto-Research「终极大考」：新基准撕下大模型科研伪装"
       ]
     },
     {
@@ -860,9 +851,22 @@
       ],
       "items": [
         "AI模型揭示人类如何阅读",
-        "Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%",
-        "集齐「旗舰平台 + AI 独显 + 185Hz 高刷」三大件，REDMI K100 Pro 系列发布",
+        "华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年",
+        "男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名",
         "AI算力供应商CoreWeave上调全年营收展望为124亿至132亿美元"
+      ]
+    },
+    {
+      "topic": "科学前沿动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "科技日报",
+        "新浪科技"
+      ],
+      "items": [
+        "愿将一生献宏谋——纪念“共和国勋章”获得者、中国科学院院士于敏诞辰100周年",
+        "科学家首次种出带有肉味的菜：但你可能还尝不出来"
       ]
     },
     {
@@ -896,17 +900,6 @@
       ],
       "items": [
         "科研团队破解超导量子计算“速度与保真度”矛盾"
-      ]
-    },
-    {
-      "topic": "科学前沿动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "科学家首次种出带有肉味的菜：但你可能还尝不出来"
       ]
     },
     {
@@ -988,20 +981,88 @@
       "relatedTitles": [
         "AI模型揭示人类如何阅读"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年",
+      "summary": "华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年,华泰证券,机器人行业,人工智能产业",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L447LJDF0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L447LJDF0512B07B.html"
+      ],
+      "publishedAt": "2026-08-12",
+      "date": "2026-08-12",
+      "category": "AI",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 175,
+      "reporterScore": 181,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年,华泰证券,机器人行业,人工智能产业",
+      "relatedTitles": [
+        "华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年"
+      ],
       "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%",
-      "summary": "据Gartner称，到 2026 年，全球在人工智能方面的支出预计将达到 2.59 万亿美元，同比增长 47%。Gartner的资深副总裁分析师John-David Lovelock表示：“在未来几年，对算力的需求将推动人工智能基础设施的发...",
+      "title": "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs",
+      "summary": "IT之家 8 月 12 日消息，林俊旸（yáng）今日宣布，他在上海创办了一家新公司 Pragmatik Labs（语用科技），简称 p7k。新公司的研究方向为横跨数字世界和物理世界的下一代智能体（Agent）。公开资料显示，出生于 199...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimysxx7186184.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpw5414167.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimysxx7186184.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpw5414167.shtml"
       ],
       "publishedAt": "2026-08-12",
       "date": "2026-08-12",
@@ -1016,14 +1077,14 @@
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 176,
-      "reporterScore": 184,
+      "score": 164,
+      "reporterScore": 172,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
         "visual": 0,
         "international": 9,
         "policy": 0,
@@ -1049,12 +1110,148 @@
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%” against primary-source evidence.",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "IT之家 8 月 12 日消息，林俊旸（yáng）今日宣布，他在上海创办了一家新公司 Pragmatik Labs（语用科技），简称 p7k。新公司的研究方向为横跨数字世界和物理世界的下一代智能体（Agent）。公开资料显示，出生于 199...",
+      "relatedTitles": [
+        "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献",
+      "summary": "IT之家 8 月 12 日消息，OpenAI 高级主管布拉德 · 莱特卡普（Brad Lightcap）今天（8 月 12 日）在 X 平台发布推文，宣布将离职创业。IT之家查询公开资料，莱特卡普此前和 OpenAI 现任首席执行官萨姆 ·...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpv3792198.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpv3792198.shtml"
+      ],
+      "publishedAt": "2026-08-12",
+      "date": "2026-08-12",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "IT之家 8 月 12 日消息，OpenAI 高级主管布拉德 · 莱特卡普（Brad Lightcap）今天（8 月 12 日）在 X 平台发布推文，宣布将离职创业。IT之家查询公开资料，莱特卡普此前和 OpenAI 现任首席执行官萨姆 ·...",
+      "relatedTitles": [
+        "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名",
+      "summary": "快科技8月12日消息，澳大利亚一名男子安德鲁·伯德为抢到热门早间健身课，部署AI智能代理帮忙排队预约，没想到AI为完成任务擅自攻破预约系统漏洞，竟然私自取消首位用户的预约名额。当地热门晨间健身课程名额十分紧俏，手动预约经常满员，男子搭建AI...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpt7016072.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpt7016072.shtml"
+      ],
+      "publishedAt": "2026-08-12",
+      "date": "2026-08-12",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI动态",
-      "rawText": "据Gartner称，到 2026 年，全球在人工智能方面的支出预计将达到 2.59 万亿美元，同比增长 47%。Gartner的资深副总裁分析师John-David Lovelock表示：“在未来几年，对算力的需求将推动人工智能基础设施的发...",
+      "rawText": "快科技8月12日消息，澳大利亚一名男子安德鲁·伯德为抢到热门早间健身课，部署AI智能代理帮忙排队预约，没想到AI为完成任务擅自攻破预约系统漏洞，竟然私自取消首位用户的预约名额。当地热门晨间健身课程名额十分紧俏，手动预约经常满员，男子搭建AI...",
       "relatedTitles": [
-        "Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%"
+        "男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名"
       ],
       "isNewSinceLastRun": true
     },
@@ -1124,7 +1321,7 @@
       "relatedTitles": [
         "巨型卫星星座产生的碎片可能危及自身运行"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1192,7 +1389,7 @@
       "relatedTitles": [
         "上半年智元超越宇树科技登顶人形机器人出货榜首"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1260,143 +1457,7 @@
       "relatedTitles": [
         "以后让Claude写的东西 可能要小心留暗底了"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "集齐「旗舰平台 + AI 独显 + 185Hz 高刷」三大件，REDMI K100 Pro 系列发布",
-      "summary": "【TechWeb】8 月 11 日，REDMI 正式发布年度旗舰——REDMI K100 Pro 系列，包括 REDMI K100 Pro、REDMI K100 Pro Max 两款机型。K100 Pro 系列全系配备当代旗舰平台和 AI ...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimynsc4054574.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimynsc4054574.shtml"
-      ],
-      "publishedAt": "2026-08-12",
-      "date": "2026-08-12",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “集齐「旗舰平台 + AI 独显 + 185Hz 高刷」三大件，REDMI K100 Pro 系列发布” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "【TechWeb】8 月 11 日，REDMI 正式发布年度旗舰——REDMI K100 Pro 系列，包括 REDMI K100 Pro、REDMI K100 Pro Max 两款机型。K100 Pro 系列全系配备当代旗舰平台和 AI ...",
-      "relatedTitles": [
-        "集齐「旗舰平台 + AI 独显 + 185Hz 高刷」三大件，REDMI K100 Pro 系列发布"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs",
-      "summary": "新公司的研究方向为横跨数字世界和物理世界的下一代智能体（Agent）。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/988/555.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/988/555.htm"
-      ],
-      "publishedAt": "Tue, 11 Aug 2026 23:14:27 GMT",
-      "date": "2026-08-12",
-      "category": "AI",
-      "classificationConfidence": 0.88,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 160,
-      "reporterScore": 168,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "新公司的研究方向为横跨数字世界和物理世界的下一代智能体（Agent）。",
-      "relatedTitles": [
-        "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1464,7 +1525,7 @@
       "relatedTitles": [
         "南开大学与字节跳动共建数学与智能联合实验室"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1532,7 +1593,7 @@
       "relatedTitles": [
         "Auto-Research「终极大考」：新基准撕下大模型科研伪装"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1600,22 +1661,22 @@
       "relatedTitles": [
         "OpenAI高管Brad Lightcap将离职 开启“新项目”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献",
-      "summary": "OpenAI 高级主管布拉德 · 莱特卡普（Brad Lightcap）今天（8 月 12 日）在 X 平台发布推文，宣布将离职创业。",
+      "title": "OpenAI 推出预览版 ChatGPT for Linux 桌面端应用",
+      "summary": "OpenAI 宣布推出 Linux 版 ChatGPT 桌面应用（预览版），在受支持的 Linux 系统上可直接使用 ChatGPT、ChatGPT Work 和 Codex。",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/988/556.htm",
+      "url": "https://www.ithome.com/0/988/562.htm",
       "sourceUrls": [
-        "https://www.ithome.com/0/988/556.htm"
+        "https://www.ithome.com/0/988/562.htm"
       ],
-      "publishedAt": "Tue, 11 Aug 2026 23:19:12 GMT",
+      "publishedAt": "Tue, 11 Aug 2026 23:48:03 GMT",
       "date": "2026-08-12",
       "category": "AI",
       "classificationConfidence": 0.99,
@@ -1628,8 +1689,8 @@
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
+      "score": 151,
+      "reporterScore": 151,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
@@ -1641,7 +1702,7 @@
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -1650,23 +1711,91 @@
         "primary": false,
         "visual": false,
         "international": false,
-        "interview": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 120
+        "reporterScore": 110
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
+      "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献” against primary-source evidence.",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 推出预览版 ChatGPT for Linux 桌面端应用” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "OpenAI 高级主管布拉德 · 莱特卡普（Brad Lightcap）今天（8 月 12 日）在 X 平台发布推文，宣布将离职创业。",
+      "rawText": "OpenAI 宣布推出 Linux 版 ChatGPT 桌面应用（预览版），在受支持的 Linux 系统上可直接使用 ChatGPT、ChatGPT Work 和 Codex。",
       "relatedTitles": [
-        "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献"
+        "OpenAI 推出预览版 ChatGPT for Linux 桌面端应用"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "愿将一生献宏谋——纪念“共和国勋章”获得者、中国科学院院士于敏诞辰100周年",
+      "summary": "所在位置： 中国科技网首页 > 正文 愿将一生献宏谋——纪念“共和国勋章”获得者、中国科学院院士于敏诞辰100周年 2026-08-12 07:34:04 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/2026-08/12/content_562541.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/2026-08/12/content_562541.html"
+      ],
+      "publishedAt": "2026-08-12",
+      "date": "2026-08-12",
+      "category": "科学前沿",
+      "classificationConfidence": 0.93,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “愿将一生献宏谋——纪念“共和国勋章”获得者、中国科学院院士于敏诞辰100周年” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "所在位置： 中国科技网首页 > 正文 愿将一生献宏谋——纪念“共和国勋章”获得者、中国科学院院士于敏诞辰100周年 2026-08-12 07:34:04 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "愿将一生献宏谋——纪念“共和国勋章”获得者、中国科学院院士于敏诞辰100周年"
       ],
       "isNewSinceLastRun": true
     },
@@ -1736,7 +1865,7 @@
       "relatedTitles": [
         "科研团队破解超导量子计算“速度与保真度”矛盾"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1804,7 +1933,7 @@
       "relatedTitles": [
         "科学家首次种出带有肉味的菜：但你可能还尝不出来"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1872,7 +2001,7 @@
       "relatedTitles": [
         "崔东树：前7个月，5米以上新能源新车达到49款；"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1940,7 +2069,7 @@
       "relatedTitles": [
         "AI算力供应商CoreWeave上调全年营收展望为124亿至132亿美元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2008,7 +2137,7 @@
       "relatedTitles": [
         "马斯克押注智能体再出招：“数字同事”Grok Bot上线"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -3384,7 +3513,7 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3416,7 +3545,7 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3448,7 +3577,7 @@
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3480,7 +3609,7 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3512,7 +3641,7 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3544,19 +3673,19 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Anthropic pledges to embed watermarks to help discern AI slop in sop to EU",
-      "summary": "EU rules cited as reason for effort to trace AI output ancestry",
+      "summary": "Are we human?",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
       "publishedAt": "Tue, 11 Aug 2026 02:27:37 +0200",
       "date": "2026-08-11",
       "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.97,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
@@ -3576,7 +3705,7 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3608,7 +3737,7 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3640,7 +3769,7 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3739,8 +3868,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-12｜V3\n生成时间：2026/8/12 07:25:23\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2586｜确认今日 16｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 16 条｜国际 9 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-12] AI模型揭示人类如何阅读\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI模型揭示人类如何阅读” against primary-source evidence.\n\n2. [2026-08-12] Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimysxx7186184.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%” against primary-source evidence.\n\n3. [2026-08-12] 巨型卫星星座产生的碎片可能危及自身运行\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773675.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “巨型卫星星座产生的碎片可能危及自身运行” against primary-source evidence.\n\n4. [2026-08-12] 上半年智元超越宇树科技登顶人形机器人出货榜首\n   网易科技｜2026-08-12｜https://www.163.com/dy/article/L445UE1N0512B07B.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “上半年智元超越宇树科技登顶人形机器人出货榜首” against primary-source evidence.\n\n5. [2026-08-12] 以后让Claude写的东西 可能要小心留暗底了\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/discovery/2026-08-12/doc-inimzcpt7001063.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “以后让Claude写的东西 可能要小心留暗底了” against primary-source evidence.\n\n本次新增线索：\n- AI模型揭示人类如何阅读｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml\n- Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimysxx7186184.shtml\n- 巨型卫星星座产生的碎片可能危及自身运行｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773675.shtml\n- 上半年智元超越宇树科技登顶人形机器人出货榜首｜网易科技｜https://www.163.com/dy/article/L445UE1N0512B07B.html\n- 以后让Claude写的东西 可能要小心留暗底了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-12/doc-inimzcpt7001063.shtml\n- Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n2. OpenAI launches ChatGPT desktop app for Linux｜TechCrunch｜https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/\n3. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\n4. Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’｜TechCrunch｜https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/\n5. Hey, big spender – OpenAI has a new SKU just for you｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-12｜V3\n生成时间：2026/8/12 07:25:23\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2586｜确认今日 16｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 16 条｜国际 9 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-12] AI模型揭示人类如何阅读\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI模型揭示人类如何阅读” against primary-source evidence.\n\n2. [2026-08-12] Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimysxx7186184.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%” against primary-source evidence.\n\n3. [2026-08-12] 巨型卫星星座产生的碎片可能危及自身运行\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773675.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “巨型卫星星座产生的碎片可能危及自身运行” against primary-source evidence.\n\n4. [2026-08-12] 上半年智元超越宇树科技登顶人形机器人出货榜首\n   网易科技｜2026-08-12｜https://www.163.com/dy/article/L445UE1N0512B07B.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “上半年智元超越宇树科技登顶人形机器人出货榜首” against primary-source evidence.\n\n5. [2026-08-12] 以后让Claude写的东西 可能要小心留暗底了\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/discovery/2026-08-12/doc-inimzcpt7001063.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “以后让Claude写的东西 可能要小心留暗底了” against primary-source evidence.\n\n本次新增线索：\n- AI模型揭示人类如何阅读｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml\n- Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimysxx7186184.shtml\n- 巨型卫星星座产生的碎片可能危及自身运行｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773675.shtml\n- 上半年智元超越宇树科技登顶人形机器人出货榜首｜网易科技｜https://www.163.com/dy/article/L445UE1N0512B07B.html\n- 以后让Claude写的东西 可能要小心留暗底了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-12/doc-inimzcpt7001063.shtml\n- Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n2. OpenAI launches ChatGPT desktop app for Linux｜TechCrunch｜https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/\n3. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\n4. Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’｜TechCrunch｜https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/\n5. Hey, big spender – OpenAI has a new SKU just for you｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-12｜生成时间：2026/8/12 07:25:23｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2586｜确认今日 16｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 16 条｜国际 9 条<br>延续跟踪线索：国内 0 条｜国际 3 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-12] AI模型揭示人类如何阅读</strong>\n      <span>新浪科技｜2026-08-12｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI模型揭示人类如何阅读” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-12] Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%</strong>\n      <span>新浪科技｜2026-08-12｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimysxx7186184.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-12] 巨型卫星星座产生的碎片可能危及自身运行</strong>\n      <span>新浪科技｜2026-08-12｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773675.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “巨型卫星星座产生的碎片可能危及自身运行” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-12] 上半年智元超越宇树科技登顶人形机器人出货榜首</strong>\n      <span>网易科技｜2026-08-12｜<a href=\"https://www.163.com/dy/article/L445UE1N0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “上半年智元超越宇树科技登顶人形机器人出货榜首” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-12] 以后让Claude写的东西 可能要小心留暗底了</strong>\n      <span>新浪科技｜2026-08-12｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-12/doc-inimzcpt7001063.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “以后让Claude写的东西 可能要小心留暗底了” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China</strong>\n      <span>时间：Tue, 11 Aug 2026 21:01:13 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why Jensen Huang’s $500 billion AI financing plan faces a big risk from ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI launches ChatGPT desktop app for Linux</strong>\n      <span>时间：Tue, 11 Aug 2026 19:15:35 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI launches ChatGPT desktop app for Linux” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. French newspapers appeal to antitrust regulator over Google's AI summaries</strong>\n      <span>时间：2026-08-11｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “French newspapers appeal to antitrust regulator over Google's AI summari” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’</strong>\n      <span>时间：Tue, 11 Aug 2026 17:41:34 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Hey, big spender – OpenAI has a new SKU just for you</strong>\n      <span>时间：Mon, 10 Aug 2026 23:25:39 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Hey, big spender – OpenAI has a new SKU just for you” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/12 07:25:23\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 16 条｜国际 9 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-12] AI模型揭示人类如何阅读\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI模型揭示人类如何阅读” against primary-source evidence.\n\n2. [2026-08-12] Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimysxx7186184.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%” against primary-source evidence.\n\n3. [2026-08-12] 巨型卫星星座产生的碎片可能危及自身运行\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773675.shtml\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “巨型卫星星座产生的碎片可能危及自身运行” against primary-source evidence.\n\n4. [2026-08-12] 上半年智元超越宇树科技登顶人形机器人出货榜首\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L445UE1N0512B07B.html\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “上半年智元超越宇树科技登顶人形机器人出货榜首” against primary-source evidence.\n\n5. [2026-08-12] 以后让Claude写的东西 可能要小心留暗底了\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-12/doc-inimzcpt7001063.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “以后让Claude写的东西 可能要小心留暗底了” against primary-source evidence.\n\n本次新增线索：\n- AI模型揭示人类如何阅读｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml\n- Gartner：2026年全球AI支出将达到 2.59 万亿美元 同比增长47%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimysxx7186184.shtml\n- 巨型卫星星座产生的碎片可能危及自身运行｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773675.shtml\n- 上半年智元超越宇树科技登顶人形机器人出货榜首｜网易科技｜https://www.163.com/dy/article/L445UE1N0512B07B.html\n- 以后让Claude写的东西 可能要小心留暗底了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-12/doc-inimzcpt7001063.shtml\n- Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n2. OpenAI launches ChatGPT desktop app for Linux｜TechCrunch｜https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/\n3. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\n4. Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’｜TechCrunch｜https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/\n5. Hey, big spender – OpenAI has a new SKU just for you｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-12｜V3\n生成时间：2026/8/12 07:52:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2586｜确认今日 18｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-12] AI模型揭示人类如何阅读\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI模型揭示人类如何阅读” against primary-source evidence.\n\n2. [2026-08-12] 华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年\n   网易科技｜2026-08-12｜https://www.163.com/dy/article/L447LJDF0512B07B.html\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年” against primary-source evidence.\n\n3. [2026-08-12] 从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpw5414167.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs” against primary-source evidence.\n\n4. [2026-08-12] OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpv3792198.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献” against primary-source evidence.\n\n5. [2026-08-12] 男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpt7016072.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名” against primary-source evidence.\n\n本次新增线索：\n- 华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年｜网易科技｜https://www.163.com/dy/article/L447LJDF0512B07B.html\n- 从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpw5414167.shtml\n- OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpv3792198.shtml\n- 男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpt7016072.shtml\n- OpenAI 推出预览版 ChatGPT for Linux 桌面端应用｜IT之家｜https://www.ithome.com/0/988/562.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（8 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n2. OpenAI launches ChatGPT desktop app for Linux｜TechCrunch｜https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/\n3. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\n4. Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’｜TechCrunch｜https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/\n5. Hey, big spender – OpenAI has a new SKU just for you｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-12｜V3\n生成时间：2026/8/12 07:52:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2586｜确认今日 18｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-12] AI模型揭示人类如何阅读\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI模型揭示人类如何阅读” against primary-source evidence.\n\n2. [2026-08-12] 华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年\n   网易科技｜2026-08-12｜https://www.163.com/dy/article/L447LJDF0512B07B.html\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年” against primary-source evidence.\n\n3. [2026-08-12] 从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpw5414167.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs” against primary-source evidence.\n\n4. [2026-08-12] OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpv3792198.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献” against primary-source evidence.\n\n5. [2026-08-12] 男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名\n   新浪科技｜2026-08-12｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpt7016072.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名” against primary-source evidence.\n\n本次新增线索：\n- 华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年｜网易科技｜https://www.163.com/dy/article/L447LJDF0512B07B.html\n- 从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpw5414167.shtml\n- OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpv3792198.shtml\n- 男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpt7016072.shtml\n- OpenAI 推出预览版 ChatGPT for Linux 桌面端应用｜IT之家｜https://www.ithome.com/0/988/562.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（8 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n2. OpenAI launches ChatGPT desktop app for Linux｜TechCrunch｜https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/\n3. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\n4. Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’｜TechCrunch｜https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/\n5. Hey, big spender – OpenAI has a new SKU just for you｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-12｜生成时间：2026/8/12 07:52:38｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2586｜确认今日 18｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 0 条<br>延续跟踪线索：国内 12 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-12] AI模型揭示人类如何阅读</strong>\n      <span>新浪科技｜2026-08-12｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI模型揭示人类如何阅读” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-12] 华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年</strong>\n      <span>网易科技｜2026-08-12｜<a href=\"https://www.163.com/dy/article/L447LJDF0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-12] 从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs</strong>\n      <span>新浪科技｜2026-08-12｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpw5414167.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-12] OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献</strong>\n      <span>新浪科技｜2026-08-12｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpv3792198.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-12] 男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名</strong>\n      <span>新浪科技｜2026-08-12｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpt7016072.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China</strong>\n      <span>时间：Tue, 11 Aug 2026 21:01:13 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why Jensen Huang’s $500 billion AI financing plan faces a big risk from ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI launches ChatGPT desktop app for Linux</strong>\n      <span>时间：Tue, 11 Aug 2026 19:15:35 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI launches ChatGPT desktop app for Linux” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. French newspapers appeal to antitrust regulator over Google's AI summaries</strong>\n      <span>时间：2026-08-11｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “French newspapers appeal to antitrust regulator over Google's AI summari” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’</strong>\n      <span>时间：Tue, 11 Aug 2026 17:41:34 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Hey, big spender – OpenAI has a new SKU just for you</strong>\n      <span>时间：Mon, 10 Aug 2026 23:25:39 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Hey, big spender – OpenAI has a new SKU just for you” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/12 07:52:38\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-12] AI模型揭示人类如何阅读\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI模型揭示人类如何阅读” against primary-source evidence.\n\n2. [2026-08-12] 华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L447LJDF0512B07B.html\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年” against primary-source evidence.\n\n3. [2026-08-12] 从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpw5414167.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs” against primary-source evidence.\n\n4. [2026-08-12] OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpv3792198.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献” against primary-source evidence.\n\n5. [2026-08-12] 男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpt7016072.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名” against primary-source evidence.\n\n本次新增线索：\n- 华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年｜网易科技｜https://www.163.com/dy/article/L447LJDF0512B07B.html\n- 从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpw5414167.shtml\n- OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpv3792198.shtml\n- 男子让AI帮自己约健身课 AI直接黑进系统踢掉第一名｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpt7016072.shtml\n- OpenAI 推出预览版 ChatGPT for Linux 桌面端应用｜IT之家｜https://www.ithome.com/0/988/562.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（8 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n国际科技背景：\n1. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n2. OpenAI launches ChatGPT desktop app for Linux｜TechCrunch｜https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/\n3. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\n4. Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’｜TechCrunch｜https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/\n5. Hey, big spender – OpenAI has a new SKU just for you｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
