@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/11 15:09:08
+生成时间：2026/8/11 15:39:45
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 0 条
-延续跟踪线索：国内 47 条｜国际 12 条
+新增核心线索：国内 14 条｜国际 1 条
+延续跟踪线索：国内 42 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-11] 城市竞争进入AI答案时代
+1. [2026-08-11] 存储产业这次会打破“死亡循环”吗
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimxrnq5839852.shtml
+   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “存储产业这次会打破“死亡循环”吗” against primary-source evidence.
+
+2. [2026-08-11] 城市竞争进入AI答案时代
    来源：新浪科技
    链接：https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimwyqv4378145.shtml
    角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “城市竞争进入AI答案时代” against primary-source evidence.
 
-2. [2026-08-11] 美国一滚动机器人创纪录：从5.7米高处坠落后仍能行动
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimxmer4365267.shtml
-   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “美国一滚动机器人创纪录：从5.7米高处坠落后仍能行动” against primary-source evidence.
-
-3. [2026-08-11] Robot Phone首发钛合金云台架构！荣耀机器人技术与手机首次深度融合
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimxmep7582127.shtml
-   角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “Robot Phone首发钛合金云台架构！荣耀机器人技术与手机首次深度融合” against primary-source evidence.
+3. [06:08] 过去 1 年全球亿万富翁身价报告：马斯克日增 8.75 亿美元居首，DeepSeek 梁文锋飙升 3850% 最快
+   来源：IT之家
+   链接：https://www.ithome.com/0/988/273.htm
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “过去 1 年全球亿万富翁身价报告：马斯克日增 8.75 亿美元居首，DeepSeek 梁文锋飙升 3850% 最快” against primary-source evidence.
 
 4. [2026-08-11] 越南Vinspace与SpaceX签署协议，计划明年二季度
    来源：网易科技
    链接：https://www.163.com/dy/article/L421A4UC0534A4SC.html
    角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “越南Vinspace与SpaceX签署协议，计划明年二季度” against primary-source evidence.
 
-5. [05:44] 消息称 OSAT 巨头 Amkor 考量分拆中国大陆业务并出售股份可能
-   来源：IT之家
-   链接：https://www.ithome.com/0/988/267.htm
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称 OSAT 巨头 Amkor 考量分拆中国大陆业务并出售股份可能” against primary-source evidence.
+5. [2026-08-11] 电池坏了能直接上门修！宁德时 代推出首款电池维修服务车
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimxrnp4267204.shtml
+   角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “电池坏了能直接上门修！宁德时 代推出首款电池维修服务车” against primary-source evidence.
 
 本次新增线索：
-- 消息称 OSAT 巨头 Amkor 考量分拆中国大陆业务并出售股份可能｜IT之家｜https://www.ithome.com/0/988/267.htm
-- 国联民生：人形机器人产业正进入“规模制造提速、场景持续拓展、具身智能升级”三重驱动阶段｜网易科技｜https://www.163.com/dy/article/L42EJNJR05198CJN.html
-- 理想第二代AI眼镜预计明年下半年上市｜网易科技｜https://www.163.com/dy/article/L42D6M8H0534A4SC.html
-- 雄安成立一支卫星互联网科创股权投资基金｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimxrni0668735.shtml
-- Anthropic 将为 Claude 生成文本加入隐形水印，防范 AI 内容冒充原创｜IT之家｜https://www.ithome.com/0/988/260.htm
+- 存储产业这次会打破“死亡循环”吗｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimxrnq5839852.shtml
+- 过去 1 年全球亿万富翁身价报告：马斯克日增 8.75 亿美元居首，DeepSeek 梁文锋飙升 3850% 最快｜IT之家｜https://www.ithome.com/0/988/273.htm
+- 电池坏了能直接上门修！宁德时 代推出首款电池维修服务车｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimxrnp4267204.shtml
+- 三星 SDI 完全控股原与通用汽车合资美国电池企业 Synergy Cells｜IT之家｜https://www.ithome.com/0/988/275.htm
+- 三周一更：微软 MAI-Image-2.6 发布，一举跃升 Arena 文生图模型榜第二位｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimxrnq5831496.shtml
+- I put ChatGPT on my Ray-Ban Meta glasses — and it completely changed how I used them｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/put-chatgpt-ray-ban-meta-050000212.html
 
 今日热点方向：
-- AI 应用：AI动态（12 条，4 个来源）
-- 芯片/半导体：半导体供应链（5 条，2 个来源）
-- 机器人/具身智能：机器人动态（3 条，2 个来源）
+- AI 应用：AI动态（13 条，5 个来源）
+- 芯片/半导体：半导体供应链（4 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
 - 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）
 - 太空与低空经济：太空与低空动态（2 条，1 个来源）
-- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. As AI-led attacks multiply, OpenAI launches a new cyber model｜TechCrunch｜https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
 2. OpenAI Ships GPT-5.6-Cyber Through Gated Daybreak Red Access Tier｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/openai-ships-gpt-5-6-052754429.html
 3. Are Overclocked Nvidia GPUs Worth Paying Extra For?｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/overclocked-nvidia-gpus-worth-paying-004700319.html
-4. OpenAI reportedly completed a $7 billion employee tender offer｜TechCrunch｜https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/
-5. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/
+4. I put ChatGPT on my Ray-Ban Meta glasses — and it completely changed how I used them｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/put-chatgpt-ray-ban-meta-050000212.html
+5. OpenAI reportedly completed a $7 billion employee tender offer｜TechCrunch｜https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
