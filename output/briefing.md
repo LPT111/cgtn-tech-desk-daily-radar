@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/11 14:36:00
+生成时间：2026/8/11 15:09:08
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 62 条｜国际 5 条
-延续跟踪线索：国内 1 条｜国际 7 条
+新增核心线索：国内 7 条｜国际 0 条
+延续跟踪线索：国内 47 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -28,38 +28,37 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimxmep7582127.shtml
    角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “Robot Phone首发钛合金云台架构！荣耀机器人技术与手机首次深度融合” against primary-source evidence.
 
-4. [2026-08-11] 中国人形机器人包揽全球97%以上出货，商业、工
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L41SL45M0512B07B.html
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “中国人形机器人包揽全球97%以上出货，商业、工” against primary-source evidence.
-
-5. [2026-08-11] 越南Vinspace与SpaceX签署协议，计划明年二季度
+4. [2026-08-11] 越南Vinspace与SpaceX签署协议，计划明年二季度
    来源：网易科技
    链接：https://www.163.com/dy/article/L421A4UC0534A4SC.html
    角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “越南Vinspace与SpaceX签署协议，计划明年二季度” against primary-source evidence.
 
+5. [05:44] 消息称 OSAT 巨头 Amkor 考量分拆中国大陆业务并出售股份可能
+   来源：IT之家
+   链接：https://www.ithome.com/0/988/267.htm
+   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “消息称 OSAT 巨头 Amkor 考量分拆中国大陆业务并出售股份可能” against primary-source evidence.
+
 本次新增线索：
-- 城市竞争进入AI答案时代｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimwyqv4378145.shtml
-- 美国一滚动机器人创纪录：从5.7米高处坠落后仍能行动｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimxmer4365267.shtml
-- Robot Phone首发钛合金云台架构！荣耀机器人技术与手机首次深度融合｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimxmep7582127.shtml
-- 中国人形机器人包揽全球97%以上出货，商业、工｜网易科技｜https://www.163.com/dy/article/L41SL45M0512B07B.html
-- 越南Vinspace与SpaceX签署协议，计划明年二季度｜网易科技｜https://www.163.com/dy/article/L421A4UC0534A4SC.html
-- As AI-led attacks multiply, OpenAI launches a new cyber model｜TechCrunch｜https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
+- 消息称 OSAT 巨头 Amkor 考量分拆中国大陆业务并出售股份可能｜IT之家｜https://www.ithome.com/0/988/267.htm
+- 国联民生：人形机器人产业正进入“规模制造提速、场景持续拓展、具身智能升级”三重驱动阶段｜网易科技｜https://www.163.com/dy/article/L42EJNJR05198CJN.html
+- 理想第二代AI眼镜预计明年下半年上市｜网易科技｜https://www.163.com/dy/article/L42D6M8H0534A4SC.html
+- 雄安成立一支卫星互联网科创股权投资基金｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimxrni0668735.shtml
+- Anthropic 将为 Claude 生成文本加入隐形水印，防范 AI 内容冒充原创｜IT之家｜https://www.ithome.com/0/988/260.htm
 
 今日热点方向：
 - AI 应用：AI动态（12 条，4 个来源）
-- 芯片/半导体：半导体供应链（7 条，3 个来源）
+- 芯片/半导体：半导体供应链（5 条，2 个来源）
 - 机器人/具身智能：机器人动态（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）
-- 太空与低空经济：太空与低空动态（3 条，1 个来源）
-- 科学前沿：
+- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）
+- 太空与低空经济：太空与低空动态（2 条，1 个来源）
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
 1. As AI-led attacks multiply, OpenAI launches a new cyber model｜TechCrunch｜https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
 2. OpenAI Ships GPT-5.6-Cyber Through Gated Daybreak Red Access Tier｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/openai-ships-gpt-5-6-052754429.html
 3. Are Overclocked Nvidia GPUs Worth Paying Extra For?｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/overclocked-nvidia-gpus-worth-paying-004700319.html
 4. OpenAI reportedly completed a $7 billion employee tender offer｜TechCrunch｜https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/
-5. Tesla Powerwall buyers eyeing outdoor installs may want to rethink one common cooling idea｜Yahoo News Technology｜https://tech.yahoo.com/home/articles/tesla-powerwall-buyers-eyeing-outdoor-035500360.html
+5. Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI｜TechCrunch｜https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
