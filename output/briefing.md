@@ -3,58 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/12 08:02:18
+生成时间：2026/8/12 14:58:22
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 18 条｜国际 12 条
+新增核心线索：国内 66 条｜国际 2 条
+延续跟踪线索：国内 1 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-12] AI模型揭示人类如何阅读
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773680.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI模型揭示人类如何阅读” against primary-source evidence.
+1. [05:40] 2026 中国算力大会 9 月 11-13 日在河北廊坊举行，集中发布一批首创首发算力软硬件新品
+   来源：IT之家
+   链接：https://www.ithome.com/0/988/729.htm
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026 中国算力大会 9 月 11-13 日在河北廊坊举行，集中发布一批首创首发算力软硬件新品” against primary-source evidence.
 
-2. [2026-08-12] 华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年
+2. [2026-08-12] 中国人形机器人横扫全球！拿下97%市场份额：智元超宇树居第一
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-08-12/doc-inimxewu5948587.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “中国人形机器人横扫全球！拿下97%市场份额：智元超宇树居第一” against primary-source evidence.
+
+3. [2026-08-12] 研华 AIR-055边缘AI推理系统：搭载高通跃龙 IQ9 芯片的紧凑型多模态视觉 AI 推理整机
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzumt4040064.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “研华 AIR-055边缘AI推理系统：搭载高通跃龙 IQ9 芯片的紧凑型多模态视觉 AI 推理整机” against primary-source evidence.
+
+4. [2026-08-12] 消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimyhkc7371975.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级” against primary-source evidence.
+
+5. [2026-08-12] 美参议员桑德斯向三大AI巨头施压：暂停AI研发，
    来源：网易科技
-   链接：https://www.163.com/dy/article/L447LJDF0512B07B.html
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年” against primary-source evidence.
-
-3. [2026-08-12] 巨型卫星星座产生的碎片可能危及自身运行
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzcpv3773675.shtml
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “巨型卫星星座产生的碎片可能危及自身运行” against primary-source evidence.
-
-4. [2026-08-12] 上半年智元超越宇树科技登顶人形机器人出货榜首
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L445UE1N0512B07B.html
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “上半年智元超越宇树科技登顶人形机器人出货榜首” against primary-source evidence.
-
-5. [2026-08-12] 从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpw5414167.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L44G569L0534A4SC.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美参议员桑德斯向三大AI巨头施压：暂停AI研发，” against primary-source evidence.
 
 本次新增线索：
-- 举债重金押注 AI 基建，消息称甲骨文正制定新一轮裁员计划｜IT之家｜https://www.ithome.com/0/988/567.htm
+- 2026 中国算力大会 9 月 11-13 日在河北廊坊举行，集中发布一批首创首发算力软硬件新品｜IT之家｜https://www.ithome.com/0/988/729.htm
+- 中国人形机器人横扫全球！拿下97%市场份额：智元超宇树居第一｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-12/doc-inimxewu5948587.shtml
+- 研华 AIR-055边缘AI推理系统：搭载高通跃龙 IQ9 芯片的紧凑型多模态视觉 AI 推理整机｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzumt4040064.shtml
+- 消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimyhkc7371975.shtml
+- 美参议员桑德斯向三大AI巨头施压：暂停AI研发，｜网易科技｜https://www.163.com/dy/article/L44G569L0534A4SC.html
+- Google’s new AI boss inherits a race to catch OpenAI and Anthropic｜CNBC Technology｜https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（8 条，3 个来源）
-- 芯片/半导体：
-- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
+- AI 应用：AI 应用与智能体（20 条，4 个来源）
+- 芯片/半导体：半导体供应链（5 条，3 个来源）
+- 机器人/具身智能：机器人动态（3 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- 科学前沿：科学前沿动态（6 条，4 个来源）
 
 国际科技背景：
 1. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html
 2. OpenAI launches ChatGPT desktop app for Linux｜TechCrunch｜https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/
 3. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries
-4. Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’｜TechCrunch｜https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/
-5. Hey, big spender – OpenAI has a new SKU just for you｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727
+4. Google’s new AI boss inherits a race to catch OpenAI and Anthropic｜CNBC Technology｜https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html
+5. Not Samsung, Not Google: Users Say This Brand Makes The Best Android Phone For Gaming｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/not-samsung-not-google-users-001700051.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
