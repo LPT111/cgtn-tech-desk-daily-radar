@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/12 15:54:30
+生成时间：2026/8/13 07:25:37
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 11 条｜国际 0 条
-延续跟踪线索：国内 56 条｜国际 14 条
+新增核心线索：国内 12 条｜国际 12 条
+延续跟踪线索：国内 0 条｜国际 6 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [05:40] 2026 中国算力大会 9 月 11-13 日在河北廊坊举行，集中发布一批首创首发算力软硬件新品
-   来源：IT之家
-   链接：https://www.ithome.com/0/988/729.htm
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “2026 中国算力大会 9 月 11-13 日在河北廊坊举行，集中发布一批首创首发算力软硬件新品” against primary-source evidence.
-
-2. [2026-08-12] 中国人形机器人横扫全球！拿下97%市场份额：智元超宇树居第一
+1. [2026-08-13] 代理式AI重塑旅游业：从智能助手迈向自主决策
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-08-12/doc-inimxewu5948587.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “中国人形机器人横扫全球！拿下97%市场份额：智元超宇树居第一” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “代理式AI重塑旅游业：从智能助手迈向自主决策” against primary-source evidence.
 
-3. [2026-08-12] 1GB内存成本不到7块：利润近20倍 HBM反倒是良心价
+2. [2026-08-13] DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzump3690437.shtml
-   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “1GB内存成本不到7块：利润近20倍 HBM反倒是良心价” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3751174.shtml
+   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格” against primary-source evidence.
 
-4. [2026-08-12] 消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级
+3. [2026-08-13] 峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimyhkc7371975.shtml
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-13/doc-ininchpe0288652.shtml
+   角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播” against primary-source evidence.
 
-5. [2026-08-12] 英伟达开源战略升级：从"支持者"到"构建者"
+4. [2026-08-13] 千问前技术负责人林俊旸创办AI公司语用科技；自
    来源：网易科技
-   链接：https://www.163.com/dy/article/L44GB3V305198NMR.html
-   角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “英伟达开源战略升级：从"支持者"到"构建者"” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L46OASPF0512B07B.html
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “千问前技术负责人林俊旸创办AI公司语用科技；自” against primary-source evidence.
+
+5. [2026-08-13] 过半AI初创企业从未发表论文
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchpe0273549.shtml
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “过半AI初创企业从未发表论文” against primary-source evidence.
 
 本次新增线索：
-- 三星在半导体研发中引入Claude模型 耗时一月的｜网易科技｜https://www.163.com/dy/article/L452QTBS05198CJN.html
-- 鸿海：明年展望很正面 客户对AI的需求非常强劲｜网易科技｜https://www.163.com/dy/article/L452QTBQ05198CJN.html
-- 黄籽的油菜为什么含油更多？我国科学家找到关键基因｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/12/content_562848.html
-- 全线通航前的最后一次“大考” 平陆运河实船试验正式启动｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzyti6809269.shtml
-- 集邦咨询：全固态电池进入工程验证期，技术成熟度已有重大进展｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzumq5363439.shtml
+- 代理式AI重塑旅游业：从智能助手迈向自主决策｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml
+- DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3751174.shtml
+- 峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-13/doc-ininchpe0288652.shtml
+- 千问前技术负责人林俊旸创办AI公司语用科技；自｜网易科技｜https://www.163.com/dy/article/L46OASPF0512B07B.html
+- 过半AI初创企业从未发表论文｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchpe0273549.shtml
+- Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs｜CNBC Technology｜https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（15 条，4 个来源）
-- 芯片/半导体：半导体供应链（5 条，3 个来源）
-- 机器人/具身智能：机器人动态（3 条，3 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（7 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿动态（7 条，3 个来源）
+- AI 应用：AI动态（6 条，2 个来源）
+- 芯片/半导体：
+- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：
 
 国际科技背景：
-1. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html
-2. OpenAI launches ChatGPT desktop app for Linux｜TechCrunch｜https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/
-3. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries
-4. Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’｜TechCrunch｜https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/
-5. Hey, big spender – OpenAI has a new SKU just for you｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727
+1. Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs｜CNBC Technology｜https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html
+2. Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro, Pixel Watch 5, Gemini AI and more｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/live/live-updates-on-the-pixel-11-launch-at-made-by-google-2026-pixel-11-pro-pixel-watch-5-gemini-ai-and-more-140000105.html
+3. Grok can now do work for you as a team of AI bots｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html
+4. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html
+5. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
