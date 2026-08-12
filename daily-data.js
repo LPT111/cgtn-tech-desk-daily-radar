@@ -1,64 +1,49 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-12T23:25:37.413Z",
+  "generatedAt": "2026-08-12T23:53:10.117Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-13",
   "changeSummary": {
-    "domesticNew": 12,
-    "globalNew": 12,
-    "domesticContinued": 0,
-    "globalContinued": 6,
+    "domesticNew": 6,
+    "globalNew": 2,
+    "domesticContinued": 11,
+    "globalContinued": 16,
     "topNewDomestic": [
       {
-        "title": "代理式AI重塑旅游业：从智能助手迈向自主决策",
+        "title": "刚刚，DeepSeek V4 Pro正式版发布！",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininarri3878943.shtml"
       },
       {
-        "title": "DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格",
+        "title": "2035年登月基建！中国月球机器狗负责挖矿、建造栖息地",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3751174.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnva0169479.shtml"
       },
       {
-        "title": "峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播",
+        "title": "人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-13/doc-ininchpe0288652.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4902587.shtml"
       },
       {
-        "title": "千问前技术负责人林俊旸创办AI公司语用科技；自",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L46OASPF0512B07B.html"
+        "title": "对全球AI投资动能仍然强劲的三点思考",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininchnw4860500.shtml"
       },
       {
-        "title": "过半AI初创企业从未发表论文",
+        "title": "开发周期缩短40%！新思科技联手AMD、微软：用AI加速芯片设计",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchpe0273549.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnux3512677.shtml"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html"
-      },
-      {
-        "title": "Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro, Pixel Watch 5, Gemini AI and more",
+        "title": "Samsung Galaxy Watch 9 review: 3 ways it stands out from the competition",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/phones/breaking-news/live/live-updates-on-the-pixel-11-launch-at-made-by-google-2026-pixel-11-pro-pixel-watch-5-gemini-ai-and-more-140000105.html"
+        "url": "https://tech.yahoo.com/wearables/review/samsung-galaxy-watch-9-review-3-ways-it-stands-out-from-the-competition-160000027.html"
       },
       {
-        "title": "Grok can now do work for you as a team of AI bots",
+        "title": "Claude Cowork Can Now Run In A Chrome Sidebar",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html"
-      },
-      {
-        "title": "Tesla wants to build a $10B solar factory in Texas",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/"
-      },
-      {
-        "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-        "source": "WIRED Business",
-        "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/"
+        "url": "https://tech.yahoo.com/ai/claude/articles/claude-cowork-now-run-chrome-221929325.html"
       }
     ],
     "hasPrevious": true
@@ -67,7 +52,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 888,
+    "domesticRejected": 883,
     "globalRejected": 882,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,16 +67,31 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 28,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
     },
     {
+      "name": "科技部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -107,13 +107,28 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
     },
     {
+      "name": "科技部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -131,7 +146,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 182,
+      "parsed": 181,
       "failed": false,
       "optional": false
     },
@@ -181,7 +196,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -229,8 +245,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -307,8 +324,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "科技部",
       "tier": "official",
-      "parsed": 20,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -316,7 +334,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -378,18 +396,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1372,
+  "itemsSeen": 1288,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 276,
-  "itemsAfterDedupe": 219,
-  "todayItemsSeen": 12,
-  "suspectedItemsSeen": 15,
-  "skippedNonToday": 192,
+  "itemsAfterRelevantFilter": 234,
+  "itemsAfterDedupe": 199,
+  "todayItemsSeen": 17,
+  "suspectedItemsSeen": 14,
+  "skippedNonToday": 168,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 182,
+      "parsed": 181,
       "failed": false,
       "optional": false
     },
@@ -439,7 +457,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -487,8 +506,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -565,8 +585,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "科技部",
       "tier": "official",
-      "parsed": 20,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -574,7 +595,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -790,13 +811,28 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
     },
     {
+      "name": "科技部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
-      "error": "404 ",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -831,11 +867,11 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1221,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 109,
+  "globalItemsAfterRelevantFilter": 110,
   "topics": [
     {
       "topic": "AI动态",
-      "count": 6,
+      "count": 7,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
@@ -843,23 +879,50 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "代理式AI重塑旅游业：从智能助手迈向自主决策",
+        "对全球AI投资动能仍然强劲的三点思考",
         "千问前技术负责人林俊旸创办AI公司语用科技；自",
         "过半AI初创企业从未发表论文",
-        "腾讯微信公布 WeLM 模型：80B 版已在 AI 助手小微上应用，617B 版正在开发",
-        "工作中的AI：战略比工具更重要"
+        "腾讯微信公布 WeLM 模型：80B 版已在 AI 助手小微上应用，617B 版正在开发"
       ]
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 2,
+      "count": 3,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
         "IT之家"
       ],
       "items": [
-        "DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格",
+        "刚刚，DeepSeek V4 Pro正式版发布！",
+        "开发周期缩短40%！新思科技联手AMD、微软：用AI加速芯片设计",
         "Claude 打破平台壁垒：Chrome 侧边栏 AI 对话互通全平台历史记录"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
+        "新浪科技"
+      ],
+      "items": [
+        "J.D. Power 美国充电体验调研：Ionna 登顶，特斯拉仅排第四",
+        "电动车骑1年就报废！台铃公布核查结果：涉事车行私售假冒原厂电池"
+      ]
+    },
+    {
+      "topic": "机器人动态",
+      "count": 3,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "2035年登月基建！中国月球机器狗负责挖矿、建造栖息地",
+        "人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕",
+        "给机器人一个会预测未来的Critic，VLA强化学习直接起飞"
       ]
     },
     {
@@ -882,28 +945,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "CoreWeave新增风险提示：若需从英伟达芯片转向其他芯片将面临困难"
-      ]
-    },
-    {
-      "topic": "机器人动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "给机器人一个会预测未来的Critic，VLA强化学习直接起飞"
-      ]
-    },
-    {
-      "topic": "新能源车动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "电动车骑1年就报废！台铃公布核查结果：涉事车行私售假冒原厂电池"
       ]
     }
   ],
@@ -974,20 +1015,20 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "代理式AI重塑旅游业：从智能助手迈向自主决策"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格",
-      "summary": "快科技8月13日消息，今夜又是AI爱好者的狂欢，马斯克拿出了Grok 4.6，千问开源了Qwen 3.8 Max，而DeepSeek也深夜发核弹，低调推出了V4 Pro正式版——DeepSeek-V4-Pro-0813。目前DeepSeek...",
+      "title": "刚刚，DeepSeek V4 Pro正式版发布！",
+      "summary": "机器之心编编辑部出乎所有人的预料。周三晚间，DeepSeek 突然搬出了全世界都在期盼的 V4 Pro 大语言模型的正式版。最先更新信息的是 DeepSeek API 文档，可见新模型被命名为 DeepSeek-V4-Pro-0813。此外...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3751174.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininarri3878943.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3751174.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininarri3878943.shtml"
       ],
       "publishedAt": "2026-08-13",
       "date": "2026-08-13",
@@ -1002,14 +1043,218 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 176,
-      "reporterScore": 184,
+      "score": 172,
+      "reporterScore": 188,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 130
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，DeepSeek V4 Pro正式版发布！” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "机器之心编编辑部出乎所有人的预料。周三晚间，DeepSeek 突然搬出了全世界都在期盼的 V4 Pro 大语言模型的正式版。最先更新信息的是 DeepSeek API 文档，可见新模型被命名为 DeepSeek-V4-Pro-0813。此外...",
+      "relatedTitles": [
+        "刚刚，DeepSeek V4 Pro正式版发布！"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "2035年登月基建！中国月球机器狗负责挖矿、建造栖息地",
+      "summary": "快科技8月13日消息，国内航天团队发布全新研究方案，打算未来在月球基地投放四足机器狗，代替宇航员完成采矿、搭建居住舱等繁重危险工作。这套方案由中国航天科技研究院团队提出，目标服务2035年建成的国际月球科研站。月球环境条件很差，低重力、强辐...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnva0169479.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnva0169479.shtml"
+      ],
+      "publishedAt": "2026-08-13",
+      "date": "2026-08-13",
+      "category": "机器人",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 183,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 125
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Assess the robotics value chain through service deployment, safety and user value, including components, cost, reliability and export potential. For this item, test the claim behind “2035年登月基建！中国月球机器狗负责挖矿、建造栖息地” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "快科技8月13日消息，国内航天团队发布全新研究方案，打算未来在月球基地投放四足机器狗，代替宇航员完成采矿、搭建居住舱等繁重危险工作。这套方案由中国航天科技研究院团队提出，目标服务2035年建成的国际月球科研站。月球环境条件很差，低重力、强辐...",
+      "relatedTitles": [
+        "2035年登月基建！中国月球机器狗负责挖矿、建造栖息地"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕",
+      "summary": "快科技8月13日消息，在荣耀Robot Phone发布后，天马微电子宣布，为该机独家供应屏幕，深度定制天马天工屏高端OLED显示方案。天马表示，这是天工屏首次应用于具备具身交互能力的AI终端，针对机器人手机的创作、随行交互等场景进行了适配。...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4902587.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4902587.shtml"
+      ],
+      "publishedAt": "2026-08-13",
+      "date": "2026-08-13",
+      "category": "机器人",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 166,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "快科技8月13日消息，在荣耀Robot Phone发布后，天马微电子宣布，为该机独家供应屏幕，深度定制天马天工屏高端OLED显示方案。天马表示，这是天工屏首次应用于具备具身交互能力的AI终端，针对机器人手机的创作、随行交互等场景进行了适配。...",
+      "relatedTitles": [
+        "人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "对全球AI投资动能仍然强劲的三点思考",
+      "summary": "高盛报告显示，全球AI投资强劲增长，预计2026年超1万亿美元，占全球GDP比重从2026年的0.9%升至2027年的1.3%，多家国际科技巨头上调AI资本开支。但自7月以来，全球AI概念股回撤。在此背景下，需重新梳理三个关键认知：资本市场调整不等于AI产业周期见顶，判断产业趋势要综合考量客观指标；产业高景气不意味着所",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininchnw4860500.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininchnw4860500.shtml"
+      ],
+      "publishedAt": "2026-08-13",
+      "date": "2026-08-13",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
         "visual": 0,
         "international": 9,
         "policy": 0,
@@ -1035,12 +1280,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格” against primary-source evidence.",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “对全球AI投资动能仍然强劲的三点思考” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "快科技8月13日消息，今夜又是AI爱好者的狂欢，马斯克拿出了Grok 4.6，千问开源了Qwen 3.8 Max，而DeepSeek也深夜发核弹，低调推出了V4 Pro正式版——DeepSeek-V4-Pro-0813。目前DeepSeek...",
+      "matchedTopic": "AI动态",
+      "rawText": "高盛报告显示，全球AI投资强劲增长，预计2026年超1万亿美元，占全球GDP比重从2026年的0.9%升至2027年的1.3%，多家国际科技巨头上调AI资本开支。但自7月以来，全球AI概念股回撤。在此背景下，需重新梳理三个关键认知：资本市场调整不等于AI产业周期见顶，判断产业趋势要综合考量客观指标；产业高景气不意味着所有AI股票都有长期投资价值，投资者要关注公司基本面，机构需注重风险控制；AI投资高景气不意味着简单扩产就能获利，国内企业应加大研发，提升核心竞争力。 (AI生成)",
       "relatedTitles": [
-        "DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格"
+        "对全球AI投资动能仍然强劲的三点思考"
       ],
       "isNewSinceLastRun": true
     },
@@ -1110,6 +1355,74 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "开发周期缩短40%！新思科技联手AMD、微软：用AI加速芯片设计",
+      "summary": "快科技8月13日消息， 新思科技宣布推出面向芯片设计领域的全新自主化智能体AI工作流。该工作流与AMD联合开发，目前已可在Microsoft Discovery平台上进行评估。人工智能正从根本层面重塑工程格局。新思科技致力于构建全面、开放的...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnux3512677.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnux3512677.shtml"
+      ],
+      "publishedAt": "2026-08-13",
+      "date": "2026-08-13",
+      "category": "AI",
+      "classificationConfidence": 0.92,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “开发周期缩短40%！新思科技联手AMD、微软：用AI加速芯片设计” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技8月13日消息， 新思科技宣布推出面向芯片设计领域的全新自主化智能体AI工作流。该工作流与AMD联合开发，目前已可在Microsoft Discovery平台上进行评估。人工智能正从根本层面重塑工程格局。新思科技致力于构建全面、开放的...",
+      "relatedTitles": [
+        "开发周期缩短40%！新思科技联手AMD、微软：用AI加速芯片设计"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1177,6 +1490,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "千问前技术负责人林俊旸创办AI公司语用科技；自变量完成物流分拣直播挑战：每小时分拣1816件｜未来商业早参,物流,千问,林俊旸,语用科技",
       "relatedTitles": [
         "千问前技术负责人林俊旸创办AI公司语用科技；自"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "J.D. Power 美国充电体验调研：Ionna 登顶，特斯拉仅排第四",
+      "summary": "J.D. Power 美国电动汽车充电研究显示，多车企支持的 Ionna 充电体验排名第一，特斯拉仅排第四，行业整体充电满意度有所提升。#电动汽车充电#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/989/020.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/989/020.htm"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 23:51:25 GMT",
+      "date": "2026-08-13",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 158,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Use battery innovation and infrastructure to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “J.D. Power 美国充电体验调研：Ionna 登顶，特斯拉仅排第四” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "J.D. Power 美国电动汽车充电研究显示，多车企支持的 Ionna 充电体验排名第一，特斯拉仅排第四，行业整体充电满意度有所提升。#电动汽车充电#",
+      "relatedTitles": [
+        "J.D. Power 美国充电体验调研：Ionna 登顶，特斯拉仅排第四"
       ],
       "isNewSinceLastRun": true
     },
@@ -1246,7 +1627,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "过半AI初创企业从未发表论文"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1314,12 +1695,12 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "CoreWeave新增风险提示：若需从英伟达芯片转向其他芯片将面临困难"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "Claude 打破平台壁垒：Chrome 侧边栏 AI 对话互通全平台历史记录",
-      "summary": "Claude Claude的脑子里，也长出了一块「意识」 内部发现「类脑空间」，删掉就变傻 克雷西 2026-07-07 Claude Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户 单词数r也是风险问题？！ 克雷西 2026-07-03 Claude Fable 5 A社你解释下，啥叫Sonne",
+      "summary": "Anthropic 今天（8 月 13 日）在 X 平台发布推文，宣布升级适用于谷歌 Chrome 浏览器的 Claude 扩展程序，在侧边栏带来完整的 Claude Cowork 会话体验。",
       "source": "IT之家",
       "sources": [
         "IT之家"
@@ -1332,7 +1713,7 @@ window.CHENCHEN_DAILY_DATA = {
       "publishedAt": "Wed, 12 Aug 2026 23:03:20 GMT",
       "date": "2026-08-13",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.88,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1375,14 +1756,14 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Claude 打破平台壁垒：Chrome 侧边栏 AI 对话互通全平台历史记录” against primary-source evidence.",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Claude 打破平台壁垒：Chrome 侧边栏 AI 对话互通全平台历史记录” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
       "rawText": "Anthropic 今天（8 月 13 日）在 X 平台发布推文，宣布升级适用于谷歌 Chrome 浏览器的 Claude 扩展程序，在侧边栏带来完整的 Claude Cowork 会话体验。",
       "relatedTitles": [
         "Claude 打破平台壁垒：Chrome 侧边栏 AI 对话互通全平台历史记录"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1450,7 +1831,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "给机器人一个会预测未来的Critic，VLA强化学习直接起飞"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1518,7 +1899,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "腾讯微信公布 WeLM 模型：80B 版已在 AI 助手小微上应用，617B 版正在开发"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1586,7 +1967,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "工作中的AI：战略比工具更重要"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1654,7 +2035,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌AI健康监测再进化：Pixel Watch 5首推胰岛素抵抗追踪"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1722,77 +2103,10 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "电动车骑1年就报废！台铃公布核查结果：涉事车行私售假冒原厂电池"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "谷歌全新Pixel 11以Gemini为核心 打响与苹果的AI手机之战",
-      "summary": "Gemini 帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家 （可能是）大模型圈里最会弹钢琴的人 听雨 2026-05-30 Gemini 谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样 Gemini Robotics主打空间推理的第三代模型。 henry 2026-04-17 Gemini 具身智能 让龙",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarrc3413857.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarrc3413857.shtml"
-      ],
-      "publishedAt": "2026-08-12",
-      "date": "2026-08-12",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 164,
-      "reporterScore": 186,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌全新Pixel 11以Gemini为核心 打响与苹果的AI手机之战” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "Alphabet于周三发布全新Pixel 11系列智能手机，将目前自主性最强版本的Gemini作为设备核心。而就在几周后，苹果预计将推出搭载谷歌AI模型、经过重构的Siri。 新机系列包含Pixel 11、Pixel 11 Pro...",
-      "relatedTitles": [
-        "谷歌全新Pixel 11以Gemini为核心 打响与苹果的AI手机之战"
-      ]
-    },
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "MEET大会",
@@ -2264,21 +2578,21 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "“如果美国能封锁AI，他们将再控制全球南方200年”",
-      "summary": "“如果美国能封锁AI，他们将再控制全球南方200年” 2026-08-05 17:56:29",
+      "title": "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期",
+      "summary": "先进封装正在成为全球AI算力竞赛的关键胜负手。从CoWoS的供需失衡到玻璃基板的产业化门槛，从共封装光学（CPO）的能效博弈到混合键合的多线突破，产业每一个环节都在被AI掀起的巨大需求所重塑。",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/internation/2026_08_05_826272.shtml",
+      "url": "https://www.guancha.cn/JanVardaman/2026_08_11_826887.shtml",
       "sourceUrls": [
-        "https://www.guancha.cn/internation/2026_08_05_826272.shtml"
+        "https://www.guancha.cn/JanVardaman/2026_08_11_826887.shtml"
       ],
       "publishedAt": "",
       "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.75,
+      "category": "芯片",
+      "classificationConfidence": 0.98,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2286,7 +2600,7 @@ window.CHENCHEN_DAILY_DATA = {
         "source"
       ],
       "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 4,
       "score": 136,
       "reporterScore": 144,
@@ -2320,13 +2634,13 @@ window.CHENCHEN_DAILY_DATA = {
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““如果美国能封锁AI，他们将再控制全球南方200年”” against primary-source evidence.",
+      "format": "graphic",
+      "angle": "Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期” against primary-source evidence.",
       "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "“如果美国能封锁AI，他们将再控制全球南方200年” 2026-08-05 17:56:29",
+      "matchedTopic": "半导体供应链",
+      "rawText": "先进封装正在成为全球AI算力竞赛的关键胜负手。从CoWoS的供需失衡到玻璃基板的产业化门槛，从共封装光学（CPO）的能效博弈到混合键合的多线突破，产业每一个环节都在被AI掀起的巨大需求所重塑。",
       "relatedTitles": [
-        "“如果美国能封锁AI，他们将再控制全球南方200年”"
+        "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期"
       ]
     },
     {
@@ -2532,38 +2846,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期",
-      "summary": "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期 <img original=\"https://i.guancha.cn/news/2026/08/05/20260805111512468.jpg\" src=\"https://i.guancha.cn/news/2026/08/05/202",
+      "title": "“985”博导不如初中辍学的张雪？",
+      "summary": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/JanVardaman/2026_08_11_826887.shtml",
+      "url": "https://www.guancha.cn/politics/2026_04_14_813533.shtml",
       "sourceUrls": [
-        "https://www.guancha.cn/JanVardaman/2026_08_11_826887.shtml"
+        "https://www.guancha.cn/politics/2026_04_14_813533.shtml"
       ],
       "publishedAt": "",
       "date": "",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
+      "category": "科学前沿",
+      "classificationConfidence": 0.82,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
       "priority": 4,
-      "score": 127,
-      "reporterScore": 127,
+      "score": 129,
+      "reporterScore": 129,
       "scoreBreakdown": {
-        "hardTech": 95,
+        "hardTech": 85,
         "today": -10,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 0,
+        "cgtFocus": 12,
         "visual": 0,
         "international": 0,
         "policy": 0,
@@ -2581,20 +2895,20 @@ window.CHENCHEN_DAILY_DATA = {
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
+        "hardTechWeight": 85,
+        "reporterScore": 85
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期” against primary-source evidence.",
+      "format": "package",
+      "angle": "Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind ““985”博导不如初中辍学的张雪？” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "半导体供应链",
-      "rawText": "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期 <img original=\"https://i.guancha.cn/news/2026/08/05/20260805111512468.jpg\" src=\"https://i.guancha.cn/news/2026/08/05/20260805111512468.jpg\" alt=\"抄袭者请注",
+      "rawText": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻视基础研究，甚至矮化科研工作者的态度却不可取。 需要厘清的是，博导与张雪并非处于对立面，而是站在创新链条的不同位置。高校是基础研究的主阵地，很多博导主要从事原理性研究，他们处于创新链前端，要解决的是“从0到1”的问题。张雪则在创新链后端，主要实现工程化落地，要解决的是“从10到100”的问题。二者角色、职责不同，不能用“造机子”的尺子去衡量做基础研究的学者。我们理当为张雪的成功喝彩，但不能因此否定博导们研究的科学价值和学术意义。 基础研究很多时候看似“无用”，但今天的“无用”或许就是明天的“大用”。基础研究所激发的原始创新往往具有奠基性、颠覆性和引领性，是新技术、新发明的先导。评判基础研究的价值不在一时，而在长远。从半导体、计算机到激光技术，我们今天日常生活中广泛使用的很",
       "relatedTitles": [
-        "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期"
+        "“985”博导不如初中辍学的张雪？"
       ]
     },
     {
@@ -2763,71 +3077,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro, Pixel Watch 5, Gemini AI and more",
-      "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/breaking-news/live/live-updates-on-the-pixel-11-launch-at-made-by-google-2026-pixel-11-pro-pixel-watch-5-gemini-ai-and-more-140000105.html",
-      "publishedAt": "2026-08-12",
-      "date": "2026-08-12",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.71,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro” against primary-source evidence.",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 159,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Grok can now do work for you as a team of AI bots",
-      "summary": "SpaceXAI has launched Grok Bot, an AI agent platform that lets you deploy a team to get work done for you.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html",
-      "publishedAt": "2026-08-12",
-      "date": "2026-08-12",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.94,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Grok can now do work for you as a team of AI bots” against primary-source evidence.",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 159,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2895,6 +3145,134 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro, Pixel Watch 5, Gemini AI and more",
+      "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/breaking-news/live/live-updates-on-the-pixel-11-launch-at-made-by-google-2026-pixel-11-pro-pixel-watch-5-gemini-ai-and-more-140000105.html",
+      "publishedAt": "2026-08-12",
+      "date": "2026-08-12",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.71,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro” against primary-source evidence.",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 159,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Grok can now do work for you as a team of AI bots",
+      "summary": "SpaceXAI has launched Grok Bot, an AI agent platform that lets you deploy a team to get work done for you.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html",
+      "publishedAt": "2026-08-12",
+      "date": "2026-08-12",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.94,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Grok can now do work for you as a team of AI bots” against primary-source evidence.",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 159,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung Galaxy Watch 9 review: 3 ways it stands out from the competition",
+      "summary": "Samsung didn't change much with its latest generation smartwatch. That's mostly OK, given the quality — but there are some things Samsung needs do to keep up.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/wearables/review/samsung-galaxy-watch-9-review-3-ways-it-stands-out-from-the-competition-160000027.html",
+      "publishedAt": "2026-08-12",
+      "date": "2026-08-12",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Samsung Galaxy Watch 9 review: 3 ways it stands out from the competition” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Claude Cowork Can Now Run In A Chrome Sidebar",
+      "summary": "Take your conversations with the chatbot into the Anthropic browser extension.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/claude/articles/claude-cowork-now-run-chrome-221929325.html",
+      "publishedAt": "2026-08-13",
+      "date": "2026-08-13",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.71,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Claude Cowork Can Now Run In A Chrome Sidebar” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Tesla wants to build a $10B solar factory in Texas",
       "summary": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
       "source": "TechCrunch",
@@ -2923,7 +3301,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 93
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2955,39 +3333,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia's latest solution to soaring enterprise AI costs is...a router?",
-      "summary": "Nvidia NeMo Switchyard routes enterprise AI prompts across models to cut completion costs, latency, and reliance on proprietary APIs.",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/12/nvidias-latest-solution-for-soaring-enterprise-costs-nemo-switchyard-software-router/5286911",
-      "publishedAt": "Wed, 12 Aug 2026 21:00:10 +0200",
-      "date": "2026-08-12",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.58,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Nvidia's latest solution to soaring enterprise AI costs is...a router?” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3019,167 +3365,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "publishedAt": "Wed, 12 Aug 2026 21:00:30 +0000",
-      "date": "2026-08-13",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Twitch content has trained Amazon AI for years, but users can opt out no” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google falsely said Sam Altman was dead — and suggested vandalized public sources could be to blame",
-      "summary": "Sam Altman, OpenAI CEO, was incorrectly declared dead in Google search. Wikipedia vandalism could have been the reason.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/social-media/articles/google-falsely-said-sam-altman-222801707.html",
-      "publishedAt": "2026-08-13",
-      "date": "2026-08-13",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.71,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google falsely said Sam Altman was dead — and suggested vandalized publi” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
-      "summary": "Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the company.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
-      "publishedAt": "Tue, 11 Aug 2026 19:41:17 GMT",
-      "date": "2026-08-11",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab con” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Get a Samsung Galaxy A37 on Metro by T-Mobile when you switch",
-      "summary": "Samsung didn't change much with its latest generation smartwatch. That's mostly OK, given the quality — but there are some things Samsung needs do to keep up.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/deals/articles/samsung-galaxy-a37-metro-t-183924961.html",
-      "publishedAt": "2026-08-13",
-      "date": "2026-08-13",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Get a Samsung Galaxy A37 on Metro by T-Mobile when you switch” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "5 Samsung TVs With Deep Discounts In August 2026",
-      "summary": "Samsung has long been regarded as one of the premier brands of TV on the market, and here are five Samsung sets with huge discounts in August 2026.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/home-entertainment/tvs/deals/articles/5-samsung-tvs-deep-discounts-142643930.html",
-      "publishedAt": "2026-08-12",
-      "date": "2026-08-12",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “5 Samsung TVs With Deep Discounts In August 2026” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3215,6 +3401,70 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "publishedAt": "Wed, 12 Aug 2026 21:00:30 +0000",
+      "date": "2026-08-13",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Twitch content has trained Amazon AI for years, but users can opt out no” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google falsely said Sam Altman was dead — and suggested vandalized public sources could be to blame",
+      "summary": "Sam Altman, OpenAI CEO, was incorrectly declared dead in Google search. Wikipedia vandalism could have been the reason.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/social-media/articles/google-falsely-said-sam-altman-222801707.html",
+      "publishedAt": "2026-08-13",
+      "date": "2026-08-13",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.71,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google falsely said Sam Altman was dead — and suggested vandalized publi” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
       "summary": "Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with OpenAI and Anthropic.",
       "source": "CNBC Technology",
@@ -3229,6 +3479,38 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google’s new AI boss inherits a race to catch OpenAI and Anthropic” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+      "summary": "Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the company.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+      "publishedAt": "Tue, 11 Aug 2026 19:41:17 GMT",
+      "date": "2026-08-11",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab con” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -3308,10 +3590,42 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "5 Samsung TVs With Deep Discounts In August 2026",
+      "summary": "Samsung has long been regarded as one of the premier brands of TV on the market, and here are five Samsung sets with huge discounts in August 2026.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/home-entertainment/tvs/deals/articles/5-samsung-tvs-deep-discounts-142643930.html",
+      "publishedAt": "2026-08-12",
+      "date": "2026-08-12",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “5 Samsung TVs With Deep Discounts In August 2026” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-13｜V3\n生成时间：2026/8/13 07:25:37\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2593｜确认今日 12｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 12 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-13] 代理式AI重塑旅游业：从智能助手迈向自主决策\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “代理式AI重塑旅游业：从智能助手迈向自主决策” against primary-source evidence.\n\n2. [2026-08-13] DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3751174.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格” against primary-source evidence.\n\n3. [2026-08-13] 峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/digi/2026-08-13/doc-ininchpe0288652.shtml\n   报道角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播” against primary-source evidence.\n\n4. [2026-08-13] 千问前技术负责人林俊旸创办AI公司语用科技；自\n   网易科技｜2026-08-13｜https://www.163.com/dy/article/L46OASPF0512B07B.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “千问前技术负责人林俊旸创办AI公司语用科技；自” against primary-source evidence.\n\n5. [2026-08-13] 过半AI初创企业从未发表论文\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchpe0273549.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “过半AI初创企业从未发表论文” against primary-source evidence.\n\n本次新增线索：\n- 代理式AI重塑旅游业：从智能助手迈向自主决策｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml\n- DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3751174.shtml\n- 峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-13/doc-ininchpe0288652.shtml\n- 千问前技术负责人林俊旸创办AI公司语用科技；自｜网易科技｜https://www.163.com/dy/article/L46OASPF0512B07B.html\n- 过半AI初创企业从未发表论文｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchpe0273549.shtml\n- Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs｜CNBC Technology｜https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html\n\n今日热点方向：\n- AI 应用：AI动态（6 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs｜CNBC Technology｜https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html\n2. Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro, Pixel Watch 5, Gemini AI and more｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/live/live-updates-on-the-pixel-11-launch-at-made-by-google-2026-pixel-11-pro-pixel-watch-5-gemini-ai-and-more-140000105.html\n3. Grok can now do work for you as a team of AI bots｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html\n4. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n5. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-13｜V3\n生成时间：2026/8/13 07:25:37\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2593｜确认今日 12｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 12 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-13] 代理式AI重塑旅游业：从智能助手迈向自主决策\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “代理式AI重塑旅游业：从智能助手迈向自主决策” against primary-source evidence.\n\n2. [2026-08-13] DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3751174.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格” against primary-source evidence.\n\n3. [2026-08-13] 峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/digi/2026-08-13/doc-ininchpe0288652.shtml\n   报道角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播” against primary-source evidence.\n\n4. [2026-08-13] 千问前技术负责人林俊旸创办AI公司语用科技；自\n   网易科技｜2026-08-13｜https://www.163.com/dy/article/L46OASPF0512B07B.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “千问前技术负责人林俊旸创办AI公司语用科技；自” against primary-source evidence.\n\n5. [2026-08-13] 过半AI初创企业从未发表论文\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchpe0273549.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “过半AI初创企业从未发表论文” against primary-source evidence.\n\n本次新增线索：\n- 代理式AI重塑旅游业：从智能助手迈向自主决策｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml\n- DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3751174.shtml\n- 峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-13/doc-ininchpe0288652.shtml\n- 千问前技术负责人林俊旸创办AI公司语用科技；自｜网易科技｜https://www.163.com/dy/article/L46OASPF0512B07B.html\n- 过半AI初创企业从未发表论文｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchpe0273549.shtml\n- Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs｜CNBC Technology｜https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html\n\n今日热点方向：\n- AI 应用：AI动态（6 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs｜CNBC Technology｜https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html\n2. Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro, Pixel Watch 5, Gemini AI and more｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/live/live-updates-on-the-pixel-11-launch-at-made-by-google-2026-pixel-11-pro-pixel-watch-5-gemini-ai-and-more-140000105.html\n3. Grok can now do work for you as a team of AI bots｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html\n4. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n5. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-13｜生成时间：2026/8/13 07:25:37｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2593｜确认今日 12｜国际背景 18</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 12 条｜国际 12 条<br>延续跟踪线索：国内 0 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-13] 代理式AI重塑旅游业：从智能助手迈向自主决策</strong>\n      <span>新浪科技｜2026-08-13｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “代理式AI重塑旅游业：从智能助手迈向自主决策” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-13] DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格</strong>\n      <span>新浪科技｜2026-08-13｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3751174.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-13] 峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播</strong>\n      <span>新浪科技｜2026-08-13｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-13/doc-ininchpe0288652.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：183｜需核验来源</span>\n      <p>报道角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-13] 千问前技术负责人林俊旸创办AI公司语用科技；自</strong>\n      <span>网易科技｜2026-08-13｜<a href=\"https://www.163.com/dy/article/L46OASPF0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “千问前技术负责人林俊旸创办AI公司语用科技；自” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-13] 过半AI初创企业从未发表论文</strong>\n      <span>新浪科技｜2026-08-13｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchpe0273549.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “过半AI初创企业从未发表论文” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs</strong>\n      <span>时间：Wed, 12 Aug 2026 14:20:10 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro, Pixel Watch 5, Gemini AI and more</strong>\n      <span>时间：2026-08-12｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/breaking-news/live/live-updates-on-the-pixel-11-launch-at-made-by-google-2026-pixel-11-pro-pixel-watch-5-gemini-ai-and-more-140000105.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Grok can now do work for you as a team of AI bots</strong>\n      <span>时间：2026-08-12｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Grok can now do work for you as a team of AI bots” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China</strong>\n      <span>时间：Tue, 11 Aug 2026 21:01:13 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why Jensen Huang’s $500 billion AI financing plan faces a big risk from ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. French newspapers appeal to antitrust regulator over Google's AI summaries</strong>\n      <span>时间：2026-08-11｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “French newspapers appeal to antitrust regulator over Google's AI summari” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/13 07:25:37\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 12 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-13] 代理式AI重塑旅游业：从智能助手迈向自主决策\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “代理式AI重塑旅游业：从智能助手迈向自主决策” against primary-source evidence.\n\n2. [2026-08-13] DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3751174.shtml\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格” against primary-source evidence.\n\n3. [2026-08-13] 峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-13/doc-ininchpe0288652.shtml\n   角度：Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播” against primary-source evidence.\n\n4. [2026-08-13] 千问前技术负责人林俊旸创办AI公司语用科技；自\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L46OASPF0512B07B.html\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “千问前技术负责人林俊旸创办AI公司语用科技；自” against primary-source evidence.\n\n5. [2026-08-13] 过半AI初创企业从未发表论文\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchpe0273549.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “过半AI初创企业从未发表论文” against primary-source evidence.\n\n本次新增线索：\n- 代理式AI重塑旅游业：从智能助手迈向自主决策｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml\n- DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3751174.shtml\n- 峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-13/doc-ininchpe0288652.shtml\n- 千问前技术负责人林俊旸创办AI公司语用科技；自｜网易科技｜https://www.163.com/dy/article/L46OASPF0512B07B.html\n- 过半AI初创企业从未发表论文｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchpe0273549.shtml\n- Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs｜CNBC Technology｜https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html\n\n今日热点方向：\n- AI 应用：AI动态（6 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs｜CNBC Technology｜https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html\n2. Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro, Pixel Watch 5, Gemini AI and more｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/live/live-updates-on-the-pixel-11-launch-at-made-by-google-2026-pixel-11-pro-pixel-watch-5-gemini-ai-and-more-140000105.html\n3. Grok can now do work for you as a team of AI bots｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html\n4. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n5. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-13｜V3\n生成时间：2026/8/13 07:53:10\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2509｜确认今日 17｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 2 条\n延续跟踪线索：国内 11 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-13] 代理式AI重塑旅游业：从智能助手迈向自主决策\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “代理式AI重塑旅游业：从智能助手迈向自主决策” against primary-source evidence.\n\n2. [2026-08-13] 刚刚，DeepSeek V4 Pro正式版发布！\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininarri3878943.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，DeepSeek V4 Pro正式版发布！” against primary-source evidence.\n\n3. [2026-08-13] 2035年登月基建！中国月球机器狗负责挖矿、建造栖息地\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnva0169479.shtml\n   报道角度：Assess the robotics value chain through service deployment, safety and user value, including components, cost, reliability and export potential. For this item, test the claim behind “2035年登月基建！中国月球机器狗负责挖矿、建造栖息地” against primary-source evidence.\n\n4. [2026-08-13] 人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4902587.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕” against primary-source evidence.\n\n5. [2026-08-13] 对全球AI投资动能仍然强劲的三点思考\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininchnw4860500.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “对全球AI投资动能仍然强劲的三点思考” against primary-source evidence.\n\n本次新增线索：\n- 刚刚，DeepSeek V4 Pro正式版发布！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininarri3878943.shtml\n- 2035年登月基建！中国月球机器狗负责挖矿、建造栖息地｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnva0169479.shtml\n- 人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4902587.shtml\n- 对全球AI投资动能仍然强劲的三点思考｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininchnw4860500.shtml\n- 开发周期缩短40%！新思科技联手AMD、微软：用AI加速芯片设计｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnux3512677.shtml\n- Samsung Galaxy Watch 9 review: 3 ways it stands out from the competition｜Yahoo News Technology｜https://tech.yahoo.com/wearables/review/samsung-galaxy-watch-9-review-3-ways-it-stands-out-from-the-competition-160000027.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（3 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs｜CNBC Technology｜https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html\n2. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n3. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\n4. Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro, Pixel Watch 5, Gemini AI and more｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/live/live-updates-on-the-pixel-11-launch-at-made-by-google-2026-pixel-11-pro-pixel-watch-5-gemini-ai-and-more-140000105.html\n5. Grok can now do work for you as a team of AI bots｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-13｜V3\n生成时间：2026/8/13 07:53:10\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2509｜确认今日 17｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 2 条\n延续跟踪线索：国内 11 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-13] 代理式AI重塑旅游业：从智能助手迈向自主决策\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “代理式AI重塑旅游业：从智能助手迈向自主决策” against primary-source evidence.\n\n2. [2026-08-13] 刚刚，DeepSeek V4 Pro正式版发布！\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininarri3878943.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，DeepSeek V4 Pro正式版发布！” against primary-source evidence.\n\n3. [2026-08-13] 2035年登月基建！中国月球机器狗负责挖矿、建造栖息地\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnva0169479.shtml\n   报道角度：Assess the robotics value chain through service deployment, safety and user value, including components, cost, reliability and export potential. For this item, test the claim behind “2035年登月基建！中国月球机器狗负责挖矿、建造栖息地” against primary-source evidence.\n\n4. [2026-08-13] 人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4902587.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕” against primary-source evidence.\n\n5. [2026-08-13] 对全球AI投资动能仍然强劲的三点思考\n   新浪科技｜2026-08-13｜https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininchnw4860500.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “对全球AI投资动能仍然强劲的三点思考” against primary-source evidence.\n\n本次新增线索：\n- 刚刚，DeepSeek V4 Pro正式版发布！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininarri3878943.shtml\n- 2035年登月基建！中国月球机器狗负责挖矿、建造栖息地｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnva0169479.shtml\n- 人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4902587.shtml\n- 对全球AI投资动能仍然强劲的三点思考｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininchnw4860500.shtml\n- 开发周期缩短40%！新思科技联手AMD、微软：用AI加速芯片设计｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnux3512677.shtml\n- Samsung Galaxy Watch 9 review: 3 ways it stands out from the competition｜Yahoo News Technology｜https://tech.yahoo.com/wearables/review/samsung-galaxy-watch-9-review-3-ways-it-stands-out-from-the-competition-160000027.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（3 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs｜CNBC Technology｜https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html\n2. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n3. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\n4. Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro, Pixel Watch 5, Gemini AI and more｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/live/live-updates-on-the-pixel-11-launch-at-made-by-google-2026-pixel-11-pro-pixel-watch-5-gemini-ai-and-more-140000105.html\n5. Grok can now do work for you as a team of AI bots｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-13｜生成时间：2026/8/13 07:53:10｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2509｜确认今日 17｜国际背景 18</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 2 条<br>延续跟踪线索：国内 11 条｜国际 16 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-13] 代理式AI重塑旅游业：从智能助手迈向自主决策</strong>\n      <span>新浪科技｜2026-08-13｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “代理式AI重塑旅游业：从智能助手迈向自主决策” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-13] 刚刚，DeepSeek V4 Pro正式版发布！</strong>\n      <span>新浪科技｜2026-08-13｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininarri3878943.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，DeepSeek V4 Pro正式版发布！” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-13] 2035年登月基建！中国月球机器狗负责挖矿、建造栖息地</strong>\n      <span>新浪科技｜2026-08-13｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnva0169479.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：183｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through service deployment, safety and user value, including components, cost, reliability and export potential. For this item, test the claim behind “2035年登月基建！中国月球机器狗负责挖矿、建造栖息地” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-13] 人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕</strong>\n      <span>新浪科技｜2026-08-13｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4902587.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：180｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-13] 对全球AI投资动能仍然强劲的三点思考</strong>\n      <span>新浪科技｜2026-08-13｜<a href=\"https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininchnw4860500.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “对全球AI投资动能仍然强劲的三点思考” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs</strong>\n      <span>时间：Wed, 12 Aug 2026 14:20:10 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China</strong>\n      <span>时间：Tue, 11 Aug 2026 21:01:13 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why Jensen Huang’s $500 billion AI financing plan faces a big risk from ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. French newspapers appeal to antitrust regulator over Google's AI summaries</strong>\n      <span>时间：2026-08-11｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “French newspapers appeal to antitrust regulator over Google's AI summari” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro, Pixel Watch 5, Gemini AI and more</strong>\n      <span>时间：2026-08-12｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/breaking-news/live/live-updates-on-the-pixel-11-launch-at-made-by-google-2026-pixel-11-pro-pixel-watch-5-gemini-ai-and-more-140000105.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Grok can now do work for you as a team of AI bots</strong>\n      <span>时间：2026-08-12｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Grok can now do work for you as a team of AI bots” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/13 07:53:10\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 2 条\n延续跟踪线索：国内 11 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-13] 代理式AI重塑旅游业：从智能助手迈向自主决策\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4862523.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “代理式AI重塑旅游业：从智能助手迈向自主决策” against primary-source evidence.\n\n2. [2026-08-13] 刚刚，DeepSeek V4 Pro正式版发布！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininarri3878943.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，DeepSeek V4 Pro正式版发布！” against primary-source evidence.\n\n3. [2026-08-13] 2035年登月基建！中国月球机器狗负责挖矿、建造栖息地\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnva0169479.shtml\n   角度：Assess the robotics value chain through service deployment, safety and user value, including components, cost, reliability and export potential. For this item, test the claim behind “2035年登月基建！中国月球机器狗负责挖矿、建造栖息地” against primary-source evidence.\n\n4. [2026-08-13] 人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4902587.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕” against primary-source evidence.\n\n5. [2026-08-13] 对全球AI投资动能仍然强劲的三点思考\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininchnw4860500.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “对全球AI投资动能仍然强劲的三点思考” against primary-source evidence.\n\n本次新增线索：\n- 刚刚，DeepSeek V4 Pro正式版发布！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininarri3878943.shtml\n- 2035年登月基建！中国月球机器狗负责挖矿、建造栖息地｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnva0169479.shtml\n- 人类第一台机器人手机！天马宣布独供荣耀Robot Phone屏幕｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininchnw4902587.shtml\n- 对全球AI投资动能仍然强劲的三点思考｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininchnw4860500.shtml\n- 开发周期缩短40%！新思科技联手AMD、微软：用AI加速芯片设计｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincnux3512677.shtml\n- Samsung Galaxy Watch 9 review: 3 ways it stands out from the competition｜Yahoo News Technology｜https://tech.yahoo.com/wearables/review/samsung-galaxy-watch-9-review-3-ways-it-stands-out-from-the-competition-160000027.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（3 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs｜CNBC Technology｜https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html\n2. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China｜CNBC Technology｜https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html\n3. French newspapers appeal to antitrust regulator over Google's AI summaries｜France24 Technology｜https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries\n4. Live updates on the Pixel 11 launch at Made by Google 2026: Pixel 11 Pro, Pixel Watch 5, Gemini AI and more｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/live/live-updates-on-the-pixel-11-launch-at-made-by-google-2026-pixel-11-pro-pixel-watch-5-gemini-ai-and-more-140000105.html\n5. Grok can now do work for you as a team of AI bots｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
