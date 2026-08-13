@@ -3,35 +3,35 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/13 15:02:37
+生成时间：2026/8/13 15:28:33
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 58 条｜国际 1 条
-延续跟踪线索：国内 2 条｜国际 15 条
+新增核心线索：国内 11 条｜国际 1 条
+延续跟踪线索：国内 49 条｜国际 16 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-13] 机器人 AI 模型 DYNA-2 登场：超 100 万小时人类视频训练，任务成功率可达 90%
+1. [2026-08-13] 同比增长138% 全球16国将参加第二届世界人形机器人运动会
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-08/13/content_563400.html
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “同比增长138% 全球16国将参加第二届世界人形机器人运动会” against primary-source evidence.
+
+2. [2026-08-13] 机器人 AI 模型 DYNA-2 登场：超 100 万小时人类视频训练，任务成功率可达 90%
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-08-13/doc-ininecsu0023506.shtml
    角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “机器人 AI 模型 DYNA-2 登场：超 100 万小时人类视频训练，任务成功率可达 90%” against primary-source evidence.
 
-2. [2026-08-13] 广东：围绕人工智能等关键领域，研制一批具有自
+3. [2026-08-13] 世界人形机器人运动会即将在北京启幕，16国666
    来源：网易科技
-   链接：https://www.163.com/dy/article/L4717PI70534A4SC.html
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “广东：围绕人工智能等关键领域，研制一批具有自” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L47JO2V10512B07B.html
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “世界人形机器人运动会即将在北京启幕，16国666” against primary-source evidence.
 
-3. [2026-08-13] 为国产机器人开辟出海通道-"今年上半年
+4. [2026-08-13] 为国产机器人开辟出海通道-"今年上半年
    来源：新华网-科技
    链接：http://www.news.cn/tech/20260813/bcf8e59715fc4039a1b862b594a5c79f/c.html
    角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “为国产机器人开辟出海通道-"今年上半年” against primary-source evidence.
-
-4. [2026-08-13] 51个项目，5天赛程，机器人运动员将在北京开展巅峰对决
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininecss3261578.shtml
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “51个项目，5天赛程，机器人运动员将在北京开展巅峰对决” against primary-source evidence.
 
 5. [2026-08-13] 世界机器人大会临近！机构：8-10月仍为机器人板块的最佳交易时点
    来源：网易科技
@@ -39,19 +39,19 @@ ChenChen 今日 Briefing｜V3
    角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “世界机器人大会临近！机构：8-10月仍为机器人板块的最佳交易时点” against primary-source evidence.
 
 本次新增线索：
-- 机器人 AI 模型 DYNA-2 登场：超 100 万小时人类视频训练，任务成功率可达 90%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-13/doc-ininecsu0023506.shtml
-- 广东：围绕人工智能等关键领域，研制一批具有自｜网易科技｜https://www.163.com/dy/article/L4717PI70534A4SC.html
-- 为国产机器人开辟出海通道-"今年上半年｜新华网-科技｜http://www.news.cn/tech/20260813/bcf8e59715fc4039a1b862b594a5c79f/c.html
-- 51个项目，5天赛程，机器人运动员将在北京开展巅峰对决｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininecss3261578.shtml
-- 世界机器人大会临近！机构：8-10月仍为机器人板块的最佳交易时点｜网易科技｜https://www.163.com/dy/article/L4743B0L0534A4SC.html
-- Not Motorola, Not Samsung: This Smartphone Brand Was Rated Least Repairable｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/not-motorola-not-samsung-smartphone-031700058.html
+- 同比增长138% 全球16国将参加第二届世界人形机器人运动会｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/13/content_563400.html
+- 世界人形机器人运动会即将在北京启幕，16国666｜网易科技｜https://www.163.com/dy/article/L47JO2V10512B07B.html
+- 零零科技 HOVERAir VERSA 无人机 8 月 19 日发布：模块化设计、可作为三轴云台相机使用｜IT之家｜https://www.ithome.com/0/989/191.htm
+- 联想CEO：计划今年晚些时候推出搭载英伟达RTX芯片的AI PC｜网易科技｜https://www.163.com/dy/article/L47JQFQJ05198CJN.html
+- 阿里云超节点开售+AI算力指数涨超3%，南方基金｜网易科技｜https://www.163.com/dy/article/L47J68520534A4SC.html
+- Anthropic pledges to embed watermarks to help discern AI slop in sop to EU｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792
 
 今日热点方向：
-- AI 应用：AI动态（12 条，4 个来源）
-- 芯片/半导体：半导体供应链（7 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（5 条，3 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
-- 太空与低空经济：低空经济与无人机（3 条，1 个来源）
+- AI 应用：AI 应用与智能体（12 条，4 个来源）
+- 芯片/半导体：半导体供应链（6 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，4 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
+- 太空与低空经济：低空经济与无人机（3 条，2 个来源）
 - 科学前沿：科学前沿动态（3 条，3 个来源）
 
 国际科技背景：
