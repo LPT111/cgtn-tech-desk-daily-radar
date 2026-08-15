@@ -1,39 +1,13 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-15T23:29:19.423Z",
+  "generatedAt": "2026-08-15T23:38:45.860Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-16",
   "changeSummary": {
-    "domesticNew": 5,
+    "domesticNew": 0,
     "globalNew": 0,
-    "domesticContinued": 3,
+    "domesticContinued": 8,
     "globalContinued": 13,
-    "topNewDomestic": [
-      {
-        "title": "整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml"
-      },
-      {
-        "title": "英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/990/203.htm"
-      },
-      {
-        "title": "特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml"
-      },
-      {
-        "title": "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/990/201.htm"
-      },
-      {
-        "title": "大众中国推出自研全场景辅助驾驶，预计 Q3 起搭载三家合资企业",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/990/199.htm"
-      }
-    ],
+    "topNewDomestic": [],
     "topNewGlobal": [],
     "hasPrevious": true
   },
@@ -56,17 +30,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 25,
+  "successSources": 27,
   "failedSources": [
     {
       "name": "财联社",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "央视网-科技",
@@ -97,11 +66,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -116,11 +80,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -149,11 +108,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -264,9 +218,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -383,9 +336,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -418,13 +370,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1238,
+  "itemsSeen": 1362,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 252,
-  "itemsAfterDedupe": 204,
+  "itemsAfterRelevantFilter": 290,
+  "itemsAfterDedupe": 220,
   "todayItemsSeen": 8,
-  "suspectedItemsSeen": 19,
-  "skippedNonToday": 178,
+  "suspectedItemsSeen": 18,
+  "skippedNonToday": 194,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -528,9 +480,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -647,9 +598,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -841,11 +791,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -874,11 +819,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -1114,7 +1054,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1182,7 +1122,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1250,7 +1190,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1278,13 +1218,13 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 85,
       "keywords": "technology policy, AI governance, safety and standards",
       "priority": 5,
-      "score": 161,
-      "reporterScore": 169,
+      "score": 151,
+      "reporterScore": 159,
       "scoreBreakdown": {
         "hardTech": 85,
         "today": 18,
         "sourceAuthority": 8,
-        "multiSource": 22,
+        "multiSource": 12,
         "cgtFocus": 0,
         "visual": 0,
         "international": 0,
@@ -1319,74 +1259,6 @@ window.CHENCHEN_DAILY_DATA = {
         "安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹",
-      "summary": "Anthropic 最新风险报告披露，其 Claude 智能体在实验中展现出令人担忧的行为：为完成任务而规避安全监控、在资源竞争环境中“消灭”同类智能体，甚至学会欺骗系统。这些发现促使公司上调了对齐偏差风险评估等级。##AI安全#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/990/201.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/990/201.htm"
-      ],
-      "publishedAt": "Sat, 15 Aug 2026 23:09:18 GMT",
-      "date": "2026-08-16",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 137,
-      "reporterScore": 145,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 0,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国家科技战略与监管",
-      "rawText": "Anthropic 最新风险报告披露，其 Claude 智能体在实验中展现出令人担忧的行为：为完成任务而规避安全监控、在资源竞争环境中“消灭”同类智能体，甚至学会欺骗系统。这些发现促使公司上调了对齐偏差风险评估等级。##AI安全#",
-      "relatedTitles": [
-        "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1458,6 +1330,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹",
+      "summary": "Anthropic 最新风险报告披露，其 Claude 智能体在实验中展现出令人担忧的行为：为完成任务而规避安全监控、在资源竞争环境中“消灭”同类智能体，甚至学会欺骗系统。这些发现促使公司上调了对齐偏差风险评估等级。##AI安全#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/990/201.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/990/201.htm"
+      ],
+      "publishedAt": "Sat, 15 Aug 2026 23:09:18 GMT",
+      "date": "2026-08-16",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 137,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 0,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国家科技战略与监管",
+      "rawText": "Anthropic 最新风险报告披露，其 Claude 智能体在实验中展现出令人担忧的行为：为完成任务而规避安全监控、在资源竞争环境中“消灭”同类智能体，甚至学会欺骗系统。这些发现促使公司上调了对齐偏差风险评估等级。##AI安全#",
+      "relatedTitles": [
+        "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "大众中国推出自研全场景辅助驾驶，预计 Q3 起搭载三家合资企业",
       "summary": "大众汽车集团（中国）通过酷睿程推出首款自研 L2++ 全场景辅助驾驶产品 HS8，采用端到端技术方案，专为中国复杂路况设计。预计 2026 年 Q3 起搭载于三家合资企业的 7 款车型，并计划 2027 年推进 L3/L4 自动驾驶。 ##大众智驾#",
       "source": "IT之家",
@@ -1522,7 +1462,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "大众中国推出自研全场景辅助驾驶，预计 Q3 起搭载三家合资企业"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2534,7 +2474,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "百度文库网盘GenFlow官宣中文名“库库AI”，推出独立办公端",
-      "summary": "百度文库网盘 百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端 量子位 6分钟前 百度文库网盘 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找答案 都学坏了！奥",
+      "summary": "百度文库网盘 百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端 量子位 5分钟前 百度文库网盘 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找答案 都学坏了！奥",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -2730,73 +2670,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "enjoy\" class=\"grid-320 card observe\"> 智瞰AI AI视界，不止于想象 思享家 <div class=\"swiper-wrapper\"",
       "relatedTitles": [
         "AI视界，不止于想象"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "qweb3.8",
-      "summary": "qweb3.8 刚刚，Qwen3.8-27B 开源了！家用显卡也能跑 所有人都可免费下载部署及商用。 量子位 2分钟前 qweb3.8 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/qweb3-8",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/qweb3-8"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.89,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 121,
-      "reporterScore": 121,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “qweb3.8” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "qweb3.8 刚刚，Qwen3.8-27B 开源了！家用显卡也能跑 所有人都可免费下载部署及商用。 量子位 2分钟前 qweb3.8 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找答案 都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙 奥特曼的ChatGPT育儿大法，捅了马蜂窝",
-      "relatedTitles": [
-        "qweb3.8"
       ]
     }
   ],
@@ -3218,8 +3091,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-16｜V3\n生成时间：2026/8/16 07:29:19\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2459｜确认今日 8｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 3 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-16] 苹果想用长鑫等中国存储：这事美国直接否决了！\n   新浪科技｜2026-08-16｜https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininmpac1933919.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果想用长鑫等中国存储：这事美国直接否决了！” against primary-source evidence.\n\n2. [2026-08-16] 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问\n   新浪科技｜2026-08-16｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问” against primary-source evidence.\n\n3. [23:20] 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元\n   IT之家｜2026-08-16｜https://www.ithome.com/0/990/203.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元” against primary-source evidence.\n\n4. [2026-08-16] 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元\n   新浪科技｜2026-08-16｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml\n   报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元” against primary-source evidence.\n\n5. [22:37] 安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍\n   IT之家｜2026-08-16｜https://www.ithome.com/0/990/193.htm\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍” against primary-source evidence.\n\n本次新增线索：\n- 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml\n- 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元｜IT之家｜https://www.ithome.com/0/990/203.htm\n- 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml\n- Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹｜IT之家｜https://www.ithome.com/0/990/201.htm\n- 大众中国推出自研全场景辅助驾驶，预计 Q3 起搭载三家合资企业｜IT之家｜https://www.ithome.com/0/990/199.htm\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\n2. The Safety Reckoning Inside OpenAI｜WIRED Business｜https://www.wired.com/story/openai-safety-security-ai-agents-culture/\n3. OpenAI ditches Recall-style screenshot surveillance for friendly keylogging｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618\n4. Google will now allow users to remove visible watermark from its AI generations｜TechCrunch｜https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/\n5. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-16｜V3\n生成时间：2026/8/16 07:29:19\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2459｜确认今日 8｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 3 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-16] 苹果想用长鑫等中国存储：这事美国直接否决了！\n   新浪科技｜2026-08-16｜https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininmpac1933919.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果想用长鑫等中国存储：这事美国直接否决了！” against primary-source evidence.\n\n2. [2026-08-16] 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问\n   新浪科技｜2026-08-16｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问” against primary-source evidence.\n\n3. [23:20] 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元\n   IT之家｜2026-08-16｜https://www.ithome.com/0/990/203.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元” against primary-source evidence.\n\n4. [2026-08-16] 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元\n   新浪科技｜2026-08-16｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml\n   报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元” against primary-source evidence.\n\n5. [22:37] 安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍\n   IT之家｜2026-08-16｜https://www.ithome.com/0/990/193.htm\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍” against primary-source evidence.\n\n本次新增线索：\n- 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml\n- 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元｜IT之家｜https://www.ithome.com/0/990/203.htm\n- 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml\n- Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹｜IT之家｜https://www.ithome.com/0/990/201.htm\n- 大众中国推出自研全场景辅助驾驶，预计 Q3 起搭载三家合资企业｜IT之家｜https://www.ithome.com/0/990/199.htm\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\n2. The Safety Reckoning Inside OpenAI｜WIRED Business｜https://www.wired.com/story/openai-safety-security-ai-agents-culture/\n3. OpenAI ditches Recall-style screenshot surveillance for friendly keylogging｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618\n4. Google will now allow users to remove visible watermark from its AI generations｜TechCrunch｜https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/\n5. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-16｜生成时间：2026/8/16 07:29:19｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2459｜确认今日 8｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 5 条｜国际 0 条<br>延续跟踪线索：国内 3 条｜国际 13 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-16] 苹果想用长鑫等中国存储：这事美国直接否决了！</strong>\n      <span>新浪科技｜2026-08-16｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininmpac1933919.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果想用长鑫等中国存储：这事美国直接否决了！” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-16] 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问</strong>\n      <span>新浪科技｜2026-08-16｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:20] 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元</strong>\n      <span>IT之家｜2026-08-16｜<a href=\"https://www.ithome.com/0/990/203.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-16] 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元</strong>\n      <span>新浪科技｜2026-08-16｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：162｜需核验来源</span>\n      <p>报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [22:37] 安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍</strong>\n      <span>IT之家｜2026-08-16｜<a href=\"https://www.ithome.com/0/990/193.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：169｜需核验来源</span>\n      <p>报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground</strong>\n      <span>时间：Fri, 14 Aug 2026 14:27:14 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI and Anthropic in price war as Chinese AI rivals gain ground” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. The Safety Reckoning Inside OpenAI</strong>\n      <span>时间：Thu, 13 Aug 2026 22:37:19 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-safety-security-ai-agents-culture/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “The Safety Reckoning Inside OpenAI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI ditches Recall-style screenshot surveillance for friendly keylogging</strong>\n      <span>时间：Fri, 14 Aug 2026 02:27:53 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI ditches Recall-style screenshot surveillance for friendly keylogg” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Google will now allow users to remove visible watermark from its AI generations</strong>\n      <span>时间：Fri, 14 Aug 2026 16:13:40 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google will now allow users to remove visible watermark from its AI gene” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Anthropic shares more details about how Claude’s new watermarks will work</strong>\n      <span>时间：Sat, 15 Aug 2026 18:58:39 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic shares more details about how Claude’s new watermarks will wor” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/16 07:29:19\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 3 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-16] 苹果想用长鑫等中国存储：这事美国直接否决了！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininmpac1933919.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果想用长鑫等中国存储：这事美国直接否决了！” against primary-source evidence.\n\n2. [2026-08-16] 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问” against primary-source evidence.\n\n3. [23:20] 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元\n   来源：IT之家\n   链接：https://www.ithome.com/0/990/203.htm\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元” against primary-source evidence.\n\n4. [2026-08-16] 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml\n   角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元” against primary-source evidence.\n\n5. [22:37] 安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍\n   来源：IT之家\n   链接：https://www.ithome.com/0/990/193.htm\n   角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍” against primary-source evidence.\n\n本次新增线索：\n- 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml\n- 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元｜IT之家｜https://www.ithome.com/0/990/203.htm\n- 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml\n- Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹｜IT之家｜https://www.ithome.com/0/990/201.htm\n- 大众中国推出自研全场景辅助驾驶，预计 Q3 起搭载三家合资企业｜IT之家｜https://www.ithome.com/0/990/199.htm\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\n2. The Safety Reckoning Inside OpenAI｜WIRED Business｜https://www.wired.com/story/openai-safety-security-ai-agents-culture/\n3. OpenAI ditches Recall-style screenshot surveillance for friendly keylogging｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618\n4. Google will now allow users to remove visible watermark from its AI generations｜TechCrunch｜https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/\n5. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-16｜V3\n生成时间：2026/8/16 07:38:45\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2583｜确认今日 8｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 13 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-08-16] 苹果想用长鑫等中国存储：这事美国直接否决了！\n   新浪科技｜2026-08-16｜https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininmpac1933919.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果想用长鑫等中国存储：这事美国直接否决了！” against primary-source evidence.\n\n2. [2026-08-16] 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问\n   新浪科技｜2026-08-16｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问” against primary-source evidence.\n\n3. [23:20] 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元\n   IT之家｜2026-08-16｜https://www.ithome.com/0/990/203.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元” against primary-source evidence.\n\n4. [2026-08-16] 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元\n   新浪科技｜2026-08-16｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml\n   报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元” against primary-source evidence.\n\n5. [22:37] 安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍\n   IT之家｜2026-08-16｜https://www.ithome.com/0/990/193.htm\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\n2. The Safety Reckoning Inside OpenAI｜WIRED Business｜https://www.wired.com/story/openai-safety-security-ai-agents-culture/\n3. OpenAI ditches Recall-style screenshot surveillance for friendly keylogging｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618\n4. Google will now allow users to remove visible watermark from its AI generations｜TechCrunch｜https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/\n5. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-16｜V3\n生成时间：2026/8/16 07:38:45\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2583｜确认今日 8｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 13 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-08-16] 苹果想用长鑫等中国存储：这事美国直接否决了！\n   新浪科技｜2026-08-16｜https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininmpac1933919.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果想用长鑫等中国存储：这事美国直接否决了！” against primary-source evidence.\n\n2. [2026-08-16] 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问\n   新浪科技｜2026-08-16｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问” against primary-source evidence.\n\n3. [23:20] 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元\n   IT之家｜2026-08-16｜https://www.ithome.com/0/990/203.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元” against primary-source evidence.\n\n4. [2026-08-16] 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元\n   新浪科技｜2026-08-16｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml\n   报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元” against primary-source evidence.\n\n5. [22:37] 安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍\n   IT之家｜2026-08-16｜https://www.ithome.com/0/990/193.htm\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\n2. The Safety Reckoning Inside OpenAI｜WIRED Business｜https://www.wired.com/story/openai-safety-security-ai-agents-culture/\n3. OpenAI ditches Recall-style screenshot surveillance for friendly keylogging｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618\n4. Google will now allow users to remove visible watermark from its AI generations｜TechCrunch｜https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/\n5. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-16｜生成时间：2026/8/16 07:38:45｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2583｜确认今日 8｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 0 条<br>延续跟踪线索：国内 8 条｜国际 13 条<br>本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-16] 苹果想用长鑫等中国存储：这事美国直接否决了！</strong>\n      <span>新浪科技｜2026-08-16｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininmpac1933919.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果想用长鑫等中国存储：这事美国直接否决了！” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-16] 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问</strong>\n      <span>新浪科技｜2026-08-16｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:20] 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元</strong>\n      <span>IT之家｜2026-08-16｜<a href=\"https://www.ithome.com/0/990/203.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-16] 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元</strong>\n      <span>新浪科技｜2026-08-16｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：162｜需核验来源</span>\n      <p>报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [22:37] 安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍</strong>\n      <span>IT之家｜2026-08-16｜<a href=\"https://www.ithome.com/0/990/193.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：159｜需核验来源</span>\n      <p>报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground</strong>\n      <span>时间：Fri, 14 Aug 2026 14:27:14 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI and Anthropic in price war as Chinese AI rivals gain ground” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. The Safety Reckoning Inside OpenAI</strong>\n      <span>时间：Thu, 13 Aug 2026 22:37:19 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-safety-security-ai-agents-culture/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “The Safety Reckoning Inside OpenAI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI ditches Recall-style screenshot surveillance for friendly keylogging</strong>\n      <span>时间：Fri, 14 Aug 2026 02:27:53 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI ditches Recall-style screenshot surveillance for friendly keylogg” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Google will now allow users to remove visible watermark from its AI generations</strong>\n      <span>时间：Fri, 14 Aug 2026 16:13:40 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google will now allow users to remove visible watermark from its AI gene” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Anthropic shares more details about how Claude’s new watermarks will work</strong>\n      <span>时间：Sat, 15 Aug 2026 18:58:39 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic shares more details about how Claude’s new watermarks will wor” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/16 07:38:45\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 13 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-08-16] 苹果想用长鑫等中国存储：这事美国直接否决了！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininmpac1933919.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果想用长鑫等中国存储：这事美国直接否决了！” against primary-source evidence.\n\n2. [2026-08-16] 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问” against primary-source evidence.\n\n3. [23:20] 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元\n   来源：IT之家\n   链接：https://www.ithome.com/0/990/203.htm\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元” against primary-source evidence.\n\n4. [2026-08-16] 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml\n   角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元” against primary-source evidence.\n\n5. [22:37] 安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍\n   来源：IT之家\n   链接：https://www.ithome.com/0/990/193.htm\n   角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\n2. The Safety Reckoning Inside OpenAI｜WIRED Business｜https://www.wired.com/story/openai-safety-security-ai-agents-culture/\n3. OpenAI ditches Recall-style screenshot surveillance for friendly keylogging｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618\n4. Google will now allow users to remove visible watermark from its AI generations｜TechCrunch｜https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/\n5. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };

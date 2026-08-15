@@ -3,14 +3,14 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/16 07:29:19
+生成时间：2026/8/16 07:38:45
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 5 条｜国际 0 条
-延续跟踪线索：国内 3 条｜国际 13 条
-本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
+新增核心线索：国内 0 条｜国际 0 条
+延续跟踪线索：国内 8 条｜国际 13 条
+本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
 1. [2026-08-16] 苹果想用长鑫等中国存储：这事美国直接否决了！
@@ -39,11 +39,7 @@ ChenChen 今日 Briefing｜V3
    角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍” against primary-source evidence.
 
 本次新增线索：
-- 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml
-- 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元｜IT之家｜https://www.ithome.com/0/990/203.htm
-- 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml
-- Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹｜IT之家｜https://www.ithome.com/0/990/201.htm
-- 大众中国推出自研全场景辅助驾驶，预计 Q3 起搭载三家合资企业｜IT之家｜https://www.ithome.com/0/990/199.htm
+- 暂无新增核心线索。
 
 今日热点方向：
 - AI 应用：AI动态（2 条，1 个来源）
