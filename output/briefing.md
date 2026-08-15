@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/16 07:02:07
+生成时间：2026/8/16 07:29:19
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 8 条
-延续跟踪线索：国内 0 条｜国际 6 条
+新增核心线索：国内 5 条｜国际 0 条
+延续跟踪线索：国内 3 条｜国际 13 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,43 +18,47 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininmpac1933919.shtml
    角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果想用长鑫等中国存储：这事美国直接否决了！” against primary-source evidence.
 
-2. [22:58] 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问
-   来源：IT之家
-   链接：https://www.ithome.com/0/990/198.htm
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问” against primary-source evidence.
+2. [2026-08-16] 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问” against primary-source evidence.
 
-3. [22:37] 安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍
+3. [23:20] 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元
+   来源：IT之家
+   链接：https://www.ithome.com/0/990/203.htm
+   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元” against primary-source evidence.
+
+4. [2026-08-16] 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml
+   角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元” against primary-source evidence.
+
+5. [22:37] 安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍
    来源：IT之家
    链接：https://www.ithome.com/0/990/193.htm
    角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍” against primary-source evidence.
 
-4. [2026-08-16] 用AI创作不等于艺术创新
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininmpae1578126.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “用AI创作不等于艺术创新” against primary-source evidence.
-
 本次新增线索：
-- 苹果想用长鑫等中国存储：这事美国直接否决了！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininmpac1933919.shtml
-- 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问｜IT之家｜https://www.ithome.com/0/990/198.htm
-- 安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍｜IT之家｜https://www.ithome.com/0/990/193.htm
-- 用AI创作不等于艺术创新｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininmpae1578126.shtml
-- Pixel 11: Google Still Offers 12 Months Of AI Pro, But Not For Long｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/pixel-11-google-still-offers-190335154.html
-- Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/
+- 整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxv1666215.shtml
+- 英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元｜IT之家｜https://www.ithome.com/0/990/203.htm
+- 特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininncxw1299711.shtml
+- Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹｜IT之家｜https://www.ithome.com/0/990/201.htm
+- 大众中国推出自研全场景辅助驾驶，预计 Q3 起搭载三家合资企业｜IT之家｜https://www.ithome.com/0/990/199.htm
 
 今日热点方向：
-- AI 应用：AI动态（2 条，2 个来源）
+- AI 应用：AI动态（2 条，1 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：
-- 新能源车/智能驾驶：
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
 - 太空与低空经济：
 - 科学前沿：
 
 国际科技背景：
-1. Pixel 11: Google Still Offers 12 Months Of AI Pro, But Not For Long｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/pixel-11-google-still-offers-190335154.html
-2. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/
-3. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/
-4. Which Nvidia GPU Is Equivalent To The Xbox Series X?｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/nvidia-gpu-equivalent-xbox-series-171700562.html
-5. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter｜CNBC Technology｜https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html
+1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/
+2. The Safety Reckoning Inside OpenAI｜WIRED Business｜https://www.wired.com/story/openai-safety-security-ai-agents-culture/
+3. OpenAI ditches Recall-style screenshot surveillance for friendly keylogging｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618
+4. Google will now allow users to remove visible watermark from its AI generations｜TechCrunch｜https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/
+5. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
