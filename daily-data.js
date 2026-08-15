@@ -1,32 +1,37 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-15T06:38:56.470Z",
+  "generatedAt": "2026-08-15T06:59:39.266Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-15",
   "changeSummary": {
-    "domesticNew": 4,
+    "domesticNew": 6,
     "globalNew": 0,
-    "domesticContinued": 23,
+    "domesticContinued": 26,
     "globalContinued": 13,
     "topNewDomestic": [
       {
-        "title": "双曲线三号火箭整流罩静力试验取得成功",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-08/15/content_564440.html"
-      },
-      {
-        "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
+        "title": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
         "source": "IT之家",
-        "url": "https://www.ithome.com/0/990/048.htm"
+        "url": "https://www.ithome.com/0/989/989.htm"
       },
       {
-        "title": "特斯拉“现金买断”罢工员工，瑞典近代最长劳资对抗画上句号",
+        "title": "QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwp2194861.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkmqs1966772.shtml"
       },
       {
-        "title": "微信员工透露最新微信鸿蒙版 App 已全量功能，含聊天发送实况图片、收藏聊天记录支持复制等",
+        "title": "人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-08-15/doc-ininkrwp2206382.shtml"
+      },
+      {
+        "title": "试验取得成功！已具备飞行试验条件",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwr8637367.shtml"
+      },
+      {
+        "title": "长安启源 Q06「浮光银」车色官图公布，定位中大型轿跑 SUV",
         "source": "IT之家",
-        "url": "https://www.ithome.com/0/990/046.htm"
+        "url": "https://www.ithome.com/0/990/052.htm"
       }
     ],
     "topNewGlobal": [],
@@ -36,7 +41,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 873,
+    "domesticRejected": 868,
     "globalRejected": 887,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -51,7 +56,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 28,
   "failedSources": [
     {
       "name": "财联社",
@@ -79,19 +84,9 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -126,19 +121,9 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -228,7 +213,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "量子位",
       "tier": "industry",
-      "parsed": 37,
+      "parsed": 38,
       "failed": false,
       "optional": false
     },
@@ -344,9 +329,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -354,7 +338,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -367,9 +351,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -402,13 +385,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1300,
+  "itemsSeen": 1372,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 283,
-  "itemsAfterDedupe": 216,
-  "todayItemsSeen": 27,
-  "suspectedItemsSeen": 15,
-  "skippedNonToday": 174,
+  "itemsAfterRelevantFilter": 299,
+  "itemsAfterDedupe": 224,
+  "todayItemsSeen": 32,
+  "suspectedItemsSeen": 18,
+  "skippedNonToday": 173,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -491,7 +474,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "量子位",
       "tier": "industry",
-      "parsed": 37,
+      "parsed": 38,
       "failed": false,
       "optional": false
     },
@@ -607,9 +590,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -617,7 +599,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -630,9 +612,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -844,19 +825,9 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -889,7 +860,7 @@ window.CHENCHEN_DAILY_DATA = {
   "topics": [
     {
       "topic": "新能源车动态",
-      "count": 7,
+      "count": 8,
       "sourceCount": 3,
       "sources": [
         "IT之家",
@@ -901,23 +872,41 @@ window.CHENCHEN_DAILY_DATA = {
         "奕境 X9 旗舰大六座 SUV 预售发布会定档 8 月 18 日，全系搭载华为乾崑智驾 ADS 5",
         "追光 S 隧道 360° 大回环被疑 AI 造假，岚图汽车宣布发布会一镜到底回应质疑",
         "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
-        "特斯拉飞行汽车要来了"
+        "长安启源 Q06「浮光银」车色官图公布，定位中大型轿跑 SUV"
       ]
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 6,
-      "sourceCount": 2,
+      "count": 7,
+      "sourceCount": 3,
       "sources": [
+        "IT之家",
         "新浪科技",
         "网易科技"
       ],
       "items": [
-        "腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步",
+        "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
+        "QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰",
         "联想集团刘军：AI PC国内市场销量占比过半",
         "AI早报 | OpenAI上市前年化营收有望突破400亿美元",
-        "知情人士：英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
-        "Anthropic被曝Q2收入超115亿美元 同比增近15倍"
+        "知情人士：英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划"
+      ]
+    },
+    {
+      "topic": "AI动态",
+      "count": 5,
+      "sourceCount": 3,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技"
+      ],
+      "items": [
+        "人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车",
+        "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
+        "逛个展把全身测一遍！爱康AI生命展还能这样玩！",
+        "奥拓电子XR+AI真人短剧《嘘！她是渡梦师》8月15日正式上线",
+        "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 skill"
       ]
     },
     {
@@ -932,20 +921,6 @@ window.CHENCHEN_DAILY_DATA = {
         "美国为什么造不出宇树机器人？融不到2500万美元",
         "智元机器人内部管理曝光 20余个天才被神秘隔离",
         "第36届青岛国际啤酒节解锁具身智能新体验"
-      ]
-    },
-    {
-      "topic": "AI动态",
-      "count": 3,
-      "sourceCount": 2,
-      "sources": [
-        "IT之家",
-        "新浪科技"
-      ],
-      "items": [
-        "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
-        "奥拓电子XR+AI真人短剧《嘘！她是渡梦师》8月15日正式上线",
-        "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 skill"
       ]
     },
     {
@@ -971,6 +946,17 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "英伟达CPO交换机全面量产：能效提升5倍，供应商包括天孚通信",
         "软银集团减持台积电72%股份 交易所申报文件披露"
+      ]
+    },
+    {
+      "topic": "商业航天与卫星互联网",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "试验取得成功！已具备飞行试验条件"
       ]
     },
     {
@@ -1088,37 +1074,105 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "双曲线三号火箭整流罩静力试验取得成功",
-      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 双曲线三号火箭整流罩静力试验取得成功 2026-08-15 14:15:00 来源: 科技日报 点击数： 热点",
-      "source": "科技日报",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
+      "summary": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景 量子位的朋友们 2026-08-13 18:01:47 来源： 量子位 神仙打架+1！讯飞星火X2硬核亮相，行业深度全面升级 百万Token免费领 鹭羽 2026-02-11 星火大模型 科大讯飞 1024，点亮人间烟火 科大讯飞开放平台10周年的答案 白交 2020-",
+      "source": "IT之家",
       "sources": [
-        "科技日报"
+        "IT之家"
       ],
-      "sourceTier": "official",
-      "url": "https://www.stdaily.com/web/gdxw/2026-08/15/content_564440.html",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/989/989.htm",
       "sourceUrls": [
-        "https://www.stdaily.com/web/gdxw/2026-08/15/content_564440.html"
+        "https://www.ithome.com/0/989/989.htm"
       ],
-      "publishedAt": "2026-08-15",
+      "publishedAt": "Sat, 15 Aug 2026 00:54:23 GMT",
       "date": "2026-08-15",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
+      "category": "AI",
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 172,
-      "reporterScore": 186,
+      "score": 179,
+      "reporterScore": 193,
       "scoreBreakdown": {
-        "hardTech": 90,
+        "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 128
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind ““虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "荣耀全场景软件主理人 @荣耀席迎军 昨晚宣布，荣耀 YOYO Claw 正式接入智谱最新发布的 GLM-5.3 大模型。据介绍，通过更大规模、更长周期、更多样任务环境的后训练，GLM-5.3 进一步释放模型能力上限。#荣耀 YOYO Claw#",
+      "relatedTitles": [
+        "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰",
+      "summary": "快科技8月15日消息，腾讯QQ官宣，QQ Bot现已支持接入DeepSeek Harness官方插件。普通用户和开发者能快速给QQ机器人装上完整AI能力，私聊、群聊都能稳定使用。接入插件之后，QQ Bot直接拥有独立AI智能体，每个私聊窗口...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkmqs1966772.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkmqs1966772.shtml"
+      ],
+      "publishedAt": "2026-08-15",
+      "date": "2026-08-15",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 171,
+      "reporterScore": 185,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 8,
@@ -1138,40 +1192,40 @@ window.CHENCHEN_DAILY_DATA = {
         "interview": true,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
+        "hardTechWeight": 95,
+        "reporterScore": 128
       },
       "isPrimarySource": false,
       "hasInterviewValue": true,
       "hasVisualValue": true,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “双曲线三号火箭整流罩静力试验取得成功” against primary-source evidence.",
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "太空与低空动态",
-      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 双曲线三号火箭整流罩静力试验取得成功 2026-08-15 14:15:00 来源: 科技日报 点击数： 热点",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技8月15日消息，腾讯QQ官宣，QQ Bot现已支持接入DeepSeek Harness官方插件。普通用户和开发者能快速给QQ机器人装上完整AI能力，私聊、群聊都能稳定使用。接入插件之后，QQ Bot直接拥有独立AI智能体，每个私聊窗口...",
       "relatedTitles": [
-        "双曲线三号火箭整流罩静力试验取得成功"
+        "QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰"
       ],
       "isNewSinceLastRun": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
-      "summary": "《时代》杂志（Time）今天（8 月 15 日）发布博文，报道称全球首例以 AI 为企业管理者，最终决定解雇其员工的案例。",
-      "source": "IT之家",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车",
+      "summary": "快科技8月15日消息，这波真是硬往沟里开啊！近日，一位广东网友在社交平台发布的一段视频引发热议。画面中一辆正常行驶的低速无人配送车，因未能识别路面施工坑洞，径直冲入沟槽侧翻，离谱又好笑的画面在社交平台传播发酵。视频画面显示，事发路段正在施工...",
+      "source": "新浪科技",
       "sources": [
-        "IT之家"
+        "新浪科技"
       ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/990/048.htm",
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-08-15/doc-ininkrwp2206382.shtml",
       "sourceUrls": [
-        "https://www.ithome.com/0/990/048.htm"
+        "https://finance.sina.com.cn/tech/discovery/2026-08-15/doc-ininkrwp2206382.shtml"
       ],
-      "publishedAt": "Sat, 15 Aug 2026 06:25:45 GMT",
+      "publishedAt": "2026-08-15",
       "date": "2026-08-15",
       "category": "AI",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.65,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1181,16 +1235,16 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 168,
-      "reporterScore": 184,
+      "score": 175,
+      "reporterScore": 183,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 8,
+        "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 0,
+        "cgtFocus": 12,
         "visual": 0,
-        "international": 9,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
@@ -1202,24 +1256,24 @@ window.CHENCHEN_DAILY_DATA = {
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": true,
+        "international": false,
         "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 130
+        "reporterScore": 120
       },
       "isPrimarySource": false,
       "hasInterviewValue": true,
       "hasVisualValue": false,
-      "hasInternationalValue": true,
+      "hasInternationalValue": false,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除” against primary-source evidence.",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI动态",
-      "rawText": "《时代》杂志（Time）今天（8 月 15 日）发布博文，报道称全球首例以 AI 为企业管理者，最终决定解雇其员工的案例。",
+      "rawText": "快科技8月15日消息，这波真是硬往沟里开啊！近日，一位广东网友在社交平台发布的一段视频引发热议。画面中一辆正常行驶的低速无人配送车，因未能识别路面施工坑洞，径直冲入沟槽侧翻，离谱又好笑的画面在社交平台传播发酵。视频画面显示，事发路段正在施工...",
       "relatedTitles": [
-        "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除"
+        "人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车"
       ],
       "isNewSinceLastRun": true
     },
@@ -1292,6 +1346,142 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "试验取得成功！已具备飞行试验条件",
+      "summary": "2026年8月14日，星际荣耀航天科技集团股份有限公司在某试验场组织开展了双曲线三号（SQX-3）运载火箭整流罩静力试验，产品各项指标满足设计要求，试验后产品状态良好，圆满通过考核。至此，该型火箭整流罩完成了分离试验及静力试验全剖面验证，标...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwr8637367.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwr8637367.shtml"
+      ],
+      "publishedAt": "2026-08-15",
+      "date": "2026-08-15",
+      "category": "太空与低空",
+      "classificationConfidence": 0.97,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 166,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “试验取得成功！已具备飞行试验条件” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "2026年8月14日，星际荣耀航天科技集团股份有限公司在某试验场组织开展了双曲线三号（SQX-3）运载火箭整流罩静力试验，产品各项指标满足设计要求，试验后产品状态良好，圆满通过考核。至此，该型火箭整流罩完成了分离试验及静力试验全剖面验证，标...",
+      "relatedTitles": [
+        "试验取得成功！已具备飞行试验条件"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "双曲线三号火箭整流罩静力试验取得成功",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 双曲线三号火箭整流罩静力试验取得成功 2026-08-15 14:15:00 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-08/15/content_564440.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-08/15/content_564440.html"
+      ],
+      "publishedAt": "2026-08-15",
+      "date": "2026-08-15",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 172,
+      "reporterScore": 186,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “双曲线三号火箭整流罩静力试验取得成功” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 双曲线三号火箭整流罩静力试验取得成功 2026-08-15 14:15:00 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "双曲线三号火箭整流罩静力试验取得成功"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "第36届青岛国际啤酒节解锁具身智能新体验",
       "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 第36届青岛国际啤酒节解锁具身智能新体验 2026-08-15 12:13:39 来源: 科技日报 点击数： 热点",
@@ -1360,22 +1550,22 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步",
-      "summary": "快科技8月15日消息，腾讯QQ官宣，QQ Bot现已支持接入DeepSeek Harness官方插件。普通用户和开发者能快速给QQ机器人装上完整AI能力，私聊、群聊都能稳定使用。接入插件之后，QQ Bot直接拥有独立AI智能体，每个私聊窗口...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
+      "summary": "《时代》杂志（Time）今天（8 月 15 日）发布博文，报道称全球首例以 AI 为企业管理者，最终决定解雇其员工的案例。",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-15/doc-ininkmqn3580461.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/990/048.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-08-15/doc-ininkmqn3580461.shtml"
+        "https://www.ithome.com/0/990/048.htm"
       ],
-      "publishedAt": "2026-08-15",
+      "publishedAt": "Sat, 15 Aug 2026 06:25:45 GMT",
       "date": "2026-08-15",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1385,16 +1575,16 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 171,
-      "reporterScore": 185,
+      "score": 168,
+      "reporterScore": 184,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
+        "visual": 0,
+        "international": 9,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
@@ -1405,25 +1595,25 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
-        "international": false,
+        "visual": false,
+        "international": true,
         "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 128
+        "reporterScore": 130
       },
       "isPrimarySource": false,
       "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
       "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "IT之家 8 月 15 日消息，@腾讯QQ 今天发布微博，宣布 QQ Bot 机器人接入 DeepSeek Harness 以及官方插件。在接入后，QQ Bot 机器人拥有 AI 智能体能能力，支持单聊和群聊。IT之家附上微博内容如下：...",
+      "matchedTopic": "AI动态",
+      "rawText": "《时代》杂志（Time）今天（8 月 15 日）发布博文，报道称全球首例以 AI 为企业管理者，最终决定解雇其员工的案例。",
       "relatedTitles": [
-        "腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步"
+        "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除"
       ],
       "isNewSinceLastRun": false
     },
@@ -1904,6 +2094,142 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "长安启源 Q06「浮光银」车色官图公布，定位中大型轿跑 SUV",
+      "summary": "长安启源 Q06“浮光银”车色官图发布，新车定位中大型轿跑 SUV，基于 SDA 天枢架构打造，纯电驱动。该车首次搭载天枢领航 Ultra 智驾系统，支持端到端城市领航，并配备 800V 平台和 6C 闪充技术。#长安启源#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/990/052.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/990/052.htm"
+      ],
+      "publishedAt": "Sat, 15 Aug 2026 06:49:03 GMT",
+      "date": "2026-08-15",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 149,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “长安启源 Q06「浮光银」车色官图公布，定位中大型轿跑 SUV” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "长安启源 Q06“浮光银”车色官图发布，新车定位中大型轿跑 SUV，基于 SDA 天枢架构打造，纯电驱动。该车首次搭载天枢领航 Ultra 智驾系统，支持端到端城市领航，并配备 800V 平台和 6C 闪充技术。#长安启源#",
+      "relatedTitles": [
+        "长安启源 Q06「浮光银」车色官图公布，定位中大型轿跑 SUV"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "逛个展把全身测一遍！爱康AI生命展还能这样玩！",
+      "summary": "逛个展把全身测一遍！爱康AI生命展还能这样玩！,宇宙,乐队,生命展,职场健康,爱康ai",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L4CMUJEA0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L4CMUJEA0534A4SC.html"
+      ],
+      "publishedAt": "2026-08-15",
+      "date": "2026-08-15",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “逛个展把全身测一遍！爱康AI生命展还能这样玩！” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "逛个展把全身测一遍！爱康AI生命展还能这样玩！,宇宙,乐队,生命展,职场健康,爱康ai",
+      "relatedTitles": [
+        "逛个展把全身测一遍！爱康AI生命展还能这样玩！"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "软银集团减持台积电72%股份 交易所申报文件披露",
       "summary": "周五提交至美国证券交易委员会的申报文件显示，软银集团将其持有的台湾积体电路制造股份有限公司（台积电）股份减持了72%。 季度申报文件显示，截至6月末，软银持有56.5万股台积电美国存托凭证，市值2.7亿美元；而上一季度该公司披露持有...",
@@ -2174,74 +2500,6 @@ window.CHENCHEN_DAILY_DATA = {
         "国内唯一通用光量子计算整机企业完成超亿融资，韦豪创芯、共达电声联合领投"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "特斯拉“现金买断”罢工员工，瑞典近代最长劳资对抗画上句号",
-      "summary": "【TechWeb】持续1021天的瑞典近代史上最长劳资对抗近日终于画上句号。瑞典最大工业工会IF Metall正式宣布，将于8月19日起终止所有针对特斯拉的罢工及声援行动。这场纠纷的结局颇具争议：特斯拉以支付经济补偿的方式“买断”了所有参与...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwp2194861.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwp2194861.shtml"
-      ],
-      "publishedAt": "2026-08-15",
-      "date": "2026-08-15",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉“现金买断”罢工员工，瑞典近代最长劳资对抗画上句号” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "【TechWeb】持续1021天的瑞典近代史上最长劳资对抗近日终于画上句号。瑞典最大工业工会IF Metall正式宣布，将于8月19日起终止所有针对特斯拉的罢工及声援行动。这场纠纷的结局颇具争议：特斯拉以支付经济补偿的方式“买断”了所有参与...",
-      "relatedTitles": [
-        "特斯拉“现金买断”罢工员工，瑞典近代最长劳资对抗画上句号"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2653,6 +2911,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "特斯拉“现金买断”罢工员工，瑞典近代最长劳资对抗画上句号",
+      "summary": "【TechWeb】持续1021天的瑞典近代史上最长劳资对抗近日终于画上句号。瑞典最大工业工会IF Metall正式宣布，将于8月19日起终止所有针对特斯拉的罢工及声援行动。这场纠纷的结局颇具争议：特斯拉以支付经济补偿的方式“买断”了所有参与...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwp2194861.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwp2194861.shtml"
+      ],
+      "publishedAt": "2026-08-15",
+      "date": "2026-08-15",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉“现金买断”罢工员工，瑞典近代最长劳资对抗画上句号” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "【TechWeb】持续1021天的瑞典近代史上最长劳资对抗近日终于画上句号。瑞典最大工业工会IF Metall正式宣布，将于8月19日起终止所有针对特斯拉的罢工及声援行动。这场纠纷的结局颇具争议：特斯拉以支付经济补偿的方式“买断”了所有参与...",
+      "relatedTitles": [
+        "特斯拉“现金买断”罢工员工，瑞典近代最长劳资对抗画上句号"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "电动汽车充电辐射危害健康、大功率快充损伤电池等言论别信：专家释疑都是谣言",
       "summary": "快科技8月15日消息，近年来国内新能源汽车保有量持续高速攀升，补能已经成为广大电车车主日常用车过程里最高频的刚需场景，几乎每天都要和各类充电桩打交道。但随着充电场景的普及，各类关于充电的认知误区、网络不实谣言以及消费端维权难题也同步频发，不...",
       "source": "新浪科技",
@@ -2853,7 +3179,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "微信员工透露最新微信鸿蒙版 App 已全量功能，含聊天发送实况图片、收藏聊天记录支持复制等"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -3595,6 +3921,140 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "稀疏权重分解",
+      "summary": "稀疏权重分解 至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1% 理解大模型，无需再训练一个替代网络 邓思邈 2分钟前 稀疏权重分解 至知创新研究院 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 奥特曼的ChatG",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/%e7%a8%80%e7%96%8f%e6%9d%83%e9%87%8d%e5%88%86%e8%a7%a3",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/%e7%a8%80%e7%96%8f%e6%9d%83%e9%87%8d%e5%88%86%e8%a7%a3"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.89,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 133,
+      "reporterScore": 133,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “稀疏权重分解” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "稀疏权重分解 至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1% 理解大模型，无需再训练一个替代网络 邓思邈 2分钟前 稀疏权重分解 至知创新研究院 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 奥特曼的ChatGPT育儿大法，捅了马蜂窝 爆料：哈萨比斯原本要和Jeff Dean一起走！ 中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+      "relatedTitles": [
+        "稀疏权重分解"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "至知创新研究院",
+      "summary": "至知创新研究院 至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1% 理解大模型，无需再训练一个替代网络 邓思邈 2分钟前 稀疏权重分解 至知创新研究院 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 奥特曼的Chat",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/%e8%87%b3%e7%9f%a5%e5%88%9b%e6%96%b0%e7%a0%94%e7%a9%b6%e9%99%a2",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/%e8%87%b3%e7%9f%a5%e5%88%9b%e6%96%b0%e7%a0%94%e7%a9%b6%e9%99%a2"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.89,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 133,
+      "reporterScore": 133,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “至知创新研究院” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "至知创新研究院 至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1% 理解大模型，无需再训练一个替代网络 邓思邈 2分钟前 稀疏权重分解 至知创新研究院 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 奥特曼的ChatGPT育儿大法，捅了马蜂窝 爆料：哈萨比斯原本要和Jeff Dean一起走！ 中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+      "relatedTitles": [
+        "至知创新研究院"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "“985”博导不如初中辍学的张雪？",
       "summary": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻",
@@ -3664,7 +4124,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "百度文库网盘GenFlow官宣中文名“库库AI”，推出独立办公端",
-      "summary": "百度文库网盘 百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端 量子位 6分钟前 百度文库网盘 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找答案 都学坏了！奥",
+      "summary": "百度文库网盘 百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端 量子位 5分钟前 百度文库网盘 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找答案 都学坏了！奥",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -3860,6 +4320,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "enjoy\" class=\"grid-320 card observe\"> 智瞰AI AI视界，不止于想象 思享家 <div class=\"swiper-wrapper\"",
       "relatedTitles": [
         "AI视界，不止于想象"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "qweb3.8",
+      "summary": "qweb3.8 刚刚，Qwen3.8-27B 开源了！家用显卡也能跑 所有人都可免费下载部署及商用。 量子位 刚刚 qweb3.8 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/qweb3-8",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/qweb3-8"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.89,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 121,
+      "reporterScore": 121,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “qweb3.8” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "qweb3.8 刚刚，Qwen3.8-27B 开源了！家用显卡也能跑 所有人都可免费下载部署及商用。 量子位 刚刚 qweb3.8 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找答案 都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙 奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+      "relatedTitles": [
+        "qweb3.8"
       ]
     }
   ],
@@ -4059,14 +4586,14 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI ditches Recall-style screenshot surveillance for friendly keylogging",
-      "summary": "Are we human?",
+      "summary": "Ai and ML OpenAI ditches Recall-style screenshot surveillance for friendly keylogging 'Computer History' records clicks and typing to build ChatGPT memories Thomas Claburn Thomas C",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618",
       "publishedAt": "Fri, 14 Aug 2026 02:27:53 +0200",
       "date": "2026-08-14",
       "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.8,
+      "classificationConfidence": 0.99,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
@@ -4281,8 +4808,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-15｜V3\n生成时间：2026/8/15 14:38:56\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2521｜确认今日 27｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 23 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-15] 美国为什么造不出宇树机器人？融不到2500万美元\n   网易科技｜2026-08-15｜https://www.163.com/dy/article/L4CAJ9AG0512B07B.html\n   报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？融不到2500万美元” against primary-source evidence.\n\n2. [2026-08-15] 双曲线三号火箭整流罩静力试验取得成功\n   科技日报｜2026-08-15｜https://www.stdaily.com/web/gdxw/2026-08/15/content_564440.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “双曲线三号火箭整流罩静力试验取得成功” against primary-source evidence.\n\n3. [06:25] 全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除\n   IT之家｜2026-08-15｜https://www.ithome.com/0/990/048.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除” against primary-source evidence.\n\n4. [2026-08-15] 智元机器人内部管理曝光 20余个天才被神秘隔离\n   网易科技｜2026-08-15｜https://www.163.com/dy/article/L4BIC6CB051188EA.html\n   报道角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “智元机器人内部管理曝光 20余个天才被神秘隔离” against primary-source evidence.\n\n5. [2026-08-15] 第36届青岛国际啤酒节解锁具身智能新体验\n   科技日报｜2026-08-15｜https://www.stdaily.com/web/gdxw/2026-08/15/content_564281.html\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “第36届青岛国际啤酒节解锁具身智能新体验” against primary-source evidence.\n\n本次新增线索：\n- 双曲线三号火箭整流罩静力试验取得成功｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/15/content_564440.html\n- 全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除｜IT之家｜https://www.ithome.com/0/990/048.htm\n- 特斯拉“现金买断”罢工员工，瑞典近代最长劳资对抗画上句号｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwp2194861.shtml\n- 微信员工透露最新微信鸿蒙版 App 已全量功能，含聊天发送实况图片、收藏聊天记录支持复制等｜IT之家｜https://www.ithome.com/0/990/046.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\n2. OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed｜TechCrunch｜https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/\n3. Everything announced at the Pixel 11 Made by Google event: Gemini AI features were the star of the hardware show｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/article/everything-announced-at-the-pixel-11-made-by-google-event-gemini-ai-features-were-the-star-of-the-hardware-show-172547378.html\n4. Samsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And Productivity Monitors｜Yahoo News Technology｜https://tech.yahoo.com/computing/deals/articles/samsung-launches-back-school-deals-000517009.html\n5. IBM partners with OpenAI to bolster enterprise AI push｜TechCrunch｜https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-15｜V3\n生成时间：2026/8/15 14:38:56\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2521｜确认今日 27｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 23 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-15] 美国为什么造不出宇树机器人？融不到2500万美元\n   网易科技｜2026-08-15｜https://www.163.com/dy/article/L4CAJ9AG0512B07B.html\n   报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？融不到2500万美元” against primary-source evidence.\n\n2. [2026-08-15] 双曲线三号火箭整流罩静力试验取得成功\n   科技日报｜2026-08-15｜https://www.stdaily.com/web/gdxw/2026-08/15/content_564440.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “双曲线三号火箭整流罩静力试验取得成功” against primary-source evidence.\n\n3. [06:25] 全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除\n   IT之家｜2026-08-15｜https://www.ithome.com/0/990/048.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除” against primary-source evidence.\n\n4. [2026-08-15] 智元机器人内部管理曝光 20余个天才被神秘隔离\n   网易科技｜2026-08-15｜https://www.163.com/dy/article/L4BIC6CB051188EA.html\n   报道角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “智元机器人内部管理曝光 20余个天才被神秘隔离” against primary-source evidence.\n\n5. [2026-08-15] 第36届青岛国际啤酒节解锁具身智能新体验\n   科技日报｜2026-08-15｜https://www.stdaily.com/web/gdxw/2026-08/15/content_564281.html\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “第36届青岛国际啤酒节解锁具身智能新体验” against primary-source evidence.\n\n本次新增线索：\n- 双曲线三号火箭整流罩静力试验取得成功｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/15/content_564440.html\n- 全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除｜IT之家｜https://www.ithome.com/0/990/048.htm\n- 特斯拉“现金买断”罢工员工，瑞典近代最长劳资对抗画上句号｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwp2194861.shtml\n- 微信员工透露最新微信鸿蒙版 App 已全量功能，含聊天发送实况图片、收藏聊天记录支持复制等｜IT之家｜https://www.ithome.com/0/990/046.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\n2. OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed｜TechCrunch｜https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/\n3. Everything announced at the Pixel 11 Made by Google event: Gemini AI features were the star of the hardware show｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/article/everything-announced-at-the-pixel-11-made-by-google-event-gemini-ai-features-were-the-star-of-the-hardware-show-172547378.html\n4. Samsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And Productivity Monitors｜Yahoo News Technology｜https://tech.yahoo.com/computing/deals/articles/samsung-launches-back-school-deals-000517009.html\n5. IBM partners with OpenAI to bolster enterprise AI push｜TechCrunch｜https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-15｜生成时间：2026/8/15 14:38:56｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2521｜确认今日 27｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 23 条｜国际 13 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-15] 美国为什么造不出宇树机器人？融不到2500万美元</strong>\n      <span>网易科技｜2026-08-15｜<a href=\"https://www.163.com/dy/article/L4CAJ9AG0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？融不到2500万美元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-15] 双曲线三号火箭整流罩静力试验取得成功</strong>\n      <span>科技日报｜2026-08-15｜<a href=\"https://www.stdaily.com/web/gdxw/2026-08/15/content_564440.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：186｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “双曲线三号火箭整流罩静力试验取得成功” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [06:25] 全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除</strong>\n      <span>IT之家｜2026-08-15｜<a href=\"https://www.ithome.com/0/990/048.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-15] 智元机器人内部管理曝光 20余个天才被神秘隔离</strong>\n      <span>网易科技｜2026-08-15｜<a href=\"https://www.163.com/dy/article/L4BIC6CB051188EA.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “智元机器人内部管理曝光 20余个天才被神秘隔离” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-15] 第36届青岛国际啤酒节解锁具身智能新体验</strong>\n      <span>科技日报｜2026-08-15｜<a href=\"https://www.stdaily.com/web/gdxw/2026-08/15/content_564281.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：185｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “第36届青岛国际啤酒节解锁具身智能新体验” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground</strong>\n      <span>时间：Fri, 14 Aug 2026 14:27:14 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI and Anthropic in price war as Chinese AI rivals gain ground” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed</strong>\n      <span>时间：Thu, 13 Aug 2026 19:22:40 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Everything announced at the Pixel 11 Made by Google event: Gemini AI features were the star of the hardware show</strong>\n      <span>时间：2026-08-13｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/breaking-news/article/everything-announced-at-the-pixel-11-made-by-google-event-gemini-ai-features-were-the-star-of-the-hardware-show-172547378.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Everything announced at the Pixel 11 Made by Google event: Gemini AI fea” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Samsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And Productivity Monitors</strong>\n      <span>时间：2026-08-15｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/deals/articles/samsung-launches-back-school-deals-000517009.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Samsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And P” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. IBM partners with OpenAI to bolster enterprise AI push</strong>\n      <span>时间：Thu, 13 Aug 2026 19:19:49 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “IBM partners with OpenAI to bolster enterprise AI push” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/15 14:38:56\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 23 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-15] 美国为什么造不出宇树机器人？融不到2500万美元\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4CAJ9AG0512B07B.html\n   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？融不到2500万美元” against primary-source evidence.\n\n2. [2026-08-15] 双曲线三号火箭整流罩静力试验取得成功\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-08/15/content_564440.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “双曲线三号火箭整流罩静力试验取得成功” against primary-source evidence.\n\n3. [06:25] 全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除\n   来源：IT之家\n   链接：https://www.ithome.com/0/990/048.htm\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除” against primary-source evidence.\n\n4. [2026-08-15] 智元机器人内部管理曝光 20余个天才被神秘隔离\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4BIC6CB051188EA.html\n   角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “智元机器人内部管理曝光 20余个天才被神秘隔离” against primary-source evidence.\n\n5. [2026-08-15] 第36届青岛国际啤酒节解锁具身智能新体验\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-08/15/content_564281.html\n   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “第36届青岛国际啤酒节解锁具身智能新体验” against primary-source evidence.\n\n本次新增线索：\n- 双曲线三号火箭整流罩静力试验取得成功｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/15/content_564440.html\n- 全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除｜IT之家｜https://www.ithome.com/0/990/048.htm\n- 特斯拉“现金买断”罢工员工，瑞典近代最长劳资对抗画上句号｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwp2194861.shtml\n- 微信员工透露最新微信鸿蒙版 App 已全量功能，含聊天发送实况图片、收藏聊天记录支持复制等｜IT之家｜https://www.ithome.com/0/990/046.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\n2. OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed｜TechCrunch｜https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/\n3. Everything announced at the Pixel 11 Made by Google event: Gemini AI features were the star of the hardware show｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/article/everything-announced-at-the-pixel-11-made-by-google-event-gemini-ai-features-were-the-star-of-the-hardware-show-172547378.html\n4. Samsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And Productivity Monitors｜Yahoo News Technology｜https://tech.yahoo.com/computing/deals/articles/samsung-launches-back-school-deals-000517009.html\n5. IBM partners with OpenAI to bolster enterprise AI push｜TechCrunch｜https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-15｜V3\n生成时间：2026/8/15 14:59:39\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2593｜确认今日 32｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 26 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-15] 美国为什么造不出宇树机器人？融不到2500万美元\n   网易科技｜2026-08-15｜https://www.163.com/dy/article/L4CAJ9AG0512B07B.html\n   报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？融不到2500万美元” against primary-source evidence.\n\n2. [00:54] “虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型\n   IT之家｜2026-08-15｜https://www.ithome.com/0/989/989.htm\n   报道角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind ““虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型” against primary-source evidence.\n\n3. [2026-08-15] QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰\n   新浪科技｜2026-08-15｜https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkmqs1966772.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰” against primary-source evidence.\n\n4. [2026-08-15] 人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车\n   新浪科技｜2026-08-15｜https://finance.sina.com.cn/tech/discovery/2026-08-15/doc-ininkrwp2206382.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车” against primary-source evidence.\n\n5. [2026-08-15] 智元机器人内部管理曝光 20余个天才被神秘隔离\n   网易科技｜2026-08-15｜https://www.163.com/dy/article/L4BIC6CB051188EA.html\n   报道角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “智元机器人内部管理曝光 20余个天才被神秘隔离” against primary-source evidence.\n\n本次新增线索：\n- “虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型｜IT之家｜https://www.ithome.com/0/989/989.htm\n- QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkmqs1966772.shtml\n- 人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-15/doc-ininkrwp2206382.shtml\n- 试验取得成功！已具备飞行试验条件｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwr8637367.shtml\n- 长安启源 Q06「浮光银」车色官图公布，定位中大型轿跑 SUV｜IT之家｜https://www.ithome.com/0/990/052.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\n2. OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed｜TechCrunch｜https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/\n3. Everything announced at the Pixel 11 Made by Google event: Gemini AI features were the star of the hardware show｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/article/everything-announced-at-the-pixel-11-made-by-google-event-gemini-ai-features-were-the-star-of-the-hardware-show-172547378.html\n4. Samsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And Productivity Monitors｜Yahoo News Technology｜https://tech.yahoo.com/computing/deals/articles/samsung-launches-back-school-deals-000517009.html\n5. IBM partners with OpenAI to bolster enterprise AI push｜TechCrunch｜https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-15｜V3\n生成时间：2026/8/15 14:59:39\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2593｜确认今日 32｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 26 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-15] 美国为什么造不出宇树机器人？融不到2500万美元\n   网易科技｜2026-08-15｜https://www.163.com/dy/article/L4CAJ9AG0512B07B.html\n   报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？融不到2500万美元” against primary-source evidence.\n\n2. [00:54] “虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型\n   IT之家｜2026-08-15｜https://www.ithome.com/0/989/989.htm\n   报道角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind ““虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型” against primary-source evidence.\n\n3. [2026-08-15] QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰\n   新浪科技｜2026-08-15｜https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkmqs1966772.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰” against primary-source evidence.\n\n4. [2026-08-15] 人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车\n   新浪科技｜2026-08-15｜https://finance.sina.com.cn/tech/discovery/2026-08-15/doc-ininkrwp2206382.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车” against primary-source evidence.\n\n5. [2026-08-15] 智元机器人内部管理曝光 20余个天才被神秘隔离\n   网易科技｜2026-08-15｜https://www.163.com/dy/article/L4BIC6CB051188EA.html\n   报道角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “智元机器人内部管理曝光 20余个天才被神秘隔离” against primary-source evidence.\n\n本次新增线索：\n- “虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型｜IT之家｜https://www.ithome.com/0/989/989.htm\n- QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkmqs1966772.shtml\n- 人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-15/doc-ininkrwp2206382.shtml\n- 试验取得成功！已具备飞行试验条件｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwr8637367.shtml\n- 长安启源 Q06「浮光银」车色官图公布，定位中大型轿跑 SUV｜IT之家｜https://www.ithome.com/0/990/052.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\n2. OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed｜TechCrunch｜https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/\n3. Everything announced at the Pixel 11 Made by Google event: Gemini AI features were the star of the hardware show｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/article/everything-announced-at-the-pixel-11-made-by-google-event-gemini-ai-features-were-the-star-of-the-hardware-show-172547378.html\n4. Samsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And Productivity Monitors｜Yahoo News Technology｜https://tech.yahoo.com/computing/deals/articles/samsung-launches-back-school-deals-000517009.html\n5. IBM partners with OpenAI to bolster enterprise AI push｜TechCrunch｜https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-15｜生成时间：2026/8/15 14:59:39｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2593｜确认今日 32｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 0 条<br>延续跟踪线索：国内 26 条｜国际 13 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-15] 美国为什么造不出宇树机器人？融不到2500万美元</strong>\n      <span>网易科技｜2026-08-15｜<a href=\"https://www.163.com/dy/article/L4CAJ9AG0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？融不到2500万美元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [00:54] “虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型</strong>\n      <span>IT之家｜2026-08-15｜<a href=\"https://www.ithome.com/0/989/989.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：193｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind ““虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-15] QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰</strong>\n      <span>新浪科技｜2026-08-15｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkmqs1966772.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：185｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-15] 人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车</strong>\n      <span>新浪科技｜2026-08-15｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-15/doc-ininkrwp2206382.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-15] 智元机器人内部管理曝光 20余个天才被神秘隔离</strong>\n      <span>网易科技｜2026-08-15｜<a href=\"https://www.163.com/dy/article/L4BIC6CB051188EA.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “智元机器人内部管理曝光 20余个天才被神秘隔离” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground</strong>\n      <span>时间：Fri, 14 Aug 2026 14:27:14 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI and Anthropic in price war as Chinese AI rivals gain ground” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed</strong>\n      <span>时间：Thu, 13 Aug 2026 19:22:40 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Everything announced at the Pixel 11 Made by Google event: Gemini AI features were the star of the hardware show</strong>\n      <span>时间：2026-08-13｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/breaking-news/article/everything-announced-at-the-pixel-11-made-by-google-event-gemini-ai-features-were-the-star-of-the-hardware-show-172547378.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Everything announced at the Pixel 11 Made by Google event: Gemini AI fea” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Samsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And Productivity Monitors</strong>\n      <span>时间：2026-08-15｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/deals/articles/samsung-launches-back-school-deals-000517009.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Samsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And P” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. IBM partners with OpenAI to bolster enterprise AI push</strong>\n      <span>时间：Thu, 13 Aug 2026 19:19:49 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “IBM partners with OpenAI to bolster enterprise AI push” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/15 14:59:39\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 26 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-15] 美国为什么造不出宇树机器人？融不到2500万美元\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4CAJ9AG0512B07B.html\n   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？融不到2500万美元” against primary-source evidence.\n\n2. [00:54] “虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型\n   来源：IT之家\n   链接：https://www.ithome.com/0/989/989.htm\n   角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind ““虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型” against primary-source evidence.\n\n3. [2026-08-15] QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkmqs1966772.shtml\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰” against primary-source evidence.\n\n4. [2026-08-15] 人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-15/doc-ininkrwp2206382.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车” against primary-source evidence.\n\n5. [2026-08-15] 智元机器人内部管理曝光 20余个天才被神秘隔离\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4BIC6CB051188EA.html\n   角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “智元机器人内部管理曝光 20余个天才被神秘隔离” against primary-source evidence.\n\n本次新增线索：\n- “虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型｜IT之家｜https://www.ithome.com/0/989/989.htm\n- QQ Bot接入DeepSeek Harness：支持单聊和群聊 会话互不干扰｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkmqs1966772.shtml\n- 人工智能“踩大坑”！无人驾驶配送车一路直行：心甘情愿冲进沟槽翻车｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-15/doc-ininkrwp2206382.shtml\n- 试验取得成功！已具备飞行试验条件｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininkrwr8637367.shtml\n- 长安启源 Q06「浮光银」车色官图公布，定位中大型轿跑 SUV｜IT之家｜https://www.ithome.com/0/990/052.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. OpenAI and Anthropic in price war as Chinese AI rivals gain ground｜Ars Technica｜https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\n2. OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed｜TechCrunch｜https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/\n3. Everything announced at the Pixel 11 Made by Google event: Gemini AI features were the star of the hardware show｜Yahoo News Technology｜https://tech.yahoo.com/phones/breaking-news/article/everything-announced-at-the-pixel-11-made-by-google-event-gemini-ai-features-were-the-star-of-the-hardware-show-172547378.html\n4. Samsung Launches ‘Back To School’ Deals On Many Of Its 2026 Gaming And Productivity Monitors｜Yahoo News Technology｜https://tech.yahoo.com/computing/deals/articles/samsung-launches-back-school-deals-000517009.html\n5. IBM partners with OpenAI to bolster enterprise AI push｜TechCrunch｜https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
