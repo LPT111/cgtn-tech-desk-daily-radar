@@ -1,37 +1,32 @@
 {
-  "generatedAt": "2026-08-16T23:29:35.219Z",
+  "generatedAt": "2026-08-16T23:37:52.900Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-17",
   "changeSummary": {
-    "domesticNew": 9,
+    "domesticNew": 4,
     "globalNew": 0,
-    "domesticContinued": 7,
+    "domesticContinued": 14,
     "globalContinued": 7,
     "topNewDomestic": [
       {
-        "title": "存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实",
+        "title": "AI“组织时钟”能预测人体器官生物学年龄",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml"
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-08-17/doc-ininqpev7136173.shtml"
       },
       {
-        "title": "Claude水印已被破解，斩获11k Star！但会被拒绝安装",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml"
+        "title": "NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/990/422.htm"
       },
       {
-        "title": "央视曝光AI人脸伪造盗刷案：大学生用AI伪造视频！盗刷5万余元",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpeu0356838.shtml"
+        "title": "软银出售超七成台积电股份，套现 2.698 亿美元",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/990/424.htm"
       },
       {
-        "title": "建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpeu0360757.shtml"
-      },
-      {
-        "title": "DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpev7133165.shtml"
+        "title": "网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/990/423.htm"
       }
     ],
     "topNewGlobal": [],
@@ -41,7 +36,7 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 884,
+    "domesticRejected": 882,
     "globalRejected": 893,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -56,27 +51,12 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -84,19 +64,9 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "This operation was aborted",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -106,24 +76,9 @@
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -131,19 +86,9 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "This operation was aborted",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -155,7 +100,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 129,
+      "parsed": 131,
       "failed": false,
       "optional": false
     },
@@ -205,8 +150,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -319,16 +263,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -349,9 +291,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 11,
+      "failed": false,
       "optional": false
     },
     {
@@ -359,7 +300,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -372,9 +313,8 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -407,18 +347,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1252,
+  "itemsSeen": 1326,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 305,
-  "itemsAfterDedupe": 241,
-  "todayItemsSeen": 16,
+  "itemsAfterRelevantFilter": 315,
+  "itemsAfterDedupe": 244,
+  "todayItemsSeen": 18,
   "suspectedItemsSeen": 20,
   "skippedNonToday": 204,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 129,
+      "parsed": 131,
       "failed": false,
       "optional": false
     },
@@ -468,8 +408,7 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -582,16 +521,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -612,9 +549,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 11,
+      "failed": false,
       "optional": false
     },
     {
@@ -622,7 +558,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -635,9 +571,8 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -824,24 +759,9 @@
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -849,19 +769,9 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "This operation was aborted",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -894,24 +804,24 @@
   "topics": [
     {
       "topic": "AI动态",
-      "count": 6,
+      "count": 7,
       "sourceCount": 3,
       "sources": [
         "新浪科技",
-        "网易科技",
-        "IT之家"
+        "IT之家",
+        "网易科技"
       ],
       "items": [
+        "AI“组织时钟”能预测人体器官生物学年龄",
+        "网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”",
         "央视曝光AI人脸伪造盗刷案：大学生用AI伪造视频！盗刷5万余元",
         "建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%",
-        "AI“组织时钟”能预测人体器官生物学年龄",
-        "Stripe以逾70亿美元价格收购AI公司OpenRouter",
-        "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点"
+        "Stripe以逾70亿美元价格收购AI公司OpenRouter"
       ]
     },
     {
       "topic": "芯片动态",
-      "count": 2,
+      "count": 3,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
@@ -919,22 +829,36 @@
       ],
       "items": [
         "存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实",
-        "消息称英特尔计划推出入门级 Panther Lake 掌机芯片，配备 4 个 Xe3 核心"
+        "消息称英特尔计划推出入门级 Panther Lake 掌机芯片，配备 4 个 Xe3 核心",
+        "软银出售超七成台积电股份，套现 2.698 亿美元"
+      ]
+    },
+    {
+      "topic": "机器人动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
+        "网易科技"
+      ],
+      "items": [
+        "NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴",
+        "机械臂30秒出杯、最低5.9元！京东七鲜咖啡无人店落地"
       ]
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 6,
+      "count": 5,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
         "Claude水印已被破解，斩获11k Star！但会被拒绝安装",
-        "研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机",
         "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
         "DeepSeek-V4系列今日起价格上涨：峰谷定价 高峰期贵一倍",
-        "DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍"
+        "DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍",
+        "这款“以不变应万变”的候选新药，跑出转化加速度"
       ]
     },
     {
@@ -947,20 +871,77 @@
       "items": [
         "科学家证明万米深渊存在微生物“绿洲”"
       ]
-    },
-    {
-      "topic": "机器人动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "机械臂30秒出杯、最低5.9元！京东七鲜咖啡无人店落地"
-      ]
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "AI“组织时钟”能预测人体器官生物学年龄",
+      "summary": "科技日报讯 （记者张佳欣）奥地利科学院分子医学研究中心和维也纳大学路德维希·博尔兹曼网络医学研究所研究团队开发出一种基于人工智能（AI）的“组织时钟”，能从组织学图像中预测人体器官的生物学年龄，而且组织的衰老信息还可以通过血液样本检测出来。...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-08-17/doc-ininqpev7136173.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-08-17/doc-ininqpev7136173.shtml"
+      ],
+      "publishedAt": "2026-08-17",
+      "date": "2026-08-17",
+      "category": "AI",
+      "classificationConfidence": 0.94,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 175,
+      "reporterScore": 183,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI“组织时钟”能预测人体器官生物学年龄” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "科技日报讯 （记者张佳欣）奥地利科学院分子医学研究中心和维也纳大学路德维希·博尔兹曼网络医学研究所研究团队开发出一种基于人工智能（AI）的“组织时钟”，能从组织学图像中预测人体器官的生物学年龄，而且组织的衰老信息还可以通过血液样本检测出来。...",
+      "relatedTitles": [
+        "AI“组织时钟”能预测人体器官生物学年龄"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实",
@@ -1026,6 +1007,74 @@
       "rawText": "快科技8月17日消息，近日SK集团也就是存储巨头海力士的母公司会长崔泰源在公开采访中忍不住感慨，这一轮全球存储芯片价格暴涨的行情，直接让公司赚得远超预期，高景气度带来的收益实在是高到有些离谱。接受韩媒访谈的时候主持人特意问他，自己最近听说韩...",
       "relatedTitles": [
         "存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴",
+      "summary": "NASA 的 NIAC 计划资助了一项名为 SPARK 的研究，旨在开发用于探索土卫六（泰坦）洞穴的球形飞行机器人。该机器人采用离子推进技术，具备持续飞行能力，有望成为未来泰坦探测任务的一部分。#NASA探索#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/990/422.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/990/422.htm"
+      ],
+      "publishedAt": "Sun, 16 Aug 2026 23:31:51 GMT",
+      "date": "2026-08-17",
+      "category": "机器人",
+      "classificationConfidence": 0.65,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 154,
+      "reporterScore": 160,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "NASA 的 NIAC 计划资助了一项名为 SPARK 的研究，旨在开发用于探索土卫六（泰坦）洞穴的球形飞行机器人。该机器人采用离子推进技术，具备持续飞行能力，有望成为未来泰坦探测任务的一部分。#NASA探索#",
+      "relatedTitles": [
+        "NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴"
       ],
       "isNewSinceLastRun": true
     },
@@ -1094,74 +1143,6 @@
       "rawText": "编辑｜冷猫Claude 的水印政策在前些天引起了轩然大波。我们曾报道过，包括 OpenAI、Anthropic、Google、Meta、Microsoft 在内的一大批公司，签署了欧盟《AI 生成内容透明度行为准则》，承诺推进 AI 生成内...",
       "relatedTitles": [
         "Claude水印已被破解，斩获11k Star！但会被拒绝安装"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机",
-      "summary": "全球工业物联网厂商研华科技8月5日举行法人说明会，由董事长刘克振与陈清熙、蔡淑妍、张家豪等三位共治总经理亲自主持。在面对关键原物料成本波动及供应链挑战，研华2026上半年营收与获利仍续创新高，主要得益于全球客户加速AI布局，带动相关...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininpwie9447296.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininpwie9447296.shtml"
-      ],
-      "publishedAt": "2026-08-17",
-      "date": "2026-08-17",
-      "category": "AI",
-      "classificationConfidence": 0.93,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "全球工业物联网厂商研华科技8月5日举行法人说明会，由董事长刘克振与陈清熙、蔡淑妍、张家豪等三位共治总经理亲自主持。在面对关键原物料成本波动及供应链挑战，研华2026上半年营收与获利仍续创新高，主要得益于全球客户加速AI布局，带动相关...",
-      "relatedTitles": [
-        "研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机"
       ],
       "isNewSinceLastRun": false
     },
@@ -1302,346 +1283,6 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "央视曝光AI人脸伪造盗刷案：大学生用AI伪造视频！盗刷5万余元",
-      "summary": "快科技8月17日消息，据央视财经报道，近日，湖南省长沙市雨花区人民法院审理了一起“不法者利用AI技术生成的人脸伪造视频盗刷银行卡”案件。临近毕业的大学生吴某未从事正规工作，通过非法网站购入可将静态人脸照片生成动态人脸视频的工具，该伪造视频能...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpeu0356838.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpeu0356838.shtml"
-      ],
-      "publishedAt": "2026-08-17",
-      "date": "2026-08-17",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “央视曝光AI人脸伪造盗刷案：大学生用AI伪造视频！盗刷5万余元” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "快科技8月17日消息，据央视财经报道，近日，湖南省长沙市雨花区人民法院审理了一起“不法者利用AI技术生成的人脸伪造视频盗刷银行卡”案件。临近毕业的大学生吴某未从事正规工作，通过非法网站购入可将静态人脸照片生成动态人脸视频的工具，该伪造视频能...",
-      "relatedTitles": [
-        "央视曝光AI人脸伪造盗刷案：大学生用AI伪造视频！盗刷5万余元"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%",
-      "summary": "IT之家 8 月 17 日消息，随着“图生 3D 模型”AI 工具逐步流行，目前许多 3D 建模交易平台都遭到各种 AI 生成的 3D 模型“轰炸”，不过参考 CGTrader 报告显示，尽管此类 AI 内容正在平台上快速增加，但相关商品的...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpeu0360757.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpeu0360757.shtml"
-      ],
-      "publishedAt": "2026-08-17",
-      "date": "2026-08-17",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "IT之家 8 月 17 日消息，随着“图生 3D 模型”AI 工具逐步流行，目前许多 3D 建模交易平台都遭到各种 AI 生成的 3D 模型“轰炸”，不过参考 CGTrader 报告显示，尽管此类 AI 内容正在平台上快速增加，但相关商品的...",
-      "relatedTitles": [
-        "建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍",
-      "summary": "IT之家 8 月 17 日消息，8 月 13 日，深度求索官方宣布将对 DeepSeek API 价格进行更新调整，采用峰谷定价，空闲时段价格为高峰时段价格的一半。今日起，该定价方案正式生效。高峰时段为北京时间 9:00 - 12:00、1...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpev7133165.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpev7133165.shtml"
-      ],
-      "publishedAt": "2026-08-17",
-      "date": "2026-08-17",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "IT之家 8 月 17 日消息，8 月 13 日，深度求索官方宣布将对 DeepSeek API 价格进行更新调整，采用峰谷定价，空闲时段价格为高峰时段价格的一半。今日起，该定价方案正式生效。高峰时段为北京时间 9:00 - 12:00、1...",
-      "relatedTitles": [
-        "DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "AI“组织时钟”能预测人体器官生物学年龄",
-      "summary": "AI“组织时钟”能预测人体器官生物学年龄,医学,生物学,组织学,研究所,维也纳大学,子宫肌瘤围手术期",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L4H2I5HQ05198CJN.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L4H2I5HQ05198CJN.html"
-      ],
-      "publishedAt": "2026-08-17",
-      "date": "2026-08-17",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI“组织时钟”能预测人体器官生物学年龄” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "AI“组织时钟”能预测人体器官生物学年龄,医学,生物学,组织学,研究所,维也纳大学,子宫肌瘤围手术期",
-      "relatedTitles": [
-        "AI“组织时钟”能预测人体器官生物学年龄"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "Stripe以逾70亿美元价格收购AI公司OpenRouter",
-      "summary": "Stripe以逾70亿美元价格收购AI公司OpenRouter,方案提供商,stripe,openrouter",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L4H2FNJB0534A4SC.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L4H2FNJB0534A4SC.html"
-      ],
-      "publishedAt": "2026-08-17",
-      "date": "2026-08-17",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Stripe以逾70亿美元价格收购AI公司OpenRouter” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "Stripe以逾70亿美元价格收购AI公司OpenRouter,方案提供商,stripe,openrouter",
-      "relatedTitles": [
-        "Stripe以逾70亿美元价格收购AI公司OpenRouter"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "消息称英特尔计划推出入门级 Panther Lake 掌机芯片，配备 4 个 Xe3 核心",
       "summary": "据爆料，英特尔或推一款基于 Panther Lake U 系列的低价掌机芯片，配置为 4+0+4+4 架构。性能上，单核能力领先 Steam Deck 两倍，多核稍逊于 ROG Ally X。若成真，掌机价格可能降至 800 美元左右，为 AMD 带来强力竞争。#英特尔掌机芯片#",
@@ -1711,20 +1352,20 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点",
-      "summary": "McAfee 最新研究显示，AI 能通过分析照片中的视觉线索（如建筑、招牌、植被）判断拍摄地点，准确率高达 87%-91%。即使删除 GPS 元数据，你的照片仍可能暴露行踪，或被诈骗分子利用。#隐私安全#",
+      "title": "软银出售超七成台积电股份，套现 2.698 亿美元",
+      "summary": "软银集团最新持仓报告显示，其在第二季度大幅减持台积电股份，减持比例高达 71.5%，套现约 2.698 亿美元。同时，软银新建仓了金融公司 Capital One，并买入位置共享服务公司 Life360 股票。#软银动向#",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/990/420.htm",
+      "url": "https://www.ithome.com/0/990/424.htm",
       "sourceUrls": [
-        "https://www.ithome.com/0/990/420.htm"
+        "https://www.ithome.com/0/990/424.htm"
       ],
-      "publishedAt": "Sun, 16 Aug 2026 23:27:04 GMT",
+      "publishedAt": "Sun, 16 Aug 2026 23:37:38 GMT",
       "date": "2026-08-17",
-      "category": "AI",
+      "category": "芯片",
       "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
@@ -1733,7 +1374,7 @@
         "source"
       ],
       "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
       "score": 151,
       "reporterScore": 151,
@@ -1767,33 +1408,33 @@
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点” against primary-source evidence.",
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “软银出售超七成台积电股份，套现 2.698 亿美元” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "McAfee 最新研究显示，AI 能通过分析照片中的视觉线索（如建筑、招牌、植被）判断拍摄地点，准确率高达 87%-91%。即使删除 GPS 元数据，你的照片仍可能暴露行踪，或被诈骗分子利用。#隐私安全#",
+      "matchedTopic": "芯片动态",
+      "rawText": "软银集团最新持仓报告显示，其在第二季度大幅减持台积电股份，减持比例高达 71.5%，套现约 2.698 亿美元。同时，软银新建仓了金融公司 Capital One，并买入位置共享服务公司 Life360 股票。#软银动向#",
       "relatedTitles": [
-        "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点"
+        "软银出售超七成台积电股份，套现 2.698 亿美元"
       ],
       "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "AI 热潮推高存储需求，德国 DDR5 内存价格暴涨至去年同期近 5 倍",
-      "summary": "受 AI 热潮持续影响，德国 DDR5 内存价格在 8 月飙升至去年同期近 5 倍，64GB、32GB 等大容量套装涨幅明显。PC 市场或因此受到冲击，笔记本电脑、显卡等产品价格也随之上扬。#内存涨价#",
+      "title": "网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”",
+      "summary": "此前深圳滨海大道确实发生局部路面塌陷并已抢修，网传大面积塌陷翻车视频为 AI 拼接生成的虚假内容，相关视频已下架。提醒网民不信谣不传谣，关注官方通报。#网络谣言辟谣#",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/990/417.htm",
+      "url": "https://www.ithome.com/0/990/423.htm",
       "sourceUrls": [
-        "https://www.ithome.com/0/990/417.htm"
+        "https://www.ithome.com/0/990/423.htm"
       ],
-      "publishedAt": "Sun, 16 Aug 2026 23:21:18 GMT",
+      "publishedAt": "Sun, 16 Aug 2026 23:34:20 GMT",
       "date": "2026-08-17",
       "category": "AI",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.65,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1836,12 +1477,12 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI 热潮推高存储需求，德国 DDR5 内存价格暴涨至去年同期近 5 倍” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI动态",
-      "rawText": "受 AI 热潮持续影响，德国 DDR5 内存价格在 8 月飙升至去年同期近 5 倍，64GB、32GB 等大容量套装涨幅明显。PC 市场或因此受到冲击，笔记本电脑、显卡等产品价格也随之上扬。#内存涨价#",
+      "rawText": "此前深圳滨海大道确实发生局部路面塌陷并已抢修，网传大面积塌陷翻车视频为 AI 拼接生成的虚假内容，相关视频已下架。提醒网民不信谣不传谣，关注官方通报。#网络谣言辟谣#",
       "relatedTitles": [
-        "AI 热潮推高存储需求，德国 DDR5 内存价格暴涨至去年同期近 5 倍"
+        "网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”"
       ],
       "isNewSinceLastRun": true
     },
@@ -1915,6 +1556,210 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "央视曝光AI人脸伪造盗刷案：大学生用AI伪造视频！盗刷5万余元",
+      "summary": "快科技8月17日消息，据央视财经报道，近日，湖南省长沙市雨花区人民法院审理了一起“不法者利用AI技术生成的人脸伪造视频盗刷银行卡”案件。临近毕业的大学生吴某未从事正规工作，通过非法网站购入可将静态人脸照片生成动态人脸视频的工具，该伪造视频能...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpeu0356838.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpeu0356838.shtml"
+      ],
+      "publishedAt": "2026-08-17",
+      "date": "2026-08-17",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “央视曝光AI人脸伪造盗刷案：大学生用AI伪造视频！盗刷5万余元” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "快科技8月17日消息，据央视财经报道，近日，湖南省长沙市雨花区人民法院审理了一起“不法者利用AI技术生成的人脸伪造视频盗刷银行卡”案件。临近毕业的大学生吴某未从事正规工作，通过非法网站购入可将静态人脸照片生成动态人脸视频的工具，该伪造视频能...",
+      "relatedTitles": [
+        "央视曝光AI人脸伪造盗刷案：大学生用AI伪造视频！盗刷5万余元"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%",
+      "summary": "IT之家 8 月 17 日消息，随着“图生 3D 模型”AI 工具逐步流行，目前许多 3D 建模交易平台都遭到各种 AI 生成的 3D 模型“轰炸”，不过参考 CGTrader 报告显示，尽管此类 AI 内容正在平台上快速增加，但相关商品的...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpeu0360757.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpeu0360757.shtml"
+      ],
+      "publishedAt": "2026-08-17",
+      "date": "2026-08-17",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 8 月 17 日消息，随着“图生 3D 模型”AI 工具逐步流行，目前许多 3D 建模交易平台都遭到各种 AI 生成的 3D 模型“轰炸”，不过参考 CGTrader 报告显示，尽管此类 AI 内容正在平台上快速增加，但相关商品的...",
+      "relatedTitles": [
+        "建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍",
+      "summary": "IT之家 8 月 17 日消息，8 月 13 日，深度求索官方宣布将对 DeepSeek API 价格进行更新调整，采用峰谷定价，空闲时段价格为高峰时段价格的一半。今日起，该定价方案正式生效。高峰时段为北京时间 9:00 - 12:00、1...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpev7133165.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpev7133165.shtml"
+      ],
+      "publishedAt": "2026-08-17",
+      "date": "2026-08-17",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "IT之家 8 月 17 日消息，8 月 13 日，深度求索官方宣布将对 DeepSeek API 价格进行更新调整，采用峰谷定价，空闲时段价格为高峰时段价格的一半。今日起，该定价方案正式生效。高峰时段为北京时间 9:00 - 12:00、1...",
+      "relatedTitles": [
+        "DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "这款“以不变应万变”的候选新药，跑出转化加速度",
       "summary": "应天雷（右二）团队成员在实验室。■本报记者 江庆龄一款候选新药，从分子设计到成果转化需要多长时间？在Mobius多智能体智药系统帮助下，上海市重大传染病和生物安全研究院（以下简称传研院）兼职课题组长、复旦大学基础医学院特聘教授应天雷团队用一...",
       "source": "新浪科技",
@@ -1978,6 +1823,210 @@
       "rawText": "应天雷（右二）团队成员在实验室。■本报记者 江庆龄一款候选新药，从分子设计到成果转化需要多长时间？在Mobius多智能体智药系统帮助下，上海市重大传染病和生物安全研究院（以下简称传研院）兼职课题组长、复旦大学基础医学院特聘教授应天雷团队用一...",
       "relatedTitles": [
         "这款“以不变应万变”的候选新药，跑出转化加速度"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "Stripe以逾70亿美元价格收购AI公司OpenRouter",
+      "summary": "Stripe以逾70亿美元价格收购AI公司OpenRouter,方案提供商,stripe,openrouter",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L4H2FNJB0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L4H2FNJB0534A4SC.html"
+      ],
+      "publishedAt": "2026-08-17",
+      "date": "2026-08-17",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Stripe以逾70亿美元价格收购AI公司OpenRouter” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "Stripe以逾70亿美元价格收购AI公司OpenRouter,方案提供商,stripe,openrouter",
+      "relatedTitles": [
+        "Stripe以逾70亿美元价格收购AI公司OpenRouter"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点",
+      "summary": "McAfee 最新研究显示，AI 能通过分析照片中的视觉线索（如建筑、招牌、植被）判断拍摄地点，准确率高达 87%-91%。即使删除 GPS 元数据，你的照片仍可能暴露行踪，或被诈骗分子利用。#隐私安全#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/990/420.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/990/420.htm"
+      ],
+      "publishedAt": "Sun, 16 Aug 2026 23:27:04 GMT",
+      "date": "2026-08-17",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "McAfee 最新研究显示，AI 能通过分析照片中的视觉线索（如建筑、招牌、植被）判断拍摄地点，准确率高达 87%-91%。即使删除 GPS 元数据，你的照片仍可能暴露行踪，或被诈骗分子利用。#隐私安全#",
+      "relatedTitles": [
+        "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "AI 热潮推高存储需求，德国 DDR5 内存价格暴涨至去年同期近 5 倍",
+      "summary": "受 AI 热潮持续影响，德国 DDR5 内存价格在 8 月飙升至去年同期近 5 倍，64GB、32GB 等大容量套装涨幅明显。PC 市场或因此受到冲击，笔记本电脑、显卡等产品价格也随之上扬。#内存涨价#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/990/417.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/990/417.htm"
+      ],
+      "publishedAt": "Sun, 16 Aug 2026 23:21:18 GMT",
+      "date": "2026-08-17",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI 热潮推高存储需求，德国 DDR5 内存价格暴涨至去年同期近 5 倍” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "受 AI 热潮持续影响，德国 DDR5 内存价格在 8 月飙升至去年同期近 5 倍，64GB、32GB 等大容量套装涨幅明显。PC 市场或因此受到冲击，笔记本电脑、显卡等产品价格也随之上扬。#内存涨价#",
+      "relatedTitles": [
+        "AI 热潮推高存储需求，德国 DDR5 内存价格暴涨至去年同期近 5 倍"
       ],
       "isNewSinceLastRun": false
     },
@@ -3260,7 +3309,7 @@
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "qweb3.8",
-      "summary": "qweb3.8 刚刚，Qwen3.8-27B 开源了！家用显卡也能跑 所有人都可免费下载部署及商用。 量子位 刚刚 qweb3.8 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找",
+      "summary": "qweb3.8 刚刚，Qwen3.8-27B 开源了！家用显卡也能跑 所有人都可免费下载部署及商用。 量子位 2分钟前 qweb3.8 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -3319,7 +3368,7 @@
       "angle": "Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “qweb3.8” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI动态",
-      "rawText": "qweb3.8 刚刚，Qwen3.8-27B 开源了！家用显卡也能跑 所有人都可免费下载部署及商用。 量子位 刚刚 qweb3.8 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找答案 都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙 奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+      "rawText": "qweb3.8 刚刚，Qwen3.8-27B 开源了！家用显卡也能跑 所有人都可免费下载部署及商用。 量子位 2分钟前 qweb3.8 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找答案 都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙 奥特曼的ChatGPT育儿大法，捅了马蜂窝",
       "relatedTitles": [
         "qweb3.8"
       ]
@@ -3327,7 +3376,7 @@
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "百度文库网盘",
-      "summary": "百度文库网盘 百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端 量子位 24分钟前 百度文库网盘 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找答案 都学坏了！",
+      "summary": "百度文库网盘 百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端 量子位 6分钟前 百度文库网盘 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找答案 都学坏了！奥",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -3386,7 +3435,7 @@
       "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “百度文库网盘” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI动态",
-      "rawText": "百度文库网盘 百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端 量子位 24分钟前 百度文库网盘 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找答案 都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙 奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+      "rawText": "百度文库网盘 百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端 量子位 6分钟前 百度文库网盘 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 Kimi K3也失控了…学霸AI逃离沙箱只为找答案 都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙 奥特曼的ChatGPT育儿大法，捅了马蜂窝",
       "relatedTitles": [
         "百度文库网盘"
       ]
@@ -3618,8 +3667,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-17｜V3\n生成时间：2026/8/17 07:29:35\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2473｜确认今日 16｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 9 条｜国际 0 条\n延续跟踪线索：国内 7 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-17] 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实” against primary-source evidence.\n\n2. [2026-08-17] Claude水印已被破解，斩获11k Star！但会被拒绝安装\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Claude水印已被破解，斩获11k Star！但会被拒绝安装” against primary-source evidence.\n\n3. [2026-08-17] 研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininpwie9447296.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机” against primary-source evidence.\n\n4. [2026-08-17] Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqhwx7255846.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载” against primary-source evidence.\n\n5. [2026-08-17] DeepSeek-V4系列今日起价格上涨：峰谷定价 高峰期贵一倍\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqhww0480166.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek-V4系列今日起价格上涨：峰谷定价 高峰期贵一倍” against primary-source evidence.\n\n本次新增线索：\n- 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml\n- Claude水印已被破解，斩获11k Star！但会被拒绝安装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml\n- 央视曝光AI人脸伪造盗刷案：大学生用AI伪造视频！盗刷5万余元｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpeu0356838.shtml\n- 建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpeu0360757.shtml\n- DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpev7133165.shtml\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’｜TechCrunch｜https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/\n2. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\n3. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter｜CNBC Technology｜https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html\n4. Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market｜CNBC Technology｜https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html\n5. CoreBreak Bypasses AI Agent Guardrails at the Plumbing Layer—and Model-Level Defenses Cannot Help｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/corebreak-bypasses-ai-agent-guardrails-215450137.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-17｜V3\n生成时间：2026/8/17 07:29:35\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2473｜确认今日 16｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 9 条｜国际 0 条\n延续跟踪线索：国内 7 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-17] 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实” against primary-source evidence.\n\n2. [2026-08-17] Claude水印已被破解，斩获11k Star！但会被拒绝安装\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Claude水印已被破解，斩获11k Star！但会被拒绝安装” against primary-source evidence.\n\n3. [2026-08-17] 研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininpwie9447296.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机” against primary-source evidence.\n\n4. [2026-08-17] Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqhwx7255846.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载” against primary-source evidence.\n\n5. [2026-08-17] DeepSeek-V4系列今日起价格上涨：峰谷定价 高峰期贵一倍\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqhww0480166.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek-V4系列今日起价格上涨：峰谷定价 高峰期贵一倍” against primary-source evidence.\n\n本次新增线索：\n- 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml\n- Claude水印已被破解，斩获11k Star！但会被拒绝安装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml\n- 央视曝光AI人脸伪造盗刷案：大学生用AI伪造视频！盗刷5万余元｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpeu0356838.shtml\n- 建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpeu0360757.shtml\n- DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpev7133165.shtml\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’｜TechCrunch｜https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/\n2. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\n3. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter｜CNBC Technology｜https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html\n4. Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market｜CNBC Technology｜https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html\n5. CoreBreak Bypasses AI Agent Guardrails at the Plumbing Layer—and Model-Level Defenses Cannot Help｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/corebreak-bypasses-ai-agent-guardrails-215450137.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-17｜生成时间：2026/8/17 07:29:35｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2473｜确认今日 16｜国际背景 7</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 9 条｜国际 0 条<br>延续跟踪线索：国内 7 条｜国际 7 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-17] 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实</strong>\n      <span>新浪科技｜2026-08-17｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-17] Claude水印已被破解，斩获11k Star！但会被拒绝安装</strong>\n      <span>新浪科技｜2026-08-17｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Claude水印已被破解，斩获11k Star！但会被拒绝安装” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-17] 研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机</strong>\n      <span>新浪科技｜2026-08-17｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininpwie9447296.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-17] Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载</strong>\n      <span>新浪科技｜2026-08-17｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqhwx7255846.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-17] DeepSeek-V4系列今日起价格上涨：峰谷定价 高峰期贵一倍</strong>\n      <span>新浪科技｜2026-08-17｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqhww0480166.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek-V4系列今日起价格上涨：峰谷定价 高峰期贵一倍” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’</strong>\n      <span>时间：Sun, 16 Aug 2026 16:53:51 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Anthropic shares more details about how Claude’s new watermarks will work</strong>\n      <span>时间：Sat, 15 Aug 2026 18:58:39 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic shares more details about how Claude’s new watermarks will wor” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter</strong>\n      <span>时间：Sat, 15 Aug 2026 14:45:31 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic revenue reportedly jumps to more than $11.5 billion in second ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market</strong>\n      <span>时间：Sat, 15 Aug 2026 14:22:54 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Inflation moderated as Intel and Nvidia fueled the AI trade in last week” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. CoreBreak Bypasses AI Agent Guardrails at the Plumbing Layer—and Model-Level Defenses Cannot Help</strong>\n      <span>时间：2026-08-17｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/cybersecurity/articles/corebreak-bypasses-ai-agent-guardrails-215450137.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “CoreBreak Bypasses AI Agent Guardrails at the Plumbing Layer—and Model-L” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/17 07:29:35\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 9 条｜国际 0 条\n延续跟踪线索：国内 7 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-17] 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实” against primary-source evidence.\n\n2. [2026-08-17] Claude水印已被破解，斩获11k Star！但会被拒绝安装\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Claude水印已被破解，斩获11k Star！但会被拒绝安装” against primary-source evidence.\n\n3. [2026-08-17] 研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininpwie9447296.shtml\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机” against primary-source evidence.\n\n4. [2026-08-17] Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqhwx7255846.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载” against primary-source evidence.\n\n5. [2026-08-17] DeepSeek-V4系列今日起价格上涨：峰谷定价 高峰期贵一倍\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqhww0480166.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek-V4系列今日起价格上涨：峰谷定价 高峰期贵一倍” against primary-source evidence.\n\n本次新增线索：\n- 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml\n- Claude水印已被破解，斩获11k Star！但会被拒绝安装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml\n- 央视曝光AI人脸伪造盗刷案：大学生用AI伪造视频！盗刷5万余元｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpeu0356838.shtml\n- 建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpeu0360757.shtml\n- DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpev7133165.shtml\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’｜TechCrunch｜https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/\n2. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\n3. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter｜CNBC Technology｜https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html\n4. Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market｜CNBC Technology｜https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html\n5. CoreBreak Bypasses AI Agent Guardrails at the Plumbing Layer—and Model-Level Defenses Cannot Help｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/corebreak-bypasses-ai-agent-guardrails-215450137.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-17｜V3\n生成时间：2026/8/17 07:37:52\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2547｜确认今日 18｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 14 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-17] AI“组织时钟”能预测人体器官生物学年龄\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/discovery/2026-08-17/doc-ininqpev7136173.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI“组织时钟”能预测人体器官生物学年龄” against primary-source evidence.\n\n2. [2026-08-17] 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实” against primary-source evidence.\n\n3. [23:31] NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴\n   IT之家｜2026-08-17｜https://www.ithome.com/0/990/422.htm\n   报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴” against primary-source evidence.\n\n4. [2026-08-17] Claude水印已被破解，斩获11k Star！但会被拒绝安装\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Claude水印已被破解，斩获11k Star！但会被拒绝安装” against primary-source evidence.\n\n5. [2026-08-17] Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqhwx7255846.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载” against primary-source evidence.\n\n本次新增线索：\n- AI“组织时钟”能预测人体器官生物学年龄｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-17/doc-ininqpev7136173.shtml\n- NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴｜IT之家｜https://www.ithome.com/0/990/422.htm\n- 软银出售超七成台积电股份，套现 2.698 亿美元｜IT之家｜https://www.ithome.com/0/990/424.htm\n- 网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”｜IT之家｜https://www.ithome.com/0/990/423.htm\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’｜TechCrunch｜https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/\n2. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\n3. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter｜CNBC Technology｜https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html\n4. Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market｜CNBC Technology｜https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html\n5. CoreBreak Bypasses AI Agent Guardrails at the Plumbing Layer—and Model-Level Defenses Cannot Help｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/corebreak-bypasses-ai-agent-guardrails-215450137.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-17｜V3\n生成时间：2026/8/17 07:37:52\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2547｜确认今日 18｜国际背景 7\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 14 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-17] AI“组织时钟”能预测人体器官生物学年龄\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/discovery/2026-08-17/doc-ininqpev7136173.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI“组织时钟”能预测人体器官生物学年龄” against primary-source evidence.\n\n2. [2026-08-17] 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实” against primary-source evidence.\n\n3. [23:31] NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴\n   IT之家｜2026-08-17｜https://www.ithome.com/0/990/422.htm\n   报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴” against primary-source evidence.\n\n4. [2026-08-17] Claude水印已被破解，斩获11k Star！但会被拒绝安装\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Claude水印已被破解，斩获11k Star！但会被拒绝安装” against primary-source evidence.\n\n5. [2026-08-17] Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载\n   新浪科技｜2026-08-17｜https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqhwx7255846.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载” against primary-source evidence.\n\n本次新增线索：\n- AI“组织时钟”能预测人体器官生物学年龄｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-17/doc-ininqpev7136173.shtml\n- NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴｜IT之家｜https://www.ithome.com/0/990/422.htm\n- 软银出售超七成台积电股份，套现 2.698 亿美元｜IT之家｜https://www.ithome.com/0/990/424.htm\n- 网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”｜IT之家｜https://www.ithome.com/0/990/423.htm\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’｜TechCrunch｜https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/\n2. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\n3. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter｜CNBC Technology｜https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html\n4. Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market｜CNBC Technology｜https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html\n5. CoreBreak Bypasses AI Agent Guardrails at the Plumbing Layer—and Model-Level Defenses Cannot Help｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/corebreak-bypasses-ai-agent-guardrails-215450137.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-17｜生成时间：2026/8/17 07:37:52｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2547｜确认今日 18｜国际背景 7</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 14 条｜国际 7 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-17] AI“组织时钟”能预测人体器官生物学年龄</strong>\n      <span>新浪科技｜2026-08-17｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-17/doc-ininqpev7136173.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI“组织时钟”能预测人体器官生物学年龄” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-17] 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实</strong>\n      <span>新浪科技｜2026-08-17｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:31] NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴</strong>\n      <span>IT之家｜2026-08-17｜<a href=\"https://www.ithome.com/0/990/422.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：160｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-17] Claude水印已被破解，斩获11k Star！但会被拒绝安装</strong>\n      <span>新浪科技｜2026-08-17｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Claude水印已被破解，斩获11k Star！但会被拒绝安装” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-17] Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载</strong>\n      <span>新浪科技｜2026-08-17｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqhwx7255846.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’</strong>\n      <span>时间：Sun, 16 Aug 2026 16:53:51 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Anthropic shares more details about how Claude’s new watermarks will work</strong>\n      <span>时间：Sat, 15 Aug 2026 18:58:39 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic shares more details about how Claude’s new watermarks will wor” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter</strong>\n      <span>时间：Sat, 15 Aug 2026 14:45:31 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic revenue reportedly jumps to more than $11.5 billion in second ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market</strong>\n      <span>时间：Sat, 15 Aug 2026 14:22:54 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Inflation moderated as Intel and Nvidia fueled the AI trade in last week” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. CoreBreak Bypasses AI Agent Guardrails at the Plumbing Layer—and Model-Level Defenses Cannot Help</strong>\n      <span>时间：2026-08-17｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/cybersecurity/articles/corebreak-bypasses-ai-agent-guardrails-215450137.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “CoreBreak Bypasses AI Agent Guardrails at the Plumbing Layer—and Model-L” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/17 07:37:52\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 14 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-17] AI“组织时钟”能预测人体器官生物学年龄\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-17/doc-ininqpev7136173.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI“组织时钟”能预测人体器官生物学年龄” against primary-source evidence.\n\n2. [2026-08-17] 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实” against primary-source evidence.\n\n3. [23:31] NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴\n   来源：IT之家\n   链接：https://www.ithome.com/0/990/422.htm\n   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴” against primary-source evidence.\n\n4. [2026-08-17] Claude水印已被破解，斩获11k Star！但会被拒绝安装\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Claude水印已被破解，斩获11k Star！但会被拒绝安装” against primary-source evidence.\n\n5. [2026-08-17] Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqhwx7255846.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载” against primary-source evidence.\n\n本次新增线索：\n- AI“组织时钟”能预测人体器官生物学年龄｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-17/doc-ininqpev7136173.shtml\n- NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴｜IT之家｜https://www.ithome.com/0/990/422.htm\n- 软银出售超七成台积电股份，套现 2.698 亿美元｜IT之家｜https://www.ithome.com/0/990/424.htm\n- 网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”｜IT之家｜https://www.ithome.com/0/990/423.htm\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’｜TechCrunch｜https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/\n2. Anthropic shares more details about how Claude’s new watermarks will work｜TechCrunch｜https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\n3. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter｜CNBC Technology｜https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html\n4. Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market｜CNBC Technology｜https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html\n5. CoreBreak Bypasses AI Agent Guardrails at the Plumbing Layer—and Model-Level Defenses Cannot Help｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/corebreak-bypasses-ai-agent-guardrails-215450137.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }

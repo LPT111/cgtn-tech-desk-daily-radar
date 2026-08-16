@@ -3,52 +3,51 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/17 07:29:35
+生成时间：2026/8/17 07:37:52
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 9 条｜国际 0 条
-延续跟踪线索：国内 7 条｜国际 7 条
+新增核心线索：国内 4 条｜国际 0 条
+延续跟踪线索：国内 14 条｜国际 7 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-17] 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实
+1. [2026-08-17] AI“组织时钟”能预测人体器官生物学年龄
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-08-17/doc-ininqpev7136173.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI“组织时钟”能预测人体器官生物学年龄” against primary-source evidence.
+
+2. [2026-08-17] 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml
    角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实” against primary-source evidence.
 
-2. [2026-08-17] Claude水印已被破解，斩获11k Star！但会被拒绝安装
+3. [23:31] NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴
+   来源：IT之家
+   链接：https://www.ithome.com/0/990/422.htm
+   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴” against primary-source evidence.
+
+4. [2026-08-17] Claude水印已被破解，斩获11k Star！但会被拒绝安装
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml
    角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Claude水印已被破解，斩获11k Star！但会被拒绝安装” against primary-source evidence.
 
-3. [2026-08-17] 研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininpwie9447296.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “研华布局 IWS 软硬件整合平台 驱动工业AI应用新商机” against primary-source evidence.
-
-4. [2026-08-17] Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载
+5. [2026-08-17] Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqhwx7255846.shtml
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载” against primary-source evidence.
 
-5. [2026-08-17] DeepSeek-V4系列今日起价格上涨：峰谷定价 高峰期贵一倍
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqhww0480166.shtml
-   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek-V4系列今日起价格上涨：峰谷定价 高峰期贵一倍” against primary-source evidence.
-
 本次新增线索：
-- 存储暴涨让公司挣得太多了吗！海力士掌门叹气：确实｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpew9156275.shtml
-- Claude水印已被破解，斩获11k Star！但会被拒绝安装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpez7891292.shtml
-- 央视曝光AI人脸伪造盗刷案：大学生用AI伪造视频！盗刷5万余元｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqpeu0356838.shtml
-- 建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpeu0360757.shtml
-- DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqpev7133165.shtml
+- AI“组织时钟”能预测人体器官生物学年龄｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-17/doc-ininqpev7136173.shtml
+- NASA 资助球形飞行机器人研发，将用于探索土星卫星泰坦洞穴｜IT之家｜https://www.ithome.com/0/990/422.htm
+- 软银出售超七成台积电股份，套现 2.698 亿美元｜IT之家｜https://www.ithome.com/0/990/424.htm
+- 网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”｜IT之家｜https://www.ithome.com/0/990/423.htm
 
 今日热点方向：
-- AI 应用：AI动态（6 条，3 个来源）
+- AI 应用：AI动态（7 条，3 个来源）
 - 芯片/半导体：
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 机器人/具身智能：机器人动态（2 条，2 个来源）
 - 新能源车/智能驾驶：
 - 太空与低空经济：
 - 科学前沿：科学前沿动态（1 条，1 个来源）
