@@ -1,74 +1,43 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-17T23:08:32.015Z",
+  "generatedAt": "2026-08-17T23:31:40.888Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-18",
   "changeSummary": {
-    "domesticNew": 14,
-    "globalNew": 12,
-    "domesticContinued": 0,
-    "globalContinued": 1,
+    "domesticNew": 4,
+    "globalNew": 0,
+    "domesticContinued": 14,
+    "globalContinued": 12,
     "topNewDomestic": [
       {
-        "title": "美国为什么造不出宇树机器人？一家硅谷破产公司的反思",
+        "title": "中国AI大模型调用量连续十六周领跑；阿里Qwen3.",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L4J35D6M0512B07B.html"
+        "url": "https://www.163.com/dy/article/L4JKAK3E0512B07B.html"
       },
       {
-        "title": "苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金",
+        "title": "财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml"
+        "url": "https://finance.sina.com.cn/stock/y/2026-08-18/doc-ininsseh0330813.shtml"
       },
       {
-        "title": "美国要求韩国将存储芯片作为首个对美投资重点",
+        "title": "特斯拉据悉正为Cybercab公开发布做准备，最早本月推出",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7469319.shtml"
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7482626.shtml"
       },
       {
-        "title": "美国投资级债券8月发行创历年同月新高 AI基建推动企业举债",
+        "title": "宁德时代宜春锂矿项目复产迎重要进展",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwk0421165.shtml"
-      },
-      {
-        "title": "8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwh3646552.shtml"
+        "url": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininsfpx9860003.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/"
-      },
-      {
-        "title": "Be a hater all you want, AI's here to stay",
-        "source": "The Register",
-        "url": "https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275"
-      },
-      {
-        "title": "Code fixers have fired up the AI warp drive. Strange new worlds await",
-        "source": "The Register",
-        "url": "https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681"
-      },
-      {
-        "title": "LG wants to build humanoid robots, and NVIDIA is giving it the brains",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/meta-ai/articles/lg-wants-build-humanoid-robots-211518003.html"
-      },
-      {
-        "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 886,
-    "globalRejected": 887,
+    "domesticRejected": 882,
+    "globalRejected": 888,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,12 +51,27 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 27,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -95,8 +79,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -107,9 +96,24 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -117,8 +121,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -181,7 +190,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -294,14 +304,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -322,8 +334,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -331,7 +344,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -378,13 +391,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1377,
+  "itemsSeen": 1367,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 325,
-  "itemsAfterDedupe": 232,
-  "todayItemsSeen": 14,
+  "itemsAfterRelevantFilter": 313,
+  "itemsAfterDedupe": 234,
+  "todayItemsSeen": 18,
   "suspectedItemsSeen": 22,
-  "skippedNonToday": 195,
+  "skippedNonToday": 193,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -439,7 +452,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -552,14 +566,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -580,8 +596,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -589,7 +606,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -790,9 +807,24 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -800,8 +832,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -834,6 +871,21 @@ window.CHENCHEN_DAILY_DATA = {
   "globalItemsAfterRelevantFilter": 100,
   "topics": [
     {
+      "topic": "AI 应用与智能体",
+      "count": 4,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "中国AI大模型调用量连续十六周领跑；阿里Qwen3.",
+        "8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%",
+        "英伟达为俄亥俄州OpenAI数据中心提供1050亿美元融资支持",
+        "8月18日外盘头条：特朗普称不寻求延长与伊朗的谅解备忘录 Anthropic年化营收有望突破650亿美元"
+      ]
+    },
+    {
       "topic": "AI动态",
       "count": 3,
       "sourceCount": 1,
@@ -860,16 +912,15 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "AI 应用与智能体",
-      "count": 3,
+      "topic": "新能源车与智能驾驶",
+      "count": 2,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%",
-        "英伟达为俄亥俄州OpenAI数据中心提供1050亿美元融资支持",
-        "8月18日外盘头条：特朗普称不寻求延长与伊朗的谅解备忘录 Anthropic年化营收有望突破650亿美元"
+        "特斯拉据悉正为Cybercab公开发布做准备，最早本月推出",
+        "德赛西威发布 2026 年半年度报告 营收规模稳步增长，智能座舱业务实现营业收入 97.56 亿元"
       ]
     },
     {
@@ -884,14 +935,14 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "新能源车与智能驾驶",
+      "topic": "低空经济与无人机",
       "count": 1,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "德赛西威发布 2026 年半年度报告 营收规模稳步增长，智能座舱业务实现营业收入 97.56 亿元"
+        "财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日"
       ]
     },
     {
@@ -917,6 +968,17 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "新能源车动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "宁德时代宜春锂矿项目复产迎重要进展"
+      ]
+    },
+    {
       "topic": "国产 GPU / 算力基础设施",
       "count": 1,
       "sourceCount": 1,
@@ -929,6 +991,74 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "中国AI大模型调用量连续十六周领跑；阿里Qwen3.",
+      "summary": "中国AI大模型调用量连续十六周领跑；阿里Qwen3.8-27B登顶全球大模型趋势榜｜数智早参,中国,调用量,大模型,趋势榜,数智早参,知名企业,大语言模型,阿里qwen,阿里巴巴集团",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L4JKAK3E0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L4JKAK3E0512B07B.html"
+      ],
+      "publishedAt": "2026-08-18",
+      "date": "2026-08-18",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国AI大模型调用量连续十六周领跑；阿里Qwen3.” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "中国AI大模型调用量连续十六周领跑；阿里Qwen3.8-27B登顶全球大模型趋势榜｜数智早参,中国,调用量,大模型,趋势榜,数智早参,知名企业,大语言模型,阿里qwen,阿里巴巴集团",
+      "relatedTitles": [
+        "中国AI大模型调用量连续十六周领跑；阿里Qwen3."
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "美国为什么造不出宇树机器人？一家硅谷破产公司的反思",
@@ -994,6 +1124,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "美国为什么造不出宇树机器人？一家硅谷破产公司的反思,硅谷,美国,博尔特,破产公司,机器人公司,宇树机器人,世界人工智能大会",
       "relatedTitles": [
         "美国为什么造不出宇树机器人？一家硅谷破产公司的反思"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日",
+      "summary": "全球汇率新浪最全炒汇神器。8月16日重要新闻有：伊朗军方悬赏50亿土曼（约3万美元）逮捕或消灭入境美军，禁止美进入波斯湾等海域；韩军因朝军越界鸣枪警告；中国驻菲使馆“16连问”菲防长；中方谴责日方参拜靖国神社；前7个月人民币存款增17.79万亿、贷款增10.38万亿；我国成功发射卫星互联网低轨24组卫星；莫斯科遭600",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/y/2026-08-18/doc-ininsseh0330813.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/y/2026-08-18/doc-ininsseh0330813.shtml"
+      ],
+      "publishedAt": "2026-08-18",
+      "date": "2026-08-18",
+      "category": "太空与低空",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 181,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "低空经济与无人机",
+      "rawText": "全球汇率新浪最全炒汇神器。8月16日重要新闻有：伊朗军方悬赏50亿土曼（约3万美元）逮捕或消灭入境美军，禁止美进入波斯湾等海域；韩军因朝军越界鸣枪警告；中国驻菲使馆“16连问”菲防长；中方谴责日方参拜靖国神社；前7个月人民币存款增17.79万亿、贷款增10.38万亿；我国成功发射卫星互联网低轨24组卫星；莫斯科遭600架无人机袭击，乌称袭击俄火箭航天中心。股市方面，频准激光18日上市，段永平调仓；多家公司披露半年报，部分公司有定增、重组等计划，还有公司有回购、项目定点等重要事项。 (AI生成)--新浪财经领先金融信息服务平台",
+      "relatedTitles": [
+        "财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日"
       ],
       "isNewSinceLastRun": true
     },
@@ -1063,6 +1261,74 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "特斯拉据悉正为Cybercab公开发布做准备，最早本月推出",
+      "summary": "据报道，特斯拉已告知员工，正在为Cybercab的公开发布做准备。这是该公司首款没有方向盘和刹车踏板的车型，专为其自动驾驶网约车服务 Robotaxi 打造。公司计划率先在德克萨斯州奥斯汀市面向公众投放。 据了解该计划的知情人士透露...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7482626.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7482626.shtml"
+      ],
+      "publishedAt": "2026-08-18",
+      "date": "2026-08-18",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 175,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “特斯拉据悉正为Cybercab公开发布做准备，最早本月推出” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "据报道，特斯拉已告知员工，正在为Cybercab的公开发布做准备。这是该公司首款没有方向盘和刹车踏板的车型，专为其自动驾驶网约车服务 Robotaxi 打造。公司计划率先在德克萨斯州奥斯汀市面向公众投放。 据了解该计划的知情人士透露...",
+      "relatedTitles": [
+        "特斯拉据悉正为Cybercab公开发布做准备，最早本月推出"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1131,7 +1397,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美国要求韩国将存储芯片作为首个对美投资重点"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1199,7 +1465,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美国投资级债券8月发行创历年同月新高 AI基建推动企业举债"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1267,7 +1533,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1335,7 +1601,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "德赛西威发布 2026 年半年度报告 营收规模稳步增长，智能座舱业务实现营业收入 97.56 亿元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1403,7 +1669,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "年轻人都瞧不上的河南钻石 把英伟达馋哭了？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1471,7 +1737,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英伟达为俄亥俄州OpenAI数据中心提供1050亿美元融资支持"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1539,7 +1805,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "人工智能时代，为什么更需要博雅教育？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1607,7 +1873,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "我国科学家研发高效率三结太阳电池取得新进展"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1674,6 +1940,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "8月18日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.37%。 上涨个股（按市值从高到低）：台积电涨1.08%，阿里巴巴涨0.73%，拼多多涨0.74%，日月光半导体涨0.94%，联电涨1.98%，百度涨0.43%，中...",
       "relatedTitles": [
         "8月18日热门中概股涨跌不一 小鹏涨超4% 华住酒店涨超11%"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "宁德时代宜春锂矿项目复产迎重要进展",
+      "summary": "证券时报记者 李小平 备受关注的宁德时代（300750）枧下窝锂矿的复产，迎来重要进展。8月17日，证券时报记者获悉，宜春市生态环境局拟受理宜春时代新能源矿业有限公司（下称“宜春时代”）江西省宜丰县圳口里—奉新县枧下窝锂矿采矿项目环...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininsfpx9860003.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininsfpx9860003.shtml"
+      ],
+      "publishedAt": "2026-08-18",
+      "date": "2026-08-18",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “宁德时代宜春锂矿项目复产迎重要进展” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "证券时报记者 李小平 备受关注的宁德时代（300750）枧下窝锂矿的复产，迎来重要进展。8月17日，证券时报记者获悉，宜春市生态环境局拟受理宜春时代新能源矿业有限公司（下称“宜春时代”）江西省宜丰县圳口里—奉新县枧下窝锂矿采矿项目环...",
+      "relatedTitles": [
+        "宁德时代宜春锂矿项目复产迎重要进展"
       ],
       "isNewSinceLastRun": true
     },
@@ -1743,7 +2077,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "8月18日外盘头条：特朗普称不寻求延长与伊朗的谅解备忘录 Anthropic年化营收有望突破650亿美元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1811,7 +2145,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "《永劫无间》已集成AMD FSR光线再生技术：战斗更加细腻、沉浸"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1879,7 +2213,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "SRG：截至2025年超大规模公司运营的数据中心占总容量的48%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2153,8 +2487,8 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "HelixWorld 终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成 即将完全开源 邓思邈 1分钟前 HelixWorld Noiz AI 世界模型 音视频交互 热门文章 PDF当死",
-      "summary": "HelixWorld 终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成 即将完全开源 邓思邈 1分钟前 HelixWorld Noiz AI 世界模型 音视频交互 热门文章 PDF当死，ARA该立！论文是时候Agent原生了 一家新能源大厂，如何撑起全球最大AI算力超级单体？ 深度体验DeepS",
+      "title": "HelixWorld 终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成 即将完全开源 邓思邈 2分钟前 HelixWorld Noiz AI 世界模型 音视频交互 热门文章 PDF当死",
+      "summary": "HelixWorld 终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成 即将完全开源 邓思邈 2分钟前 HelixWorld Noiz AI 世界模型 音视频交互 热门文章 PDF当死，ARA该立！论文是时候Agent原生了 一家新能源大厂，如何撑起全球最大AI算力超级单体？ 深度体验DeepS",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2210,12 +2544,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “HelixWorld 终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成 即将完全开源 邓思邈 1分钟前 HelixWor” against primary-source evidence.",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “HelixWorld 终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成 即将完全开源 邓思邈 2分钟前 HelixWor” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "HelixWorld 终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成 即将完全开源 邓思邈 1分钟前 HelixWorld Noiz AI 世界模型 音视频交互 热门文章 PDF当死，ARA该立！论文是时候Agent原生了 一家新能源大厂，如何撑起全球最大AI算力超级单体？ 深度体验DeepSeek Harness，我原谅它涨价了 4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围 马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+      "rawText": "HelixWorld 终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成 即将完全开源 邓思邈 2分钟前 HelixWorld Noiz AI 世界模型 音视频交互 热门文章 PDF当死，ARA该立！论文是时候Agent原生了 一家新能源大厂，如何撑起全球最大AI算力超级单体？ 深度体验DeepSeek Harness，我原谅它涨价了 4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围 马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
       "relatedTitles": [
-        "HelixWorld 终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成 即将完全开源 邓思邈 1分钟前 HelixWorld Noiz AI 世界模型 音视频交互 热门文章 PDF当死"
+        "HelixWorld 终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成 即将完全开源 邓思邈 2分钟前 HelixWorld Noiz AI 世界模型 音视频交互 热门文章 PDF当死"
       ]
     },
     {
@@ -2556,7 +2890,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "周鸿祎发布全员信：360启动AI时代组织变革，用领导力驱动AI原生转型",
-      "summary": "GLM-5.3 刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了 顺手拿下最强开源安全模型 十三 12分钟前 GLM-5.3 开源模型 智谱 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头",
+      "summary": "GLM-5.3 刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了 顺手拿下最强开源安全模型 十三 16小时前 GLM-5.3 开源模型 智谱 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头",
       "source": "新浪科技",
       "sources": [
         "新浪科技",
@@ -2964,7 +3298,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "至知创新研究院",
-      "summary": "至知创新研究院 至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1% 理解大模型，无需再训练一个替代网络 邓思邈 2分钟前 稀疏权重分解 至知创新研究院 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 奥特曼的Chat",
+      "summary": "至知创新研究院 至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1% 理解大模型，无需再训练一个替代网络 邓思邈 3分钟前 稀疏权重分解 至知创新研究院 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 奥特曼的Chat",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -3023,7 +3357,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “至知创新研究院” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "至知创新研究院 至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1% 理解大模型，无需再训练一个替代网络 邓思邈 2分钟前 稀疏权重分解 至知创新研究院 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 奥特曼的ChatGPT育儿大法，捅了马蜂窝 爆料：哈萨比斯原本要和Jeff Dean一起走！ 中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+      "rawText": "至知创新研究院 至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1% 理解大模型，无需再训练一个替代网络 邓思邈 3分钟前 稀疏权重分解 至知创新研究院 热门文章 GPT-5.6和Fable联手，解决了一道悬了25年的数学难题 Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱 奥特曼的ChatGPT育儿大法，捅了马蜂窝 爆料：哈萨比斯原本要和Jeff Dean一起走！ 中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
       "relatedTitles": [
         "至知创新研究院"
       ]
@@ -3395,7 +3729,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 123
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3427,7 +3761,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3459,7 +3793,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3491,7 +3825,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 118
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3523,7 +3857,39 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary": "Fidji Simo, an ex-OpenAI executive and cofounder of ChronicleBio, said AI needs the right data infrastructure to be able to cure all diseases.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "publishedAt": "Sun, 16 Aug 2026 16:53:51 +0000",
+      "date": "2026-08-16",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3555,7 +3921,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3587,7 +3953,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3619,7 +3985,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3651,7 +4017,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3683,7 +4049,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3715,75 +4081,11 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "UK customer seeks $675 refund after missed Powerwall install costs them Tesla cashback",
-      "summary": "When installers fail to fulfill their commitments in a timely manner, consumers can miss out on incentives.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/home/articles/uk-customer-seeks-675-refund-210900399.html",
-      "publishedAt": "2026-08-18",
-      "date": "2026-08-18",
-      "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “UK customer seeks $675 refund after missed Powerwall install costs them ” against primary-source evidence.",
-      "priority": 5,
-      "score": 133,
-      "reporterScore": 133,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "publishedAt": "Sun, 16 Aug 2026 16:53:51 +0000",
-      "date": "2026-08-16",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-18｜V3\n生成时间：2026/8/18 07:08:32\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2598｜确认今日 14｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 14 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-18] 美国为什么造不出宇树机器人？一家硅谷破产公司的反思\n   网易科技｜2026-08-18｜https://www.163.com/dy/article/L4J35D6M0512B07B.html\n   报道角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？一家硅谷破产公司的反思” against primary-source evidence.\n\n2. [2026-08-18] 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金” against primary-source evidence.\n\n3. [2026-08-18] 美国要求韩国将存储芯片作为首个对美投资重点\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7469319.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国要求韩国将存储芯片作为首个对美投资重点” against primary-source evidence.\n\n4. [2026-08-18] 美国投资级债券8月发行创历年同月新高 AI基建推动企业举债\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwk0421165.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国投资级债券8月发行创历年同月新高 AI基建推动企业举债” against primary-source evidence.\n\n5. [2026-08-18] 8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwh3646552.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%” against primary-source evidence.\n\n本次新增线索：\n- 美国为什么造不出宇树机器人？一家硅谷破产公司的反思｜网易科技｜https://www.163.com/dy/article/L4J35D6M0512B07B.html\n- 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml\n- 美国要求韩国将存储芯片作为首个对美投资重点｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7469319.shtml\n- 美国投资级债券8月发行创历年同月新高 AI基建推动企业举债｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwk0421165.shtml\n- 8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwh3646552.shtml\n- Former SpaceX engineers are building a robotic factory for making steel parts｜Ars Technica｜https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Former SpaceX engineers are building a robotic factory for making steel parts｜Ars Technica｜https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/\n2. Be a hater all you want, AI's here to stay｜The Register｜https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275\n3. Code fixers have fired up the AI warp drive. Strange new worlds await｜The Register｜https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681\n4. LG wants to build humanoid robots, and NVIDIA is giving it the brains｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/lg-wants-build-humanoid-robots-211518003.html\n5. Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project｜TechCrunch｜https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-18｜V3\n生成时间：2026/8/18 07:08:32\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2598｜确认今日 14｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 14 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-18] 美国为什么造不出宇树机器人？一家硅谷破产公司的反思\n   网易科技｜2026-08-18｜https://www.163.com/dy/article/L4J35D6M0512B07B.html\n   报道角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？一家硅谷破产公司的反思” against primary-source evidence.\n\n2. [2026-08-18] 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金” against primary-source evidence.\n\n3. [2026-08-18] 美国要求韩国将存储芯片作为首个对美投资重点\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7469319.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国要求韩国将存储芯片作为首个对美投资重点” against primary-source evidence.\n\n4. [2026-08-18] 美国投资级债券8月发行创历年同月新高 AI基建推动企业举债\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwk0421165.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国投资级债券8月发行创历年同月新高 AI基建推动企业举债” against primary-source evidence.\n\n5. [2026-08-18] 8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwh3646552.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%” against primary-source evidence.\n\n本次新增线索：\n- 美国为什么造不出宇树机器人？一家硅谷破产公司的反思｜网易科技｜https://www.163.com/dy/article/L4J35D6M0512B07B.html\n- 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml\n- 美国要求韩国将存储芯片作为首个对美投资重点｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7469319.shtml\n- 美国投资级债券8月发行创历年同月新高 AI基建推动企业举债｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwk0421165.shtml\n- 8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwh3646552.shtml\n- Former SpaceX engineers are building a robotic factory for making steel parts｜Ars Technica｜https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Former SpaceX engineers are building a robotic factory for making steel parts｜Ars Technica｜https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/\n2. Be a hater all you want, AI's here to stay｜The Register｜https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275\n3. Code fixers have fired up the AI warp drive. Strange new worlds await｜The Register｜https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681\n4. LG wants to build humanoid robots, and NVIDIA is giving it the brains｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/lg-wants-build-humanoid-robots-211518003.html\n5. Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project｜TechCrunch｜https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-18｜生成时间：2026/8/18 07:08:32｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2598｜确认今日 14｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 14 条｜国际 12 条<br>延续跟踪线索：国内 0 条｜国际 1 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-18] 美国为什么造不出宇树机器人？一家硅谷破产公司的反思</strong>\n      <span>网易科技｜2026-08-18｜<a href=\"https://www.163.com/dy/article/L4J35D6M0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？一家硅谷破产公司的反思” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-18] 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金</strong>\n      <span>新浪科技｜2026-08-18｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-18] 美国要求韩国将存储芯片作为首个对美投资重点</strong>\n      <span>新浪科技｜2026-08-18｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7469319.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国要求韩国将存储芯片作为首个对美投资重点” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-18] 美国投资级债券8月发行创历年同月新高 AI基建推动企业举债</strong>\n      <span>新浪科技｜2026-08-18｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwk0421165.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国投资级债券8月发行创历年同月新高 AI基建推动企业举债” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-18] 8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%</strong>\n      <span>新浪科技｜2026-08-18｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwh3646552.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Former SpaceX engineers are building a robotic factory for making steel parts</strong>\n      <span>时间：Mon, 17 Aug 2026 21:18:49 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Former SpaceX engineers are building a robotic factory for making steel ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Be a hater all you want, AI's here to stay</strong>\n      <span>时间：Mon, 17 Aug 2026 12:18:14 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Be a hater all you want, AI's here to stay” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Code fixers have fired up the AI warp drive. Strange new worlds await</strong>\n      <span>时间：Mon, 17 Aug 2026 11:04:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Code fixers have fired up the AI warp drive. Strange new worlds await” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. LG wants to build humanoid robots, and NVIDIA is giving it the brains</strong>\n      <span>时间：2026-08-18｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/meta-ai/articles/lg-wants-build-humanoid-robots-211518003.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “LG wants to build humanoid robots, and NVIDIA is giving it the brains” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project</strong>\n      <span>时间：Mon, 17 Aug 2026 15:16:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia investing $1.5B in SoftBank data center developer behind OpenAI p” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/18 07:08:32\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 14 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 1 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-18] 美国为什么造不出宇树机器人？一家硅谷破产公司的反思\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4J35D6M0512B07B.html\n   角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？一家硅谷破产公司的反思” against primary-source evidence.\n\n2. [2026-08-18] 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金” against primary-source evidence.\n\n3. [2026-08-18] 美国要求韩国将存储芯片作为首个对美投资重点\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7469319.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国要求韩国将存储芯片作为首个对美投资重点” against primary-source evidence.\n\n4. [2026-08-18] 美国投资级债券8月发行创历年同月新高 AI基建推动企业举债\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwk0421165.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国投资级债券8月发行创历年同月新高 AI基建推动企业举债” against primary-source evidence.\n\n5. [2026-08-18] 8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwh3646552.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%” against primary-source evidence.\n\n本次新增线索：\n- 美国为什么造不出宇树机器人？一家硅谷破产公司的反思｜网易科技｜https://www.163.com/dy/article/L4J35D6M0512B07B.html\n- 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml\n- 美国要求韩国将存储芯片作为首个对美投资重点｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7469319.shtml\n- 美国投资级债券8月发行创历年同月新高 AI基建推动企业举债｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwk0421165.shtml\n- 8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwh3646552.shtml\n- Former SpaceX engineers are building a robotic factory for making steel parts｜Ars Technica｜https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Former SpaceX engineers are building a robotic factory for making steel parts｜Ars Technica｜https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/\n2. Be a hater all you want, AI's here to stay｜The Register｜https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275\n3. Code fixers have fired up the AI warp drive. Strange new worlds await｜The Register｜https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681\n4. LG wants to build humanoid robots, and NVIDIA is giving it the brains｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/lg-wants-build-humanoid-robots-211518003.html\n5. Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project｜TechCrunch｜https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-18｜V3\n生成时间：2026/8/18 07:31:40\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2588｜确认今日 18｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 14 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-18] 中国AI大模型调用量连续十六周领跑；阿里Qwen3.\n   网易科技｜2026-08-18｜https://www.163.com/dy/article/L4JKAK3E0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国AI大模型调用量连续十六周领跑；阿里Qwen3.” against primary-source evidence.\n\n2. [2026-08-18] 美国为什么造不出宇树机器人？一家硅谷破产公司的反思\n   网易科技｜2026-08-18｜https://www.163.com/dy/article/L4J35D6M0512B07B.html\n   报道角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？一家硅谷破产公司的反思” against primary-source evidence.\n\n3. [2026-08-18] 财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/stock/y/2026-08-18/doc-ininsseh0330813.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日” against primary-source evidence.\n\n4. [2026-08-18] 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金” against primary-source evidence.\n\n5. [2026-08-18] 特斯拉据悉正为Cybercab公开发布做准备，最早本月推出\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7482626.shtml\n   报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “特斯拉据悉正为Cybercab公开发布做准备，最早本月推出” against primary-source evidence.\n\n本次新增线索：\n- 中国AI大模型调用量连续十六周领跑；阿里Qwen3.｜网易科技｜https://www.163.com/dy/article/L4JKAK3E0512B07B.html\n- 财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-08-18/doc-ininsseh0330813.shtml\n- 特斯拉据悉正为Cybercab公开发布做准备，最早本月推出｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7482626.shtml\n- 宁德时代宜春锂矿项目复产迎重要进展｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininsfpx9860003.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Former SpaceX engineers are building a robotic factory for making steel parts｜Ars Technica｜https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/\n2. Be a hater all you want, AI's here to stay｜The Register｜https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275\n3. Code fixers have fired up the AI warp drive. Strange new worlds await｜The Register｜https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681\n4. LG wants to build humanoid robots, and NVIDIA is giving it the brains｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/lg-wants-build-humanoid-robots-211518003.html\n5. Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project｜TechCrunch｜https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-18｜V3\n生成时间：2026/8/18 07:31:40\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2588｜确认今日 18｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 14 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-18] 中国AI大模型调用量连续十六周领跑；阿里Qwen3.\n   网易科技｜2026-08-18｜https://www.163.com/dy/article/L4JKAK3E0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国AI大模型调用量连续十六周领跑；阿里Qwen3.” against primary-source evidence.\n\n2. [2026-08-18] 美国为什么造不出宇树机器人？一家硅谷破产公司的反思\n   网易科技｜2026-08-18｜https://www.163.com/dy/article/L4J35D6M0512B07B.html\n   报道角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？一家硅谷破产公司的反思” against primary-source evidence.\n\n3. [2026-08-18] 财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/stock/y/2026-08-18/doc-ininsseh0330813.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日” against primary-source evidence.\n\n4. [2026-08-18] 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金” against primary-source evidence.\n\n5. [2026-08-18] 特斯拉据悉正为Cybercab公开发布做准备，最早本月推出\n   新浪科技｜2026-08-18｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7482626.shtml\n   报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “特斯拉据悉正为Cybercab公开发布做准备，最早本月推出” against primary-source evidence.\n\n本次新增线索：\n- 中国AI大模型调用量连续十六周领跑；阿里Qwen3.｜网易科技｜https://www.163.com/dy/article/L4JKAK3E0512B07B.html\n- 财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-08-18/doc-ininsseh0330813.shtml\n- 特斯拉据悉正为Cybercab公开发布做准备，最早本月推出｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7482626.shtml\n- 宁德时代宜春锂矿项目复产迎重要进展｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininsfpx9860003.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Former SpaceX engineers are building a robotic factory for making steel parts｜Ars Technica｜https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/\n2. Be a hater all you want, AI's here to stay｜The Register｜https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275\n3. Code fixers have fired up the AI warp drive. Strange new worlds await｜The Register｜https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681\n4. LG wants to build humanoid robots, and NVIDIA is giving it the brains｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/lg-wants-build-humanoid-robots-211518003.html\n5. Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project｜TechCrunch｜https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-18｜生成时间：2026/8/18 07:31:40｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2588｜确认今日 18｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 14 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-18] 中国AI大模型调用量连续十六周领跑；阿里Qwen3.</strong>\n      <span>网易科技｜2026-08-18｜<a href=\"https://www.163.com/dy/article/L4JKAK3E0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国AI大模型调用量连续十六周领跑；阿里Qwen3.” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-18] 美国为什么造不出宇树机器人？一家硅谷破产公司的反思</strong>\n      <span>网易科技｜2026-08-18｜<a href=\"https://www.163.com/dy/article/L4J35D6M0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？一家硅谷破产公司的反思” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-18] 财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日</strong>\n      <span>新浪科技｜2026-08-18｜<a href=\"https://finance.sina.com.cn/stock/y/2026-08-18/doc-ininsseh0330813.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-18] 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金</strong>\n      <span>新浪科技｜2026-08-18｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-18] 特斯拉据悉正为Cybercab公开发布做准备，最早本月推出</strong>\n      <span>新浪科技｜2026-08-18｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7482626.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：175｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “特斯拉据悉正为Cybercab公开发布做准备，最早本月推出” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Former SpaceX engineers are building a robotic factory for making steel parts</strong>\n      <span>时间：Mon, 17 Aug 2026 21:18:49 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Former SpaceX engineers are building a robotic factory for making steel ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Be a hater all you want, AI's here to stay</strong>\n      <span>时间：Mon, 17 Aug 2026 12:18:14 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Be a hater all you want, AI's here to stay” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Code fixers have fired up the AI warp drive. Strange new worlds await</strong>\n      <span>时间：Mon, 17 Aug 2026 11:04:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Code fixers have fired up the AI warp drive. Strange new worlds await” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. LG wants to build humanoid robots, and NVIDIA is giving it the brains</strong>\n      <span>时间：2026-08-18｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/meta-ai/articles/lg-wants-build-humanoid-robots-211518003.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “LG wants to build humanoid robots, and NVIDIA is giving it the brains” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project</strong>\n      <span>时间：Mon, 17 Aug 2026 15:16:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia investing $1.5B in SoftBank data center developer behind OpenAI p” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/18 07:31:40\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 14 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-18] 中国AI大模型调用量连续十六周领跑；阿里Qwen3.\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4JKAK3E0512B07B.html\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国AI大模型调用量连续十六周领跑；阿里Qwen3.” against primary-source evidence.\n\n2. [2026-08-18] 美国为什么造不出宇树机器人？一家硅谷破产公司的反思\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4J35D6M0512B07B.html\n   角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？一家硅谷破产公司的反思” against primary-source evidence.\n\n3. [2026-08-18] 财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/y/2026-08-18/doc-ininsseh0330813.shtml\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日” against primary-source evidence.\n\n4. [2026-08-18] 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金” against primary-source evidence.\n\n5. [2026-08-18] 特斯拉据悉正为Cybercab公开发布做准备，最早本月推出\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7482626.shtml\n   角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “特斯拉据悉正为Cybercab公开发布做准备，最早本月推出” against primary-source evidence.\n\n本次新增线索：\n- 中国AI大模型调用量连续十六周领跑；阿里Qwen3.｜网易科技｜https://www.163.com/dy/article/L4JKAK3E0512B07B.html\n- 财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-08-18/doc-ininsseh0330813.shtml\n- 特斯拉据悉正为Cybercab公开发布做准备，最早本月推出｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7482626.shtml\n- 宁德时代宜春锂矿项目复产迎重要进展｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininsfpx9860003.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Former SpaceX engineers are building a robotic factory for making steel parts｜Ars Technica｜https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/\n2. Be a hater all you want, AI's here to stay｜The Register｜https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275\n3. Code fixers have fired up the AI warp drive. Strange new worlds await｜The Register｜https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681\n4. LG wants to build humanoid robots, and NVIDIA is giving it the brains｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/lg-wants-build-humanoid-robots-211518003.html\n5. Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project｜TechCrunch｜https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
