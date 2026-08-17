@@ -3,54 +3,53 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/18 07:31:40
+生成时间：2026/8/18 07:41:04
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 0 条
-延续跟踪线索：国内 14 条｜国际 12 条
+新增核心线索：国内 3 条｜国际 0 条
+延续跟踪线索：国内 18 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-18] 中国AI大模型调用量连续十六周领跑；阿里Qwen3.
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L4JKAK3E0512B07B.html
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国AI大模型调用量连续十六周领跑；阿里Qwen3.” against primary-source evidence.
-
-2. [2026-08-18] 美国为什么造不出宇树机器人？一家硅谷破产公司的反思
+1. [2026-08-18] 美国为什么造不出宇树机器人？一家硅谷破产公司的反思
    来源：网易科技
    链接：https://www.163.com/dy/article/L4J35D6M0512B07B.html
    角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “美国为什么造不出宇树机器人？一家硅谷破产公司的反思” against primary-source evidence.
 
-3. [2026-08-18] 财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/y/2026-08-18/doc-ininsseh0330813.shtml
-   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日” against primary-source evidence.
+2. [2026-08-18] 科学家会客厅丨用软件实现卫星在轨进化、协同互联
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-08/18/content_565352.html
+   角度：Turn the research into a human-readable science story about research infrastructure and long-term innovation capacity, avoiding claims beyond the published evidence. For this item, test the claim behind “科学家会客厅丨用软件实现卫星在轨进化、协同互联” against primary-source evidence.
 
-4. [2026-08-18] 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金
+3. [2026-08-18] 苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-08-18/doc-ininsscz7468995.shtml
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金” against primary-source evidence.
 
-5. [2026-08-18] 特斯拉据悉正为Cybercab公开发布做准备，最早本月推出
+4. [2026-08-18] 美国要求韩国将存储芯片作为首个对美投资重点
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7482626.shtml
-   角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “特斯拉据悉正为Cybercab公开发布做准备，最早本月推出” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7469319.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国要求韩国将存储芯片作为首个对美投资重点” against primary-source evidence.
+
+5. [2026-08-18] 美国投资级债券8月发行创历年同月新高 AI基建推动企业举债
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwk0421165.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国投资级债券8月发行创历年同月新高 AI基建推动企业举债” against primary-source evidence.
 
 本次新增线索：
-- 中国AI大模型调用量连续十六周领跑；阿里Qwen3.｜网易科技｜https://www.163.com/dy/article/L4JKAK3E0512B07B.html
-- 财经早报：特朗普称不寻求延长谅解备忘录，涉稀土我国取得重要进展丨2026年8月18日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-08-18/doc-ininsseh0330813.shtml
-- 特斯拉据悉正为Cybercab公开发布做准备，最早本月推出｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscz7482626.shtml
-- 宁德时代宜春锂矿项目复产迎重要进展｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininsfpx9860003.shtml
+- 科学家会客厅丨用软件实现卫星在轨进化、协同互联｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/18/content_565352.html
+- 特斯拉Cybercab有望本月投放运营｜网易科技｜https://www.163.com/dy/article/L4JKC0C10519DDQ2.html
+- 中信建投：矿区自动驾驶行业在渗透率突破10%后有望进入S型加速阶段｜网易科技｜https://www.163.com/dy/article/L4JLQOM80534A4SC.html
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（4 条，2 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）
 - 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
 1. Former SpaceX engineers are building a robotic factory for making steel parts｜Ars Technica｜https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/
