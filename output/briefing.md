@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/18 15:06:44
+生成时间：2026/8/19 07:08:48
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 0 条
-延续跟踪线索：国内 46 条｜国际 12 条
+新增核心线索：国内 15 条｜国际 9 条
+延续跟踪线索：国内 0 条｜国际 2 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-18] AI办公桌面端月活超3000万，WorkBuddy与百度搭子包揽总榜前二
+1. [2026-08-19] 美国人工智能模型为何屡屡“越界”
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/it/2026-08-18/doc-ininthzt7388920.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI办公桌面端月活超3000万，WorkBuddy与百度搭子包揽总榜前二” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-19/doc-ininuzmc9545298.shtml
+   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国人工智能模型为何屡屡“越界”” against primary-source evidence.
 
-2. [2026-08-18] 一位来自2050的观众：我在2026世界机器人大会，
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L4KF2ON00534A4SC.html
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “一位来自2050的观众：我在2026世界机器人大会，” against primary-source evidence.
+2. [2026-08-19] 通胀赤字与AI融资齐袭 多国长期主权债收益率升至十余年高位
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininuquy8454585.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “通胀赤字与AI融资齐袭 多国长期主权债收益率升至十余年高位” against primary-source evidence.
 
-3. [2026-08-18] 2056台机器人将在北京同场竞技
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-08/18/content_38949129.htm
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “2056台机器人将在北京同场竞技” against primary-source evidence.
+3. [2026-08-19] 数据中心反对声浪渐成美国选举敏感议题 华尔街担忧美股面临回调风险
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8503929.shtml
+   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “数据中心反对声浪渐成美国选举敏感议题 华尔街担忧美股面临回调风险” against primary-source evidence.
 
-4. [2026-08-18] 共生知行发布人形机器人赛车Demo
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L4K8SFIP0534A4SC.html
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “共生知行发布人形机器人赛车Demo” against primary-source evidence.
+4. [2026-08-19] WTO：2025年世界贸易报告
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-19/doc-ininuvcf9673829.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “WTO：2025年世界贸易报告” against primary-source evidence.
 
-5. [2026-08-18] 搬运50公斤重物 香港科企发布“生产力工具型”人形机器人- 新一代产业级人形机器人“小睿G3”17日在香港发布
-   来源：新华网-科技
-   链接：http://www.news.cn/tech/20260818/d25bb38aec1246de9b44343a8680627e/c.html
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “搬运50公斤重物 香港科企发布“生产力工具型”人形机器人- 新一代产业级人形机器人“小睿G3”17日在香港发布” against primary-source evidence.
+5. [2026-08-19] Xiaomi HyperOS 4 正式发布：超级小爱 2.0 来了，跨应用、跨设备任务帮你执行
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-08-19/doc-ininuvaw8423761.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Xiaomi HyperOS 4 正式发布：超级小爱 2.0 来了，跨应用、跨设备任务帮你执行” against primary-source evidence.
 
 本次新增线索：
-- 一位来自2050的观众：我在2026世界机器人大会，｜网易科技｜https://www.163.com/dy/article/L4KF2ON00534A4SC.html
-- 2056台机器人将在北京同场竞技｜光明网-科技｜https://tech.gmw.cn/2026-08/18/content_38949129.htm
-- 共生知行发布人形机器人赛车Demo｜网易科技｜https://www.163.com/dy/article/L4K8SFIP0534A4SC.html
-- 搬运50公斤重物 香港科企发布“生产力工具型”人形机器人- 新一代产业级人形机器人“小睿G3”17日在香港发布｜新华网-科技｜http://www.news.cn/tech/20260818/d25bb38aec1246de9b44343a8680627e/c.html
-- 明年首飞！中科宇航力巡一号太空“摆渡车”完成重要试验｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-18/doc-inintpir7302017.shtml
+- 美国人工智能模型为何屡屡“越界”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-19/doc-ininuzmc9545298.shtml
+- 通胀赤字与AI融资齐袭 多国长期主权债收益率升至十余年高位｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininuquy8454585.shtml
+- 数据中心反对声浪渐成美国选举敏感议题 华尔街担忧美股面临回调风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8503929.shtml
+- WTO：2025年世界贸易报告｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-19/doc-ininuvcf9673829.shtml
+- Xiaomi HyperOS 4 正式发布：超级小爱 2.0 来了，跨应用、跨设备任务帮你执行｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-08-19/doc-ininuvaw8423761.shtml
+- Against all odds, SpaceX finally tugs Starship into port after 24 days at sea｜Ars Technica｜https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/
 
 今日热点方向：
-- AI 应用：AI动态（9 条，4 个来源）
-- 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（5 条，3 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- AI 应用：AI 应用与智能体（4 条，2 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：
+- 太空与低空经济：
+- 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
 1. Former SpaceX engineers are building a robotic factory for making steel parts｜Ars Technica｜https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/
-2. Be a hater all you want, AI's here to stay｜The Register｜https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275
-3. Code fixers have fired up the AI warp drive. Strange new worlds await｜The Register｜https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681
-4. Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project｜TechCrunch｜https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/
-5. Anthropic’s annualized revenue surges to $65B｜TechCrunch｜https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/
+2. Against all odds, SpaceX finally tugs Starship into port after 24 days at sea｜Ars Technica｜https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/
+3. Before-and-after NASA images show crater carved by a SpaceX rocket that slammed into the moon｜AP Technology｜https://apnews.com/article/spacex-rocket-moon-crash-crater-52b76d61289c06b7d32348b082a8e6b8
+4. OpenAI institutes new safeguards after Hugging Face breach｜TechCrunch｜https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/
+5. OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue｜WIRED Business｜https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
