@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/20 07:31:57
+生成时间：2026/8/20 07:41:08
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 0 条
-延续跟踪线索：国内 16 条｜国际 22 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 23 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -31,17 +31,13 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6816809.shtml
    角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业” against primary-source evidence.
 
-5. [2026-08-20] 准周期光子晶体面激光器实现室温发射
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L4OPO61N05198CJN.html
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “准周期光子晶体面激光器实现室温发射” against primary-source evidence.
+5. [23:39] 骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片
+   来源：IT之家
+   链接：https://www.ithome.com/0/991/876.htm
+   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片” against primary-source evidence.
 
 本次新增线索：
-- 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml
-- 准周期光子晶体面激光器实现室温发射｜网易科技｜https://www.163.com/dy/article/L4OPO61N05198CJN.html
-- OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeka2220442.shtml
-- Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeix6811829.shtml
-- 存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeka2227627.shtml
+- 骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片｜IT之家｜https://www.ithome.com/0/991/876.htm
 
 今日热点方向：
 - AI 应用：AI动态（9 条，2 个来源）

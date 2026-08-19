@@ -1,37 +1,17 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-19T23:31:57.638Z",
+  "generatedAt": "2026-08-19T23:41:08.602Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-20",
   "changeSummary": {
-    "domesticNew": 7,
+    "domesticNew": 1,
     "globalNew": 0,
-    "domesticContinued": 16,
+    "domesticContinued": 23,
     "globalContinued": 22,
     "topNewDomestic": [
       {
-        "title": "美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml"
-      },
-      {
-        "title": "准周期光子晶体面激光器实现室温发射",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L4OPO61N05198CJN.html"
-      },
-      {
-        "title": "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeka2220442.shtml"
-      },
-      {
-        "title": "Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeix6811829.shtml"
-      },
-      {
-        "title": "存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeka2227627.shtml"
+        "title": "骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/991/876.htm"
       }
     ],
     "topNewGlobal": [],
@@ -41,7 +21,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 877,
+    "domesticRejected": 876,
     "globalRejected": 878,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -398,9 +378,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "itemsSeen": 1306,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 288,
-  "itemsAfterDedupe": 242,
-  "todayItemsSeen": 23,
+  "itemsAfterRelevantFilter": 289,
+  "itemsAfterDedupe": 243,
+  "todayItemsSeen": 24,
   "suspectedItemsSeen": 22,
   "skippedNonToday": 194,
   "domesticSourceStats": [
@@ -886,9 +866,9 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "特朗普称下周将与“AI领军人物”会面",
         "皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业",
-        "Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写",
         "观点综述：买入20年期美债 增加回购预示收益率见顶 年轻人敌视AI",
-        "美国年轻人对AI态度大转弯：55%受访者“担忧超过兴奋”"
+        "美国年轻人对AI态度大转弯：55%受访者“担忧超过兴奋”",
+        "Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写"
       ]
     },
     {
@@ -908,6 +888,20 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "芯片动态",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势",
+        "骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片",
+        "存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了"
+      ]
+    },
+    {
       "topic": "新能源车与智能驾驶",
       "count": 2,
       "sourceCount": 2,
@@ -921,15 +915,14 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "芯片动态",
-      "count": 2,
+      "topic": "新能源车动态",
+      "count": 1,
       "sourceCount": 1,
       "sources": [
-        "新浪科技"
+        "网易科技"
       ],
       "items": [
-        "美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势",
-        "存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了"
+        "崔东树：8月上半月全国新能源车市场零售同比下降15%"
       ]
     },
     {
@@ -941,17 +934,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "准周期光子晶体面激光器实现室温发射"
-      ]
-    },
-    {
-      "topic": "新能源车动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "崔东树：8月上半月全国新能源车市场零售同比下降15%"
       ]
     },
     {
@@ -1055,7 +1037,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1262,157 +1244,21 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "准周期光子晶体面激光器实现室温发射",
-      "summary": "准周期光子晶体面激光器实现室温发射,光子,半导体,晶体面,激光器,特种光纤",
-      "source": "网易科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片",
+      "summary": "高通通过官方预告暗示将推出两款骁龙 8 Elite 系列芯片，预计两款芯片将于 9 月 22 日的骁龙峰会上亮相，均采用 2nm 工艺，Pro 版跑分已曝光。#高通骁龙峰会#",
+      "source": "IT之家",
       "sources": [
-        "网易科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L4OPO61N05198CJN.html",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/991/876.htm",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L4OPO61N05198CJN.html"
+        "https://www.ithome.com/0/991/876.htm"
       ],
-      "publishedAt": "2026-08-20",
+      "publishedAt": "Wed, 19 Aug 2026 23:39:10 GMT",
       "date": "2026-08-20",
       "category": "芯片",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 165,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 118
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “准周期光子晶体面激光器实现室温发射” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "准周期光子晶体面激光器实现室温发射,光子,半导体,晶体面,激光器,特种光纤",
-      "relatedTitles": [
-        "准周期光子晶体面激光器实现室温发射"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险",
-      "summary": "IT之家 8 月 20 日消息，OpenAI 公司今天（8 月 20 日）发布博文，宣布面向符合资格的前沿模型 API 客户，扩展“零数据留存”（Zero Data Retention）服务，自动化系统可识别跨交互风险模式。IT之家援引博文...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeka2220442.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeka2220442.shtml"
-      ],
-      "publishedAt": "2026-08-20",
-      "date": "2026-08-20",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "IT之家 8 月 20 日消息，OpenAI 公司今天（8 月 20 日）发布博文，宣布面向符合资格的前沿模型 API 客户，扩展“零数据留存”（Zero Data Retention）服务，自动化系统可识别跨交互风险模式。IT之家援引博文...",
-      "relatedTitles": [
-        "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写",
-      "summary": "Meta 今天推出 Mac 版 Meta AI 应用测试版，集成 Facebook 和 Instagram，内置分析工具可回答账号表现问题，还支持连接 Google Workspace。不过，使用前需注意隐私风险，互动数据或用于训练模型。#MetaAI#",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeix6811829.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeix6811829.shtml"
-      ],
-      "publishedAt": "2026-08-20",
-      "date": "2026-08-20",
-      "category": "AI",
       "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
@@ -1421,82 +1267,14 @@ window.CHENCHEN_DAILY_DATA = {
         "source"
       ],
       "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "IT之家 8 月 20 日消息，Meta 今天推出了全新的 Mac 版 Meta AI 应用，目前以测试版形式提供。这款应用主要面向企业和内容创作者，并与 Facebook 和 Instagram 集成。应用内置分析工具，可以回答有关账号表...",
-      "relatedTitles": [
-        "Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了",
-      "summary": "快科技8月20日消息，这一轮存储芯片的持续疯狂涨价，给下游所有消费电子厂商尤其是手机行业带来的冲击远超此前预估，整个行业沿用了多年的成本逻辑都在被彻底改写。近日小米集团合伙人兼总裁卢伟冰在接受采访时坦言，其实小米早在去年就已经预判到内存成本...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeka2227627.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeka2227627.shtml"
-      ],
-      "publishedAt": "2026-08-20",
-      "date": "2026-08-20",
-      "category": "芯片",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
+      "score": 163,
+      "reporterScore": 163,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 12,
         "visual": 0,
@@ -1524,12 +1302,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了” against primary-source evidence.",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "芯片动态",
-      "rawText": "快科技8月20日消息，这一轮存储芯片的持续疯狂涨价，给下游所有消费电子厂商尤其是手机行业带来的冲击远超此前预估，整个行业沿用了多年的成本逻辑都在被彻底改写。近日小米集团合伙人兼总裁卢伟冰在接受采访时坦言，其实小米早在去年就已经预判到内存成本...",
+      "rawText": "高通通过官方预告暗示将推出两款骁龙 8 Elite 系列芯片，预计两款芯片将于 9 月 22 日的骁龙峰会上亮相，均采用 2nm 工艺，Pro 版跑分已曝光。#高通骁龙峰会#",
       "relatedTitles": [
-        "存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了"
+        "骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片"
       ],
       "isNewSinceLastRun": true
     },
@@ -1738,6 +1516,210 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "准周期光子晶体面激光器实现室温发射",
+      "summary": "准周期光子晶体面激光器实现室温发射,光子,半导体,晶体面,激光器,特种光纤",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L4OPO61N05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L4OPO61N05198CJN.html"
+      ],
+      "publishedAt": "2026-08-20",
+      "date": "2026-08-20",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 165,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “准周期光子晶体面激光器实现室温发射” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "准周期光子晶体面激光器实现室温发射,光子,半导体,晶体面,激光器,特种光纤",
+      "relatedTitles": [
+        "准周期光子晶体面激光器实现室温发射"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险",
+      "summary": "IT之家 8 月 20 日消息，OpenAI 公司今天（8 月 20 日）发布博文，宣布面向符合资格的前沿模型 API 客户，扩展“零数据留存”（Zero Data Retention）服务，自动化系统可识别跨交互风险模式。IT之家援引博文...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeka2220442.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeka2220442.shtml"
+      ],
+      "publishedAt": "2026-08-20",
+      "date": "2026-08-20",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "IT之家 8 月 20 日消息，OpenAI 公司今天（8 月 20 日）发布博文，宣布面向符合资格的前沿模型 API 客户，扩展“零数据留存”（Zero Data Retention）服务，自动化系统可识别跨交互风险模式。IT之家援引博文...",
+      "relatedTitles": [
+        "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写",
+      "summary": "Meta 今天推出 Mac 版 Meta AI 应用测试版，集成 Facebook 和 Instagram，内置分析工具可回答账号表现问题，还支持连接 Google Workspace。不过，使用前需注意隐私风险，互动数据或用于训练模型。#MetaAI#",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeix6811829.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeix6811829.shtml"
+      ],
+      "publishedAt": "2026-08-20",
+      "date": "2026-08-20",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 8 月 20 日消息，Meta 今天推出了全新的 Mac 版 Meta AI 应用，目前以测试版形式提供。这款应用主要面向企业和内容创作者，并与 Facebook 和 Instagram 集成。应用内置分析工具，可以回答有关账号表...",
+      "relatedTitles": [
+        "Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "Stripe收购OpenRouter，金融科技公司深入布局AI领域",
       "summary": "Stripe周三表示，计划收购初创公司OpenRouter，这家金融科技公司正扩展至人工智能模型市场。 交易条款未披露，知情人士的话称，交易价格约为75亿美元，其中15亿美元分配给OpenRouter创始人。不到三个月前，Open...",
@@ -1802,6 +1784,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "Stripe周三表示，计划收购初创公司OpenRouter，这家金融科技公司正扩展至人工智能模型市场。 交易条款未披露，知情人士的话称，交易价格约为75亿美元，其中15亿美元分配给OpenRouter创始人。不到三个月前，Open...",
       "relatedTitles": [
         "Stripe收购OpenRouter，金融科技公司深入布局AI领域"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了",
+      "summary": "快科技8月20日消息，这一轮存储芯片的持续疯狂涨价，给下游所有消费电子厂商尤其是手机行业带来的冲击远超此前预估，整个行业沿用了多年的成本逻辑都在被彻底改写。近日小米集团合伙人兼总裁卢伟冰在接受采访时坦言，其实小米早在去年就已经预判到内存成本...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeka2227627.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeka2227627.shtml"
+      ],
+      "publishedAt": "2026-08-20",
+      "date": "2026-08-20",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "快科技8月20日消息，这一轮存储芯片的持续疯狂涨价，给下游所有消费电子厂商尤其是手机行业带来的冲击远超此前预估，整个行业沿用了多年的成本逻辑都在被彻底改写。近日小米集团合伙人兼总裁卢伟冰在接受采访时坦言，其实小米早在去年就已经预判到内存成本...",
+      "relatedTitles": [
+        "存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了"
       ],
       "isNewSinceLastRun": false
     },
@@ -2078,74 +2128,6 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "会自己找漏洞的AI已经来了",
-      "summary": "会自己找漏洞的AI已经来了,沙箱,网络安全,agent,openai,sectiontitle",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L4O57AE5051188EA.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L4O57AE5051188EA.html"
-      ],
-      "publishedAt": "2026-08-20",
-      "date": "2026-08-20",
-      "category": "AI",
-      "classificationConfidence": 0.86,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “会自己找漏洞的AI已经来了” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "会自己找漏洞的AI已经来了,沙箱,网络安全,agent,openai,sectiontitle",
-      "relatedTitles": [
-        "会自己找漏洞的AI已经来了"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "欧洲加速汽车电动化转型挑战产业传统格局",
       "summary": "据新华社电 当前，欧洲汽车产业正加速推进电动化转型。业内人士认为，欧洲汽车产业正在经历生产、投资、产业链等方面的系统性重组，这一过程不仅关乎欧洲汽车产业的未来格局，也将考验欧洲汽车制造业的全球竞争力。总体来看，欧洲新能源汽车市场正在加速扩大...",
@@ -2214,41 +2196,41 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面",
-      "summary": "IT之家 8 月 20 日消息，美国总统唐纳德 · 特朗普表示，数据中心可能需要重新树立公众形象。特朗普当地时间周三在一场聚焦加密货币的活动结束后对记者表示：“我想说，它可能需要在公共关系方面得到一些帮助。”特朗普明确表示，无论公众对数据中...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "会自己找漏洞的AI已经来了",
+      "summary": "会自己找漏洞的AI已经来了,沙箱,网络安全,agent,openai,sectiontitle",
+      "source": "网易科技",
       "sources": [
-        "新浪科技"
+        "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8091512.shtml",
+      "url": "https://www.163.com/dy/article/L4O57AE5051188EA.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8091512.shtml"
+        "https://www.163.com/dy/article/L4O57AE5051188EA.html"
       ],
       "publishedAt": "2026-08-20",
       "date": "2026-08-20",
-      "category": "数字经济",
-      "classificationConfidence": 0.65,
+      "category": "AI",
+      "classificationConfidence": 0.86,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 70,
-      "keywords": "digital infrastructure, data flows and the platform economy",
-      "priority": 4,
-      "score": 139,
-      "reporterScore": 147,
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
       "scoreBreakdown": {
-        "hardTech": 70,
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
-        "international": 9,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
@@ -2260,26 +2242,26 @@ window.CHENCHEN_DAILY_DATA = {
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": true,
+        "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 70,
-        "reporterScore": 95
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Frame this as infrastructure rather than consumer hype, using digital infrastructure, data flows and the platform economy, adoption and measurable economic effects. For this item, test the claim behind “特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面” against primary-source evidence.",
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “会自己找漏洞的AI已经来了” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "IT之家 8 月 20 日消息，美国总统唐纳德 · 特朗普表示，数据中心可能需要重新树立公众形象。特朗普当地时间周三在一场聚焦加密货币的活动结束后对记者表示：“我想说，它可能需要在公共关系方面得到一些帮助。”特朗普明确表示，无论公众对数据中...",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "会自己找漏洞的AI已经来了,沙箱,网络安全,agent,openai,sectiontitle",
       "relatedTitles": [
-        "特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面"
+        "会自己找漏洞的AI已经来了"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2414,6 +2396,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "特斯拉一辆无人驾驶 Robotaxi 在奥斯汀撞穿塑料隔离柱，视频显示车辆曾多次停车又前进，最终强行通过。此前高管宣称安全记录“无可挑剔”，但这次事件引发对其决策逻辑的质疑。你怎么看？#特斯拉Robotaxi#",
       "relatedTitles": [
         "特斯拉过度宣传智驾遭反噬：Robotaxi 撞穿路障后继续行驶，此前高管宣称安全记录“无可挑剔”"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面",
+      "summary": "IT之家 8 月 20 日消息，美国总统唐纳德 · 特朗普表示，数据中心可能需要重新树立公众形象。特朗普当地时间周三在一场聚焦加密货币的活动结束后对记者表示：“我想说，它可能需要在公共关系方面得到一些帮助。”特朗普明确表示，无论公众对数据中...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8091512.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8091512.shtml"
+      ],
+      "publishedAt": "2026-08-20",
+      "date": "2026-08-20",
+      "category": "数字经济",
+      "classificationConfidence": 0.65,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 70,
+      "keywords": "digital infrastructure, data flows and the platform economy",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 147,
+      "scoreBreakdown": {
+        "hardTech": 70,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 70,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Frame this as infrastructure rather than consumer hype, using digital infrastructure, data flows and the platform economy, adoption and measurable economic effects. For this item, test the claim behind “特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "IT之家 8 月 20 日消息，美国总统唐纳德 · 特朗普表示，数据中心可能需要重新树立公众形象。特朗普当地时间周三在一场聚焦加密货币的活动结束后对记者表示：“我想说，它可能需要在公共关系方面得到一些帮助。”特朗普明确表示，无论公众对数据中...",
+      "relatedTitles": [
+        "特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面"
       ],
       "isNewSinceLastRun": false
     },
@@ -3495,73 +3545,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期",
-      "summary": "先进封装正在成为全球AI算力竞赛的关键胜负手。从CoWoS的供需失衡到玻璃基板的产业化门槛，从共封装光学（CPO）的能效博弈到混合键合的多线突破，产业每一个环节都在被AI掀起的巨大需求所重塑。",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/JanVardaman/2026_08_11_826887.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/JanVardaman/2026_08_11_826887.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "芯片",
-      "classificationConfidence": 0.98,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 4,
-      "score": 126,
-      "reporterScore": 134,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "先进封装正在成为全球AI算力竞赛的关键胜负手。从CoWoS的供需失衡到玻璃基板的产业化门槛，从共封装光学（CPO）的能效博弈到混合键合的多线突破，产业每一个环节都在被AI掀起的巨大需求所重塑。",
-      "relatedTitles": [
-        "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "十万卡之后，算力基础设施坐标系需重新校准",
       "summary": "7月18日下午，由观察者网、WAICCONNECT主办、半导体行业观察协办的「重构算力」——AI算力需求与供给的结构性重构产业链接会，在张江科学会堂举行。整场活动聚焦训练推理转型、国产算力生态、HBM/CPO先进硬件、万卡集群调度、智算新基建全链路成本测算等当下算力产业最紧要的议题。",
       "source": "观察者网-产业科技",
@@ -4027,6 +4010,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻视基础研究，甚至矮化科研工作者的态度却不可取。 需要厘清的是，博导与张雪并非处于对立面，而是站在创新链条的不同位置。高校是基础研究的主阵地，很多博导主要从事原理性研究，他们处于创新链前端，要解决的是“从0到1”的问题。张雪则在创新链后端，主要实现工程化落地，要解决的是“从10到100”的问题。二者角色、职责不同，不能用“造机子”的尺子去衡量做基础研究的学者。我们理当为张雪的成功喝彩，但不能因此否定博导们研究的科学价值和学术意义。 基础研究很多时候看似“无用”，但今天的“无用”或许就是明天的“大用”。基础研究所激发的原始创新往往具有奠基性、颠覆性和引领性，是新技术、新发明的先导。评判基础研究的价值不在一时，而在长远。从半导体、计算机到激光技术，我们今天日常生活中广泛使用的很",
       "relatedTitles": [
         "“985”博导不如初中辍学的张雪？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期",
+      "summary": "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期 <img original=\"https://i.guancha.cn/news/2026/08/05/20260805111512468.jpg\" src=\"https://i.guancha.cn/news/2026/08/05/202",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/JanVardaman/2026_08_11_826887.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/JanVardaman/2026_08_11_826887.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 117,
+      "reporterScore": 117,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期 <img original=\"https://i.guancha.cn/news/2026/08/05/20260805111512468.jpg\" src=\"https://i.guancha.cn/news/2026/08/05/20260805111512468.jpg\" alt=\"抄袭者请注",
+      "relatedTitles": [
+        "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期"
       ]
     }
   ],
@@ -4736,8 +4786,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-20｜V3\n生成时间：2026/8/20 07:31:57\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2526｜确认今日 23｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 0 条\n延续跟踪线索：国内 16 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-20] 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势” against primary-source evidence.\n\n2. [2026-08-20] 特朗普称下周将与“AI领军人物”会面\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普称下周将与“AI领军人物”会面” against primary-source evidence.\n\n3. [2026-08-20] 大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxekc8981043.shtml\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅” against primary-source evidence.\n\n4. [2026-08-20] 皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6816809.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业” against primary-source evidence.\n\n5. [2026-08-20] 准周期光子晶体面激光器实现室温发射\n   网易科技｜2026-08-20｜https://www.163.com/dy/article/L4OPO61N05198CJN.html\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “准周期光子晶体面激光器实现室温发射” against primary-source evidence.\n\n本次新增线索：\n- 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml\n- 准周期光子晶体面激光器实现室温发射｜网易科技｜https://www.163.com/dy/article/L4OPO61N05198CJN.html\n- OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeka2220442.shtml\n- Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeix6811829.shtml\n- 存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeka2227627.shtml\n\n今日热点方向：\n- AI 应用：AI动态（9 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole｜CNBC Technology｜https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html\n2. Google packs Search and Gemini with new AI study tools｜TechCrunch｜https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/\n3. Researchers say OpenAI revoked their access to limited cyber program｜TechCrunch｜https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/\n4. UK puts Google AI on the flight path to fewer contrails｜The Register｜https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516\n5. Google pits Marvell against Broadcom as it chases AI crown｜The Register｜https://www.theregister.com/off-prem/2026/08/19/google-pits-marvell-against-broadcom-as-it-chases-ai-crown/5289902",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-20｜V3\n生成时间：2026/8/20 07:31:57\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2526｜确认今日 23｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 0 条\n延续跟踪线索：国内 16 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-20] 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势” against primary-source evidence.\n\n2. [2026-08-20] 特朗普称下周将与“AI领军人物”会面\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普称下周将与“AI领军人物”会面” against primary-source evidence.\n\n3. [2026-08-20] 大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxekc8981043.shtml\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅” against primary-source evidence.\n\n4. [2026-08-20] 皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6816809.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业” against primary-source evidence.\n\n5. [2026-08-20] 准周期光子晶体面激光器实现室温发射\n   网易科技｜2026-08-20｜https://www.163.com/dy/article/L4OPO61N05198CJN.html\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “准周期光子晶体面激光器实现室温发射” against primary-source evidence.\n\n本次新增线索：\n- 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml\n- 准周期光子晶体面激光器实现室温发射｜网易科技｜https://www.163.com/dy/article/L4OPO61N05198CJN.html\n- OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeka2220442.shtml\n- Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeix6811829.shtml\n- 存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeka2227627.shtml\n\n今日热点方向：\n- AI 应用：AI动态（9 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole｜CNBC Technology｜https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html\n2. Google packs Search and Gemini with new AI study tools｜TechCrunch｜https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/\n3. Researchers say OpenAI revoked their access to limited cyber program｜TechCrunch｜https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/\n4. UK puts Google AI on the flight path to fewer contrails｜The Register｜https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516\n5. Google pits Marvell against Broadcom as it chases AI crown｜The Register｜https://www.theregister.com/off-prem/2026/08/19/google-pits-marvell-against-broadcom-as-it-chases-ai-crown/5289902",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-20｜生成时间：2026/8/20 07:31:57｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2526｜确认今日 23｜国际背景 22</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 7 条｜国际 0 条<br>延续跟踪线索：国内 16 条｜国际 22 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-20] 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势</strong>\n      <span>新浪科技｜2026-08-20｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-20] 特朗普称下周将与“AI领军人物”会面</strong>\n      <span>新浪科技｜2026-08-20｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普称下周将与“AI领军人物”会面” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-20] 大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅</strong>\n      <span>新浪科技｜2026-08-20｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxekc8981043.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-20] 皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业</strong>\n      <span>新浪科技｜2026-08-20｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6816809.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-20] 准周期光子晶体面激光器实现室温发射</strong>\n      <span>网易科技｜2026-08-20｜<a href=\"https://www.163.com/dy/article/L4OPO61N05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “准周期光子晶体面激光器实现室温发射” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole</strong>\n      <span>时间：Wed, 19 Aug 2026 10:32:51 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “The U.S. banned Nvidia's best chips from going to China. Now it's trying” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Google packs Search and Gemini with new AI study tools</strong>\n      <span>时间：Wed, 19 Aug 2026 19:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google packs Search and Gemini with new AI study tools” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Researchers say OpenAI revoked their access to limited cyber program</strong>\n      <span>时间：Wed, 19 Aug 2026 18:46:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Researchers say OpenAI revoked their access to limited cyber program” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. UK puts Google AI on the flight path to fewer contrails</strong>\n      <span>时间：Tue, 18 Aug 2026 11:45:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “UK puts Google AI on the flight path to fewer contrails” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google pits Marvell against Broadcom as it chases AI crown</strong>\n      <span>时间：Wed, 19 Aug 2026 21:33:15 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/off-prem/2026/08/19/google-pits-marvell-against-broadcom-as-it-chases-ai-crown/5289902\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google pits Marvell against Broadcom as it chases AI crown” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/20 07:31:57\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 0 条\n延续跟踪线索：国内 16 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-20] 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势” against primary-source evidence.\n\n2. [2026-08-20] 特朗普称下周将与“AI领军人物”会面\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普称下周将与“AI领军人物”会面” against primary-source evidence.\n\n3. [2026-08-20] 大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxekc8981043.shtml\n   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅” against primary-source evidence.\n\n4. [2026-08-20] 皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6816809.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业” against primary-source evidence.\n\n5. [2026-08-20] 准周期光子晶体面激光器实现室温发射\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4OPO61N05198CJN.html\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “准周期光子晶体面激光器实现室温发射” against primary-source evidence.\n\n本次新增线索：\n- 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml\n- 准周期光子晶体面激光器实现室温发射｜网易科技｜https://www.163.com/dy/article/L4OPO61N05198CJN.html\n- OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeka2220442.shtml\n- Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeix6811829.shtml\n- 存储涨价对行业伤害大！卢伟冰：以后8+128的手机定价都是2千+去了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeka2227627.shtml\n\n今日热点方向：\n- AI 应用：AI动态（9 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole｜CNBC Technology｜https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html\n2. Google packs Search and Gemini with new AI study tools｜TechCrunch｜https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/\n3. Researchers say OpenAI revoked their access to limited cyber program｜TechCrunch｜https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/\n4. UK puts Google AI on the flight path to fewer contrails｜The Register｜https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516\n5. Google pits Marvell against Broadcom as it chases AI crown｜The Register｜https://www.theregister.com/off-prem/2026/08/19/google-pits-marvell-against-broadcom-as-it-chases-ai-crown/5289902\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-20｜V3\n生成时间：2026/8/20 07:41:08\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2526｜确认今日 24｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 23 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-20] 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势” against primary-source evidence.\n\n2. [2026-08-20] 特朗普称下周将与“AI领军人物”会面\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普称下周将与“AI领军人物”会面” against primary-source evidence.\n\n3. [2026-08-20] 大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxekc8981043.shtml\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅” against primary-source evidence.\n\n4. [2026-08-20] 皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6816809.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业” against primary-source evidence.\n\n5. [23:39] 骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片\n   IT之家｜2026-08-20｜https://www.ithome.com/0/991/876.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片” against primary-source evidence.\n\n本次新增线索：\n- 骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片｜IT之家｜https://www.ithome.com/0/991/876.htm\n\n今日热点方向：\n- AI 应用：AI动态（9 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole｜CNBC Technology｜https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html\n2. Google packs Search and Gemini with new AI study tools｜TechCrunch｜https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/\n3. Researchers say OpenAI revoked their access to limited cyber program｜TechCrunch｜https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/\n4. UK puts Google AI on the flight path to fewer contrails｜The Register｜https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516\n5. Google pits Marvell against Broadcom as it chases AI crown｜The Register｜https://www.theregister.com/off-prem/2026/08/19/google-pits-marvell-against-broadcom-as-it-chases-ai-crown/5289902",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-20｜V3\n生成时间：2026/8/20 07:41:08\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2526｜确认今日 24｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 23 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-20] 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势” against primary-source evidence.\n\n2. [2026-08-20] 特朗普称下周将与“AI领军人物”会面\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普称下周将与“AI领军人物”会面” against primary-source evidence.\n\n3. [2026-08-20] 大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxekc8981043.shtml\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅” against primary-source evidence.\n\n4. [2026-08-20] 皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业\n   新浪科技｜2026-08-20｜https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6816809.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业” against primary-source evidence.\n\n5. [23:39] 骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片\n   IT之家｜2026-08-20｜https://www.ithome.com/0/991/876.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片” against primary-source evidence.\n\n本次新增线索：\n- 骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片｜IT之家｜https://www.ithome.com/0/991/876.htm\n\n今日热点方向：\n- AI 应用：AI动态（9 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole｜CNBC Technology｜https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html\n2. Google packs Search and Gemini with new AI study tools｜TechCrunch｜https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/\n3. Researchers say OpenAI revoked their access to limited cyber program｜TechCrunch｜https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/\n4. UK puts Google AI on the flight path to fewer contrails｜The Register｜https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516\n5. Google pits Marvell against Broadcom as it chases AI crown｜The Register｜https://www.theregister.com/off-prem/2026/08/19/google-pits-marvell-against-broadcom-as-it-chases-ai-crown/5289902",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-20｜生成时间：2026/8/20 07:41:08｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2526｜确认今日 24｜国际背景 22</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 23 条｜国际 22 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-20] 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势</strong>\n      <span>新浪科技｜2026-08-20｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-20] 特朗普称下周将与“AI领军人物”会面</strong>\n      <span>新浪科技｜2026-08-20｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普称下周将与“AI领军人物”会面” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-20] 大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅</strong>\n      <span>新浪科技｜2026-08-20｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxekc8981043.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-20] 皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业</strong>\n      <span>新浪科技｜2026-08-20｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6816809.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [23:39] 骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片</strong>\n      <span>IT之家｜2026-08-20｜<a href=\"https://www.ithome.com/0/991/876.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：163｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole</strong>\n      <span>时间：Wed, 19 Aug 2026 10:32:51 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “The U.S. banned Nvidia's best chips from going to China. Now it's trying” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Google packs Search and Gemini with new AI study tools</strong>\n      <span>时间：Wed, 19 Aug 2026 19:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google packs Search and Gemini with new AI study tools” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Researchers say OpenAI revoked their access to limited cyber program</strong>\n      <span>时间：Wed, 19 Aug 2026 18:46:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Researchers say OpenAI revoked their access to limited cyber program” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. UK puts Google AI on the flight path to fewer contrails</strong>\n      <span>时间：Tue, 18 Aug 2026 11:45:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “UK puts Google AI on the flight path to fewer contrails” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google pits Marvell against Broadcom as it chases AI crown</strong>\n      <span>时间：Wed, 19 Aug 2026 21:33:15 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/off-prem/2026/08/19/google-pits-marvell-against-broadcom-as-it-chases-ai-crown/5289902\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google pits Marvell against Broadcom as it chases AI crown” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/20 07:41:08\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 23 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-20] 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势” against primary-source evidence.\n\n2. [2026-08-20] 特朗普称下周将与“AI领军人物”会面\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普称下周将与“AI领军人物”会面” against primary-source evidence.\n\n3. [2026-08-20] 大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxekc8981043.shtml\n   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅” against primary-source evidence.\n\n4. [2026-08-20] 皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6816809.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业” against primary-source evidence.\n\n5. [23:39] 骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片\n   来源：IT之家\n   链接：https://www.ithome.com/0/991/876.htm\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片” against primary-source evidence.\n\n本次新增线索：\n- 骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片｜IT之家｜https://www.ithome.com/0/991/876.htm\n\n今日热点方向：\n- AI 应用：AI动态（9 条，2 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole｜CNBC Technology｜https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html\n2. Google packs Search and Gemini with new AI study tools｜TechCrunch｜https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/\n3. Researchers say OpenAI revoked their access to limited cyber program｜TechCrunch｜https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/\n4. UK puts Google AI on the flight path to fewer contrails｜The Register｜https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516\n5. Google pits Marvell against Broadcom as it chases AI crown｜The Register｜https://www.theregister.com/off-prem/2026/08/19/google-pits-marvell-against-broadcom-as-it-chases-ai-crown/5289902\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
