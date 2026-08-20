@@ -3,51 +3,56 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/20 07:41:08
+生成时间：2026/8/20 14:02:37
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 23 条｜国际 22 条
+新增核心线索：国内 85 条｜国际 2 条
+延续跟踪线索：国内 5 条｜国际 21 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-20] 美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势
+1. [2026-08-20] 对话银河通用王鹤：人形机器人进家庭，要先过“极致安全”这一关
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-20/doc-ininxeiu8083899.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/2026-08-20/doc-ininxvfn7993551.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “对话银河通用王鹤：人形机器人进家庭，要先过“极致安全”这一关” against primary-source evidence.
 
-2. [2026-08-20] 特朗普称下周将与“AI领军人物”会面
+2. [2026-08-20] 直击WRC丨北京人形机器人正式发布天工Omni，熊友军此前表示Omni不会和其他厂商直接竞争
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普称下周将与“AI领军人物”会面” against primary-source evidence.
+   链接：https://finance.sina.com.cn/hy/hyjz/2026-08-20/doc-ininxqxw2140304.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “直击WRC丨北京人形机器人正式发布天工Omni，熊友军此前表示Omni不会和其他厂商直接竞争” against primary-source evidence.
 
-3. [2026-08-20] 大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅
+3. [2026-08-20] 机构：2026年上半年全球人形机器人出货量同比增
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L4P449IK0534A4SC.html
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “机构：2026年上半年全球人形机器人出货量同比增” against primary-source evidence.
+
+4. [2026-08-20] 小米的高光时刻！玄戒O3蓄势待发：登上国产自研芯片的最高峰
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxekc8981043.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-08-20/doc-ininwpnk2418871.shtml
+   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “小米的高光时刻！玄戒O3蓄势待发：登上国产自研芯片的最高峰” against primary-source evidence.
 
-4. [2026-08-20] 皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6816809.shtml
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业” against primary-source evidence.
-
-5. [23:39] 骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片
-   来源：IT之家
-   链接：https://www.ithome.com/0/991/876.htm
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片” against primary-source evidence.
+5. [2026-08-20] 北京自研大模型网络安全能力升级
+   来源：光明网-科技
+   链接：https://tech.gmw.cn/2026-08/20/content_38952566.htm
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “北京自研大模型网络安全能力升级” against primary-source evidence.
 
 本次新增线索：
-- 骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片｜IT之家｜https://www.ithome.com/0/991/876.htm
+- 对话银河通用王鹤：人形机器人进家庭，要先过“极致安全”这一关｜新浪科技｜https://finance.sina.com.cn/tech/2026-08-20/doc-ininxvfn7993551.shtml
+- 直击WRC丨北京人形机器人正式发布天工Omni，熊友军此前表示Omni不会和其他厂商直接竞争｜新浪科技｜https://finance.sina.com.cn/hy/hyjz/2026-08-20/doc-ininxqxw2140304.shtml
+- 机构：2026年上半年全球人形机器人出货量同比增｜网易科技｜https://www.163.com/dy/article/L4P449IK0534A4SC.html
+- 小米的高光时刻！玄戒O3蓄势待发：登上国产自研芯片的最高峰｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-20/doc-ininwpnk2418871.shtml
+- 北京自研大模型网络安全能力升级｜光明网-科技｜https://tech.gmw.cn/2026-08/20/content_38952566.htm
+- Twitch adds new setting to stop Amazon from using creators' content for AI training｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/twitch-adds-setting-stop-amazon-034900896.html
 
 今日热点方向：
-- AI 应用：AI动态（9 条，2 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
-- 太空与低空经济：
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- AI 应用：AI动态（19 条，6 个来源）
+- 芯片/半导体：半导体供应链（6 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（21 条，4 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
+- 太空与低空经济：低空经济与无人机（2 条，2 个来源）
+- 科学前沿：科学前沿动态（3 条，3 个来源）
 
 国际科技背景：
 1. The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole｜CNBC Technology｜https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html
