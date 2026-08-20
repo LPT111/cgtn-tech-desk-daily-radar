@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/20 15:08:23
+生成时间：2026/8/21 07:11:36
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 13 条｜国际 0 条
-延续跟踪线索：国内 76 条｜国际 23 条
+新增核心线索：国内 13 条｜国际 12 条
+延续跟踪线索：国内 0 条｜国际 11 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-20] 对话银河通用王鹤：人形机器人进家庭，要先过“极致安全”这一关
+1. [2026-08-21] 从“炫技”到“实干” 机器人走向更多真实场景
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/2026-08-20/doc-ininxvfn7993551.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “对话银河通用王鹤：人形机器人进家庭，要先过“极致安全”这一关” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-21/doc-ininywtm1760702.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “从“炫技”到“实干” 机器人走向更多真实场景” against primary-source evidence.
 
-2. [2026-08-20] 直击WRC丨北京人形机器人正式发布天工Omni，熊友军此前表示Omni不会和其他厂商直接竞争
+2. [2026-08-21] 94岁抗美援朝老兵体验外骨骼：国产智能科技飞速进步倍感欣慰
    来源：新浪科技
-   链接：https://finance.sina.com.cn/hy/hyjz/2026-08-20/doc-ininxqxw2140304.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “直击WRC丨北京人形机器人正式发布天工Omni，熊友军此前表示Omni不会和其他厂商直接竞争” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-08-21/doc-ininzprc1578599.shtml
+   角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “94岁抗美援朝老兵体验外骨骼：国产智能科技飞速进步倍感欣慰” against primary-source evidence.
 
-3. [2026-08-20] 特朗普称下周将与“AI领军人物”会面
+3. [2026-08-21] 工信部再次批复卫星物联网业务商用试验
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普称下周将与“AI领军人物”会面” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-21/doc-ininywtm1760694.shtml
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “工信部再次批复卫星物联网业务商用试验” against primary-source evidence.
 
-4. [2026-08-20] “鹰序TST”大模型2.0版发布 已应用于大型金融机构现金流预测与外汇管理
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxvfu2090265.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““鹰序TST”大模型2.0版发布 已应用于大型金融机构现金流预测与外汇管理” against primary-source evidence.
+4. [2026-08-21] 特朗普签署备忘录以促进美航天发射，探索商业机
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L4RATL250534A4SC.html
+   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “特朗普签署备忘录以促进美航天发射，探索商业机” against primary-source evidence.
 
-5. [2026-08-20] 小米的高光时刻！玄戒O3蓄势待发：登上国产自研芯片的最高峰
+5. [2026-08-21] 科学家首次利用“暗腔”实现真空涨落增强超导
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-08-20/doc-ininwpnk2418871.shtml
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “小米的高光时刻！玄戒O3蓄势待发：登上国产自研芯片的最高峰” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-21/doc-ininzpqy1517726.shtml
+   角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “科学家首次利用“暗腔”实现真空涨落增强超导” against primary-source evidence.
 
 本次新增线索：
-- 跨界整活！宇树机器人测评理想L9 Livis：全部实拍无AI制作｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxzpk7948398.shtml
-- 上半年机器人产业规上企业营收达1655亿元｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/20/content_566880.html
-- 美提升“雨燕”天文台轨道的航天器无法完成既定任务｜网易科技｜https://www.163.com/dy/article/L4PJNLHK05198CJN.html
-- 被AI客服“答非所问”折磨？9月起，这项国标出手规范｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/20/content_566879.html
-- 余承东：鸿蒙智行全系累计交付突破150万台｜新浪科技｜https://finance.sina.com.cn/tech/2026-08-20/doc-ininxzpp6665851.shtml
+- 从“炫技”到“实干” 机器人走向更多真实场景｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-21/doc-ininywtm1760702.shtml
+- 94岁抗美援朝老兵体验外骨骼：国产智能科技飞速进步倍感欣慰｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-21/doc-ininzprc1578599.shtml
+- 工信部再次批复卫星物联网业务商用试验｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-21/doc-ininywtm1760694.shtml
+- 特朗普签署备忘录以促进美航天发射，探索商业机｜网易科技｜https://www.163.com/dy/article/L4RATL250534A4SC.html
+- 科学家首次利用“暗腔”实现真空涨落增强超导｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-21/doc-ininzpqy1517726.shtml
+- “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 
 今日热点方向：
-- AI 应用：AI动态（19 条，6 个来源）
-- 芯片/半导体：半导体供应链（6 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（18 条，4 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（2 条，2 个来源）
-- 科学前沿：科学前沿动态（4 条，4 个来源）
+- AI 应用：AI动态（3 条，2 个来源）
+- 芯片/半导体：
+- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
+- 太空与低空经济：太空与低空动态（2 条，2 个来源）
+- 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
-1. The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole｜CNBC Technology｜https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html
-2. Google packs Search and Gemini with new AI study tools｜TechCrunch｜https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/
-3. Researchers say OpenAI revoked their access to limited cyber program｜TechCrunch｜https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/
-4. UK puts Google AI on the flight path to fewer contrails｜The Register｜https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516
-5. Google pits Marvell against Broadcom as it chases AI crown｜The Register｜https://www.theregister.com/off-prem/2026/08/19/google-pits-marvell-against-broadcom-as-it-chases-ai-crown/5289902
+1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+2. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238
+3. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html
+4. The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole｜CNBC Technology｜https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html
+5. OpenAI is gaining on Anthropic with business users, new data indicates｜TechCrunch｜https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
