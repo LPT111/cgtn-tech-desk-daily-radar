@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/21 07:34:28
+生成时间：2026/8/21 07:43:58
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 9 条｜国际 0 条
-延续跟踪线索：国内 12 条｜国际 23 条
+新增核心线索：国内 2 条｜国际 0 条
+延续跟踪线索：国内 20 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -23,32 +23,29 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.163.com/dy/article/L4RC774A0534A4SC.html
    角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “SK海力士拟在日本宫城县建设存储芯片工厂” against primary-source evidence.
 
-3. [2026-08-21] 善用人工智能技术 促进文明交流互鉴
+3. [2026-08-21] 宇树敲钟，独角兽排队：WRC机器人展台变商业化
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L4RD43I10512B07B.html
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “宇树敲钟，独角兽排队：WRC机器人展台变商业化” against primary-source evidence.
+
+4. [2026-08-21] 善用人工智能技术 促进文明交流互鉴
    来源：光明网-科技
    链接：https://tech.gmw.cn/2026-08/21/content_38954944.htm
    角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “善用人工智能技术 促进文明交流互鉴” against primary-source evidence.
 
-4. [2026-08-21] 从“炫技”到“实干” 机器人走向更多真实场景
+5. [2026-08-21] 94岁抗美援朝老兵体验外骨骼：国产智能科技飞速进步倍感欣慰
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-21/doc-ininywtm1760702.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “从“炫技”到“实干” 机器人走向更多真实场景” against primary-source evidence.
-
-5. [2026-08-21] “机器人消费街”亮相2026世界机器人大会
-   来源：光明网-科技
-   链接：https://tech.gmw.cn/2026-08/21/content_38954948.htm
-   角度：Assess the robotics value chain through service deployment, safety and user value, including components, cost, reliability and export potential. For this item, test the claim behind ““机器人消费街”亮相2026世界机器人大会” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-08-21/doc-ininzprc1578599.shtml
+   角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “94岁抗美援朝老兵体验外骨骼：国产智能科技飞速进步倍感欣慰” against primary-source evidence.
 
 本次新增线索：
-- 王兴兴透露宇树科技最新研发方向 推进物理AI机器人模型自进化｜新浪科技｜https://finance.sina.com.cn/roll/2026-08-21/doc-ininzazi1688537.shtml
-- SK海力士拟在日本宫城县建设存储芯片工厂｜网易科技｜https://www.163.com/dy/article/L4RC774A0534A4SC.html
-- 善用人工智能技术 促进文明交流互鉴｜光明网-科技｜https://tech.gmw.cn/2026-08/21/content_38954944.htm
-- “机器人消费街”亮相2026世界机器人大会｜光明网-科技｜https://tech.gmw.cn/2026-08/21/content_38954948.htm
-- 谷歌牵手迈威尔扩军TPU；SIGCOMM中国入选论文数｜网易科技｜https://www.163.com/dy/article/L4RBGM730512B07B.html
+- 宇树敲钟，独角兽排队：WRC机器人展台变商业化｜网易科技｜https://www.163.com/dy/article/L4RD43I10512B07B.html
+- 单季资本支出近700亿元 阿里把利润“砸”向AI基建 两大AI主业表现分化|财报解读｜网易科技｜https://www.163.com/dy/article/L4RD5RE705198CJN.html
 
 今日热点方向：
-- AI 应用：AI动态（4 条，3 个来源）
+- AI 应用：AI动态（5 条，3 个来源）
 - 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（3 条，2 个来源）
