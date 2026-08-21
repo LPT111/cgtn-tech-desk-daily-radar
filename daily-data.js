@@ -1,73 +1,42 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-21T23:09:41.244Z",
+  "generatedAt": "2026-08-21T23:33:30.667Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-22",
   "changeSummary": {
-    "domesticNew": 5,
-    "globalNew": 12,
-    "domesticContinued": 0,
-    "globalContinued": 10,
+    "domesticNew": 4,
+    "globalNew": 0,
+    "domesticContinued": 5,
+    "globalContinued": 22,
     "topNewDomestic": [
       {
-        "title": "Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备",
+        "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/992/892.htm"
+      },
+      {
+        "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/992/890.htm"
+      },
+      {
+        "title": "中国科学家找到水稻“早熟又高产”基因，成果登《科学》",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/992/891.htm"
+      },
+      {
+        "title": "任正非谈中国发展AI两大优势 ：一是电力优势，",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L4TN90PU05198CJN.html"
-      },
-      {
-        "title": "英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L4TIRVJO05198CJN.html"
-      },
-      {
-        "title": "Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml"
-      },
-      {
-        "title": "Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L4TP069S05198CJN.html"
-      },
-      {
-        "title": "广东公布今年前7个月经济数据 新能源汽车产量增长近五成",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-22/doc-inipazsi8022639.shtml"
+        "url": "https://www.163.com/dy/article/L4TULLVT0512B07B.html"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/"
-      },
-      {
-        "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/"
-      },
-      {
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
-      },
-      {
-        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
-      },
-      {
-        "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 895,
+    "domesticRejected": 891,
     "globalRejected": 878,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,32 +51,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 27,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -127,29 +76,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -221,8 +150,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -270,9 +198,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -313,7 +240,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国日报-科技",
       "tier": "mainstream",
-      "parsed": 50,
+      "parsed": 49,
       "failed": false,
       "optional": false
     },
@@ -336,16 +263,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -422,13 +347,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1296,
+  "itemsSeen": 1358,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 278,
-  "itemsAfterDedupe": 244,
-  "todayItemsSeen": 5,
+  "itemsAfterRelevantFilter": 320,
+  "itemsAfterDedupe": 265,
+  "todayItemsSeen": 9,
   "suspectedItemsSeen": 20,
-  "skippedNonToday": 219,
+  "skippedNonToday": 236,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -483,8 +408,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -532,9 +456,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -575,7 +498,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国日报-科技",
       "tier": "mainstream",
-      "parsed": 50,
+      "parsed": 49,
       "failed": false,
       "optional": false
     },
@@ -598,16 +521,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -838,29 +759,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -899,8 +800,22 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1220,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 105,
+  "globalItemsAfterRelevantFilter": 104,
   "topics": [
+    {
+      "topic": "AI动态",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "IT之家"
+      ],
+      "items": [
+        "英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工",
+        "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
+        "任正非谈中国发展AI两大优势 ：一是电力优势，"
+      ]
+    },
     {
       "topic": "AI 应用与智能体",
       "count": 2,
@@ -914,14 +829,14 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "AI动态",
+      "topic": "国产 GPU / 算力基础设施",
       "count": 1,
       "sourceCount": 1,
       "sources": [
-        "网易科技"
+        "IT之家"
       ],
       "items": [
-        "英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工"
+        "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热"
       ]
     },
     {
@@ -933,6 +848,17 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险"
+      ]
+    },
+    {
+      "topic": "科学前沿动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "中国科学家找到水稻“早熟又高产”基因，成果登《科学》"
       ]
     },
     {
@@ -1014,7 +940,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1081,6 +1007,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工,英伟达,人工智能,模型授权,机器人大脑,poolside",
       "relatedTitles": [
         "英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
+      "summary": "科技媒体 AppleInsider 昨日（8 月 21 日）发布博文，汇总梳理苹果下一代入门款 14 英寸 MacBook Pro 的规格信息，产品代号为 J804。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/992/892.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/992/892.htm"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 23:24:19 GMT",
+      "date": "2026-08-22",
+      "category": "芯片",
+      "classificationConfidence": 0.8,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "科技媒体 AppleInsider 昨日（8 月 21 日）发布博文，汇总梳理苹果下一代入门款 14 英寸 MacBook Pro 的规格信息，产品代号为 J804。",
+      "relatedTitles": [
+        "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
+      "summary": "字节豆包团队最快将于下周发布一款对标腾讯 WorkBuddy 的办公类产品。（新皮层）",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/992/890.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/992/890.htm"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 23:11:17 GMT",
+      "date": "2026-08-22",
+      "category": "AI",
+      "classificationConfidence": 0.93,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "字节豆包团队最快将于下周发布一款对标腾讯 WorkBuddy 的办公类产品。（新皮层）",
+      "relatedTitles": [
+        "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品"
       ],
       "isNewSinceLastRun": true
     },
@@ -1150,6 +1212,74 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "中国科学家找到水稻“早熟又高产”基因，成果登《科学》",
+      "summary": "研究团队通过分子育种手段，经连续 3 年大田区域试验，改良后水稻新品种生育期缩短 3 至 8 天，产量增加 4.2% 至 11.0%。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/992/891.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/992/891.htm"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 23:21:44 GMT",
+      "date": "2026-08-22",
+      "category": "科学前沿",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 149,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “中国科学家找到水稻“早熟又高产”基因，成果登《科学》” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "研究团队通过分子育种手段，经连续 3 年大田区域试验，改良后水稻新品种生育期缩短 3 至 8 天，产量增加 4.2% 至 11.0%。",
+      "relatedTitles": [
+        "中国科学家找到水稻“早熟又高产”基因，成果登《科学》"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1217,6 +1347,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈,三星,amd,知名企业,谷歌tpu,定制化芯片,英伟达芯片,anthropic",
       "relatedTitles": [
         "Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "任正非谈中国发展AI两大优势 ：一是电力优势，",
+      "summary": "任正非谈中国发展AI两大优势 ：一是电力优势，二是电信网络优势,电力,任正非,中国电信,电信网络",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L4TULLVT0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L4TULLVT0512B07B.html"
+      ],
+      "publishedAt": "2026-08-22",
+      "date": "2026-08-22",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “任正非谈中国发展AI两大优势 ：一是电力优势，” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "任正非谈中国发展AI两大优势 ：一是电力优势，二是电信网络优势,电力,任正非,中国电信,电信网络",
+      "relatedTitles": [
+        "任正非谈中国发展AI两大优势 ：一是电力优势，"
       ],
       "isNewSinceLastRun": true
     },
@@ -1286,7 +1484,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "广东公布今年前7个月经济数据 新能源汽车产量增长近五成"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -1316,15 +1514,15 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 156,
-      "reporterScore": 172,
+      "score": 152,
+      "reporterScore": 174,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": -10,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
+        "cgtFocus": 0,
+        "visual": 8,
         "international": 9,
         "policy": 0,
         "sourceWeight": 8,
@@ -1336,17 +1534,17 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "reporterSignals": {
         "primary": false,
-        "visual": false,
+        "visual": true,
         "international": true,
         "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 115
+        "reporterScore": 123
       },
       "isPrimarySource": false,
       "hasInterviewValue": true,
-      "hasVisualValue": false,
+      "hasVisualValue": true,
       "hasInternationalValue": true,
       "format": "package",
       "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “震撼!OpenAI全面开源Codex Harness” against primary-source evidence.",
@@ -2634,38 +2832,6 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-      "summary": "Taiwan's effort to develop its own satellite launcher hit a setback this week.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-      "publishedAt": "Fri, 21 Aug 2026 11:00:36 +0000",
-      "date": "2026-08-21",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss” against primary-source evidence.",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 169,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 108
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
       "summary": "AI researchers and advocates from Africa, Asia, and Latin America criticize Meta founder’s superintelligence manifesto, calling Meta’s promise of universal access overstated and ex",
       "source": "Rest of World",
@@ -2698,35 +2864,35 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
-      "summary": "Tesla will voluntarily recall about 3 million of its vehicles in China to address doorhandle safety concerns and deficient driver monitoring systems.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
-      "publishedAt": "Fri, 21 Aug 2026 13:48:26 +0000",
+      "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
+      "summary": "Taiwan's effort to develop its own satellite launcher hit a setback this week.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
+      "publishedAt": "Fri, 21 Aug 2026 11:00:36 +0000",
       "date": "2026-08-21",
       "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla recalls 3 million cars as part of China-wide push to stop hidden d” against primary-source evidence.",
+      "category": "太空与低空",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss” against primary-source evidence.",
       "priority": 5,
-      "score": 149,
-      "reporterScore": 157,
+      "score": 155,
+      "reporterScore": 169,
       "reporterSignals": {
         "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
+        "hardTechWeight": 90,
+        "reporterScore": 108
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2794,291 +2960,35 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "summary": "Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastructure boom.",
+      "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
+      "summary": "Tesla will voluntarily recall about 3 million of its vehicles in China to address doorhandle safety concerns and deficient driver monitoring systems.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "publishedAt": "Fri, 21 Aug 2026 22:37:38 +0000",
+      "url": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
+      "publishedAt": "Fri, 21 Aug 2026 13:48:26 +0000",
       "date": "2026-08-21",
       "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.85,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia partners with data center developer Cloverleaf” against primary-source evidence.",
+      "cgtAngle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla recalls 3 million cars as part of China-wide push to stop hidden d” against primary-source evidence.",
       "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
+      "score": 149,
+      "reporterScore": 157,
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": false,
+        "international": true,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 95,
+        "hardTechWeight": 85,
         "reporterScore": 110
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "publishedAt": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "date": "2026-08-21",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.84,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Nvidia just showed that the harness, not the AI model, is now the real h” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
-      "summary": "Watch as Equity digs into the DOJ's antitrust probe of Andreessen Horowitz, what happens to AI startups that aren't Anthropic, OpenAI, or Nvidia, and more deals of the week.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
-      "publishedAt": "Fri, 21 Aug 2026 16:53:39 +0000",
-      "date": "2026-08-22",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Why is the DOJ investigating Andreessen Horowitz’s board seats?” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI chases Anthropic's biz customers with zero data retention pledge",
-      "summary": "Are we human?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/20/openai-chases-anthropics-biz-customers-with-zero-data-retention-pledge/5290609",
-      "publishedAt": "Thu, 20 Aug 2026 21:59:00 +0200",
-      "date": "2026-08-20",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI chases Anthropic's biz customers with zero data retention pledge” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restrict",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "publishedAt": "Fri, 21 Aug 2026 23:07:25 +0000",
-      "date": "2026-08-21",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic’s Opus 4.6 is a smut-machine” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google tethers Antigravity to enterprise controls amid AI shakeup",
-      "summary": "Are we human?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/21/google-tethers-antigravity-to-enterprise-controls-amid-ai-shakeup/5290730",
-      "publishedAt": "Fri, 21 Aug 2026 01:47:16 +0200",
-      "date": "2026-08-21",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google tethers Antigravity to enterprise controls amid AI shakeup” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-      "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-      "publishedAt": "Fri, 21 Aug 2026 11:00:53 +0000",
-      "date": "2026-08-21",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “As demand for Meta AI glasses explodes, it’s harder to avoid creepy reco” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "AMD grabs more CPU share while pricier PCs punish desktop demand",
-      "summary": "Are we human?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/systems/2026/08/21/amd-grabs-more-cpu-share-while-pricier-pcs-punish-desktop-demand/5291053",
-      "publishedAt": "Fri, 21 Aug 2026 16:05:00 +0200",
-      "date": "2026-08-21",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.97,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “AMD grabs more CPU share while pricier PCs punish desktop demand” against primary-source evidence.",
-      "priority": 4,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
-      "summary": "Samsung Electronics plans shareholder returns totaling 90 trillion won to 110 trillion won, including about 30 trillion won in third-quarter cash dividends.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
-      "publishedAt": "Fri, 21 Aug 2026 09:08:18 GMT",
-      "date": "2026-08-21",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Samsung plans up to $80 billion in shareholder returns after SK Hynix bu” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3114,23 +3024,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tesla’s solar roof is dead — here’s what went wrong",
-      "summary": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "summary": "Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastructure boom.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
-      "publishedAt": "Fri, 21 Aug 2026 18:09:53 +0000",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "publishedAt": "Fri, 21 Aug 2026 22:37:38 +0000",
       "date": "2026-08-21",
       "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 85,
+      "category": "芯片",
+      "classificationConfidence": 0.85,
+      "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
-      "cgtAngle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Tesla’s solar roof is dead — here’s what went wrong” against primary-source evidence.",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia partners with data center developer Cloverleaf” against primary-source evidence.",
       "priority": 5,
-      "score": 134,
-      "reporterScore": 134,
+      "score": 144,
+      "reporterScore": 144,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -3138,11 +3048,139 @@ window.CHENCHEN_DAILY_DATA = {
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "publishedAt": "Fri, 21 Aug 2026 19:43:39 +0000",
+      "date": "2026-08-21",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.84,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Nvidia just showed that the harness, not the AI model, is now the real h” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+      "summary": "Watch as Equity digs into the DOJ's antitrust probe of Andreessen Horowitz, what happens to AI startups that aren't Anthropic, OpenAI, or Nvidia, and more deals of the week.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
+      "publishedAt": "Fri, 21 Aug 2026 16:53:39 +0000",
+      "date": "2026-08-22",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Why is the DOJ investigating Andreessen Horowitz’s board seats?” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI chases Anthropic's biz customers with zero data retention pledge",
+      "summary": "Are we human?",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/20/openai-chases-anthropics-biz-customers-with-zero-data-retention-pledge/5290609",
+      "publishedAt": "Thu, 20 Aug 2026 21:59:00 +0200",
+      "date": "2026-08-20",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI chases Anthropic's biz customers with zero data retention pledge” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restrict",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "publishedAt": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "date": "2026-08-21",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic’s Opus 4.6 is a smut-machine” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3178,6 +3216,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google tethers Antigravity to enterprise controls amid AI shakeup",
+      "summary": "Are we human?",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/21/google-tethers-antigravity-to-enterprise-controls-amid-ai-shakeup/5290730",
+      "publishedAt": "Fri, 21 Aug 2026 01:47:16 +0200",
+      "date": "2026-08-21",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Google tethers Antigravity to enterprise controls amid AI shakeup” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Microsoft gives Task Manager another task: Watching AI workloads",
       "summary": "Are we human?",
       "source": "The Register",
@@ -3193,6 +3263,70 @@ window.CHENCHEN_DAILY_DATA = {
       "relevanceToChina": "medium",
       "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Microsoft gives Task Manager another task: Watching AI workloads” against primary-source evidence.",
       "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "publishedAt": "Fri, 21 Aug 2026 11:00:53 +0000",
+      "date": "2026-08-21",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “As demand for Meta AI glasses explodes, it’s harder to avoid creepy reco” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "AMD grabs more CPU share while pricier PCs punish desktop demand",
+      "summary": "Are we human?",
+      "source": "The Register",
+      "url": "https://www.theregister.com/systems/2026/08/21/amd-grabs-more-cpu-share-while-pricier-pcs-punish-desktop-demand/5291053",
+      "publishedAt": "Fri, 21 Aug 2026 16:05:00 +0200",
+      "date": "2026-08-21",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.97,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “AMD grabs more CPU share while pricier PCs punish desktop demand” against primary-source evidence.",
+      "priority": 4,
       "score": 144,
       "reporterScore": 144,
       "reporterSignals": {
@@ -3274,6 +3408,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
+      "summary": "Samsung Electronics plans shareholder returns totaling 90 trillion won to 110 trillion won, including about 30 trillion won in third-quarter cash dividends.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
+      "publishedAt": "Fri, 21 Aug 2026 09:08:18 GMT",
+      "date": "2026-08-21",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Samsung plans up to $80 billion in shareholder returns after SK Hynix bu” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "SpaceX’s orbital data centers would create a new category of e-waste",
       "summary": "The yeetcycling math resembles asteroid mining in reverse.",
       "source": "Ars Technica",
@@ -3300,6 +3466,38 @@ window.CHENCHEN_DAILY_DATA = {
         "softNews": false,
         "hardTechWeight": 90,
         "reporterScore": 90
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Tesla’s solar roof is dead — here’s what went wrong",
+      "summary": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+      "publishedAt": "Fri, 21 Aug 2026 18:09:53 +0000",
+      "date": "2026-08-21",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Tesla’s solar roof is dead — here’s what went wrong” against primary-source evidence.",
+      "priority": 5,
+      "score": 134,
+      "reporterScore": 134,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
@@ -3337,8 +3535,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-22｜V3\n生成时间：2026/8/22 07:09:41\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2516｜确认今日 5｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TN90PU05198CJN.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.\n\n2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.\n\n3. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险\n   新浪科技｜2026-08-22｜https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.\n\n4. [2026-08-22] Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TP069S05198CJN.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈” against primary-source evidence.\n\n5. [2026-08-22] 广东公布今年前7个月经济数据 新能源汽车产量增长近五成\n   新浪科技｜2026-08-22｜https://finance.sina.com.cn/tech/roll/2026-08-22/doc-inipazsi8022639.shtml\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “广东公布今年前7个月经济数据 新能源汽车产量增长近五成” against primary-source evidence.\n\n本次新增线索：\n- Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备｜网易科技｜https://www.163.com/dy/article/L4TN90PU05198CJN.html\n- 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工｜网易科技｜https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n- Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n- Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈｜网易科技｜https://www.163.com/dy/article/L4TP069S05198CJN.html\n- 广东公布今年前7个月经济数据 新能源汽车产量增长近五成｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-22/doc-inipazsi8022639.shtml\n- Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n2. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/\n4. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\n5. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-22｜V3\n生成时间：2026/8/22 07:09:41\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2516｜确认今日 5｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TN90PU05198CJN.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.\n\n2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.\n\n3. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险\n   新浪科技｜2026-08-22｜https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.\n\n4. [2026-08-22] Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TP069S05198CJN.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈” against primary-source evidence.\n\n5. [2026-08-22] 广东公布今年前7个月经济数据 新能源汽车产量增长近五成\n   新浪科技｜2026-08-22｜https://finance.sina.com.cn/tech/roll/2026-08-22/doc-inipazsi8022639.shtml\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “广东公布今年前7个月经济数据 新能源汽车产量增长近五成” against primary-source evidence.\n\n本次新增线索：\n- Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备｜网易科技｜https://www.163.com/dy/article/L4TN90PU05198CJN.html\n- 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工｜网易科技｜https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n- Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n- Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈｜网易科技｜https://www.163.com/dy/article/L4TP069S05198CJN.html\n- 广东公布今年前7个月经济数据 新能源汽车产量增长近五成｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-22/doc-inipazsi8022639.shtml\n- Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n2. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/\n4. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\n5. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-22｜生成时间：2026/8/22 07:09:41｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2516｜确认今日 5｜国际背景 22</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 5 条｜国际 12 条<br>延续跟踪线索：国内 0 条｜国际 10 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备</strong>\n      <span>网易科技｜2026-08-22｜<a href=\"https://www.163.com/dy/article/L4TN90PU05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工</strong>\n      <span>网易科技｜2026-08-22｜<a href=\"https://www.163.com/dy/article/L4TIRVJO05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险</strong>\n      <span>新浪科技｜2026-08-22｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-22] Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈</strong>\n      <span>网易科技｜2026-08-22｜<a href=\"https://www.163.com/dy/article/L4TP069S05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-22] 广东公布今年前7个月经济数据 新能源汽车产量增长近五成</strong>\n      <span>新浪科技｜2026-08-22｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-22/doc-inipazsi8022639.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：145｜需核验来源</span>\n      <p>报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “广东公布今年前7个月经济数据 新能源汽车产量增长近五成” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss</strong>\n      <span>时间：Fri, 21 Aug 2026 11:00:36 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”</strong>\n      <span>时间：Thu, 20 Aug 2026 10:00:00 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for every” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles</strong>\n      <span>时间：Fri, 21 Aug 2026 13:48:26 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla recalls 3 million cars as part of China-wide push to stop hidden d” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI glitch locks out vetted cyber researchers – and some can't get back in</strong>\n      <span>时间：Thu, 20 Aug 2026 13:45:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI glitch locks out vetted cyber researchers – and some can't get ba” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Meta AI launches new desktop app for Mac</strong>\n      <span>时间：2026-08-20｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta AI launches new desktop app for Mac” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/22 07:09:41\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 12 条\n延续跟踪线索：国内 0 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4TN90PU05198CJN.html\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.\n\n2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.\n\n3. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.\n\n4. [2026-08-22] Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4TP069S05198CJN.html\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈” against primary-source evidence.\n\n5. [2026-08-22] 广东公布今年前7个月经济数据 新能源汽车产量增长近五成\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-22/doc-inipazsi8022639.shtml\n   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “广东公布今年前7个月经济数据 新能源汽车产量增长近五成” against primary-source evidence.\n\n本次新增线索：\n- Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备｜网易科技｜https://www.163.com/dy/article/L4TN90PU05198CJN.html\n- 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工｜网易科技｜https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n- Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n- Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈｜网易科技｜https://www.163.com/dy/article/L4TP069S05198CJN.html\n- 广东公布今年前7个月经济数据 新能源汽车产量增长近五成｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-22/doc-inipazsi8022639.shtml\n- Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n2. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n3. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/\n4. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\n5. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-22｜V3\n生成时间：2026/8/22 07:33:30\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2578｜确认今日 9｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TN90PU05198CJN.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.\n\n2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.\n\n3. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热\n   IT之家｜2026-08-22｜https://www.ithome.com/0/992/892.htm\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.\n\n4. [23:11] 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品\n   IT之家｜2026-08-22｜https://www.ithome.com/0/992/890.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品” against primary-source evidence.\n\n5. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险\n   新浪科技｜2026-08-22｜https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.\n\n本次新增线索：\n- 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热｜IT之家｜https://www.ithome.com/0/992/892.htm\n- 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品｜IT之家｜https://www.ithome.com/0/992/890.htm\n- 中国科学家找到水稻“早熟又高产”基因，成果登《科学》｜IT之家｜https://www.ithome.com/0/992/891.htm\n- 任正非谈中国发展AI两大优势 ：一是电力优势，｜网易科技｜https://www.163.com/dy/article/L4TULLVT0512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\n4. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\n5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-22｜V3\n生成时间：2026/8/22 07:33:30\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2578｜确认今日 9｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TN90PU05198CJN.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.\n\n2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.\n\n3. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热\n   IT之家｜2026-08-22｜https://www.ithome.com/0/992/892.htm\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.\n\n4. [23:11] 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品\n   IT之家｜2026-08-22｜https://www.ithome.com/0/992/890.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品” against primary-source evidence.\n\n5. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险\n   新浪科技｜2026-08-22｜https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.\n\n本次新增线索：\n- 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热｜IT之家｜https://www.ithome.com/0/992/892.htm\n- 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品｜IT之家｜https://www.ithome.com/0/992/890.htm\n- 中国科学家找到水稻“早熟又高产”基因，成果登《科学》｜IT之家｜https://www.ithome.com/0/992/891.htm\n- 任正非谈中国发展AI两大优势 ：一是电力优势，｜网易科技｜https://www.163.com/dy/article/L4TULLVT0512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\n4. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\n5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-22｜生成时间：2026/8/22 07:33:30｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2578｜确认今日 9｜国际背景 22</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 5 条｜国际 22 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备</strong>\n      <span>网易科技｜2026-08-22｜<a href=\"https://www.163.com/dy/article/L4TN90PU05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工</strong>\n      <span>网易科技｜2026-08-22｜<a href=\"https://www.163.com/dy/article/L4TIRVJO05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热</strong>\n      <span>IT之家｜2026-08-22｜<a href=\"https://www.ithome.com/0/992/892.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [23:11] 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品</strong>\n      <span>IT之家｜2026-08-22｜<a href=\"https://www.ithome.com/0/992/890.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险</strong>\n      <span>新浪科技｜2026-08-22｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”</strong>\n      <span>时间：Thu, 20 Aug 2026 10:00:00 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for every” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss</strong>\n      <span>时间：Fri, 21 Aug 2026 11:00:36 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in</strong>\n      <span>时间：Thu, 20 Aug 2026 13:45:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI glitch locks out vetted cyber researchers – and some can't get ba” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Meta AI launches new desktop app for Mac</strong>\n      <span>时间：2026-08-20｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta AI launches new desktop app for Mac” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles</strong>\n      <span>时间：Fri, 21 Aug 2026 13:48:26 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla recalls 3 million cars as part of China-wide push to stop hidden d” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/22 07:33:30\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4TN90PU05198CJN.html\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.\n\n2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.\n\n3. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热\n   来源：IT之家\n   链接：https://www.ithome.com/0/992/892.htm\n   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.\n\n4. [23:11] 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品\n   来源：IT之家\n   链接：https://www.ithome.com/0/992/890.htm\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品” against primary-source evidence.\n\n5. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.\n\n本次新增线索：\n- 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热｜IT之家｜https://www.ithome.com/0/992/892.htm\n- 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品｜IT之家｜https://www.ithome.com/0/992/890.htm\n- 中国科学家找到水稻“早熟又高产”基因，成果登《科学》｜IT之家｜https://www.ithome.com/0/992/891.htm\n- 任正非谈中国发展AI两大优势 ：一是电力优势，｜网易科技｜https://www.163.com/dy/article/L4TULLVT0512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\n4. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\n5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
