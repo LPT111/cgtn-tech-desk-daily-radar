@@ -1,34 +1,13 @@
 {
-  "generatedAt": "2026-08-21T23:33:30.667Z",
+  "generatedAt": "2026-08-21T23:43:00.003Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-22",
   "changeSummary": {
-    "domesticNew": 4,
+    "domesticNew": 0,
     "globalNew": 0,
-    "domesticContinued": 5,
+    "domesticContinued": 9,
     "globalContinued": 22,
-    "topNewDomestic": [
-      {
-        "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/992/892.htm"
-      },
-      {
-        "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/992/890.htm"
-      },
-      {
-        "title": "中国科学家找到水稻“早熟又高产”基因，成果登《科学》",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/992/891.htm"
-      },
-      {
-        "title": "任正非谈中国发展AI两大优势 ：一是电力优势，",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L4TULLVT0512B07B.html"
-      }
-    ],
+    "topNewDomestic": [],
     "topNewGlobal": [],
     "hasPrevious": true
   },
@@ -51,12 +30,32 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 27,
   "failedSources": [
+    {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -76,9 +75,29 @@
   ],
   "failures": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -100,7 +119,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 178,
+      "parsed": 161,
       "failed": false,
       "optional": false
     },
@@ -150,7 +169,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -198,8 +218,9 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -263,14 +284,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -347,18 +370,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1358,
+  "itemsSeen": 1278,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 320,
-  "itemsAfterDedupe": 265,
+  "itemsAfterRelevantFilter": 277,
+  "itemsAfterDedupe": 245,
   "todayItemsSeen": 9,
   "suspectedItemsSeen": 20,
-  "skippedNonToday": 236,
+  "skippedNonToday": 216,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 178,
+      "parsed": 161,
       "failed": false,
       "optional": false
     },
@@ -408,7 +431,8 @@
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -456,8 +480,9 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -521,14 +546,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -759,9 +786,29 @@
   ],
   "domesticFailedSources": [
     {
+      "name": "财联社",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -829,17 +876,6 @@
       ]
     },
     {
-      "topic": "国产 GPU / 算力基础设施",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热"
-      ]
-    },
-    {
       "topic": "芯片动态",
       "count": 1,
       "sourceCount": 1,
@@ -848,6 +884,17 @@
       ],
       "items": [
         "Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险"
+      ]
+    },
+    {
+      "topic": "国产 GPU / 算力基础设施",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热"
       ]
     },
     {
@@ -1011,142 +1058,6 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
-      "summary": "科技媒体 AppleInsider 昨日（8 月 21 日）发布博文，汇总梳理苹果下一代入门款 14 英寸 MacBook Pro 的规格信息，产品代号为 J804。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/992/892.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/992/892.htm"
-      ],
-      "publishedAt": "Fri, 21 Aug 2026 23:24:19 GMT",
-      "date": "2026-08-22",
-      "category": "芯片",
-      "classificationConfidence": 0.8,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "科技媒体 AppleInsider 昨日（8 月 21 日）发布博文，汇总梳理苹果下一代入门款 14 英寸 MacBook Pro 的规格信息，产品代号为 J804。",
-      "relatedTitles": [
-        "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
-      "summary": "字节豆包团队最快将于下周发布一款对标腾讯 WorkBuddy 的办公类产品。（新皮层）",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/992/890.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/992/890.htm"
-      ],
-      "publishedAt": "Fri, 21 Aug 2026 23:11:17 GMT",
-      "date": "2026-08-22",
-      "category": "AI",
-      "classificationConfidence": 0.93,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "字节豆包团队最快将于下周发布一款对标腾讯 WorkBuddy 的办公类产品。（新皮层）",
-      "relatedTitles": [
-        "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险",
       "summary": "Allspring Global Investments股票投资主管Ann Miletti近日表示，尽管英伟达的财报备受瞩目，但下周举行的杰克逊霍尔经济研讨会才是华尔街目前面临的最大短期风险。 Miletti指出，杰克逊霍尔会议的不...",
@@ -1213,74 +1124,6 @@
         "Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "中国科学家找到水稻“早熟又高产”基因，成果登《科学》",
-      "summary": "研究团队通过分子育种手段，经连续 3 年大田区域试验，改良后水稻新品种生育期缩短 3 至 8 天，产量增加 4.2% 至 11.0%。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/992/891.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/992/891.htm"
-      ],
-      "publishedAt": "Fri, 21 Aug 2026 23:21:44 GMT",
-      "date": "2026-08-22",
-      "category": "科学前沿",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 5,
-      "score": 149,
-      "reporterScore": 157,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “中国科学家找到水稻“早熟又高产”基因，成果登《科学》” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "研究团队通过分子育种手段，经连续 3 年大田区域试验，改良后水稻新品种生育期缩短 3 至 8 天，产量增加 4.2% 至 11.0%。",
-      "relatedTitles": [
-        "中国科学家找到水稻“早熟又高产”基因，成果登《科学》"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1351,6 +1194,210 @@
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
+      "summary": "科技媒体 AppleInsider 昨日（8 月 21 日）发布博文，汇总梳理苹果下一代入门款 14 英寸 MacBook Pro 的规格信息，产品代号为 J804。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/992/892.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/992/892.htm"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 23:24:19 GMT",
+      "date": "2026-08-22",
+      "category": "芯片",
+      "classificationConfidence": 0.8,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "科技媒体 AppleInsider 昨日（8 月 21 日）发布博文，汇总梳理苹果下一代入门款 14 英寸 MacBook Pro 的规格信息，产品代号为 J804。",
+      "relatedTitles": [
+        "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
+      "summary": "字节豆包团队最快将于下周发布一款对标腾讯 WorkBuddy 的办公类产品。（新皮层）",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/992/890.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/992/890.htm"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 23:11:17 GMT",
+      "date": "2026-08-22",
+      "category": "AI",
+      "classificationConfidence": 0.93,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "字节豆包团队最快将于下周发布一款对标腾讯 WorkBuddy 的办公类产品。（新皮层）",
+      "relatedTitles": [
+        "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "中国科学家找到水稻“早熟又高产”基因，成果登《科学》",
+      "summary": "研究团队通过分子育种手段，经连续 3 年大田区域试验，改良后水稻新品种生育期缩短 3 至 8 天，产量增加 4.2% 至 11.0%。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/992/891.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/992/891.htm"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 23:21:44 GMT",
+      "date": "2026-08-22",
+      "category": "科学前沿",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 149,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “中国科学家找到水稻“早熟又高产”基因，成果登《科学》” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "研究团队通过分子育种手段，经连续 3 年大田区域试验，改良后水稻新品种生育期缩短 3 至 8 天，产量增加 4.2% 至 11.0%。",
+      "relatedTitles": [
+        "中国科学家找到水稻“早熟又高产”基因，成果登《科学》"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "任正非谈中国发展AI两大优势 ：一是电力优势，",
       "summary": "任正非谈中国发展AI两大优势 ：一是电力优势，二是电信网络优势,电力,任正非,中国电信,电信网络",
@@ -1416,7 +1463,7 @@
       "relatedTitles": [
         "任正非谈中国发展AI两大优势 ：一是电力优势，"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1550,7 +1597,7 @@
       "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “震撼!OpenAI全面开源Codex Harness” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "CodexHarness开源",
+      "rawText": "拿Codex额度当筹码玩德州",
       "relatedTitles": [
         "震撼!OpenAI全面开源Codex Harness"
       ]
@@ -3535,8 +3582,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-22｜V3\n生成时间：2026/8/22 07:33:30\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2578｜确认今日 9｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TN90PU05198CJN.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.\n\n2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.\n\n3. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热\n   IT之家｜2026-08-22｜https://www.ithome.com/0/992/892.htm\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.\n\n4. [23:11] 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品\n   IT之家｜2026-08-22｜https://www.ithome.com/0/992/890.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品” against primary-source evidence.\n\n5. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险\n   新浪科技｜2026-08-22｜https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.\n\n本次新增线索：\n- 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热｜IT之家｜https://www.ithome.com/0/992/892.htm\n- 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品｜IT之家｜https://www.ithome.com/0/992/890.htm\n- 中国科学家找到水稻“早熟又高产”基因，成果登《科学》｜IT之家｜https://www.ithome.com/0/992/891.htm\n- 任正非谈中国发展AI两大优势 ：一是电力优势，｜网易科技｜https://www.163.com/dy/article/L4TULLVT0512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\n4. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\n5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-22｜V3\n生成时间：2026/8/22 07:33:30\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2578｜确认今日 9｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TN90PU05198CJN.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.\n\n2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.\n\n3. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热\n   IT之家｜2026-08-22｜https://www.ithome.com/0/992/892.htm\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.\n\n4. [23:11] 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品\n   IT之家｜2026-08-22｜https://www.ithome.com/0/992/890.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品” against primary-source evidence.\n\n5. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险\n   新浪科技｜2026-08-22｜https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.\n\n本次新增线索：\n- 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热｜IT之家｜https://www.ithome.com/0/992/892.htm\n- 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品｜IT之家｜https://www.ithome.com/0/992/890.htm\n- 中国科学家找到水稻“早熟又高产”基因，成果登《科学》｜IT之家｜https://www.ithome.com/0/992/891.htm\n- 任正非谈中国发展AI两大优势 ：一是电力优势，｜网易科技｜https://www.163.com/dy/article/L4TULLVT0512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\n4. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\n5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-22｜生成时间：2026/8/22 07:33:30｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2578｜确认今日 9｜国际背景 22</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 5 条｜国际 22 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备</strong>\n      <span>网易科技｜2026-08-22｜<a href=\"https://www.163.com/dy/article/L4TN90PU05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工</strong>\n      <span>网易科技｜2026-08-22｜<a href=\"https://www.163.com/dy/article/L4TIRVJO05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热</strong>\n      <span>IT之家｜2026-08-22｜<a href=\"https://www.ithome.com/0/992/892.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [23:11] 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品</strong>\n      <span>IT之家｜2026-08-22｜<a href=\"https://www.ithome.com/0/992/890.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险</strong>\n      <span>新浪科技｜2026-08-22｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”</strong>\n      <span>时间：Thu, 20 Aug 2026 10:00:00 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for every” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss</strong>\n      <span>时间：Fri, 21 Aug 2026 11:00:36 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in</strong>\n      <span>时间：Thu, 20 Aug 2026 13:45:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI glitch locks out vetted cyber researchers – and some can't get ba” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Meta AI launches new desktop app for Mac</strong>\n      <span>时间：2026-08-20｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta AI launches new desktop app for Mac” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles</strong>\n      <span>时间：Fri, 21 Aug 2026 13:48:26 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla recalls 3 million cars as part of China-wide push to stop hidden d” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/22 07:33:30\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 5 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4TN90PU05198CJN.html\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.\n\n2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.\n\n3. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热\n   来源：IT之家\n   链接：https://www.ithome.com/0/992/892.htm\n   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.\n\n4. [23:11] 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品\n   来源：IT之家\n   链接：https://www.ithome.com/0/992/890.htm\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品” against primary-source evidence.\n\n5. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.\n\n本次新增线索：\n- 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热｜IT之家｜https://www.ithome.com/0/992/892.htm\n- 消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品｜IT之家｜https://www.ithome.com/0/992/890.htm\n- 中国科学家找到水稻“早熟又高产”基因，成果登《科学》｜IT之家｜https://www.ithome.com/0/992/891.htm\n- 任正非谈中国发展AI两大优势 ：一是电力优势，｜网易科技｜https://www.163.com/dy/article/L4TULLVT0512B07B.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\n4. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\n5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-22｜V3\n生成时间：2026/8/22 07:43:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2498｜确认今日 9｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 9 条｜国际 22 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TN90PU05198CJN.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.\n\n2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.\n\n3. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险\n   新浪科技｜2026-08-22｜https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.\n\n4. [2026-08-22] Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TP069S05198CJN.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈” against primary-source evidence.\n\n5. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热\n   IT之家｜2026-08-22｜https://www.ithome.com/0/992/892.htm\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\n4. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\n5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-22｜V3\n生成时间：2026/8/22 07:43:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2498｜确认今日 9｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 9 条｜国际 22 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TN90PU05198CJN.html\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.\n\n2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.\n\n3. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险\n   新浪科技｜2026-08-22｜https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.\n\n4. [2026-08-22] Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈\n   网易科技｜2026-08-22｜https://www.163.com/dy/article/L4TP069S05198CJN.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈” against primary-source evidence.\n\n5. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热\n   IT之家｜2026-08-22｜https://www.ithome.com/0/992/892.htm\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\n4. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\n5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-22｜生成时间：2026/8/22 07:43:00｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2498｜确认今日 9｜国际背景 22</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 0 条<br>延续跟踪线索：国内 9 条｜国际 22 条<br>本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备</strong>\n      <span>网易科技｜2026-08-22｜<a href=\"https://www.163.com/dy/article/L4TN90PU05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工</strong>\n      <span>网易科技｜2026-08-22｜<a href=\"https://www.163.com/dy/article/L4TIRVJO05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险</strong>\n      <span>新浪科技｜2026-08-22｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-22] Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈</strong>\n      <span>网易科技｜2026-08-22｜<a href=\"https://www.163.com/dy/article/L4TP069S05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热</strong>\n      <span>IT之家｜2026-08-22｜<a href=\"https://www.ithome.com/0/992/892.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”</strong>\n      <span>时间：Thu, 20 Aug 2026 10:00:00 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for every” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss</strong>\n      <span>时间：Fri, 21 Aug 2026 11:00:36 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in</strong>\n      <span>时间：Thu, 20 Aug 2026 13:45:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI glitch locks out vetted cyber researchers – and some can't get ba” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Meta AI launches new desktop app for Mac</strong>\n      <span>时间：2026-08-20｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta AI launches new desktop app for Mac” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles</strong>\n      <span>时间：Fri, 21 Aug 2026 13:48:26 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla recalls 3 million cars as part of China-wide push to stop hidden d” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/22 07:43:00\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 9 条｜国际 22 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4TN90PU05198CJN.html\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.\n\n2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4TIRVJO05198CJN.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.\n\n3. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.\n\n4. [2026-08-22] Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L4TP069S05198CJN.html\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈” against primary-source evidence.\n\n5. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热\n   来源：IT之家\n   链接：https://www.ithome.com/0/992/892.htm\n   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238\n4. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html\n5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
