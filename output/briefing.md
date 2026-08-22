@@ -3,50 +3,55 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/22 07:43:00
+生成时间：2026/8/22 14:00:56
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 0 条｜国际 0 条
-延续跟踪线索：国内 9 条｜国际 22 条
-本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
+新增核心线索：国内 27 条｜国际 1 条
+延续跟踪线索：国内 8 条｜国际 21 条
+本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-22] Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L4TN90PU05198CJN.html
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备” against primary-source evidence.
-
-2. [2026-08-22] 英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L4TIRVJO05198CJN.html
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工” against primary-source evidence.
-
-3. [2026-08-22] Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险
+1. [2026-08-22] 直击WRC丨观众排队与机器人打乒乓球，感慨“玩了十年输给机器”
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/shenji/2026-08-22/doc-inipeimt7515613.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “直击WRC丨观众排队与机器人打乒乓球，感慨“玩了十年输给机器”” against primary-source evidence.
 
-4. [2026-08-22] Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈
+2. [2026-08-22] 荣耀机器人闪电百米跑出 9 秒 32，打破人类记录
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-22/doc-inipeimv1279761.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “荣耀机器人闪电百米跑出 9 秒 32，打破人类记录” against primary-source evidence.
+
+3. [2026-08-22] 第二届世界人形机器人运动会今天开幕，新增拔河
    来源：网易科技
-   链接：https://www.163.com/dy/article/L4TP069S05198CJN.html
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic挖来谷歌TPU功勋老将 定制化芯片浪潮愈演愈烈” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L4U8896B0534A4SC.html
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “第二届世界人形机器人运动会今天开幕，新增拔河” against primary-source evidence.
 
-5. [23:24] 苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热
-   来源：IT之家
-   链接：https://www.ithome.com/0/992/892.htm
-   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热” against primary-source evidence.
+4. [2026-08-22] 国际人工智能联合会议闭幕，与会专家积极评价中
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L4UGP1VL0534A4SC.html
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国际人工智能联合会议闭幕，与会专家积极评价中” against primary-source evidence.
+
+5. [2026-08-22] 直击WRC丨星海图创始人高继扬：具身智能商业化将历经三阶段，价值重心将从硬件转向智能
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/shenji/2026-08-22/doc-inipeimp6064147.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “直击WRC丨星海图创始人高继扬：具身智能商业化将历经三阶段，价值重心将从硬件转向智能” against primary-source evidence.
 
 本次新增线索：
-- 暂无新增核心线索。
+- 直击WRC丨观众排队与机器人打乒乓球，感慨“玩了十年输给机器”｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-08-22/doc-inipeimt7515613.shtml
+- 荣耀机器人闪电百米跑出 9 秒 32，打破人类记录｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-22/doc-inipeimv1279761.shtml
+- 第二届世界人形机器人运动会今天开幕，新增拔河｜网易科技｜https://www.163.com/dy/article/L4U8896B0534A4SC.html
+- 国际人工智能联合会议闭幕，与会专家积极评价中｜网易科技｜https://www.163.com/dy/article/L4UGP1VL0534A4SC.html
+- 直击WRC丨星海图创始人高继扬：具身智能商业化将历经三阶段，价值重心将从硬件转向智能｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-08-22/doc-inipeimp6064147.shtml
+- Claude Can Now Design Proteins—And Scientists Tested It in the Lab｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/claude-now-design-proteins-scientists-003116459.html
 
 今日热点方向：
-- AI 应用：AI动态（3 条，2 个来源）
-- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
-- 太空与低空经济：
+- AI 应用：AI动态（7 条，3 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
