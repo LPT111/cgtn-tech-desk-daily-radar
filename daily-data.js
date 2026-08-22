@@ -1,53 +1,27 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-22T23:30:02.708Z",
+  "generatedAt": "2026-08-22T23:38:58.063Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-23",
   "changeSummary": {
-    "domesticNew": 5,
-    "globalNew": 1,
-    "domesticContinued": 6,
-    "globalContinued": 12,
+    "domesticNew": 1,
+    "globalNew": 0,
+    "domesticContinued": 11,
+    "globalContinued": 13,
     "topNewDomestic": [
       {
-        "title": "马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上",
+        "title": "行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-23/doc-inipfzuz0755876.shtml"
-      },
-      {
-        "title": "天工Ultra人形机器人跑出百米9.39秒",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml"
-      },
-      {
-        "title": "最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-08-23/doc-inipfzuz0754542.shtml"
-      },
-      {
-        "title": "特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/993/125.htm"
-      },
-      {
-        "title": "航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/993/124.htm"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzva2709487.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Forget Apple & Samsung: Chinese brands make the most impressive camera phones",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 889,
+    "domesticRejected": 888,
     "globalRejected": 887,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -62,22 +36,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 28,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -88,11 +52,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -102,19 +61,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -125,11 +74,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -191,8 +135,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -305,8 +248,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -356,9 +298,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -391,13 +332,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1305,
+  "itemsSeen": 1366,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 340,
-  "itemsAfterDedupe": 256,
-  "todayItemsSeen": 11,
-  "suspectedItemsSeen": 20,
-  "skippedNonToday": 224,
+  "itemsAfterRelevantFilter": 341,
+  "itemsAfterDedupe": 255,
+  "todayItemsSeen": 12,
+  "suspectedItemsSeen": 19,
+  "skippedNonToday": 223,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -452,8 +393,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -566,8 +506,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -617,9 +556,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -806,19 +744,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -829,11 +757,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -866,13 +789,14 @@ window.CHENCHEN_DAILY_DATA = {
   "topics": [
     {
       "topic": "人形机器人与具身智能",
-      "count": 2,
+      "count": 3,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
         "IT之家"
       ],
       "items": [
+        "行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次",
         "天工Ultra人形机器人跑出百米9.39秒",
         "航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业"
       ]
@@ -926,17 +850,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "新能源车与智能驾驶",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi"
-      ]
-    },
-    {
       "topic": "科学前沿与科研设施",
       "count": 1,
       "sourceCount": 1,
@@ -945,6 +858,17 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "大湾区科技与产业的距离仅“一脚油门”——对话张书彦"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi"
       ]
     },
     {
@@ -960,6 +884,74 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次",
+      "summary": "快科技8月23日消息，日前，第二届世界人形机器人运动会在北京国家速滑馆开幕，80台加速进化Booster T2人形机器人集体亮相开幕式，上演大规模全自主群体协同。加速进化强调，场地内没有标记线，也没有操作手拿着遥控紧随其后。现场，80台机器...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzva2709487.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzva2709487.shtml"
+      ],
+      "publishedAt": "2026-08-23",
+      "date": "2026-08-23",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 179,
+      "reporterScore": 193,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "快科技8月23日消息，日前，第二届世界人形机器人运动会在北京国家速滑馆开幕，80台加速进化Booster T2人形机器人集体亮相开幕式，上演大规模全自主群体协同。加速进化强调，场地内没有标记线，也没有操作手拿着遥控紧随其后。现场，80台机器...",
+      "relatedTitles": [
+        "行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上",
@@ -1026,75 +1018,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "天工Ultra人形机器人跑出百米9.39秒",
-      "summary": "8月22日，第二届世界人形机器人运动会上，天工Ultra人形机器人跑出百米9.39秒，比“飞人”博尔特保持的人类男子百米世界纪录9.58秒快0.19秒。此外，天工Ultra人形机器人跳高成绩2.88米，也打破2.45米的人类男子跳高世界纪录...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml"
-      ],
-      "publishedAt": "2026-08-23",
-      "date": "2026-08-23",
-      "category": "机器人",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 179,
-      "reporterScore": 193,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “天工Ultra人形机器人跑出百米9.39秒” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "8月22日，第二届世界人形机器人运动会上，天工Ultra人形机器人跑出百米9.39秒，比“飞人”博尔特保持的人类男子百米世界纪录9.58秒快0.19秒。此外，天工Ultra人形机器人跳高成绩2.88米，也打破2.45米的人类男子跳高世界纪录...",
-      "relatedTitles": [
-        "天工Ultra人形机器人跑出百米9.39秒"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1161,6 +1085,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "机器人“百米飞人”大战，破人类纪录；加拿大宣布9月8日起对美国商品征收报复性关税；涉及分期业务贴息，多家银行发布公告；官方通报“白菜装车前蘸甲醛”丨每经早参,萨尔,关税,白菜,加拿大,机器人,报复性,美国商品",
       "relatedTitles": [
         "机器人“百米飞人”大战，破人类纪录；加拿大宣"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "天工Ultra人形机器人跑出百米9.39秒",
+      "summary": "8月22日，第二届世界人形机器人运动会上，天工Ultra人形机器人跑出百米9.39秒，比“飞人”博尔特保持的人类男子百米世界纪录9.58秒快0.19秒。此外，天工Ultra人形机器人跳高成绩2.88米，也打破2.45米的人类男子跳高世界纪录...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml"
+      ],
+      "publishedAt": "2026-08-23",
+      "date": "2026-08-23",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 179,
+      "reporterScore": 193,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “天工Ultra人形机器人跑出百米9.39秒” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "8月22日，第二届世界人形机器人运动会上，天工Ultra人形机器人跑出百米9.39秒，比“飞人”博尔特保持的人类男子百米世界纪录9.58秒快0.19秒。此外，天工Ultra人形机器人跳高成绩2.88米，也打破2.45米的人类男子跳高世界纪录...",
+      "relatedTitles": [
+        "天工Ultra人形机器人跑出百米9.39秒"
       ],
       "isNewSinceLastRun": false
     },
@@ -1234,6 +1226,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "大湾区科技与产业的距离仅“一脚油门”——对话张书彦",
+      "summary": "近日，《思想耀岭南》制作团队走进东莞松山湖，与广东省人大代表、东莞材料基因高等理工研究院院长张书彦深度交流，探寻新型研发机构串联大科学装置与制造业集群的广东实践。 “企业的需求就是科技创新的动力” 问：你过去长期在海外从...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxe0368486.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxe0368486.shtml"
+      ],
+      "publishedAt": "2026-08-23",
+      "date": "2026-08-23",
+      "category": "科学前沿",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 176,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Use researchers and facilities as reporting anchors, with research infrastructure and long-term innovation capacity, peer context and limitations clearly stated. For this item, test the claim behind “大湾区科技与产业的距离仅“一脚油门”——对话张书彦” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿与科研设施",
+      "rawText": "近日，《思想耀岭南》制作团队走进东莞松山湖，与广东省人大代表、东莞材料基因高等理工研究院院长张书彦深度交流，探寻新型研发机构串联大科学装置与制造业集群的广东实践。 “企业的需求就是科技创新的动力” 问：你过去长期在海外从...",
+      "relatedTitles": [
+        "大湾区科技与产业的距离仅“一脚油门”——对话张书彦"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费",
       "summary": "快科技8月23日消息，DeepSeek官方日前发布邮件显示，DeepSeek API开放平台将于今日（8月23日）凌晨0时起调整峰谷计费规则：周末（周六、周日）全天不再区分峰谷时段，统一按照低谷时段价格收取调用费用。工作日（周一至周五）继续...",
       "source": "新浪科技",
@@ -1298,7 +1358,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1366,24 +1426,24 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "大湾区科技与产业的距离仅“一脚油门”——对话张书彦",
-      "summary": "近日，《思想耀岭南》制作团队走进东莞松山湖，与广东省人大代表、东莞材料基因高等理工研究院院长张书彦深度交流，探寻新型研发机构串联大科学装置与制造业集群的广东实践。 “企业的需求就是科技创新的动力” 问：你过去长期在海外从...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”",
+      "summary": "英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”,内存,英伟达,人工智能,服务器芯片",
+      "source": "网易科技",
       "sources": [
-        "新浪科技"
+        "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxe0368486.shtml",
+      "url": "https://www.163.com/dy/article/L506J0D205198CJN.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxe0368486.shtml"
+        "https://www.163.com/dy/article/L506J0D205198CJN.html"
       ],
       "publishedAt": "2026-08-23",
       "date": "2026-08-23",
-      "category": "科学前沿",
+      "category": "芯片",
       "classificationConfidence": 0.71,
       "classificationEvidence": [
         "title",
@@ -1391,19 +1451,19 @@ window.CHENCHEN_DAILY_DATA = {
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 162,
-      "reporterScore": 176,
+      "score": 167,
+      "reporterScore": 167,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 9,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
@@ -1414,25 +1474,25 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
-        "international": true,
+        "visual": false,
+        "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 118
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Use researchers and facilities as reporting anchors, with research infrastructure and long-term innovation capacity, peer context and limitations clearly stated. For this item, test the claim behind “大湾区科技与产业的距离仅“一脚油门”——对话张书彦” against primary-source evidence.",
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "科学前沿与科研设施",
-      "rawText": "近日，《思想耀岭南》制作团队走进东莞松山湖，与广东省人大代表、东莞材料基因高等理工研究院院长张书彦深度交流，探寻新型研发机构串联大科学装置与制造业集群的广东实践。 “企业的需求就是科技创新的动力” 问：你过去长期在海外从...",
+      "matchedTopic": "芯片动态",
+      "rawText": "英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”,内存,英伟达,人工智能,服务器芯片",
       "relatedTitles": [
-        "大湾区科技与产业的距离仅“一脚油门”——对话张书彦"
+        "英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”"
       ],
       "isNewSinceLastRun": false
     },
@@ -1501,74 +1561,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "据介绍，这款机器人把轮足底盘、人形双臂灵巧手合二为一，主要面向应急抢险及危险场景作业，还能搭载激光雷达与多组传感器，时速近 20 公里，并支持跨楼层自主导航技术，可以执行危险场景寻找幸存者的任务。#航天自研半人马机器人首次公开亮相#",
       "relatedTitles": [
         "航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”",
-      "summary": "英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”,内存,英伟达,人工智能,服务器芯片",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L506J0D205198CJN.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L506J0D205198CJN.html"
-      ],
-      "publishedAt": "2026-08-23",
-      "date": "2026-08-23",
-      "category": "芯片",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”,内存,英伟达,人工智能,服务器芯片",
-      "relatedTitles": [
-        "英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”"
       ],
       "isNewSinceLastRun": false
     },
@@ -2649,73 +2641,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "陆行具身系统",
-      "summary": "WRC2026 具身智能 陆行具身系统 <img width=\"204\" heigh",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/%e9%99%86%e8%a1%8c%e5%85%b7%e8%ba%ab%e7%b3%bb%e7%bb%9f",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/%e9%99%86%e8%a1%8c%e5%85%b7%e8%ba%ab%e7%b3%bb%e7%bb%9f"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "机器人",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 4,
-      "score": 128,
-      "reporterScore": 128,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “陆行具身系统” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "WRC2026 具身智能 陆行具身系统 <img width=\"204\" heigh",
-      "relatedTitles": [
-        "陆行具身系统"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "通信之后，FPGA的第二人生",
       "summary": "如果AI时代最终的赢家是英伟达和它的一系列挑战者，那FPGA到底在这盘棋里扮演什么角色。我们的答案也许是，FPGA不该被拿来跟GPU比。这是一个类别错误。GPU是聚光灯下的算力主角，FPGA是舞台后面的“规则例外者”。",
@@ -3054,38 +2979,6 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Forget Apple & Samsung: Chinese brands make the most impressive camera phones",
-      "summary": "I've used Oppo's latest flagship phone for the last 3 months. Its camera system never fails to impress.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html",
-      "publishedAt": "2026-08-23",
-      "date": "2026-08-23",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 85,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Forget Apple & Samsung: Chinese brands make the most impressive camera p” against primary-source evidence.",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 166,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
       "summary": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
       "source": "Ars Technica",
@@ -3146,6 +3039,38 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 108
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Forget Apple & Samsung: Chinese brands make the most impressive camera phones",
+      "summary": "I've used Oppo's latest flagship phone for the last 3 months. Its camera system never fails to impress.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html",
+      "publishedAt": "2026-08-23",
+      "date": "2026-08-23",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 85,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Forget Apple & Samsung: Chinese brands make the most impressive camera p” against primary-source evidence.",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 166,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -3469,8 +3394,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-23｜V3\n生成时间：2026/8/23 07:30:02\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2474｜确认今日 11｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 1 条\n延续跟踪线索：国内 6 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-23] 马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/digi/2026-08-23/doc-inipfzuz0755876.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上” against primary-source evidence.\n\n2. [2026-08-23] 天工Ultra人形机器人跑出百米9.39秒\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “天工Ultra人形机器人跑出百米9.39秒” against primary-source evidence.\n\n3. [2026-08-23] 机器人“百米飞人”大战，破人类纪录；加拿大宣\n   网易科技｜2026-08-23｜https://www.163.com/dy/article/L50EQI600512B07B.html\n   报道角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人“百米飞人”大战，破人类纪录；加拿大宣” against primary-source evidence.\n\n4. [2026-08-23] 安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxf7141772.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼” against primary-source evidence.\n\n5. [2026-08-23] 最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/discovery/2026-08-23/doc-inipfzuz0754542.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费” against primary-source evidence.\n\n本次新增线索：\n- 马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-23/doc-inipfzuz0755876.shtml\n- 天工Ultra人形机器人跑出百米9.39秒｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml\n- 最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-23/doc-inipfzuz0754542.shtml\n- 特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi｜IT之家｜https://www.ithome.com/0/993/125.htm\n- 航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业｜IT之家｜https://www.ithome.com/0/993/124.htm\n- Forget Apple & Samsung: Chinese brands make the most impressive camera phones｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Forget Apple & Samsung: Chinese brands make the most impressive camera phones｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html\n2. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\n3. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n4. Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring｜CNBC Technology｜https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html\n5. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-23｜V3\n生成时间：2026/8/23 07:30:02\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2474｜确认今日 11｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 1 条\n延续跟踪线索：国内 6 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-23] 马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/digi/2026-08-23/doc-inipfzuz0755876.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上” against primary-source evidence.\n\n2. [2026-08-23] 天工Ultra人形机器人跑出百米9.39秒\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “天工Ultra人形机器人跑出百米9.39秒” against primary-source evidence.\n\n3. [2026-08-23] 机器人“百米飞人”大战，破人类纪录；加拿大宣\n   网易科技｜2026-08-23｜https://www.163.com/dy/article/L50EQI600512B07B.html\n   报道角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人“百米飞人”大战，破人类纪录；加拿大宣” against primary-source evidence.\n\n4. [2026-08-23] 安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxf7141772.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼” against primary-source evidence.\n\n5. [2026-08-23] 最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/discovery/2026-08-23/doc-inipfzuz0754542.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费” against primary-source evidence.\n\n本次新增线索：\n- 马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-23/doc-inipfzuz0755876.shtml\n- 天工Ultra人形机器人跑出百米9.39秒｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml\n- 最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-23/doc-inipfzuz0754542.shtml\n- 特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi｜IT之家｜https://www.ithome.com/0/993/125.htm\n- 航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业｜IT之家｜https://www.ithome.com/0/993/124.htm\n- Forget Apple & Samsung: Chinese brands make the most impressive camera phones｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Forget Apple & Samsung: Chinese brands make the most impressive camera phones｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html\n2. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\n3. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n4. Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring｜CNBC Technology｜https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html\n5. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-23｜生成时间：2026/8/23 07:30:02｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2474｜确认今日 11｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 5 条｜国际 1 条<br>延续跟踪线索：国内 6 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-23] 马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上</strong>\n      <span>新浪科技｜2026-08-23｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-23/doc-inipfzuz0755876.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-23] 天工Ultra人形机器人跑出百米9.39秒</strong>\n      <span>新浪科技｜2026-08-23｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “天工Ultra人形机器人跑出百米9.39秒” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-23] 机器人“百米飞人”大战，破人类纪录；加拿大宣</strong>\n      <span>网易科技｜2026-08-23｜<a href=\"https://www.163.com/dy/article/L50EQI600512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人“百米飞人”大战，破人类纪录；加拿大宣” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-23] 安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼</strong>\n      <span>新浪科技｜2026-08-23｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxf7141772.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-23] 最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费</strong>\n      <span>新浪科技｜2026-08-23｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-23/doc-inipfzuz0754542.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Forget Apple & Samsung: Chinese brands make the most impressive camera phones</strong>\n      <span>时间：2026-08-23｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Forget Apple & Samsung: Chinese brands make the most impressive camera p” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Chinese regulators tell Tesla to fix nearly 3 million cars</strong>\n      <span>时间：Fri, 21 Aug 2026 18:07:15 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Chinese regulators tell Tesla to fix nearly 3 million cars” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss</strong>\n      <span>时间：Fri, 21 Aug 2026 11:00:36 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring</strong>\n      <span>时间：Fri, 21 Aug 2026 19:29:48 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Tesla recalls 3 million vehicles in China over doorhandle safety, driver” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI says California should strengthen its AI safety bill</strong>\n      <span>时间：Sat, 22 Aug 2026 16:30:34 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI says California should strengthen its AI safety bill” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/23 07:30:02\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 1 条\n延续跟踪线索：国内 6 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-23] 马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-23/doc-inipfzuz0755876.shtml\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上” against primary-source evidence.\n\n2. [2026-08-23] 天工Ultra人形机器人跑出百米9.39秒\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “天工Ultra人形机器人跑出百米9.39秒” against primary-source evidence.\n\n3. [2026-08-23] 机器人“百米飞人”大战，破人类纪录；加拿大宣\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L50EQI600512B07B.html\n   角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人“百米飞人”大战，破人类纪录；加拿大宣” against primary-source evidence.\n\n4. [2026-08-23] 安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxf7141772.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼” against primary-source evidence.\n\n5. [2026-08-23] 最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-23/doc-inipfzuz0754542.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费” against primary-source evidence.\n\n本次新增线索：\n- 马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-23/doc-inipfzuz0755876.shtml\n- 天工Ultra人形机器人跑出百米9.39秒｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml\n- 最高涨价11倍后 DeepSeek再调价！周六日不设高峰期 全部按低谷期计费｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-23/doc-inipfzuz0754542.shtml\n- 特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi｜IT之家｜https://www.ithome.com/0/993/125.htm\n- 航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业｜IT之家｜https://www.ithome.com/0/993/124.htm\n- Forget Apple & Samsung: Chinese brands make the most impressive camera phones｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. Forget Apple & Samsung: Chinese brands make the most impressive camera phones｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html\n2. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\n3. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n4. Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring｜CNBC Technology｜https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html\n5. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-23｜V3\n生成时间：2026/8/23 07:38:58\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2535｜确认今日 12｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 11 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-23] 行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzva2709487.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次” against primary-source evidence.\n\n2. [2026-08-23] 马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/digi/2026-08-23/doc-inipfzuz0755876.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上” against primary-source evidence.\n\n3. [2026-08-23] 机器人“百米飞人”大战，破人类纪录；加拿大宣\n   网易科技｜2026-08-23｜https://www.163.com/dy/article/L50EQI600512B07B.html\n   报道角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人“百米飞人”大战，破人类纪录；加拿大宣” against primary-source evidence.\n\n4. [2026-08-23] 天工Ultra人形机器人跑出百米9.39秒\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “天工Ultra人形机器人跑出百米9.39秒” against primary-source evidence.\n\n5. [2026-08-23] 安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxf7141772.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼” against primary-source evidence.\n\n本次新增线索：\n- 行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzva2709487.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\n2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n3. Forget Apple & Samsung: Chinese brands make the most impressive camera phones｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html\n4. Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring｜CNBC Technology｜https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html\n5. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-23｜V3\n生成时间：2026/8/23 07:38:58\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2535｜确认今日 12｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 11 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-23] 行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzva2709487.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次” against primary-source evidence.\n\n2. [2026-08-23] 马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/digi/2026-08-23/doc-inipfzuz0755876.shtml\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上” against primary-source evidence.\n\n3. [2026-08-23] 机器人“百米飞人”大战，破人类纪录；加拿大宣\n   网易科技｜2026-08-23｜https://www.163.com/dy/article/L50EQI600512B07B.html\n   报道角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人“百米飞人”大战，破人类纪录；加拿大宣” against primary-source evidence.\n\n4. [2026-08-23] 天工Ultra人形机器人跑出百米9.39秒\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “天工Ultra人形机器人跑出百米9.39秒” against primary-source evidence.\n\n5. [2026-08-23] 安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼\n   新浪科技｜2026-08-23｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxf7141772.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼” against primary-source evidence.\n\n本次新增线索：\n- 行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzva2709487.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\n2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n3. Forget Apple & Samsung: Chinese brands make the most impressive camera phones｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html\n4. Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring｜CNBC Technology｜https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html\n5. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-23｜生成时间：2026/8/23 07:38:58｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2535｜确认今日 12｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 11 条｜国际 13 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-23] 行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次</strong>\n      <span>新浪科技｜2026-08-23｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzva2709487.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-23] 马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上</strong>\n      <span>新浪科技｜2026-08-23｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-23/doc-inipfzuz0755876.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-23] 机器人“百米飞人”大战，破人类纪录；加拿大宣</strong>\n      <span>网易科技｜2026-08-23｜<a href=\"https://www.163.com/dy/article/L50EQI600512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人“百米飞人”大战，破人类纪录；加拿大宣” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-23] 天工Ultra人形机器人跑出百米9.39秒</strong>\n      <span>新浪科技｜2026-08-23｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “天工Ultra人形机器人跑出百米9.39秒” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-23] 安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼</strong>\n      <span>新浪科技｜2026-08-23｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxf7141772.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese regulators tell Tesla to fix nearly 3 million cars</strong>\n      <span>时间：Fri, 21 Aug 2026 18:07:15 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Chinese regulators tell Tesla to fix nearly 3 million cars” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss</strong>\n      <span>时间：Fri, 21 Aug 2026 11:00:36 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Forget Apple & Samsung: Chinese brands make the most impressive camera phones</strong>\n      <span>时间：2026-08-23｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Forget Apple & Samsung: Chinese brands make the most impressive camera p” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring</strong>\n      <span>时间：Fri, 21 Aug 2026 19:29:48 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Tesla recalls 3 million vehicles in China over doorhandle safety, driver” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI says California should strengthen its AI safety bill</strong>\n      <span>时间：Sat, 22 Aug 2026 16:30:34 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI says California should strengthen its AI safety bill” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/23 07:38:58\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 11 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-23] 行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzva2709487.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次” against primary-source evidence.\n\n2. [2026-08-23] 马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-23/doc-inipfzuz0755876.shtml\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上” against primary-source evidence.\n\n3. [2026-08-23] 机器人“百米飞人”大战，破人类纪录；加拿大宣\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L50EQI600512B07B.html\n   角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人“百米飞人”大战，破人类纪录；加拿大宣” against primary-source evidence.\n\n4. [2026-08-23] 天工Ultra人形机器人跑出百米9.39秒\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzuz0755267.shtml\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “天工Ultra人形机器人跑出百米9.39秒” against primary-source evidence.\n\n5. [2026-08-23] 安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxf7141772.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼” against primary-source evidence.\n\n本次新增线索：\n- 行走的超算中心！80台机器人亮相世界人形机器人运动会：全自主群体协同人类历史首次｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfzva2709487.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\n2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/\n3. Forget Apple & Samsung: Chinese brands make the most impressive camera phones｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/forget-apple-samsung-chinese-brands-210730173.html\n4. Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring｜CNBC Technology｜https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html\n5. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
