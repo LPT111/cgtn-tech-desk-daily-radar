@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/22 14:40:44
+生成时间：2026/8/22 15:01:32
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 0 条
-延续跟踪线索：国内 26 条｜国际 22 条
+新增核心线索：国内 3 条｜国际 0 条
+延续跟踪线索：国内 32 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -33,23 +33,21 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.163.com/dy/article/L4UGP1VL0534A4SC.html
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国际人工智能联合会议闭幕，与会专家积极评价中” against primary-source evidence.
 
-5. [2026-08-22] 美国初创企业创始人拼命追赶AI智能体的工作节奏
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipeims0781198.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国初创企业创始人拼命追赶AI智能体的工作节奏” against primary-source evidence.
+5. [2026-08-22] “集成电路产业共性技术对接平台”建设计划在上海临港启动
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L4UOF6CE0534A4SC.html
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind ““集成电路产业共性技术对接平台”建设计划在上海临港启动” against primary-source evidence.
 
 本次新增线索：
-- 荣耀机器人闪电百米跑出9秒32，破人类百米世界纪录｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-08-22/doc-inipeimw3252196.shtml
-- 美国初创企业创始人拼命追赶AI智能体的工作节奏｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipeims0781198.shtml
-- 近八成消费者先问AI再下单，品牌管理面临认知大考｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-22/doc-inipeptt1178995.shtml
-- 京元接入智谱 AutoClaw：一个 API Key 让 AI 真正开始“干活”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-22/doc-inipeimt7560559.shtml
-- 小米汽车全系亮相成都车展，小米澎程双车开放上车体验｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-22/doc-inipeimt7558472.shtml
+- “集成电路产业共性技术对接平台”建设计划在上海临港启动｜网易科技｜https://www.163.com/dy/article/L4UOF6CE0534A4SC.html
+- 神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱｜IT之家｜https://www.ithome.com/0/993/003.htm
+- 中铝集团董事长段向东会见宁德时代创始人曾毓群｜网易科技｜https://www.163.com/dy/article/L4UNT5HL0534A4SC.html
 
 今日热点方向：
-- AI 应用：AI动态（6 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- AI 应用：AI动态（7 条，3 个来源）
+- 芯片/半导体：半导体供应链（3 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（10 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：
 
