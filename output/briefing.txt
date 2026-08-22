@@ -1,60 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/22 15:01:32
+生成时间：2026/8/23 07:02:58
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 0 条
-延续跟踪线索：国内 32 条｜国际 22 条
+新增核心线索：国内 6 条｜国际 4 条
+延续跟踪线索：国内 0 条｜国际 10 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-22] 荣耀机器人闪电百米跑出9秒32，破人类百米世界纪录
+1. [2026-08-23] 机器人“百米飞人”大战，破人类纪录；加拿大宣
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L50EQI600512B07B.html
+   角度：Show whether the robot is moving from demo to deployment, using robotics, embodied intelligence and smart manufacturing, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人“百米飞人”大战，破人类纪录；加拿大宣” against primary-source evidence.
+
+2. [2026-08-23] 安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-08-22/doc-inipeimw3252196.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “荣耀机器人闪电百米跑出9秒32，破人类百米世界纪录” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxf7141772.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼” against primary-source evidence.
 
-2. [2026-08-22] 直击WRC丨观众排队与机器人打乒乓球，感慨“玩了十年输给机器”
+3. [2026-08-23] 大湾区科技与产业的距离仅“一脚油门”——对话张书彦
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-08-22/doc-inipeimt7515613.shtml
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “直击WRC丨观众排队与机器人打乒乓球，感慨“玩了十年输给机器”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxe0368486.shtml
+   角度：Use researchers and facilities as reporting anchors, with research infrastructure and long-term innovation capacity, peer context and limitations clearly stated. For this item, test the claim behind “大湾区科技与产业的距离仅“一脚油门”——对话张书彦” against primary-source evidence.
 
-3. [2026-08-22] 第二届世界人形机器人运动会今天开幕，新增拔河
+4. [2026-08-23] 英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”
    来源：网易科技
-   链接：https://www.163.com/dy/article/L4U8896B0534A4SC.html
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “第二届世界人形机器人运动会今天开幕，新增拔河” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L506J0D205198CJN.html
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”” against primary-source evidence.
 
-4. [2026-08-22] 国际人工智能联合会议闭幕，与会专家积极评价中
+5. [2026-08-23] DeepSeek调整计费规则
    来源：网易科技
-   链接：https://www.163.com/dy/article/L4UGP1VL0534A4SC.html
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国际人工智能联合会议闭幕，与会专家积极评价中” against primary-source evidence.
-
-5. [2026-08-22] “集成电路产业共性技术对接平台”建设计划在上海临港启动
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L4UOF6CE0534A4SC.html
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind ““集成电路产业共性技术对接平台”建设计划在上海临港启动” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L4VOEM3T0512B07B.html
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek调整计费规则” against primary-source evidence.
 
 本次新增线索：
-- “集成电路产业共性技术对接平台”建设计划在上海临港启动｜网易科技｜https://www.163.com/dy/article/L4UOF6CE0534A4SC.html
-- 神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱｜IT之家｜https://www.ithome.com/0/993/003.htm
-- 中铝集团董事长段向东会见宁德时代创始人曾毓群｜网易科技｜https://www.163.com/dy/article/L4UNT5HL0534A4SC.html
+- 机器人“百米飞人”大战，破人类纪录；加拿大宣｜网易科技｜https://www.163.com/dy/article/L50EQI600512B07B.html
+- 安卓齐涨价让iPhone性价比激增！全球智能手机销量下滑：唯独苹果逆势增长表现亮眼｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxf7141772.shtml
+- 大湾区科技与产业的距离仅“一脚油门”——对话张书彦｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-inipfkxe0368486.shtml
+- 英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”｜网易科技｜https://www.163.com/dy/article/L506J0D205198CJN.html
+- DeepSeek调整计费规则｜网易科技｜https://www.163.com/dy/article/L4VOEM3T0512B07B.html
+- Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/
 
 今日热点方向：
-- AI 应用：AI动态（7 条，3 个来源）
-- 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（10 条，3 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：
+- AI 应用：AI 应用与智能体（1 条，1 个来源）
+- 芯片/半导体：
+- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 新能源车/智能驾驶：
+- 太空与低空经济：
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
-1. “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”｜Rest of World｜https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+1. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/
 2. Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss｜Ars Technica｜https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/
-3. OpenAI glitch locks out vetted cyber researchers – and some can't get back in｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238
-4. Meta AI launches new desktop app for Mac｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/article/meta-ai-launches-new-desktop-app-for-mac-144758563.html
-5. Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles｜TechCrunch｜https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/
+3. Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring｜CNBC Technology｜https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html
+4. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/
+5. Nvidia customers reportedly warned about AI-related price hikes｜CNBC Technology｜https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
