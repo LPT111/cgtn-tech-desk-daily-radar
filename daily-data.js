@@ -1,58 +1,47 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-23T23:02:28.537Z",
+  "generatedAt": "2026-08-23T23:30:24.438Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-24",
   "changeSummary": {
-    "domesticNew": 8,
-    "globalNew": 2,
-    "domesticContinued": 0,
-    "globalContinued": 3,
+    "domesticNew": 7,
+    "globalNew": 0,
+    "domesticContinued": 8,
+    "globalContinued": 5,
     "topNewDomestic": [
       {
-        "title": "具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml"
-      },
-      {
-        "title": "比亚迪王朝新旗舰大汉EV开启预售",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml"
-      },
-      {
-        "title": "古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/993/320.htm"
-      },
-      {
-        "title": "人形机器人运动会决出“指尖功夫之王”",
+        "title": "上纬新材消费级机器人开启预订；人形机器人超越",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L52ANM9U0534A4SC.html"
+        "url": "https://www.163.com/dy/article/L532HRVS0512B07B.html"
       },
       {
-        "title": "全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipketz0182835.shtml"
-      }
-    ],
-    "topNewGlobal": [
-      {
-        "title": "Sam Altman says he's worried about AI being controlled by a few powerful players",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html"
+        "title": "人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L532BMUL0534A4SC.html"
       },
       {
-        "title": "Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Content",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/deals/articles/twitch-amazon-hit-lawsuit-training-173926615.html"
+        "title": "机器人性能持续提升，专家：但离走进生活还有距",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L532EKCA0534A4SC.html"
+      },
+      {
+        "title": "比亚迪张卓透露海洋网 MPV 预计年底上市",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/993/328.htm"
+      },
+      {
+        "title": "英伟达部分客户据悉被告知AI相关产品会涨价超15",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L5336JF70534A4SC.html"
       }
     ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 892,
+    "domesticRejected": 885,
     "globalRejected": 895,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -67,42 +56,17 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -117,39 +81,14 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -166,7 +105,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 153,
+      "parsed": 155,
       "failed": false,
       "optional": false
     },
@@ -216,8 +155,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -244,7 +182,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "量子位",
       "tier": "industry",
-      "parsed": 35,
+      "parsed": 36,
       "failed": false,
       "optional": false
     },
@@ -265,9 +203,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -315,7 +252,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "央视新闻科技",
       "tier": "official",
-      "parsed": 2,
+      "parsed": 1,
       "failed": false,
       "optional": true
     },
@@ -331,16 +268,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -361,9 +296,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -418,18 +352,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1264,
+  "itemsSeen": 1339,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 303,
-  "itemsAfterDedupe": 238,
-  "todayItemsSeen": 8,
-  "suspectedItemsSeen": 18,
-  "skippedNonToday": 212,
+  "itemsAfterRelevantFilter": 349,
+  "itemsAfterDedupe": 267,
+  "todayItemsSeen": 15,
+  "suspectedItemsSeen": 19,
+  "skippedNonToday": 232,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 153,
+      "parsed": 155,
       "failed": false,
       "optional": false
     },
@@ -479,8 +413,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -507,7 +440,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "量子位",
       "tier": "industry",
-      "parsed": 35,
+      "parsed": 36,
       "failed": false,
       "optional": false
     },
@@ -528,9 +461,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -578,7 +510,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "央视新闻科技",
       "tier": "official",
-      "parsed": 2,
+      "parsed": 1,
       "failed": false,
       "optional": true
     },
@@ -594,16 +526,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -624,9 +554,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -835,39 +764,14 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
-    },
-    {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -905,15 +809,57 @@ window.CHENCHEN_DAILY_DATA = {
   "topics": [
     {
       "topic": "人形机器人与具身智能",
+      "count": 5,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "上纬新材消费级机器人开启预订；人形机器人超越",
+        "人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠",
+        "具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道",
+        "机器人性能持续提升，专家：但离走进生活还有距",
+        "人形机器人运动会决出“指尖功夫之王”"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
       "count": 2,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "比亚迪王朝新旗舰大汉EV开启预售",
+        "比亚迪张卓透露海洋网 MPV 预计年底上市"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
         "网易科技"
       ],
       "items": [
-        "具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道",
-        "人形机器人运动会决出“指尖功夫之王”"
+        "古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色",
+        "英伟达部分客户据悉被告知AI相关产品会涨价超15"
+      ]
+    },
+    {
+      "topic": "AI 应用与智能体",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "AI智能体能自主生成并运行量子计算代码",
+        "刚刚，Claude两个新模型曝光！"
       ]
     },
     {
@@ -929,28 +875,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "新能源车动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "比亚迪王朝新旗舰大汉EV开启预售"
-      ]
-    },
-    {
-      "topic": "芯片动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色"
-      ]
-    },
-    {
       "topic": "新能源车与智能驾驶",
       "count": 1,
       "sourceCount": 1,
@@ -962,18 +886,154 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "AI 应用与智能体",
+      "topic": "AI动态",
       "count": 1,
       "sourceCount": 1,
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
       "items": [
-        "刚刚，Claude两个新模型曝光！"
+        "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼"
       ]
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "上纬新材消费级机器人开启预订；人形机器人超越",
+      "summary": "上纬新材消费级机器人开启预订；人形机器人超越人类男子400米世界纪录｜数智早参,消费级,世界纪录,上纬新材,数智早参,智能机器人,人形机器人",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L532HRVS0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L532HRVS0512B07B.html"
+      ],
+      "publishedAt": "2026-08-24",
+      "date": "2026-08-24",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 179,
+      "reporterScore": 193,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “上纬新材消费级机器人开启预订；人形机器人超越” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "上纬新材消费级机器人开启预订；人形机器人超越人类男子400米世界纪录｜数智早参,消费级,世界纪录,上纬新材,数智早参,智能机器人,人形机器人",
+      "relatedTitles": [
+        "上纬新材消费级机器人开启预订；人形机器人超越"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠",
+      "summary": "人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠,跳远,世界纪录,人形机器人运动会",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L532BMUL0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L532BMUL0534A4SC.html"
+      ],
+      "publishedAt": "2026-08-24",
+      "date": "2026-08-24",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 179,
+      "reporterScore": 193,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠,跳远,世界纪录,人形机器人运动会",
+      "relatedTitles": [
+        "人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道",
@@ -1040,7 +1100,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1107,6 +1167,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "8月21日，2026成都国际车展盛大开幕，比亚迪王朝网旗下全新D+级旗舰轿车——大汉EV正式开启预售。新车为企业管理者、专业高知、工程师等时代实干者而来，集同级第一90.8%得房率、1008公里纯电续航、闪充技术及百万级智能底盘于一身，囊括...",
       "relatedTitles": [
         "比亚迪王朝新旗舰大汉EV开启预售"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "机器人性能持续提升，专家：但离走进生活还有距",
+      "summary": "机器人性能持续提升，专家：但离走进生活还有距离,动作,操控,性能,李晓东,双足人形机器人",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L532EKCA0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L532EKCA0534A4SC.html"
+      ],
+      "publishedAt": "2026-08-24",
+      "date": "2026-08-24",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 170,
+      "reporterScore": 176,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人性能持续提升，专家：但离走进生活还有距” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "机器人性能持续提升，专家：但离走进生活还有距离,动作,操控,性能,李晓东,双足人形机器人",
+      "relatedTitles": [
+        "机器人性能持续提升，专家：但离走进生活还有距"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "比亚迪张卓透露海洋网 MPV 预计年底上市",
+      "summary": "海洋网总经理张卓于近日专访中透露，品牌首款 MPV 车型有望年底上市。此前发布的 Ocean-V 概念车展示了其“可越野、可露营”的独特定位。该车是否会成为海洋网的新成员，备受关注。#比亚迪海洋网MPV#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/993/328.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/993/328.htm"
+      ],
+      "publishedAt": "Sun, 23 Aug 2026 23:27:04 GMT",
+      "date": "2026-08-24",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 157,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪张卓透露海洋网 MPV 预计年底上市” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "海洋网总经理张卓于近日专访中透露，品牌首款 MPV 车型有望年底上市。此前发布的 Ocean-V 概念车展示了其“可越野、可露营”的独特定位。该车是否会成为海洋网的新成员，备受关注。#比亚迪海洋网MPV#",
+      "relatedTitles": [
+        "比亚迪张卓透露海洋网 MPV 预计年底上市"
       ],
       "isNewSinceLastRun": true
     },
@@ -1176,6 +1372,142 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "英伟达部分客户据悉被告知AI相关产品会涨价超15",
+      "summary": "英伟达客户已收到AI相关产品会涨价超过15%的通知,微软,芯片,英伟达,旗舰级,知名企业,高带宽内存",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L5336JF70534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L5336JF70534A4SC.html"
+      ],
+      "publishedAt": "2026-08-24",
+      "date": "2026-08-24",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达部分客户据悉被告知AI相关产品会涨价超15” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "英伟达部分客户据悉被告知AI相关产品会涨价超15%,芯片,英伟达,服务器,旗舰级,高带宽内存",
+      "relatedTitles": [
+        "英伟达部分客户据悉被告知AI相关产品会涨价超15"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "AI智能体能自主生成并运行量子计算代码",
+      "summary": "AI智能体能自主生成并运行量子计算代码,代码,编程,人工智能,量子计算机,ai智能体,量子计算芯片",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L5333QDG05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L5333QDG05198CJN.html"
+      ],
+      "publishedAt": "2026-08-24",
+      "date": "2026-08-24",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI智能体能自主生成并运行量子计算代码” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "AI智能体能自主生成并运行量子计算代码,代码,编程,人工智能,量子计算机,ai智能体,量子计算芯片",
+      "relatedTitles": [
+        "AI智能体能自主生成并运行量子计算代码"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1244,7 +1576,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "人形机器人运动会决出“指尖功夫之王”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1311,6 +1643,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "快科技8月24日消息，上周国家市场监督管理总局对外发布最新大规模召回公告，共计427.51万辆新能源汽车将启动召回流程，其中特斯拉单家企业的召回数量就达到297.59万辆，接近本次总召回量的七成，规模之大创下国内新能源车召回史的新纪录。这次...",
       "relatedTitles": [
         "全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼",
+      "summary": "Twitch 及亚马逊因未经授权使用主播内容训练 AI，在加州被提起集体诉讼。原告指控平台违反协议，且退出机制不完善。此举引发主播社群强烈反对，要求 AI 功能变为可选项。#TwitchAI争议#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/993/326.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/993/326.htm"
+      ],
+      "publishedAt": "Sun, 23 Aug 2026 23:19:39 GMT",
+      "date": "2026-08-24",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "Twitch 及亚马逊因未经授权使用主播内容训练 AI，在加州被提起集体诉讼。原告指控平台违反协议，且退出机制不完善。此举引发主播社群强烈反对，要求 AI 功能变为可选项。#TwitchAI争议#",
+      "relatedTitles": [
+        "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼"
       ],
       "isNewSinceLastRun": true
     },
@@ -1380,7 +1780,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "刚刚，Claude两个新模型曝光！"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1448,7 +1848,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "东南亚AI：机遇时代"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1516,7 +1916,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Gartner：2026年全球数据中心电力消耗将增长26%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -1585,6 +1985,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势。量子位在会上发布了「2025人工智能年度榜单」与「2025年度AI十大趋势报告」。 大会直播回顾 MEET2025 回顾 MEET2024 回顾 MEET2023 回顾 特邀嘉宾 &times; 重磅发布 2025人工智能年度榜单 我们希望为关注前沿科技创新的人提供一个独立的第三方参照系 为在技术与产业一线摸索前行的团队加一份笃定 为仍在押注长期主义的建设者刻下年度坐标 2025年度AI十大趋势报告 报告由量子位智库打造 基于对全球AI技术发展、产业应用和社会影响的深度调研与分析 全面呈现了人工智能领域的最新现状与未来发展趋势 独家观点 张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 百",
       "relatedTitles": [
         "MEET大会"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "DeepSoma Eon用LIF“上传”果蝇脑",
+      "summary": "DeepSoma Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台 将真实场景重建为持续更新、可计算的4D数字世界。 梦晨 1分钟前 DeepSoma 热门文章 倒计时｜2026世界机器人大会主论坛议程发布！ 闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5 ",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/deepsoma",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/deepsoma"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.74,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “DeepSoma Eon用LIF“上传”果蝇脑” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "DeepSoma Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台 将真实场景重建为持续更新、可计算的4D数字世界。 梦晨 1分钟前 DeepSoma 热门文章 倒计时｜2026世界机器人大会主论坛议程发布！ 闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5 人形机器人开始打国球了！两台机器人完整打完11分制比赛 WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队 牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+      "relatedTitles": [
+        "DeepSoma Eon用LIF“上传”果蝇脑"
       ]
     },
     {
@@ -2762,70 +3229,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Sam Altman says he's worried about AI being controlled by a few powerful players",
-      "summary": "OpenAI CEO Sam Altman said that fears about AI going off the rails could lead people to trade liberty for safety.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html",
-      "publishedAt": "2026-08-24",
-      "date": "2026-08-24",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Sam Altman says he's worried about AI being controlled by a few powerful” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Content",
-      "summary": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/deals/articles/twitch-amazon-hit-lawsuit-training-173926615.html",
-      "publishedAt": "2026-08-24",
-      "date": "2026-08-24",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Conte” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI says California should strengthen its AI safety bill",
       "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
       "source": "TechCrunch",
@@ -2854,6 +3257,38 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Sam Altman says he's worried about AI being controlled by a few powerful players",
+      "summary": "OpenAI CEO Sam Altman said that fears about AI going off the rails could lead people to trade liberty for safety.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html",
+      "publishedAt": "2026-08-24",
+      "date": "2026-08-24",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Sam Altman says he's worried about AI being controlled by a few powerful” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -2887,10 +3322,42 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Content",
+      "summary": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/deals/articles/twitch-amazon-hit-lawsuit-training-173926615.html",
+      "publishedAt": "2026-08-24",
+      "date": "2026-08-24",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Conte” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-24｜V3\n生成时间：2026/8/24 07:02:28\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2482｜确认今日 8｜国际背景 5\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-24] 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道\n   新浪科技｜2026-08-24｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道” against primary-source evidence.\n\n2. [2026-08-24] 比亚迪王朝新旗舰大汉EV开启预售\n   新浪科技｜2026-08-24｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml\n   报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪王朝新旗舰大汉EV开启预售” against primary-source evidence.\n\n3. [22:40] 古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色\n   IT之家｜2026-08-24｜https://www.ithome.com/0/993/320.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色” against primary-source evidence.\n\n4. [2026-08-24] 人形机器人运动会决出“指尖功夫之王”\n   网易科技｜2026-08-24｜https://www.163.com/dy/article/L52ANM9U0534A4SC.html\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “人形机器人运动会决出“指尖功夫之王”” against primary-source evidence.\n\n5. [2026-08-24] 全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切\n   新浪科技｜2026-08-24｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipketz0182835.shtml\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切” against primary-source evidence.\n\n本次新增线索：\n- 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml\n- 比亚迪王朝新旗舰大汉EV开启预售｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml\n- 古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色｜IT之家｜https://www.ithome.com/0/993/320.htm\n- 人形机器人运动会决出“指尖功夫之王”｜网易科技｜https://www.163.com/dy/article/L52ANM9U0534A4SC.html\n- 全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipketz0182835.shtml\n- Sam Altman says he's worried about AI being controlled by a few powerful players｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\n2. Sam Altman says he's worried about AI being controlled by a few powerful players｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html\n3. Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Content｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/twitch-amazon-hit-lawsuit-training-173926615.html\n4. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\n5. Nvidia customers reportedly warned about AI-related price hikes｜CNBC Technology｜https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-24｜V3\n生成时间：2026/8/24 07:02:28\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2482｜确认今日 8｜国际背景 5\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-24] 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道\n   新浪科技｜2026-08-24｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道” against primary-source evidence.\n\n2. [2026-08-24] 比亚迪王朝新旗舰大汉EV开启预售\n   新浪科技｜2026-08-24｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml\n   报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪王朝新旗舰大汉EV开启预售” against primary-source evidence.\n\n3. [22:40] 古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色\n   IT之家｜2026-08-24｜https://www.ithome.com/0/993/320.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色” against primary-source evidence.\n\n4. [2026-08-24] 人形机器人运动会决出“指尖功夫之王”\n   网易科技｜2026-08-24｜https://www.163.com/dy/article/L52ANM9U0534A4SC.html\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “人形机器人运动会决出“指尖功夫之王”” against primary-source evidence.\n\n5. [2026-08-24] 全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切\n   新浪科技｜2026-08-24｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipketz0182835.shtml\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切” against primary-source evidence.\n\n本次新增线索：\n- 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml\n- 比亚迪王朝新旗舰大汉EV开启预售｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml\n- 古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色｜IT之家｜https://www.ithome.com/0/993/320.htm\n- 人形机器人运动会决出“指尖功夫之王”｜网易科技｜https://www.163.com/dy/article/L52ANM9U0534A4SC.html\n- 全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipketz0182835.shtml\n- Sam Altman says he's worried about AI being controlled by a few powerful players｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\n2. Sam Altman says he's worried about AI being controlled by a few powerful players｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html\n3. Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Content｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/twitch-amazon-hit-lawsuit-training-173926615.html\n4. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\n5. Nvidia customers reportedly warned about AI-related price hikes｜CNBC Technology｜https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-24｜生成时间：2026/8/24 07:02:28｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2482｜确认今日 8｜国际背景 5</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 8 条｜国际 2 条<br>延续跟踪线索：国内 0 条｜国际 3 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-24] 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道</strong>\n      <span>新浪科技｜2026-08-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-24] 比亚迪王朝新旗舰大汉EV开启预售</strong>\n      <span>新浪科技｜2026-08-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪王朝新旗舰大汉EV开启预售” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [22:40] 古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色</strong>\n      <span>IT之家｜2026-08-24｜<a href=\"https://www.ithome.com/0/993/320.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：179｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-24] 人形机器人运动会决出“指尖功夫之王”</strong>\n      <span>网易科技｜2026-08-24｜<a href=\"https://www.163.com/dy/article/L52ANM9U0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “人形机器人运动会决出“指尖功夫之王”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-24] 全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切</strong>\n      <span>新浪科技｜2026-08-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipketz0182835.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：173｜需核验来源</span>\n      <p>报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese regulators tell Tesla to fix nearly 3 million cars</strong>\n      <span>时间：Fri, 21 Aug 2026 18:07:15 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Chinese regulators tell Tesla to fix nearly 3 million cars” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Sam Altman says he's worried about AI being controlled by a few powerful players</strong>\n      <span>时间：2026-08-24｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Sam Altman says he's worried about AI being controlled by a few powerful” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Content</strong>\n      <span>时间：2026-08-24｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/deals/articles/twitch-amazon-hit-lawsuit-training-173926615.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Conte” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI says California should strengthen its AI safety bill</strong>\n      <span>时间：Sat, 22 Aug 2026 16:30:34 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI says California should strengthen its AI safety bill” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Nvidia customers reportedly warned about AI-related price hikes</strong>\n      <span>时间：Sat, 22 Aug 2026 20:26:44 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Nvidia customers reportedly warned about AI-related price hikes” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/24 07:02:28\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-24] 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道” against primary-source evidence.\n\n2. [2026-08-24] 比亚迪王朝新旗舰大汉EV开启预售\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml\n   角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪王朝新旗舰大汉EV开启预售” against primary-source evidence.\n\n3. [22:40] 古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色\n   来源：IT之家\n   链接：https://www.ithome.com/0/993/320.htm\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色” against primary-source evidence.\n\n4. [2026-08-24] 人形机器人运动会决出“指尖功夫之王”\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L52ANM9U0534A4SC.html\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “人形机器人运动会决出“指尖功夫之王”” against primary-source evidence.\n\n5. [2026-08-24] 全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipketz0182835.shtml\n   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切” against primary-source evidence.\n\n本次新增线索：\n- 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml\n- 比亚迪王朝新旗舰大汉EV开启预售｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml\n- 古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色｜IT之家｜https://www.ithome.com/0/993/320.htm\n- 人形机器人运动会决出“指尖功夫之王”｜网易科技｜https://www.163.com/dy/article/L52ANM9U0534A4SC.html\n- 全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipketz0182835.shtml\n- Sam Altman says he's worried about AI being controlled by a few powerful players｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\n2. Sam Altman says he's worried about AI being controlled by a few powerful players｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html\n3. Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Content｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/twitch-amazon-hit-lawsuit-training-173926615.html\n4. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\n5. Nvidia customers reportedly warned about AI-related price hikes｜CNBC Technology｜https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-24｜V3\n生成时间：2026/8/24 07:30:24\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2557｜确认今日 15｜国际背景 5\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-24] 上纬新材消费级机器人开启预订；人形机器人超越\n   网易科技｜2026-08-24｜https://www.163.com/dy/article/L532HRVS0512B07B.html\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “上纬新材消费级机器人开启预订；人形机器人超越” against primary-source evidence.\n\n2. [2026-08-24] 人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠\n   网易科技｜2026-08-24｜https://www.163.com/dy/article/L532BMUL0534A4SC.html\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠” against primary-source evidence.\n\n3. [2026-08-24] 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道\n   新浪科技｜2026-08-24｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道” against primary-source evidence.\n\n4. [2026-08-24] 比亚迪王朝新旗舰大汉EV开启预售\n   新浪科技｜2026-08-24｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml\n   报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪王朝新旗舰大汉EV开启预售” against primary-source evidence.\n\n5. [2026-08-24] 机器人性能持续提升，专家：但离走进生活还有距\n   网易科技｜2026-08-24｜https://www.163.com/dy/article/L532EKCA0534A4SC.html\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人性能持续提升，专家：但离走进生活还有距” against primary-source evidence.\n\n本次新增线索：\n- 上纬新材消费级机器人开启预订；人形机器人超越｜网易科技｜https://www.163.com/dy/article/L532HRVS0512B07B.html\n- 人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠｜网易科技｜https://www.163.com/dy/article/L532BMUL0534A4SC.html\n- 机器人性能持续提升，专家：但离走进生活还有距｜网易科技｜https://www.163.com/dy/article/L532EKCA0534A4SC.html\n- 比亚迪张卓透露海洋网 MPV 预计年底上市｜IT之家｜https://www.ithome.com/0/993/328.htm\n- 英伟达部分客户据悉被告知AI相关产品会涨价超15｜网易科技｜https://www.163.com/dy/article/L5336JF70534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\n2. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\n3. Sam Altman says he's worried about AI being controlled by a few powerful players｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html\n4. Nvidia customers reportedly warned about AI-related price hikes｜CNBC Technology｜https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html\n5. Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Content｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/twitch-amazon-hit-lawsuit-training-173926615.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-24｜V3\n生成时间：2026/8/24 07:30:24\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2557｜确认今日 15｜国际背景 5\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-24] 上纬新材消费级机器人开启预订；人形机器人超越\n   网易科技｜2026-08-24｜https://www.163.com/dy/article/L532HRVS0512B07B.html\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “上纬新材消费级机器人开启预订；人形机器人超越” against primary-source evidence.\n\n2. [2026-08-24] 人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠\n   网易科技｜2026-08-24｜https://www.163.com/dy/article/L532BMUL0534A4SC.html\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠” against primary-source evidence.\n\n3. [2026-08-24] 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道\n   新浪科技｜2026-08-24｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道” against primary-source evidence.\n\n4. [2026-08-24] 比亚迪王朝新旗舰大汉EV开启预售\n   新浪科技｜2026-08-24｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml\n   报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪王朝新旗舰大汉EV开启预售” against primary-source evidence.\n\n5. [2026-08-24] 机器人性能持续提升，专家：但离走进生活还有距\n   网易科技｜2026-08-24｜https://www.163.com/dy/article/L532EKCA0534A4SC.html\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人性能持续提升，专家：但离走进生活还有距” against primary-source evidence.\n\n本次新增线索：\n- 上纬新材消费级机器人开启预订；人形机器人超越｜网易科技｜https://www.163.com/dy/article/L532HRVS0512B07B.html\n- 人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠｜网易科技｜https://www.163.com/dy/article/L532BMUL0534A4SC.html\n- 机器人性能持续提升，专家：但离走进生活还有距｜网易科技｜https://www.163.com/dy/article/L532EKCA0534A4SC.html\n- 比亚迪张卓透露海洋网 MPV 预计年底上市｜IT之家｜https://www.ithome.com/0/993/328.htm\n- 英伟达部分客户据悉被告知AI相关产品会涨价超15｜网易科技｜https://www.163.com/dy/article/L5336JF70534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\n2. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\n3. Sam Altman says he's worried about AI being controlled by a few powerful players｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html\n4. Nvidia customers reportedly warned about AI-related price hikes｜CNBC Technology｜https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html\n5. Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Content｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/twitch-amazon-hit-lawsuit-training-173926615.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-24｜生成时间：2026/8/24 07:30:24｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2557｜确认今日 15｜国际背景 5</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 7 条｜国际 0 条<br>延续跟踪线索：国内 8 条｜国际 5 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-24] 上纬新材消费级机器人开启预订；人形机器人超越</strong>\n      <span>网易科技｜2026-08-24｜<a href=\"https://www.163.com/dy/article/L532HRVS0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “上纬新材消费级机器人开启预订；人形机器人超越” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-24] 人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠</strong>\n      <span>网易科技｜2026-08-24｜<a href=\"https://www.163.com/dy/article/L532BMUL0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-24] 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道</strong>\n      <span>新浪科技｜2026-08-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-24] 比亚迪王朝新旗舰大汉EV开启预售</strong>\n      <span>新浪科技｜2026-08-24｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪王朝新旗舰大汉EV开启预售” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-24] 机器人性能持续提升，专家：但离走进生活还有距</strong>\n      <span>网易科技｜2026-08-24｜<a href=\"https://www.163.com/dy/article/L532EKCA0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人性能持续提升，专家：但离走进生活还有距” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese regulators tell Tesla to fix nearly 3 million cars</strong>\n      <span>时间：Fri, 21 Aug 2026 18:07:15 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Chinese regulators tell Tesla to fix nearly 3 million cars” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI says California should strengthen its AI safety bill</strong>\n      <span>时间：Sat, 22 Aug 2026 16:30:34 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI says California should strengthen its AI safety bill” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Sam Altman says he's worried about AI being controlled by a few powerful players</strong>\n      <span>时间：2026-08-24｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Sam Altman says he's worried about AI being controlled by a few powerful” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Nvidia customers reportedly warned about AI-related price hikes</strong>\n      <span>时间：Sat, 22 Aug 2026 20:26:44 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Nvidia customers reportedly warned about AI-related price hikes” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Content</strong>\n      <span>时间：2026-08-24｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/deals/articles/twitch-amazon-hit-lawsuit-training-173926615.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Conte” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/24 07:30:24\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 5 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-24] 上纬新材消费级机器人开启预订；人形机器人超越\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L532HRVS0512B07B.html\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “上纬新材消费级机器人开启预订；人形机器人超越” against primary-source evidence.\n\n2. [2026-08-24] 人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L532BMUL0534A4SC.html\n   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠” against primary-source evidence.\n\n3. [2026-08-24] 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道” against primary-source evidence.\n\n4. [2026-08-24] 比亚迪王朝新旗舰大汉EV开启预售\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml\n   角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪王朝新旗舰大汉EV开启预售” against primary-source evidence.\n\n5. [2026-08-24] 机器人性能持续提升，专家：但离走进生活还有距\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L532EKCA0534A4SC.html\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人性能持续提升，专家：但离走进生活还有距” against primary-source evidence.\n\n本次新增线索：\n- 上纬新材消费级机器人开启预订；人形机器人超越｜网易科技｜https://www.163.com/dy/article/L532HRVS0512B07B.html\n- 人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠｜网易科技｜https://www.163.com/dy/article/L532BMUL0534A4SC.html\n- 机器人性能持续提升，专家：但离走进生活还有距｜网易科技｜https://www.163.com/dy/article/L532EKCA0534A4SC.html\n- 比亚迪张卓透露海洋网 MPV 预计年底上市｜IT之家｜https://www.ithome.com/0/993/328.htm\n- 英伟达部分客户据悉被告知AI相关产品会涨价超15｜网易科技｜https://www.163.com/dy/article/L5336JF70534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/\n2. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\n3. Sam Altman says he's worried about AI being controlled by a few powerful players｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html\n4. Nvidia customers reportedly warned about AI-related price hikes｜CNBC Technology｜https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html\n5. Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Content｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/twitch-amazon-hit-lawsuit-training-173926615.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
