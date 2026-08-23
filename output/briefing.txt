@@ -1,47 +1,44 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/23 14:41:40
+生成时间：2026/8/23 15:03:49
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 0 条
-延续跟踪线索：国内 44 条｜国际 14 条
+新增核心线索：国内 2 条｜国际 0 条
+延续跟踪线索：国内 49 条｜国际 14 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-23] 世界人形机器人运动会400米大型组田径决赛：天工队以38.15秒位列第一
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/2026-08-23/doc-iniphssu2539818.shtml
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “世界人形机器人运动会400米大型组田径决赛：天工队以38.15秒位列第一” against primary-source evidence.
+1. [2026-08-23] 具身智能落地冷思考：中试为何成了
+   来源：光明网-科技
+   链接：https://tech.gmw.cn/2026-08/23/content_38958360.htm
+   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身智能落地冷思考：中试为何成了” against primary-source evidence.
 
-2. [2026-08-23] 世界人形机器人运动会开幕：机器人现在能跑多快
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L50UUSMQ0534A4SC.html
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “世界人形机器人运动会开幕：机器人现在能跑多快” against primary-source evidence.
-
-3. [2026-08-23] 机器人要开始“自己拿主意”了
+2. [2026-08-23] 机器人要开始“自己拿主意”了
    来源：人民网-科技
    链接：http://finance.people.com.cn/n1/2026/0823/c1004-40784415.html
    角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “机器人要开始“自己拿主意”了” against primary-source evidence.
 
-4. [2026-08-23] 70亿美元买100多名人才 NVIDIA要搞全球最强开源模型：抢中国AI市场
+3. [2026-08-23] 70亿美元买100多名人才 NVIDIA要搞全球最强开源模型：抢中国AI市场
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-08-23/doc-iniphssy3685328.shtml
    角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “70亿美元买100多名人才 NVIDIA要搞全球最强开源模型：抢中国AI市场” against primary-source evidence.
 
-5. [2026-08-23] 加速跑 世界人形机器人运动会启幕
+4. [2026-08-23] 加速跑 世界人形机器人运动会启幕
    来源：科技日报
    链接：https://www.stdaily.com/web/gdxw/2026-08/23/content_568252.html
    角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “加速跑 世界人形机器人运动会启幕” against primary-source evidence.
 
+5. [2026-08-23] 人形机器人离工业应用还有多远
+   来源：人民网-科技
+   链接：http://finance.people.com.cn/n1/2026/0823/c1004-40784434.html
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “人形机器人离工业应用还有多远” against primary-source evidence.
+
 本次新增线索：
-- 世界人形机器人运动会400米大型组田径决赛：天工队以38.15秒位列第一｜新浪科技｜https://finance.sina.com.cn/tech/2026-08-23/doc-iniphssu2539818.shtml
-- 世界人形机器人运动会开幕：机器人现在能跑多快｜网易科技｜https://www.163.com/dy/article/L50UUSMQ0534A4SC.html
-- 小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员｜IT之家｜https://www.ithome.com/0/993/181.htm
-- 算力成本再抬升！英伟达被曝通知客户：AI芯片普遍涨价超15%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-23/doc-iniphssw6935421.shtml
-- 朱雀归巢：实现我国首次火箭陆地回收后，蓝箭航天朱雀三号一子级装车返程｜IT之家｜https://www.ithome.com/0/993/171.htm
+- 具身智能落地冷思考：中试为何成了｜光明网-科技｜https://tech.gmw.cn/2026-08/23/content_38958360.htm
+- 机器人进家庭：速度慢、噪音大！自变量机器人合伙人甘如饴：用户不会按脚本生活｜网易科技｜https://www.163.com/dy/article/L51A23L00512B07B.html
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（7 条，3 个来源）
