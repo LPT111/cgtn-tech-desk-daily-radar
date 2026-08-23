@@ -3,54 +3,50 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/24 07:30:24
+生成时间：2026/8/24 07:39:35
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 0 条
-延续跟踪线索：国内 8 条｜国际 5 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 15 条｜国际 5 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-24] 上纬新材消费级机器人开启预订；人形机器人超越
+1. [2026-08-24] 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道” against primary-source evidence.
+
+2. [2026-08-24] 上纬新材消费级机器人开启预订；人形机器人超越
    来源：网易科技
    链接：https://www.163.com/dy/article/L532HRVS0512B07B.html
    角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “上纬新材消费级机器人开启预订；人形机器人超越” against primary-source evidence.
 
-2. [2026-08-24] 人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠
+3. [2026-08-24] 人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠
    来源：网易科技
    链接：https://www.163.com/dy/article/L532BMUL0534A4SC.html
    角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠” against primary-source evidence.
-
-3. [2026-08-24] 具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0269724.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身机器人告别“秀场时代” “南粤具匠”实干闯出新赛道” against primary-source evidence.
 
 4. [2026-08-24] 比亚迪王朝新旗舰大汉EV开启预售
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipiuef0290370.shtml
    角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪王朝新旗舰大汉EV开启预售” against primary-source evidence.
 
-5. [2026-08-24] 机器人性能持续提升，专家：但离走进生活还有距
+5. [2026-08-24] 新一代通信网建设提速，空天地海全域发力；特朗
    来源：网易科技
-   链接：https://www.163.com/dy/article/L532EKCA0534A4SC.html
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人性能持续提升，专家：但离走进生活还有距” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L533PL2G0512B07B.html
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “新一代通信网建设提速，空天地海全域发力；特朗” against primary-source evidence.
 
 本次新增线索：
-- 上纬新材消费级机器人开启预订；人形机器人超越｜网易科技｜https://www.163.com/dy/article/L532HRVS0512B07B.html
-- 人形机器人运动会跳远冠军出炉 天骄队跳出7.97米夺冠｜网易科技｜https://www.163.com/dy/article/L532BMUL0534A4SC.html
-- 机器人性能持续提升，专家：但离走进生活还有距｜网易科技｜https://www.163.com/dy/article/L532EKCA0534A4SC.html
-- 比亚迪张卓透露海洋网 MPV 预计年底上市｜IT之家｜https://www.ithome.com/0/993/328.htm
-- 英伟达部分客户据悉被告知AI相关产品会涨价超15｜网易科技｜https://www.163.com/dy/article/L5336JF70534A4SC.html
+- 新一代通信网建设提速，空天地海全域发力；特朗｜网易科技｜https://www.163.com/dy/article/L533PL2G0512B07B.html
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（2 条，2 个来源）
 - 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）
 - 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）
 - 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）
-- 太空与低空经济：
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：
 
 国际科技背景：
