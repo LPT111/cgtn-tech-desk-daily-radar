@@ -1,56 +1,55 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/25 07:10:21
+生成时间：2026/8/25 07:30:26
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 13 条｜国际 8 条
-延续跟踪线索：国内 0 条｜国际 0 条
+新增核心线索：国内 7 条｜国际 0 条
+延续跟踪线索：国内 10 条｜国际 8 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-25] 师生都在使用AI，“同责”的边界何在
+1. [2026-08-25] 美国阿拉巴马州向 OpenAI 发出传票，就其模型入侵 Hugging Face 事件展开调查
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-25/doc-inipnpza5660972.shtml
+   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国阿拉巴马州向 OpenAI 发出传票，就其模型入侵 Hugging Face 事件展开调查” against primary-source evidence.
+
+2. [2026-08-25] 师生都在使用AI，“同责”的边界何在
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipnpyy1666935.shtml
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “师生都在使用AI，“同责”的边界何在” against primary-source evidence.
 
-2. [2026-08-25] 牛津经济研究院：2021-2027年美国商业投资增长40%，增速为欧洲三倍以上
+3. [2026-08-25] 牛津经济研究院：2021-2027年美国商业投资增长40%，增速为欧洲三倍以上
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipncma9865067.shtml
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “牛津经济研究院：2021-2027年美国商业投资增长40%，增速为欧洲三倍以上” against primary-source evidence.
-
-3. [2026-08-25] Gartner：2026年全球半导体收入将达1.6万亿美元，同比增长92%
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipncmh5842899.shtml
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Gartner：2026年全球半导体收入将达1.6万亿美元，同比增长92%” against primary-source evidence.
 
 4. [2026-08-25] 英伟达高管称Groq机架已全面量产 AI推理“低延迟”大战升温
    来源：网易科技
    链接：https://www.163.com/dy/article/L551A69P05198CJN.html
    角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达高管称Groq机架已全面量产 AI推理“低延迟”大战升温” against primary-source evidence.
 
-5. [2026-08-25] 世界机器人大会成全球观察中国“机”遇窗口
+5. [2026-08-25] 财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipnpza5649371.shtml
-   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “世界机器人大会成全球观察中国“机”遇窗口” against primary-source evidence.
+   链接：https://finance.sina.com.cn/world/2026-08-25/doc-inipnisy9820185.shtml
+   角度：Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份” against primary-source evidence.
 
 本次新增线索：
-- 师生都在使用AI，“同责”的边界何在｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipnpyy1666935.shtml
-- 牛津经济研究院：2021-2027年美国商业投资增长40%，增速为欧洲三倍以上｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipncma9865067.shtml
-- Gartner：2026年全球半导体收入将达1.6万亿美元，同比增长92%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipncmh5842899.shtml
-- 英伟达高管称Groq机架已全面量产 AI推理“低延迟”大战升温｜网易科技｜https://www.163.com/dy/article/L551A69P05198CJN.html
-- 世界机器人大会成全球观察中国“机”遇窗口｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipnpza5649371.shtml
-- Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs｜AP Technology｜https://apnews.com/article/china-ai-jobs-unemployment-youth-a44bfac3488adba00d641a3ce0fab702
+- 美国阿拉巴马州向 OpenAI 发出传票，就其模型入侵 Hugging Face 事件展开调查｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-25/doc-inipnpza5660972.shtml
+- 小米汽车：澎程N90 Max智能电动门可防开门杀 先预警后避障｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-25/doc-inipnpza5663777.shtml
+- 马斯克证实：SpaceX 将在星舰稳定运营后逐步退役猎鹰 9 火箭｜IT之家｜https://www.ithome.com/0/993/786.htm
+- 可重构光学算术逻辑单元芯片研制成功｜网易科技｜https://www.163.com/dy/article/L55LT58D05198CJN.html
+- 研究团队调查发现超七成英语生物医学论文已使用 AI 辅助写作，呼吁业界建立完善监管机制｜IT之家｜https://www.ithome.com/0/993/781.htm
 
 今日热点方向：
-- AI 应用：AI动态（4 条，3 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- AI 应用：AI动态（5 条，2 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
 - 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）
+- 太空与低空经济：太空与低空动态（2 条，2 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
 1. Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs｜AP Technology｜https://apnews.com/article/china-ai-jobs-unemployment-youth-a44bfac3488adba00d641a3ce0fab702
