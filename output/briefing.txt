@@ -1,14 +1,14 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/25 07:30:26
+生成时间：2026/8/25 07:40:43
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 0 条
-延续跟踪线索：国内 10 条｜国际 8 条
-本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
+新增核心线索：国内 0 条｜国际 0 条
+延续跟踪线索：国内 17 条｜国际 8 条
+本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
 1. [2026-08-25] 美国阿拉巴马州向 OpenAI 发出传票，就其模型入侵 Hugging Face 事件展开调查
@@ -37,11 +37,7 @@ ChenChen 今日 Briefing｜V3
    角度：Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份” against primary-source evidence.
 
 本次新增线索：
-- 美国阿拉巴马州向 OpenAI 发出传票，就其模型入侵 Hugging Face 事件展开调查｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-25/doc-inipnpza5660972.shtml
-- 小米汽车：澎程N90 Max智能电动门可防开门杀 先预警后避障｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-25/doc-inipnpza5663777.shtml
-- 马斯克证实：SpaceX 将在星舰稳定运营后逐步退役猎鹰 9 火箭｜IT之家｜https://www.ithome.com/0/993/786.htm
-- 可重构光学算术逻辑单元芯片研制成功｜网易科技｜https://www.163.com/dy/article/L55LT58D05198CJN.html
-- 研究团队调查发现超七成英语生物医学论文已使用 AI 辅助写作，呼吁业界建立完善监管机制｜IT之家｜https://www.ithome.com/0/993/781.htm
+- 暂无新增核心线索。
 
 今日热点方向：
 - AI 应用：AI动态（5 条，2 个来源）
