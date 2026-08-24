@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/24 15:30:48
+生成时间：2026/8/25 07:10:21
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 15 条｜国际 0 条
-延续跟踪线索：国内 55 条｜国际 5 条
+新增核心线索：国内 13 条｜国际 8 条
+延续跟踪线索：国内 0 条｜国际 0 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-24] 启元机器人全国十城开启预订，覆盖北京、上海、广州、深圳
+1. [2026-08-25] 师生都在使用AI，“同责”的边界何在
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-08-24/doc-inipkvru2003961.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “启元机器人全国十城开启预订，覆盖北京、上海、广州、深圳” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipnpyy1666935.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “师生都在使用AI，“同责”的边界何在” against primary-source evidence.
 
-2. [2026-08-24] 自变量具身智能机器人落地家庭及物流场景，对标
+2. [2026-08-25] 牛津经济研究院：2021-2027年美国商业投资增长40%，增速为欧洲三倍以上
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipncma9865067.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “牛津经济研究院：2021-2027年美国商业投资增长40%，增速为欧洲三倍以上” against primary-source evidence.
+
+3. [2026-08-25] Gartner：2026年全球半导体收入将达1.6万亿美元，同比增长92%
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipncmh5842899.shtml
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Gartner：2026年全球半导体收入将达1.6万亿美元，同比增长92%” against primary-source evidence.
+
+4. [2026-08-25] 英伟达高管称Groq机架已全面量产 AI推理“低延迟”大战升温
    来源：网易科技
-   链接：https://www.163.com/dy/article/L53U1C700512B07B.html
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “自变量具身智能机器人落地家庭及物流场景，对标” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L551A69P05198CJN.html
+   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达高管称Groq机架已全面量产 AI推理“低延迟”大战升温” against primary-source evidence.
 
-3. [2026-08-24] 小米 AI Cube 工程版迷你主机官宣：玄戒 O3+O100+D100 三芯阵容，150W 持续性能释放
+5. [2026-08-25] 世界机器人大会成全球观察中国“机”遇窗口
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-24/doc-inipkzxw2894045.shtml
-   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “小米 AI Cube 工程版迷你主机官宣：玄戒 O3+O100+D100 三芯阵容，150W 持续性能释放” against primary-source evidence.
-
-4. [2026-08-24] 全球再次聚焦“双奥之城”，北京缘何为机器人办运动会？
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipkvrt0049734.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “全球再次聚焦“双奥之城”，北京缘何为机器人办运动会？” against primary-source evidence.
-
-5. [2026-08-24] 时空道宇商用试验许可获批：马斯克担心的事，发生了
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipkzxu6114586.shtml
-   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “时空道宇商用试验许可获批：马斯克担心的事，发生了” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipnpza5649371.shtml
+   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “世界机器人大会成全球观察中国“机”遇窗口” against primary-source evidence.
 
 本次新增线索：
-- 启元机器人全国十城开启预订，覆盖北京、上海、广州、深圳｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-08-24/doc-inipkvru2003961.shtml
-- 自变量具身智能机器人落地家庭及物流场景，对标｜网易科技｜https://www.163.com/dy/article/L53U1C700512B07B.html
-- 小米 AI Cube 工程版迷你主机官宣：玄戒 O3+O100+D100 三芯阵容，150W 持续性能释放｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-24/doc-inipkzxw2894045.shtml
-- 全球再次聚焦“双奥之城”，北京缘何为机器人办运动会？｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipkvrt0049734.shtml
-- 时空道宇商用试验许可获批：马斯克担心的事，发生了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-24/doc-inipkzxu6114586.shtml
+- 师生都在使用AI，“同责”的边界何在｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipnpyy1666935.shtml
+- 牛津经济研究院：2021-2027年美国商业投资增长40%，增速为欧洲三倍以上｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipncma9865067.shtml
+- Gartner：2026年全球半导体收入将达1.6万亿美元，同比增长92%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipncmh5842899.shtml
+- 英伟达高管称Groq机架已全面量产 AI推理“低延迟”大战升温｜网易科技｜https://www.163.com/dy/article/L551A69P05198CJN.html
+- 世界机器人大会成全球观察中国“机”遇窗口｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipnpza5649371.shtml
+- Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs｜AP Technology｜https://apnews.com/article/china-ai-jobs-unemployment-youth-a44bfac3488adba00d641a3ce0fab702
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（15 条，5 个来源）
-- 芯片/半导体：半导体供应链（4 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（7 条，5 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
+- AI 应用：AI动态（4 条，3 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Chinese regulators tell Tesla to fix nearly 3 million cars｜Ars Technica｜https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/
-2. OpenAI says California should strengthen its AI safety bill｜TechCrunch｜https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/
-3. Sam Altman says he's worried about AI being controlled by a few powerful players｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/sam-altman-says-hes-worried-213835649.html
-4. Nvidia customers reportedly warned about AI-related price hikes｜CNBC Technology｜https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html
-5. Twitch And Amazon Hit With Lawsuit For Training AI With Streamers' Content｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/twitch-amazon-hit-lawsuit-training-173926615.html
+1. Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs｜AP Technology｜https://apnews.com/article/china-ai-jobs-unemployment-youth-a44bfac3488adba00d641a3ce0fab702
+2. Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China｜Ars Technica｜https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/
+3. Alabama launches investigation into OpenAI’s hack of Hugging Face｜TechCrunch｜https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/
+4. OpenAI is building AI agents for everything. Will everyone use them?｜TechCrunch｜https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/
+5. Tesla to recall almost three million vehicles over hidden door handles｜The Register｜https://www.theregister.com/offbeat/2026/08/24/tesla-to-recall-almost-three-million-vehicles-over-hidden-door-handles/5291757
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
