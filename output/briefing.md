@@ -3,50 +3,55 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/25 07:40:43
+生成时间：2026/8/25 14:03:45
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 0 条｜国际 0 条
-延续跟踪线索：国内 17 条｜国际 8 条
-本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
+新增核心线索：国内 68 条｜国际 1 条
+延续跟踪线索：国内 1 条｜国际 8 条
+本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-25] 美国阿拉巴马州向 OpenAI 发出传票，就其模型入侵 Hugging Face 事件展开调查
+1. [2026-08-25] 马斯克社交媒体转发！中国人形机器人运动会，全球刷屏
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-25/doc-inipnpza5660972.shtml
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国阿拉巴马州向 OpenAI 发出传票，就其模型入侵 Hugging Face 事件展开调查” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-08-25/doc-inipnpze2420577.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “马斯克社交媒体转发！中国人形机器人运动会，全球刷屏” against primary-source evidence.
 
-2. [2026-08-25] 师生都在使用AI，“同责”的边界何在
+2. [2026-08-25] 人形机器人运动会，投资人在看什么？
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipnpyy1666935.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “师生都在使用AI，“同责”的边界何在” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipnyqw5605752.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “人形机器人运动会，投资人在看什么？” against primary-source evidence.
 
-3. [2026-08-25] 牛津经济研究院：2021-2027年美国商业投资增长40%，增速为欧洲三倍以上
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipncma9865067.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “牛津经济研究院：2021-2027年美国商业投资增长40%，增速为欧洲三倍以上” against primary-source evidence.
+3. [2026-08-25] 世界舞台激荡创新的回响-"周长久认为
+   来源：新华网-科技
+   链接：http://www.news.cn/tech/20260825/80c2eff0534e49bfa2ff19ab7603fd93/c.html
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “世界舞台激荡创新的回响-"周长久认为” against primary-source evidence.
 
-4. [2026-08-25] 英伟达高管称Groq机架已全面量产 AI推理“低延迟”大战升温
+4. [2026-08-25] AI与机器人盘前速递丨中国大模型周调用量稳居全球首位
    来源：网易科技
-   链接：https://www.163.com/dy/article/L551A69P05198CJN.html
-   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达高管称Groq机架已全面量产 AI推理“低延迟”大战升温” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L55QLDNF0512B07B.html
+   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI与机器人盘前速递丨中国大模型周调用量稳居全球首位” against primary-source evidence.
 
-5. [2026-08-25] 财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份
+5. [2026-08-25] 机器人运动会2.0，赛出了哪些新亮点？
    来源：新浪科技
-   链接：https://finance.sina.com.cn/world/2026-08-25/doc-inipnisy9820185.shtml
-   角度：Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-08-25/doc-inipnpza5665557.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “机器人运动会2.0，赛出了哪些新亮点？” against primary-source evidence.
 
 本次新增线索：
-- 暂无新增核心线索。
+- 马斯克社交媒体转发！中国人形机器人运动会，全球刷屏｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-25/doc-inipnpze2420577.shtml
+- 人形机器人运动会，投资人在看什么？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inipnyqw5605752.shtml
+- 世界舞台激荡创新的回响-"周长久认为｜新华网-科技｜http://www.news.cn/tech/20260825/80c2eff0534e49bfa2ff19ab7603fd93/c.html
+- AI与机器人盘前速递丨中国大模型周调用量稳居全球首位｜网易科技｜https://www.163.com/dy/article/L55QLDNF0512B07B.html
+- 机器人运动会2.0，赛出了哪些新亮点？｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-25/doc-inipnpza5665557.shtml
+- One Agent Benchmark Puts Nvidia 5x Ahead Of AMD On Cost｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/one-agent-benchmark-puts-nvidia-034513080.html
 
 今日热点方向：
-- AI 应用：AI动态（5 条，2 个来源）
-- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
+- AI 应用：AI动态（15 条，5 个来源）
+- 芯片/半导体：半导体供应链（3 条，2 个来源）
+- 机器人/具身智能：机器人动态（7 条，4 个来源）
+- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
+- 太空与低空经济：商业航天与卫星互联网（4 条，3 个来源）
 - 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
