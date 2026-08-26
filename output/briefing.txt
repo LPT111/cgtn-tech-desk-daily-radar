@@ -1,61 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/26 07:42:41
+生成时间：2026/8/26 14:05:43
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 0 条
-延续跟踪线索：国内 23 条｜国际 16 条
+新增核心线索：国内 50 条｜国际 6 条
+延续跟踪线索：国内 1 条｜国际 14 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-26] 斥资 1000 亿美元，SpaceX 拟于路易斯安那建造全球最大火箭发射基地
+1. [2026-08-26] 优必选高管谈人形机器人卡位战：“绝对不能落后”
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-26/doc-inipqxfy5375737.shtml
-   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “斥资 1000 亿美元，SpaceX 拟于路易斯安那建造全球最大火箭发射基地” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-08-26/doc-iniprivw2235107.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “优必选高管谈人形机器人卡位战：“绝对不能落后”” against primary-source evidence.
 
-2. [2026-08-26] NVIDIA 发布机器人计算机 Jetson Orin Nano 2，带来双倍算力或四成节能
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-26/doc-inipqxha2148256.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “NVIDIA 发布机器人计算机 Jetson Orin Nano 2，带来双倍算力或四成节能” against primary-source evidence.
+2. [2026-08-26] 世界人形机器人运动会：两千多台机器人挤在一个馆里会不会打起来？
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-08/26/content_569993.html
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “世界人形机器人运动会：两千多台机器人挤在一个馆里会不会打起来？” against primary-source evidence.
 
-3. [2026-08-26] 王兴兴：具身智能“ChatGPT时刻”最快两三年到来
+3. [2026-08-26] 连发三款自研芯片！小米阔折叠首发搭载玄戒O3，要与苹果“正面交锋”？
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-26/doc-inipqsye2243277.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “王兴兴：具身智能“ChatGPT时刻”最快两三年到来” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipqxhc6335516.shtml
+   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “连发三款自研芯片！小米阔折叠首发搭载玄戒O3，要与苹果“正面交锋”？” against primary-source evidence.
 
-4. [2026-08-26] 超越人眼！机器人有了“超级仿生眼”
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-26/doc-inipqsxy1254467.shtml
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “超越人眼！机器人有了“超级仿生眼”” against primary-source evidence.
+4. [2026-08-26] “十五五”时期我国将加快培育“人工智能+”“机器人+”等重大应用场景
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L58IN2K10534A4SC.html
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““十五五”时期我国将加快培育“人工智能+”“机器人+”等重大应用场景” against primary-source evidence.
 
-5. [2026-08-26] 汇顶科技推出新一代中大尺寸触控芯片：面向高端平板、折叠手机
+5. [2026-08-26] 2026，人形机器人的“新纪录”之年
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-08-26/doc-inipqxhc6290137.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “汇顶科技推出新一代中大尺寸触控芯片：面向高端平板、折叠手机” against primary-source evidence.
+   链接：https://finance.sina.com.cn/roll/2026-08-26/doc-inipqsyf6416895.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “2026，人形机器人的“新纪录”之年” against primary-source evidence.
 
 本次新增线索：
-- 斥资 1000 亿美元，SpaceX 拟于路易斯安那建造全球最大火箭发射基地｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-26/doc-inipqxfy5375737.shtml
-- NVIDIA 发布机器人计算机 Jetson Orin Nano 2，带来双倍算力或四成节能｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-26/doc-inipqxha2148256.shtml
-- 一颗找异常，一颗下诊断：“木铎一号”即时遥感科学实验卫星星座入轨｜科技日报｜https://www.stdaily.com/web/2026-08/26/content_569748.html
-- 崔东树：未来或出现两种车险！车主买非激活状态险 车企买自动驾驶产品责任险｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-26/doc-inipqxha2143114.shtml
+- 优必选高管谈人形机器人卡位战：“绝对不能落后”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-26/doc-iniprivw2235107.shtml
+- 世界人形机器人运动会：两千多台机器人挤在一个馆里会不会打起来？｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/26/content_569993.html
+- 连发三款自研芯片！小米阔折叠首发搭载玄戒O3，要与苹果“正面交锋”？｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipqxhc6335516.shtml
+- “十五五”时期我国将加快培育“人工智能+”“机器人+”等重大应用场景｜网易科技｜https://www.163.com/dy/article/L58IN2K10534A4SC.html
+- 2026，人形机器人的“新纪录”之年｜新浪科技｜https://finance.sina.com.cn/roll/2026-08-26/doc-inipqsyf6416895.shtml
+- Now Perplexity is trying to get into the local AI action｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（5 条，4 个来源）
-- 芯片/半导体：
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（4 条，2 个来源）
+- AI 应用：AI 应用与智能体（7 条，4 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（6 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（6 条，3 个来源）
+- 太空与低空经济：太空与低空动态（4 条，3 个来源）
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
-1. SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana｜TechCrunch｜https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/
-2. OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show｜TechCrunch｜https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/
-3. What Nvidia's first Groq 3 LPU benchmarks tell us about its $20B gamble｜The Register｜https://www.theregister.com/systems/2026/08/24/what-nvidias-first-groq-3-lpu-benchmarks-tell-us-about-its-20b-gamble/5291880
-4. Apple's new desktop computers are designed specifically for local AI development｜Ars Technica｜https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/
-5. Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme｜Ars Technica｜https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/
+1. Now Perplexity is trying to get into the local AI action｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449
+2. Slop factory bans Russians for using slop factory to create slop｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/25/slop-factory-bans-russians-for-using-slop-factory-to-create-slop/5292297
+3. Tesla to recall almost three million vehicles over hidden door handles｜The Register｜https://www.theregister.com/offbeat/2026/08/24/tesla-to-recall-almost-three-million-vehicles-over-hidden-door-handles/5291757
+4. OpenAI loses a top data center exec, as stream of high-profile departures continues｜TechCrunch｜https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/
+5. SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana｜TechCrunch｜https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
