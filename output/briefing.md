@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/27 12:05:44
+生成时间：2026/8/27 12:28:59
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 60 条｜国际 18 条
-延续跟踪线索：国内 0 条｜国际 4 条
+新增核心线索：国内 5 条｜国际 3 条
+延续跟踪线索：国内 53 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -39,27 +39,27 @@ ChenChen 今日 Briefing｜V3
    角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “工业和信息化部：探索人工智能应用场景培育新模式- 【简介】8月26日” against primary-source evidence.
 
 本次新增线索：
-- 赛场照见人形机器人新跨越——第二届世界人形机器人运动会闭幕｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/27/content_570393.html
-- OpenAI发布关于Hugging Face AI智能体黑客事件的详尽报告｜新浪科技｜https://finance.sina.com.cn/world/2026-08-27/doc-iniptafc8977132.shtml
-- 人形机器人的“速度秀”不只是“秀速度”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipsmie0719401.shtml
-- AI早报｜OpenAI称自研AI芯片测试表现超越英伟达｜网易科技｜https://www.163.com/dy/article/L5AV5HOL0534A4SC.html
-- 工业和信息化部：探索人工智能应用场景培育新模式- 【简介】8月26日｜新华网-科技｜http://www.news.cn/tech/20260827/a6da01e222bc4e289838fbd207e88d03/c.html
-- Nvidia's earnings track record, Canada retaliates, Waymo's international push and more in Morning Squawk｜CNBC Technology｜https://www.cnbc.com/2026/08/26/5-things-to-know-before-the-stock-market-opens.html
+- 觅蜂科技以工业级数据采集标注服务，抢占具身智能市场优势地位｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-27/doc-iniptnus0350565.shtml
+- 谷歌据悉将AI责任团队调离DeepMind实验室｜网易科技｜https://www.163.com/dy/article/L5BAJQEL0534A4SC.html
+- 经济学家谈机器人龙头企业宇树科技研发经费不高：比牧原养猪的研发经费还低｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-27/doc-inipthnz5537306.shtml
+- 续航大幅跃升！我国研发出高比能锂金属电池：突破600Wh/kg｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-27/doc-iniptnus0347941.shtml
+- 理想汽车 CEO 李想称不会将成本压力转嫁给消费者，将推两大举措应对成本波动｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-27/doc-iniptnux9105860.shtml
+- Slop factory bans Russians for using slop factory to create slop｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/25/slop-factory-bans-russians-for-using-slop-factory-to-create-slop/5292297
 
 今日热点方向：
-- AI 应用：AI动态（10 条，5 个来源）
+- AI 应用：AI动态（9 条，5 个来源）
 - 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
-1. Nvidia's earnings track record, Canada retaliates, Waymo's international push and more in Morning Squawk｜CNBC Technology｜https://www.cnbc.com/2026/08/26/5-things-to-know-before-the-stock-market-opens.html
-2. Ex-Meta scientists want to bring visual AI to the factory floor｜TechCrunch｜https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/
-3. SpaceX plans to build a $100 billion spaceport in Louisiana｜CNBC Technology｜https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html
-4. Amazon just tripled its order of Nvidia chips over ‘surging demand’｜TechCrunch｜https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
-5. How do we explain OpenAI’s executive exodus?｜TechCrunch｜https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/
+1. Slop factory bans Russians for using slop factory to create slop｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/25/slop-factory-bans-russians-for-using-slop-factory-to-create-slop/5292297
+2. Nvidia's earnings track record, Canada retaliates, Waymo's international push and more in Morning Squawk｜CNBC Technology｜https://www.cnbc.com/2026/08/26/5-things-to-know-before-the-stock-market-opens.html
+3. Ex-Meta scientists want to bring visual AI to the factory floor｜TechCrunch｜https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/
+4. Meta's new MTIA 400 chip has a split personality: Training AI and serving ads｜The Register｜https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727
+5. Claude and Cowork now share what they know about you｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/25/claude-and-cowork-now-share-what-they-know-about-you/5292412
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
