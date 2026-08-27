@@ -1,34 +1,23 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-27T17:24:29.353Z",
+  "generatedAt": "2026-08-27T17:40:20.774Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-28",
   "changeSummary": {
-    "domesticNew": 1,
-    "globalNew": 3,
-    "domesticContinued": 7,
-    "globalContinued": 22,
-    "topNewDomestic": [
-      {
-        "title": "世界首例！AI辅助医生切除脑瘤成功：还患者一片光明",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml"
-      }
-    ],
+    "domesticNew": 0,
+    "globalNew": 2,
+    "domesticContinued": 8,
+    "globalContinued": 25,
+    "topNewDomestic": [],
     "topNewGlobal": [
       {
-        "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-        "source": "WIRED Business",
-        "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/"
+        "title": "Meta's new MTIA 400 chip has a split personality: Training AI and serving ads",
+        "source": "The Register",
+        "url": "https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727"
       },
       {
-        "title": "Tech giants warn time is running out to prepare for AI threats",
+        "title": "OpenAI’s Models Went Rogue. Investigating Them Required More AI",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/cybersecurity/articles/tech-giants-warn-time-running-170018938.html"
-      },
-      {
-        "title": "Google Brings Trip-Planning Features To Search's AI Mode",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/gemini/articles/google-brings-trip-planning-features-160410091.html"
+        "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-models-went-rogue-investigating-171444549.html"
       }
     ],
     "hasPrevious": true
@@ -38,7 +27,7 @@ window.CHENCHEN_DAILY_DATA = {
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
     "domesticRejected": 892,
-    "globalRejected": 875,
+    "globalRejected": 873,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -52,32 +41,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -85,13 +54,8 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -102,29 +66,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -132,13 +76,8 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -201,8 +140,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -250,9 +188,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -316,16 +253,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -346,9 +281,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 11,
+      "failed": false,
       "optional": false
     },
     {
@@ -356,7 +290,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -403,13 +337,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1299,
+  "itemsSeen": 1373,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 259,
-  "itemsAfterDedupe": 211,
+  "itemsAfterRelevantFilter": 294,
+  "itemsAfterDedupe": 226,
   "todayItemsSeen": 8,
   "suspectedItemsSeen": 19,
-  "skippedNonToday": 184,
+  "skippedNonToday": 199,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -464,8 +398,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "财联社",
       "tier": "mainstream",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": true
     },
     {
@@ -513,9 +446,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -579,16 +511,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -609,9 +539,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 11,
+      "failed": false,
       "optional": false
     },
     {
@@ -619,7 +548,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -806,9 +735,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "OECD AI Policy",
       "tier": "international",
-      "parsed": 0,
-      "failed": true,
-      "error": "This operation was aborted",
+      "parsed": 67,
+      "failed": false,
       "optional": true
     },
     {
@@ -821,29 +749,9 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "财联社",
-      "error": "fetch failed",
-      "optional": true
-    },
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -851,13 +759,8 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -881,18 +784,13 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "US Commerce BIS",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "OECD AI Policy",
-      "error": "This operation was aborted",
-      "optional": true
     }
   ],
   "globalSourcesChecked": 21,
-  "globalSuccessSources": 17,
-  "globalItemsSeen": 1149,
+  "globalSuccessSources": 18,
+  "globalItemsSeen": 1216,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 110,
+  "globalItemsAfterRelevantFilter": 101,
   "topics": [
     {
       "topic": "人形机器人与具身智能",
@@ -1150,74 +1048,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "世界首例！AI辅助医生切除脑瘤成功：还患者一片光明",
-      "summary": "快科技8月28日消息，近日，英国公布一项医疗重大突破：伦敦国家神经病学与神经外科医院完成世界首例实时AI辅助脑垂体瘤切除手术，依靠人工智能的术中指引，成功挽救一名濒临失明患者的视力。据悉，48岁的患者里斯·希伯特是两个孩子的父亲，平日里身体...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml"
-      ],
-      "publishedAt": "2026-08-28",
-      "date": "2026-08-28",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 176,
-      "reporterScore": 184,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “世界首例！AI辅助医生切除脑瘤成功：还患者一片光明” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "快科技8月28日消息，近日，英国公布一项医疗重大突破：伦敦国家神经病学与神经外科医院完成世界首例实时AI辅助脑垂体瘤切除手术，依靠人工智能的术中指引，成功挽救一名濒临失明患者的视力。据悉，48岁的患者里斯·希伯特是两个孩子的父亲，平日里身体...",
-      "relatedTitles": [
-        "世界首例！AI辅助医生切除脑瘤成功：还患者一片光明"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "机器人产业“高”考开始",
       "summary": "在2026世界机器人大会上，一家企业进行人形机器人的智能商业清洁解决方案演示。 新华社发 8月22日，第二届世界人形机器人运动会在国家速滑馆开幕，16个国家的666支赛队、2056台机器人参与竞逐。与此同时，2026世界机器人...",
       "source": "新浪科技",
@@ -1349,6 +1179,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "（来源：AI 前沿早知道）最近跑了两趟行业大展，跟做算力和模型的朋友聊到后半夜。最大的感受不是人形机器人又学会了几个花活，也不是哪家又发布了万亿参数新模型。是整个行业的比拼，早就从台面上的参数秀，沉到了台面下的三件事——算力、Token、大...",
       "relatedTitles": [
         "搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "世界首例！AI辅助医生切除脑瘤成功：还患者一片光明",
+      "summary": "快科技8月28日消息，近日，英国公布一项医疗重大突破：伦敦国家神经病学与神经外科医院完成世界首例实时AI辅助脑垂体瘤切除手术，依靠人工智能的术中指引，成功挽救一名濒临失明患者的视力。据悉，48岁的患者里斯·希伯特是两个孩子的父亲，平日里身体...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml"
+      ],
+      "publishedAt": "2026-08-28",
+      "date": "2026-08-28",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “世界首例！AI辅助医生切除脑瘤成功：还患者一片光明” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "快科技8月28日消息，近日，英国公布一项医疗重大突破：伦敦国家神经病学与神经外科医院完成世界首例实时AI辅助脑垂体瘤切除手术，依靠人工智能的术中指引，成功挽救一名濒临失明患者的视力。据悉，48岁的患者里斯·希伯特是两个孩子的父亲，平日里身体...",
+      "relatedTitles": [
+        "世界首例！AI辅助医生切除脑瘤成功：还患者一片光明"
       ],
       "isNewSinceLastRun": false
     },
@@ -1490,76 +1388,6 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "suspectedLeads": [
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "震撼!OpenAI全面开源Codex Harness",
-      "summary": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底 林, 方舟 2026-08-26 13:52:06 来源： 量子位 开源·开放·开创，2025张江具身智能开发者大会暨国际人形机器人技能大赛即将启幕 构建人形机器人产业高地 量子位 2025-05-26 人形机器人 具身智能 张江科学城 自研大模型上车双足机",
-      "source": "网易科技",
-      "sources": [
-        "网易科技",
-        "量子位"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L4RE3KMO0511ABV6.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L4RE3KMO0511ABV6.html",
-        "https://www.qbitai.com/tag/skild-ai"
-      ],
-      "publishedAt": "2026-08-21",
-      "date": "2026-08-21",
-      "category": "机器人",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 159,
-      "reporterScore": 181,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 118
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “震撼!OpenAI全面开源Codex Harness” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "CodexHarness开源",
-      "relatedTitles": [
-        "震撼!OpenAI全面开源Codex Harness",
-        "Skild AI 硅谷今日最热具身模型！不用后训练"
-      ]
-    },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "WAIC观察：3DIC EDA + AI 智能体，如何重构STCO新范式？",
@@ -2027,6 +1855,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "首页 全球首艘！能装一万多辆汽车的运输船今天试航 分享到： 3月31日，中船广船国际为韩国HMM公司建造的10800车LNG双燃料汽车运输船（PCTC）1号船出海试航，这是目前全球在建的首艘万车级双燃料汽车运输船。 据了解，该船体总长230米，型宽40米，结构吃水10.5米，航速约19节，在高效运输与稳定航行间实现完美平衡。其中14层车库甲板设计，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。按5米一台标准车，所装载的车首尾相连，超过50公里。 这艘船采用燃油和LNG双燃料推进系统，配置轴带发电机，可以一边航行一边完成发电，从而达到节能减排的目的。这艘船环保性能卓越，满足国际海事组织Tier Ⅲ排放标准。 据广船国际相关负责人介绍，汽车运输船是高技术、高附加值船型，其建造难度大、技术含量高。一是需大量采用薄板建造，广船国际建造团队成功攻克了薄板变形控制的难题；二是滚装设备多，机械化程度高，而且过去这些滚装设备大都依赖进口，如今全都实现了国产化。万车船完成建造试航，标志着广船国际完全掌握了此类船型的建造技术，在该细分市场保持领先地位。 （总台记者 魏星",
       "relatedTitles": [
         "全球首艘！能装一万多辆汽车的运输船今天试航"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "Skild AI",
+      "summary": "SenseNova U1.5 Lite 开源国产8B模型，比肩闭源Image 2了！ SenseNova U1.5 Lite 十三 2分钟前 SenseNova U1.5 Lite 商汤科技 热门文章 闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5 MiniMax核心工程负责",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/skild-ai",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/skild-ai"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 141,
+      "reporterScore": 149,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Skild AI” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "Skild AI 硅谷今日最热具身模型！不用后训练，看一遍就学会 具身智能迈向GPT时刻 henry 3分钟前 Skild AI 具身智能 热门文章 闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5 匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的 今年WRC最大展台，预告具身智能未来 前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝 英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+      "relatedTitles": [
+        "Skild AI"
       ]
     },
     {
@@ -2803,22 +2698,22 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Now Perplexity is trying to get into the local AI action",
-      "summary": "Are we human?",
+      "summary": "Amid talk of an Nvidia deal, the AI search biz is looking beyond the cloud",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449",
       "publishedAt": "Wed, 26 Aug 2026 01:39:23 +0200",
       "date": "2026-08-26",
       "region": "Europe",
       "category": "监管与安全",
-      "classificationConfidence": 0.7,
+      "classificationConfidence": 0.62,
       "hardTechPriority": 100,
-      "globalWhitelistScore": 65,
+      "globalWhitelistScore": 75,
       "keywords": "technology policy, AI governance, safety and standards",
       "relevanceToChina": "high",
       "cgtAngle": "Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “Now Perplexity is trying to get into the local AI action” against primary-source evidence.",
       "priority": 5,
-      "score": 162,
-      "reporterScore": 162,
+      "score": 165,
+      "reporterScore": 165,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -2834,20 +2729,20 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-      "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
-      "source": "WIRED Business",
-      "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
-      "publishedAt": "Thu, 27 Aug 2026 16:52:42 +0000",
-      "date": "2026-08-28",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
+      "title": "Meta's new MTIA 400 chip has a split personality: Training AI and serving ads",
+      "summary": "Faster than Blackwell, but still no replacement for AMD or Nvidia ... yet",
+      "source": "The Register",
+      "url": "https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727",
+      "publishedAt": "Wed, 26 Aug 2026 23:18:04 +0200",
+      "date": "2026-08-26",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.61,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
-      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI Is Developing a ‘Persistent’ AI Agent” against primary-source evidence.",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Meta's new MTIA 400 chip has a split personality: Training AI and servin” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -2859,17 +2754,17 @@ window.CHENCHEN_DAILY_DATA = {
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 110
+        "reporterScore": 95
       },
-      "status": "confirmed_today",
+      "status": "recent_48h",
       "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tech giants warn time is running out to prepare for AI threats",
-      "summary": "OpenAI, Anthropic, Amazon Web Services, Microsoft and more than 100 other companies warned Thursday that the organizations now only have months to prepare for AI-enabled cyberattac",
+      "title": "OpenAI’s Models Went Rogue. Investigating Them Required More AI",
+      "summary": "A new independent report on OpenAI models hacking Hugging Face exposes a paradox: investigating increasingly powerful AI may require relying on AI itself.",
       "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/cybersecurity/articles/tech-giants-warn-time-running-170018938.html",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-models-went-rogue-investigating-171444549.html",
       "publishedAt": "2026-08-28",
       "date": "2026-08-28",
       "region": "US",
@@ -2879,39 +2774,7 @@ window.CHENCHEN_DAILY_DATA = {
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Tech giants warn time is running out to prepare for AI threats” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google Brings Trip-Planning Features To Search's AI Mode",
-      "summary": "Google AI Mode is getting a flight price tracker, hotel booking and a way to view the cost in miles or points.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/gemini/articles/google-brings-trip-planning-features-160410091.html",
-      "publishedAt": "2026-08-28",
-      "date": "2026-08-28",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google Brings Trip-Planning Features To Search's AI Mode” against primary-source evidence.",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI’s Models Went Rogue. Investigating Them Required More AI” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -3118,6 +2981,38 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+      "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+      "source": "WIRED Business",
+      "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+      "publishedAt": "Thu, 27 Aug 2026 16:52:42 +0000",
+      "date": "2026-08-28",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI Is Developing a ‘Persistent’ AI Agent” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -3346,6 +3241,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Tech giants warn time is running out to prepare for AI threats",
+      "summary": "OpenAI, Anthropic, Amazon Web Services, Microsoft and more than 100 other companies warned Thursday that the organizations now only have months to prepare for AI-enabled cyberattac",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/cybersecurity/articles/tech-giants-warn-time-running-170018938.html",
+      "publishedAt": "2026-08-28",
+      "date": "2026-08-28",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Tech giants warn time is running out to prepare for AI threats” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Nvidia's revenue outlook, Meta's $16.7B settlement, mail-in voting and more in Morning Squawk",
       "summary": "Here are five key things investors need to know to start the trading day.",
       "source": "CNBC Technology",
@@ -3506,6 +3433,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google Brings Trip-Planning Features To Search's AI Mode",
+      "summary": "Google AI Mode is getting a flight price tracker, hotel booking and a way to view the cost in miles or points.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/google-brings-trip-planning-features-160410091.html",
+      "publishedAt": "2026-08-28",
+      "date": "2026-08-28",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google Brings Trip-Planning Features To Search's AI Mode” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "📸📱 Instagram's AI filter hilariously flags Arsenal trophy image as 'fake'",
       "summary": "We're all aware of the pros and cons of AI at this point.Artificial Intelligence has taken over almost every aspect of tech over the past 12 months, with some positives and a lot m",
       "source": "Yahoo News Technology",
@@ -3569,8 +3528,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-28｜V3\n生成时间：2026/8/28 01:24:29\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2448｜确认今日 8｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 3 条\n延续跟踪线索：国内 7 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-28] 本报今日推出专题 机遇中国 智汇重庆\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946590.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “本报今日推出专题 机遇中国 智汇重庆” against primary-source evidence.\n\n2. [2026-08-28] 重庆人工智能布局三重逻辑\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946598.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “重庆人工智能布局三重逻辑” against primary-source evidence.\n\n3. [2026-08-28] 重庆人工智能“十五五”规划\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhm5186996.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “重庆人工智能“十五五”规划” against primary-source evidence.\n\n4. [2026-08-28] 世界首例！AI辅助医生切除脑瘤成功：还患者一片光明\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “世界首例！AI辅助医生切除脑瘤成功：还患者一片光明” against primary-source evidence.\n\n5. [2026-08-28] 机器人产业“高”考开始\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhs0692283.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人产业“高”考开始” against primary-source evidence.\n\n本次新增线索：\n- 世界首例！AI辅助医生切除脑瘤成功：还患者一片光明｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml\n- OpenAI Is Developing a ‘Persistent’ AI Agent｜WIRED Business｜https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/\n- Tech giants warn time is running out to prepare for AI threats｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/tech-giants-warn-time-running-170018938.html\n- Google Brings Trip-Planning Features To Search's AI Mode｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-brings-trip-planning-features-160410091.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（4 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown｜CNBC Technology｜https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html\n2. Now Perplexity is trying to get into the local AI action｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449\n3. OpenAI Is Developing a ‘Persistent’ AI Agent｜WIRED Business｜https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/\n4. Tech giants warn time is running out to prepare for AI threats｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/tech-giants-warn-time-running-170018938.html\n5. Google Brings Trip-Planning Features To Search's AI Mode｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-brings-trip-planning-features-160410091.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-28｜V3\n生成时间：2026/8/28 01:24:29\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2448｜确认今日 8｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 3 条\n延续跟踪线索：国内 7 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-28] 本报今日推出专题 机遇中国 智汇重庆\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946590.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “本报今日推出专题 机遇中国 智汇重庆” against primary-source evidence.\n\n2. [2026-08-28] 重庆人工智能布局三重逻辑\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946598.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “重庆人工智能布局三重逻辑” against primary-source evidence.\n\n3. [2026-08-28] 重庆人工智能“十五五”规划\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhm5186996.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “重庆人工智能“十五五”规划” against primary-source evidence.\n\n4. [2026-08-28] 世界首例！AI辅助医生切除脑瘤成功：还患者一片光明\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “世界首例！AI辅助医生切除脑瘤成功：还患者一片光明” against primary-source evidence.\n\n5. [2026-08-28] 机器人产业“高”考开始\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhs0692283.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人产业“高”考开始” against primary-source evidence.\n\n本次新增线索：\n- 世界首例！AI辅助医生切除脑瘤成功：还患者一片光明｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml\n- OpenAI Is Developing a ‘Persistent’ AI Agent｜WIRED Business｜https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/\n- Tech giants warn time is running out to prepare for AI threats｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/tech-giants-warn-time-running-170018938.html\n- Google Brings Trip-Planning Features To Search's AI Mode｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-brings-trip-planning-features-160410091.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（4 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown｜CNBC Technology｜https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html\n2. Now Perplexity is trying to get into the local AI action｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449\n3. OpenAI Is Developing a ‘Persistent’ AI Agent｜WIRED Business｜https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/\n4. Tech giants warn time is running out to prepare for AI threats｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/tech-giants-warn-time-running-170018938.html\n5. Google Brings Trip-Planning Features To Search's AI Mode｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-brings-trip-planning-features-160410091.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-28｜生成时间：2026/8/28 01:24:29｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2448｜确认今日 8｜国际背景 25</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 3 条<br>延续跟踪线索：国内 7 条｜国际 22 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-28] 本报今日推出专题 机遇中国 智汇重庆</strong>\n      <span>新浪科技｜2026-08-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946590.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “本报今日推出专题 机遇中国 智汇重庆” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-28] 重庆人工智能布局三重逻辑</strong>\n      <span>新浪科技｜2026-08-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946598.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “重庆人工智能布局三重逻辑” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-28] 重庆人工智能“十五五”规划</strong>\n      <span>新浪科技｜2026-08-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhm5186996.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “重庆人工智能“十五五”规划” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-28] 世界首例！AI辅助医生切除脑瘤成功：还患者一片光明</strong>\n      <span>新浪科技｜2026-08-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “世界首例！AI辅助医生切除脑瘤成功：还患者一片光明” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-28] 机器人产业“高”考开始</strong>\n      <span>新浪科技｜2026-08-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhs0692283.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人产业“高”考开始” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown</strong>\n      <span>时间：Thu, 27 Aug 2026 14:37:46 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Nvidia is bolstering support for Chinese open AI models as it warns of W” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Now Perplexity is trying to get into the local AI action</strong>\n      <span>时间：Wed, 26 Aug 2026 01:39:23 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “Now Perplexity is trying to get into the local AI action” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI Is Developing a ‘Persistent’ AI Agent</strong>\n      <span>时间：Thu, 27 Aug 2026 16:52:42 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI Is Developing a ‘Persistent’ AI Agent” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Tech giants warn time is running out to prepare for AI threats</strong>\n      <span>时间：2026-08-28｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/cybersecurity/articles/tech-giants-warn-time-running-170018938.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Tech giants warn time is running out to prepare for AI threats” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google Brings Trip-Planning Features To Search's AI Mode</strong>\n      <span>时间：2026-08-28｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/gemini/articles/google-brings-trip-planning-features-160410091.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google Brings Trip-Planning Features To Search's AI Mode” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/28 01:24:29\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 3 条\n延续跟踪线索：国内 7 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-28] 本报今日推出专题 机遇中国 智汇重庆\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946590.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “本报今日推出专题 机遇中国 智汇重庆” against primary-source evidence.\n\n2. [2026-08-28] 重庆人工智能布局三重逻辑\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946598.shtml\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “重庆人工智能布局三重逻辑” against primary-source evidence.\n\n3. [2026-08-28] 重庆人工智能“十五五”规划\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhm5186996.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “重庆人工智能“十五五”规划” against primary-source evidence.\n\n4. [2026-08-28] 世界首例！AI辅助医生切除脑瘤成功：还患者一片光明\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “世界首例！AI辅助医生切除脑瘤成功：还患者一片光明” against primary-source evidence.\n\n5. [2026-08-28] 机器人产业“高”考开始\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhs0692283.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人产业“高”考开始” against primary-source evidence.\n\n本次新增线索：\n- 世界首例！AI辅助医生切除脑瘤成功：还患者一片光明｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml\n- OpenAI Is Developing a ‘Persistent’ AI Agent｜WIRED Business｜https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/\n- Tech giants warn time is running out to prepare for AI threats｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/tech-giants-warn-time-running-170018938.html\n- Google Brings Trip-Planning Features To Search's AI Mode｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-brings-trip-planning-features-160410091.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（4 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown｜CNBC Technology｜https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html\n2. Now Perplexity is trying to get into the local AI action｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449\n3. OpenAI Is Developing a ‘Persistent’ AI Agent｜WIRED Business｜https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/\n4. Tech giants warn time is running out to prepare for AI threats｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/tech-giants-warn-time-running-170018938.html\n5. Google Brings Trip-Planning Features To Search's AI Mode｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-brings-trip-planning-features-160410091.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-28｜V3\n生成时间：2026/8/28 01:40:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2589｜确认今日 8｜国际背景 27\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 2 条\n延续跟踪线索：国内 8 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-28] 本报今日推出专题 机遇中国 智汇重庆\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946590.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “本报今日推出专题 机遇中国 智汇重庆” against primary-source evidence.\n\n2. [2026-08-28] 重庆人工智能布局三重逻辑\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946598.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “重庆人工智能布局三重逻辑” against primary-source evidence.\n\n3. [2026-08-28] 重庆人工智能“十五五”规划\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhm5186996.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “重庆人工智能“十五五”规划” against primary-source evidence.\n\n4. [2026-08-28] 机器人产业“高”考开始\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhs0692283.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人产业“高”考开始” against primary-source evidence.\n\n5. [2026-08-28] 搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5819279.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业” against primary-source evidence.\n\n本次新增线索：\n- Meta's new MTIA 400 chip has a split personality: Training AI and serving ads｜The Register｜https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727\n- OpenAI’s Models Went Rogue. Investigating Them Required More AI｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-models-went-rogue-investigating-171444549.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（4 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown｜CNBC Technology｜https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html\n2. Now Perplexity is trying to get into the local AI action｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449\n3. Meta's new MTIA 400 chip has a split personality: Training AI and serving ads｜The Register｜https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727\n4. OpenAI’s Models Went Rogue. Investigating Them Required More AI｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-models-went-rogue-investigating-171444549.html\n5. Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others｜TechCrunch｜https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-28｜V3\n生成时间：2026/8/28 01:40:20\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2589｜确认今日 8｜国际背景 27\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 2 条\n延续跟踪线索：国内 8 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-28] 本报今日推出专题 机遇中国 智汇重庆\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946590.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “本报今日推出专题 机遇中国 智汇重庆” against primary-source evidence.\n\n2. [2026-08-28] 重庆人工智能布局三重逻辑\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946598.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “重庆人工智能布局三重逻辑” against primary-source evidence.\n\n3. [2026-08-28] 重庆人工智能“十五五”规划\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhm5186996.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “重庆人工智能“十五五”规划” against primary-source evidence.\n\n4. [2026-08-28] 机器人产业“高”考开始\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhs0692283.shtml\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人产业“高”考开始” against primary-source evidence.\n\n5. [2026-08-28] 搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业\n   新浪科技｜2026-08-28｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5819279.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业” against primary-source evidence.\n\n本次新增线索：\n- Meta's new MTIA 400 chip has a split personality: Training AI and serving ads｜The Register｜https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727\n- OpenAI’s Models Went Rogue. Investigating Them Required More AI｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-models-went-rogue-investigating-171444549.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（4 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown｜CNBC Technology｜https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html\n2. Now Perplexity is trying to get into the local AI action｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449\n3. Meta's new MTIA 400 chip has a split personality: Training AI and serving ads｜The Register｜https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727\n4. OpenAI’s Models Went Rogue. Investigating Them Required More AI｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-models-went-rogue-investigating-171444549.html\n5. Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others｜TechCrunch｜https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-28｜生成时间：2026/8/28 01:40:20｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2589｜确认今日 8｜国际背景 27</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 2 条<br>延续跟踪线索：国内 8 条｜国际 25 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-28] 本报今日推出专题 机遇中国 智汇重庆</strong>\n      <span>新浪科技｜2026-08-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946590.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “本报今日推出专题 机遇中国 智汇重庆” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-28] 重庆人工智能布局三重逻辑</strong>\n      <span>新浪科技｜2026-08-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946598.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “重庆人工智能布局三重逻辑” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-28] 重庆人工智能“十五五”规划</strong>\n      <span>新浪科技｜2026-08-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhm5186996.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “重庆人工智能“十五五”规划” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-28] 机器人产业“高”考开始</strong>\n      <span>新浪科技｜2026-08-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhs0692283.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人产业“高”考开始” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-28] 搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业</strong>\n      <span>新浪科技｜2026-08-28｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5819279.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown</strong>\n      <span>时间：Thu, 27 Aug 2026 14:37:46 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Nvidia is bolstering support for Chinese open AI models as it warns of W” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Now Perplexity is trying to get into the local AI action</strong>\n      <span>时间：Wed, 26 Aug 2026 01:39:23 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “Now Perplexity is trying to get into the local AI action” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Meta's new MTIA 400 chip has a split personality: Training AI and serving ads</strong>\n      <span>时间：Wed, 26 Aug 2026 23:18:04 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Meta's new MTIA 400 chip has a split personality: Training AI and servin” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI’s Models Went Rogue. Investigating Them Required More AI</strong>\n      <span>时间：2026-08-28｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/openai-models-went-rogue-investigating-171444549.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI’s Models Went Rogue. Investigating Them Required More AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others</strong>\n      <span>时间：Thu, 27 Aug 2026 14:27:52 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/28 01:40:20\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 2 条\n延续跟踪线索：国内 8 条｜国际 25 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-28] 本报今日推出专题 机遇中国 智汇重庆\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946590.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “本报今日推出专题 机遇中国 智汇重庆” against primary-source evidence.\n\n2. [2026-08-28] 重庆人工智能布局三重逻辑\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946598.shtml\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “重庆人工智能布局三重逻辑” against primary-source evidence.\n\n3. [2026-08-28] 重庆人工智能“十五五”规划\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhm5186996.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “重庆人工智能“十五五”规划” against primary-source evidence.\n\n4. [2026-08-28] 机器人产业“高”考开始\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhs0692283.shtml\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人产业“高”考开始” against primary-source evidence.\n\n5. [2026-08-28] 搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5819279.shtml\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业” against primary-source evidence.\n\n本次新增线索：\n- Meta's new MTIA 400 chip has a split personality: Training AI and serving ads｜The Register｜https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727\n- OpenAI’s Models Went Rogue. Investigating Them Required More AI｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-models-went-rogue-investigating-171444549.html\n\n今日热点方向：\n- AI 应用：AI动态（2 条，1 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（4 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown｜CNBC Technology｜https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html\n2. Now Perplexity is trying to get into the local AI action｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449\n3. Meta's new MTIA 400 chip has a split personality: Training AI and serving ads｜The Register｜https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727\n4. OpenAI’s Models Went Rogue. Investigating Them Required More AI｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-models-went-rogue-investigating-171444549.html\n5. Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others｜TechCrunch｜https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };

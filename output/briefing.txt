@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/28 01:24:29
+生成时间：2026/8/28 01:40:20
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 3 条
-延续跟踪线索：国内 7 条｜国际 22 条
+新增核心线索：国内 0 条｜国际 2 条
+延续跟踪线索：国内 8 条｜国际 25 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -26,21 +26,19 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhm5186996.shtml
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “重庆人工智能“十五五”规划” against primary-source evidence.
 
-4. [2026-08-28] 世界首例！AI辅助医生切除脑瘤成功：还患者一片光明
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “世界首例！AI辅助医生切除脑瘤成功：还患者一片光明” against primary-source evidence.
-
-5. [2026-08-28] 机器人产业“高”考开始
+4. [2026-08-28] 机器人产业“高”考开始
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhs0692283.shtml
    角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人产业“高”考开始” against primary-source evidence.
 
+5. [2026-08-28] 搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5819279.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业” against primary-source evidence.
+
 本次新增线索：
-- 世界首例！AI辅助医生切除脑瘤成功：还患者一片光明｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5865541.shtml
-- OpenAI Is Developing a ‘Persistent’ AI Agent｜WIRED Business｜https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/
-- Tech giants warn time is running out to prepare for AI threats｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/tech-giants-warn-time-running-170018938.html
-- Google Brings Trip-Planning Features To Search's AI Mode｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-brings-trip-planning-features-160410091.html
+- Meta's new MTIA 400 chip has a split personality: Training AI and serving ads｜The Register｜https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727
+- OpenAI’s Models Went Rogue. Investigating Them Required More AI｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-models-went-rogue-investigating-171444549.html
 
 今日热点方向：
 - AI 应用：AI动态（2 条，1 个来源）
@@ -53,9 +51,9 @@ ChenChen 今日 Briefing｜V3
 国际科技背景：
 1. Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown｜CNBC Technology｜https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html
 2. Now Perplexity is trying to get into the local AI action｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449
-3. OpenAI Is Developing a ‘Persistent’ AI Agent｜WIRED Business｜https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/
-4. Tech giants warn time is running out to prepare for AI threats｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/tech-giants-warn-time-running-170018938.html
-5. Google Brings Trip-Planning Features To Search's AI Mode｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-brings-trip-planning-features-160410091.html
+3. Meta's new MTIA 400 chip has a split personality: Training AI and serving ads｜The Register｜https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727
+4. OpenAI’s Models Went Rogue. Investigating Them Required More AI｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-models-went-rogue-investigating-171444549.html
+5. Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others｜TechCrunch｜https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
