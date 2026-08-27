@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/27 12:28:59
+生成时间：2026/8/28 00:49:00
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 5 条｜国际 3 条
-延续跟踪线索：国内 53 条｜国际 22 条
+新增核心线索：国内 7 条｜国际 14 条
+延续跟踪线索：国内 0 条｜国际 10 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-27] 赛场照见人形机器人新跨越——第二届世界人形机器人运动会闭幕
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-08/27/content_570393.html
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “赛场照见人形机器人新跨越——第二届世界人形机器人运动会闭幕” against primary-source evidence.
-
-2. [2026-08-27] OpenAI发布关于Hugging Face AI智能体黑客事件的详尽报告
+1. [2026-08-28] 本报今日推出专题 机遇中国 智汇重庆
    来源：新浪科技
-   链接：https://finance.sina.com.cn/world/2026-08-27/doc-iniptafc8977132.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI发布关于Hugging Face AI智能体黑客事件的详尽报告” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946590.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “本报今日推出专题 机遇中国 智汇重庆” against primary-source evidence.
 
-3. [2026-08-27] 人形机器人的“速度秀”不只是“秀速度”
+2. [2026-08-28] 重庆人工智能布局三重逻辑
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipsmie0719401.shtml
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人的“速度秀”不只是“秀速度”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946598.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “重庆人工智能布局三重逻辑” against primary-source evidence.
 
-4. [2026-08-27] AI早报｜OpenAI称自研AI芯片测试表现超越英伟达
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L5AV5HOL0534A4SC.html
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI早报｜OpenAI称自研AI芯片测试表现超越英伟达” against primary-source evidence.
+3. [2026-08-28] 重庆人工智能“十五五”规划
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhm5186996.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “重庆人工智能“十五五”规划” against primary-source evidence.
 
-5. [2026-08-27] 工业和信息化部：探索人工智能应用场景培育新模式- 【简介】8月26日
-   来源：新华网-科技
-   链接：http://www.news.cn/tech/20260827/a6da01e222bc4e289838fbd207e88d03/c.html
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “工业和信息化部：探索人工智能应用场景培育新模式- 【简介】8月26日” against primary-source evidence.
+4. [2026-08-28] 机器人产业“高”考开始
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhs0692283.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “机器人产业“高”考开始” against primary-source evidence.
+
+5. [2026-08-28] 搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5819279.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业” against primary-source evidence.
 
 本次新增线索：
-- 觅蜂科技以工业级数据采集标注服务，抢占具身智能市场优势地位｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-27/doc-iniptnus0350565.shtml
-- 谷歌据悉将AI责任团队调离DeepMind实验室｜网易科技｜https://www.163.com/dy/article/L5BAJQEL0534A4SC.html
-- 经济学家谈机器人龙头企业宇树科技研发经费不高：比牧原养猪的研发经费还低｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-27/doc-inipthnz5537306.shtml
-- 续航大幅跃升！我国研发出高比能锂金属电池：突破600Wh/kg｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-27/doc-iniptnus0347941.shtml
-- 理想汽车 CEO 李想称不会将成本压力转嫁给消费者，将推两大举措应对成本波动｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-27/doc-iniptnux9105860.shtml
-- Slop factory bans Russians for using slop factory to create slop｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/25/slop-factory-bans-russians-for-using-slop-factory-to-create-slop/5292297
+- 本报今日推出专题 机遇中国 智汇重庆｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946590.shtml
+- 重庆人工智能布局三重逻辑｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhp5946598.shtml
+- 重庆人工智能“十五五”规划｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhm5186996.shtml
+- 机器人产业“高”考开始｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuqhs0692283.shtml
+- 搞懂算力、Token和基座这三件事，才算真正看懂2026年的AI行业｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipuuqm5819279.shtml
+- Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown｜CNBC Technology｜https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html
 
 今日热点方向：
-- AI 应用：AI动态（9 条，5 个来源）
-- 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（5 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- AI 应用：AI动态（1 条，1 个来源）
+- 芯片/半导体：
+- 机器人/具身智能：人形机器人与具身智能（4 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
+- 太空与低空经济：
+- 科学前沿：
 
 国际科技背景：
-1. Slop factory bans Russians for using slop factory to create slop｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/25/slop-factory-bans-russians-for-using-slop-factory-to-create-slop/5292297
-2. Nvidia's earnings track record, Canada retaliates, Waymo's international push and more in Morning Squawk｜CNBC Technology｜https://www.cnbc.com/2026/08/26/5-things-to-know-before-the-stock-market-opens.html
-3. Ex-Meta scientists want to bring visual AI to the factory floor｜TechCrunch｜https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/
-4. Meta's new MTIA 400 chip has a split personality: Training AI and serving ads｜The Register｜https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727
-5. Claude and Cowork now share what they know about you｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/25/claude-and-cowork-now-share-what-they-know-about-you/5292412
+1. Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown｜CNBC Technology｜https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html
+2. Now Perplexity is trying to get into the local AI action｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449
+3. Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others｜TechCrunch｜https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/
+4. Here’s all the times AI has gone rogue and hacked other companies｜TechCrunch｜https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/
+5. OpenAI to start showing ads on ChatGPT’s free and Go tiers in India｜TechCrunch｜https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
