@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/26 15:10:34
+生成时间：2026/8/27 12:05:44
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 1 条
-延续跟踪线索：国内 53 条｜国际 20 条
+新增核心线索：国内 60 条｜国际 18 条
+延续跟踪线索：国内 0 条｜国际 4 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-26] 优必选高管谈人形机器人卡位战：“绝对不能落后”
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-08-26/doc-iniprivw2235107.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “优必选高管谈人形机器人卡位战：“绝对不能落后”” against primary-source evidence.
-
-2. [2026-08-26] OpenAI称自研AI芯片测试表现超越英伟达GB300
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/world/2026-08-26/doc-inipqhkh5465961.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI称自研AI芯片测试表现超越英伟达GB300” against primary-source evidence.
-
-3. [2026-08-26] 世界人形机器人运动会：两千多台机器人挤在一个馆里会不会打起来？
+1. [2026-08-27] 赛场照见人形机器人新跨越——第二届世界人形机器人运动会闭幕
    来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-08/26/content_569993.html
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “世界人形机器人运动会：两千多台机器人挤在一个馆里会不会打起来？” against primary-source evidence.
+   链接：https://www.stdaily.com/web/gdxw/2026-08/27/content_570393.html
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “赛场照见人形机器人新跨越——第二届世界人形机器人运动会闭幕” against primary-source evidence.
 
-4. [2026-08-26] 连发三款自研芯片！小米阔折叠首发搭载玄戒O3，要与苹果“正面交锋”？
+2. [2026-08-27] OpenAI发布关于Hugging Face AI智能体黑客事件的详尽报告
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipqxhc6335516.shtml
-   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “连发三款自研芯片！小米阔折叠首发搭载玄戒O3，要与苹果“正面交锋”？” against primary-source evidence.
+   链接：https://finance.sina.com.cn/world/2026-08-27/doc-iniptafc8977132.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI发布关于Hugging Face AI智能体黑客事件的详尽报告” against primary-source evidence.
 
-5. [2026-08-26] “十五五”时期我国将加快培育“人工智能+”“机器人+”等重大应用场景
+3. [2026-08-27] 人形机器人的“速度秀”不只是“秀速度”
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipsmie0719401.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “人形机器人的“速度秀”不只是“秀速度”” against primary-source evidence.
+
+4. [2026-08-27] AI早报｜OpenAI称自研AI芯片测试表现超越英伟达
    来源：网易科技
-   链接：https://www.163.com/dy/article/L58IN2K10534A4SC.html
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““十五五”时期我国将加快培育“人工智能+”“机器人+”等重大应用场景” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L5AV5HOL0534A4SC.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI早报｜OpenAI称自研AI芯片测试表现超越英伟达” against primary-source evidence.
+
+5. [2026-08-27] 工业和信息化部：探索人工智能应用场景培育新模式- 【简介】8月26日
+   来源：新华网-科技
+   链接：http://www.news.cn/tech/20260827/a6da01e222bc4e289838fbd207e88d03/c.html
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “工业和信息化部：探索人工智能应用场景培育新模式- 【简介】8月26日” against primary-source evidence.
 
 本次新增线索：
-- 比尔·盖茨呼吁设立“人类保留”岗位 应对人工智能对劳动力冲击｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprqcs5525440.shtml
-- 全国首个！山东莱州中小学教师全员标配腾讯WorkBuddy｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-26/doc-iniprqcs5517907.shtml
-- 亚马逊将关闭运营21年的众包平台 贝索斯曾称之为“人工AI”｜网易科技｜https://www.163.com/dy/article/L592019R05198CJN.html
-- SpaceX宣布千亿美元路易斯安那州发射基地计划｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprqcu2290679.shtml
-- 2026 上海少儿机器人编程启蒙机构怎么选？入门培训机构深度横评｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-26/doc-iniprqcu2285008.shtml
-- Apple unveils new Mac Mini with M6 and M5 Pro chips｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-unveils-mac-mini-m6-070329193.html
+- 赛场照见人形机器人新跨越——第二届世界人形机器人运动会闭幕｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/27/content_570393.html
+- OpenAI发布关于Hugging Face AI智能体黑客事件的详尽报告｜新浪科技｜https://finance.sina.com.cn/world/2026-08-27/doc-iniptafc8977132.shtml
+- 人形机器人的“速度秀”不只是“秀速度”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipsmie0719401.shtml
+- AI早报｜OpenAI称自研AI芯片测试表现超越英伟达｜网易科技｜https://www.163.com/dy/article/L5AV5HOL0534A4SC.html
+- 工业和信息化部：探索人工智能应用场景培育新模式- 【简介】8月26日｜新华网-科技｜http://www.news.cn/tech/20260827/a6da01e222bc4e289838fbd207e88d03/c.html
+- Nvidia's earnings track record, Canada retaliates, Waymo's international push and more in Morning Squawk｜CNBC Technology｜https://www.cnbc.com/2026/08/26/5-things-to-know-before-the-stock-market-opens.html
 
 今日热点方向：
-- AI 应用：AI动态（15 条，3 个来源）
+- AI 应用：AI动态（10 条，5 个来源）
 - 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：机器人动态（5 条，3 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（8 条，3 个来源）
-- 太空与低空经济：太空与低空动态（3 条，2 个来源）
-- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
-1. Apple unveils new Mac Mini with M6 and M5 Pro chips｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-unveils-mac-mini-m6-070329193.html
-2. Now Perplexity is trying to get into the local AI action｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449
-3. Slop factory bans Russians for using slop factory to create slop｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/25/slop-factory-bans-russians-for-using-slop-factory-to-create-slop/5292297
-4. Tesla to recall almost three million vehicles over hidden door handles｜The Register｜https://www.theregister.com/offbeat/2026/08/24/tesla-to-recall-almost-three-million-vehicles-over-hidden-door-handles/5291757
-5. SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana｜TechCrunch｜https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/
+1. Nvidia's earnings track record, Canada retaliates, Waymo's international push and more in Morning Squawk｜CNBC Technology｜https://www.cnbc.com/2026/08/26/5-things-to-know-before-the-stock-market-opens.html
+2. Ex-Meta scientists want to bring visual AI to the factory floor｜TechCrunch｜https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/
+3. SpaceX plans to build a $100 billion spaceport in Louisiana｜CNBC Technology｜https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html
+4. Amazon just tripled its order of Nvidia chips over ‘surging demand’｜TechCrunch｜https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
+5. How do we explain OpenAI’s executive exodus?｜TechCrunch｜https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
