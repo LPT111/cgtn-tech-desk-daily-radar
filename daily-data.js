@@ -1,64 +1,23 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-28T17:42:44.352Z",
+  "generatedAt": "2026-08-28T18:17:57.382Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-29",
   "changeSummary": {
-    "domesticNew": 6,
-    "globalNew": 7,
-    "domesticContinued": 0,
-    "globalContinued": 13,
-    "topNewDomestic": [
-      {
-        "title": "OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml"
-      },
-      {
-        "title": "TCL科技：将从磷化铟激光芯片逐步切入光通信赛",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L5F658SH05198CJN.html"
-      },
-      {
-        "title": "交行副行长钱斌答每经：加快完善AI治理架构，确",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L5F7J2CS0512B07B.html"
-      },
-      {
-        "title": "手刃大牛、下架爆款！起点正在手撕AI",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml"
-      },
-      {
-        "title": "泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/995/821.htm"
-      }
-    ],
+    "domesticNew": 0,
+    "globalNew": 2,
+    "domesticContinued": 6,
+    "globalContinued": 19,
+    "topNewDomestic": [],
     "topNewGlobal": [
       {
-        "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
-        "source": "The Register",
-        "url": "https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853"
+        "title": "SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas",
+        "source": "AP Technology",
+        "url": "https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c"
       },
       {
-        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
-      },
-      {
-        "title": "Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it",
-        "source": "The Register",
-        "url": "https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263"
-      },
-      {
-        "title": "Pentagon blacklisted Anthropic over Claude powers it didn't have",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/28/pentagon-blacklisted-anthropic-over-claude-powers-it-didnt-have/5293266"
-      },
-      {
-        "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html"
+        "title": "Apple's Mac Is 'Hostile' to AI Agents, Legendary Coder Warns: Could It Hurt Apple's AI Future?",
+        "source": "Yahoo News Technology",
+        "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apples-mac-hostile-ai-agents-180440793.html"
       }
     ],
     "hasPrevious": true
@@ -68,7 +27,7 @@ window.CHENCHEN_DAILY_DATA = {
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
     "domesticRejected": 894,
-    "globalRejected": 880,
+    "globalRejected": 879,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,7 +41,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 27,
+  "successSources": 26,
   "failedSources": [
     {
       "name": "财联社",
@@ -116,8 +75,13 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -158,8 +122,13 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -375,7 +344,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -388,8 +357,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -422,13 +392,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1359,
+  "itemsSeen": 1298,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 302,
-  "itemsAfterDedupe": 243,
+  "itemsAfterRelevantFilter": 287,
+  "itemsAfterDedupe": 233,
   "todayItemsSeen": 6,
   "suspectedItemsSeen": 19,
-  "skippedNonToday": 218,
+  "skippedNonToday": 208,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -637,7 +607,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -650,8 +620,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -869,8 +840,13 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -899,7 +875,7 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1216,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 103,
+  "globalItemsAfterRelevantFilter": 106,
   "topics": [
     {
       "topic": "AI 应用与智能体",
@@ -1035,7 +1011,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1103,7 +1079,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "TCL科技：将从磷化铟激光芯片逐步切入光通信赛"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1171,7 +1147,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "交行副行长钱斌答每经：加快完善AI治理架构，确"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1239,7 +1215,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "手刃大牛、下架爆款！起点正在手撕AI"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1307,7 +1283,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1375,7 +1351,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "微软试图安抚内部员工：数据中心能对社会产生积极影响"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2656,32 +2632,32 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
-      "summary": "Are we human?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853",
-      "publishedAt": "Fri, 28 Aug 2026 12:00:00 +0200",
+      "title": "SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas",
+      "summary": "SpaceX has pulled off its biggest salvage operation yet, recovering its most recently launched Starship from the Indian Ocean.",
+      "source": "AP Technology",
+      "url": "https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c",
+      "publishedAt": "2026-08-28",
       "date": "2026-08-28",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 50,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
       "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Unsafe at any speed: AI optimists are turning cautious as safety concern” against primary-source evidence.",
+      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX recovers Starship from the Indian Ocean a month after launch and ” against primary-source evidence.",
       "priority": 5,
-      "score": 154,
-      "reporterScore": 164,
+      "score": 147,
+      "reporterScore": 155,
       "reporterSignals": {
-        "primary": true,
+        "primary": false,
         "visual": false,
         "international": false,
-        "interview": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
+        "hardTechWeight": 90,
+        "reporterScore": 100
       },
       "status": "recent_48h",
       "isNewSinceLastRun": true
@@ -2714,6 +2690,38 @@ window.CHENCHEN_DAILY_DATA = {
         "softNews": false,
         "hardTechWeight": 95,
         "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
+      "summary": "And as for getting US government to help – uncontrolled AI is not as dangerous as AI under the control of the technically clueless",
+      "source": "The Register",
+      "url": "https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853",
+      "publishedAt": "Fri, 28 Aug 2026 12:00:00 +0200",
+      "date": "2026-08-28",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 50,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Unsafe at any speed: AI optimists are turning cautious as safety concern” against primary-source evidence.",
+      "priority": 5,
+      "score": 154,
+      "reporterScore": 164,
+      "reporterSignals": {
+        "primary": true,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
@@ -2753,7 +2761,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Anthropic proposes plumbing spec to link AI agents to lab kit and robots",
-      "summary": "Are we human?",
+      "summary": "Say you",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135",
       "publishedAt": "Fri, 28 Aug 2026 01:22:35 +0200",
@@ -2784,12 +2792,12 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "publishedAt": "Fri, 28 Aug 2026 12:21:06 +0000",
-      "date": "2026-08-28",
+      "title": "Apple's Mac Is 'Hostile' to AI Agents, Legendary Coder Warns: Could It Hurt Apple's AI Future?",
+      "summary": "Apple Inc. (NASDAQ:AAPL) spent decades turning the Mac into a tightly controlled, carefully curated machine. David Heinemeier Hansson, the creator of Ruby on Rails, believes the AI",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apples-mac-hostile-ai-agents-180440793.html",
+      "publishedAt": "2026-08-29",
+      "date": "2026-08-29",
       "region": "US",
       "category": "AI",
       "classificationConfidence": 0.99,
@@ -2797,168 +2805,8 @@ window.CHENCHEN_DAILY_DATA = {
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta executive leaves for OpenAI as the social media giant faces growing” against primary-source evidence.",
+      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Apple's Mac Is 'Hostile' to AI Agents, Legendary Coder Warns: Could It H” against primary-source evidence.",
       "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it",
-      "summary": "Microsoft veteran recalls how a CPU errata, a mythical ICE, and a single sneaky NOP saved Clippy",
-      "source": "The Register",
-      "url": "https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263",
-      "publishedAt": "Fri, 28 Aug 2026 15:34:00 +0200",
-      "date": "2026-08-28",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.71,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Word 97's ghost in the machine: The crash that vanished the moment anyon” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Pentagon blacklisted Anthropic over Claude powers it didn't have",
-      "summary": "Are we human?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/28/pentagon-blacklisted-anthropic-over-claude-powers-it-didnt-have/5293266",
-      "publishedAt": "Fri, 28 Aug 2026 14:31:51 +0200",
-      "date": "2026-08-28",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Pentagon blacklisted Anthropic over Claude powers it didn't have” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
-      "summary": "Nvidia reportedly agreed to buy open source AI platform Hugging Face for $12.9 billion as the chipmaker expands deeper into the AI ecosystem.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
-      "publishedAt": "Thu, 27 Aug 2026 17:49:53 GMT",
-      "date": "2026-08-27",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.68,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia agrees to buy Hugging Face for $12.9 billion, report says” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test",
-      "summary": "There's new risk emerging from Big Tech's massive artificial intelligence buildout.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/08/28/big-techs-ai-spending-is-putting-a-longtime-strengths-to-the-test.html",
-      "publishedAt": "Fri, 28 Aug 2026 15:50:58 GMT",
-      "date": "2026-08-28",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Big Tech's massive AI spending is putting one of its longtime strengths ” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "1,100Hz in a Gaming Monitor? Inside Samsung’s Wild New Odyssey G6",
-      "summary": "Samsung Odyssey G6 hits 1,100Hz at Gamescom 2026, but only at HD resolution - here is what that spec actually means for your setup.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/gaming/articles/1-100hz-gaming-monitor-inside-163326951.html",
-      "publishedAt": "2026-08-29",
-      "date": "2026-08-29",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “1,100Hz in a Gaming Monitor? Inside Samsung’s Wild New Odyssey G6” against primary-source evidence.",
-      "priority": 4,
       "score": 143,
       "reporterScore": 143,
       "reporterSignals": {
@@ -3001,7 +2849,7 @@ window.CHENCHEN_DAILY_DATA = {
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 95
+        "reporterScore": 110
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
@@ -3022,6 +2870,38 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "publishedAt": "Fri, 28 Aug 2026 12:21:06 +0000",
+      "date": "2026-08-28",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta executive leaves for OpenAI as the social media giant faces growing” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -3169,7 +3049,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Nvidia and Cerebras are selling performance their customers will (probably) never see",
-      "summary": "Are we human?",
+      "summary": "Touting batch 1 token generation is a bit like boasting about the top speed of your car",
       "source": "The Register",
       "url": "https://www.theregister.com/systems/2026/08/27/nvidia-and-cerebras-are-selling-performance-their-customers-will-probably-never-see/5293117",
       "publishedAt": "Fri, 28 Aug 2026 00:57:43 +0200",
@@ -3200,15 +3080,79 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it",
+      "summary": "Microsoft veteran recalls how a CPU errata, a mythical ICE, and a single sneaky NOP saved Clippy",
+      "source": "The Register",
+      "url": "https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263",
+      "publishedAt": "Fri, 28 Aug 2026 15:34:00 +0200",
+      "date": "2026-08-28",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Word 97's ghost in the machine: The crash that vanished the moment anyon” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Pentagon blacklisted Anthropic over Claude powers it didn't have",
+      "summary": "Judge finds national-security rationale was assembled after Hegseth had already decided AI maker was a threat",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/28/pentagon-blacklisted-anthropic-over-claude-powers-it-didnt-have/5293266",
+      "publishedAt": "Fri, 28 Aug 2026 14:31:51 +0200",
+      "date": "2026-08-28",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.93,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Pentagon blacklisted Anthropic over Claude powers it didn't have” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Microsoft slaps a fresh coat of AI paint on the Microsoft 365 Roadmap",
-      "summary": "Are we human?",
+      "summary": "AI at Work roadmap is the new name for upcoming Microsoft 365 capabilities",
       "source": "The Register",
       "url": "https://www.theregister.com/software/2026/08/27/microsoft-slaps-a-fresh-coat-of-ai-paint-on-the-microsoft-365-roadmap/5292865",
       "publishedAt": "Thu, 27 Aug 2026 13:43:00 +0200",
       "date": "2026-08-27",
       "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.62,
+      "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
@@ -3217,6 +3161,38 @@ window.CHENCHEN_DAILY_DATA = {
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
+      "summary": "Nvidia reportedly agreed to buy open source AI platform Hugging Face for $12.9 billion as the chipmaker expands deeper into the AI ecosystem.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
+      "publishedAt": "Thu, 27 Aug 2026 17:49:53 GMT",
+      "date": "2026-08-27",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.68,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Nvidia agrees to buy Hugging Face for $12.9 billion, report says” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -3293,10 +3269,42 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test",
+      "summary": "There's new risk emerging from Big Tech's massive artificial intelligence buildout.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/08/28/big-techs-ai-spending-is-putting-a-longtime-strengths-to-the-test.html",
+      "publishedAt": "Fri, 28 Aug 2026 15:50:58 GMT",
+      "date": "2026-08-28",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Big Tech's massive AI spending is putting one of its longtime strengths ” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-29｜V3\n生成时间：2026/8/29 01:42:44\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2575｜确认今日 6｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 7 条\n延续跟踪线索：国内 0 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-29] OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活” against primary-source evidence.\n\n2. [2026-08-29] TCL科技：将从磷化铟激光芯片逐步切入光通信赛\n   网易科技｜2026-08-29｜https://www.163.com/dy/article/L5F658SH05198CJN.html\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “TCL科技：将从磷化铟激光芯片逐步切入光通信赛” against primary-source evidence.\n\n3. [2026-08-29] 交行副行长钱斌答每经：加快完善AI治理架构，确\n   网易科技｜2026-08-29｜https://www.163.com/dy/article/L5F7J2CS0512B07B.html\n   报道角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “交行副行长钱斌答每经：加快完善AI治理架构，确” against primary-source evidence.\n\n4. [2026-08-29] 手刃大牛、下架爆款！起点正在手撕AI\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “手刃大牛、下架爆款！起点正在手撕AI” against primary-source evidence.\n\n5. [16:02] 泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列\n   IT之家｜2026-08-29｜https://www.ithome.com/0/995/821.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml\n- TCL科技：将从磷化铟激光芯片逐步切入光通信赛｜网易科技｜https://www.163.com/dy/article/L5F658SH05198CJN.html\n- 交行副行长钱斌答每经：加快完善AI治理架构，确｜网易科技｜https://www.163.com/dy/article/L5F7J2CS0512B07B.html\n- 手刃大牛、下架爆款！起点正在手撕AI｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml\n- 泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列｜IT之家｜https://www.ithome.com/0/995/821.htm\n- Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/\n4. Anthropic proposes plumbing spec to link AI agents to lab kit and robots｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135\n5. Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India｜TechCrunch｜https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-29｜V3\n生成时间：2026/8/29 01:42:44\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2575｜确认今日 6｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 7 条\n延续跟踪线索：国内 0 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-29] OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活” against primary-source evidence.\n\n2. [2026-08-29] TCL科技：将从磷化铟激光芯片逐步切入光通信赛\n   网易科技｜2026-08-29｜https://www.163.com/dy/article/L5F658SH05198CJN.html\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “TCL科技：将从磷化铟激光芯片逐步切入光通信赛” against primary-source evidence.\n\n3. [2026-08-29] 交行副行长钱斌答每经：加快完善AI治理架构，确\n   网易科技｜2026-08-29｜https://www.163.com/dy/article/L5F7J2CS0512B07B.html\n   报道角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “交行副行长钱斌答每经：加快完善AI治理架构，确” against primary-source evidence.\n\n4. [2026-08-29] 手刃大牛、下架爆款！起点正在手撕AI\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “手刃大牛、下架爆款！起点正在手撕AI” against primary-source evidence.\n\n5. [16:02] 泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列\n   IT之家｜2026-08-29｜https://www.ithome.com/0/995/821.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml\n- TCL科技：将从磷化铟激光芯片逐步切入光通信赛｜网易科技｜https://www.163.com/dy/article/L5F658SH05198CJN.html\n- 交行副行长钱斌答每经：加快完善AI治理架构，确｜网易科技｜https://www.163.com/dy/article/L5F7J2CS0512B07B.html\n- 手刃大牛、下架爆款！起点正在手撕AI｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml\n- 泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列｜IT之家｜https://www.ithome.com/0/995/821.htm\n- Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/\n4. Anthropic proposes plumbing spec to link AI agents to lab kit and robots｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135\n5. Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India｜TechCrunch｜https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-29｜生成时间：2026/8/29 01:42:44｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2575｜确认今日 6｜国际背景 20</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 7 条<br>延续跟踪线索：国内 0 条｜国际 13 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-29] OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活</strong>\n      <span>新浪科技｜2026-08-29｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-29] TCL科技：将从磷化铟激光芯片逐步切入光通信赛</strong>\n      <span>网易科技｜2026-08-29｜<a href=\"https://www.163.com/dy/article/L5F658SH05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “TCL科技：将从磷化铟激光芯片逐步切入光通信赛” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-29] 交行副行长钱斌答每经：加快完善AI治理架构，确</strong>\n      <span>网易科技｜2026-08-29｜<a href=\"https://www.163.com/dy/article/L5F7J2CS0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：162｜需核验来源</span>\n      <p>报道角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “交行副行长钱斌答每经：加快完善AI治理架构，确” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-29] 手刃大牛、下架爆款！起点正在手撕AI</strong>\n      <span>新浪科技｜2026-08-29｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “手刃大牛、下架爆款！起点正在手撕AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [16:02] 泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列</strong>\n      <span>IT之家｜2026-08-29｜<a href=\"https://www.ithome.com/0/995/821.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：151｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount</strong>\n      <span>时间：Fri, 28 Aug 2026 12:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Unsafe at any speed: AI optimists are turning cautious as safety concern” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access</strong>\n      <span>时间：Fri, 28 Aug 2026 03:29:45 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI rolls out ads on select ChatGPT plans in India to boost monetizat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World</strong>\n      <span>时间：Thu, 27 Aug 2026 18:06:52 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “This Is How Anthropic Thinks AI Agents Should Navigate the Physical Worl” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Anthropic proposes plumbing spec to link AI agents to lab kit and robots</strong>\n      <span>时间：Fri, 28 Aug 2026 01:22:35 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic proposes plumbing spec to link AI agents to lab kit and robots” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India</strong>\n      <span>时间：Fri, 28 Aug 2026 12:21:06 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta executive leaves for OpenAI as the social media giant faces growing” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/29 01:42:44\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 7 条\n延续跟踪线索：国内 0 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-29] OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活” against primary-source evidence.\n\n2. [2026-08-29] TCL科技：将从磷化铟激光芯片逐步切入光通信赛\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L5F658SH05198CJN.html\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “TCL科技：将从磷化铟激光芯片逐步切入光通信赛” against primary-source evidence.\n\n3. [2026-08-29] 交行副行长钱斌答每经：加快完善AI治理架构，确\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L5F7J2CS0512B07B.html\n   角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “交行副行长钱斌答每经：加快完善AI治理架构，确” against primary-source evidence.\n\n4. [2026-08-29] 手刃大牛、下架爆款！起点正在手撕AI\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “手刃大牛、下架爆款！起点正在手撕AI” against primary-source evidence.\n\n5. [16:02] 泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列\n   来源：IT之家\n   链接：https://www.ithome.com/0/995/821.htm\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml\n- TCL科技：将从磷化铟激光芯片逐步切入光通信赛｜网易科技｜https://www.163.com/dy/article/L5F658SH05198CJN.html\n- 交行副行长钱斌答每经：加快完善AI治理架构，确｜网易科技｜https://www.163.com/dy/article/L5F7J2CS0512B07B.html\n- 手刃大牛、下架爆款！起点正在手撕AI｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml\n- 泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列｜IT之家｜https://www.ithome.com/0/995/821.htm\n- Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/\n4. Anthropic proposes plumbing spec to link AI agents to lab kit and robots｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135\n5. Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India｜TechCrunch｜https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-29｜V3\n生成时间：2026/8/29 02:17:57\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2514｜确认今日 6｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 2 条\n延续跟踪线索：国内 6 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-29] OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活” against primary-source evidence.\n\n2. [2026-08-29] TCL科技：将从磷化铟激光芯片逐步切入光通信赛\n   网易科技｜2026-08-29｜https://www.163.com/dy/article/L5F658SH05198CJN.html\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “TCL科技：将从磷化铟激光芯片逐步切入光通信赛” against primary-source evidence.\n\n3. [2026-08-29] 交行副行长钱斌答每经：加快完善AI治理架构，确\n   网易科技｜2026-08-29｜https://www.163.com/dy/article/L5F7J2CS0512B07B.html\n   报道角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “交行副行长钱斌答每经：加快完善AI治理架构，确” against primary-source evidence.\n\n4. [2026-08-29] 手刃大牛、下架爆款！起点正在手撕AI\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “手刃大牛、下架爆款！起点正在手撕AI” against primary-source evidence.\n\n5. [16:02] 泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列\n   IT之家｜2026-08-29｜https://www.ithome.com/0/995/821.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列” against primary-source evidence.\n\n本次新增线索：\n- SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas｜AP Technology｜https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c\n- Apple's Mac Is 'Hostile' to AI Agents, Legendary Coder Warns: Could It Hurt Apple's AI Future?｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apples-mac-hostile-ai-agents-180440793.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas｜AP Technology｜https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n4. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/\n5. Anthropic proposes plumbing spec to link AI agents to lab kit and robots｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-29｜V3\n生成时间：2026/8/29 02:17:57\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2514｜确认今日 6｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 2 条\n延续跟踪线索：国内 6 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-29] OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活” against primary-source evidence.\n\n2. [2026-08-29] TCL科技：将从磷化铟激光芯片逐步切入光通信赛\n   网易科技｜2026-08-29｜https://www.163.com/dy/article/L5F658SH05198CJN.html\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “TCL科技：将从磷化铟激光芯片逐步切入光通信赛” against primary-source evidence.\n\n3. [2026-08-29] 交行副行长钱斌答每经：加快完善AI治理架构，确\n   网易科技｜2026-08-29｜https://www.163.com/dy/article/L5F7J2CS0512B07B.html\n   报道角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “交行副行长钱斌答每经：加快完善AI治理架构，确” against primary-source evidence.\n\n4. [2026-08-29] 手刃大牛、下架爆款！起点正在手撕AI\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “手刃大牛、下架爆款！起点正在手撕AI” against primary-source evidence.\n\n5. [16:02] 泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列\n   IT之家｜2026-08-29｜https://www.ithome.com/0/995/821.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列” against primary-source evidence.\n\n本次新增线索：\n- SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas｜AP Technology｜https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c\n- Apple's Mac Is 'Hostile' to AI Agents, Legendary Coder Warns: Could It Hurt Apple's AI Future?｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apples-mac-hostile-ai-agents-180440793.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas｜AP Technology｜https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n4. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/\n5. Anthropic proposes plumbing spec to link AI agents to lab kit and robots｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-29｜生成时间：2026/8/29 02:17:57｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2514｜确认今日 6｜国际背景 21</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 2 条<br>延续跟踪线索：国内 6 条｜国际 19 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-29] OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活</strong>\n      <span>新浪科技｜2026-08-29｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-29] TCL科技：将从磷化铟激光芯片逐步切入光通信赛</strong>\n      <span>网易科技｜2026-08-29｜<a href=\"https://www.163.com/dy/article/L5F658SH05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “TCL科技：将从磷化铟激光芯片逐步切入光通信赛” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-29] 交行副行长钱斌答每经：加快完善AI治理架构，确</strong>\n      <span>网易科技｜2026-08-29｜<a href=\"https://www.163.com/dy/article/L5F7J2CS0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：100｜记者分：162｜需核验来源</span>\n      <p>报道角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “交行副行长钱斌答每经：加快完善AI治理架构，确” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-29] 手刃大牛、下架爆款！起点正在手撕AI</strong>\n      <span>新浪科技｜2026-08-29｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “手刃大牛、下架爆款！起点正在手撕AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [16:02] 泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列</strong>\n      <span>IT之家｜2026-08-29｜<a href=\"https://www.ithome.com/0/995/821.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：151｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas</strong>\n      <span>时间：2026-08-28｜来源：AP Technology｜<a href=\"https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX recovers Starship from the Indian Ocean a month after launch and ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access</strong>\n      <span>时间：Fri, 28 Aug 2026 03:29:45 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI rolls out ads on select ChatGPT plans in India to boost monetizat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount</strong>\n      <span>时间：Fri, 28 Aug 2026 12:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Unsafe at any speed: AI optimists are turning cautious as safety concern” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World</strong>\n      <span>时间：Thu, 27 Aug 2026 18:06:52 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “This Is How Anthropic Thinks AI Agents Should Navigate the Physical Worl” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Anthropic proposes plumbing spec to link AI agents to lab kit and robots</strong>\n      <span>时间：Fri, 28 Aug 2026 01:22:35 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic proposes plumbing spec to link AI agents to lab kit and robots” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/29 02:17:57\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 2 条\n延续跟踪线索：国内 6 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-29] OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活” against primary-source evidence.\n\n2. [2026-08-29] TCL科技：将从磷化铟激光芯片逐步切入光通信赛\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L5F658SH05198CJN.html\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “TCL科技：将从磷化铟激光芯片逐步切入光通信赛” against primary-source evidence.\n\n3. [2026-08-29] 交行副行长钱斌答每经：加快完善AI治理架构，确\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L5F7J2CS0512B07B.html\n   角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “交行副行长钱斌答每经：加快完善AI治理架构，确” against primary-source evidence.\n\n4. [2026-08-29] 手刃大牛、下架爆款！起点正在手撕AI\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “手刃大牛、下架爆款！起点正在手撕AI” against primary-source evidence.\n\n5. [16:02] 泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列\n   来源：IT之家\n   链接：https://www.ithome.com/0/995/821.htm\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列” against primary-source evidence.\n\n本次新增线索：\n- SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas｜AP Technology｜https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c\n- Apple's Mac Is 'Hostile' to AI Agents, Legendary Coder Warns: Could It Hurt Apple's AI Future?｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apples-mac-hostile-ai-agents-180440793.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（1 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas｜AP Technology｜https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n4. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/\n5. Anthropic proposes plumbing spec to link AI agents to lab kit and robots｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };

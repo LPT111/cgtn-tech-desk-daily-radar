@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/29 01:42:44
+生成时间：2026/8/29 02:17:57
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 7 条
-延续跟踪线索：国内 0 条｜国际 13 条
+新增核心线索：国内 0 条｜国际 2 条
+延续跟踪线索：国内 6 条｜国际 19 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -39,12 +39,8 @@ ChenChen 今日 Briefing｜V3
    角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列” against primary-source evidence.
 
 本次新增线索：
-- OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipwxpp9810061.shtml
-- TCL科技：将从磷化铟激光芯片逐步切入光通信赛｜网易科技｜https://www.163.com/dy/article/L5F658SH05198CJN.html
-- 交行副行长钱斌答每经：加快完善AI治理架构，确｜网易科技｜https://www.163.com/dy/article/L5F7J2CS0512B07B.html
-- 手刃大牛、下架爆款！起点正在手撕AI｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipwxpm5783675.shtml
-- 泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列｜IT之家｜https://www.ithome.com/0/995/821.htm
-- Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853
+- SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas｜AP Technology｜https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c
+- Apple's Mac Is 'Hostile' to AI Agents, Legendary Coder Warns: Could It Hurt Apple's AI Future?｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apples-mac-hostile-ai-agents-180440793.html
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（1 条，1 个来源）
@@ -55,11 +51,11 @@ ChenChen 今日 Briefing｜V3
 - 科学前沿：
 
 国际科技背景：
-1. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853
+1. SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas｜AP Technology｜https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c
 2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html
-3. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/
-4. Anthropic proposes plumbing spec to link AI agents to lab kit and robots｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135
-5. Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India｜TechCrunch｜https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/
+3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853
+4. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/
+5. Anthropic proposes plumbing spec to link AI agents to lab kit and robots｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
