@@ -1,14 +1,14 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/29 02:17:57
+生成时间：2026/8/29 02:46:41
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 0 条｜国际 2 条
-延续跟踪线索：国内 6 条｜国际 19 条
-本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
+新增核心线索：国内 0 条｜国际 0 条
+延续跟踪线索：国内 6 条｜国际 21 条
+本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
 1. [2026-08-29] OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活
@@ -37,8 +37,7 @@ ChenChen 今日 Briefing｜V3
    角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “泄露文件催生民间开发，英伟达 DLSS 5 成功移植至 RTX 40 系列” against primary-source evidence.
 
 本次新增线索：
-- SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas｜AP Technology｜https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c
-- Apple's Mac Is 'Hostile' to AI Agents, Legendary Coder Warns: Could It Hurt Apple's AI Future?｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apples-mac-hostile-ai-agents-180440793.html
+- 暂无新增核心线索。
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（1 条，1 个来源）
@@ -49,11 +48,11 @@ ChenChen 今日 Briefing｜V3
 - 科学前沿：
 
 国际科技背景：
-1. SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas｜AP Technology｜https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c
-2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html
-3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853
-4. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/
-5. Anthropic proposes plumbing spec to link AI agents to lab kit and robots｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135
+1. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html
+2. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853
+3. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/
+4. Anthropic proposes plumbing spec to link AI agents to lab kit and robots｜The Register｜https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135
+5. SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas｜AP Technology｜https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
