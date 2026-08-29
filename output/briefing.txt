@@ -1,7 +1,7 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/29 12:06:58
+生成时间：2026/8/29 12:11:11
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
@@ -11,10 +11,10 @@ ChenChen 今日 Briefing｜V3
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-29] 机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”
+1. [2026-08-29] 国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxusx3963810.shtml
-   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipxyyz9380674.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB” against primary-source evidence.
 
 2. [2026-08-29] 腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务
    来源：新浪科技
@@ -37,12 +37,12 @@ ChenChen 今日 Briefing｜V3
    角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产” against primary-source evidence.
 
 本次新增线索：
-- 久之洋：公司产品未参与到探月工程嫦娥七号｜网易科技｜https://www.163.com/dy/article/L5GFEVBR0512B07B.html
+- 国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipxyyz9380674.shtml
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（4 条，3 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
 - 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿与科研设施（1 条，1 个来源）

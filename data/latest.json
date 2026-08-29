@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T04:06:58.906Z",
+  "generatedAt": "2026-08-29T04:11:11.840Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-29",
   "changeSummary": {
@@ -9,9 +9,9 @@
     "globalContinued": 23,
     "topNewDomestic": [
       {
-        "title": "久之洋：公司产品未参与到探月工程嫦娥七号",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L5GFEVBR0512B07B.html"
+        "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipxyyz9380674.shtml"
       }
     ],
     "topNewGlobal": [],
@@ -44,19 +44,14 @@
       "optional": true
     },
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -64,8 +59,13 @@
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -86,19 +86,14 @@
       "optional": true
     },
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -106,8 +101,13 @@
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 181,
+      "parsed": 175,
       "failed": false,
       "optional": false
     },
@@ -224,8 +224,9 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -289,16 +290,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -319,8 +318,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -328,7 +328,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -376,18 +376,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1305,
+  "itemsSeen": 1226,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 294,
-  "itemsAfterDedupe": 231,
+  "itemsAfterRelevantFilter": 255,
+  "itemsAfterDedupe": 214,
   "todayItemsSeen": 21,
   "suspectedItemsSeen": 18,
-  "skippedNonToday": 188,
+  "skippedNonToday": 172,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 181,
+      "parsed": 175,
       "failed": false,
       "optional": false
     },
@@ -486,8 +486,9 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -551,16 +552,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -581,8 +580,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -590,7 +590,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -797,19 +797,14 @@
       "optional": true
     },
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -817,8 +812,13 @@
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -912,15 +912,15 @@
       ]
     },
     {
-      "topic": "人形机器人与具身智能",
+      "topic": "AI动态",
       "count": 2,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”",
-        "腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务"
+        "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+        "一个月连上三部，AI长片在今年夏天走入拐点"
       ]
     },
     {
@@ -933,6 +933,17 @@
       "items": [
         "小牛电动签约鸿图计划：启动行业首个规模化开源鸿蒙系统装车计划，2026 年内计划实现 20 万台全面装车",
         "华为徐直军谈鸿蒙生态全球发展：新生态真正成功的标志，必然是能够走出国门、在全球市场占有一席之地"
+      ]
+    },
+    {
+      "topic": "人形机器人与具身智能",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务"
       ]
     },
     {
@@ -958,28 +969,6 @@
       ]
     },
     {
-      "topic": "商业航天与卫星互联网",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "久之洋：公司产品未参与到探月工程嫦娥七号"
-      ]
-    },
-    {
-      "topic": "AI动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "一个月连上三部，AI长片在今年夏天走入拐点"
-      ]
-    },
-    {
       "topic": "国产 GPU / 算力基础设施",
       "count": 1,
       "sourceCount": 1,
@@ -988,6 +977,17 @@
       ],
       "items": [
         "国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%"
+      ]
+    },
+    {
+      "topic": "商业航天与卫星互联网",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "久之洋：公司产品未参与到探月工程嫦娥七号"
       ]
     },
     {
@@ -1005,71 +1005,71 @@
   "leads": [
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”",
-      "summary": "《投资者网》吴微8月26日，第二届世界人形机器人运动会在北京国家速滑馆落幕。本届运动会，来自16个国家的666支队伍、2056台机器人参加了比赛，赛事设置51个赛项、1301场比赛，规模较首届明显扩大。图片来源：世界人形机器人运动会公众号相...",
+      "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+      "summary": "IT之家 8 月 29 日消息，据央视新闻昨日报道，2026 中国国际大数据产业博览会正在贵州贵阳举行。国家数据局相关负责人表示，全国已建成高质量数据集超 12.6 万个，为人工智能发展提供支撑。高质量数据集，是指经过采集、加工等数据处理，...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxusx3963810.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipxyyz9380674.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxusx3963810.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipxyyz9380674.shtml"
       ],
       "publishedAt": "2026-08-29",
       "date": "2026-08-29",
-      "category": "机器人",
-      "classificationConfidence": 0.99,
+      "category": "AI",
+      "classificationConfidence": 0.71,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 179,
-      "reporterScore": 193,
+      "score": 184,
+      "reporterScore": 200,
       "scoreBreakdown": {
-        "hardTech": 90,
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 12,
-        "visual": 8,
+        "visual": 0,
         "international": 9,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
+        "visual": false,
         "international": true,
-        "interview": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 123
+        "hardTechWeight": 95,
+        "reporterScore": 130
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
       "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”” against primary-source evidence.",
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "《投资者网》吴微8月26日，第二届世界人形机器人运动会在北京国家速滑馆落幕。本届运动会，来自16个国家的666支队伍、2056台机器人参加了比赛，赛事设置51个赛项、1301场比赛，规模较首届明显扩大。图片来源：世界人形机器人运动会公众号相...",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 8 月 29 日消息，据央视新闻昨日报道，2026 中国国际大数据产业博览会正在贵州贵阳举行。国家数据局相关负责人表示，全国已建成高质量数据集超 12.6 万个，为人工智能发展提供支撑。高质量数据集，是指经过采集、加工等数据处理，...",
       "relatedTitles": [
-        "机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”"
+        "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB"
       ],
-      "isNewSinceLastRun": false
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1616,74 +1616,6 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "久之洋：公司产品未参与到探月工程嫦娥七号",
-      "summary": "久之洋：公司产品未参与到探月工程嫦娥七号,经营,久之洋,嫦娥七号,探月工程,商业航天",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L5GFEVBR0512B07B.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L5GFEVBR0512B07B.html"
-      ],
-      "publishedAt": "2026-08-29",
-      "date": "2026-08-29",
-      "category": "太空与低空",
-      "classificationConfidence": 0.84,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "priority": 5,
-      "score": 162,
-      "reporterScore": 162,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “久之洋：公司产品未参与到探月工程嫦娥七号” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "商业航天与卫星互联网",
-      "rawText": "久之洋：公司产品未参与到探月工程嫦娥七号,经营,久之洋,嫦娥七号,探月工程,商业航天",
-      "relatedTitles": [
-        "久之洋：公司产品未参与到探月工程嫦娥七号"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "AI智能体入侵“抱抱脸”事件提示 人工智能发展应敲响安防警钟",
       "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 今日视点丨AI智能体入侵“抱抱脸”事件调查报告提示，人工智能发展应敲响安防警钟 2026-08-29 01:01:00 来源: 科技日报 点击数： 热点",
@@ -2020,6 +1952,74 @@
       "rawText": "TCL科技：将从磷化铟激光芯片逐步切入光通信赛道,光器件,集成度,激光芯片,tcl科技,TCL科技,全球半导体领域",
       "relatedTitles": [
         "TCL科技：将从磷化铟激光芯片逐步切入光通信赛"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "久之洋：公司产品未参与到探月工程嫦娥七号",
+      "summary": "久之洋：公司产品未参与到探月工程嫦娥七号,经营,久之洋,嫦娥七号,探月工程,商业航天",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L5GFEVBR0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L5GFEVBR0512B07B.html"
+      ],
+      "publishedAt": "2026-08-29",
+      "date": "2026-08-29",
+      "category": "太空与低空",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 162,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “久之洋：公司产品未参与到探月工程嫦娥七号” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "久之洋：公司产品未参与到探月工程嫦娥七号,经营,久之洋,嫦娥七号,探月工程,商业航天",
+      "relatedTitles": [
+        "久之洋：公司产品未参与到探月工程嫦娥七号"
       ],
       "isNewSinceLastRun": false
     },
@@ -4378,8 +4378,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-29｜V3\n生成时间：2026/8/29 12:06:58\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2521｜确认今日 21｜国际背景 23\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-29] 机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxusx3963810.shtml\n   报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”” against primary-source evidence.\n\n2. [2026-08-29] 腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/shenji/2026-08-29/doc-inipxyyx5570801.shtml\n   报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务” against primary-source evidence.\n\n3. [2026-08-29] 小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/discovery/2026-08-29/doc-inipxyyz9373789.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本” against primary-source evidence.\n\n4. [2026-08-29] 长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxyyz9373442.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”” against primary-source evidence.\n\n5. [00:33] 长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产\n   IT之家｜2026-08-29｜https://www.ithome.com/0/995/852.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产” against primary-source evidence.\n\n本次新增线索：\n- 久之洋：公司产品未参与到探月工程嫦娥七号｜网易科技｜https://www.163.com/dy/article/L5GFEVBR0512B07B.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n4. An Anthropic researcher just gave us a peek at self-improving AI｜TechCrunch｜https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/\n5. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-29｜V3\n生成时间：2026/8/29 12:06:58\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2521｜确认今日 21｜国际背景 23\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-29] 机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxusx3963810.shtml\n   报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”” against primary-source evidence.\n\n2. [2026-08-29] 腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/shenji/2026-08-29/doc-inipxyyx5570801.shtml\n   报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务” against primary-source evidence.\n\n3. [2026-08-29] 小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/discovery/2026-08-29/doc-inipxyyz9373789.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本” against primary-source evidence.\n\n4. [2026-08-29] 长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxyyz9373442.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”” against primary-source evidence.\n\n5. [00:33] 长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产\n   IT之家｜2026-08-29｜https://www.ithome.com/0/995/852.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产” against primary-source evidence.\n\n本次新增线索：\n- 久之洋：公司产品未参与到探月工程嫦娥七号｜网易科技｜https://www.163.com/dy/article/L5GFEVBR0512B07B.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n4. An Anthropic researcher just gave us a peek at self-improving AI｜TechCrunch｜https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/\n5. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-29｜生成时间：2026/8/29 12:06:58｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2521｜确认今日 21｜国际背景 23</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 20 条｜国际 23 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-29] 机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”</strong>\n      <span>新浪科技｜2026-08-29｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxusx3963810.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-29] 腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务</strong>\n      <span>新浪科技｜2026-08-29｜<a href=\"https://finance.sina.com.cn/tech/shenji/2026-08-29/doc-inipxyyx5570801.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：188｜需核验来源</span>\n      <p>报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-29] 小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本</strong>\n      <span>新浪科技｜2026-08-29｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-29/doc-inipxyyz9373789.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-29] 长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”</strong>\n      <span>新浪科技｜2026-08-29｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxyyz9373442.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [00:33] 长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产</strong>\n      <span>IT之家｜2026-08-29｜<a href=\"https://www.ithome.com/0/995/852.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：179｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine</strong>\n      <span>时间：Fri, 28 Aug 2026 23:24:27 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Chinese automakers are following Tesla’s bet that robots are the next bi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access</strong>\n      <span>时间：Fri, 28 Aug 2026 03:29:45 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI rolls out ads on select ChatGPT plans in India to boost monetizat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount</strong>\n      <span>时间：Fri, 28 Aug 2026 12:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Unsafe at any speed: AI optimists are turning cautious as safety concern” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. An Anthropic researcher just gave us a peek at self-improving AI</strong>\n      <span>时间：Fri, 28 Aug 2026 19:30:38 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “An Anthropic researcher just gave us a peek at self-improving AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World</strong>\n      <span>时间：Thu, 27 Aug 2026 18:06:52 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “This Is How Anthropic Thinks AI Agents Should Navigate the Physical Worl” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/29 12:06:58\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-29] 机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxusx3963810.shtml\n   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “机器人运动会跑进8秒：赛场在狂欢，工厂在“算账”” against primary-source evidence.\n\n2. [2026-08-29] 腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/shenji/2026-08-29/doc-inipxyyx5570801.shtml\n   角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务” against primary-source evidence.\n\n3. [2026-08-29] 小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-29/doc-inipxyyz9373789.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本” against primary-source evidence.\n\n4. [2026-08-29] 长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxyyz9373442.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”” against primary-source evidence.\n\n5. [00:33] 长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产\n   来源：IT之家\n   链接：https://www.ithome.com/0/995/852.htm\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产” against primary-source evidence.\n\n本次新增线索：\n- 久之洋：公司产品未参与到探月工程嫦娥七号｜网易科技｜https://www.163.com/dy/article/L5GFEVBR0512B07B.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n4. An Anthropic researcher just gave us a peek at self-improving AI｜TechCrunch｜https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/\n5. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-29｜V3\n生成时间：2026/8/29 12:11:11\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2442｜确认今日 21｜国际背景 23\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-29] 国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipxyyz9380674.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB” against primary-source evidence.\n\n2. [2026-08-29] 腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/shenji/2026-08-29/doc-inipxyyx5570801.shtml\n   报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务” against primary-source evidence.\n\n3. [2026-08-29] 小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/discovery/2026-08-29/doc-inipxyyz9373789.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本” against primary-source evidence.\n\n4. [2026-08-29] 长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxyyz9373442.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”” against primary-source evidence.\n\n5. [00:33] 长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产\n   IT之家｜2026-08-29｜https://www.ithome.com/0/995/852.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产” against primary-source evidence.\n\n本次新增线索：\n- 国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipxyyz9380674.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n4. An Anthropic researcher just gave us a peek at self-improving AI｜TechCrunch｜https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/\n5. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-29｜V3\n生成时间：2026/8/29 12:11:11\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2442｜确认今日 21｜国际背景 23\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-29] 国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipxyyz9380674.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB” against primary-source evidence.\n\n2. [2026-08-29] 腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/shenji/2026-08-29/doc-inipxyyx5570801.shtml\n   报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务” against primary-source evidence.\n\n3. [2026-08-29] 小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/discovery/2026-08-29/doc-inipxyyz9373789.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本” against primary-source evidence.\n\n4. [2026-08-29] 长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”\n   新浪科技｜2026-08-29｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxyyz9373442.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”” against primary-source evidence.\n\n5. [00:33] 长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产\n   IT之家｜2026-08-29｜https://www.ithome.com/0/995/852.htm\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产” against primary-source evidence.\n\n本次新增线索：\n- 国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipxyyz9380674.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n4. An Anthropic researcher just gave us a peek at self-improving AI｜TechCrunch｜https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/\n5. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-29｜生成时间：2026/8/29 12:11:11｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2442｜确认今日 21｜国际背景 23</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 20 条｜国际 23 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-29] 国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB</strong>\n      <span>新浪科技｜2026-08-29｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipxyyz9380674.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-29] 腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务</strong>\n      <span>新浪科技｜2026-08-29｜<a href=\"https://finance.sina.com.cn/tech/shenji/2026-08-29/doc-inipxyyx5570801.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：188｜需核验来源</span>\n      <p>报道角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-29] 小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本</strong>\n      <span>新浪科技｜2026-08-29｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-29/doc-inipxyyz9373789.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-29] 长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”</strong>\n      <span>新浪科技｜2026-08-29｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxyyz9373442.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [00:33] 长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产</strong>\n      <span>IT之家｜2026-08-29｜<a href=\"https://www.ithome.com/0/995/852.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：179｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine</strong>\n      <span>时间：Fri, 28 Aug 2026 23:24:27 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Chinese automakers are following Tesla’s bet that robots are the next bi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access</strong>\n      <span>时间：Fri, 28 Aug 2026 03:29:45 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI rolls out ads on select ChatGPT plans in India to boost monetizat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount</strong>\n      <span>时间：Fri, 28 Aug 2026 12:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Unsafe at any speed: AI optimists are turning cautious as safety concern” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. An Anthropic researcher just gave us a peek at self-improving AI</strong>\n      <span>时间：Fri, 28 Aug 2026 19:30:38 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “An Anthropic researcher just gave us a peek at self-improving AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World</strong>\n      <span>时间：Thu, 27 Aug 2026 18:06:52 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “This Is How Anthropic Thinks AI Agents Should Navigate the Physical Worl” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/29 12:11:11\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 20 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-29] 国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipxyyz9380674.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB” against primary-source evidence.\n\n2. [2026-08-29] 腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/shenji/2026-08-29/doc-inipxyyx5570801.shtml\n   角度：Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “腾势汽车亮相世界人形机器人运动会，腾势N8L闪充版为机器人提供充电服务” against primary-source evidence.\n\n3. [2026-08-29] 小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-29/doc-inipxyyz9373789.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本” against primary-source evidence.\n\n4. [2026-08-29] 长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxyyz9373442.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “长鑫官宣LPDDR6内存量产，雷军发文祝贺“非常了不起”” against primary-source evidence.\n\n5. [00:33] 长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产\n   来源：IT之家\n   链接：https://www.ithome.com/0/995/852.htm\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产” against primary-source evidence.\n\n本次新增线索：\n- 国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipxyyz9380674.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n4. An Anthropic researcher just gave us a peek at self-improving AI｜TechCrunch｜https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/\n5. This Is How Anthropic Thinks AI Agents Should Navigate the Physical World｜WIRED Business｜https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
