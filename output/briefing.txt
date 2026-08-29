@@ -1,56 +1,55 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/29 20:26:25
+生成时间：2026/8/29 20:43:28
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 18 条｜国际 1 条
-延续跟踪线索：国内 26 条｜国际 21 条
+新增核心线索：国内 5 条｜国际 0 条
+延续跟踪线索：国内 31 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-29] 中科创达携手北京人形机器人创新中心推动机器人规模化落地
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipywem3517327.shtml
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “中科创达携手北京人形机器人创新中心推动机器人规模化落地” against primary-source evidence.
+1. [10:00] 国内首个车载移动式词元工厂亮相，探索算电协同新模式
+   来源：IT之家
+   链接：https://www.ithome.com/0/995/975.htm
+   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国内首个车载移动式词元工厂亮相，探索算电协同新模式” against primary-source evidence.
 
-2. [2026-08-29] 机器人也会“阿拉C杠”？零失误拿下世界亚军，背后公司藏不住了？
+2. [2026-08-29] 小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipywem3517364.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人也会“阿拉C杠”？零失误拿下世界亚军，背后公司藏不住了？” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-08-29/doc-inipxyyz9373789.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “小米18 Fold首发搭载长鑫LPDDR6+玄戒O3！央视：为中国半导体协同突破提供了新样本” against primary-source evidence.
 
-3. [2026-08-29] 国内首个车载移动式词元工厂亮相，探索算电协同新模式
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-29/doc-inipyrwp3614253.shtml
-   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国内首个车载移动式词元工厂亮相，探索算电协同新模式” against primary-source evidence.
+3. [2026-08-29] 空客据悉考虑出售美国航天业务
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L5GQHHTC0534A4SC.html
+   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “空客据悉考虑出售美国航天业务” against primary-source evidence.
 
-4. [2026-08-29] AI时代的银发课堂：及象教育以适老化学习系统助力中老年跨越数字鸿沟
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipywem3517330.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI时代的银发课堂：及象教育以适老化学习系统助力中老年跨越数字鸿沟” against primary-source evidence.
+4. [03:59] 国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB
+   来源：IT之家
+   链接：https://www.ithome.com/0/995/893.htm
+   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB” against primary-source evidence.
 
-5. [2026-08-29] 全球变暖加速冰川消融 科学家警告极地与高山地质失稳风险上升
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-08-29/doc-inipywem3523266.shtml
-   角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “全球变暖加速冰川消融 科学家警告极地与高山地质失稳风险上升” against primary-source evidence.
+5. [2026-08-29] 新华鲜报丨6.78万亿元 我国数据产业稳健增长
+   来源：中国日报-科技
+   链接：https://china.chinadaily.com.cn/a/202608/29/WS6a921b8ce4b09a165c786bb7.html
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “新华鲜报丨6.78万亿元 我国数据产业稳健增长” against primary-source evidence.
 
 本次新增线索：
-- 中科创达携手北京人形机器人创新中心推动机器人规模化落地｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipywem3517327.shtml
-- 机器人也会“阿拉C杠”？零失误拿下世界亚军，背后公司藏不住了？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipywem3517364.shtml
-- AI时代的银发课堂：及象教育以适老化学习系统助力中老年跨越数字鸿沟｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipywem3517330.shtml
-- 全球变暖加速冰川消融 科学家警告极地与高山地质失稳风险上升｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-29/doc-inipywem3523266.shtml
-- 营收破3448亿，海外销量猛增68%！比亚迪下半年紧盯电池产能｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxyyz9372893.shtml
-- Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it｜The Register｜https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263
+- 国内首个车载移动式词元工厂亮相，探索算电协同新模式｜IT之家｜https://www.ithome.com/0/995/975.htm
+- 新华鲜报丨6.78万亿元 我国数据产业稳健增长｜中国日报-科技｜https://china.chinadaily.com.cn/a/202608/29/WS6a921b8ce4b09a165c786bb7.html
+- OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号｜IT之家｜https://www.ithome.com/0/996/022.htm
+- 适用于 Win10 的最后一版英伟达 GeForce Game Ready 显卡驱动将于 10 月发布｜IT之家｜https://www.ithome.com/0/995/915.htm
+- 跃居全球第一！中国新能源汽车正在实力“圈粉”｜中国日报-科技｜https://china.chinadaily.com.cn/a/202608/29/WS6a927fdae4b09a165c786c25.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（12 条，3 个来源）
-- 芯片/半导体：半导体供应链（4 条，2 个来源）
+- AI 应用：AI 应用与智能体（13 条，3 个来源）
+- 芯片/半导体：半导体供应链（3 条，2 个来源）
 - 机器人/具身智能：机器人动态（2 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（6 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）
 - 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/
