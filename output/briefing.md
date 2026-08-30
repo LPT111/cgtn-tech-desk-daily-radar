@@ -3,51 +3,50 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/30 08:47:15
+生成时间：2026/8/30 09:12:22
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 10 条｜国际 7 条
-延续跟踪线索：国内 0 条｜国际 11 条
+新增核心线索：国内 6 条｜国际 0 条
+延续跟踪线索：国内 8 条｜国际 18 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司
+1. [2026-08-30] AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%” against primary-source evidence.
+
+2. [2026-08-30] 应急管理部部署卫星遥感加强吉隆泥石流灾害监测
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “应急管理部部署卫星遥感加强吉隆泥石流灾害监测” against primary-source evidence.
+
+3. [01:09] 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一
+   来源：IT之家
+   链接：https://www.ithome.com/0/996/075.htm
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.
+
+4. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-08-30/doc-inipzhuf8520962.shtml
    角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司” against primary-source evidence.
 
-2. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设
+5. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxrx3055917.shtml
    角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设” against primary-source evidence.
 
-3. [00:33] Digitimes 称 M6 是苹果 2nm 探路先锋，服务 A20 Pro 芯片量产落地
-   来源：IT之家
-   链接：https://www.ithome.com/0/996/071.htm
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “Digitimes 称 M6 是苹果 2nm 探路先锋，服务 A20 Pro 芯片量产落地” against primary-source evidence.
-
-4. [22:56] 应急管理部部署卫星遥感加强吉隆泥石流灾害监测
-   来源：IT之家
-   链接：https://www.ithome.com/0/996/054.htm
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “应急管理部部署卫星遥感加强吉隆泥石流灾害监测” against primary-source evidence.
-
-5. [2026-08-30] 少 1 个展开步骤：部分谷歌搜索测试默认进入 AI 模式，下移传统蓝链搜索结果
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxsc8568264.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “少 1 个展开步骤：部分谷歌搜索测试默认进入 AI 模式，下移传统蓝链搜索结果” against primary-source evidence.
-
 本次新增线索：
-- 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-inipzhuf8520962.shtml
-- 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxrx3055917.shtml
-- Digitimes 称 M6 是苹果 2nm 探路先锋，服务 A20 Pro 芯片量产落地｜IT之家｜https://www.ithome.com/0/996/071.htm
-- 应急管理部部署卫星遥感加强吉隆泥石流灾害监测｜IT之家｜https://www.ithome.com/0/996/054.htm
-- 少 1 个展开步骤：部分谷歌搜索测试默认进入 AI 模式，下移传统蓝链搜索结果｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxsc8568264.shtml
-- Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html
+- AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml
+- 应急管理部部署卫星遥感加强吉隆泥石流灾害监测｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html
+- 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一｜IT之家｜https://www.ithome.com/0/996/075.htm
+- AI可以替代导游吗？｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572068.html
+- 有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑｜IT之家｜https://www.ithome.com/0/996/074.htm
 
 今日热点方向：
-- AI 应用：AI动态（5 条，2 个来源）
+- AI 应用：AI动态（6 条，3 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：
 - 新能源车/智能驾驶：
@@ -55,11 +54,11 @@ ChenChen 今日 Briefing｜V3
 - 科学前沿：
 
 国际科技背景：
-1. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html
-2. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences
-3. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/
-4. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html
-5. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853
+1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/
+2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html
+3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html
+4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853
+5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
