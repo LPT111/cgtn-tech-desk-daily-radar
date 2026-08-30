@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/30 09:12:22
+生成时间：2026/8/30 09:18:43
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 0 条
-延续跟踪线索：国内 8 条｜国际 18 条
+新增核心线索：国内 0 条｜国际 1 条
+延续跟踪线索：国内 14 条｜国际 18 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -23,27 +23,23 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html
    角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “应急管理部部署卫星遥感加强吉隆泥石流灾害监测” against primary-source evidence.
 
-3. [01:09] 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一
-   来源：IT之家
-   链接：https://www.ithome.com/0/996/075.htm
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.
-
-4. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司
+3. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-08-30/doc-inipzhuf8520962.shtml
    角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司” against primary-source evidence.
 
-5. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设
+4. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxrx3055917.shtml
    角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设” against primary-source evidence.
 
+5. [01:09] 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一
+   来源：IT之家
+   链接：https://www.ithome.com/0/996/075.htm
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.
+
 本次新增线索：
-- AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml
-- 应急管理部部署卫星遥感加强吉隆泥石流灾害监测｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html
-- 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一｜IT之家｜https://www.ithome.com/0/996/075.htm
-- AI可以替代导游吗？｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572068.html
-- 有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑｜IT之家｜https://www.ithome.com/0/996/074.htm
+- Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it｜The Register｜https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263
 
 今日热点方向：
 - AI 应用：AI动态（6 条，3 个来源）

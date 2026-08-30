@@ -1,40 +1,20 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-30T01:12:22.489Z",
+  "generatedAt": "2026-08-30T01:18:43.396Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-30",
   "changeSummary": {
-    "domesticNew": 6,
-    "globalNew": 0,
-    "domesticContinued": 8,
+    "domesticNew": 0,
+    "globalNew": 1,
+    "domesticContinued": 14,
     "globalContinued": 18,
-    "topNewDomestic": [
+    "topNewDomestic": [],
+    "topNewGlobal": [
       {
-        "title": "AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml"
-      },
-      {
-        "title": "应急管理部部署卫星遥感加强吉隆泥石流灾害监测",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html"
-      },
-      {
-        "title": "徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/996/075.htm"
-      },
-      {
-        "title": "AI可以替代导游吗？",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-08/30/content_572068.html"
-      },
-      {
-        "title": "有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/996/074.htm"
+        "title": "Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it",
+        "source": "The Register",
+        "url": "https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263"
       }
     ],
-    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
@@ -42,7 +22,7 @@ window.CHENCHEN_DAILY_DATA = {
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
     "domesticRejected": 886,
-    "globalRejected": 882,
+    "globalRejected": 881,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -56,17 +36,22 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 27,
   "failedSources": [
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -74,9 +59,19 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -86,14 +81,19 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "中国科学院",
+      "name": "央视网-科技",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "工信部",
       "error": "fetch failed",
       "optional": false
     },
     {
-      "name": "央视网-科技",
+      "name": "工信部-政策文件",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -101,9 +101,19 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -213,9 +223,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -279,14 +288,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -307,8 +318,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -316,7 +328,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -329,8 +341,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -363,13 +376,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1307,
+  "itemsSeen": 1299,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 266,
-  "itemsAfterDedupe": 217,
+  "itemsAfterRelevantFilter": 301,
+  "itemsAfterDedupe": 233,
   "todayItemsSeen": 14,
-  "suspectedItemsSeen": 18,
-  "skippedNonToday": 181,
+  "suspectedItemsSeen": 19,
+  "skippedNonToday": 198,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -472,9 +485,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -538,14 +550,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -566,8 +580,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -575,7 +590,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -588,8 +603,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -633,7 +649,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "France24 Technology",
       "tier": "international",
-      "parsed": 154,
+      "parsed": 155,
       "failed": false,
       "optional": false
     },
@@ -776,14 +792,19 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "中国科学院",
+      "name": "央视网-科技",
+      "error": "fetch failed",
+      "optional": true
+    },
+    {
+      "name": "工信部",
       "error": "fetch failed",
       "optional": false
     },
     {
-      "name": "央视网-科技",
+      "name": "工信部-政策文件",
       "error": "fetch failed",
-      "optional": true
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -791,9 +812,19 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -820,25 +851,25 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 18,
-  "globalItemsSeen": 1216,
+  "globalItemsSeen": 1217,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 99,
+  "globalItemsAfterRelevantFilter": 100,
   "topics": [
     {
       "topic": "AI动态",
       "count": 6,
       "sourceCount": 3,
       "sources": [
-        "科技日报",
         "新浪科技",
-        "IT之家"
+        "IT之家",
+        "科技日报"
       ],
       "items": [
-        "AI可以替代导游吗？",
         "少 1 个展开步骤：部分谷歌搜索测试默认进入 AI 模式，下移传统蓝链搜索结果",
         "荣耀 Magic8 系列手机首发的 AI 追色功能迎升级，新增支持类“调色盘”新玩法",
         "苹果首款AI眼镜细节曝光！无屏设计 主打Siri视觉智能 2027年发布",
-        "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别"
+        "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+        "AI可以替代导游吗？"
       ]
     },
     {
@@ -888,17 +919,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "低空经济与无人机",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑"
-      ]
-    },
-    {
       "topic": "AI 应用与智能体",
       "count": 1,
       "sourceCount": 1,
@@ -907,6 +927,17 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "刚刚，OpenAI要给Codex、ChatGPT Work付费用户集体回血了"
+      ]
+    },
+    {
+      "topic": "低空经济与无人机",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑"
       ]
     },
     {
@@ -988,7 +1019,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1056,75 +1087,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "应急管理部部署卫星遥感加强吉隆泥石流灾害监测"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一",
-      "summary": "在鸿蒙生态大会 2026 上，华为公司副董事长、轮值董事长徐直军出席大会并发表题为“鸿蒙生态建设是一场没有终点的马拉松”的致辞。他表示，华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一，成功实现了“在飞行过程中更换发动机”，而且飞行高度和速度都没有下降。#徐直军称华为实现飞行中换发动机#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/996/075.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/996/075.htm"
-      ],
-      "publishedAt": "Sun, 30 Aug 2026 01:09:28 GMT",
-      "date": "2026-08-30",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 171,
-      "reporterScore": 177,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 118
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "在鸿蒙生态大会 2026 上，华为公司副董事长、轮值董事长徐直军出席大会并发表题为“鸿蒙生态建设是一场没有终点的马拉松”的致辞。他表示，华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一，成功实现了“在飞行过程中更换发动机”，而且飞行高度和速度都没有下降。#徐直军称华为实现飞行中换发动机#",
-      "relatedTitles": [
-        "徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1263,22 +1226,22 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "AI可以替代导游吗？",
-      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 AI可以替代导游吗？ 2026-08-30 08:53:16 来源: 工人日报 点击数： 热点",
-      "source": "科技日报",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一",
+      "summary": "在鸿蒙生态大会 2026 上，华为公司副董事长、轮值董事长徐直军出席大会并发表题为“鸿蒙生态建设是一场没有终点的马拉松”的致辞。他表示，华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一，成功实现了“在飞行过程中更换发动机”，而且飞行高度和速度都没有下降。#徐直军称华为实现飞行中换发动机#",
+      "source": "IT之家",
       "sources": [
-        "科技日报"
+        "IT之家"
       ],
-      "sourceTier": "official",
-      "url": "https://www.stdaily.com/web/gdxw/2026-08/30/content_572068.html",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/996/075.htm",
       "sourceUrls": [
-        "https://www.stdaily.com/web/gdxw/2026-08/30/content_572068.html"
+        "https://www.ithome.com/0/996/075.htm"
       ],
-      "publishedAt": "2026-08-30",
+      "publishedAt": "Sun, 30 Aug 2026 01:09:28 GMT",
       "date": "2026-08-30",
-      "category": "AI",
-      "classificationConfidence": 0.75,
+      "category": "芯片",
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1286,84 +1249,16 @@ window.CHENCHEN_DAILY_DATA = {
         "source"
       ],
       "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 161,
-      "reporterScore": 161,
+      "score": 171,
+      "reporterScore": 177,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 18,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI可以替代导游吗？” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 AI可以替代导游吗？ 2026-08-30 08:53:16 来源: 工人日报 点击数： 热点",
-      "relatedTitles": [
-        "AI可以替代导游吗？"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑",
-      "summary": "上海闵行警方抓获一名以“无人机维修调试”为幌子，提供“代破解”服务的男子薛某。其以 500 至 1500 元不等的价格提供服务，非法获利 2 万余元，最终因提供侵入计算机信息系统程序罪被判处有期徒刑 6 个月，缓刑 1 年，并处罚金。警方提醒，私自破解无人机或操控其在管制空域飞行，均属违法行为。#无人机安全#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/996/074.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/996/074.htm"
-      ],
-      "publishedAt": "Sun, 30 Aug 2026 00:59:18 GMT",
-      "date": "2026-08-30",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "priority": 5,
-      "score": 154,
-      "reporterScore": 160,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
         "sourceAuthority": 8,
         "multiSource": 22,
-        "cgtFocus": 0,
+        "cgtFocus": 12,
         "visual": 8,
         "international": 0,
         "policy": 0,
@@ -1381,22 +1276,22 @@ window.CHENCHEN_DAILY_DATA = {
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
+        "hardTechWeight": 95,
+        "reporterScore": 118
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": true,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑” against primary-source evidence.",
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "低空经济与无人机",
-      "rawText": "上海闵行警方抓获一名以“无人机维修调试”为幌子，提供“代破解”服务的男子薛某。其以 500 至 1500 元不等的价格提供服务，非法获利 2 万余元，最终因提供侵入计算机信息系统程序罪被判处有期徒刑 6 个月，缓刑 1 年，并处罚金。警方提醒，私自破解无人机或操控其在管制空域飞行，均属违法行为。#无人机安全#",
+      "matchedTopic": "芯片动态",
+      "rawText": "在鸿蒙生态大会 2026 上，华为公司副董事长、轮值董事长徐直军出席大会并发表题为“鸿蒙生态建设是一场没有终点的马拉松”的致辞。他表示，华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一，成功实现了“在飞行过程中更换发动机”，而且飞行高度和速度都没有下降。#徐直军称华为实现飞行中换发动机#",
       "relatedTitles": [
-        "有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑"
+        "徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1469,7 +1364,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "荣耀 Magic8 系列手机首发的 AI 追色功能迎升级，新增支持类“调色盘”新玩法",
-      "summary": "IT之家 8 月 30 日消息，据荣耀研发工程师 @荣耀曹工 分享，荣耀 Magic8 系列手机上首发的 AI 追色功能，云端算法一直在持续升级。他透露，AI 追色的调节功能最近还上线了一个类似“调色盘”的新玩法，可以分“影调”和“颜色”来...",
+      "summary": "据荣耀研发工程师 @荣耀曹工 分享，AI 追色的调节功能最近还上线了一个类似“调色盘”的新玩法，可以分“影调”和“颜色”来调整等级。另外，随着 OS 大版本和新产品推进，相机和图库在功能和设计上也一直在持续迭代上线。#荣耀 Magic 8# #AI追色#",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -1739,6 +1634,142 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "AI可以替代导游吗？",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 AI可以替代导游吗？ 2026-08-30 08:53:16 来源: 工人日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-08/30/content_572068.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-08/30/content_572068.html"
+      ],
+      "publishedAt": "2026-08-30",
+      "date": "2026-08-30",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI可以替代导游吗？” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 AI可以替代导游吗？ 2026-08-30 08:53:16 来源: 工人日报 点击数： 热点",
+      "relatedTitles": [
+        "AI可以替代导游吗？"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑",
+      "summary": "上海闵行警方抓获一名以“无人机维修调试”为幌子，提供“代破解”服务的男子薛某。其以 500 至 1500 元不等的价格提供服务，非法获利 2 万余元，最终因提供侵入计算机信息系统程序罪被判处有期徒刑 6 个月，缓刑 1 年，并处罚金。警方提醒，私自破解无人机或操控其在管制空域飞行，均属违法行为。#无人机安全#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/996/074.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/996/074.htm"
+      ],
+      "publishedAt": "Sun, 30 Aug 2026 00:59:18 GMT",
+      "date": "2026-08-30",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 154,
+      "reporterScore": 160,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "低空经济与无人机",
+      "rawText": "上海闵行警方抓获一名以“无人机维修调试”为幌子，提供“代破解”服务的男子薛某。其以 500 至 1500 元不等的价格提供服务，非法获利 2 万余元，最终因提供侵入计算机信息系统程序罪被判处有期徒刑 6 个月，缓刑 1 年，并处罚金。警方提醒，私自破解无人机或操控其在管制空域飞行，均属违法行为。#无人机安全#",
+      "relatedTitles": [
+        "有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "AI 如何塑造生产力？复旦联合斯坦福、伯克利、牛津、普林斯顿、UCL 等 12 家机构给出 68 页答案",
       "summary": "过去一年，AI 已经从有问必答的对话工具，逐渐变成能接过一整段工作的执行者。金融机构里，agent 被用来模拟一家机构的决策结构，彼此竞争以过滤噪声；法律领域，它已经从检索辅助走到把推理过程逐步显式化，甚至对整个庭审过程建模。而这种接管能力...",
@@ -1872,7 +1903,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中国推动算电协同促进数字经济高质量发展"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2075,6 +2106,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "首页 金陵“芯”火正燎原：ICDIA 2026圆满落幕！ 分享到： 2026年8月20日至21日，集成电路设计创新会议暨应用展（ICDIA 2026）在南京扬子江国际会议中心盛大召开。 本届会议以“AI赋能·智创芯未来”为主题，由集成电路设计创新联盟、原“核高基”国家科技重大专项总体专家组指导，汇聚了来自国内外集成电路产业链上下游的顶尖专家、领军企业代表、高校学者及投资机构，通过2场主会议、9场专题会议、1场创新创业人才对接会及“2026强芯TOP100”颁奖盛典，全方位呈现了国产芯片技术从EDA工具、先进封装、汽车电子到具身智能、家电应用的全栈创新图景。 开幕式重磅启幕：3D IC中心落子金陵，EDA挑战赛吹响人才号角 8月20日上午，会议开幕式在紫金厅A隆重举行，集成电路设计创新联盟秘书长程晋格担任主持。开幕式上，南京市江北新区产业推介向业界展示了南京在集成电路领域的深厚积淀与前瞻布局。随后，会议迎来两项标志性产业举措： “3D IC协同创新中心” 正式揭牌，旨在瞄准设计与封装协同、工具与工艺协同的产业痛点，推动2.5D/3D集成从技术方案走向规模化量产，为AI大模型时代的算力芯片",
       "relatedTitles": [
         "金陵“芯”火正燎原：ICDIA 2026圆满落幕！"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云",
+      "summary": "首页 荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云 分享到： 【2024年5月22日，法国巴黎】今日，荣耀终端有限公司CEO赵明在欧洲最大的科技创新盛会——Viva Technology（以下简称“VivaTech”)发表了题为“AI时代 智能设备如何赋能人类”的主题演讲，首次面向全球市场发布荣",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/politics/2024_05_24_735797.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/politics/2024_05_24_735797.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 144,
+      "reporterScore": 160,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "首页 荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云 分享到： 【2024年5月22日，法国巴黎】今日，荣耀终端有限公司CEO赵明在欧洲最大的科技创新盛会——Viva Technology（以下简称“VivaTech”)发表了题为“AI时代 智能设备如何赋能人类”的主题演讲，首次面向全球市场发布荣耀四层AI战略架构，并宣布海外未来的旗舰机将搭载谷歌云相关服务，为用户带来革命性的生成式AI体验。 荣耀终端有限公司CEO赵明在VivaTech发布主题演讲 “荣耀坚信基于端侧AI的个人化、人性化和隐私保护的特点，每个人都能安全、可靠地利用AI来让自己的生活更加便利。”赵明表示：“我们也很高兴未来的旗舰机将搭载谷歌云相关服务，探索端云结合的混合AI模式，为用户提供更具想象力的GAI体验。” 面向全球发布四层AI战略架构，将搭载谷歌云共探端云协同新体验 在主题演讲环节，荣耀首次对海外市场发布四层AI战略架构，并展示了其用AI重构操作系统MagicOS的创新体验： 第一层：用AI使能跨系统、跨设备的融合。 第二层：用AI来重构单终端的操作系统，用AI强化对用户意图的识别和对资",
+      "relatedTitles": [
+        "荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云"
       ]
     },
     {
@@ -3183,14 +3281,14 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
-      "summary": "Are we human?",
+      "summary": "And as for getting US government to help – uncontrolled AI is not as dangerous as AI under the control of the technically clueless",
       "source": "The Register",
       "url": "https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853",
       "publishedAt": "Fri, 28 Aug 2026 12:00:00 +0200",
       "date": "2026-08-28",
       "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.62,
+      "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 50,
       "keywords": "AI applications, foundation models, agents and governance",
@@ -3311,7 +3409,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Anthropic proposes plumbing spec to link AI agents to lab kit and robots",
-      "summary": "Are we human?",
+      "summary": "Say you",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135",
       "publishedAt": "Fri, 28 Aug 2026 01:22:35 +0200",
@@ -3339,6 +3437,38 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it",
+      "summary": "Microsoft veteran recalls how a CPU errata, a mythical ICE, and a single sneaky NOP saved Clippy",
+      "source": "The Register",
+      "url": "https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263",
+      "publishedAt": "Fri, 28 Aug 2026 15:34:00 +0200",
+      "date": "2026-08-28",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Word 97's ghost in the machine: The crash that vanished the moment anyon” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3661,8 +3791,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-30｜V3\n生成时间：2026/8/30 09:12:22\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2523｜确认今日 14｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-30] AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%” against primary-source evidence.\n\n2. [2026-08-30] 应急管理部部署卫星遥感加强吉隆泥石流灾害监测\n   科技日报｜2026-08-30｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “应急管理部部署卫星遥感加强吉隆泥石流灾害监测” against primary-source evidence.\n\n3. [01:09] 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一\n   IT之家｜2026-08-30｜https://www.ithome.com/0/996/075.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.\n\n4. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-inipzhuf8520962.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司” against primary-source evidence.\n\n5. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxrx3055917.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设” against primary-source evidence.\n\n本次新增线索：\n- AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml\n- 应急管理部部署卫星遥感加强吉隆泥石流灾害监测｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html\n- 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一｜IT之家｜https://www.ithome.com/0/996/075.htm\n- AI可以替代导游吗？｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572068.html\n- 有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑｜IT之家｜https://www.ithome.com/0/996/074.htm\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\n4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-30｜V3\n生成时间：2026/8/30 09:12:22\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2523｜确认今日 14｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-30] AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%” against primary-source evidence.\n\n2. [2026-08-30] 应急管理部部署卫星遥感加强吉隆泥石流灾害监测\n   科技日报｜2026-08-30｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “应急管理部部署卫星遥感加强吉隆泥石流灾害监测” against primary-source evidence.\n\n3. [01:09] 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一\n   IT之家｜2026-08-30｜https://www.ithome.com/0/996/075.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.\n\n4. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-inipzhuf8520962.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司” against primary-source evidence.\n\n5. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxrx3055917.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设” against primary-source evidence.\n\n本次新增线索：\n- AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml\n- 应急管理部部署卫星遥感加强吉隆泥石流灾害监测｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html\n- 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一｜IT之家｜https://www.ithome.com/0/996/075.htm\n- AI可以替代导游吗？｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572068.html\n- 有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑｜IT之家｜https://www.ithome.com/0/996/074.htm\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\n4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-30｜生成时间：2026/8/30 09:12:22｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2523｜确认今日 14｜国际背景 18</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 0 条<br>延续跟踪线索：国内 8 条｜国际 18 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-30] AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%</strong>\n      <span>新浪科技｜2026-08-30｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-30] 应急管理部部署卫星遥感加强吉隆泥石流灾害监测</strong>\n      <span>科技日报｜2026-08-30｜<a href=\"https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：186｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “应急管理部部署卫星遥感加强吉隆泥石流灾害监测” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [01:09] 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一</strong>\n      <span>IT之家｜2026-08-30｜<a href=\"https://www.ithome.com/0/996/075.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：177｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司</strong>\n      <span>新浪科技｜2026-08-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-30/doc-inipzhuf8520962.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设</strong>\n      <span>新浪科技｜2026-08-30｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxrx3055917.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：180｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine</strong>\n      <span>时间：Fri, 28 Aug 2026 23:24:27 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Chinese automakers are following Tesla’s bet that robots are the next bi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access</strong>\n      <span>时间：Fri, 28 Aug 2026 03:29:45 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI rolls out ads on select ChatGPT plans in India to boost monetizat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Beyond Critical Thinking: The Verification Process AI Actually Needs</strong>\n      <span>时间：2026-08-30｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “Beyond Critical Thinking: The Verification Process AI Actually Needs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount</strong>\n      <span>时间：Fri, 28 Aug 2026 12:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Unsafe at any speed: AI optimists are turning cautious as safety concern” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI, Anthropic join global call to strengthen cyber defences</strong>\n      <span>时间：2026-08-28｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI, Anthropic join global call to strengthen cyber defences” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/30 09:12:22\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-30] AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%” against primary-source evidence.\n\n2. [2026-08-30] 应急管理部部署卫星遥感加强吉隆泥石流灾害监测\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “应急管理部部署卫星遥感加强吉隆泥石流灾害监测” against primary-source evidence.\n\n3. [01:09] 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一\n   来源：IT之家\n   链接：https://www.ithome.com/0/996/075.htm\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.\n\n4. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-30/doc-inipzhuf8520962.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司” against primary-source evidence.\n\n5. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxrx3055917.shtml\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设” against primary-source evidence.\n\n本次新增线索：\n- AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml\n- 应急管理部部署卫星遥感加强吉隆泥石流灾害监测｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html\n- 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一｜IT之家｜https://www.ithome.com/0/996/075.htm\n- AI可以替代导游吗？｜科技日报｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572068.html\n- 有偿提供无人机破解服务，男子因提供侵入计算机信息系统程序罪获刑｜IT之家｜https://www.ithome.com/0/996/074.htm\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\n4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-30｜V3\n生成时间：2026/8/30 09:18:43\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2516｜确认今日 14｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 14 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-30] AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%” against primary-source evidence.\n\n2. [2026-08-30] 应急管理部部署卫星遥感加强吉隆泥石流灾害监测\n   科技日报｜2026-08-30｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “应急管理部部署卫星遥感加强吉隆泥石流灾害监测” against primary-source evidence.\n\n3. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-inipzhuf8520962.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司” against primary-source evidence.\n\n4. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxrx3055917.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设” against primary-source evidence.\n\n5. [01:09] 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一\n   IT之家｜2026-08-30｜https://www.ithome.com/0/996/075.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.\n\n本次新增线索：\n- Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it｜The Register｜https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\n4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-30｜V3\n生成时间：2026/8/30 09:18:43\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2516｜确认今日 14｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 14 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-30] AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%” against primary-source evidence.\n\n2. [2026-08-30] 应急管理部部署卫星遥感加强吉隆泥石流灾害监测\n   科技日报｜2026-08-30｜https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “应急管理部部署卫星遥感加强吉隆泥石流灾害监测” against primary-source evidence.\n\n3. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-inipzhuf8520962.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司” against primary-source evidence.\n\n4. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxrx3055917.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设” against primary-source evidence.\n\n5. [01:09] 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一\n   IT之家｜2026-08-30｜https://www.ithome.com/0/996/075.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.\n\n本次新增线索：\n- Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it｜The Register｜https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\n4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-30｜生成时间：2026/8/30 09:18:43｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2516｜确认今日 14｜国际背景 19</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 1 条<br>延续跟踪线索：国内 14 条｜国际 18 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-30] AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%</strong>\n      <span>新浪科技｜2026-08-30｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-30] 应急管理部部署卫星遥感加强吉隆泥石流灾害监测</strong>\n      <span>科技日报｜2026-08-30｜<a href=\"https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：186｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “应急管理部部署卫星遥感加强吉隆泥石流灾害监测” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司</strong>\n      <span>新浪科技｜2026-08-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-30/doc-inipzhuf8520962.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设</strong>\n      <span>新浪科技｜2026-08-30｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxrx3055917.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：180｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [01:09] 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一</strong>\n      <span>IT之家｜2026-08-30｜<a href=\"https://www.ithome.com/0/996/075.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：177｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine</strong>\n      <span>时间：Fri, 28 Aug 2026 23:24:27 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Chinese automakers are following Tesla’s bet that robots are the next bi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access</strong>\n      <span>时间：Fri, 28 Aug 2026 03:29:45 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI rolls out ads on select ChatGPT plans in India to boost monetizat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Beyond Critical Thinking: The Verification Process AI Actually Needs</strong>\n      <span>时间：2026-08-30｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “Beyond Critical Thinking: The Verification Process AI Actually Needs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount</strong>\n      <span>时间：Fri, 28 Aug 2026 12:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Unsafe at any speed: AI optimists are turning cautious as safety concern” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI, Anthropic join global call to strengthen cyber defences</strong>\n      <span>时间：2026-08-28｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI, Anthropic join global call to strengthen cyber defences” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/30 09:18:43\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 14 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-30] AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%” against primary-source evidence.\n\n2. [2026-08-30] 应急管理部部署卫星遥感加强吉隆泥石流灾害监测\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “应急管理部部署卫星遥感加强吉隆泥石流灾害监测” against primary-source evidence.\n\n3. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-30/doc-inipzhuf8520962.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司” against primary-source evidence.\n\n4. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxrx3055917.shtml\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设” against primary-source evidence.\n\n5. [01:09] 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一\n   来源：IT之家\n   链接：https://www.ithome.com/0/996/075.htm\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.\n\n本次新增线索：\n- Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it｜The Register｜https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263\n\n今日热点方向：\n- AI 应用：AI动态（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\n4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
