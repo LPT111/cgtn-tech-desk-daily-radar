@@ -1,44 +1,29 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-08-30T11:26:46.925Z",
+  "generatedAt": "2026-08-30T11:58:26.717Z",
   "radarVersion": "v3",
   "targetDate": "2026-08-30",
   "changeSummary": {
-    "domesticNew": 6,
+    "domesticNew": 2,
     "globalNew": 1,
-    "domesticContinued": 20,
-    "globalContinued": 18,
+    "domesticContinued": 25,
+    "globalContinued": 19,
     "topNewDomestic": [
       {
-        "title": "国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄",
+        "title": "IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4946642.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcm2642714.shtml"
       },
       {
-        "title": "消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作",
+        "title": "英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛",
         "source": "IT之家",
-        "url": "https://www.ithome.com/0/996/222.htm"
-      },
-      {
-        "title": "巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqazcm8190443.shtml"
-      },
-      {
-        "title": "腾讯、阿里等押注“揣摩人心”的智能体，Agent",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L5JQO3KI0512B07B.html"
-      },
-      {
-        "title": "遭百吨重卡撞击！比亚迪新一代唐扛住挤压：车上4人仅受轻伤",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4944849.shtml"
+        "url": "https://www.ithome.com/0/996/190.htm"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not.",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/articles/openai-anthropic-battling-big-tech-093002543.html"
+        "title": "Nvidia and Cerebras are selling performance their customers will (probably) never see",
+        "source": "The Register",
+        "url": "https://www.theregister.com/systems/2026/08/27/nvidia-and-cerebras-are-selling-performance-their-customers-will-probably-never-see/5293117"
       }
     ],
     "hasPrevious": true
@@ -47,8 +32,8 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 874,
-    "globalRejected": 881,
+    "domesticRejected": 873,
+    "globalRejected": 880,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -62,12 +47,17 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 30,
   "failedSources": [
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -92,6 +82,11 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -111,7 +106,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 154,
+      "parsed": 153,
       "failed": false,
       "optional": false
     },
@@ -274,7 +269,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -358,18 +354,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1340,
+  "itemsSeen": 1339,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 290,
-  "itemsAfterDedupe": 234,
-  "todayItemsSeen": 26,
+  "itemsAfterRelevantFilter": 288,
+  "itemsAfterDedupe": 233,
+  "todayItemsSeen": 27,
   "suspectedItemsSeen": 19,
-  "skippedNonToday": 187,
+  "skippedNonToday": 185,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 154,
+      "parsed": 153,
       "failed": false,
       "optional": false
     },
@@ -532,7 +528,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -775,6 +772,11 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -811,37 +813,23 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 18,
   "globalItemsSeen": 1216,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 100,
+  "globalItemsAfterRelevantFilter": 99,
   "topics": [
     {
       "topic": "AI动态",
-      "count": 4,
+      "count": 5,
       "sourceCount": 3,
       "sources": [
+        "IT之家",
         "新浪科技",
-        "网易科技",
-        "IT之家"
+        "网易科技"
       ],
       "items": [
+        "英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛",
         "跳出AR路线！苹果首款AI眼镜2027年面世：主打无屏视觉智能驱动Siri",
         "从“数博五感”到产业协同，数博会DATA之夜释放",
         "日均峰值 11.3 起：报告称 2026 年已记录 1664 起 AI 失控事件，7 月环比增 93.76%",
         "财联社创投通：一级市场本周136起融资 AI基础设施等细分活跃"
-      ]
-    },
-    {
-      "topic": "国产 GPU / 算力基础设施",
-      "count": 4,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "IT之家"
-      ],
-      "items": [
-        "国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄",
-        "英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛",
-        "消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作",
-        "巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头"
       ]
     },
     {
@@ -854,8 +842,8 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "瑞金医院联合华为云发布瑞智病理大模型RuiPath",
-        "腾讯、阿里等押注“揣摩人心”的智能体，Agent",
-        "特斯拉车机系统有望接入 Grok Bot，打造移动 AI 工作站"
+        "特斯拉车机系统有望接入 Grok Bot，打造移动 AI 工作站",
+        "腾讯、阿里等押注“揣摩人心”的智能体，Agent"
       ]
     },
     {
@@ -873,6 +861,20 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "国产 GPU / 算力基础设施",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄",
+        "消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作",
+        "巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头"
+      ]
+    },
+    {
       "topic": "机器人动态",
       "count": 2,
       "sourceCount": 2,
@@ -883,6 +885,19 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "塞尔维亚首座机器人工厂正式投产，由中塞联合建",
         "荣耀机器人闪电首次出海，成为马来西亚马拉松首位机器人参赛选手"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%",
+        "a16z旗下机器时代基金筹集11亿美元，将投向芯片"
       ]
     },
     {
@@ -931,17 +946,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功"
-      ]
-    },
-    {
-      "topic": "芯片动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "a16z旗下机器时代基金筹集11亿美元，将投向芯片"
       ]
     },
     {
@@ -1035,6 +1039,74 @@ window.CHENCHEN_DAILY_DATA = {
         "塞尔维亚首座机器人工厂正式投产，由中塞联合建"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%",
+      "summary": "对于当前的全球手机市场来说，存储芯片价格的连续非理性暴涨，直接把原本就处在存量博弈阶段的行业拽进了快速下滑的通道里，整个行业的发展趋势迎来了意料之外的急转弯。市场调研机构IDC给出的最新行业报告显示，预计2026年全球智能手机全年出货量仅略...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcm2642714.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcm2642714.shtml"
+      ],
+      "publishedAt": "2026-08-30",
+      "date": "2026-08-30",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "对于当前的全球手机市场来说，存储芯片价格的连续非理性暴涨，直接把原本就处在存量博弈阶段的行业拽进了快速下滑的通道里，整个行业的发展趋势迎来了意料之外的急转弯。市场调研机构IDC给出的最新行业报告显示，预计2026年全球智能手机全年出货量仅略...",
+      "relatedTitles": [
+        "IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1241,74 +1313,6 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄",
-      "summary": "8月30日，沐曦股份（688802.SH）发布了2026年上半年财报。此前，GPU厂商摩尔线程（688795.SH）、天数智芯和壁仞科技也已发布半年报。4家GPU厂商上半年营收都同比增长，其中营收规模最大的是摩尔线程，营收增速最快的是壁仞科...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4946642.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4946642.shtml"
-      ],
-      "publishedAt": "2026-08-30",
-      "date": "2026-08-30",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "8月30日，沐曦股份（688802.SH）发布了2026年上半年财报。此前，GPU厂商摩尔线程（688795.SH）、天数智芯和壁仞科技也已发布半年报。4家GPU厂商上半年营收都同比增长，其中营收规模最大的是摩尔线程，营收增速最快的是壁仞科...",
-      "relatedTitles": [
-        "国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "a16z旗下机器时代基金筹集11亿美元，将投向芯片",
       "summary": "a16z旗下机器时代基金筹集11亿美元，将投向芯片、机器人等硬件领域,芯片,机器人,计算机,新模型,机器时代基金",
@@ -1443,6 +1447,74 @@ window.CHENCHEN_DAILY_DATA = {
         "荣耀机器人闪电首次出海，成为马来西亚马拉松首位机器人参赛选手"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛",
+      "summary": "英国电信行业高管集体发声，警告若 5G 升级速度不加快，英国将在全球 AI 竞赛中落后。目前英国网络覆盖率甚至落后于 G7 及欧盟多国，下载速度排名更是跌至全球第 70 位。#5G网络# #AI竞赛#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/996/190.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/996/190.htm"
+      ],
+      "publishedAt": "Sun, 30 Aug 2026 08:39:31 GMT",
+      "date": "2026-08-30",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 160,
+      "reporterScore": 168,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "英国电信行业高管集体发声，警告若 5G 升级速度不加快，英国将在全球 AI 竞赛中落后。目前英国网络覆盖率甚至落后于 G7 及欧盟多国，下载速度排名更是跌至全球第 70 位。#5G网络# #AI竞赛#",
+      "relatedTitles": [
+        "英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1582,21 +1654,21 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛",
-      "summary": "IT之家 8 月 30 日消息，据《卫报》昨天报道，英国电信行业多位高管表示，如果英国电信基础设施升级进度持续落后于其他国家，可能在全球 AI 竞赛中落于下风。IT之家从原报道获悉，当前阶段的 AI 基础设施建设主要在数据中心方面。然而随着...",
+      "title": "国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄",
+      "summary": "8月30日，沐曦股份（688802.SH）发布了2026年上半年财报。此前，GPU厂商摩尔线程（688795.SH）、天数智芯和壁仞科技也已发布半年报。4家GPU厂商上半年营收都同比增长，其中营收规模最大的是摩尔线程，营收增速最快的是壁仞科...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqauvp2723415.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4946642.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqauvp2723415.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4946642.shtml"
       ],
       "publishedAt": "2026-08-30",
       "date": "2026-08-30",
-      "category": "AI",
-      "classificationConfidence": 0.68,
+      "category": "芯片",
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1604,10 +1676,10 @@ window.CHENCHEN_DAILY_DATA = {
         "source"
       ],
       "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
+      "score": 163,
+      "reporterScore": 171,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
@@ -1615,11 +1687,11 @@ window.CHENCHEN_DAILY_DATA = {
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
-        "international": 9,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -1627,24 +1699,24 @@ window.CHENCHEN_DAILY_DATA = {
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": true,
-        "interview": false,
+        "international": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
         "reporterScore": 120
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
+      "hasInterviewValue": true,
       "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛” against primary-source evidence.",
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "IT之家 8 月 30 日消息，据《卫报》昨天报道，英国电信行业多位高管表示，如果英国电信基础设施升级进度持续落后于其他国家，可能在全球 AI 竞赛中落于下风。IT之家从原报道获悉，当前阶段的 AI 基础设施建设主要在数据中心方面。然而随着...",
+      "rawText": "8月30日，沐曦股份（688802.SH）发布了2026年上半年财报。此前，GPU厂商摩尔线程（688795.SH）、天数智芯和壁仞科技也已发布半年报。4家GPU厂商上半年营收都同比增长，其中营收规模最大的是摩尔线程，营收增速最快的是壁仞科...",
       "relatedTitles": [
-        "英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛"
+        "国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄"
       ],
       "isNewSinceLastRun": false
     },
@@ -1715,74 +1787,6 @@ window.CHENCHEN_DAILY_DATA = {
         "跳出AR路线！苹果首款AI眼镜2027年面世：主打无屏视觉智能驱动Siri"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作",
-      "summary": "Meta 正在测试多种机器人，包括插拔线缆、重启服务器等，旨在降低人力成本。测试中的机器人有望取代部分员工高达 80% 的工作量，引发员工对失业的担忧。Meta 则强调此举是为了缓解技术工人短缺问题。#AI取代人类#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/996/222.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/996/222.htm"
-      ],
-      "publishedAt": "Sun, 30 Aug 2026 11:26:34 GMT",
-      "date": "2026-08-30",
-      "category": "数字经济",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 70,
-      "keywords": "digital infrastructure, data flows and the platform economy",
-      "priority": 4,
-      "score": 142,
-      "reporterScore": 156,
-      "scoreBreakdown": {
-        "hardTech": 70,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 70,
-        "reporterScore": 103
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Frame this as infrastructure rather than consumer hype, using digital infrastructure, data flows and the platform economy, adoption and measurable economic effects. For this item, test the claim behind “消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "Meta 正在测试多种机器人，包括插拔线缆、重启服务器等，旨在降低人力成本。测试中的机器人有望取代部分员工高达 80% 的工作量，引发员工对失业的担忧。Meta 则强调此举是为了缓解技术工人短缺问题。#AI取代人类#",
-      "relatedTitles": [
-        "消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1919,142 +1923,6 @@ window.CHENCHEN_DAILY_DATA = {
         "日均峰值 11.3 起：报告称 2026 年已记录 1664 起 AI 失控事件，7 月环比增 93.76%"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头",
-      "summary": "巴克莱最新报告揭开了 AI 产业链的利润分配真相：模型公司每创造 100 美元收入，就有 35 至 40 美元以推理算力费用流向亚马逊 AWS、微软 Azure 和谷歌 GCP。云服务商从中可获得 10 至 20 美元的营业利润，利润率最高达 45%。#AI产业链# #云计算#",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqazcm8190443.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqazcm8190443.shtml"
-      ],
-      "publishedAt": "2026-08-30",
-      "date": "2026-08-30",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "IT之家 8 月 30 日消息，表面上看，人工智能（AI）模型公司似乎正在赚取巨额利润，但真正过得滋润的，可能是它们背后的云计算服务提供商。巴克莱银行最新研究拆解了 AI 产业链中的利润分配情况。研究发现，模型公司每创造 100 美元（IT...",
-      "relatedTitles": [
-        "巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "腾讯、阿里等押注“揣摩人心”的智能体，Agent",
-      "summary": "腾讯、阿里等押注“揣摩人心”的智能体，Agent Memory从技术概念成长为行业赛道,飞轮,腾讯,智能体,上下文,知名企业,agent,memory,阿里巴巴集团",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L5JQO3KI0512B07B.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L5JQO3KI0512B07B.html"
-      ],
-      "publishedAt": "2026-08-30",
-      "date": "2026-08-30",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “腾讯、阿里等押注“揣摩人心”的智能体，Agent” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "腾讯、阿里等押注“揣摩人心”的智能体，Agent Memory从技术概念成长为行业赛道,飞轮,腾讯,智能体,上下文,知名企业,agent,memory,阿里巴巴集团",
-      "relatedTitles": [
-        "腾讯、阿里等押注“揣摩人心”的智能体，Agent"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2261,21 +2129,21 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "遭百吨重卡撞击！比亚迪新一代唐扛住挤压：车上4人仅受轻伤",
-      "summary": "快科技8月30日消息，据报道，此前，重庆国道发生一起交通事故。一台刚提不久的比亚迪新一代唐，在路上遭遇大型货车侧面撞击，车辆被直接撞出路外跌落至路坡下方，事故造成整车严重损毁，但车内四名人员仅受了轻伤。据悉，这台比亚迪唐提车仅数小时，尚未上...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作",
+      "summary": "Meta 正在测试多种机器人，包括插拔线缆、重启服务器等，旨在降低人力成本。测试中的机器人有望取代部分员工高达 80% 的工作量，引发员工对失业的担忧。Meta 则强调此举是为了缓解技术工人短缺问题。#AI取代人类#",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4944849.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/996/222.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4944849.shtml"
+        "https://www.ithome.com/0/996/222.htm"
       ],
-      "publishedAt": "2026-08-30",
+      "publishedAt": "Sun, 30 Aug 2026 11:26:34 GMT",
       "date": "2026-08-30",
-      "category": "新能源车",
+      "category": "数字经济",
       "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
@@ -2283,13 +2151,81 @@ window.CHENCHEN_DAILY_DATA = {
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
+      "hardTechPriority": 70,
+      "keywords": "digital infrastructure, data flows and the platform economy",
+      "priority": 4,
+      "score": 142,
+      "reporterScore": 156,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 70,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 70,
+        "reporterScore": 103
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Frame this as infrastructure rather than consumer hype, using digital infrastructure, data flows and the platform economy, adoption and measurable economic effects. For this item, test the claim behind “消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "Meta 正在测试多种机器人，包括插拔线缆、重启服务器等，旨在降低人力成本。测试中的机器人有望取代部分员工高达 80% 的工作量，引发员工对失业的担忧。Meta 则强调此举是为了缓解技术工人短缺问题。#AI取代人类#",
+      "relatedTitles": [
+        "消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头",
+      "summary": "巴克莱最新报告揭开了 AI 产业链的利润分配真相：模型公司每创造 100 美元收入，就有 35 至 40 美元以推理算力费用流向亚马逊 AWS、微软 Azure 和谷歌 GCP。云服务商从中可获得 10 至 20 美元的营业利润，利润率最高达 45%。#AI产业链# #云计算#",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqazcm8190443.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqazcm8190443.shtml"
+      ],
+      "publishedAt": "2026-08-30",
+      "date": "2026-08-30",
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
@@ -2311,22 +2247,90 @@ window.CHENCHEN_DAILY_DATA = {
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “遭百吨重卡撞击！比亚迪新一代唐扛住挤压：车上4人仅受轻伤” against primary-source evidence.",
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "快科技8月30日消息，据报道，此前，重庆国道发生一起交通事故。一台刚提不久的比亚迪新一代唐，在路上遭遇大型货车侧面撞击，车辆被直接撞出路外跌落至路坡下方，事故造成整车严重损毁，但车内四名人员仅受了轻伤。据悉，这台比亚迪唐提车仅数小时，尚未上...",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "IT之家 8 月 30 日消息，表面上看，人工智能（AI）模型公司似乎正在赚取巨额利润，但真正过得滋润的，可能是它们背后的云计算服务提供商。巴克莱银行最新研究拆解了 AI 产业链中的利润分配情况。研究发现，模型公司每创造 100 美元（IT...",
       "relatedTitles": [
-        "遭百吨重卡撞击！比亚迪新一代唐扛住挤压：车上4人仅受轻伤"
+        "巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "腾讯、阿里等押注“揣摩人心”的智能体，Agent",
+      "summary": "腾讯、阿里等押注“揣摩人心”的智能体，Agent Memory从技术概念成长为行业赛道,飞轮,腾讯,智能体,上下文,知名企业,agent,memory,阿里巴巴集团",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L5JQO3KI0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L5JQO3KI0512B07B.html"
+      ],
+      "publishedAt": "2026-08-30",
+      "date": "2026-08-30",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “腾讯、阿里等押注“揣摩人心”的智能体，Agent” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "腾讯、阿里等押注“揣摩人心”的智能体，Agent Memory从技术概念成长为行业赛道,飞轮,腾讯,智能体,上下文,知名企业,agent,memory,阿里巴巴集团",
+      "relatedTitles": [
+        "腾讯、阿里等押注“揣摩人心”的智能体，Agent"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2397,21 +2401,21 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "华为鸿蒙座舱 HarmonySpace 暑期版本发布，新增导航 Agent 地址主动记忆等功能",
-      "summary": "华为乾崑智能汽车解决方案昨日分享了鸿蒙座舱 HarmonySpace 暑期版本升级亮点。据介绍，鸿蒙座舱 HarmonySpace 暑期版本在智能交互、座舱玩法和使用体验上进行了升级优化，新增导航 Agent 地址主动记忆、语音发起导航同时选择路线偏好、多条件筛选充电站等功能。",
-      "source": "IT之家",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "遭百吨重卡撞击！比亚迪新一代唐扛住挤压：车上4人仅受轻伤",
+      "summary": "快科技8月30日消息，据报道，此前，重庆国道发生一起交通事故。一台刚提不久的比亚迪新一代唐，在路上遭遇大型货车侧面撞击，车辆被直接撞出路外跌落至路坡下方，事故造成整车严重损毁，但车内四名人员仅受了轻伤。据悉，这台比亚迪唐提车仅数小时，尚未上...",
+      "source": "新浪科技",
       "sources": [
-        "IT之家"
+        "新浪科技"
       ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/996/216.htm",
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4944849.shtml",
       "sourceUrls": [
-        "https://www.ithome.com/0/996/216.htm"
+        "https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4944849.shtml"
       ],
-      "publishedAt": "Sun, 30 Aug 2026 10:54:18 GMT",
+      "publishedAt": "2026-08-30",
       "date": "2026-08-30",
-      "category": "数字经济",
+      "category": "新能源车",
       "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
@@ -2419,15 +2423,15 @@ window.CHENCHEN_DAILY_DATA = {
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 70,
-      "keywords": "digital infrastructure, data flows and the platform economy",
-      "priority": 4,
-      "score": 134,
-      "reporterScore": 142,
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
       "scoreBreakdown": {
-        "hardTech": 70,
+        "hardTech": 85,
         "today": 18,
-        "sourceAuthority": 8,
+        "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
@@ -2435,7 +2439,7 @@ window.CHENCHEN_DAILY_DATA = {
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -2444,25 +2448,25 @@ window.CHENCHEN_DAILY_DATA = {
         "primary": false,
         "visual": false,
         "international": false,
-        "interview": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 70,
-        "reporterScore": 95
+        "hardTechWeight": 85,
+        "reporterScore": 100
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
+      "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Assess the practical value of digital infrastructure, data flows and the platform economy: users, data flows, productivity, market structure and regulatory trade-offs. For this item, test the claim behind “华为鸿蒙座舱 HarmonySpace 暑期版本发布，新增导航 Agent 地址主动记忆等功能” against primary-source evidence.",
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “遭百吨重卡撞击！比亚迪新一代唐扛住挤压：车上4人仅受轻伤” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "数字经济动态",
-      "rawText": "华为乾崑智能汽车解决方案昨日分享了鸿蒙座舱 HarmonySpace 暑期版本升级亮点。据介绍，鸿蒙座舱 HarmonySpace 暑期版本在智能交互、座舱玩法和使用体验上进行了升级优化，新增导航 Agent 地址主动记忆、语音发起导航同时选择路线偏好、多条件筛选充电站等功能。",
+      "matchedTopic": "新能源车动态",
+      "rawText": "快科技8月30日消息，据报道，此前，重庆国道发生一起交通事故。一台刚提不久的比亚迪新一代唐，在路上遭遇大型货车侧面撞击，车辆被直接撞出路外跌落至路坡下方，事故造成整车严重损毁，但车内四名人员仅受了轻伤。据悉，这台比亚迪唐提车仅数小时，尚未上...",
       "relatedTitles": [
-        "华为鸿蒙座舱 HarmonySpace 暑期版本发布，新增导航 Agent 地址主动记忆等功能"
+        "遭百吨重卡撞击！比亚迪新一代唐扛住挤压：车上4人仅受轻伤"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2529,6 +2533,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "快科技8月30日消息，据媒体报道，特斯拉Cybercab采用一种独特的乘客对接方案，以确保该自动驾驶网约车能够准确接到对应乘客，避免乘客上错车，并确保最终收取正确的车费。据悉，Cybercab将利用前部灯带中的RGB灯带，通过显示不同颜色来...",
       "relatedTitles": [
         "特斯拉Cybercab 9月亮相：用RGB灯带识别网约车 避免乘客上错车"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "华为鸿蒙座舱 HarmonySpace 暑期版本发布，新增导航 Agent 地址主动记忆等功能",
+      "summary": "华为乾崑智能汽车解决方案昨日分享了鸿蒙座舱 HarmonySpace 暑期版本升级亮点。据介绍，鸿蒙座舱 HarmonySpace 暑期版本在智能交互、座舱玩法和使用体验上进行了升级优化，新增导航 Agent 地址主动记忆、语音发起导航同时选择路线偏好、多条件筛选充电站等功能。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/996/216.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/996/216.htm"
+      ],
+      "publishedAt": "Sun, 30 Aug 2026 10:54:18 GMT",
+      "date": "2026-08-30",
+      "category": "数字经济",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 70,
+      "keywords": "digital infrastructure, data flows and the platform economy",
+      "priority": 4,
+      "score": 134,
+      "reporterScore": 142,
+      "scoreBreakdown": {
+        "hardTech": 70,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 70,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Assess the practical value of digital infrastructure, data flows and the platform economy: users, data flows, productivity, market structure and regulatory trade-offs. For this item, test the claim behind “华为鸿蒙座舱 HarmonySpace 暑期版本发布，新增导航 Agent 地址主动记忆等功能” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字经济动态",
+      "rawText": "华为乾崑智能汽车解决方案昨日分享了鸿蒙座舱 HarmonySpace 暑期版本升级亮点。据介绍，鸿蒙座舱 HarmonySpace 暑期版本在智能交互、座舱玩法和使用体验上进行了升级优化，新增导航 Agent 地址主动记忆、语音发起导航同时选择路线偏好、多条件筛选充电站等功能。",
+      "relatedTitles": [
+        "华为鸿蒙座舱 HarmonySpace 暑期版本发布，新增导航 Agent 地址主动记忆等功能"
       ],
       "isNewSinceLastRun": false
     },
@@ -4112,14 +4184,14 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
-      "summary": "And as for getting US government to help – uncontrolled AI is not as dangerous as AI under the control of the technically clueless",
+      "summary": "",
       "source": "The Register",
       "url": "https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853",
       "publishedAt": "Fri, 28 Aug 2026 12:00:00 +0200",
       "date": "2026-08-28",
       "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 50,
       "keywords": "AI applications, foundation models, agents and governance",
@@ -4208,7 +4280,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Anthropic proposes plumbing spec to link AI agents to lab kit and robots",
-      "summary": "Say you",
+      "summary": "",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135",
       "publishedAt": "Fri, 28 Aug 2026 01:22:35 +0200",
@@ -4239,23 +4311,23 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not.",
-      "summary": "Tech workers share their dream employers, from OpenAI and Anthropic to Google and NVIDIA — and the companies they'd rather pass on.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/articles/openai-anthropic-battling-big-tech-093002543.html",
-      "publishedAt": "2026-08-30",
-      "date": "2026-08-30",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
+      "title": "Nvidia and Cerebras are selling performance their customers will (probably) never see",
+      "summary": "",
+      "source": "The Register",
+      "url": "https://www.theregister.com/systems/2026/08/27/nvidia-and-cerebras-are-selling-performance-their-customers-will-probably-never-see/5293117",
+      "publishedAt": "Fri, 28 Aug 2026 00:57:43 +0200",
+      "date": "2026-08-28",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI and Anthropic are battling Big Tech for talent. We asked workers ” against primary-source evidence.",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Nvidia and Cerebras are selling performance their customers will (probab” against primary-source evidence.",
       "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
+      "score": 144,
+      "reporterScore": 144,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4264,9 +4336,9 @@ window.CHENCHEN_DAILY_DATA = {
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 110
+        "reporterScore": 95
       },
-      "status": "confirmed_today",
+      "status": "recent_48h",
       "isNewSinceLastRun": true
     },
     {
@@ -4528,14 +4600,14 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Pentagon blacklisted Anthropic over Claude powers it didn't have",
-      "summary": "Judge finds national-security rationale was assembled after Hegseth had already decided AI maker was a threat",
+      "summary": "",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/28/pentagon-blacklisted-anthropic-over-claude-powers-it-didnt-have/5293266",
       "publishedAt": "Fri, 28 Aug 2026 14:31:51 +0200",
       "date": "2026-08-28",
       "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.93,
+      "classificationConfidence": 0.8,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
@@ -4555,6 +4627,38 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not.",
+      "summary": "Tech workers share their dream employers, from OpenAI and Anthropic to Google and NVIDIA — and the companies they'd rather pass on.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/articles/openai-anthropic-battling-big-tech-093002543.html",
+      "publishedAt": "2026-08-30",
+      "date": "2026-08-30",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI and Anthropic are battling Big Tech for talent. We asked workers ” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -4622,8 +4726,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-30｜V3\n生成时间：2026/8/30 19:26:46\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2556｜确认今日 26｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 1 条\n延续跟踪线索：国内 20 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-30] 塞尔维亚首座机器人工厂正式投产，由中塞联合建\n   网易科技｜2026-08-30｜https://www.163.com/dy/article/L5J0LLQQ0534A4SC.html\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “塞尔维亚首座机器人工厂正式投产，由中塞联合建” against primary-source evidence.\n\n2. [2026-08-30] 全球出货量第一背后，宇树科技的规模化优势正在放大\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqauvt8230696.shtml\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “全球出货量第一背后，宇树科技的规模化优势正在放大” against primary-source evidence.\n\n3. [2026-08-30] 从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/discovery/2026-08-30/doc-iniqauvr5034847.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功” against primary-source evidence.\n\n4. [2026-08-30] 瑞金医院联合华为云发布瑞智病理大模型RuiPath\n   网易科技｜2026-08-30｜https://www.163.com/dy/article/L5JI2TCE0534A4SC.html\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “瑞金医院联合华为云发布瑞智病理大模型RuiPath” against primary-source evidence.\n\n5. [2026-08-30] 国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4946642.shtml\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄” against primary-source evidence.\n\n本次新增线索：\n- 国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4946642.shtml\n- 消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作｜IT之家｜https://www.ithome.com/0/996/222.htm\n- 巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqazcm8190443.shtml\n- 腾讯、阿里等押注“揣摩人心”的智能体，Agent｜网易科技｜https://www.163.com/dy/article/L5JQO3KI0512B07B.html\n- 遭百吨重卡撞击！比亚迪新一代唐扛住挤压：车上4人仅受轻伤｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4944849.shtml\n- OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not.｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/openai-anthropic-battling-big-tech-093002543.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（4 条，2 个来源）\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\n4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-30｜V3\n生成时间：2026/8/30 19:26:46\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2556｜确认今日 26｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 1 条\n延续跟踪线索：国内 20 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-30] 塞尔维亚首座机器人工厂正式投产，由中塞联合建\n   网易科技｜2026-08-30｜https://www.163.com/dy/article/L5J0LLQQ0534A4SC.html\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “塞尔维亚首座机器人工厂正式投产，由中塞联合建” against primary-source evidence.\n\n2. [2026-08-30] 全球出货量第一背后，宇树科技的规模化优势正在放大\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqauvt8230696.shtml\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “全球出货量第一背后，宇树科技的规模化优势正在放大” against primary-source evidence.\n\n3. [2026-08-30] 从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/discovery/2026-08-30/doc-iniqauvr5034847.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功” against primary-source evidence.\n\n4. [2026-08-30] 瑞金医院联合华为云发布瑞智病理大模型RuiPath\n   网易科技｜2026-08-30｜https://www.163.com/dy/article/L5JI2TCE0534A4SC.html\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “瑞金医院联合华为云发布瑞智病理大模型RuiPath” against primary-source evidence.\n\n5. [2026-08-30] 国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4946642.shtml\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄” against primary-source evidence.\n\n本次新增线索：\n- 国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4946642.shtml\n- 消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作｜IT之家｜https://www.ithome.com/0/996/222.htm\n- 巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqazcm8190443.shtml\n- 腾讯、阿里等押注“揣摩人心”的智能体，Agent｜网易科技｜https://www.163.com/dy/article/L5JQO3KI0512B07B.html\n- 遭百吨重卡撞击！比亚迪新一代唐扛住挤压：车上4人仅受轻伤｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4944849.shtml\n- OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not.｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/openai-anthropic-battling-big-tech-093002543.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（4 条，2 个来源）\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\n4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-30｜生成时间：2026/8/30 19:26:46｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2556｜确认今日 26｜国际背景 19</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 1 条<br>延续跟踪线索：国内 20 条｜国际 18 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-30] 塞尔维亚首座机器人工厂正式投产，由中塞联合建</strong>\n      <span>网易科技｜2026-08-30｜<a href=\"https://www.163.com/dy/article/L5J0LLQQ0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “塞尔维亚首座机器人工厂正式投产，由中塞联合建” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-30] 全球出货量第一背后，宇树科技的规模化优势正在放大</strong>\n      <span>新浪科技｜2026-08-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqauvt8230696.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “全球出货量第一背后，宇树科技的规模化优势正在放大” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-30] 从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功</strong>\n      <span>新浪科技｜2026-08-30｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-30/doc-iniqauvr5034847.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-30] 瑞金医院联合华为云发布瑞智病理大模型RuiPath</strong>\n      <span>网易科技｜2026-08-30｜<a href=\"https://www.163.com/dy/article/L5JI2TCE0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “瑞金医院联合华为云发布瑞智病理大模型RuiPath” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-30] 国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄</strong>\n      <span>新浪科技｜2026-08-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4946642.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine</strong>\n      <span>时间：Fri, 28 Aug 2026 23:24:27 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Chinese automakers are following Tesla’s bet that robots are the next bi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access</strong>\n      <span>时间：Fri, 28 Aug 2026 03:29:45 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI rolls out ads on select ChatGPT plans in India to boost monetizat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Beyond Critical Thinking: The Verification Process AI Actually Needs</strong>\n      <span>时间：2026-08-30｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “Beyond Critical Thinking: The Verification Process AI Actually Needs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount</strong>\n      <span>时间：Fri, 28 Aug 2026 12:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Unsafe at any speed: AI optimists are turning cautious as safety concern” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI, Anthropic join global call to strengthen cyber defences</strong>\n      <span>时间：2026-08-28｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI, Anthropic join global call to strengthen cyber defences” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/30 19:26:46\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 1 条\n延续跟踪线索：国内 20 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-30] 塞尔维亚首座机器人工厂正式投产，由中塞联合建\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L5J0LLQQ0534A4SC.html\n   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “塞尔维亚首座机器人工厂正式投产，由中塞联合建” against primary-source evidence.\n\n2. [2026-08-30] 全球出货量第一背后，宇树科技的规模化优势正在放大\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqauvt8230696.shtml\n   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “全球出货量第一背后，宇树科技的规模化优势正在放大” against primary-source evidence.\n\n3. [2026-08-30] 从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-30/doc-iniqauvr5034847.shtml\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功” against primary-source evidence.\n\n4. [2026-08-30] 瑞金医院联合华为云发布瑞智病理大模型RuiPath\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L5JI2TCE0534A4SC.html\n   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “瑞金医院联合华为云发布瑞智病理大模型RuiPath” against primary-source evidence.\n\n5. [2026-08-30] 国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4946642.shtml\n   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄” against primary-source evidence.\n\n本次新增线索：\n- 国产GPU厂商半年考：2家扭亏为盈，2家亏损收窄｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4946642.shtml\n- 消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作｜IT之家｜https://www.ithome.com/0/996/222.htm\n- 巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqazcm8190443.shtml\n- 腾讯、阿里等押注“揣摩人心”的智能体，Agent｜网易科技｜https://www.163.com/dy/article/L5JQO3KI0512B07B.html\n- 遭百吨重卡撞击！比亚迪新一代唐扛住挤压：车上4人仅受轻伤｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcp4944849.shtml\n- OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not.｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/openai-anthropic-battling-big-tech-093002543.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（4 条，2 个来源）\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\n4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-30｜V3\n生成时间：2026/8/30 19:58:26\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2555｜确认今日 27｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 25 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-30] 塞尔维亚首座机器人工厂正式投产，由中塞联合建\n   网易科技｜2026-08-30｜https://www.163.com/dy/article/L5J0LLQQ0534A4SC.html\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “塞尔维亚首座机器人工厂正式投产，由中塞联合建” against primary-source evidence.\n\n2. [2026-08-30] IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcm2642714.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%” against primary-source evidence.\n\n3. [2026-08-30] 全球出货量第一背后，宇树科技的规模化优势正在放大\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqauvt8230696.shtml\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “全球出货量第一背后，宇树科技的规模化优势正在放大” against primary-source evidence.\n\n4. [2026-08-30] 从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/discovery/2026-08-30/doc-iniqauvr5034847.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功” against primary-source evidence.\n\n5. [2026-08-30] 瑞金医院联合华为云发布瑞智病理大模型RuiPath\n   网易科技｜2026-08-30｜https://www.163.com/dy/article/L5JI2TCE0534A4SC.html\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “瑞金医院联合华为云发布瑞智病理大模型RuiPath” against primary-source evidence.\n\n本次新增线索：\n- IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcm2642714.shtml\n- 英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛｜IT之家｜https://www.ithome.com/0/996/190.htm\n- Nvidia and Cerebras are selling performance their customers will (probably) never see｜The Register｜https://www.theregister.com/systems/2026/08/27/nvidia-and-cerebras-are-selling-performance-their-customers-will-probably-never-see/5293117\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（3 条，2 个来源）\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\n4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-08-30｜V3\n生成时间：2026/8/30 19:58:26\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2555｜确认今日 27｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 25 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-30] 塞尔维亚首座机器人工厂正式投产，由中塞联合建\n   网易科技｜2026-08-30｜https://www.163.com/dy/article/L5J0LLQQ0534A4SC.html\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “塞尔维亚首座机器人工厂正式投产，由中塞联合建” against primary-source evidence.\n\n2. [2026-08-30] IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcm2642714.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%” against primary-source evidence.\n\n3. [2026-08-30] 全球出货量第一背后，宇树科技的规模化优势正在放大\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqauvt8230696.shtml\n   报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “全球出货量第一背后，宇树科技的规模化优势正在放大” against primary-source evidence.\n\n4. [2026-08-30] 从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功\n   新浪科技｜2026-08-30｜https://finance.sina.com.cn/tech/discovery/2026-08-30/doc-iniqauvr5034847.shtml\n   报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功” against primary-source evidence.\n\n5. [2026-08-30] 瑞金医院联合华为云发布瑞智病理大模型RuiPath\n   网易科技｜2026-08-30｜https://www.163.com/dy/article/L5JI2TCE0534A4SC.html\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “瑞金医院联合华为云发布瑞智病理大模型RuiPath” against primary-source evidence.\n\n本次新增线索：\n- IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcm2642714.shtml\n- 英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛｜IT之家｜https://www.ithome.com/0/996/190.htm\n- Nvidia and Cerebras are selling performance their customers will (probably) never see｜The Register｜https://www.theregister.com/systems/2026/08/27/nvidia-and-cerebras-are-selling-performance-their-customers-will-probably-never-see/5293117\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（3 条，2 个来源）\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\n4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-08-30｜生成时间：2026/8/30 19:58:26｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2555｜确认今日 27｜国际背景 20</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 1 条<br>延续跟踪线索：国内 25 条｜国际 19 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-08-30] 塞尔维亚首座机器人工厂正式投产，由中塞联合建</strong>\n      <span>网易科技｜2026-08-30｜<a href=\"https://www.163.com/dy/article/L5J0LLQQ0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “塞尔维亚首座机器人工厂正式投产，由中塞联合建” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-08-30] IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%</strong>\n      <span>新浪科技｜2026-08-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcm2642714.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-08-30] 全球出货量第一背后，宇树科技的规模化优势正在放大</strong>\n      <span>新浪科技｜2026-08-30｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqauvt8230696.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “全球出货量第一背后，宇树科技的规模化优势正在放大” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-08-30] 从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功</strong>\n      <span>新浪科技｜2026-08-30｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-08-30/doc-iniqauvr5034847.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-08-30] 瑞金医院联合华为云发布瑞智病理大模型RuiPath</strong>\n      <span>网易科技｜2026-08-30｜<a href=\"https://www.163.com/dy/article/L5JI2TCE0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “瑞金医院联合华为云发布瑞智病理大模型RuiPath” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine</strong>\n      <span>时间：Fri, 28 Aug 2026 23:24:27 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Chinese automakers are following Tesla’s bet that robots are the next bi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access</strong>\n      <span>时间：Fri, 28 Aug 2026 03:29:45 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI rolls out ads on select ChatGPT plans in India to boost monetizat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Beyond Critical Thinking: The Verification Process AI Actually Needs</strong>\n      <span>时间：2026-08-30｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the policy through technology policy, AI governance, safety and standards, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “Beyond Critical Thinking: The Verification Process AI Actually Needs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount</strong>\n      <span>时间：Fri, 28 Aug 2026 12:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Unsafe at any speed: AI optimists are turning cautious as safety concern” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI, Anthropic join global call to strengthen cyber defences</strong>\n      <span>时间：2026-08-28｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI, Anthropic join global call to strengthen cyber defences” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/8/30 19:58:26\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 25 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-08-30] 塞尔维亚首座机器人工厂正式投产，由中塞联合建\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L5J0LLQQ0534A4SC.html\n   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “塞尔维亚首座机器人工厂正式投产，由中塞联合建” against primary-source evidence.\n\n2. [2026-08-30] IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcm2642714.shtml\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%” against primary-source evidence.\n\n3. [2026-08-30] 全球出货量第一背后，宇树科技的规模化优势正在放大\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqauvt8230696.shtml\n   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “全球出货量第一背后，宇树科技的规模化优势正在放大” against primary-source evidence.\n\n4. [2026-08-30] 从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-08-30/doc-iniqauvr5034847.shtml\n   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功” against primary-source evidence.\n\n5. [2026-08-30] 瑞金医院联合华为云发布瑞智病理大模型RuiPath\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L5JI2TCE0534A4SC.html\n   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “瑞金医院联合华为云发布瑞智病理大模型RuiPath” against primary-source evidence.\n\n本次新增线索：\n- IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqazcm2642714.shtml\n- 英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛｜IT之家｜https://www.ithome.com/0/996/190.htm\n- Nvidia and Cerebras are selling performance their customers will (probably) never see｜The Register｜https://www.theregister.com/systems/2026/08/27/nvidia-and-cerebras-are-selling-performance-their-customers-will-probably-never-see/5293117\n\n今日热点方向：\n- AI 应用：AI动态（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（3 条，2 个来源）\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine｜TechCrunch｜https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\n2. OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access｜CNBC Technology｜https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html\n3. Beyond Critical Thinking: The Verification Process AI Actually Needs｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/beyond-critical-thinking-verification-process-174847913.html\n4. Unsafe at any speed: AI optimists are turning cautious as safety concerns mount｜The Register｜https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853\n5. OpenAI, Anthropic join global call to strengthen cyber defences｜France24 Technology｜https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
