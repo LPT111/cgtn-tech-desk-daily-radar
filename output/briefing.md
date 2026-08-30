@@ -3,50 +3,54 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/30 09:18:43
+生成时间：2026/8/30 18:41:16
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 0 条｜国际 1 条
-延续跟踪线索：国内 14 条｜国际 18 条
+新增核心线索：国内 23 条｜国际 0 条
+延续跟踪线索：国内 1 条｜国际 19 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-08-30] AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqacxz8459345.shtml
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%” against primary-source evidence.
+1. [2026-08-30] 塞尔维亚首座机器人工厂正式投产，由中塞联合建
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L5J0LLQQ0534A4SC.html
+   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “塞尔维亚首座机器人工厂正式投产，由中塞联合建” against primary-source evidence.
 
-2. [2026-08-30] 应急管理部部署卫星遥感加强吉隆泥石流灾害监测
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-08/30/content_572062.html
-   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “应急管理部部署卫星遥感加强吉隆泥石流灾害监测” against primary-source evidence.
-
-3. [2026-08-30] 《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-08-30/doc-inipzhuf8520962.shtml
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司” against primary-source evidence.
-
-4. [2026-08-30] 卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-08-30/doc-inipzxrx3055917.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “卫星像平板一样堆放，新国标支撑我国大规模低轨星座建设” against primary-source evidence.
-
-5. [01:09] 徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一
+2. [04:47] 78 岁张汝京亲赴光谷站台：武汉新芯发布十年战略蓝图“芯光计划”，力争未来十年实现产能翻两番
    来源：IT之家
-   链接：https://www.ithome.com/0/996/075.htm
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一” against primary-source evidence.
+   链接：https://www.ithome.com/0/996/114.htm
+   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “78 岁张汝京亲赴光谷站台：武汉新芯发布十年战略蓝图“芯光计划”，力争未来十年实现产能翻两番” against primary-source evidence.
+
+3. [2026-08-30] 全球出货量第一背后，宇树科技的规模化优势正在放大
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqauvt8230696.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “全球出货量第一背后，宇树科技的规模化优势正在放大” against primary-source evidence.
+
+4. [2026-08-30] 从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-08-30/doc-iniqauvr5034847.shtml
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功” against primary-source evidence.
+
+5. [2026-08-30] 瑞金医院联合华为云发布瑞智病理大模型RuiPath
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L5JI2TCE0534A4SC.html
+   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “瑞金医院联合华为云发布瑞智病理大模型RuiPath” against primary-source evidence.
 
 本次新增线索：
-- Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it｜The Register｜https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263
+- 塞尔维亚首座机器人工厂正式投产，由中塞联合建｜网易科技｜https://www.163.com/dy/article/L5J0LLQQ0534A4SC.html
+- 78 岁张汝京亲赴光谷站台：武汉新芯发布十年战略蓝图“芯光计划”，力争未来十年实现产能翻两番｜IT之家｜https://www.ithome.com/0/996/114.htm
+- 全球出货量第一背后，宇树科技的规模化优势正在放大｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-30/doc-iniqauvt8230696.shtml
+- 从400米提升至5276米！亚洲首次铝冰火箭飞行验证圆满成功｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-08-30/doc-iniqauvr5034847.shtml
+- 瑞金医院联合华为云发布瑞智病理大模型RuiPath｜网易科技｜https://www.163.com/dy/article/L5JI2TCE0534A4SC.html
 
 今日热点方向：
-- AI 应用：AI动态（6 条，3 个来源）
+- AI 应用：AI动态（4 条，3 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 机器人/具身智能：机器人动态（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
+- 太空与低空经济：太空与低空动态（2 条，2 个来源）
 - 科学前沿：
 
 国际科技背景：
