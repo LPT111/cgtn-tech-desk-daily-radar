@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/8/31 20:57:14
+生成时间：2026/8/31 21:58:56
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 20 条｜国际 1 条
-延续跟踪线索：国内 65 条｜国际 5 条
+新增核心线索：国内 12 条｜国际 2 条
+延续跟踪线索：国内 76 条｜国际 5 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,48 +18,48 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-08-31/doc-iniqfkkm4679503.shtml
    角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI进化速递丨OpenClaw 2.0正式发布” against primary-source evidence.
 
-2. [2026-08-31] 我国建设的全球首个对外提供在轨试验服务的太空算力云 正式常态化提供在轨算力服务
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L5LTOIBL05198CJN.html
-   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “我国建设的全球首个对外提供在轨试验服务的太空算力云 正式常态化提供在轨算力服务” against primary-source evidence.
-
-3. [2026-08-31] 机器人运动会赛出产业雄心-"本届运动会发布了全球首个世界级人形机器人运动会全量数据集
+2. [2026-08-31] 机器人运动会赛出产业雄心-"本届运动会发布了全球首个世界级人形机器人运动会全量数据集
    来源：新华网-科技
    链接：http://www.news.cn/tech/20260831/34286039e0f24798ac262ad84a2c7160/c.html
    角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人运动会赛出产业雄心-"本届运动会发布了全球首个世界级人形机器人运动会全量数据集” against primary-source evidence.
 
-4. [2026-08-31] 投资6000万，环天智慧发布遥感大模型中试基地招
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L5MFP8B30534A4SC.html
-   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “投资6000万，环天智慧发布遥感大模型中试基地招” against primary-source evidence.
+3. [2026-08-31] 智谱披露下一代大模型规划：采用大基座路线，目标发布首日即可支持满规模业务调用
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-31/doc-iniqfkku1797960.shtml
+   角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “智谱披露下一代大模型规划：采用大基座路线，目标发布首日即可支持满规模业务调用” against primary-source evidence.
 
-5. [2026-08-31] 昂首发布EV1智能出行机器人，海外已取得数百万
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L5MENTHA0534A4SC.html
-   角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “昂首发布EV1智能出行机器人，海外已取得数百万” against primary-source evidence.
+4. [08:32] 首次海外亮相：小米机器人 CyberOne 将现身 IFA 国际消费电子展
+   来源：IT之家
+   链接：https://www.ithome.com/0/996/553.htm
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “首次海外亮相：小米机器人 CyberOne 将现身 IFA 国际消费电子展” against primary-source evidence.
+
+5. [2026-08-31] 微信支付 AI 专属卡支持接入 DeepSeek Harness 和 OpenClaw
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-08-31/doc-iniqfqsq4919410.shtml
+   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “微信支付 AI 专属卡支持接入 DeepSeek Harness 和 OpenClaw” against primary-source evidence.
 
 本次新增线索：
-- AI进化速递丨OpenClaw 2.0正式发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-31/doc-iniqfkkm4679503.shtml
-- 投资6000万，环天智慧发布遥感大模型中试基地招｜网易科技｜https://www.163.com/dy/article/L5MFP8B30534A4SC.html
-- 昂首发布EV1智能出行机器人，海外已取得数百万｜网易科技｜https://www.163.com/dy/article/L5MENTHA0534A4SC.html
-- 对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-31/doc-iniqfkkp7248022.shtml
-- 谷歌 AI 应用 Dreambeans 取消订阅制，开放免费测试｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-31/doc-iniqfkkp7227655.shtml
-- Shadow AI is a security problem, but the EU AI Act makes it a legal one｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/shadow-ai-security-problem-eu-094641239.html
+- 智谱披露下一代大模型规划：采用大基座路线，目标发布首日即可支持满规模业务调用｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-31/doc-iniqfkku1797960.shtml
+- 微信支付 AI 专属卡支持接入 DeepSeek Harness 和 OpenClaw｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-08-31/doc-iniqfqsq4919410.shtml
+- 谷歌 AI 应用 Dreambeans 取消订阅制，开放免费测试｜IT之家｜https://www.ithome.com/0/996/638.htm
+- 八月收官，九月不容乐观｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-08-31/doc-iniqfqsp8737334.shtml
+- 快手：北京可灵与国家人工智能基金、正大机器人订立加入协议｜网易科技｜https://www.163.com/dy/article/L5MLCOAS0534A4SC.html
+- 4 lessons I hope Apple's foldable iPhone takes from the Samsung Galaxy Z Fold 8｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/4-lessons-i-hope-apples-foldable-iphone-takes-from-the-samsung-galaxy-z-fold-8-130000820.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（20 条，7 个来源）
+- AI 应用：AI 应用与智能体（23 条，7 个来源）
 - 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（8 条，4 个来源）
-- 新能源车/智能驾驶：新能源车动态（6 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（8 条，5 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，2 个来源）
 - 太空与低空经济：低空经济与无人机（2 条，2 个来源）
 - 科学前沿：科学前沿动态（3 条，3 个来源）
 
 国际科技背景：
-1. Shadow AI is a security problem, but the EU AI Act makes it a legal one｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/shadow-ai-security-problem-eu-094641239.html
-2. Ripple Lays Out Four Stage Plan to Protect XRPL From Quantum Threats｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/ripple-lays-four-stage-plan-093023030.html
-3. Claude Is Getting a New Job: Operating Robots and Lab Equipment｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/claude-getting-job-operating-robots-100117853.html
-4. Nvidia’s AI advantage is moving beyond the GPU｜TechCrunch｜https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/
-5. Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands｜WIRED Business｜https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/
+1. Ripple Lays Out Four Stage Plan to Protect XRPL From Quantum Threats｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/ripple-lays-four-stage-plan-093023030.html
+2. Shadow AI is a security problem, but the EU AI Act makes it a legal one｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/shadow-ai-security-problem-eu-094641239.html
+3. 4 lessons I hope Apple's foldable iPhone takes from the Samsung Galaxy Z Fold 8｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/4-lessons-i-hope-apples-foldable-iphone-takes-from-the-samsung-galaxy-z-fold-8-130000820.html
+4. OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate｜CNBC Technology｜https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html
+5. Nvidia’s AI advantage is moving beyond the GPU｜TechCrunch｜https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
