@@ -1,73 +1,47 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-09-01T01:26:49.511Z",
+  "generatedAt": "2026-09-01T01:47:04.591Z",
   "radarVersion": "v3",
   "targetDate": "2026-09-01",
   "changeSummary": {
-    "domesticNew": 42,
-    "globalNew": 6,
-    "domesticContinued": 0,
-    "globalContinued": 2,
+    "domesticNew": 16,
+    "globalNew": 0,
+    "domesticContinued": 39,
+    "globalContinued": 8,
     "topNewDomestic": [
       {
-        "title": "影响市场重大事件：全球首个！太空算力在轨试验实现常态化",
+        "title": "全球首个太空算力云常态化运营，商业航天加速迈",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L5NJ4M0N0512B07B.html"
+        "url": "https://www.163.com/dy/article/L5NU0LUL0512B07B.html"
       },
       {
-        "title": "司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上",
-        "source": "新华网-科技",
-        "url": "http://www.news.cn/tech/20260901/ef1b69bedd4c427286e3c03513ab268d/c.html"
+        "title": "消息称英伟达重启推理预填充优化芯片 Rubin CPX 项目，设计大幅调整",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/996/759.htm"
       },
       {
-        "title": "从80%到99%，机器人离“ChatGPT时刻”还有多远",
+        "title": "OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhmvz6798410.shtml"
+        "url": "https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhscz8306105.shtml"
       },
       {
-        "title": "全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设",
-        "source": "新华网-科技",
-        "url": "http://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html"
+        "title": "英伟达斥资35亿美元绑定联发科，NVLink融合平台",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L5NUKQSA0512B07B.html"
       },
       {
-        "title": "9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管",
+        "title": "产量翻了数十倍 湖州这家企业请来机器人“上岗”养鱼",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhfqf8499489.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhsee1518928.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
-      },
-      {
-        "title": "The Pentagon now has its own version of ChatGPT and Grok",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
-      },
-      {
-        "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
-      },
-      {
-        "title": "Anthropic cracks down on hijacked user accounts mining AI tokens",
-        "source": "The Register",
-        "url": "https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461"
-      },
-      {
-        "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 858,
+    "domesticRejected": 845,
     "globalRejected": 892,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,22 +56,17 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 28,
+  "successSources": 30,
   "failedSources": [
-    {
-      "name": "观察者网-产业科技",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "量子位",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -108,11 +77,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -122,19 +86,14 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "观察者网-产业科技",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "量子位",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -145,11 +104,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -161,7 +115,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 184,
+      "parsed": 183,
       "failed": false,
       "optional": false
     },
@@ -217,9 +171,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "观察者网-产业科技",
       "tier": "mainstream",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 52,
+      "failed": false,
       "optional": false
     },
     {
@@ -239,9 +192,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "量子位",
       "tier": "industry",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 36,
+      "failed": false,
       "optional": false
     },
     {
@@ -326,7 +278,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -376,9 +329,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -411,18 +363,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1223,
+  "itemsSeen": 1371,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 297,
-  "itemsAfterDedupe": 223,
-  "todayItemsSeen": 42,
-  "suspectedItemsSeen": 2,
-  "skippedNonToday": 175,
+  "itemsAfterRelevantFilter": 308,
+  "itemsAfterDedupe": 239,
+  "todayItemsSeen": 55,
+  "suspectedItemsSeen": 17,
+  "skippedNonToday": 165,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 184,
+      "parsed": 183,
       "failed": false,
       "optional": false
     },
@@ -478,9 +430,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "观察者网-产业科技",
       "tier": "mainstream",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 52,
+      "failed": false,
       "optional": false
     },
     {
@@ -500,9 +451,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "量子位",
       "tier": "industry",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 36,
+      "failed": false,
       "optional": false
     },
     {
@@ -587,7 +537,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -637,9 +588,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -826,19 +776,14 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "观察者网-产业科技",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "量子位",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -849,11 +794,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -886,7 +826,7 @@ window.CHENCHEN_DAILY_DATA = {
   "topics": [
     {
       "topic": "AI动态",
-      "count": 9,
+      "count": 13,
       "sourceCount": 4,
       "sources": [
         "新华网-科技",
@@ -897,14 +837,14 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上",
         "人工智能应用服务商培育专项行动启动- 记者8月31日获悉",
-        "国家人工智能基金向北京可灵注入现金资本14亿元",
         "中信建投：IGV创年内新高，AI商业化推动海外软",
-        "腾讯WorkBuddy开学季AI普惠专项启动：认证师生免费领1000积分"
+        "腾讯WorkBuddy开学季AI普惠专项启动：认证师生免费领1000积分",
+        "AI在当下——华帝Y9入选优质供给产品，交出“好房子”厨房新答卷"
       ]
     },
     {
       "topic": "AI 应用与智能体",
-      "count": 12,
+      "count": 13,
       "sourceCount": 3,
       "sources": [
         "网易科技",
@@ -921,7 +861,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "新能源车动态",
-      "count": 3,
+      "count": 5,
       "sourceCount": 3,
       "sources": [
         "新浪科技",
@@ -930,8 +870,24 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "小米汽车：2026 年 8 月交付量超 3 万台，正全力为澎程上市交付做准备",
+        "理想汽车上半年亏损将近40亿 CEO李想着急吗？",
         "奕境曾清林：中国新能源车能领跑全球除了“换道”巧劲，更离不开“直道”上攒下的硬实力",
+        "鸿蒙智行8月交付42101台",
         "小米汽车解释为何非要跑京沪线：公开数据用结果说话"
+      ]
+    },
+    {
+      "topic": "机器人动态",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "对话橡鹿机器人创始人杨建成：以前炒菜机器人只会“背菜谱”，我们让它“理解了烹饪”",
+        "产量翻了数十倍 湖州这家企业请来机器人“上岗”养鱼",
+        "柔性机器人在红外光激发下会持续跳跃"
       ]
     },
     {
@@ -944,8 +900,21 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "字节再次上调“豆包股”价格；滴滴自动驾驶新一",
-        "想买新能源车又怕踩坑？购车前这些功课和维权渠道要收好",
+        "财联社汽车早报「9月1日」",
         "优步申请运营首尔自动驾驶出租车平台"
+      ]
+    },
+    {
+      "topic": "商业航天与卫星互联网",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新华网-科技"
+      ],
+      "items": [
+        "全球首个太空算力云常态化运营，商业航天加速迈",
+        "全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设"
       ]
     },
     {
@@ -962,39 +931,42 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "机器人动态",
+      "topic": "国产 GPU / 算力基础设施",
       "count": 2,
       "sourceCount": 2,
       "sources": [
-        "新浪科技",
+        "IT之家",
         "网易科技"
       ],
       "items": [
-        "对话橡鹿机器人创始人杨建成：以前炒菜机器人只会“背菜谱”，我们让它“理解了烹饪”",
-        "柔性机器人在红外光激发下会持续跳跃"
+        "消息称英伟达重启推理预填充优化芯片 Rubin CPX 项目，设计大幅调整",
+        "芯擎科技端侧AI芯片长三角研发基地在无锡签约"
+      ]
+    },
+    {
+      "topic": "科学前沿动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "科技日报"
+      ],
+      "items": [
+        "北大科研团队：受气候变化影响，南极冰川融化正",
+        "3D打印技术赋能科研五大场景"
       ]
     },
     {
       "topic": "芯片动态",
-      "count": 2,
+      "count": 3,
       "sourceCount": 1,
       "sources": [
         "网易科技"
       ],
       "items": [
         "英伟达宣布史上最大海外直接投资 巩固XPU新星联发科生态站队",
+        "英伟达斥资35亿美元绑定联发科，NVLink融合平台",
         "科技早报｜华为2026上半年营收4678亿元；英伟达"
-      ]
-    },
-    {
-      "topic": "商业航天与卫星互联网",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新华网-科技"
-      ],
-      "items": [
-        "全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设"
       ]
     },
     {
@@ -1006,17 +978,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "9月1日美股成交额前20：特斯拉涨超5% 在中国香港和澳门推出简配低价Model3车型"
-      ]
-    },
-    {
-      "topic": "国产 GPU / 算力基础设施",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "芯擎科技端侧AI芯片长三角研发基地在无锡签约"
       ]
     },
     {
@@ -1042,14 +1003,14 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "科学前沿动态",
+      "topic": "科学前沿与科研设施",
       "count": 1,
       "sourceCount": 1,
       "sources": [
-        "科技日报"
+        "新浪科技"
       ],
       "items": [
-        "3D打印技术赋能科研五大场景"
+        "上海软件中心量子计算攻关突击队正式成立"
       ]
     },
     {
@@ -1087,6 +1048,74 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "全球首个太空算力云常态化运营，商业航天加速迈",
+      "summary": "全球首个太空算力云常态化运营，商业航天加速迈入在轨算力时代｜航天早参,卫星,产业链,火箭发射,太空算力,航天早参,常态化运营,东风商业航天",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L5NU0LUL0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L5NU0LUL0512B07B.html"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "太空与低空",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 179,
+      "reporterScore": 193,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “全球首个太空算力云常态化运营，商业航天加速迈” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "全球首个太空算力云常态化运营，商业航天加速迈入在轨算力时代｜航天早参,卫星,产业链,火箭发射,太空算力,航天早参,常态化运营,东风商业航天",
+      "relatedTitles": [
+        "全球首个太空算力云常态化运营，商业航天加速迈"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "影响市场重大事件：全球首个！太空算力在轨试验实现常态化",
@@ -1153,7 +1182,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "影响市场重大事件：全球首个！太空算力在轨试验实现常态化"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cDovL3d3dy5uZXdz",
@@ -1221,7 +1250,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1289,7 +1318,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "从80%到99%，机器人离“ChatGPT时刻”还有多远"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cDovL3d3dy5uZXdz",
@@ -1357,7 +1386,143 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "消息称英伟达重启推理预填充优化芯片 Rubin CPX 项目，设计大幅调整",
+      "summary": "新 Rubin CPX 拥有接近标准 Rubin GPU 的算力，预填充性能进一步提升，配备 168GB HBM4 内存。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/996/759.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/996/759.htm"
+      ],
+      "publishedAt": "Tue, 01 Sep 2026 01:42:15 GMT",
+      "date": "2026-09-01",
+      "category": "芯片",
+      "classificationConfidence": 0.98,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 171,
+      "reporterScore": 179,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “消息称英伟达重启推理预填充优化芯片 Rubin CPX 项目，设计大幅调整” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "新 Rubin CPX 拥有接近标准 Rubin GPU 的算力，预填充性能进一步提升，配备 168GB HBM4 内存。",
+      "relatedTitles": [
+        "消息称英伟达重启推理预填充优化芯片 Rubin CPX 项目，设计大幅调整"
+      ],
       "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "9月1日美股成交额前20：特斯拉涨超5% 在中国香港和澳门推出简配低价Model3车型",
+      "summary": "周一美股成交额第1名闪迪收涨5.50%，成交352.06亿美元。 SK海力士正评估在日本建设半导体工厂，以完善全球产能布局，满足AI带动的存储芯片需求。日本因电力和水资源条件及产业链优势成为潜在选项，公司正考察各地，合作模式未定，可...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhfqf8481378.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhfqf8481378.shtml"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 174,
+      "reporterScore": 188,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “9月1日美股成交额前20：特斯拉涨超5% 在中国香港和澳门推出简配低价Model3车型” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "周一美股成交额第1名闪迪收涨5.50%，成交352.06亿美元。 SK海力士正评估在日本建设半导体工厂，以完善全球产能布局，满足AI带动的存储芯片需求。日本因电力和水资源条件及产业链优势成为潜在选项，公司正考察各地，合作模式未定，可...",
+      "relatedTitles": [
+        "9月1日美股成交额前20：特斯拉涨超5% 在中国香港和澳门推出简配低价Model3车型"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1425,7 +1590,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1493,7 +1658,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI广告业务年化收入突破10亿美元，推出仅约"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1561,7 +1726,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英伟达宣布史上最大海外直接投资 巩固XPU新星联发科生态站队"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1629,12 +1794,12 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Mac 成 AI 硬件宠儿：苹果提前发布 2026 款 mini / Studio，全球需求激增促成 8 月上新"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "独家丨范式智能出资10亿元采购华为昇腾950，用于AI大模型落地",
-      "summary": "新浪科技讯 9月1日上午消息，新浪科技从知情人士处独家获悉，港股上市公司范式智能近期与华为达成了一项大规模算力订单合作：范式将出资超10亿元采购华为昇腾950芯片，用于支撑AI大模型在金融、制造等核心领域的落地。 据前述知情人士透露...",
+      "summary": "9 月 1 日上午消息，新浪科技从知情人士处独家获悉，港股上市公司范式智能近期与华为达成了一项大规模算力订单合作： 范式将出资超 10 亿元采购华为昇腾 950 芯片 ，用于支撑 AI 大模型在金融、制造等核心领域的落地。 据前述知情人士透",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -1697,7 +1862,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "独家丨范式智能出资10亿元采购华为昇腾950，用于AI大模型落地"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1765,7 +1930,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "微软Outlook和OpenAI的ChatGPT Work出现用户宕机"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1833,25 +1998,25 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "人工智能应用服务商培育专项行动启动- 记者8月31日获悉"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "国家人工智能基金向北京可灵注入现金资本14亿元",
-      "summary": "【TechWeb】9月1日消息，快手在港交所公告，8月31日，北京可灵分别与国家人工智能基金及Charoen Pokphand Robot Limited（正大机器人）订立加入协议。据此，国家人工智能基金及正大机器人各自同意作为额外投资者成...",
+      "title": "OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了",
+      "summary": "OpenAI OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了 什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac 梦晨 6小时前 OpenAI 赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置” 下一代Agent天然会走向云端和更大规模的计算资源 henry 2026-08-25 ",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhsea4706496.shtml",
+      "url": "https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhscz8306105.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhsea4706496.shtml"
+        "https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhscz8306105.shtml"
       ],
       "publishedAt": "2026-09-01",
       "date": "2026-09-01",
       "category": "AI",
-      "classificationConfidence": 0.98,
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1861,45 +2026,45 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 175,
-      "reporterScore": 181,
+      "score": 163,
+      "reporterScore": 171,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
+        "cgtFocus": 0,
+        "visual": 0,
         "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
+        "visual": false,
         "international": false,
-        "interview": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 118
+        "reporterScore": 120
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国家人工智能基金向北京可灵注入现金资本14亿元” against primary-source evidence.",
+      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "【TechWeb】9月1日消息，快手在港交所公告，8月31日，北京可灵分别与国家人工智能基金及Charoen Pokphand Robot Limited（正大机器人）订立加入协议。据此，国家人工智能基金及正大机器人各自同意作为额外投资者成...",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "（来源：钛媒体APP）据报道，OpenAI在过去数月内购入数万台Mac mini和Mac Studio，专门用于强化学习训练。Anthropic则通过亚马逊AWS租用Mac算力完成同类任务。这批设备训练的是Computer-use Agen...",
       "relatedTitles": [
-        "国家人工智能基金向北京可灵注入现金资本14亿元"
+        "OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了"
       ],
       "isNewSinceLastRun": true
     },
@@ -1969,7 +2134,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI与机器人盘前速递丨AI资本支出“空前激增”，"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2037,44 +2202,112 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "对话橡鹿机器人创始人杨建成：以前炒菜机器人只会“背菜谱”，我们让它“理解了烹饪”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "9月1日美股成交额前20：特斯拉涨超5% 在中国香港和澳门推出简配低价Model3车型",
-      "summary": "周一美股成交额第1名闪迪收涨5.50%，成交352.06亿美元。 SK海力士正评估在日本建设半导体工厂，以完善全球产能布局，满足AI带动的存储芯片需求。日本因电力和水资源条件及产业链优势成为潜在选项，公司正考察各地，合作模式未定，可...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "英伟达斥资35亿美元绑定联发科，NVLink融合平台",
+      "summary": "英伟达斥资35亿美元绑定联发科，NVLink融合平台加速AI生态扩张｜人工智能早参,英伟达,人工智能,联发科技,nvidia,nvlink,内存芯片成本",
+      "source": "网易科技",
       "sources": [
-        "新浪科技"
+        "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhfqf8481378.shtml",
+      "url": "https://www.163.com/dy/article/L5NUKQSA0512B07B.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhfqf8481378.shtml"
+        "https://www.163.com/dy/article/L5NUKQSA0512B07B.html"
       ],
       "publishedAt": "2026-09-01",
       "date": "2026-09-01",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
+      "category": "芯片",
+      "classificationConfidence": 0.79,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 164,
-      "reporterScore": 178,
+      "score": 167,
+      "reporterScore": 167,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
-        "multiSource": 12,
+        "multiSource": 22,
         "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达斥资35亿美元绑定联发科，NVLink融合平台” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "英伟达斥资35亿美元绑定联发科，NVLink融合平台加速AI生态扩张｜人工智能早参,英伟达,人工智能,联发科技,nvidia,nvlink,内存芯片成本",
+      "relatedTitles": [
+        "英伟达斥资35亿美元绑定联发科，NVLink融合平台"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "产量翻了数十倍 湖州这家企业请来机器人“上岗”养鱼",
+      "summary": "2026年09月01日 09:31:44投饵、巡检、搬运全都交给机器人，工作人员坐在监控室就能管好一池鱼。在湖州市吴兴区东林镇，浙江运弘生态农业科技有限公司正用“未来移动数字渔业”模式，让传统水产养殖经历一场静悄悄的变革。“我们把鱼从露天池...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhsee1518928.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhsee1518928.shtml"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "机器人",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 164,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
         "visual": 8,
-        "international": 9,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
@@ -2086,24 +2319,24 @@ window.CHENCHEN_DAILY_DATA = {
       "reporterSignals": {
         "primary": false,
         "visual": true,
-        "international": true,
+        "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 118
+        "hardTechWeight": 90,
+        "reporterScore": 113
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": true,
-      "hasInternationalValue": true,
+      "hasInternationalValue": false,
       "format": "video",
-      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “9月1日美股成交额前20：特斯拉涨超5% 在中国香港和澳门推出简配低价Model3车型” against primary-source evidence.",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “产量翻了数十倍 湖州这家企业请来机器人“上岗”养鱼” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "周一美股成交额第1名闪迪收涨5.50%，成交352.06亿美元。 SK海力士正评估在日本建设半导体工厂，以完善全球产能布局，满足AI带动的存储芯片需求。日本因电力和水资源条件及产业链优势成为潜在选项，公司正考察各地，合作模式未定，可...",
+      "matchedTopic": "机器人动态",
+      "rawText": "2026年09月01日 09:31:44投饵、巡检、搬运全都交给机器人，工作人员坐在监控室就能管好一池鱼。在湖州市吴兴区东林镇，浙江运弘生态农业科技有限公司正用“未来移动数字渔业”模式，让传统水产养殖经历一场静悄悄的变革。“我们把鱼从露天池...",
       "relatedTitles": [
-        "9月1日美股成交额前20：特斯拉涨超5% 在中国香港和澳门推出简配低价Model3车型"
+        "产量翻了数十倍 湖州这家企业请来机器人“上岗”养鱼"
       ],
       "isNewSinceLastRun": true
     },
@@ -2173,6 +2406,74 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "小米汽车：2026 年 8 月交付量超 3 万台，正全力为澎程上市交付做准备"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "理想汽车上半年亏损将近40亿 CEO李想着急吗？",
+      "summary": "运营商财经网 汽车频道李广艳/文日前，理想汽车正式发布了2026年上半年业绩报告，报告期内，公司不仅营收下滑，还出现了亏损，引发广泛关注。具体是什么情况？接下来运营商财经网将大致梳理。财报显示，2026年上半年，理想汽车实现营业总收入48...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhscz8317425.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhscz8317425.shtml"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “理想汽车上半年亏损将近40亿 CEO李想着急吗？” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "运营商财经网 汽车频道李广艳/文日前，理想汽车正式发布了2026年上半年业绩报告，报告期内，公司不仅营收下滑，还出现了亏损，引发广泛关注。具体是什么情况？接下来运营商财经网将大致梳理。财报显示，2026年上半年，理想汽车实现营业总收入48...",
+      "relatedTitles": [
+        "理想汽车上半年亏损将近40亿 CEO李想着急吗？"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -2241,7 +2542,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中信建投：IGV创年内新高，AI商业化推动海外软"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2309,7 +2610,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "腾讯WorkBuddy开学季AI普惠专项启动：认证师生免费领1000积分"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2377,7 +2678,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Anthropic与Lambda签署350亿美元云服务协议"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2445,7 +2746,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI在当下——华帝Y9入选优质供给产品，交出“好房子”厨房新答卷"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2513,7 +2814,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "奕境曾清林：中国新能源车能领跑全球除了“换道”巧劲，更离不开“直道”上攒下的硬实力"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2581,75 +2882,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "韩国8月出口继续强劲增长 AI需求推动芯片热潮"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "当AI帮人决策“买单” 如何筑牢支付安全底线",
-      "summary": "“帮我订张机票”“帮我下单买奶茶”……只需一句语音指令，AI智能体便能辅助完成比价、下单。当前，人工智能在支付领域的应用日趋活跃，多家支付机构积极探索并推出AI支付产品。 当机器开始帮人决策“买单”，资金安全如何保障？ “要守住风险...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhscz8315675.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhscz8315675.shtml"
-      ],
-      "publishedAt": "2026-09-01",
-      "date": "2026-09-01",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “当AI帮人决策“买单” 如何筑牢支付安全底线” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "“帮我订张机票”“帮我下单买奶茶”……只需一句语音指令，AI智能体便能辅助完成比价、下单。当前，人工智能在支付领域的应用日趋活跃，多家支付机构积极探索并推出AI支付产品。 当机器开始帮人决策“买单”，资金安全如何保障？ “要守住风险...",
-      "relatedTitles": [
-        "当AI帮人决策“买单” 如何筑牢支付安全底线"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2717,7 +2950,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "芯擎科技端侧AI芯片长三角研发基地在无锡签约"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2785,7 +3018,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "科技早报｜华为2026上半年营收4678亿元；英伟达"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2852,6 +3085,346 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "苹果起诉前员工带走商业机密给 OpenAI 一案，最新披露的取证结果显示，前员工确实下载使用了苹果机密电路原理图，还曾指示同事销毁证据，苹果担忧机密泄露后造成不可挽回的损失。#苹果起诉OpenAI#",
       "relatedTitles": [
         "苹果披露“惊人证据”：OpenAI 跳槽工程师下载机密电路图还销毁证据"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "升级后的DeepSeek，为何总爱深思熟虑？",
+      "summary": "新浪科技讯 8月31日下午消息，探迹科技宣布其核心产品“探迹拓客Agent”完成全新升级。据介绍，此次升级后，从市场分析、潜客挖掘、策略制定，到存量客户激活，销售增长的全链条能力被整合至一个智能体之中，企业仅通过一个对话框即可完成以往需...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqhscz8315332.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqhscz8315332.shtml"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “升级后的DeepSeek，为何总爱深思熟虑？” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "原标题：升级后的DeepSeek，为何总爱深思熟虑？ 来源：智商税研究中心DeepSeek升级V4版本后，用户*的感受是什么？也许不是回答能力的提升，而是AI思考时间变得更长。为此，一些用户观察其思维链条，发现升级后的DeepSeek...",
+      "relatedTitles": [
+        "升级后的DeepSeek，为何总爱深思熟虑？"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "开盘：三大指数涨跌不一 AI语料板块涨幅居前",
+      "summary": "9月1日消息，三大指数涨跌不一，AI语料板块涨幅居前。截至今日开盘，沪指跌0.16%，报3979.88点；深成指涨0.02%，报14017.42点；创指报跌0.10%，报3435.32点。",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.cn/stock/dpps/2026-09-01/detail-iniqhsee1502755.d.html",
+      "sourceUrls": [
+        "https://finance.sina.cn/stock/dpps/2026-09-01/detail-iniqhsee1502755.d.html"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “开盘：三大指数涨跌不一 AI语料板块涨幅居前” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "9月1日消息，三大指数涨跌不一，AI语料板块涨幅居前。截至今日开盘，沪指跌0.16%，报3979.88点；深成指涨0.02%，报14017.42点；创指报跌0.10%，报3435.32点。",
+      "relatedTitles": [
+        "开盘：三大指数涨跌不一 AI语料板块涨幅居前"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "AI视频板块持续活跃 竞业达3连板",
+      "summary": "AI视频板块持续活跃 竞业达3连板,竞业,个股,掌阅科技,欢瑞世纪,ai视频,知名企业",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L5NU0RLR0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L5NU0RLR0512B07B.html"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI视频板块持续活跃 竞业达3连板” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "AI视频板块持续活跃 竞业达3连板,竞业,个股,掌阅科技,欢瑞世纪,ai视频,知名企业",
+      "relatedTitles": [
+        "AI视频板块持续活跃 竞业达3连板"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "资产配置研习社主理人刘嘉玮：买方投顾的AI破局之道",
+      "summary": "资产配置研习社主理人刘嘉玮：买方投顾的AI破局之道,投研,刘嘉玮,小盘股,普通投资者,资产配置研习社",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L5NTLKA605198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L5NTLKA605198CJN.html"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “资产配置研习社主理人刘嘉玮：买方投顾的AI破局之道” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "资产配置研习社主理人刘嘉玮：买方投顾的AI破局之道,投研,刘嘉玮,小盘股,普通投资者,资产配置研习社",
+      "relatedTitles": [
+        "资产配置研习社主理人刘嘉玮：买方投顾的AI破局之道"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cDovL3d3dy5uZXdz",
+      "title": "当AI帮人决策“买单” 如何筑牢支付安全底线-当机器开始帮人决策“买单”",
+      "summary": "当AI帮人决策“买单” 如何筑牢支付安全底线-当机器开始帮人决策“买单”，资金安全如何保障？",
+      "source": "新华网-科技",
+      "sources": [
+        "新华网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "http://www.news.cn/tech/20260901/cac9f6921e0b4b1c9fbfdcf4aad59c8c/c.html",
+      "sourceUrls": [
+        "http://www.news.cn/tech/20260901/cac9f6921e0b4b1c9fbfdcf4aad59c8c/c.html"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “当AI帮人决策“买单” 如何筑牢支付安全底线-当机器开始帮人决策“买单”” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "当AI帮人决策“买单” 如何筑牢支付安全底线-当机器开始帮人决策“买单”，资金安全如何保障？",
+      "relatedTitles": [
+        "当AI帮人决策“买单” 如何筑牢支付安全底线-当机器开始帮人决策“买单”"
       ],
       "isNewSinceLastRun": true
     },
@@ -2921,7 +3494,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "NASA的「超广角」太空望远镜上天了，5年要扫描10亿个星系"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2989,7 +3562,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "柔性机器人在红外光激发下会持续跳跃"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3056,6 +3629,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "智元机器人第2万套MEgo交付；机器人六维力传感器实现国产主导切换｜数智早参,飞轮,本体,阵列,高精度,数智早参,智元机器人,六维力传感器",
       "relatedTitles": [
         "智元机器人第2万套MEgo交付；机器人六维力传感"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "国内首部 AIGC 长剧：湖南卫视《后西游记》上星收视飘红，实时收视率同时段位居省级卫视第一名",
+      "summary": "作为国内首部 AIGC 长剧，《后西游记》剧集由芒果 TV 出品，芒果 TV AIGC 创新内容中心制作、伯璟文化承制。#AI长剧后西游记收视第一#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/996/757.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/996/757.htm"
+      ],
+      "publishedAt": "Tue, 01 Sep 2026 01:37:15 GMT",
+      "date": "2026-09-01",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “国内首部 AIGC 长剧：湖南卫视《后西游记》上星收视飘红，实时收视率同时段位居省级卫视第一名” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "作为国内首部 AIGC 长剧，《后西游记》剧集由芒果 TV 出品，芒果 TV AIGC 创新内容中心制作、伯璟文化承制。#AI长剧后西游记收视第一#",
+      "relatedTitles": [
+        "国内首部 AIGC 长剧：湖南卫视《后西游记》上星收视飘红，实时收视率同时段位居省级卫视第一名"
       ],
       "isNewSinceLastRun": true
     },
@@ -3125,7 +3766,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "字节再次上调“豆包股”价格；滴滴自动驾驶新一"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3193,20 +3834,88 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "余承东官宣华为 Mate XT 2 非凡大师三折叠手机首次把硬件级防窥带入大屏，双击外屏即可开启"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "想买新能源车又怕踩坑？购车前这些功课和维权渠道要收好",
-      "summary": "最近，新能源车市场又热闹起来，特斯拉推出主打亲民价位的新车型引发热议，加上各品牌新车扎堆上市、价格频频调整，让不少准备入手新能源车的消费者既心动又犹豫：车市价格一变再变，刚买不久会不会就掉价？新出的智能驾驶功能到底靠不靠谱？万一车出了问...",
+      "title": "上海软件中心量子计算攻关突击队正式成立",
+      "summary": "2026年8月24日下午，上海软件中心量子计算攻关突击队授旗仪式在863基地举行。上海科学院量子推进工作小组代表，上海软件中心领导班子成员、突击队全体成员及相关部门技术骨干参会。当前，量子科技已上升为国家战略科技力量的核心方向，量子计算作为...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-09-01/doc-iniqfear7304589.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhscx6717533.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/consume/xiaofei/2026-09-01/doc-iniqfear7304589.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhscx6717533.shtml"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "科学前沿",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask what is genuinely new, how it was tested and whether the scientific mechanism, evidence and translational boundary creates a credible path toward application. For this item, test the claim behind “上海软件中心量子计算攻关突击队正式成立” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿与科研设施",
+      "rawText": "2026年8月24日下午，上海软件中心量子计算攻关突击队授旗仪式在863基地举行。上海科学院量子推进工作小组代表，上海软件中心领导班子成员、突击队全体成员及相关部门技术骨干参会。当前，量子科技已上升为国家战略科技力量的核心方向，量子计算作为...",
+      "relatedTitles": [
+        "上海软件中心量子计算攻关突击队正式成立"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "鸿蒙智行8月交付42101台",
+      "summary": "鸿蒙智行宣布，8 月交付 42,101 台，年内累计交付同比增长 10.8%。截至目前，鸿蒙智行全系累计交付已突破 152 万台，持续刷新中国新势力品牌达成速度纪录。#鸿蒙智行# #华为乾崑智驾#",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L5NU0LTL0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L5NU0LTL0512B07B.html"
       ],
       "publishedAt": "2026-09-01",
       "date": "2026-09-01",
@@ -3221,14 +3930,14 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 85,
       "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "priority": 5,
-      "score": 157,
-      "reporterScore": 157,
+      "score": 145,
+      "reporterScore": 145,
       "scoreBreakdown": {
         "hardTech": 85,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
         "visual": 0,
         "international": 0,
         "policy": 0,
@@ -3254,12 +3963,148 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “想买新能源车又怕踩坑？购车前这些功课和维权渠道要收好” against primary-source evidence.",
+      "angle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “鸿蒙智行8月交付42101台” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "鸿蒙智行8月交付42101台,鸿蒙智行",
+      "relatedTitles": [
+        "鸿蒙智行8月交付42101台"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "北大科研团队：受气候变化影响，南极冰川融化正",
+      "summary": "北大科研团队：受气候变化影响，南极冰川融化正在释放剧毒汞,北大,剧毒汞,气候变化,南极半岛,南极冰川,气候临界点",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L5NUGJMO0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L5NUGJMO0534A4SC.html"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "科学前沿",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “北大科研团队：受气候变化影响，南极冰川融化正” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "北大科研团队：受气候变化影响，南极冰川融化正在释放剧毒汞,北大,剧毒汞,气候变化,南极半岛,南极冰川,气候临界点",
+      "relatedTitles": [
+        "北大科研团队：受气候变化影响，南极冰川融化正"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "财联社汽车早报「9月1日」",
+      "summary": "财联社汽车早报「9月1日」,乘用车,财联社,自动驾驶,汽车早报,界面新闻,新能源汽车,新能源商用车",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L5NTLKA505198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L5NTLKA505198CJN.html"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "新能源车",
+      "classificationConfidence": 0.97,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “财联社汽车早报「9月1日」” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "最近，新能源车市场又热闹起来，特斯拉推出主打亲民价位的新车型引发热议，加上各品牌新车扎堆上市、价格频频调整，让不少准备入手新能源车的消费者既心动又犹豫：车市价格一变再变，刚买不久会不会就掉价？新出的智能驾驶功能到底靠不靠谱？万一车出了问...",
+      "rawText": "财联社汽车早报「9月1日」,乘用车,财联社,自动驾驶,汽车早报,界面新闻,新能源汽车,新能源商用车",
       "relatedTitles": [
-        "想买新能源车又怕踩坑？购车前这些功课和维权渠道要收好"
+        "财联社汽车早报「9月1日」"
       ],
       "isNewSinceLastRun": true
     },
@@ -3329,11 +4174,11 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "藏太深！ChatGPT中居然还有这么多Codex同款能力"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "快讯：恒指低开0.59% 科指涨0.62% 科网股普跌 存储概念股活跃",
+      "title": "快讯：恒指低开0.59% 科指跌0.62% 科网股普跌 存储概念股活跃",
       "summary": "美股周一走势下滑，市场关注中东局势与通胀数据，三大指数温和收跌。美元反复向好，美十年期债息升至4.7厘，金价、油价表现向好。今日港股三大指数集体高开，恒指开盘涨0.24%，报25998.59点，恒科指涨0.27%，国企指数涨0.37%。盘面上，科网股涨跌不一，阿里巴巴涨超2%、小米跌近1%；AI应用、生物医药、煤炭、黄",
       "source": "新浪科技",
       "sources": [
@@ -3390,14 +4235,14 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “快讯：恒指低开0.59% 科指涨0.62% 科网股普跌 存储概念股活跃” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “快讯：恒指低开0.59% 科指跌0.62% 科网股普跌 存储概念股活跃” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
       "rawText": "美股周一走势下滑，市场关注中东局势与通胀数据，三大指数温和收跌。美元反复向好，美十年期债息升至4.7厘，金价、油价表现向好。今日港股三大指数集体高开，恒指开盘涨0.24%，报25998.59点，恒科指涨0.27%，国企指数涨0.37%。盘面上，科网股涨跌不一，阿里巴巴涨超2%、小米跌近1%；AI应用、生物医药、煤炭、黄金股多数上涨，如MINIMAX涨超4%、再鼎医药涨超4%、中煤能源涨超1%、赤峰黄金涨超2%。 (AI生成)",
       "relatedTitles": [
-        "快讯：恒指低开0.59% 科指涨0.62% 科网股普跌 存储概念股活跃"
+        "快讯：恒指低开0.59% 科指跌0.62% 科网股普跌 存储概念股活跃"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3465,7 +4310,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI早报 | OpenAI据悉购入数万台苹果Mac用于AI训练"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3533,7 +4378,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "IT早报 0901：华为、小米、荣耀手机今日集体调价；库克担任苹果 CEO 最后一天给员工发告别信；曝网易全系产品将登陆华为鸿蒙系统；国内首部 AIGC 长剧《后西游记》开播"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -3601,7 +4446,75 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "3D打印技术赋能科研五大场景"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "2026数博会映照“十五五”数字经济发展新图",
+      "summary": "2026中国国际大数据产业博览会30日落下帷幕。自2015年创办以来，历经12年演变，数博会已成为观察我国数字经济发展的一扇窗口。 本届数博会以“词元——数据要素价值释放新路径”为年度主题，聚焦成果展示、行业交流、展产融合，举办各类活...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhsee1496955.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhsee1496955.shtml"
+      ],
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "category": "数字经济",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 70,
+      "keywords": "digital infrastructure, data flows and the platform economy",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 147,
+      "scoreBreakdown": {
+        "hardTech": 70,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 70,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Frame this as infrastructure rather than consumer hype, using data flows, governance and value creation, adoption and measurable economic effects. For this item, test the claim behind “2026数博会映照“十五五”数字经济发展新图” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "数字基础设施与数据要素",
+      "rawText": "2026中国国际大数据产业博览会30日落下帷幕。自2015年创办以来，历经12年演变，数博会已成为观察我国数字经济发展的一扇窗口。 本届数博会以“词元——数据要素价值释放新路径”为年度主题，聚焦成果展示、行业交流、展产融合，举办各类活...",
+      "relatedTitles": [
+        "2026数博会映照“十五五”数字经济发展新图"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3669,7 +4582,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "优步申请运营首尔自动驾驶出租车平台"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3737,75 +4650,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "小米汽车解释为何非要跑京沪线：公开数据用结果说话"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "2026数博会映照“十五五”数字经济发展新图",
-      "summary": "2026中国国际大数据产业博览会30日落下帷幕。自2015年创办以来，历经12年演变，数博会已成为观察我国数字经济发展的一扇窗口。 本届数博会以“词元——数据要素价值释放新路径”为年度主题，聚焦成果展示、行业交流、展产融合，举办各类活...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhsee1496955.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhsee1496955.shtml"
-      ],
-      "publishedAt": "2026-09-01",
-      "date": "2026-09-01",
-      "category": "数字经济",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 70,
-      "keywords": "digital infrastructure, data flows and the platform economy",
-      "priority": 4,
-      "score": 129,
-      "reporterScore": 137,
-      "scoreBreakdown": {
-        "hardTech": 70,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 70,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Frame this as infrastructure rather than consumer hype, using data flows, governance and value creation, adoption and measurable economic effects. For this item, test the claim behind “2026数博会映照“十五五”数字经济发展新图” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "数字基础设施与数据要素",
-      "rawText": "2026中国国际大数据产业博览会30日落下帷幕。自2015年创办以来，历经12年演变，数博会已成为观察我国数字经济发展的一扇窗口。 本届数博会以“词元——数据要素价值释放新路径”为年度主题，聚焦成果展示、行业交流、展产融合，举办各类活...",
-      "relatedTitles": [
-        "2026数博会映照“十五五”数字经济发展新图"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3873,7 +4718,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Anthropic 详解 7·30 安全事件：配置错误致 Claude“入侵”真实企业，已加强沙箱隔离与实时监控"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3941,10 +4786,747 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "微信鸿蒙版 App 获 8.0.21.34 版本邀测升级，修复了一些已知问题"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "MEET大会",
+      "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/meet/meet2026/",
+      "sourceUrls": [
+        "https://www.qbitai.com/meet/meet2026/"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MEET大会” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势。量子位在会上发布了「2025人工智能年度榜单」与「2025年度AI十大趋势报告」。 大会直播回顾 MEET2025 回顾 MEET2024 回顾 MEET2023 回顾 特邀嘉宾 &times; 重磅发布 2025人工智能年度榜单 我们希望为关注前沿科技创新的人提供一个独立的第三方参照系 为在技术与产业一线摸索前行的团队加一份笃定 为仍在押注长期主义的建设者刻下年度坐标 2025年度AI十大趋势报告 报告由量子位智库打造 基于对全球AI技术发展、产业应用和社会影响的深度调研与分析 全面呈现了人工智能领域的最新现状与未来发展趋势 独家观点 张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 百",
+      "relatedTitles": [
+        "MEET大会"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "WAIC观察：3DIC EDA + AI 智能体，如何重构STCO新范式？",
+      "summary": "在7月18日举行的2026世界人工智能大会（WAIC）期间，珠海硅芯科技有限公司（以下简称硅芯科技）创始人兼首席科学家赵毅应邀出席“重构算力——AI算力需求与供给的结构性重构”产业链接会。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2026_07_24_824899.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2026_07_24_824899.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 156,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “WAIC观察：3DIC EDA + AI 智能体，如何重构STCO新范式？” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "在7月18日举行的2026世界人工智能大会（WAIC）期间，珠海硅芯科技有限公司（以下简称硅芯科技）创始人兼首席科学家赵毅应邀出席“重构算力——AI算力需求与供给的结构性重构”产业链接会。",
+      "relatedTitles": [
+        "WAIC观察：3DIC EDA + AI 智能体，如何重构STCO新范式？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云",
+      "summary": "首页 荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云 分享到： 【2024年5月22日，法国巴黎】今日，荣耀终端有限公司CEO赵明在欧洲最大的科技创新盛会——Viva Technology（以下简称“VivaTech”)发表了题为“AI时代 智能设备如何赋能人类”的主题演讲，首次面向全球市场发布荣",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/politics/2024_05_24_735797.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/politics/2024_05_24_735797.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 144,
+      "reporterScore": 160,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "首页 荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云 分享到： 【2024年5月22日，法国巴黎】今日，荣耀终端有限公司CEO赵明在欧洲最大的科技创新盛会——Viva Technology（以下简称“VivaTech”)发表了题为“AI时代 智能设备如何赋能人类”的主题演讲，首次面向全球市场发布荣耀四层AI战略架构，并宣布海外未来的旗舰机将搭载谷歌云相关服务，为用户带来革命性的生成式AI体验。 荣耀终端有限公司CEO赵明在VivaTech发布主题演讲 “荣耀坚信基于端侧AI的个人化、人性化和隐私保护的特点，每个人都能安全、可靠地利用AI来让自己的生活更加便利。”赵明表示：“我们也很高兴未来的旗舰机将搭载谷歌云相关服务，探索端云结合的混合AI模式，为用户提供更具想象力的GAI体验。” 面向全球发布四层AI战略架构，将搭载谷歌云共探端云协同新体验 在主题演讲环节，荣耀首次对海外市场发布四层AI战略架构，并展示了其用AI重构操作系统MagicOS的创新体验： 第一层：用AI使能跨系统、跨设备的融合。 第二层：用AI来重构单终端的操作系统，用AI强化对用户意图的识别和对资",
+      "relatedTitles": [
+        "荣耀亮相欧洲科技盛会VivaTech，官宣未来生成式AI将搭载谷歌云"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "在华收入才占2%，美国政客也容不下",
+      "summary": "据美国《纽约邮报》8月30日报道，在美国不断收紧对华人工智能技术限制之际，多家美国AI数据服务公司仍在与中国",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/internation/2026_08_31_829278.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/internation/2026_08_31_829278.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 148,
+      "reporterScore": 156,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “在华收入才占2%，美国政客也容不下” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "据美国《纽约邮报》8月30日报道，在美国不断收紧对华人工智能技术限制之际，多家美国AI数据服务公司仍在与中国",
+      "relatedTitles": [
+        "在华收入才占2%，美国政客也容不下"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "非洲企业偏不吃美国那套：中国AI不只是便宜",
+      "summary": "美国试图逼各国在中美AI竞争中“选边站”，但在非洲，不少企业并不打算照美国的选择题作答。中国大模型价格更低、",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/internation/2026_08_24_828421.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/internation/2026_08_24_828421.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 148,
+      "reporterScore": 156,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “非洲企业偏不吃美国那套：中国AI不只是便宜” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "美国试图逼各国在中美AI竞争中“选边站”，但在非洲，不少企业并不打算照美国的选择题作答。中国大模型价格更低、",
+      "relatedTitles": [
+        "非洲企业偏不吃美国那套：中国AI不只是便宜"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "订单已排到2030年！“单船最大装车量达10800辆”",
+      "summary": "首页 订单已排到2030年！“单船最大装车量达10800辆” 分享到： 28日，由中国船舶集团广船国际建造的全球首艘万车级双燃料汽车运输船在广州南沙完成交付。 该船长230米，型宽40米，设计了14层车库甲板，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。同时，船舶还搭载了最新的绿色",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/politics/2026_04_29_815428.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/politics/2026_04_29_815428.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "新能源车",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 134,
+      "reporterScore": 150,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “订单已排到2030年！“单船最大装车量达10800辆”” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "首页 订单已排到2030年！“单船最大装车量达10800辆” 分享到： 28日，由中国船舶集团广船国际建造的全球首艘万车级双燃料汽车运输船在广州南沙完成交付。 该船长230米，型宽40米，设计了14层车库甲板，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。同时，船舶还搭载了最新的绿色燃料系统，符合全球最新环保要求。 全球首艘万车级双燃料汽车运输船的正式交付，标志着我国完全掌握了此类船型的建造技术，在该细分市场保持全球领先地位。 今年第一季度，我国汽车出口222.6万辆，同比增长56.7%，新能源汽车市场继续保持快速增长态势。记者发现，快速增长的汽车出口需求，也拉动了全球航运市场对汽车运输船的需求。2026年一季度，我国交付汽车运输船11艘，同比增长9.5%。 在中船广船国际，汽车运输船正在船坞中加紧生产，排期已至2030年。当前全球汽车贸易需求持续增长，造船厂已累计承接汽车运输船订单超40艘，万车级汽车运输船自推出以来更是广受市场青睐。 中船广船国际10800车汽车运输船技术经理张付利表示，目前10800车总共有14条订单，从公司建造的趋势来看，最初",
+      "relatedTitles": [
+        "订单已排到2030年！“单船最大装车量达10800辆”"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "全球首艘！能装一万多辆汽车的运输船今天试航",
+      "summary": "首页 全球首艘！能装一万多辆汽车的运输船今天试航 分享到： 3月31日，中船广船国际为韩国HMM公司建造的10800车LNG双燃料汽车运输船（PCTC）1号船出海试航，这是目前全球在建的首艘万车级双燃料汽车运输船。 据了解，该船体总长230米，型宽40米，结构吃水10.5米，航速约19节，在高效运输与稳定航行间实现完美",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/politics/2026_03_31_812089.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/politics/2026_03_31_812089.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 134,
+      "reporterScore": 150,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “全球首艘！能装一万多辆汽车的运输船今天试航” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "首页 全球首艘！能装一万多辆汽车的运输船今天试航 分享到： 3月31日，中船广船国际为韩国HMM公司建造的10800车LNG双燃料汽车运输船（PCTC）1号船出海试航，这是目前全球在建的首艘万车级双燃料汽车运输船。 据了解，该船体总长230米，型宽40米，结构吃水10.5米，航速约19节，在高效运输与稳定航行间实现完美平衡。其中14层车库甲板设计，可灵活装载电动汽车、氢能源汽车及重型卡车等多元车型，单船最大装车量达10800辆。按5米一台标准车，所装载的车首尾相连，超过50公里。 这艘船采用燃油和LNG双燃料推进系统，配置轴带发电机，可以一边航行一边完成发电，从而达到节能减排的目的。这艘船环保性能卓越，满足国际海事组织Tier Ⅲ排放标准。 据广船国际相关负责人介绍，汽车运输船是高技术、高附加值船型，其建造难度大、技术含量高。一是需大量采用薄板建造，广船国际建造团队成功攻克了薄板变形控制的难题；二是滚装设备多，机械化程度高，而且过去这些滚装设备大都依赖进口，如今全都实现了国产化。万车船完成建造试航，标志着广船国际完全掌握了此类船型的建造技术，在该细分市场保持领先地位。 （总台记者 魏星",
+      "relatedTitles": [
+        "全球首艘！能装一万多辆汽车的运输船今天试航"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期",
+      "summary": "先进封装正在成为全球AI算力竞赛的关键胜负手。从CoWoS的供需失衡到玻璃基板的产业化门槛，从共封装光学（CPO）的能效博弈到混合键合的多线突破，产业每一个环节都在被AI掀起的巨大需求所重塑。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/JanVardaman/2026_08_11_826887.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/JanVardaman/2026_08_11_826887.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.98,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 136,
+      "reporterScore": 144,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "先进封装正在成为全球AI算力竞赛的关键胜负手。从CoWoS的供需失衡到玻璃基板的产业化门槛，从共封装光学（CPO）的能效博弈到混合键合的多线突破，产业每一个环节都在被AI掀起的巨大需求所重塑。",
+      "relatedTitles": [
+        "独家对话|Jan Vardaman：先进封装不是“方便面”，中国迎来关键窗口期"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "两年两座SAIL奖，壁仞科技的光互连路走到了哪一步？",
+      "summary": "7月18日下午，由观察者网与WAICONNECT联合主办，半导体行业观察协办的WAIC”重构算力“连接会在张江科学会堂举行。当天的论坛汇集了来自算力芯片、服务器、云计算等产业链各环节的企业代表和技术专家，议题从GPU互连、存算一体到智能推理全面覆盖。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2026_07_24_824933.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2026_07_24_824933.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 139,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “两年两座SAIL奖，壁仞科技的光互连路走到了哪一步？” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "7月18日下午，由观察者网与WAICONNECT联合主办，半导体行业观察协办的WAIC”重构算力“连接会在张江科学会堂举行。当天的论坛汇集了来自算力芯片、服务器、云计算等产业链各环节的企业代表和技术专家，议题从GPU互连、存算一体到智能推理全面覆盖。",
+      "relatedTitles": [
+        "两年两座SAIL奖，壁仞科技的光互连路走到了哪一步？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "十万卡之后，算力基础设施坐标系需重新校准",
+      "summary": "7月18日下午，由观察者网、WAICCONNECT主办、半导体行业观察协办的「重构算力」——AI算力需求与供给的结构性重构产业链接会，在张江科学会堂举行。整场活动聚焦训练推理转型、国产算力生态、HBM/CPO先进硬件、万卡集群调度、智算新基建全链路成本测算等当下算力产业最紧要的议题。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/industry-science/2026_07_23_824812.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/industry-science/2026_07_23_824812.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.89,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 139,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “十万卡之后，算力基础设施坐标系需重新校准” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "7月18日下午，由观察者网、WAICCONNECT主办、半导体行业观察协办的「重构算力」——AI算力需求与供给的结构性重构产业链接会，在张江科学会堂举行。整场活动聚焦训练推理转型、国产算力生态、HBM/CPO先进硬件、万卡集群调度、智算新基建全链路成本测算等当下算力产业最紧要的议题。",
+      "relatedTitles": [
+        "十万卡之后，算力基础设施坐标系需重新校准"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办",
+      "summary": "当大模型的浪潮从云端奔涌而下，AI正以前所未有的速度向手机、PC、可穿戴设备、智能汽车等终端渗透。端侧AI——这一被视为下一轮产业变革核心引擎的新赛道，正站在技术突破与资本聚焦的交汇点上。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/GongSi/2026_05_19_817531.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/GongSi/2026_05_19_817531.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 139,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "当大模型的浪潮从云端奔涌而下，AI正以前所未有的速度向手机、PC、可穿戴设备、智能汽车等终端渗透。端侧AI——这一被视为下一轮产业变革核心引擎的新赛道，正站在技术突破与资本聚焦的交汇点上。",
+      "relatedTitles": [
+        "现场爆满！观察者网“金融+端侧AI”产业前沿论坛成功举办"
+      ]
+    },
     {
       "id": "aHR0cDovL3d3dy5uZXdz",
       "title": "高水平科技自立自强院士说",
@@ -4010,6 +5592,274 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "> 大国科技 高水平科技自立自强院士说 我国成功发射卫星互联网低轨",
       "relatedTitles": [
         "高水平科技自立自强院士说"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "“985”博导不如初中辍学的张雪？",
+      "summary": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/politics/2026_04_14_813533.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/politics/2026_04_14_813533.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "科学前沿",
+      "classificationConfidence": 0.82,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 4,
+      "score": 129,
+      "reporterScore": 129,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind ““985”博导不如初中辍学的张雪？” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "首页 博导不如初中辍学的张雪？科技日报：矮化科研工作者不可取 分享到： 有关张雪机车的话题持续保持热度。近日，有网友发文称，自己的内燃机专业博导干了30年，论文发了一堆，专利攒了几十项，却造不出一台能用的发动机。一些自媒体由此跟风炒作起了“‘985’博导比不过初中辍学的张雪”。 诚然，产学研脱节的问题的确值得探讨，但轻视基础研究，甚至矮化科研工作者的态度却不可取。 需要厘清的是，博导与张雪并非处于对立面，而是站在创新链条的不同位置。高校是基础研究的主阵地，很多博导主要从事原理性研究，他们处于创新链前端，要解决的是“从0到1”的问题。张雪则在创新链后端，主要实现工程化落地，要解决的是“从10到100”的问题。二者角色、职责不同，不能用“造机子”的尺子去衡量做基础研究的学者。我们理当为张雪的成功喝彩，但不能因此否定博导们研究的科学价值和学术意义。 基础研究很多时候看似“无用”，但今天的“无用”或许就是明天的“大用”。基础研究所激发的原始创新往往具有奠基性、颠覆性和引领性，是新技术、新发明的先导。评判基础研究的价值不在一时，而在长远。从半导体、计算机到激光技术，我们今天日常生活中广泛使用的很",
+      "relatedTitles": [
+        "“985”博导不如初中辍学的张雪？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "通信之后，FPGA的第二人生",
+      "summary": "如果AI时代最终的赢家是英伟达和它的一系列挑战者，那FPGA到底在这盘棋里扮演什么角色。我们的答案也许是，FPGA不该被拿来跟GPU比。这是一个类别错误。GPU是聚光灯下的算力主角，FPGA是舞台后面的“规则例外者”。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/xinkezhuangyuan/2026_08_05_826216.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/xinkezhuangyuan/2026_08_05_826216.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.76,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 127,
+      "reporterScore": 127,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “通信之后，FPGA的第二人生” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "如果AI时代最终的赢家是英伟达和它的一系列挑战者，那FPGA到底在这盘棋里扮演什么角色。我们的答案也许是，FPGA不该被拿来跟GPU比。这是一个类别错误。GPU是聚光灯下的算力主角，FPGA是舞台后面的“规则例外者”。",
+      "relatedTitles": [
+        "通信之后，FPGA的第二人生"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "“必须由人类创作”，澳唱片业协会禁止纯AI生成歌曲上榜",
+      "summary": "据美联社报道，澳大利亚唱片业协会（ARIA）8月25日表示，随着生成式AI技术日益威胁到艺术家的生计，澳大利亚唱片业将禁止完全由AI生成的歌曲进入官方排行榜。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/internation/2026_08_25_828591.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/internation/2026_08_25_828591.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 127,
+      "reporterScore": 127,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind ““必须由人类创作”，澳唱片业协会禁止纯AI生成歌曲上榜” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "据美联社报道，澳大利亚唱片业协会（ARIA）8月25日表示，随着生成式AI技术日益威胁到艺术家的生计，澳大利亚唱片业将禁止完全由AI生成的歌曲进入官方排行榜。",
+      "relatedTitles": [
+        "“必须由人类创作”，澳唱片业协会禁止纯AI生成歌曲上榜"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "港府：香港受国家AI发展带动，相关新股集资半年内近千亿",
+      "summary": "港媒《星岛头条》报道，香港特区财政司司长陈茂波发文表示，国家在AI方面的迅速发展，对香港的经济和金融市场发挥",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/economy/2026_08_23_828312.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/economy/2026_08_23_828312.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 127,
+      "reporterScore": 127,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “港府：香港受国家AI发展带动，相关新股集资半年内近千亿” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "港媒《星岛头条》报道，香港特区财政司司长陈茂波发文表示，国家在AI方面的迅速发展，对香港的经济和金融市场发挥",
+      "relatedTitles": [
+        "港府：香港受国家AI发展带动，相关新股集资半年内近千亿"
       ]
     },
     {
@@ -4111,7 +5961,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4143,7 +5993,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4175,7 +6025,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4207,7 +6057,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4239,39 +6089,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 110
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Developer digs into Microsoft Paint and Photos, finds invisible watermark on AI-made images",
-      "summary": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having issues with Exchange Online.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/copilot/articles/developer-digs-microsoft-paint-photos-003700940.html",
-      "publishedAt": "2026-09-01",
-      "date": "2026-09-01",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Developer digs into Microsoft Paint and Photos, finds invisible watermar” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4307,6 +6125,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Developer digs into Microsoft Paint and Photos, finds invisible watermark on AI-made images",
+      "summary": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having issues with Exchange Online.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/copilot/articles/developer-digs-microsoft-paint-photos-003700940.html",
+      "publishedAt": "2026-09-01",
+      "date": "2026-09-01",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Developer digs into Microsoft Paint and Photos, finds invisible watermar” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
       "summary": "OpenAI's move to serve ads in ChatGPT earlier this year drew ridicule from its chief rival, Anthropic, in the form of a Super Bowl commercial.",
       "source": "CNBC Technology",
@@ -4338,8 +6188,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-01｜V3\n生成时间：2026/9/1 09:26:49\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2438｜确认今日 42｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 42 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 2 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-01] 影响市场重大事件：全球首个！太空算力在轨试验实现常态化\n   网易科技｜2026-09-01｜https://www.163.com/dy/article/L5NJ4M0N0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “影响市场重大事件：全球首个！太空算力在轨试验实现常态化” against primary-source evidence.\n\n2. [2026-09-01] 司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上\n   新华网-科技｜2026-09-01｜http://www.news.cn/tech/20260901/ef1b69bedd4c427286e3c03513ab268d/c.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上” against primary-source evidence.\n\n3. [2026-09-01] 从80%到99%，机器人离“ChatGPT时刻”还有多远\n   新浪科技｜2026-09-01｜https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhmvz6798410.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “从80%到99%，机器人离“ChatGPT时刻”还有多远” against primary-source evidence.\n\n4. [2026-09-01] 全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设\n   新华网-科技｜2026-09-01｜http://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设” against primary-source evidence.\n\n5. [2026-09-01] 9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管\n   新浪科技｜2026-09-01｜https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhfqf8499489.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管” against primary-source evidence.\n\n本次新增线索：\n- 影响市场重大事件：全球首个！太空算力在轨试验实现常态化｜网易科技｜https://www.163.com/dy/article/L5NJ4M0N0512B07B.html\n- 司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上｜新华网-科技｜http://www.news.cn/tech/20260901/ef1b69bedd4c427286e3c03513ab268d/c.html\n- 从80%到99%，机器人离“ChatGPT时刻”还有多远｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhmvz6798410.shtml\n- 全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设｜新华网-科技｜http://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html\n- 9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhfqf8499489.shtml\n- Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI｜TechCrunch｜https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/\n\n今日热点方向：\n- AI 应用：AI动态（9 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI｜TechCrunch｜https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/\n2. The Pentagon now has its own version of ChatGPT and Grok｜TechCrunch｜https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/\n3. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout｜TechCrunch｜https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/\n4. Anthropic cracks down on hijacked user accounts mining AI tokens｜The Register｜https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461\n5. “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit｜Ars Technica｜https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-01｜V3\n生成时间：2026/9/1 09:26:49\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2438｜确认今日 42｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 42 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 2 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-01] 影响市场重大事件：全球首个！太空算力在轨试验实现常态化\n   网易科技｜2026-09-01｜https://www.163.com/dy/article/L5NJ4M0N0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “影响市场重大事件：全球首个！太空算力在轨试验实现常态化” against primary-source evidence.\n\n2. [2026-09-01] 司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上\n   新华网-科技｜2026-09-01｜http://www.news.cn/tech/20260901/ef1b69bedd4c427286e3c03513ab268d/c.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上” against primary-source evidence.\n\n3. [2026-09-01] 从80%到99%，机器人离“ChatGPT时刻”还有多远\n   新浪科技｜2026-09-01｜https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhmvz6798410.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “从80%到99%，机器人离“ChatGPT时刻”还有多远” against primary-source evidence.\n\n4. [2026-09-01] 全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设\n   新华网-科技｜2026-09-01｜http://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设” against primary-source evidence.\n\n5. [2026-09-01] 9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管\n   新浪科技｜2026-09-01｜https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhfqf8499489.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管” against primary-source evidence.\n\n本次新增线索：\n- 影响市场重大事件：全球首个！太空算力在轨试验实现常态化｜网易科技｜https://www.163.com/dy/article/L5NJ4M0N0512B07B.html\n- 司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上｜新华网-科技｜http://www.news.cn/tech/20260901/ef1b69bedd4c427286e3c03513ab268d/c.html\n- 从80%到99%，机器人离“ChatGPT时刻”还有多远｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhmvz6798410.shtml\n- 全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设｜新华网-科技｜http://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html\n- 9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhfqf8499489.shtml\n- Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI｜TechCrunch｜https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/\n\n今日热点方向：\n- AI 应用：AI动态（9 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI｜TechCrunch｜https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/\n2. The Pentagon now has its own version of ChatGPT and Grok｜TechCrunch｜https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/\n3. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout｜TechCrunch｜https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/\n4. Anthropic cracks down on hijacked user accounts mining AI tokens｜The Register｜https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461\n5. “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit｜Ars Technica｜https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-01｜生成时间：2026/9/1 09:26:49｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2438｜确认今日 42｜国际背景 8</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 42 条｜国际 6 条<br>延续跟踪线索：国内 0 条｜国际 2 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-01] 影响市场重大事件：全球首个！太空算力在轨试验实现常态化</strong>\n      <span>网易科技｜2026-09-01｜<a href=\"https://www.163.com/dy/article/L5NJ4M0N0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “影响市场重大事件：全球首个！太空算力在轨试验实现常态化” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-01] 司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上</strong>\n      <span>新华网-科技｜2026-09-01｜<a href=\"http://www.news.cn/tech/20260901/ef1b69bedd4c427286e3c03513ab268d/c.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-01] 从80%到99%，机器人离“ChatGPT时刻”还有多远</strong>\n      <span>新浪科技｜2026-09-01｜<a href=\"https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhmvz6798410.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “从80%到99%，机器人离“ChatGPT时刻”还有多远” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-01] 全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设</strong>\n      <span>新华网-科技｜2026-09-01｜<a href=\"http://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-01] 9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管</strong>\n      <span>新浪科技｜2026-09-01｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhfqf8499489.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI</strong>\n      <span>时间：Tue, 01 Sep 2026 00:13:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Apple shares ‘shocking evidence’ against former employee accused of stea” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. The Pentagon now has its own version of ChatGPT and Grok</strong>\n      <span>时间：Mon, 31 Aug 2026 20:13:45 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “The Pentagon now has its own version of ChatGPT and Grok” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout</strong>\n      <span>时间：Mon, 31 Aug 2026 15:15:25 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Anthropic cracks down on hijacked user accounts mining AI tokens</strong>\n      <span>时间：Mon, 31 Aug 2026 18:03:46 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic cracks down on hijacked user accounts mining AI tokens” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit</strong>\n      <span>时间：Mon, 31 Aug 2026 18:10:45 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind ““Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in S” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/1 09:26:49\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 42 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 2 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-01] 影响市场重大事件：全球首个！太空算力在轨试验实现常态化\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L5NJ4M0N0512B07B.html\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “影响市场重大事件：全球首个！太空算力在轨试验实现常态化” against primary-source evidence.\n\n2. [2026-09-01] 司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上\n   来源：新华网-科技\n   链接：http://www.news.cn/tech/20260901/ef1b69bedd4c427286e3c03513ab268d/c.html\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上” against primary-source evidence.\n\n3. [2026-09-01] 从80%到99%，机器人离“ChatGPT时刻”还有多远\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhmvz6798410.shtml\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “从80%到99%，机器人离“ChatGPT时刻”还有多远” against primary-source evidence.\n\n4. [2026-09-01] 全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设\n   来源：新华网-科技\n   链接：http://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设” against primary-source evidence.\n\n5. [2026-09-01] 9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhfqf8499489.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管” against primary-source evidence.\n\n本次新增线索：\n- 影响市场重大事件：全球首个！太空算力在轨试验实现常态化｜网易科技｜https://www.163.com/dy/article/L5NJ4M0N0512B07B.html\n- 司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上｜新华网-科技｜http://www.news.cn/tech/20260901/ef1b69bedd4c427286e3c03513ab268d/c.html\n- 从80%到99%，机器人离“ChatGPT时刻”还有多远｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhmvz6798410.shtml\n- 全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设｜新华网-科技｜http://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html\n- 9月1日隔夜要闻：美股收跌 油价创三周来最大涨幅 金价下跌 欧盟将对ChatGPT等3家美国服务平台加强监管｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhfqf8499489.shtml\n- Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI｜TechCrunch｜https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/\n\n今日热点方向：\n- AI 应用：AI动态（9 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI｜TechCrunch｜https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/\n2. The Pentagon now has its own version of ChatGPT and Grok｜TechCrunch｜https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/\n3. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout｜TechCrunch｜https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/\n4. Anthropic cracks down on hijacked user accounts mining AI tokens｜The Register｜https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461\n5. “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit｜Ars Technica｜https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-01｜V3\n生成时间：2026/9/1 09:47:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2586｜确认今日 55｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 16 条｜国际 0 条\n延续跟踪线索：国内 39 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-01] 全球首个太空算力云常态化运营，商业航天加速迈\n   网易科技｜2026-09-01｜https://www.163.com/dy/article/L5NU0LUL0512B07B.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “全球首个太空算力云常态化运营，商业航天加速迈” against primary-source evidence.\n\n2. [2026-09-01] 影响市场重大事件：全球首个！太空算力在轨试验实现常态化\n   网易科技｜2026-09-01｜https://www.163.com/dy/article/L5NJ4M0N0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “影响市场重大事件：全球首个！太空算力在轨试验实现常态化” against primary-source evidence.\n\n3. [2026-09-01] 司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上\n   新华网-科技｜2026-09-01｜http://www.news.cn/tech/20260901/ef1b69bedd4c427286e3c03513ab268d/c.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上” against primary-source evidence.\n\n4. [2026-09-01] 从80%到99%，机器人离“ChatGPT时刻”还有多远\n   新浪科技｜2026-09-01｜https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhmvz6798410.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “从80%到99%，机器人离“ChatGPT时刻”还有多远” against primary-source evidence.\n\n5. [2026-09-01] 全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设\n   新华网-科技｜2026-09-01｜http://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设” against primary-source evidence.\n\n本次新增线索：\n- 全球首个太空算力云常态化运营，商业航天加速迈｜网易科技｜https://www.163.com/dy/article/L5NU0LUL0512B07B.html\n- 消息称英伟达重启推理预填充优化芯片 Rubin CPX 项目，设计大幅调整｜IT之家｜https://www.ithome.com/0/996/759.htm\n- OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhscz8306105.shtml\n- 英伟达斥资35亿美元绑定联发科，NVLink融合平台｜网易科技｜https://www.163.com/dy/article/L5NUKQSA0512B07B.html\n- 产量翻了数十倍 湖州这家企业请来机器人“上岗”养鱼｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhsee1518928.shtml\n\n今日热点方向：\n- AI 应用：AI动态（13 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI｜TechCrunch｜https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/\n2. The Pentagon now has its own version of ChatGPT and Grok｜TechCrunch｜https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/\n3. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout｜TechCrunch｜https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/\n4. Anthropic cracks down on hijacked user accounts mining AI tokens｜The Register｜https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461\n5. “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit｜Ars Technica｜https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-01｜V3\n生成时间：2026/9/1 09:47:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2586｜确认今日 55｜国际背景 8\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 16 条｜国际 0 条\n延续跟踪线索：国内 39 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-01] 全球首个太空算力云常态化运营，商业航天加速迈\n   网易科技｜2026-09-01｜https://www.163.com/dy/article/L5NU0LUL0512B07B.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “全球首个太空算力云常态化运营，商业航天加速迈” against primary-source evidence.\n\n2. [2026-09-01] 影响市场重大事件：全球首个！太空算力在轨试验实现常态化\n   网易科技｜2026-09-01｜https://www.163.com/dy/article/L5NJ4M0N0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “影响市场重大事件：全球首个！太空算力在轨试验实现常态化” against primary-source evidence.\n\n3. [2026-09-01] 司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上\n   新华网-科技｜2026-09-01｜http://www.news.cn/tech/20260901/ef1b69bedd4c427286e3c03513ab268d/c.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上” against primary-source evidence.\n\n4. [2026-09-01] 从80%到99%，机器人离“ChatGPT时刻”还有多远\n   新浪科技｜2026-09-01｜https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhmvz6798410.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “从80%到99%，机器人离“ChatGPT时刻”还有多远” against primary-source evidence.\n\n5. [2026-09-01] 全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设\n   新华网-科技｜2026-09-01｜http://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设” against primary-source evidence.\n\n本次新增线索：\n- 全球首个太空算力云常态化运营，商业航天加速迈｜网易科技｜https://www.163.com/dy/article/L5NU0LUL0512B07B.html\n- 消息称英伟达重启推理预填充优化芯片 Rubin CPX 项目，设计大幅调整｜IT之家｜https://www.ithome.com/0/996/759.htm\n- OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhscz8306105.shtml\n- 英伟达斥资35亿美元绑定联发科，NVLink融合平台｜网易科技｜https://www.163.com/dy/article/L5NUKQSA0512B07B.html\n- 产量翻了数十倍 湖州这家企业请来机器人“上岗”养鱼｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhsee1518928.shtml\n\n今日热点方向：\n- AI 应用：AI动态（13 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI｜TechCrunch｜https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/\n2. The Pentagon now has its own version of ChatGPT and Grok｜TechCrunch｜https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/\n3. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout｜TechCrunch｜https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/\n4. Anthropic cracks down on hijacked user accounts mining AI tokens｜The Register｜https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461\n5. “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit｜Ars Technica｜https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-01｜生成时间：2026/9/1 09:47:04｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2586｜确认今日 55｜国际背景 8</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 16 条｜国际 0 条<br>延续跟踪线索：国内 39 条｜国际 8 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-01] 全球首个太空算力云常态化运营，商业航天加速迈</strong>\n      <span>网易科技｜2026-09-01｜<a href=\"https://www.163.com/dy/article/L5NU0LUL0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “全球首个太空算力云常态化运营，商业航天加速迈” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-01] 影响市场重大事件：全球首个！太空算力在轨试验实现常态化</strong>\n      <span>网易科技｜2026-09-01｜<a href=\"https://www.163.com/dy/article/L5NJ4M0N0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “影响市场重大事件：全球首个！太空算力在轨试验实现常态化” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-01] 司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上</strong>\n      <span>新华网-科技｜2026-09-01｜<a href=\"http://www.news.cn/tech/20260901/ef1b69bedd4c427286e3c03513ab268d/c.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-01] 从80%到99%，机器人离“ChatGPT时刻”还有多远</strong>\n      <span>新浪科技｜2026-09-01｜<a href=\"https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhmvz6798410.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “从80%到99%，机器人离“ChatGPT时刻”还有多远” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-01] 全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设</strong>\n      <span>新华网-科技｜2026-09-01｜<a href=\"http://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI</strong>\n      <span>时间：Tue, 01 Sep 2026 00:13:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Apple shares ‘shocking evidence’ against former employee accused of stea” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. The Pentagon now has its own version of ChatGPT and Grok</strong>\n      <span>时间：Mon, 31 Aug 2026 20:13:45 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “The Pentagon now has its own version of ChatGPT and Grok” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout</strong>\n      <span>时间：Mon, 31 Aug 2026 15:15:25 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Anthropic cracks down on hijacked user accounts mining AI tokens</strong>\n      <span>时间：Mon, 31 Aug 2026 18:03:46 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic cracks down on hijacked user accounts mining AI tokens” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit</strong>\n      <span>时间：Mon, 31 Aug 2026 18:10:45 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind ““Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in S” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/1 09:47:04\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 16 条｜国际 0 条\n延续跟踪线索：国内 39 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-01] 全球首个太空算力云常态化运营，商业航天加速迈\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L5NU0LUL0512B07B.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “全球首个太空算力云常态化运营，商业航天加速迈” against primary-source evidence.\n\n2. [2026-09-01] 影响市场重大事件：全球首个！太空算力在轨试验实现常态化\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L5NJ4M0N0512B07B.html\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “影响市场重大事件：全球首个！太空算力在轨试验实现常态化” against primary-source evidence.\n\n3. [2026-09-01] 司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上\n   来源：新华网-科技\n   链接：http://www.news.cn/tech/20260901/ef1b69bedd4c427286e3c03513ab268d/c.html\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “司法部：加快推进“AI+普法”建设-\"在国新办举行的新闻发布会上” against primary-source evidence.\n\n4. [2026-09-01] 从80%到99%，机器人离“ChatGPT时刻”还有多远\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhmvz6798410.shtml\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “从80%到99%，机器人离“ChatGPT时刻”还有多远” against primary-source evidence.\n\n5. [2026-09-01] 全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设\n   来源：新华网-科技\n   链接：http://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “全国首个开放式商业航天测运控共享平台启用-\" 北京火箭大街商业航天智能测运控中心由北京亦庄企业——航天长征火箭技术有限公司建设” against primary-source evidence.\n\n本次新增线索：\n- 全球首个太空算力云常态化运营，商业航天加速迈｜网易科技｜https://www.163.com/dy/article/L5NU0LUL0512B07B.html\n- 消息称英伟达重启推理预填充优化芯片 Rubin CPX 项目，设计大幅调整｜IT之家｜https://www.ithome.com/0/996/759.htm\n- OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-09-01/doc-iniqhscz8306105.shtml\n- 英伟达斥资35亿美元绑定联发科，NVLink融合平台｜网易科技｜https://www.163.com/dy/article/L5NUKQSA0512B07B.html\n- 产量翻了数十倍 湖州这家企业请来机器人“上岗”养鱼｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhsee1518928.shtml\n\n今日热点方向：\n- AI 应用：AI动态（13 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n国际科技背景：\n1. Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI｜TechCrunch｜https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/\n2. The Pentagon now has its own version of ChatGPT and Grok｜TechCrunch｜https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/\n3. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout｜TechCrunch｜https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/\n4. Anthropic cracks down on hijacked user accounts mining AI tokens｜The Register｜https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461\n5. “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit｜Ars Technica｜https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
