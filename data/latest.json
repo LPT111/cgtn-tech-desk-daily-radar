@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-02T00:58:53.528Z",
+  "generatedAt": "2026-09-02T01:05:12.304Z",
   "radarVersion": "v3",
   "targetDate": "2026-09-02",
   "changeSummary": {
-    "domesticNew": 8,
+    "domesticNew": 6,
     "globalNew": 0,
-    "domesticContinued": 16,
+    "domesticContinued": 21,
     "globalContinued": 19,
     "topNewDomestic": [
       {
-        "title": "OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能",
+        "title": "OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvce1270876.shtml"
+        "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml"
       },
       {
-        "title": "显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%",
+        "title": "英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4544255.shtml"
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3079194.shtml"
       },
       {
-        "title": "国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万",
+        "title": "罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvca4545853.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvch7916014.shtml"
       },
       {
-        "title": "英伟达据悉接近以140亿美元收购AI公司Hugging Face",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L5QD9JUU0534A4SC.html"
+        "title": "江苏建湖：走进机器人4S店，上好开学第一课",
+        "source": "新华网-科技",
+        "url": "http://www.news.cn/tech/20260902/1bbf657da1fe40b2bbfcfe8062a2353a/c.html"
       },
       {
-        "title": "收入、客户、集群三线起量，国产GPU下一步看什",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L5QDLBRM0534A4SC.html"
+        "title": "苹果通知 Mac 开发者可移除英特尔 CPU 支持，需 macOS 13 及以上",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/997/227.htm"
       }
     ],
     "topNewGlobal": [],
@@ -41,7 +41,7 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 876,
+    "domesticRejected": 873,
     "globalRejected": 881,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -56,13 +56,8 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 31,
   "failedSources": [
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -85,11 +80,6 @@
     }
   ],
   "failures": [
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -115,7 +105,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 176,
+      "parsed": 183,
       "failed": false,
       "optional": false
     },
@@ -213,9 +203,8 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -363,18 +352,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1297,
+  "itemsSeen": 1367,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 232,
-  "itemsAfterDedupe": 195,
-  "todayItemsSeen": 24,
+  "itemsAfterRelevantFilter": 280,
+  "itemsAfterDedupe": 217,
+  "todayItemsSeen": 27,
   "suspectedItemsSeen": 16,
-  "skippedNonToday": 151,
+  "skippedNonToday": 170,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 176,
+      "parsed": 183,
       "failed": false,
       "optional": false
     },
@@ -472,9 +461,8 @@
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -776,11 +764,6 @@
   ],
   "domesticFailedSources": [
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -822,11 +805,11 @@
   "globalSuccessSources": 18,
   "globalItemsSeen": 1218,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 98,
+  "globalItemsAfterRelevantFilter": 97,
   "topics": [
     {
       "topic": "AI 应用与智能体",
-      "count": 4,
+      "count": 5,
       "sourceCount": 3,
       "sources": [
         "新浪科技",
@@ -834,26 +817,11 @@
         "IT之家"
       ],
       "items": [
-        "OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能",
+        "OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值",
+        "罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的",
         "AI早报 | 阿里云宣布Qwen3-VL-Rerank模型降价；",
         "地球最强大模型也开始强调性价比！Anthropic上新Fable 5.1",
         "奥尔特曼不喜欢智能眼镜：和戴着摄像机的人讲话很不舒服，Meta 扎克伯克不用担心 OpenAI 来抢生意"
-      ]
-    },
-    {
-      "topic": "新能源车动态",
-      "count": 5,
-      "sourceCount": 2,
-      "sources": [
-        "IT之家",
-        "新浪科技"
-      ],
-      "items": [
-        "小鹏 MONA 产品矩阵总经理澄清“L03 生产会停一周”：假消息，产能正在爬坡",
-        "特斯拉称FSD在欧洲的事故率远低于人工驾驶",
-        "城区NOA延伸至10万级主流汽车市场！地平线征程6M官宣大规模量产上车",
-        "SUV高速路撞上防撞沙桶侧翻旋转近两圈 司机：我开了智驾有点瞌睡就撞了",
-        "2026 年 8 月汽车销量 / 交付榜出炉：比亚迪超 44 万辆稳居榜首，零跑继续断层领跑新势力"
       ]
     },
     {
@@ -874,15 +842,45 @@
     {
       "topic": "AI动态",
       "count": 4,
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": [
+        "新浪科技",
         "网易科技"
       ],
       "items": [
-        "英伟达据悉接近以140亿美元收购AI公司Hugging Face",
+        "英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成",
         "硅谷AI词元价格指标创历史新低 苹果新CEO年薪曝光｜环球市场",
         "“豆包手机”努比亚NaviX Ultra本月上市；AI 3D",
         "被 AI 客服“逼疯”过吗？今天起有治了！新规落地：人工入口必须醒目"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 4,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "特斯拉称FSD在欧洲的事故率远低于人工驾驶",
+        "城区NOA延伸至10万级主流汽车市场！地平线征程6M官宣大规模量产上车",
+        "小鹏 MONA 产品矩阵总经理澄清“L03 生产会停一周”：假消息，产能正在爬坡",
+        "2026 年 8 月汽车销量 / 交付榜出炉：比亚迪超 44 万辆稳居榜首，零跑继续断层领跑新势力"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "高通发布跃龙Q-2390、IQ-2390处理器：面向消费级物联网等领域",
+        "NVIDIA 616.56驱动翻车！更新完疯狂闪屏：官方正紧急修复",
+        "苹果通知 Mac 开发者可移除英特尔 CPU 支持，需 macOS 13 及以上"
       ]
     },
     {
@@ -898,18 +896,6 @@
       ]
     },
     {
-      "topic": "芯片动态",
-      "count": 2,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "高通发布跃龙Q-2390、IQ-2390处理器：面向消费级物联网等领域",
-        "NVIDIA 616.56驱动翻车！更新完疯狂闪屏：官方正紧急修复"
-      ]
-    },
-    {
       "topic": "商业航天与卫星互联网",
       "count": 1,
       "sourceCount": 1,
@@ -921,6 +907,17 @@
       ]
     },
     {
+      "topic": "机器人动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新华网-科技"
+      ],
+      "items": [
+        "江苏建湖：走进机器人4S店，上好开学第一课"
+      ]
+    },
+    {
       "topic": "太空与低空动态",
       "count": 1,
       "sourceCount": 1,
@@ -929,6 +926,17 @@
       ],
       "items": [
         "许健民：未来风云卫星将更精密、更智能、更协同"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "巴基斯坦男子演示手搓自动驾驶汽车 结果径直撞上路边警车"
       ]
     },
     {
@@ -946,16 +954,16 @@
   "leads": [
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能",
+      "title": "OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值",
       "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvce1270876.shtml",
+      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvce1270876.shtml"
+        "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml"
       ],
       "publishedAt": "2026-09-02",
       "date": "2026-09-02",
@@ -1003,12 +1011,12 @@
       "hasVisualValue": true,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "IT之家 9 月 2 日消息，OpenAI 于当地时间 9 月 1 日宣布，该公司计划“很快”推出下一代 AI 模型 Astra，但将严格限制该模型网络安全功能的使用范围。据介绍，Astra 是 OpenAI 旗下首个达到其《准备框架》（P...",
+      "rawText": "OpenAI首席执行官山姆·奥特曼 OpenAI周二表示，其即将推出的人工智能模型Astra是首个超越其“关键”网络安全能力阈值的产品。 该公司表示，Astra能够发现此前未知的安全漏洞，并在无需人类逐步指导的情况下加以利用，这意味...",
       "relatedTitles": [
-        "OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能"
+        "OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值"
       ],
       "isNewSinceLastRun": true
     },
@@ -1078,7 +1086,7 @@
       "relatedTitles": [
         "显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1146,7 +1154,7 @@
       "relatedTitles": [
         "国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1217,22 +1225,22 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "英伟达据悉接近以140亿美元收购AI公司Hugging Face",
-      "summary": "英伟达据悉接近以140亿美元收购AI公司Hugging Face,交易,英伟达,初创公司,人工智能领域,hugging",
-      "source": "网易科技",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成",
+      "summary": "据知情人士称，英伟达就收购人工智能初创公司Hugging Face进行深入谈判，交易总额可能约为140亿美元。 一位知情人士表示，英伟达以129亿美元收购Hugging Face的协议可能最早在本周达成。知情人士还表示，交易可能包括...",
+      "source": "新浪科技",
       "sources": [
-        "网易科技"
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L5QD9JUU0534A4SC.html",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3079194.shtml",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L5QD9JUU0534A4SC.html"
+        "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3079194.shtml"
       ],
       "publishedAt": "2026-09-02",
       "date": "2026-09-02",
       "category": "AI",
-      "classificationConfidence": 0.84,
+      "classificationConfidence": 0.71,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1275,12 +1283,80 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达据悉接近以140亿美元收购AI公司Hugging Face” against primary-source evidence.",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI动态",
-      "rawText": "英伟达据悉接近以140亿美元收购AI公司Hugging Face,交易,英伟达,初创公司,人工智能领域,hugging",
+      "rawText": "据知情人士称，英伟达就收购人工智能初创公司Hugging Face进行深入谈判，交易总额可能约为140亿美元。 一位知情人士表示，英伟达以129亿美元收购Hugging Face的协议可能最早在本周达成。知情人士还表示，交易可能包括...",
       "relatedTitles": [
-        "英伟达据悉接近以140亿美元收购AI公司Hugging Face"
+        "英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的",
+      "summary": "【TechWeb】9月2日消息，日前，罗永浩在社交平台公开发文，对国内新能源车企的AI大模型体验提出尖锐批评，直言“各位做的模型都挺垃圾的”，相关话题迅速登上微博热搜。罗永浩在微博发文称：“请教一下，目前中国新能源车企，到底哪一家是接入了完...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvch7916014.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvch7916014.shtml"
+      ],
+      "publishedAt": "2026-09-02",
+      "date": "2026-09-02",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "【TechWeb】9月2日消息，日前，罗永浩在社交平台公开发文，对国内新能源车企的AI大模型体验提出尖锐批评，直言“各位做的模型都挺垃圾的”，相关话题迅速登上微博热搜。罗永浩在微博发文称：“请教一下，目前中国新能源车企，到底哪一家是接入了完...",
+      "relatedTitles": [
+        "罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的"
       ],
       "isNewSinceLastRun": true
     },
@@ -1353,6 +1429,74 @@
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cDovL3d3dy5uZXdz",
+      "title": "江苏建湖：走进机器人4S店，上好开学第一课",
+      "summary": "江苏建湖：走进机器人4S店，上好开学第一课- 新学期开启，江苏建湖组织学生走进机器人4S店，用沉浸式的实景课堂，给孩子们送上一堂特别的开学第一课。",
+      "source": "新华网-科技",
+      "sources": [
+        "新华网-科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "http://www.news.cn/tech/20260902/1bbf657da1fe40b2bbfcfe8062a2353a/c.html",
+      "sourceUrls": [
+        "http://www.news.cn/tech/20260902/1bbf657da1fe40b2bbfcfe8062a2353a/c.html"
+      ],
+      "publishedAt": "2026-09-02",
+      "date": "2026-09-02",
+      "category": "机器人",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 164,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “江苏建湖：走进机器人4S店，上好开学第一课” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "江苏建湖：走进机器人4S店，上好开学第一课- 新学期开启，江苏建湖组织学生走进机器人4S店，用沉浸式的实景课堂，给孩子们送上一堂特别的开学第一课。",
+      "relatedTitles": [
+        "江苏建湖：走进机器人4S店，上好开学第一课"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "我国科学家首次实现高光谱相机实时解析，卫星可直接实时出结果",
       "summary": "IT之家 9 月 2 日消息，据央视今日报道，北京理工大学科研团队在《科学》上发表了一项最新研究成果，首创片上光谱计算新方法，实现了高光谱相机从图像采集到信息解析的全链路片上集成处理，使原本依赖大型服务器完成的光谱解析可在便携设备中现场实时...",
@@ -1417,6 +1561,142 @@
       "rawText": "IT之家 9 月 2 日消息，据央视今日报道，北京理工大学科研团队在《科学》上发表了一项最新研究成果，首创片上光谱计算新方法，实现了高光谱相机从图像采集到信息解析的全链路片上集成处理，使原本依赖大型服务器完成的光谱解析可在便携设备中现场实时...",
       "relatedTitles": [
         "我国科学家首次实现高光谱相机实时解析，卫星可直接实时出结果"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "高通发布跃龙Q-2390、IQ-2390处理器：面向消费级物联网等领域",
+      "summary": "快科技9月2日消息，高通正式推出跃龙（Dragonwing）Q-2390和IQ-2390两款处理器，分别面向消费级物联网设备和工业边缘计算场景，进一步扩展其在边缘智能领域的产品布局。两款处理器均搭载四核Kryo CPU、Adreno704 ...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-09-02/doc-iniqkvch3067334.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-09-02/doc-iniqkvch3067334.shtml"
+      ],
+      "publishedAt": "2026-09-02",
+      "date": "2026-09-02",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “高通发布跃龙Q-2390、IQ-2390处理器：面向消费级物联网等领域” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "快科技9月2日消息，高通正式推出跃龙（Dragonwing）Q-2390和IQ-2390两款处理器，分别面向消费级物联网设备和工业边缘计算场景，进一步扩展其在边缘智能领域的产品布局。两款处理器均搭载四核Kryo CPU、Adreno704 ...",
+      "relatedTitles": [
+        "高通发布跃龙Q-2390、IQ-2390处理器：面向消费级物联网等领域"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "NVIDIA 616.56驱动翻车！更新完疯狂闪屏：官方正紧急修复",
+      "summary": "快科技9月2日消息，NVIDIA在8月26日发布了GeForce Game Ready 616.56驱动程序，不过这版驱动疑似存在显示闪屏问题，部分用户在安装后遭遇屏幕短暂黑闪、白闪、亮度突变及色彩错乱等异常现象。报道指出在驱动发布后不久就...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvce1275576.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvce1275576.shtml"
+      ],
+      "publishedAt": "2026-09-02",
+      "date": "2026-09-02",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “NVIDIA 616.56驱动翻车！更新完疯狂闪屏：官方正紧急修复” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "快科技9月2日消息，NVIDIA在8月26日发布了GeForce Game Ready 616.56驱动程序，不过这版驱动疑似存在显示闪屏问题，部分用户在安装后遭遇屏幕短暂黑闪、白闪、亮度突变及色彩错乱等异常现象。报道指出在驱动发布后不久就...",
+      "relatedTitles": [
+        "NVIDIA 616.56驱动翻车！更新完疯狂闪屏：官方正紧急修复"
       ],
       "isNewSinceLastRun": false
     },
@@ -1625,22 +1905,22 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "收入、客户、集群三线起量，国产GPU下一步看什",
-      "summary": "收入、客户、集群三线起量，国产GPU下一步看什么？,通信,gpu,服务器,新模型",
-      "source": "网易科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "苹果通知 Mac 开发者可移除英特尔 CPU 支持，需 macOS 13 及以上",
+      "summary": "苹果通知开发者，要求适配 macOS 13 及以上版本的通用 macOS 应用，现已可移除对 Intel 处理器 Mac 的支持，后续 Rosetta 2 也将逐步停用。#苹果淘汰Intel架构Mac#",
+      "source": "IT之家",
       "sources": [
-        "网易科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L5QDLBRM0534A4SC.html",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/997/227.htm",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L5QDLBRM0534A4SC.html"
+        "https://www.ithome.com/0/997/227.htm"
       ],
-      "publishedAt": "2026-09-02",
+      "publishedAt": "Wed, 02 Sep 2026 01:04:18 GMT",
       "date": "2026-09-02",
       "category": "芯片",
-      "classificationConfidence": 0.98,
+      "classificationConfidence": 0.93,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1650,12 +1930,12 @@
       "hardTechPriority": 95,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
+      "score": 151,
+      "reporterScore": 151,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
@@ -1683,148 +1963,12 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “收入、客户、集群三线起量，国产GPU下一步看什” against primary-source evidence.",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “苹果通知 Mac 开发者可移除英特尔 CPU 支持，需 macOS 13 及以上” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "收入、客户、集群三线起量，国产GPU下一步看什么？,通信,gpu,服务器,新模型",
+      "matchedTopic": "芯片动态",
+      "rawText": "苹果通知开发者，要求适配 macOS 13 及以上版本的通用 macOS 应用，现已可移除对 Intel 处理器 Mac 的支持，后续 Rosetta 2 也将逐步停用。#苹果淘汰Intel架构Mac#",
       "relatedTitles": [
-        "收入、客户、集群三线起量，国产GPU下一步看什"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "硅谷AI词元价格指标创历史新低 苹果新CEO年薪曝光｜环球市场",
-      "summary": "硅谷AI词元价格指标创历史新低 苹果新CEO年薪曝光｜环球市场,国债,高盛,财年,硅谷,环球市场,苹果公司,知名企业",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L5QD6QP405198CJN.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L5QD6QP405198CJN.html"
-      ],
-      "publishedAt": "2026-09-02",
-      "date": "2026-09-02",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “硅谷AI词元价格指标创历史新低 苹果新CEO年薪曝光｜环球市场” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "硅谷AI词元价格指标创历史新低 苹果新CEO年薪曝光 | 环球市场,国债,高盛,财年,硅谷,苹果公司,知名企业",
-      "relatedTitles": [
-        "硅谷AI词元价格指标创历史新低 苹果新CEO年薪曝光｜环球市场"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "小鹏 MONA 产品矩阵总经理澄清“L03 生产会停一周”：假消息，产能正在爬坡",
-      "summary": "小鹏 MONA 产品矩阵总经理 @XP-姜文 今日发文，就网传 9 月份 MONA L03 的生产会停一周的消息进行了澄清，直言是假消息。他表示，目前工厂正全力推进生产，产能正在高效、保质爬坡。#小鹏 MONA L03#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/997/220.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/997/220.htm"
-      ],
-      "publishedAt": "Wed, 02 Sep 2026 00:38:05 GMT",
-      "date": "2026-09-02",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 149,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 108
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “小鹏 MONA 产品矩阵总经理澄清“L03 生产会停一周”：假消息，产能正在爬坡” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "小鹏 MONA 产品矩阵总经理 @XP-姜文 今日发文，就网传 9 月份 MONA L03 的生产会停一周的消息进行了澄清，直言是假消息。他表示，目前工厂正全力推进生产，产能正在高效、保质爬坡。#小鹏 MONA L03#",
-      "relatedTitles": [
-        "小鹏 MONA 产品矩阵总经理澄清“L03 生产会停一周”：假消息，产能正在爬坡"
+        "苹果通知 Mac 开发者可移除英特尔 CPU 支持，需 macOS 13 及以上"
       ],
       "isNewSinceLastRun": true
     },
@@ -1898,142 +2042,6 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "高通发布跃龙Q-2390、IQ-2390处理器：面向消费级物联网等领域",
-      "summary": "快科技9月2日消息，高通正式推出跃龙（Dragonwing）Q-2390和IQ-2390两款处理器，分别面向消费级物联网设备和工业边缘计算场景，进一步扩展其在边缘智能领域的产品布局。两款处理器均搭载四核Kryo CPU、Adreno704 ...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-09-02/doc-iniqkvch3067334.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/discovery/2026-09-02/doc-iniqkvch3067334.shtml"
-      ],
-      "publishedAt": "2026-09-02",
-      "date": "2026-09-02",
-      "category": "芯片",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “高通发布跃龙Q-2390、IQ-2390处理器：面向消费级物联网等领域” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "快科技9月2日消息，高通正式推出跃龙（Dragonwing）Q-2390和IQ-2390两款处理器，分别面向消费级物联网设备和工业边缘计算场景，进一步扩展其在边缘智能领域的产品布局。两款处理器均搭载四核Kryo CPU、Adreno704 ...",
-      "relatedTitles": [
-        "高通发布跃龙Q-2390、IQ-2390处理器：面向消费级物联网等领域"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "NVIDIA 616.56驱动翻车！更新完疯狂闪屏：官方正紧急修复",
-      "summary": "快科技9月2日消息，NVIDIA在8月26日发布了GeForce Game Ready 616.56驱动程序，不过这版驱动疑似存在显示闪屏问题，部分用户在安装后遭遇屏幕短暂黑闪、白闪、亮度突变及色彩错乱等异常现象。报道指出在驱动发布后不久就...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvce1275576.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvce1275576.shtml"
-      ],
-      "publishedAt": "2026-09-02",
-      "date": "2026-09-02",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “NVIDIA 616.56驱动翻车！更新完疯狂闪屏：官方正紧急修复” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "快科技9月2日消息，NVIDIA在8月26日发布了GeForce Game Ready 616.56驱动程序，不过这版驱动疑似存在显示闪屏问题，部分用户在安装后遭遇屏幕短暂黑闪、白闪、亮度突变及色彩错乱等异常现象。报道指出在驱动发布后不久就...",
-      "relatedTitles": [
-        "NVIDIA 616.56驱动翻车！更新完疯狂闪屏：官方正紧急修复"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "城区NOA延伸至10万级主流汽车市场！地平线征程6M官宣大规模量产上车",
       "summary": "快科技9月2日消息，昨晚，地平线官方宣布，征程6M迎来大规模量产上车关键里程碑。截至2026年8月底，征程6M已落地20余家车企、70余款量产上市车型，其中已有7家车企品牌基于征程6M实现城区辅助驾驶功能平台化上车。地平线表示，这标志着城区...",
       "source": "新浪科技",
@@ -2102,21 +2110,21 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "预算785万：“皖政通”及省电子政务外网量子技术应用项目招标",
-      "summary": "C114讯 9月2日消息（云青）近日，“皖政通”及省电子政务外网量子技术应用项目公开招标。采购需求：项目分为5个包，其中第1包定制化软件详细设计服务等一批；第2包“皖政通”量子技术应用等一批；第3包量子技术授权服务等一批；第4包监理服务等一...",
+      "title": "巴基斯坦男子演示手搓自动驾驶汽车 结果径直撞上路边警车",
+      "summary": "快科技9月2日消息，据巴基斯坦《黎明报》等媒体报道，当地时间8月31日，在巴基斯坦首都伊斯兰堡D-Chowk（议会大厦附近），一辆民间自制的遥控“无人驾驶”汽车在进行技术演示时突然失控，径直撞上了路边停放的一辆警车，现场视频随后在社交网络走...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvch7902217.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvce1338055.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvch7902217.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvce1338055.shtml"
       ],
       "publishedAt": "2026-09-02",
       "date": "2026-09-02",
-      "category": "科学前沿",
-      "classificationConfidence": 0.75,
+      "category": "新能源车",
+      "classificationConfidence": 0.8,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2124,7 +2132,7 @@
         "source"
       ],
       "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "priority": 5,
       "score": 145,
       "reporterScore": 145,
@@ -2158,15 +2166,151 @@
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “预算785万：“皖政通”及省电子政务外网量子技术应用项目招标” against primary-source evidence.",
+      "format": "video",
+      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “巴基斯坦男子演示手搓自动驾驶汽车 结果径直撞上路边警车” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "C114讯 9月2日消息（云青）近日，“皖政通”及省电子政务外网量子技术应用项目公开招标。采购需求：项目分为5个包，其中第1包定制化软件详细设计服务等一批；第2包“皖政通”量子技术应用等一批；第3包量子技术授权服务等一批；第4包监理服务等一...",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "快科技9月2日消息，据巴基斯坦《黎明报》等媒体报道，当地时间8月31日，在巴基斯坦首都伊斯兰堡D-Chowk（议会大厦附近），一辆民间自制的遥控“无人驾驶”汽车在进行技术演示时突然失控，径直撞上了路边停放的一辆警车，现场视频随后在社交网络走...",
       "relatedTitles": [
-        "预算785万：“皖政通”及省电子政务外网量子技术应用项目招标"
+        "巴基斯坦男子演示手搓自动驾驶汽车 结果径直撞上路边警车"
       ],
       "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "收入、客户、集群三线起量，国产GPU下一步看什",
+      "summary": "收入、客户、集群三线起量，国产GPU下一步看什么？,通信,gpu,服务器,新模型",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L5QDLBRM0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L5QDLBRM0534A4SC.html"
+      ],
+      "publishedAt": "2026-09-02",
+      "date": "2026-09-02",
+      "category": "芯片",
+      "classificationConfidence": 0.98,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “收入、客户、集群三线起量，国产GPU下一步看什” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "收入、客户、集群三线起量，国产GPU下一步看什么？,通信,gpu,服务器,新模型",
+      "relatedTitles": [
+        "收入、客户、集群三线起量，国产GPU下一步看什"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "硅谷AI词元价格指标创历史新低 苹果新CEO年薪曝光｜环球市场",
+      "summary": "硅谷AI词元价格指标创历史新低 苹果新CEO年薪曝光｜环球市场,国债,高盛,财年,硅谷,环球市场,苹果公司,知名企业",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L5QD6QP405198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L5QD6QP405198CJN.html"
+      ],
+      "publishedAt": "2026-09-02",
+      "date": "2026-09-02",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “硅谷AI词元价格指标创历史新低 苹果新CEO年薪曝光｜环球市场” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "硅谷AI词元价格指标创历史新低 苹果新CEO年薪曝光 | 环球市场,国债,高盛,财年,硅谷,苹果公司,知名企业",
+      "relatedTitles": [
+        "硅谷AI词元价格指标创历史新低 苹果新CEO年薪曝光｜环球市场"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2306,6 +2450,74 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "小鹏 MONA 产品矩阵总经理澄清“L03 生产会停一周”：假消息，产能正在爬坡",
+      "summary": "小鹏 MONA 产品矩阵总经理 @XP-姜文 今日发文，就网传 9 月份 MONA L03 的生产会停一周的消息进行了澄清，直言是假消息。他表示，目前工厂正全力推进生产，产能正在高效、保质爬坡。#小鹏 MONA L03#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/997/220.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/997/220.htm"
+      ],
+      "publishedAt": "Wed, 02 Sep 2026 00:38:05 GMT",
+      "date": "2026-09-02",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 149,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 108
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “小鹏 MONA 产品矩阵总经理澄清“L03 生产会停一周”：假消息，产能正在爬坡” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "小鹏 MONA 产品矩阵总经理 @XP-姜文 今日发文，就网传 9 月份 MONA L03 的生产会停一周的消息进行了澄清，直言是假消息。他表示，目前工厂正全力推进生产，产能正在高效、保质爬坡。#小鹏 MONA L03#",
+      "relatedTitles": [
+        "小鹏 MONA 产品矩阵总经理澄清“L03 生产会停一周”：假消息，产能正在爬坡"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "奥尔特曼不喜欢智能眼镜：和戴着摄像机的人讲话很不舒服，Meta 扎克伯克不用担心 OpenAI 来抢生意",
       "summary": "OpenAI CEO 奥尔特曼受访明确表态不喜欢智能眼镜，称无需担心 OpenAI 抢 Meta 智能眼镜生意，也暗示 OpenAI 与乔尼 · 艾维合作的 AI 设备并非眼镜形态#智能眼镜#",
       "source": "IT之家",
@@ -2374,21 +2586,21 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "SUV高速路撞上防撞沙桶侧翻旋转近两圈 司机：我开了智驾有点瞌睡就撞了",
-      "summary": "快科技9月2日消息，当前辅助驾驶功能均为L2级，远达不到脱手脱脚的地步，驾驶员在使用的时候，需要持续关注路况，否则极易发生意外事故，公安部交通管理局日前披露了这样一起案例。据介绍，2026年8月23日，泉南高速江西永新段。一辆小车在快车道行...",
+      "title": "预算785万：“皖政通”及省电子政务外网量子技术应用项目招标",
+      "summary": "C114讯 9月2日消息（云青）近日，“皖政通”及省电子政务外网量子技术应用项目公开招标。采购需求：项目分为5个包，其中第1包定制化软件详细设计服务等一批；第2包“皖政通”量子技术应用等一批；第3包量子技术授权服务等一批；第4包监理服务等一...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkqvk3171120.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvch7902217.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkqvk3171120.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvch7902217.shtml"
       ],
       "publishedAt": "2026-09-02",
       "date": "2026-09-02",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
+      "category": "科学前沿",
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2396,7 +2608,7 @@
         "source"
       ],
       "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "keywords": "frontier science, research infrastructure and scientific discovery",
       "priority": 5,
       "score": 145,
       "reporterScore": 145,
@@ -2430,13 +2642,13 @@
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “SUV高速路撞上防撞沙桶侧翻旋转近两圈 司机：我开了智驾有点瞌睡就撞了” against primary-source evidence.",
+      "format": "package",
+      "angle": "Use researchers and facilities as reporting anchors, with the scientific mechanism, evidence and translational boundary, peer context and limitations clearly stated. For this item, test the claim behind “预算785万：“皖政通”及省电子政务外网量子技术应用项目招标” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "快科技9月2日消息，当前辅助驾驶功能均为L2级，远达不到脱手脱脚的地步，驾驶员在使用的时候，需要持续关注路况，否则极易发生意外事故，公安部交通管理局日前披露了这样一起案例。据介绍，2026年8月23日，泉南高速江西永新段。一辆小车在快车道行...",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "C114讯 9月2日消息（云青）近日，“皖政通”及省电子政务外网量子技术应用项目公开招标。采购需求：项目分为5个包，其中第1包定制化软件详细设计服务等一批；第2包“皖政通”量子技术应用等一批；第3包量子技术授权服务等一批；第4包监理服务等一...",
       "relatedTitles": [
-        "SUV高速路撞上防撞沙桶侧翻旋转近两圈 司机：我开了智驾有点瞌睡就撞了"
+        "预算785万：“皖政通”及省电子政务外网量子技术应用项目招标"
       ],
       "isNewSinceLastRun": false
     },
@@ -3839,7 +4051,7 @@
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 110
+        "reporterScore": 95
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
@@ -4261,8 +4473,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-02｜V3\n生成时间：2026/9/2 08:58:53\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2515｜确认今日 24｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 16 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-02] OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvce1270876.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能” against primary-source evidence.\n\n2. [2026-09-02] 显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4544255.shtml\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%” against primary-source evidence.\n\n3. [2026-09-02] 国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvca4545853.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万” against primary-source evidence.\n\n4. [2026-09-02] 马斯克近期调整了SpaceX数据中心领导团队\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4773047.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克近期调整了SpaceX数据中心领导团队” against primary-source evidence.\n\n5. [2026-09-02] 英伟达据悉接近以140亿美元收购AI公司Hugging Face\n   网易科技｜2026-09-02｜https://www.163.com/dy/article/L5QD9JUU0534A4SC.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达据悉接近以140亿美元收购AI公司Hugging Face” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvce1270876.shtml\n- 显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4544255.shtml\n- 国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvca4545853.shtml\n- 英伟达据悉接近以140亿美元收购AI公司Hugging Face｜网易科技｜https://www.163.com/dy/article/L5QD9JUU0534A4SC.html\n- 收入、客户、集群三线起量，国产GPU下一步看什｜网易科技｜https://www.163.com/dy/article/L5QDLBRM0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（4 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201\n2. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html\n3. Anthropic changes data retention policy after pushback from customers｜CNBC Technology｜https://www.cnbc.com/2026/09/01/anthropic-data-retention.html\n4. VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD｜The Register｜https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520\n5. Waymo and Zoox expand into more U.S. markets as robotaxi race heats up｜CNBC Technology｜https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-02｜V3\n生成时间：2026/9/2 08:58:53\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2515｜确认今日 24｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 16 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-02] OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvce1270876.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能” against primary-source evidence.\n\n2. [2026-09-02] 显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4544255.shtml\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%” against primary-source evidence.\n\n3. [2026-09-02] 国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvca4545853.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万” against primary-source evidence.\n\n4. [2026-09-02] 马斯克近期调整了SpaceX数据中心领导团队\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4773047.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克近期调整了SpaceX数据中心领导团队” against primary-source evidence.\n\n5. [2026-09-02] 英伟达据悉接近以140亿美元收购AI公司Hugging Face\n   网易科技｜2026-09-02｜https://www.163.com/dy/article/L5QD9JUU0534A4SC.html\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达据悉接近以140亿美元收购AI公司Hugging Face” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvce1270876.shtml\n- 显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4544255.shtml\n- 国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvca4545853.shtml\n- 英伟达据悉接近以140亿美元收购AI公司Hugging Face｜网易科技｜https://www.163.com/dy/article/L5QD9JUU0534A4SC.html\n- 收入、客户、集群三线起量，国产GPU下一步看什｜网易科技｜https://www.163.com/dy/article/L5QDLBRM0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（4 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201\n2. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html\n3. Anthropic changes data retention policy after pushback from customers｜CNBC Technology｜https://www.cnbc.com/2026/09/01/anthropic-data-retention.html\n4. VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD｜The Register｜https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520\n5. Waymo and Zoox expand into more U.S. markets as robotaxi race heats up｜CNBC Technology｜https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-02｜生成时间：2026/9/2 08:58:53｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2515｜确认今日 24｜国际背景 19</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 8 条｜国际 0 条<br>延续跟踪线索：国内 16 条｜国际 19 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-02] OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能</strong>\n      <span>新浪科技｜2026-09-02｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvce1270876.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-02] 显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%</strong>\n      <span>新浪科技｜2026-09-02｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4544255.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-02] 国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万</strong>\n      <span>新浪科技｜2026-09-02｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvca4545853.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-02] 马斯克近期调整了SpaceX数据中心领导团队</strong>\n      <span>新浪科技｜2026-09-02｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4773047.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：180｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克近期调整了SpaceX数据中心领导团队” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-02] 英伟达据悉接近以140亿美元收购AI公司Hugging Face</strong>\n      <span>网易科技｜2026-09-02｜<a href=\"https://www.163.com/dy/article/L5QD9JUU0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达据悉接近以140亿美元收购AI公司Hugging Face” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten</strong>\n      <span>时间：Tue, 01 Sep 2026 10:30:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gate” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions</strong>\n      <span>时间：Tue, 01 Sep 2026 12:50:57 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OneRail launches AI platform with Nvidia for retailers to make faster de” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic changes data retention policy after pushback from customers</strong>\n      <span>时间：Tue, 01 Sep 2026 18:29:17 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/01/anthropic-data-retention.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic changes data retention policy after pushback from customers” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD</strong>\n      <span>时间：Mon, 31 Aug 2026 22:48:35 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “VMware uses Nvidia-favored 'AI factory' brand to build something with ri” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Waymo and Zoox expand into more U.S. markets as robotaxi race heats up</strong>\n      <span>时间：Tue, 01 Sep 2026 14:00:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Waymo and Zoox expand into more U.S. markets as robotaxi race heats up” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/2 08:58:53\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 8 条｜国际 0 条\n延续跟踪线索：国内 16 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-02] OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvce1270876.shtml\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能” against primary-source evidence.\n\n2. [2026-09-02] 显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4544255.shtml\n   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%” against primary-source evidence.\n\n3. [2026-09-02] 国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvca4545853.shtml\n   角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万” against primary-source evidence.\n\n4. [2026-09-02] 马斯克近期调整了SpaceX数据中心领导团队\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4773047.shtml\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克近期调整了SpaceX数据中心领导团队” against primary-source evidence.\n\n5. [2026-09-02] 英伟达据悉接近以140亿美元收购AI公司Hugging Face\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L5QD9JUU0534A4SC.html\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达据悉接近以140亿美元收购AI公司Hugging Face” against primary-source evidence.\n\n本次新增线索：\n- OpenAI 吸取“AI 越狱”事件教训，首个达“关键”门槛模型 Astra 因能力过强将限制网络安全功能｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvce1270876.shtml\n- 显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4544255.shtml\n- 国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvca4545853.shtml\n- 英伟达据悉接近以140亿美元收购AI公司Hugging Face｜网易科技｜https://www.163.com/dy/article/L5QD9JUU0534A4SC.html\n- 收入、客户、集群三线起量，国产GPU下一步看什｜网易科技｜https://www.163.com/dy/article/L5QDLBRM0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（4 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n国际科技背景：\n1. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201\n2. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html\n3. Anthropic changes data retention policy after pushback from customers｜CNBC Technology｜https://www.cnbc.com/2026/09/01/anthropic-data-retention.html\n4. VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD｜The Register｜https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520\n5. Waymo and Zoox expand into more U.S. markets as robotaxi race heats up｜CNBC Technology｜https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-02｜V3\n生成时间：2026/9/2 09:05:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2585｜确认今日 27｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 21 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-02] OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值” against primary-source evidence.\n\n2. [2026-09-02] 显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4544255.shtml\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%” against primary-source evidence.\n\n3. [2026-09-02] 国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvca4545853.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万” against primary-source evidence.\n\n4. [2026-09-02] 马斯克近期调整了SpaceX数据中心领导团队\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4773047.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克近期调整了SpaceX数据中心领导团队” against primary-source evidence.\n\n5. [2026-09-02] 英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3079194.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成” against primary-source evidence.\n\n本次新增线索：\n- OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值｜新浪科技｜https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml\n- 英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3079194.shtml\n- 罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvch7916014.shtml\n- 江苏建湖：走进机器人4S店，上好开学第一课｜新华网-科技｜http://www.news.cn/tech/20260902/1bbf657da1fe40b2bbfcfe8062a2353a/c.html\n- 苹果通知 Mac 开发者可移除英特尔 CPU 支持，需 macOS 13 及以上｜IT之家｜https://www.ithome.com/0/997/227.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（4 条，2 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201\n2. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html\n3. Anthropic changes data retention policy after pushback from customers｜CNBC Technology｜https://www.cnbc.com/2026/09/01/anthropic-data-retention.html\n4. VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD｜The Register｜https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520\n5. Waymo and Zoox expand into more U.S. markets as robotaxi race heats up｜CNBC Technology｜https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-02｜V3\n生成时间：2026/9/2 09:05:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2585｜确认今日 27｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 21 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-02] OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值” against primary-source evidence.\n\n2. [2026-09-02] 显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4544255.shtml\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%” against primary-source evidence.\n\n3. [2026-09-02] 国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvca4545853.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万” against primary-source evidence.\n\n4. [2026-09-02] 马斯克近期调整了SpaceX数据中心领导团队\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4773047.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克近期调整了SpaceX数据中心领导团队” against primary-source evidence.\n\n5. [2026-09-02] 英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成\n   新浪科技｜2026-09-02｜https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3079194.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成” against primary-source evidence.\n\n本次新增线索：\n- OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值｜新浪科技｜https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml\n- 英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3079194.shtml\n- 罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvch7916014.shtml\n- 江苏建湖：走进机器人4S店，上好开学第一课｜新华网-科技｜http://www.news.cn/tech/20260902/1bbf657da1fe40b2bbfcfe8062a2353a/c.html\n- 苹果通知 Mac 开发者可移除英特尔 CPU 支持，需 macOS 13 及以上｜IT之家｜https://www.ithome.com/0/997/227.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（4 条，2 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201\n2. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html\n3. Anthropic changes data retention policy after pushback from customers｜CNBC Technology｜https://www.cnbc.com/2026/09/01/anthropic-data-retention.html\n4. VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD｜The Register｜https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520\n5. Waymo and Zoox expand into more U.S. markets as robotaxi race heats up｜CNBC Technology｜https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-02｜生成时间：2026/9/2 09:05:12｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2585｜确认今日 27｜国际背景 19</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 0 条<br>延续跟踪线索：国内 21 条｜国际 19 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-02] OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值</strong>\n      <span>新浪科技｜2026-09-02｜<a href=\"https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-02] 显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%</strong>\n      <span>新浪科技｜2026-09-02｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4544255.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-02] 国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万</strong>\n      <span>新浪科技｜2026-09-02｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvca4545853.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-02] 马斯克近期调整了SpaceX数据中心领导团队</strong>\n      <span>新浪科技｜2026-09-02｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4773047.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：180｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克近期调整了SpaceX数据中心领导团队” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-02] 英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成</strong>\n      <span>新浪科技｜2026-09-02｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3079194.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten</strong>\n      <span>时间：Tue, 01 Sep 2026 10:30:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gate” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions</strong>\n      <span>时间：Tue, 01 Sep 2026 12:50:57 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OneRail launches AI platform with Nvidia for retailers to make faster de” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic changes data retention policy after pushback from customers</strong>\n      <span>时间：Tue, 01 Sep 2026 18:29:17 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/01/anthropic-data-retention.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic changes data retention policy after pushback from customers” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD</strong>\n      <span>时间：Mon, 31 Aug 2026 22:48:35 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “VMware uses Nvidia-favored 'AI factory' brand to build something with ri” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Waymo and Zoox expand into more U.S. markets as robotaxi race heats up</strong>\n      <span>时间：Tue, 01 Sep 2026 14:00:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Waymo and Zoox expand into more U.S. markets as robotaxi race heats up” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/2 09:05:12\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 21 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-02] OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值” against primary-source evidence.\n\n2. [2026-09-02] 显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4544255.shtml\n   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “显卡价格一个月内上涨 15%：RTX 5090 越来越接近 5090 美元，较 MSRP 平均溢价 136%” against primary-source evidence.\n\n3. [2026-09-02] 国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvca4545853.shtml\n   角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “国产GPU四小龙之一！燧原科技今日申购：中1签或赚超28万” against primary-source evidence.\n\n4. [2026-09-02] 马斯克近期调整了SpaceX数据中心领导团队\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4773047.shtml\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克近期调整了SpaceX数据中心领导团队” against primary-source evidence.\n\n5. [2026-09-02] 英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3079194.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成” against primary-source evidence.\n\n本次新增线索：\n- OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值｜新浪科技｜https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml\n- 英伟达据悉接近以140亿美元收购AI公司Hugging Face 协议最快本周达成｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3079194.shtml\n- 罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkvch7916014.shtml\n- 江苏建湖：走进机器人4S店，上好开学第一课｜新华网-科技｜http://www.news.cn/tech/20260902/1bbf657da1fe40b2bbfcfe8062a2353a/c.html\n- 苹果通知 Mac 开发者可移除英特尔 CPU 支持，需 macOS 13 及以上｜IT之家｜https://www.ithome.com/0/997/227.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（4 条，2 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n国际科技背景：\n1. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201\n2. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html\n3. Anthropic changes data retention policy after pushback from customers｜CNBC Technology｜https://www.cnbc.com/2026/09/01/anthropic-data-retention.html\n4. VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD｜The Register｜https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520\n5. Waymo and Zoox expand into more U.S. markets as robotaxi race heats up｜CNBC Technology｜https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
