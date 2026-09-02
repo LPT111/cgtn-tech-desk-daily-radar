@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/1 19:43:41
+生成时间：2026/9/2 08:35:10
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 0 条
-延续跟踪线索：国内 73 条｜国际 14 条
+新增核心线索：国内 21 条｜国际 9 条
+延续跟踪线索：国内 0 条｜国际 10 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-01] 智神星一号运载火箭首次发射成功
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0901/c1004-40790301.html
-   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “智神星一号运载火箭首次发射成功” against primary-source evidence.
-
-2. [2026-09-01] 中国牵头制定！全球首个腿式机器人国际标准发布
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L5OHQF9B0534A4SC.html
-   角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “中国牵头制定！全球首个腿式机器人国际标准发布” against primary-source evidence.
-
-3. [2026-09-01] 筑牢算力光网底座 江苏移动联合华为完成小型化OXC发布
-   来源：人民网-科技
-   链接：http://finance.people.com.cn/n1/2026/0901/c1004-40790493.html
-   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “筑牢算力光网底座 江苏移动联合华为完成小型化OXC发布” against primary-source evidence.
-
-4. [2026-09-01] 睿尔曼智能“扎根”朝阳，将推动“真干活机器人”规模化落地
+1. [2026-09-02] OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqipiu1598342.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “睿尔曼智能“扎根”朝阳，将推动“真干活机器人”规模化落地” against primary-source evidence.
+   链接：https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml
+   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值” against primary-source evidence.
 
-5. [2026-09-01] 磁场诱导氧空位调控与高性能MRI造影剂研究获进展
-   来源：中国科学院
-   链接：https://www.cas.cn/syky/202609/t20260901_5119426.shtml
-   角度：Turn the research into a human-readable science story about research infrastructure and long-term innovation capacity, avoiding claims beyond the published evidence. For this item, test the claim behind “磁场诱导氧空位调控与高性能MRI造影剂研究获进展” against primary-source evidence.
+2. [2026-09-02] 欧盟将对ChatGPT等3家美国服务平台加强监管- 新华社布鲁塞尔8月31日电（记者张兆卿 张馨文）欧盟委员会8月31日宣布
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkqvk3156120.shtml
+   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “欧盟将对ChatGPT等3家美国服务平台加强监管- 新华社布鲁塞尔8月31日电（记者张兆卿 张馨文）欧盟委员会8月31日宣布” against primary-source evidence.
+
+3. [2026-09-02] 马斯克近期调整了SpaceX数据中心领导团队
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4773047.shtml
+   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “马斯克近期调整了SpaceX数据中心领导团队” against primary-source evidence.
+
+4. [2026-09-02] 影响市场重大事件：智神星一号遥一首飞入轨成功
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L5Q6ENM90512B07B.html
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “影响市场重大事件：智神星一号遥一首飞入轨成功” against primary-source evidence.
+
+5. [2026-09-02] 我国科学家首次实现高光谱相机实时解析，卫星可直接实时出结果
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4487918.shtml
+   角度：Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “我国科学家首次实现高光谱相机实时解析，卫星可直接实时出结果” against primary-source evidence.
 
 本次新增线索：
-- 睿尔曼智能“扎根”朝阳，将推动“真干活机器人”规模化落地｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqipiu1598342.shtml
-- 韩国公布创纪录预算增幅 借AI芯片红利加码未来产业｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqipis4823746.shtml
-- 禁止化学武器组织第二届人工智能赋能化学安全与安保国际研修班在杭州开班｜网易科技｜https://www.163.com/dy/article/L5OVIIH20534A4SC.html
-- 100 元报销需王兴兴亲自审批？宇树科技回应称很多内容不实｜IT之家｜https://www.ithome.com/0/997/125.htm
-- 魏桥国科智算中心：以国产算力，为发展未来产业提供创新支撑｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqipir8078506.shtml
+- OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值｜新浪科技｜https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml
+- 欧盟将对ChatGPT等3家美国服务平台加强监管- 新华社布鲁塞尔8月31日电（记者张兆卿 张馨文）欧盟委员会8月31日宣布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-02/doc-iniqkqvk3156120.shtml
+- 马斯克近期调整了SpaceX数据中心领导团队｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4773047.shtml
+- 影响市场重大事件：智神星一号遥一首飞入轨成功｜网易科技｜https://www.163.com/dy/article/L5Q6ENM90512B07B.html
+- 我国科学家首次实现高光谱相机实时解析，卫星可直接实时出结果｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-02/doc-iniqkvca4487918.shtml
+- OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html
 
 今日热点方向：
-- AI 应用：AI动态（20 条，6 个来源）
-- 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：机器人动态（4 条，3 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（9 条，3 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- AI 应用：AI 应用与智能体（5 条，3 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201
-2. VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD｜The Register｜https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520
-3. Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI｜TechCrunch｜https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/
-4. The Pentagon now has its own version of ChatGPT and Grok｜TechCrunch｜https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/
-5. Nvidia is building an IP licensing empire on the back of NVLink｜The Register｜https://www.theregister.com/systems/2026/08/31/nvidia-is-building-an-ip-licensing-empire-on-the-back-of-nvlink/5293530
+1. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html
+2. Anthropic changes data retention policy after pushback from customers｜CNBC Technology｜https://www.cnbc.com/2026/09/01/anthropic-data-retention.html
+3. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201
+4. Waymo and Zoox expand into more U.S. markets as robotaxi race heats up｜CNBC Technology｜https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html
+5. VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD｜The Register｜https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
