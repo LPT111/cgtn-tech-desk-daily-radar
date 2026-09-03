@@ -3,61 +3,61 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/3 18:05:26
+生成时间：2026/9/3 18:49:16
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 60 条｜国际 4 条
-延续跟踪线索：国内 9 条｜国际 15 条
+新增核心线索：国内 16 条｜国际 1 条
+延续跟踪线索：国内 51 条｜国际 19 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-03] 人类历史上第一次大规模AI失控始末
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/wm/2026-09-03/doc-iniqnyah7181891.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “人类历史上第一次大规模AI失控始末” against primary-source evidence.
+1. [2026-09-03] 人工智能大模型发展迈入新阶段
+   来源：光明网-科技
+   链接：https://tech.gmw.cn/2026-09/03/content_38982929.htm
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “人工智能大模型发展迈入新阶段” against primary-source evidence.
 
-2. [2026-09-03] 摩尔线程：公司已打通具身智能完整链路
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-03/doc-iniqpvfw2109131.shtml
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “摩尔线程：公司已打通具身智能完整链路” against primary-source evidence.
-
-3. [2026-09-03] 英伟达豪掷140亿美元收购Hugging Face？ 分析师：或重构全球AI开源体系
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L5TJM9DG0512B07B.html
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达豪掷140亿美元收购Hugging Face？ 分析师：或重构全球AI开源体系” against primary-source evidence.
-
-4. [2026-09-03] 北京亦庄机器人快步“跑”进市场-这个位于北京东南部的国家级经济技术开发区
+2. [2026-09-03] 北京亦庄机器人快步“跑”进市场-这个位于北京东南部的国家级经济技术开发区
    来源：新华网-科技
    链接：http://www.news.cn/tech/20260903/ae2c27b2145645d7aa02f2e3957068a0/c.html
    角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “北京亦庄机器人快步“跑”进市场-这个位于北京东南部的国家级经济技术开发区” against primary-source evidence.
 
-5. [2026-09-03] 奥特曼首次明确表态：OpenAI将自研人形机器人
+3. [2026-09-03] iPhone 18 Pro首发A20 Pro芯片 2nm工艺加持 GPU性能暴涨近30%
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqpvfu1140098.shtml
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “奥特曼首次明确表态：OpenAI将自研人形机器人” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqpzps1050338.shtml
+   角度：Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “iPhone 18 Pro首发A20 Pro芯片 2nm工艺加持 GPU性能暴涨近30%” against primary-source evidence.
+
+4. [2026-09-03] 郎朗与具身智能跨界联动 科技与艺术解锁人机交互新场景丨新经济观察
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqpzpq4276759.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “郎朗与具身智能跨界联动 科技与艺术解锁人机交互新场景丨新经济观察” against primary-source evidence.
+
+5. [2026-09-03] 追赶速度惊人！三星HBM份额暴涨：33%市占率逼近SK海力士
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-09-03/doc-iniqpzpu1996268.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “追赶速度惊人！三星HBM份额暴涨：33%市占率逼近SK海力士” against primary-source evidence.
 
 本次新增线索：
-- 人类历史上第一次大规模AI失控始末｜新浪科技｜https://finance.sina.com.cn/wm/2026-09-03/doc-iniqnyah7181891.shtml
-- 摩尔线程：公司已打通具身智能完整链路｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-03/doc-iniqpvfw2109131.shtml
-- 英伟达豪掷140亿美元收购Hugging Face？ 分析师：或重构全球AI开源体系｜网易科技｜https://www.163.com/dy/article/L5TJM9DG0512B07B.html
-- 奥特曼首次明确表态：OpenAI将自研人形机器人｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqpvfu1140098.shtml
-- 黑洞超临界热力学普适标度律研究获进展｜中国科学院｜https://www.cas.cn/syky/202609/t20260903_5119638.shtml
-- AI data centre boom causing even higher smartphone and console prices｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/ai-data-centre-boom-causing-094828886.html
+- 人工智能大模型发展迈入新阶段｜光明网-科技｜https://tech.gmw.cn/2026-09/03/content_38982929.htm
+- iPhone 18 Pro首发A20 Pro芯片 2nm工艺加持 GPU性能暴涨近30%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqpzps1050338.shtml
+- 郎朗与具身智能跨界联动 科技与艺术解锁人机交互新场景丨新经济观察｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqpzpq4276759.shtml
+- 追赶速度惊人！三星HBM份额暴涨：33%市占率逼近SK海力士｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-09-03/doc-iniqpzpu1996268.shtml
+- 奥特曼首次明确表态：OpenAI将自研人形机器人｜网易科技｜https://www.163.com/dy/article/L5TT1HFI0534A4SC.html
+- Axios interview: Sam Altman's sobering siren｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/axios-interview-sam-altmans-sobering-095427517.html
 
 今日热点方向：
-- AI 应用：AI动态（16 条，3 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，3 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（10 条，3 个来源）
+- AI 应用：AI动态（16 条，4 个来源）
+- 芯片/半导体：半导体供应链（3 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，4 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（8 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（4 条，4 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
 1. US government sides with OpenAI on issue of training LLMs on copyrighted material｜TechCrunch｜https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/
-2. AI data centre boom causing even higher smartphone and console prices｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/ai-data-centre-boom-causing-094828886.html
-3. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201
+2. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201
+3. AI data centre boom causing even higher smartphone and console prices｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/ai-data-centre-boom-causing-094828886.html
 4. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html
 5. TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals｜TechCrunch｜https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/
 
