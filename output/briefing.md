@@ -3,62 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/3 09:05:07
+生成时间：2026/9/3 09:10:59
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 9 条｜国际 0 条
-延续跟踪线索：国内 20 条｜国际 15 条
+新增核心线索：国内 4 条｜国际 1 条
+延续跟踪线索：国内 29 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-03] 博主推测苹果 A20 Pro 芯片结构，预估升级 7 核 GPU
+1. [2026-09-03] 北京亦庄机器人快步“跑”进市场-这个位于北京东南部的国家级经济技术开发区
+   来源：新华网-科技
+   链接：http://www.news.cn/tech/20260903/ae2c27b2145645d7aa02f2e3957068a0/c.html
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “北京亦庄机器人快步“跑”进市场-这个位于北京东南部的国家级经济技术开发区” against primary-source evidence.
+
+2. [2026-09-03] Meta 发布最强 AI 模型 Muse Spark 1.3，编码能力超 GPT-5.6 Sol
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-03/doc-iniqnyae1088192.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta 发布最强 AI 模型 Muse Spark 1.3，编码能力超 GPT-5.6 Sol” against primary-source evidence.
+
+3. [2026-09-03] 博主推测苹果 A20 Pro 芯片结构，预估升级 7 核 GPU
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-09-03/doc-iniqnyaa4284857.shtml
    角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “博主推测苹果 A20 Pro 芯片结构，预估升级 7 核 GPU” against primary-source evidence.
 
-2. [2026-09-03] 韩国选择由Naver牵头的联盟 开发专注于网络安全的人工智能基础模型
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpeiy4244053.shtml
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “韩国选择由Naver牵头的联盟 开发专注于网络安全的人工智能基础模型” against primary-source evidence.
+4. [2026-09-03] 市场最前沿｜产销两旺 我国集成电路产业迎来快速增长- 新华社北京9月2日电 题：产销两旺 我国集成电路产业迎来快速增长 新华社记者周圆、吴慧珺、胡林果 7月份
+   来源：新华网-科技
+   链接：http://www.news.cn/tech/20260903/833ba5b68b414778839a06a6a8b3a33d/c.html
+   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “市场最前沿｜产销两旺 我国集成电路产业迎来快速增长- 新华社北京9月2日电 题：产销两旺 我国集成电路产业迎来快速增长 新华社记者周圆、吴慧珺、” against primary-source evidence.
 
-3. [2026-09-03] 明新旭腾澄清主营业务不涉及人形机器人制造；普
+5. [2026-09-03] 明新旭腾澄清主营业务不涉及人形机器人制造；普
    来源：网易科技
    链接：https://www.163.com/dy/article/L5SQM2KJ0512B07B.html
    角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “明新旭腾澄清主营业务不涉及人形机器人制造；普” against primary-source evidence.
 
-4. [2026-09-03] 宏碁发布Aspire G 3D 16笔记本：Strix Halo芯片 支持裸眼3D显示
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqpeka1032564.shtml
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “宏碁发布Aspire G 3D 16笔记本：Strix Halo芯片 支持裸眼3D显示” against primary-source evidence.
-
-5. [2026-09-03] 黄仁勋敦促G20加快AI应用，扩大数据中心等基础
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L5T07BR80534A4SC.html
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “黄仁勋敦促G20加快AI应用，扩大数据中心等基础” against primary-source evidence.
-
 本次新增线索：
-- 韩国选择由Naver牵头的联盟 开发专注于网络安全的人工智能基础模型｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpeiy4244053.shtml
-- 宏碁发布Aspire G 3D 16笔记本：Strix Halo芯片 支持裸眼3D显示｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqpeka1032564.shtml
-- 黄仁勋敦促G20加快AI应用，扩大数据中心等基础｜网易科技｜https://www.163.com/dy/article/L5T07BR80534A4SC.html
-- 大模型扎堆！谷歌刚发，Meta就跟上｜网易科技｜https://www.163.com/tech/article/L5T0OH6G00097U7T.html
-- Token消耗量激增 智能体批量上线 上市银行半年报里的“AI竞赛”-巨额投入与量化产出背后｜新华网-科技｜http://www.news.cn/tech/20260903/7accb478e07c495a9c882c01b30fafad/c.html
+- 北京亦庄机器人快步“跑”进市场-这个位于北京东南部的国家级经济技术开发区｜新华网-科技｜http://www.news.cn/tech/20260903/ae2c27b2145645d7aa02f2e3957068a0/c.html
+- 市场最前沿｜产销两旺 我国集成电路产业迎来快速增长- 新华社北京9月2日电 题：产销两旺 我国集成电路产业迎来快速增长 新华社记者周圆、吴慧珺、胡林果 7月份｜新华网-科技｜http://www.news.cn/tech/20260903/833ba5b68b414778839a06a6a8b3a33d/c.html
+- AI打开服务消费市场空间-这既是顺应消费升级趋势的必然要求｜新华网-科技｜http://www.news.cn/tech/20260903/165d726234ea472eb424e1c4a47be3a2/c.html
+- 高温超导带材用上更结实“骨架”-"记者2日从中国科学院理化技术研究所获悉｜新华网-科技｜http://www.news.cn/tech/20260903/fc72046186554c94a259508525e24419/c.html
+- UK cyber bill targets AI users, not the vendors building it｜The Register｜https://www.theregister.com/security/2026/09/02/uk-cyber-bill-targets-ai-users-not-the-vendors-building-it/5293738
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（7 条，4 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
 - 太空与低空经济：
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
 1. US government sides with OpenAI on issue of training LLMs on copyrighted material｜TechCrunch｜https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/
 2. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201
 3. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html
 4. TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals｜TechCrunch｜https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/
-5. Waymo and Zoox expand into more U.S. markets as robotaxi race heats up｜CNBC Technology｜https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html
+5. UK cyber bill targets AI users, not the vendors building it｜The Register｜https://www.theregister.com/security/2026/09/02/uk-cyber-bill-targets-ai-users-not-the-vendors-building-it/5293738
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
