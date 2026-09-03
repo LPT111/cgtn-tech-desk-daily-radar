@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/3 08:45:24
+生成时间：2026/9/3 09:05:07
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 23 条｜国际 7 条
-延续跟踪线索：国内 0 条｜国际 9 条
+新增核心线索：国内 9 条｜国际 0 条
+延续跟踪线索：国内 20 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,48 +18,47 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/digi/2026-09-03/doc-iniqnyaa4284857.shtml
    角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “博主推测苹果 A20 Pro 芯片结构，预估升级 7 核 GPU” against primary-source evidence.
 
-2. [2026-09-03] 明新旭腾澄清主营业务不涉及人形机器人制造；普
+2. [2026-09-03] 韩国选择由Naver牵头的联盟 开发专注于网络安全的人工智能基础模型
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpeiy4244053.shtml
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “韩国选择由Naver牵头的联盟 开发专注于网络安全的人工智能基础模型” against primary-source evidence.
+
+3. [2026-09-03] 明新旭腾澄清主营业务不涉及人形机器人制造；普
    来源：网易科技
    链接：https://www.163.com/dy/article/L5SQM2KJ0512B07B.html
    角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “明新旭腾澄清主营业务不涉及人形机器人制造；普” against primary-source evidence.
 
-3. [2026-09-03] 新型AI框架破解低计数PET成像难题
+4. [2026-09-03] 宏碁发布Aspire G 3D 16笔记本：Strix Halo芯片 支持裸眼3D显示
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqntue4381916.shtml
-   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “新型AI框架破解低计数PET成像难题” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqpeka1032564.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “宏碁发布Aspire G 3D 16笔记本：Strix Halo芯片 支持裸眼3D显示” against primary-source evidence.
 
-4. [23:04] 三星 Exynos 2700 芯片曝光：SF2P 工艺、双主核设计，Galaxy S27 系列手机首发
-   来源：IT之家
-   链接：https://www.ithome.com/0/997/723.htm
-   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “三星 Exynos 2700 芯片曝光：SF2P 工艺、双主核设计，Galaxy S27 系列手机首发” against primary-source evidence.
-
-5. [2026-09-03] 全部基于量产原厂状态：全新一汽红旗 H7 插电混动轿车开启最长续航吉尼斯世界纪录挑战
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-03/doc-iniqnyah7185956.shtml
-   角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “全部基于量产原厂状态：全新一汽红旗 H7 插电混动轿车开启最长续航吉尼斯世界纪录挑战” against primary-source evidence.
+5. [2026-09-03] 黄仁勋敦促G20加快AI应用，扩大数据中心等基础
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L5T07BR80534A4SC.html
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “黄仁勋敦促G20加快AI应用，扩大数据中心等基础” against primary-source evidence.
 
 本次新增线索：
-- 博主推测苹果 A20 Pro 芯片结构，预估升级 7 核 GPU｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-03/doc-iniqnyaa4284857.shtml
-- 明新旭腾澄清主营业务不涉及人形机器人制造；普｜网易科技｜https://www.163.com/dy/article/L5SQM2KJ0512B07B.html
-- 新型AI框架破解低计数PET成像难题｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqntue4381916.shtml
-- 三星 Exynos 2700 芯片曝光：SF2P 工艺、双主核设计，Galaxy S27 系列手机首发｜IT之家｜https://www.ithome.com/0/997/723.htm
-- 全部基于量产原厂状态：全新一汽红旗 H7 插电混动轿车开启最长续航吉尼斯世界纪录挑战｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-03/doc-iniqnyah7185956.shtml
-- US government sides with OpenAI on issue of training LLMs on copyrighted material｜TechCrunch｜https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/
+- 韩国选择由Naver牵头的联盟 开发专注于网络安全的人工智能基础模型｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpeiy4244053.shtml
+- 宏碁发布Aspire G 3D 16笔记本：Strix Halo芯片 支持裸眼3D显示｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqpeka1032564.shtml
+- 黄仁勋敦促G20加快AI应用，扩大数据中心等基础｜网易科技｜https://www.163.com/dy/article/L5T07BR80534A4SC.html
+- 大模型扎堆！谷歌刚发，Meta就跟上｜网易科技｜https://www.163.com/tech/article/L5T0OH6G00097U7T.html
+- Token消耗量激增 智能体批量上线 上市银行半年报里的“AI竞赛”-巨额投入与量化产出背后｜新华网-科技｜http://www.news.cn/tech/20260903/7accb478e07c495a9c882c01b30fafad/c.html
 
 今日热点方向：
-- AI 应用：AI动态（8 条，2 个来源）
+- AI 应用：AI 应用与智能体（7 条，4 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：机器人动态（2 条，1 个来源）
+- 机器人/具身智能：机器人动态（1 条，1 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
 - 太空与低空经济：
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
 1. US government sides with OpenAI on issue of training LLMs on copyrighted material｜TechCrunch｜https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/
-2. TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals｜TechCrunch｜https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/
-3. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201
-4. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html
-5. OpenAI’s new reasoning technique alarms AI safety experts｜TechCrunch｜https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/
+2. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201
+3. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html
+4. TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals｜TechCrunch｜https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/
+5. Waymo and Zoox expand into more U.S. markets as robotaxi race heats up｜CNBC Technology｜https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
