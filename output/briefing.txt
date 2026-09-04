@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/3 19:20:40
+生成时间：2026/9/4 08:27:56
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 10 条｜国际 1 条
-延续跟踪线索：国内 61 条｜国际 18 条
+新增核心线索：国内 32 条｜国际 14 条
+延续跟踪线索：国内 0 条｜国际 6 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-03] 人类历史上第一次大规模AI失控始末
+1. [2026-09-04] 无方向盘、无油门刹车踏板！特斯拉正式发布量产版Cybercab无人出租车
    来源：新浪科技
-   链接：https://finance.sina.com.cn/wm/2026-09-03/doc-iniqnyah7181891.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “人类历史上第一次大规模AI失控始末” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-04/doc-iniqrihy3996669.shtml
+   角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “无方向盘、无油门刹车踏板！特斯拉正式发布量产版Cybercab无人出租车” against primary-source evidence.
 
-2. [2026-09-03] 北京亦庄机器人快步“跑”进市场-这个位于北京东南部的国家级经济技术开发区
-   来源：新华网-科技
-   链接：http://www.news.cn/tech/20260903/ae2c27b2145645d7aa02f2e3957068a0/c.html
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “北京亦庄机器人快步“跑”进市场-这个位于北京东南部的国家级经济技术开发区” against primary-source evidence.
-
-3. [2026-09-03] 北京人形数据基地下载量破2000万，基地负责人夏华林：未来具身智能最核心的竞争点是数据飞轮
+2. [2026-09-04] 小米机器人CyberOne海外首秀引围观：现场打招呼、比耶
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-09-03/doc-iniqpzps1095859.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “北京人形数据基地下载量破2000万，基地负责人夏华林：未来具身智能最核心的竞争点是数据飞轮” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-04/doc-iniqraza4115659.shtml
+   角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “小米机器人CyberOne海外首秀引围观：现场打招呼、比耶” against primary-source evidence.
 
-4. [2026-09-03] 黑洞超临界热力学普适标度律研究获进展
-   来源：中国科学院
-   链接：https://www.cas.cn/syky/202609/t20260903_5119638.shtml
-   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect the scientific mechanism, evidence and translational boundary to China’s wider innovation capacity. For this item, test the claim behind “黑洞超临界热力学普适标度律研究获进展” against primary-source evidence.
+3. [2026-09-04] 卢伟冰：小米汽车完成首批8家欧洲汽车经销商签约 出海车型将赴瑞典、德国等4国测试
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-04/doc-iniqriie1533667.shtml
+   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “卢伟冰：小米汽车完成首批8家欧洲汽车经销商签约 出海车型将赴瑞典、德国等4国测试” against primary-source evidence.
 
-5. [2026-09-03] 英伟达豪掷140亿美元收购Hugging Face？ 分析师：或重构全球AI开源体系
+4. [00:22] 中国第二大晶圆代工厂：华虹宏力半导体宣布扩建无锡 12 英寸产线，月增 5.5 万片产能
+   来源：IT之家
+   链接：https://www.ithome.com/0/998/246.htm
+   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “中国第二大晶圆代工厂：华虹宏力半导体宣布扩建无锡 12 英寸产线，月增 5.5 万片产能” against primary-source evidence.
+
+5. [2026-09-04] 中信建投：SpaceX宣布建设最大发射场，关注商业
    来源：网易科技
-   链接：https://www.163.com/dy/article/L5TJM9DG0512B07B.html
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达豪掷140亿美元收购Hugging Face？ 分析师：或重构全球AI开源体系” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L5VEPJUH0534A4SC.html
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “中信建投：SpaceX宣布建设最大发射场，关注商业” against primary-source evidence.
 
 本次新增线索：
-- 北京人形数据基地下载量破2000万，基地负责人夏华林：未来具身智能最核心的竞争点是数据飞轮｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-03/doc-iniqpzps1095859.shtml
-- 黑洞超临界热力学普适标度律研究获进展｜中国科学院｜https://www.cas.cn/syky/202609/t20260903_5119638.shtml
-- 交付大考将至！优必选情感陪伴机器人U1拿奖背后，康养布局前路几何｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqpzpu2019388.shtml
-- 宁德时代曾毓群：做出一块电池不难，难的是做十亿块一样好的电池｜IT之家｜https://www.ithome.com/0/998/053.htm
-- 特斯拉 FSD 高级驾驶辅助系统在法国上路测试｜IT之家｜https://www.ithome.com/0/998/113.htm
-- 'No steering wheel, no pedals.' Tesla teases fans ahead of long-awaited Cybercab update｜CNBC Technology｜https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html
+- 无方向盘、无油门刹车踏板！特斯拉正式发布量产版Cybercab无人出租车｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-04/doc-iniqrihy3996669.shtml
+- 小米机器人CyberOne海外首秀引围观：现场打招呼、比耶｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-04/doc-iniqraza4115659.shtml
+- 卢伟冰：小米汽车完成首批8家欧洲汽车经销商签约 出海车型将赴瑞典、德国等4国测试｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-04/doc-iniqriie1533667.shtml
+- 中国第二大晶圆代工厂：华虹宏力半导体宣布扩建无锡 12 英寸产线，月增 5.5 万片产能｜IT之家｜https://www.ithome.com/0/998/246.htm
+- 中信建投：SpaceX宣布建设最大发射场，关注商业｜网易科技｜https://www.163.com/dy/article/L5VEPJUH0534A4SC.html
+- Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit｜WIRED Business｜https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（14 条，3 个来源）
-- 芯片/半导体：半导体供应链（3 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（7 条，4 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（8 条，3 个来源）
+- AI 应用：AI动态（5 条，4 个来源）
+- 芯片/半导体：半导体供应链（3 条，2 个来源）
+- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（3 条，3 个来源）
+- 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
-1. US government sides with OpenAI on issue of training LLMs on copyrighted material｜TechCrunch｜https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/
-2. The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten｜The Register｜https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201
-3. AI data centre boom causing even higher smartphone and console prices｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/ai-data-centre-boom-causing-094828886.html
-4. OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions｜CNBC Technology｜https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html
-5. TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals｜TechCrunch｜https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/
+1. Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit｜WIRED Business｜https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/
+2. Anthropic's distillation battle turns to the dark web as China concerns swell｜CNBC Technology｜https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html
+3. OpenAI launches Astra, its powerful (and controversial) new model｜TechCrunch｜https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/
+4. Google launches AI voice features in Gmail, Docs, and Keep｜TechCrunch｜https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/
+5. The Cybercab is Tesla’s ‘fork in the road’ moment｜TechCrunch｜https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
