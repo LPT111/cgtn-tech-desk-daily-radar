@@ -3,54 +3,55 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/4 09:03:39
+生成时间：2026/9/4 17:56:34
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 0 条
-延续跟踪线索：国内 32 条｜国际 21 条
+新增核心线索：国内 72 条｜国际 3 条
+延续跟踪线索：国内 7 条｜国际 17 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-04] 刚刚，全球最强GPT-6 Astra来了！人类进入AGI时代
+1. [2026-09-04] 卢伟冰：中折叠形态解决了大折叠和小折叠的痛点，将推动折叠屏市场翻倍增长
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/roll/2026-09-04/doc-iniqrtww0813674.shtml
+   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “卢伟冰：中折叠形态解决了大折叠和小折叠的痛点，将推动折叠屏市场翻倍增长” against primary-source evidence.
+
+2. [2026-09-04] 星尘发布在线强化学习框架SmoothRL，实现与大模型的异步推理
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/shenji/2026-09-04/doc-iniqrpra1457208.shtml
+   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “星尘发布在线强化学习框架SmoothRL，实现与大模型的异步推理” against primary-source evidence.
+
+3. [2026-09-04] 云鲸发布扫地机器人、洗地机等多品类产品矩阵，已进入全球30多个国家和地区
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/shenji/2026-09-04/doc-iniqrpqw4136480.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “云鲸发布扫地机器人、洗地机等多品类产品矩阵，已进入全球30多个国家和地区” against primary-source evidence.
+
+4. [2026-09-04] 145项成果集中亮相 智慧育种有了“北京范式”
+   来源：光明网-科技
+   链接：https://tech.gmw.cn/2026-09/04/content_38985423.htm
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “145项成果集中亮相 智慧育种有了“北京范式”” against primary-source evidence.
+
+5. [2026-09-04] 刚刚，全球最强GPT-6 Astra来了！人类进入AGI时代
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/2026-09-04/doc-iniqrazh6465965.shtml
    角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “刚刚，全球最强GPT-6 Astra来了！人类进入AGI时代” against primary-source evidence.
 
-2. [2026-09-04] 中国第二大晶圆代工厂：华虹宏力半导体宣布扩建无锡 12 英寸产线，月增 5.5 万片产能
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-04/doc-iniqriia0825774.shtml
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “中国第二大晶圆代工厂：华虹宏力半导体宣布扩建无锡 12 英寸产线，月增 5.5 万片产能” against primary-source evidence.
-
-3. [2026-09-04] 韩国称韩美继续磋商芯片关税问题 华府未提何时宣布
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqriie1514484.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “韩国称韩美继续磋商芯片关税问题 华府未提何时宣布” against primary-source evidence.
-
-4. [2026-09-04] 深夜，突发！美国AI大宕机！
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/zqgd/2026-09-04/doc-iniqriie6341371.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “深夜，突发！美国AI大宕机！” against primary-source evidence.
-
-5. [23:05] 大众集团批准“2030 未来计划”：拟全球继续裁员 5 万人，4 座德国汽车工厂面临停产风险
-   来源：IT之家
-   链接：https://www.ithome.com/0/998/216.htm
-   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “大众集团批准“2030 未来计划”：拟全球继续裁员 5 万人，4 座德国汽车工厂面临停产风险” against primary-source evidence.
-
 本次新增线索：
-- 韩国称韩美继续磋商芯片关税问题 华府未提何时宣布｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqriie1514484.shtml
-- 大众集团批准“2030 未来计划”：拟全球继续裁员 5 万人，4 座德国汽车工厂面临停产风险｜IT之家｜https://www.ithome.com/0/998/216.htm
-- 千亿设备龙头密集推新，芯片“层数竞赛”何解？｜新浪科技｜https://finance.sina.com.cn/roll/2026-09-04/doc-iniqrazh6464666.shtml
-- Omdia 预估苹果首款触控屏 MacBook 笔记本可配 M5 Ultra 芯片，实现“双 Ultra”｜IT之家｜https://www.ithome.com/0/998/218.htm
-- 电池税开征，纯电车利润快归零了｜网易科技｜https://www.163.com/dy/article/L5UUB9DB051188EA.html
+- 卢伟冰：中折叠形态解决了大折叠和小折叠的痛点，将推动折叠屏市场翻倍增长｜新浪科技｜https://finance.sina.com.cn/roll/2026-09-04/doc-iniqrtww0813674.shtml
+- 星尘发布在线强化学习框架SmoothRL，实现与大模型的异步推理｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-09-04/doc-iniqrpra1457208.shtml
+- 云鲸发布扫地机器人、洗地机等多品类产品矩阵，已进入全球30多个国家和地区｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-09-04/doc-iniqrpqw4136480.shtml
+- 145项成果集中亮相 智慧育种有了“北京范式”｜光明网-科技｜https://tech.gmw.cn/2026-09/04/content_38985423.htm
+- 当世赛标准遇上大模型生态，技能人才如何避免被AI“淘汰”？｜新浪科技｜https://finance.sina.com.cn/wm/2026-09-04/doc-iniqsenu1260407.shtml
+- OpenAI begins rollout of GPT-6 amid growing scrutiny over safety｜France24 Technology｜https://www.france24.com/en/technology/20260904-openai-begins-rollout-of-gpt-6-with-focus-on-cyber-security-safeguards
 
 今日热点方向：
-- AI 应用：AI动态（5 条，4 个来源）
-- 芯片/半导体：半导体供应链（5 条，1 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- AI 应用：AI动态（12 条，4 个来源）
+- 芯片/半导体：半导体供应链（7 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（6 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）
+- 太空与低空经济：太空与低空动态（4 条，3 个来源）
 - 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
