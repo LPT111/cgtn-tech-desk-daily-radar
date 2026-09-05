@@ -1,37 +1,37 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-09-05T00:51:39.636Z",
+  "generatedAt": "2026-09-05T01:04:29.037Z",
   "radarVersion": "v3",
   "targetDate": "2026-09-05",
   "changeSummary": {
-    "domesticNew": 5,
+    "domesticNew": 6,
     "globalNew": 0,
-    "domesticContinued": 9,
+    "domesticContinued": 11,
     "globalContinued": 19,
     "topNewDomestic": [
       {
-        "title": "科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%",
+        "title": "我国正式启动国际地月立方星座大科学计划",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtsqa0598630.shtml"
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-09-05/doc-iniqtnha0599061.shtml"
       },
       {
         "title": "三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/998/643.htm"
-      },
-      {
-        "title": "车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/998/629.htm"
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnhe0721352.shtml"
       },
       {
         "title": "主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/998/631.htm"
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnha0562901.shtml"
       },
       {
-        "title": "汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L6245H0Q0534A4SC.html"
+        "title": "谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3825511.shtml"
+      },
+      {
+        "title": "车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3790369.shtml"
       }
     ],
     "topNewGlobal": [],
@@ -41,7 +41,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 886,
+    "domesticRejected": 883,
     "globalRejected": 881,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -56,7 +56,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 29,
   "failedSources": [
     {
       "name": "央视网-科技",
@@ -64,13 +64,23 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -86,13 +96,23 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -105,7 +125,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 169,
+      "parsed": 181,
       "failed": false,
       "optional": false
     },
@@ -196,7 +216,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "科技日报",
       "tier": "official",
-      "parsed": 67,
+      "parsed": 71,
       "failed": false,
       "optional": false
     },
@@ -268,7 +288,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -296,8 +317,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -305,7 +327,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -352,18 +374,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1353,
+  "itemsSeen": 1359,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 320,
-  "itemsAfterDedupe": 241,
-  "todayItemsSeen": 14,
+  "itemsAfterRelevantFilter": 319,
+  "itemsAfterDedupe": 243,
+  "todayItemsSeen": 17,
   "suspectedItemsSeen": 19,
-  "skippedNonToday": 206,
+  "skippedNonToday": 207,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 169,
+      "parsed": 181,
       "failed": false,
       "optional": false
     },
@@ -454,7 +476,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "科技日报",
       "tier": "official",
-      "parsed": 67,
+      "parsed": 71,
       "failed": false,
       "optional": false
     },
@@ -526,7 +548,8 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -554,8 +577,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -563,7 +587,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -769,13 +793,23 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -808,6 +842,21 @@ window.CHENCHEN_DAILY_DATA = {
   "globalItemsAfterRelevantFilter": 101,
   "topics": [
     {
+      "topic": "AI动态",
+      "count": 3,
+      "sourceCount": 3,
+      "sources": [
+        "新浪科技",
+        "网易科技",
+        "IT之家"
+      ],
+      "items": [
+        "谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲",
+        "AI 对话框，正在变成交易新入口，谁在赚钱？",
+        "消息称苹果计划明年上线全新“家庭安全监控服务”，将 AI 引入家庭安防"
+      ]
+    },
+    {
       "topic": "新能源车动态",
       "count": 4,
       "sourceCount": 2,
@@ -817,21 +866,22 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "长城H10换了个马甲 魏牌豪华硬派方盒子SUV官图正式发布",
-        "汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%",
         "工信部严查汽车生产一致性：2025 年 10 余款车型参数不符，涉及东风、中联重科等",
-        "蔚来跑赢行业，为何还是没跑赢预期？"
+        "蔚来跑赢行业，为何还是没跑赢预期？",
+        "汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%"
       ]
     },
     {
       "topic": "芯片动态",
-      "count": 2,
+      "count": 3,
       "sourceCount": 2,
       "sources": [
-        "IT之家",
-        "新浪科技"
+        "新浪科技",
+        "IT之家"
       ],
       "items": [
         "三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证",
+        "AMD 显卡首次跑通英伟达 DLSS 5：《赛博朋克 2077》游戏 1080P 帧率约 30FPS",
         "AMD 锐龙 5 7500 处理器曝光，6 核 12 线程规格与 7500F 看齐"
       ]
     },
@@ -840,7 +890,7 @@ window.CHENCHEN_DAILY_DATA = {
       "count": 2,
       "sourceCount": 2,
       "sources": [
-        "IT之家",
+        "新浪科技",
         "网易科技"
       ],
       "items": [
@@ -849,16 +899,25 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "AI动态",
-      "count": 2,
-      "sourceCount": 2,
+      "topic": "商业航天与卫星互联网",
+      "count": 1,
+      "sourceCount": 1,
       "sources": [
-        "网易科技",
-        "IT之家"
+        "新浪科技"
       ],
       "items": [
-        "AI 对话框，正在变成交易新入口，谁在赚钱？",
-        "消息称苹果计划明年上线全新“家庭安全监控服务”，将 AI 引入家庭安防"
+        "我国正式启动国际地月立方星座大科学计划"
+      ]
+    },
+    {
+      "topic": "监管与安全动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布"
       ]
     },
     {
@@ -884,17 +943,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "监管与安全动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布"
-      ]
-    },
-    {
       "topic": "太空与低空动态",
       "count": 1,
       "sourceCount": 1,
@@ -907,6 +955,346 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "我国正式启动国际地月立方星座大科学计划",
+      "summary": "本报北京9月4日电记者张晓华从深空探测实验室获悉，在4日举行的2026年深空探测（天都）国际会议上，我国正式启动国际地月立方星座大科学计划，拟联合多个国家在地月空间部署卫星群，立体组网开展空间环境监测、伽马射线暴探测、月球资源勘探等工作，初...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-09-05/doc-iniqtnha0599061.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-09-05/doc-iniqtnha0599061.shtml"
+      ],
+      "publishedAt": "2026-09-05",
+      "date": "2026-09-05",
+      "category": "太空与低空",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 175,
+      "reporterScore": 197,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 133
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “我国正式启动国际地月立方星座大科学计划” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "商业航天与卫星互联网",
+      "rawText": "本报北京9月4日电记者张晓华从深空探测实验室获悉，在4日举行的2026年深空探测（天都）国际会议上，我国正式启动国际地月立方星座大科学计划，拟联合多个国家在地月空间部署卫星群，立体组网开展空间环境监测、伽马射线暴探测、月球资源勘探等工作，初...",
+      "relatedTitles": [
+        "我国正式启动国际地月立方星座大科学计划"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证",
+      "summary": "IT之家 9 月 5 日消息，NotebookCheck 今日发现，三星电子正在对 Galaxy S27 系列进行关键芯片验证测试。根据 NotebookCheck 提供的一份高通项目门户网站截图，三星正在测试的芯片型号为 SM8975，该...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnhe0721352.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnhe0721352.shtml"
+      ],
+      "publishedAt": "2026-09-05",
+      "date": "2026-09-05",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 175,
+      "reporterScore": 183,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "IT之家 9 月 5 日消息，NotebookCheck 今日发现，三星电子正在对 Galaxy S27 系列进行关键芯片验证测试。根据 NotebookCheck 提供的一份高通项目门户网站截图，三星正在测试的芯片型号为 SM8975，该...",
+      "relatedTitles": [
+        "三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布",
+      "summary": "IT之家 9 月 5 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（9 月 4 日）发布博文，爆料称苹果公司可能会在 2027 年推出家庭安防系统及配套监控服务。消息称苹果正设计一款家庭安防摄像头，主打隐私保护，不会直接记...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnha0562901.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnha0562901.shtml"
+      ],
+      "publishedAt": "2026-09-05",
+      "date": "2026-09-05",
+      "category": "监管与安全",
+      "classificationConfidence": 0.95,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "technology policy, AI governance, safety and standards",
+      "priority": 5,
+      "score": 165,
+      "reporterScore": 173,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 12,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "live",
+      "angle": "Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "监管与安全动态",
+      "rawText": "IT之家 9 月 5 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（9 月 4 日）发布博文，爆料称苹果公司可能会在 2027 年推出家庭安防系统及配套监控服务。消息称苹果正设计一款家庭安防摄像头，主打隐私保护，不会直接记...",
+      "relatedTitles": [
+        "主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲",
+      "summary": "IT之家 9 月 5 日消息，谷歌今天（9 月 5 日）发布公告，宣布在 Gemini 应用和 Gemini API 中上线最新音乐生成模型 Lyria 3.5，标志着谷歌音乐 AI 从内部实验工具（Google Flow Music）走向...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3825511.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3825511.shtml"
+      ],
+      "publishedAt": "2026-09-05",
+      "date": "2026-09-05",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 9 月 5 日消息，谷歌今天（9 月 5 日）发布公告，宣布在 Gemini 应用和 Gemini API 中上线最新音乐生成模型 Lyria 3.5，标志着谷歌音乐 AI 从内部实验工具（Google Flow Music）走向...",
+      "relatedTitles": [
+        "谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay",
+      "summary": "IT之家 9 月 5 日消息，Anthropic 现已为旗下 Claude iOS 应用加入苹果 CarPlay 支持，Claude 用户现在可以通过汽车的信息娱乐系统与 AI 助手进行语音对话，无需在驾驶过程中操作手机。IT之家注意到，苹...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3790369.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3790369.shtml"
+      ],
+      "publishedAt": "2026-09-05",
+      "date": "2026-09-05",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "IT之家 9 月 5 日消息，Anthropic 现已为旗下 Claude iOS 应用加入苹果 CarPlay 支持，Claude 用户现在可以通过汽车的信息娱乐系统与 AI 助手进行语音对话，无需在驾驶过程中操作手机。IT之家注意到，苹...",
+      "relatedTitles": [
+        "车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%",
@@ -973,25 +1361,25 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证",
-      "summary": "芯片型号为 SM8975，采用台积电第二代 2nm 工艺，搭载高通自研第三代 Oryon CPU，高通预计将于 9 月的骁龙峰会上正式推出这款芯片。#三星 Galaxy S27# #骁龙芯片#",
+      "title": "AMD 显卡首次跑通英伟达 DLSS 5：《赛博朋克 2077》游戏 1080P 帧率约 30FPS",
+      "summary": "科技媒体 TechPowerUp 今天（9 月 5 日）发布博文，报道称 MOD 开发者 Daniel Blanco 发布 DLSS-NR for AMD 工具，成功在 AMD 显卡上运行英伟达 DLSS 5，但现阶段性能表现不佳。",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/998/643.htm",
+      "url": "https://www.ithome.com/0/998/665.htm",
       "sourceUrls": [
-        "https://www.ithome.com/0/998/643.htm"
+        "https://www.ithome.com/0/998/665.htm"
       ],
-      "publishedAt": "Fri, 04 Sep 2026 23:36:58 GMT",
+      "publishedAt": "Sat, 05 Sep 2026 00:59:50 GMT",
       "date": "2026-09-05",
       "category": "芯片",
-      "classificationConfidence": 0.97,
+      "classificationConfidence": 0.95,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1000,74 +1388,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "hardTechPriority": 95,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 171,
-      "reporterScore": 179,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "芯片型号为 SM8975，采用台积电第二代 2nm 工艺，搭载高通自研第三代 Oryon CPU，高通预计将于 9 月的骁龙峰会上正式推出这款芯片。#三星 Galaxy S27# #骁龙芯片#",
-      "relatedTitles": [
-        "三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay",
-      "summary": "用户可通过车机与 Claude 进行语音免提 AI 对话，目前 ChatGPT 也已接入苹果 CarPlay 第三方 AI 支持。#AI车载# #Claude#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/998/629.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/998/629.htm"
-      ],
-      "publishedAt": "Fri, 04 Sep 2026 22:52:35 GMT",
-      "date": "2026-09-05",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
       "score": 159,
       "reporterScore": 167,
@@ -1101,13 +1421,13 @@ window.CHENCHEN_DAILY_DATA = {
       "hasInterviewValue": true,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay” against primary-source evidence.",
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “AMD 显卡首次跑通英伟达 DLSS 5：《赛博朋克 2077》游戏 1080P 帧率约 30FPS” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "用户可通过车机与 Claude 进行语音免提 AI 对话，目前 ChatGPT 也已接入苹果 CarPlay 第三方 AI 支持。#AI车载# #Claude#",
+      "matchedTopic": "芯片动态",
+      "rawText": "科技媒体 TechPowerUp 今天（9 月 5 日）发布博文，报道称 MOD 开发者 Daniel Blanco 发布 DLSS-NR for AMD 工具，成功在 AMD 显卡上运行英伟达 DLSS 5，但现阶段性能表现不佳。",
       "relatedTitles": [
-        "车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay"
+        "AMD 显卡首次跑通英伟达 DLSS 5：《赛博朋克 2077》游戏 1080P 帧率约 30FPS"
       ],
       "isNewSinceLastRun": true
     },
@@ -1248,74 +1568,6 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布",
-      "summary": "彭博社的马克 · 古尔曼（Mark Gurman）昨日（9 月 4 日）发布博文，爆料称苹果公司可能会在 2027 年推出家庭安防系统及配套监控服务。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/0/998/631.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/0/998/631.htm"
-      ],
-      "publishedAt": "Fri, 04 Sep 2026 22:58:33 GMT",
-      "date": "2026-09-05",
-      "category": "监管与安全",
-      "classificationConfidence": 0.7,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "technology policy, AI governance, safety and standards",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 159,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 12,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 12,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "live",
-      "angle": "Explain the rule, the implementation mechanism and the consequences for technology policy, AI governance, safety and standards, rather than repeating official language. For this item, test the claim behind “主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "监管与安全动态",
-      "rawText": "彭博社的马克 · 古尔曼（Mark Gurman）昨日（9 月 4 日）发布博文，爆料称苹果公司可能会在 2027 年推出家庭安防系统及配套监控服务。",
-      "relatedTitles": [
-        "主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "中国版SpaceX！阿里入局千帆星座：正式登记为恒信卫星股东",
       "summary": "快科技9月5日消息，近日，上海垣信卫星科技完成工商变更，杭州阿里创业投资成为新增股东，阿里巴巴正式入局低轨巨型星座“千帆星座”，上汽集团金控同步入股。垣信卫星是千帆星座的建设运营主体，2018年成立。据此前公布的融资计划显示，募集所得资金将...",
@@ -1450,74 +1702,6 @@ window.CHENCHEN_DAILY_DATA = {
         "长城H10换了个马甲 魏牌豪华硬派方盒子SUV官图正式发布"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%",
-      "summary": "汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%,阿联酋,特斯拉,保时捷,汽车早报,理想l9,广汽集团,新能源乘用车",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L6245H0Q0534A4SC.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L6245H0Q0534A4SC.html"
-      ],
-      "publishedAt": "2026-09-05",
-      "date": "2026-09-05",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%,阿联酋,特斯拉,保时捷,汽车早报,理想l9,广汽集团,新能源乘用车",
-      "relatedTitles": [
-        "汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1856,6 +2040,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "蔚来跑赢行业，为何还是没跑赢预期？,李斌,虎嗅,丰田,秦力洪,比亚迪,电动汽车,蔚来333电动方程式车队",
       "relatedTitles": [
         "蔚来跑赢行业，为何还是没跑赢预期？"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%",
+      "summary": "汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%,阿联酋,特斯拉,保时捷,汽车早报,理想l9,广汽集团,新能源乘用车",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L6245H0Q0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L6245H0Q0534A4SC.html"
+      ],
+      "publishedAt": "2026-09-05",
+      "date": "2026-09-05",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%,阿联酋,特斯拉,保时捷,汽车早报,理想l9,广汽集团,新能源乘用车",
+      "relatedTitles": [
+        "汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%"
       ],
       "isNewSinceLastRun": false
     }
@@ -2802,7 +3054,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "ScienceDiscovery ScienceDiscovery实现树搜索驱动RSI",
-      "summary": "ScienceDiscovery ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律 不训练模型、不调参数 邓思邈 5分钟前 openJiuwen ScienceDiscovery 科研 热门文章 《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”",
+      "summary": "ScienceDiscovery ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律 不训练模型、不调参数 邓思邈 2分钟前 openJiuwen ScienceDiscovery 科研 热门文章 《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2861,7 +3113,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “ScienceDiscovery ScienceDiscovery实现树搜索驱动RSI” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "科学前沿动态",
-      "rawText": "ScienceDiscovery ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律 不训练模型、不调参数 邓思邈 5分钟前 openJiuwen ScienceDiscovery 科研 热门文章 《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板 去年归国的徐梦迪，成了清华姚班班主任 我的自媒体搭子太能卷，一顿饭功夫17份成品 AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑 刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+      "rawText": "ScienceDiscovery ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律 不训练模型、不调参数 邓思邈 2分钟前 openJiuwen ScienceDiscovery 科研 热门文章 《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板 去年归国的徐梦迪，成了清华姚班班主任 我的自媒体搭子太能卷，一顿饭功夫17份成品 AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑 刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
       "relatedTitles": [
         "ScienceDiscovery ScienceDiscovery实现树搜索驱动RSI"
       ]
@@ -3745,8 +3997,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-05｜V3\n生成时间：2026/9/5 08:51:39\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2571｜确认今日 14｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 9 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-05] 科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%\n   新浪科技｜2026-09-05｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtsqa0598630.shtml\n   报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%” against primary-source evidence.\n\n2. [23:36] 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证\n   IT之家｜2026-09-05｜https://www.ithome.com/0/998/643.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证” against primary-source evidence.\n\n3. [22:52] 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay\n   IT之家｜2026-09-05｜https://www.ithome.com/0/998/629.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay” against primary-source evidence.\n\n4. [2026-09-05] 2026世界动力电池大会｜“现在是硬推着往前走”：全固态电池量产\n   网易科技｜2026-09-05｜https://www.163.com/dy/article/L6173J890512B07B.html\n   报道角度：Move beyond launch coverage by testing battery innovation and infrastructure, cost, reliability and consumer value. For this item, test the claim behind “2026世界动力电池大会｜“现在是硬推着往前走”：全固态电池量产” against primary-source evidence.\n\n5. [2026-09-05] 首次实现量产落地应用！字节新一代豆包手机采用长鑫科技LPDDR5X内存\n   网易科技｜2026-09-05｜https://www.163.com/dy/article/L6176IEP0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “首次实现量产落地应用！字节新一代豆包手机采用长鑫科技LPDDR5X内存” against primary-source evidence.\n\n本次新增线索：\n- 科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtsqa0598630.shtml\n- 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证｜IT之家｜https://www.ithome.com/0/998/643.htm\n- 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay｜IT之家｜https://www.ithome.com/0/998/629.htm\n- 主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布｜IT之家｜https://www.ithome.com/0/998/631.htm\n- 汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%｜网易科技｜https://www.163.com/dy/article/L6245H0Q0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit｜WIRED Business｜https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/\n2. Anthropic's distillation battle turns to the dark web as China concerns swell｜CNBC Technology｜https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html\n3. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n4. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n5. The Cybercab is Tesla’s ‘fork in the road’ moment｜TechCrunch｜https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-05｜V3\n生成时间：2026/9/5 08:51:39\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2571｜确认今日 14｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 9 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-05] 科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%\n   新浪科技｜2026-09-05｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtsqa0598630.shtml\n   报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%” against primary-source evidence.\n\n2. [23:36] 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证\n   IT之家｜2026-09-05｜https://www.ithome.com/0/998/643.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证” against primary-source evidence.\n\n3. [22:52] 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay\n   IT之家｜2026-09-05｜https://www.ithome.com/0/998/629.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay” against primary-source evidence.\n\n4. [2026-09-05] 2026世界动力电池大会｜“现在是硬推着往前走”：全固态电池量产\n   网易科技｜2026-09-05｜https://www.163.com/dy/article/L6173J890512B07B.html\n   报道角度：Move beyond launch coverage by testing battery innovation and infrastructure, cost, reliability and consumer value. For this item, test the claim behind “2026世界动力电池大会｜“现在是硬推着往前走”：全固态电池量产” against primary-source evidence.\n\n5. [2026-09-05] 首次实现量产落地应用！字节新一代豆包手机采用长鑫科技LPDDR5X内存\n   网易科技｜2026-09-05｜https://www.163.com/dy/article/L6176IEP0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “首次实现量产落地应用！字节新一代豆包手机采用长鑫科技LPDDR5X内存” against primary-source evidence.\n\n本次新增线索：\n- 科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtsqa0598630.shtml\n- 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证｜IT之家｜https://www.ithome.com/0/998/643.htm\n- 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay｜IT之家｜https://www.ithome.com/0/998/629.htm\n- 主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布｜IT之家｜https://www.ithome.com/0/998/631.htm\n- 汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%｜网易科技｜https://www.163.com/dy/article/L6245H0Q0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit｜WIRED Business｜https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/\n2. Anthropic's distillation battle turns to the dark web as China concerns swell｜CNBC Technology｜https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html\n3. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n4. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n5. The Cybercab is Tesla’s ‘fork in the road’ moment｜TechCrunch｜https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-05｜生成时间：2026/9/5 08:51:39｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2571｜确认今日 14｜国际背景 19</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 5 条｜国际 0 条<br>延续跟踪线索：国内 9 条｜国际 19 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-05] 科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%</strong>\n      <span>新浪科技｜2026-09-05｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtsqa0598630.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [23:36] 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证</strong>\n      <span>IT之家｜2026-09-05｜<a href=\"https://www.ithome.com/0/998/643.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：179｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [22:52] 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay</strong>\n      <span>IT之家｜2026-09-05｜<a href=\"https://www.ithome.com/0/998/629.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-05] 2026世界动力电池大会｜“现在是硬推着往前走”：全固态电池量产</strong>\n      <span>网易科技｜2026-09-05｜<a href=\"https://www.163.com/dy/article/L6173J890512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing battery innovation and infrastructure, cost, reliability and consumer value. For this item, test the claim behind “2026世界动力电池大会｜“现在是硬推着往前走”：全固态电池量产” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-05] 首次实现量产落地应用！字节新一代豆包手机采用长鑫科技LPDDR5X内存</strong>\n      <span>网易科技｜2026-09-05｜<a href=\"https://www.163.com/dy/article/L6176IEP0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “首次实现量产落地应用！字节新一代豆包手机采用长鑫科技LPDDR5X内存” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit</strong>\n      <span>时间：Wed, 02 Sep 2026 18:41:02 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump Administration Sides With OpenAI in New York Times Copyright Lawsu” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Anthropic's distillation battle turns to the dark web as China concerns swell</strong>\n      <span>时间：Thu, 03 Sep 2026 11:45:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic's distillation battle turns to the dark web as China concerns ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI’s rogue agents keep escaping, with no formal process to investigate them</strong>\n      <span>时间：Fri, 04 Sep 2026 23:15:11 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI’s rogue agents keep escaping, with no formal process to investiga” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets</strong>\n      <span>时间：Fri, 04 Sep 2026 22:12:11 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AMD's Threadripper Halo is a local-AI workstation for researchers with d” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. The Cybercab is Tesla’s ‘fork in the road’ moment</strong>\n      <span>时间：Thu, 03 Sep 2026 19:42:48 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “The Cybercab is Tesla’s ‘fork in the road’ moment” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/5 08:51:39\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 9 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-05] 科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtsqa0598630.shtml\n   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%” against primary-source evidence.\n\n2. [23:36] 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证\n   来源：IT之家\n   链接：https://www.ithome.com/0/998/643.htm\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证” against primary-source evidence.\n\n3. [22:52] 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay\n   来源：IT之家\n   链接：https://www.ithome.com/0/998/629.htm\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay” against primary-source evidence.\n\n4. [2026-09-05] 2026世界动力电池大会｜“现在是硬推着往前走”：全固态电池量产\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L6173J890512B07B.html\n   角度：Move beyond launch coverage by testing battery innovation and infrastructure, cost, reliability and consumer value. For this item, test the claim behind “2026世界动力电池大会｜“现在是硬推着往前走”：全固态电池量产” against primary-source evidence.\n\n5. [2026-09-05] 首次实现量产落地应用！字节新一代豆包手机采用长鑫科技LPDDR5X内存\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L6176IEP0512B07B.html\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “首次实现量产落地应用！字节新一代豆包手机采用长鑫科技LPDDR5X内存” against primary-source evidence.\n\n本次新增线索：\n- 科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtsqa0598630.shtml\n- 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证｜IT之家｜https://www.ithome.com/0/998/643.htm\n- 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay｜IT之家｜https://www.ithome.com/0/998/629.htm\n- 主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布｜IT之家｜https://www.ithome.com/0/998/631.htm\n- 汽车早报｜理想L9正式于阿联酋上市 广汽8月销量同比下降6.71%｜网易科技｜https://www.163.com/dy/article/L6245H0Q0534A4SC.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（2 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit｜WIRED Business｜https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/\n2. Anthropic's distillation battle turns to the dark web as China concerns swell｜CNBC Technology｜https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html\n3. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n4. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n5. The Cybercab is Tesla’s ‘fork in the road’ moment｜TechCrunch｜https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-05｜V3\n生成时间：2026/9/5 09:04:29\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2577｜确认今日 17｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 11 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-05] 我国正式启动国际地月立方星座大科学计划\n   新浪科技｜2026-09-05｜https://finance.sina.com.cn/tech/discovery/2026-09-05/doc-iniqtnha0599061.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “我国正式启动国际地月立方星座大科学计划” against primary-source evidence.\n\n2. [2026-09-05] 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证\n   新浪科技｜2026-09-05｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnhe0721352.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证” against primary-source evidence.\n\n3. [2026-09-05] 主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布\n   新浪科技｜2026-09-05｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnha0562901.shtml\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布” against primary-source evidence.\n\n4. [2026-09-05] 谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲\n   新浪科技｜2026-09-05｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3825511.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲” against primary-source evidence.\n\n5. [2026-09-05] 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay\n   新浪科技｜2026-09-05｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3790369.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay” against primary-source evidence.\n\n本次新增线索：\n- 我国正式启动国际地月立方星座大科学计划｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-09-05/doc-iniqtnha0599061.shtml\n- 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnhe0721352.shtml\n- 主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnha0562901.shtml\n- 谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3825511.shtml\n- 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3790369.shtml\n\n今日热点方向：\n- AI 应用：AI动态（3 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit｜WIRED Business｜https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/\n2. Anthropic's distillation battle turns to the dark web as China concerns swell｜CNBC Technology｜https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html\n3. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n4. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n5. The Cybercab is Tesla’s ‘fork in the road’ moment｜TechCrunch｜https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-05｜V3\n生成时间：2026/9/5 09:04:29\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2577｜确认今日 17｜国际背景 19\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 11 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-05] 我国正式启动国际地月立方星座大科学计划\n   新浪科技｜2026-09-05｜https://finance.sina.com.cn/tech/discovery/2026-09-05/doc-iniqtnha0599061.shtml\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “我国正式启动国际地月立方星座大科学计划” against primary-source evidence.\n\n2. [2026-09-05] 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证\n   新浪科技｜2026-09-05｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnhe0721352.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证” against primary-source evidence.\n\n3. [2026-09-05] 主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布\n   新浪科技｜2026-09-05｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnha0562901.shtml\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布” against primary-source evidence.\n\n4. [2026-09-05] 谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲\n   新浪科技｜2026-09-05｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3825511.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲” against primary-source evidence.\n\n5. [2026-09-05] 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay\n   新浪科技｜2026-09-05｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3790369.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay” against primary-source evidence.\n\n本次新增线索：\n- 我国正式启动国际地月立方星座大科学计划｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-09-05/doc-iniqtnha0599061.shtml\n- 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnhe0721352.shtml\n- 主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnha0562901.shtml\n- 谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3825511.shtml\n- 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3790369.shtml\n\n今日热点方向：\n- AI 应用：AI动态（3 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit｜WIRED Business｜https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/\n2. Anthropic's distillation battle turns to the dark web as China concerns swell｜CNBC Technology｜https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html\n3. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n4. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n5. The Cybercab is Tesla’s ‘fork in the road’ moment｜TechCrunch｜https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-05｜生成时间：2026/9/5 09:04:29｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2577｜确认今日 17｜国际背景 19</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 0 条<br>延续跟踪线索：国内 11 条｜国际 19 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-05] 我国正式启动国际地月立方星座大科学计划</strong>\n      <span>新浪科技｜2026-09-05｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-09-05/doc-iniqtnha0599061.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “我国正式启动国际地月立方星座大科学计划” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-05] 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证</strong>\n      <span>新浪科技｜2026-09-05｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnhe0721352.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-05] 主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布</strong>\n      <span>新浪科技｜2026-09-05｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnha0562901.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：173｜需核验来源</span>\n      <p>报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-05] 谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲</strong>\n      <span>新浪科技｜2026-09-05｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3825511.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-05] 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay</strong>\n      <span>新浪科技｜2026-09-05｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3790369.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit</strong>\n      <span>时间：Wed, 02 Sep 2026 18:41:02 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump Administration Sides With OpenAI in New York Times Copyright Lawsu” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Anthropic's distillation battle turns to the dark web as China concerns swell</strong>\n      <span>时间：Thu, 03 Sep 2026 11:45:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic's distillation battle turns to the dark web as China concerns ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI’s rogue agents keep escaping, with no formal process to investigate them</strong>\n      <span>时间：Fri, 04 Sep 2026 23:15:11 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI’s rogue agents keep escaping, with no formal process to investiga” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets</strong>\n      <span>时间：Fri, 04 Sep 2026 22:12:11 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AMD's Threadripper Halo is a local-AI workstation for researchers with d” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. The Cybercab is Tesla’s ‘fork in the road’ moment</strong>\n      <span>时间：Thu, 03 Sep 2026 19:42:48 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “The Cybercab is Tesla’s ‘fork in the road’ moment” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/5 09:04:29\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 11 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-05] 我国正式启动国际地月立方星座大科学计划\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-09-05/doc-iniqtnha0599061.shtml\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “我国正式启动国际地月立方星座大科学计划” against primary-source evidence.\n\n2. [2026-09-05] 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnhe0721352.shtml\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证” against primary-source evidence.\n\n3. [2026-09-05] 主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnha0562901.shtml\n   角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布” against primary-source evidence.\n\n4. [2026-09-05] 谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3825511.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲” against primary-source evidence.\n\n5. [2026-09-05] 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3790369.shtml\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay” against primary-source evidence.\n\n本次新增线索：\n- 我国正式启动国际地月立方星座大科学计划｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-09-05/doc-iniqtnha0599061.shtml\n- 三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnhe0721352.shtml\n- 主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnha0562901.shtml\n- 谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3825511.shtml\n- 车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniqtnfy3790369.shtml\n\n今日热点方向：\n- AI 应用：AI动态（3 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit｜WIRED Business｜https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/\n2. Anthropic's distillation battle turns to the dark web as China concerns swell｜CNBC Technology｜https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html\n3. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n4. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n5. The Cybercab is Tesla’s ‘fork in the road’ moment｜TechCrunch｜https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
