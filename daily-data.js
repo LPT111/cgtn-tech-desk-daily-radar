@@ -1,34 +1,13 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-09-06T00:50:35.577Z",
+  "generatedAt": "2026-09-06T01:03:55.582Z",
   "radarVersion": "v3",
   "targetDate": "2026-09-06",
   "changeSummary": {
-    "domesticNew": 4,
+    "domesticNew": 0,
     "globalNew": 0,
-    "domesticContinued": 8,
-    "globalContinued": 16,
-    "topNewDomestic": [
-      {
-        "title": "特斯拉Robotaxi下月或实现全天候运营",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml"
-      },
-      {
-        "title": "风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html"
-      },
-      {
-        "title": "真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml"
-      },
-      {
-        "title": "九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/0/998/869.htm"
-      }
-    ],
+    "domesticContinued": 12,
+    "globalContinued": 15,
+    "topNewDomestic": [],
     "topNewGlobal": [],
     "hasPrevious": true
   },
@@ -37,7 +16,7 @@ window.CHENCHEN_DAILY_DATA = {
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
     "domesticRejected": 888,
-    "globalRejected": 884,
+    "globalRejected": 885,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -350,10 +329,10 @@ window.CHENCHEN_DAILY_DATA = {
   "itemsSeen": 1367,
   "itemsAfterEnrich": 900,
   "itemsAfterRelevantFilter": 289,
-  "itemsAfterDedupe": 227,
+  "itemsAfterDedupe": 226,
   "todayItemsSeen": 12,
-  "suspectedItemsSeen": 20,
-  "skippedNonToday": 194,
+  "suspectedItemsSeen": 21,
+  "skippedNonToday": 192,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -945,7 +924,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉Robotaxi下月或实现全天候运营"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1013,75 +992,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营",
-      "summary": "快科技9月6日消息，特斯拉AI负责人Ashok Elluswamy在X平台的最新表态，特斯拉Robotaxi自动驾驶无人出租车距离实现24小时全天候运营已仅一步之遥。Elluswamy此次发声源于一位网友在X上的提问，该网友希望能乘坐Cyb...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml"
-      ],
-      "publishedAt": "2026-09-06",
-      "date": "2026-09-06",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 161,
-      "reporterScore": 175,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 118
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "快科技9月6日消息，特斯拉AI负责人Ashok Elluswamy在X平台的最新表态，特斯拉Robotaxi自动驾驶无人出租车距离实现24小时全天候运营已仅一步之遥。Elluswamy此次发声源于一位网友在X上的提问，该网友希望能乘坐Cyb...",
-      "relatedTitles": [
-        "真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1284,6 +1195,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "金秋九月，第三十三届中国北京种业大会于9月4日至5日在京举办，紧扣“AI赋能智慧育种 数智引领种业未来”主题，首次以智慧育种为主线，汇集国内外138家科研院所、种业企业等的600多项前沿技术成果。会上展出的生物育种智慧实验室系统单平台日通量超5000份，多台并行年检测能力超500万份，检测周期缩至3至5天；“金种子智能育种平台”累计支撑400多个优质品种选育，节本增效超5亿元；首发的人形具身智能育种机器人“吉儿”2.0可精准完成授粉作业，数智技术正推动育种向精准高效智能化发展。(AI生成)",
       "relatedTitles": [
         "当育种遇上AI：种业有了“显微镜”和“智慧脑”"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营",
+      "summary": "快科技9月6日消息，特斯拉AI负责人Ashok Elluswamy在X平台的最新表态，特斯拉Robotaxi自动驾驶无人出租车距离实现24小时全天候运营已仅一步之遥。Elluswamy此次发声源于一位网友在X上的提问，该网友希望能乘坐Cyb...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml"
+      ],
+      "publishedAt": "2026-09-06",
+      "date": "2026-09-06",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 175,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "快科技9月6日消息，特斯拉AI负责人Ashok Elluswamy在X平台的最新表态，特斯拉Robotaxi自动驾驶无人出租车距离实现24小时全天候运营已仅一步之遥。Elluswamy此次发声源于一位网友在X上的提问，该网友希望能乘坐Cyb...",
+      "relatedTitles": [
+        "真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营"
       ],
       "isNewSinceLastRun": false
     },
@@ -1693,7 +1672,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -1896,6 +1875,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "►文观察者网心智观察所四十多年前，时值冷战，里根提出了著名的战略防御倡议，这套在太空中拦截来袭核导弹的防御构想，被媒体冠以“星球大战”之名，为冷战的军备竞赛蒙上了一层科幻色彩。卫星猎手轨道上的追捕游戏2026年9月2日，路透社发布了一篇调查报道，表示中美正在为未来可能爆发的太空冲突加紧准备。美国太空军高级将领近年来反复强调一个观点潜在的对手可能在冲突初期就试图攻击美国的太空资产，从而削弱美国在地面的整体军事能力",
       "relatedTitles": [
         "星球大战2.0来了？中美卫星逐鹿太空"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "GPT-Image-2.5",
+      "summary": "GPT-Image-2.5 新版GPT Image 2.5已经能伪造GPT-6发布会了 改进GPT Image 2的噪点问题 闻乐 3分钟前 GPT-Image-2.5 OpenAI 热门文章 Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了 智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/gpt-image-2-5",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/gpt-image-2-5"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.69,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 146,
+      "reporterScore": 168,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “GPT-Image-2.5” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "GPT-Image-2.5 新版GPT Image 2.5已经能伪造GPT-6发布会了 改进GPT Image 2的噪点问题 闻乐 3分钟前 GPT-Image-2.5 OpenAI 热门文章 Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了 智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持 《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板 e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛 去年归国的徐梦迪，成了清华姚班班主任",
+      "relatedTitles": [
+        "GPT-Image-2.5"
       ]
     },
     {
@@ -3073,38 +3119,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
-      "summary": "AI workstation promises to put up to 576 GB of HBM3e and 16 TB/s of memory bandwidth on your desk",
-      "source": "The Register",
-      "url": "https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616",
-      "publishedAt": "Fri, 04 Sep 2026 22:12:11 +0200",
-      "date": "2026-09-04",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.65,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AMD's Threadripper Halo is a local-AI workstation for researchers with d” against primary-source evidence.",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 160,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI says it will change how it informs the public when its AI agents go off the rails",
       "summary": "OpenAI says it needs better standards for disclosing rogue AI incidents after its agents hijacked an old German wiki.",
       "source": "Yahoo News Technology",
@@ -3552,8 +3566,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-06｜V3\n生成时间：2026/9/6 08:50:35\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2585｜确认今日 12｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-06] 特斯拉Robotaxi下月或实现全天候运营\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.\n\n2. [2026-09-06] 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑\n   科技日报｜2026-09-06｜https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.\n\n3. [2026-09-06] 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\n   报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营” against primary-source evidence.\n\n4. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.\n\n5. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛\n   新浪科技｜2026-09-06｜https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉Robotaxi下月或实现全天候运营｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n- 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n- 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\n- 九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元｜IT之家｜https://www.ithome.com/0/998/869.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n2. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n3. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n4. Tesla Cybercabs are under federal investigation a day after Austin launch｜Yahoo News Technology｜https://tech.yahoo.com/transportation/article/tesla-cybercabs-are-under-federal-investigation-a-day-after-austin-launch-143503214.html\n5. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-06｜V3\n生成时间：2026/9/6 08:50:35\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2585｜确认今日 12｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-06] 特斯拉Robotaxi下月或实现全天候运营\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.\n\n2. [2026-09-06] 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑\n   科技日报｜2026-09-06｜https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.\n\n3. [2026-09-06] 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\n   报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营” against primary-source evidence.\n\n4. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.\n\n5. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛\n   新浪科技｜2026-09-06｜https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉Robotaxi下月或实现全天候运营｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n- 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n- 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\n- 九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元｜IT之家｜https://www.ithome.com/0/998/869.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n2. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n3. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n4. Tesla Cybercabs are under federal investigation a day after Austin launch｜Yahoo News Technology｜https://tech.yahoo.com/transportation/article/tesla-cybercabs-are-under-federal-investigation-a-day-after-austin-launch-143503214.html\n5. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-06｜生成时间：2026/9/6 08:50:35｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2585｜确认今日 12｜国际背景 16</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 8 条｜国际 16 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-06] 特斯拉Robotaxi下月或实现全天候运营</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-06] 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑</strong>\n      <span>科技日报｜2026-09-06｜<a href=\"https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：187｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-06] 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：175｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI’s rogue agents keep escaping, with no formal process to investigate them</strong>\n      <span>时间：Fri, 04 Sep 2026 23:15:11 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI’s rogue agents keep escaping, with no formal process to investiga” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets</strong>\n      <span>时间：Fri, 04 Sep 2026 22:12:11 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AMD's Threadripper Halo is a local-AI workstation for researchers with d” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI says it will change how it informs the public when its AI agents go off the rails</strong>\n      <span>时间：2026-09-06｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI says it will change how it informs the public when its AI agents ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Tesla Cybercabs are under federal investigation a day after Austin launch</strong>\n      <span>时间：2026-09-04｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/transportation/article/tesla-cybercabs-are-under-federal-investigation-a-day-after-austin-launch-143503214.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla Cybercabs are under federal investigation a day after Austin launc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. What will Apple’s John Ternus era look like?</strong>\n      <span>时间：Fri, 04 Sep 2026 17:18:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “What will Apple’s John Ternus era look like?” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/6 08:50:35\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-06] 特斯拉Robotaxi下月或实现全天候运营\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.\n\n2. [2026-09-06] 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.\n\n3. [2026-09-06] 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\n   角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营” against primary-source evidence.\n\n4. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.\n\n5. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛\n   来源：新浪科技\n   链接：https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉Robotaxi下月或实现全天候运营｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n- 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n- 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\n- 九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元｜IT之家｜https://www.ithome.com/0/998/869.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n2. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n3. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n4. Tesla Cybercabs are under federal investigation a day after Austin launch｜Yahoo News Technology｜https://tech.yahoo.com/transportation/article/tesla-cybercabs-are-under-federal-investigation-a-day-after-austin-launch-143503214.html\n5. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-06｜V3\n生成时间：2026/9/6 09:03:55\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2585｜确认今日 12｜国际背景 15\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 15 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-09-06] 特斯拉Robotaxi下月或实现全天候运营\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.\n\n2. [2026-09-06] 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑\n   科技日报｜2026-09-06｜https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.\n\n3. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.\n\n4. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛\n   新浪科技｜2026-09-06｜https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.\n\n5. [2026-09-06] 当育种遇上AI：种业有了“显微镜”和“智慧脑”\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “当育种遇上AI：种业有了“显微镜”和“智慧脑”” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n2. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n3. Tesla Cybercabs are under federal investigation a day after Austin launch｜Yahoo News Technology｜https://tech.yahoo.com/transportation/article/tesla-cybercabs-are-under-federal-investigation-a-day-after-austin-launch-143503214.html\n4. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/\n5. No little kids allowed, and other new info about Tesla’s Cybercab｜TechCrunch｜https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-06｜V3\n生成时间：2026/9/6 09:03:55\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2585｜确认今日 12｜国际背景 15\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 15 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-09-06] 特斯拉Robotaxi下月或实现全天候运营\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.\n\n2. [2026-09-06] 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑\n   科技日报｜2026-09-06｜https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.\n\n3. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.\n\n4. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛\n   新浪科技｜2026-09-06｜https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.\n\n5. [2026-09-06] 当育种遇上AI：种业有了“显微镜”和“智慧脑”\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “当育种遇上AI：种业有了“显微镜”和“智慧脑”” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n2. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n3. Tesla Cybercabs are under federal investigation a day after Austin launch｜Yahoo News Technology｜https://tech.yahoo.com/transportation/article/tesla-cybercabs-are-under-federal-investigation-a-day-after-austin-launch-143503214.html\n4. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/\n5. No little kids allowed, and other new info about Tesla’s Cybercab｜TechCrunch｜https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-06｜生成时间：2026/9/6 09:03:55｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2585｜确认今日 12｜国际背景 15</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 0 条<br>延续跟踪线索：国内 12 条｜国际 15 条<br>本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-06] 特斯拉Robotaxi下月或实现全天候运营</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-06] 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑</strong>\n      <span>科技日报｜2026-09-06｜<a href=\"https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：187｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-06] 当育种遇上AI：种业有了“显微镜”和“智慧脑”</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “当育种遇上AI：种业有了“显微镜”和“智慧脑”” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI’s rogue agents keep escaping, with no formal process to investigate them</strong>\n      <span>时间：Fri, 04 Sep 2026 23:15:11 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI’s rogue agents keep escaping, with no formal process to investiga” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI says it will change how it informs the public when its AI agents go off the rails</strong>\n      <span>时间：2026-09-06｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI says it will change how it informs the public when its AI agents ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Tesla Cybercabs are under federal investigation a day after Austin launch</strong>\n      <span>时间：2026-09-04｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/transportation/article/tesla-cybercabs-are-under-federal-investigation-a-day-after-austin-launch-143503214.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla Cybercabs are under federal investigation a day after Austin launc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. What will Apple’s John Ternus era look like?</strong>\n      <span>时间：Fri, 04 Sep 2026 17:18:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “What will Apple’s John Ternus era look like?” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. No little kids allowed, and other new info about Tesla’s Cybercab</strong>\n      <span>时间：Fri, 04 Sep 2026 16:51:23 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “No little kids allowed, and other new info about Tesla’s Cybercab” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/6 09:03:55\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 15 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-09-06] 特斯拉Robotaxi下月或实现全天候运营\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.\n\n2. [2026-09-06] 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.\n\n3. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.\n\n4. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛\n   来源：新浪科技\n   链接：https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.\n\n5. [2026-09-06] 当育种遇上AI：种业有了“显微镜”和“智慧脑”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “当育种遇上AI：种业有了“显微镜”和“智慧脑”” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n2. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n3. Tesla Cybercabs are under federal investigation a day after Austin launch｜Yahoo News Technology｜https://tech.yahoo.com/transportation/article/tesla-cybercabs-are-under-federal-investigation-a-day-after-austin-launch-143503214.html\n4. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/\n5. No little kids allowed, and other new info about Tesla’s Cybercab｜TechCrunch｜https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
