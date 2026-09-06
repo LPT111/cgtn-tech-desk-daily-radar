@@ -1,68 +1,42 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-09-06T00:15:39.402Z",
+  "generatedAt": "2026-09-06T00:50:35.577Z",
   "radarVersion": "v3",
   "targetDate": "2026-09-06",
   "changeSummary": {
-    "domesticNew": 10,
-    "globalNew": 4,
-    "domesticContinued": 0,
-    "globalContinued": 12,
+    "domesticNew": 4,
+    "globalNew": 0,
+    "domesticContinued": 8,
+    "globalContinued": 16,
     "topNewDomestic": [
       {
-        "title": "特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营",
+        "title": "特斯拉Robotaxi下月或实现全天候运营",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniqvvnz9666870.shtml"
+        "url": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml"
       },
       {
-        "title": "特朗普力挺AI数据中心 加剧共和党中期选举落败风险",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml"
+        "title": "风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html"
       },
       {
-        "title": "德国商业火箭成功入轨，欧洲入局卫星发射竞赛",
+        "title": "真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营",
         "source": "新浪科技",
-        "url": "https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml"
       },
       {
-        "title": "当育种遇上AI：种业有了“显微镜”和“智慧脑”",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml"
-      },
-      {
-        "title": "汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpf0230418.shtml"
+        "title": "九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/0/998/869.htm"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "OpenAI says it will change how it informs the public when its AI agents go off the rails",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html"
-      },
-      {
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
-      },
-      {
-        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
-      },
-      {
-        "title": "OpenAI Responds After Report Exposed Another Incident In Which Its AI Agents Went Rogue",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-responds-report-exposed-another-211718504.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 890,
+    "domesticRejected": 888,
     "globalRejected": 884,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -375,11 +349,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "itemsSeen": 1367,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 291,
+  "itemsAfterRelevantFilter": 289,
   "itemsAfterDedupe": 227,
-  "todayItemsSeen": 10,
+  "todayItemsSeen": 12,
   "suspectedItemsSeen": 20,
-  "skippedNonToday": 196,
+  "skippedNonToday": 194,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -845,15 +819,29 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "新能源车与智能驾驶",
-      "count": 2,
+      "count": 3,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
         "IT之家"
       ],
       "items": [
-        "特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营",
+        "特斯拉Robotaxi下月或实现全天候运营",
+        "真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营",
         "“尊界销量暴跌 90%”登上热搜，但消息称 S800 过去 12 个月累销约 1.88 万辆同价位断层第一"
+      ]
+    },
+    {
+      "topic": "太空与低空动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "科技日报",
+        "新浪科技"
+      ],
+      "items": [
+        "风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑",
+        "德国商业火箭成功入轨，欧洲入局卫星发射竞赛"
       ]
     },
     {
@@ -868,17 +856,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "太空与低空动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "德国商业火箭成功入轨，欧洲入局卫星发射竞赛"
-      ]
-    },
-    {
       "topic": "人形机器人与具身智能",
       "count": 1,
       "sourceCount": 1,
@@ -890,30 +867,30 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "AI动态",
+      "topic": "芯片动态",
       "count": 1,
       "sourceCount": 1,
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
       "items": [
-        "极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存"
+        "九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元"
       ]
     }
   ],
   "leads": [
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营",
+      "title": "特斯拉Robotaxi下月或实现全天候运营",
       "summary": "9月6日消息，特斯拉AI负责人Ashok Elluswamy在社媒平台X透露，特斯拉Robotaxi自动驾驶无人出租车距离实现24小时全天候运营已不远，待v15计划中的下一项技术完成整合后，该运营模式预计于下个月左右上线。目前特斯拉Robotaxi服务已在美国实现每周7天运营，每日运营时段为6时至22时，覆盖奥斯汀、达",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniqvvnz9666870.shtml",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniqvvnz9666870.shtml"
+        "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml"
       ],
       "publishedAt": "2026-09-06",
       "date": "2026-09-06",
@@ -961,12 +938,148 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": true,
       "hasInternationalValue": true,
       "format": "video",
-      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营” against primary-source evidence.",
+      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "IT之家 9 月 6 日消息，特斯拉 AI 负责人 Ashok Elluswamy 本周表示，特斯拉 Robotaxi 自动驾驶无人出租车距离“实现 24 小时全天候运营”已经不远。针对一名希望在深夜使用 Cybercab 出行的用户，他在...",
+      "rawText": "9月6日消息，特斯拉AI负责人Ashok Elluswamy在社媒平台X透露，特斯拉Robotaxi自动驾驶无人出租车距离实现24小时全天候运营已不远，待v15计划中的下一项技术完成整合后，该运营模式预计于下个月左右上线。目前特斯拉Robotaxi服务已在美国实现每周7天运营，每日运营时段为6时至22时，覆盖奥斯汀、达拉斯、休斯敦、迈阿密、奥兰多和坦帕等城市。(AI生成)",
       "relatedTitles": [
-        "特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营"
+        "特斯拉Robotaxi下月或实现全天候运营"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑 2026-09-06 08:33:15 来源: 新华网 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html"
+      ],
+      "publishedAt": "2026-09-06",
+      "date": "2026-09-06",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 173,
+      "reporterScore": 187,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑 2026-09-06 08:33:15 来源: 新华网 点击数： 热点",
+      "relatedTitles": [
+        "风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营",
+      "summary": "快科技9月6日消息，特斯拉AI负责人Ashok Elluswamy在X平台的最新表态，特斯拉Robotaxi自动驾驶无人出租车距离实现24小时全天候运营已仅一步之遥。Elluswamy此次发声源于一位网友在X上的提问，该网友希望能乘坐Cyb...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml"
+      ],
+      "publishedAt": "2026-09-06",
+      "date": "2026-09-06",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 175,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "快科技9月6日消息，特斯拉AI负责人Ashok Elluswamy在X平台的最新表态，特斯拉Robotaxi自动驾驶无人出租车距离实现24小时全天候运营已仅一步之遥。Elluswamy此次发声源于一位网友在X上的提问，该网友希望能乘坐Cyb...",
+      "relatedTitles": [
+        "真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营"
       ],
       "isNewSinceLastRun": true
     },
@@ -1036,7 +1149,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特朗普力挺AI数据中心 加剧共和党中期选举落败风险"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1104,7 +1217,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "德国商业火箭成功入轨，欧洲入局卫星发射竞赛"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1172,7 +1285,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "当育种遇上AI：种业有了“显微镜”和“智慧脑”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1240,7 +1353,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1308,7 +1421,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "免费上门宽带提速千万警惕！联通反诈大模型揪出涉诈VOIP黑盒"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1376,7 +1489,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI智能体被曝“劫持”德国程序员网站 扎堆分享作弊技巧"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1444,75 +1557,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI 将建立全新框架，承诺未来将更加透明地披露 AI 智能体失控情况"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存",
-      "summary": "IT之家 9 月 5 日消息，据 Computerbase 报道，极摩客在 IFA 2026 上展出了极摩客 EVO-X5 Pro 迷你主机，搭载 AMD 锐龙 AI Max+ PRO 495 处理器（IT之家注：16 核心 32 线程，Z...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniquyin0092965.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniquyin0092965.shtml"
-      ],
-      "publishedAt": "2026-09-06",
-      "date": "2026-09-06",
-      "category": "AI",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "IT之家 9 月 5 日消息，据 Computerbase 报道，极摩客在 IFA 2026 上展出了极摩客 EVO-X5 Pro 迷你主机，搭载 AMD 锐龙 AI Max+ PRO 495 处理器（IT之家注：16 核心 32 线程，Z...",
-      "relatedTitles": [
-        "极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1579,6 +1624,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "#尊界销量暴跌 90%# 话题登上微博热搜。专注于新能源汽车营销和渠道的博主 @新渠道李霸天 分享，尊界 S800 去年 8 月开启规模交付，到今年 8 月刚好一年。今年 1-7 月累计销量：尊界 S800 约 7,348 辆，第二名迈巴赫 S 级 4,741 辆，领先 55%。过去 12 个月累计约 1.88 万辆，同价位断层第一。#尊界汽车#",
       "relatedTitles": [
         "“尊界销量暴跌 90%”登上热搜，但消息称 S800 过去 12 个月累销约 1.88 万辆同价位断层第一"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元",
+      "summary": "该散热器配备 5 根 6mm 热管，顶部搭载高清数显屏可监测 CPU 状态，兼容 Intel 与 AMD 多款平台，日常定价 299 元，首发价仅 249 元。#数码硬件# #散热器#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/0/998/869.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/0/998/869.htm"
+      ],
+      "publishedAt": "Sun, 06 Sep 2026 00:23:20 GMT",
+      "date": "2026-09-06",
+      "category": "芯片",
+      "classificationConfidence": 0.97,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 3,
+      "score": 106,
+      "reporterScore": 106,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": -35,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": true,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 75
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "该散热器配备 5 根 6mm 热管，顶部搭载高清数显屏可监测 CPU 状态，兼容 Intel 与 AMD 多款平台，日常定价 299 元，首发价仅 249 元。#数码硬件# #散热器#",
+      "relatedTitles": [
+        "九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元"
       ],
       "isNewSinceLastRun": true
     }
@@ -2257,7 +2370,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "中国AI激光灭蚊器走红海外：美国人争相购买，对抗疾疫",
-      "summary": "5/20250805165252273.png\" /> 科技新闻 查看更多 > 中国AI激光灭蚊器走红海外：美国人争相购买，对抗疾疫 2026-09-05 01:10:14",
+      "summary": "千百年来，人类与蚊子的战争从未停歇。而今天，我们终于迎来了大炮打蚊子的科幻时刻，这门大炮是AI驱动的精密激光系统。一家中国公司，用导弹防御级别的技术，搭配AI，炮轰蚊子",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2316,7 +2429,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “中国AI激光灭蚊器走红海外：美国人争相购买，对抗疾疫” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI动态",
-      "rawText": "5/20250805165252273.png\" /> 科技新闻 查看更多 > 中国AI激光灭蚊器走红海外：美国人争相购买，对抗疾疫 2026-09-05 01:10:14",
+      "rawText": "千百年来，人类与蚊子的战争从未停歇。而今天，我们终于迎来了大炮打蚊子的科幻时刻，这门大炮是AI驱动的精密激光系统。一家中国公司，用导弹防御级别的技术，搭配AI，炮轰蚊子",
       "relatedTitles": [
         "中国AI激光灭蚊器走红海外：美国人争相购买，对抗疾疫"
       ]
@@ -2928,38 +3041,6 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI says it will change how it informs the public when its AI agents go off the rails",
-      "summary": "OpenAI says it needs better standards for disclosing rogue AI incidents after its agents hijacked an old German wiki.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html",
-      "publishedAt": "2026-09-06",
-      "date": "2026-09-06",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI says it will change how it informs the public when its AI agents ” against primary-source evidence.",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 159,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
       "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their ow",
       "source": "TechCrunch",
@@ -3024,74 +3105,10 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "publishedAt": "Sat, 05 Sep 2026 22:49:55 +0000",
-      "date": "2026-09-05",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Seattle Times and Newsday are the latest publications to sue OpenAI and ” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "publishedAt": "Sat, 05 Sep 2026 18:05:27 +0000",
-      "date": "2026-09-05",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for ” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI Responds After Report Exposed Another Incident In Which Its AI Agents Went Rogue",
-      "summary": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
+      "title": "OpenAI says it will change how it informs the public when its AI agents go off the rails",
+      "summary": "OpenAI says it needs better standards for disclosing rogue AI incidents after its agents hijacked an old German wiki.",
       "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-responds-report-exposed-another-211718504.html",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html",
       "publishedAt": "2026-09-06",
       "date": "2026-09-06",
       "region": "US",
@@ -3101,22 +3118,22 @@ window.CHENCHEN_DAILY_DATA = {
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI Responds After Report Exposed Another Incident In Which Its AI Ag” against primary-source evidence.",
+      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI says it will change how it informs the public when its AI agents ” against primary-source evidence.",
       "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
+      "score": 151,
+      "reporterScore": 159,
       "reporterSignals": {
         "primary": false,
         "visual": false,
         "international": false,
-        "interview": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 110
+        "reporterScore": 120
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3280,6 +3297,70 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "publishedAt": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "date": "2026-09-05",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Seattle Times and Newsday are the latest publications to sue OpenAI and ” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "publishedAt": "Sat, 05 Sep 2026 18:05:27 +0000",
+      "date": "2026-09-05",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for ” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident",
       "summary": "Nvidia’s $12.9 billion Hugging Face deal could protect its open AI ecosystem, deepen ties with developers and keep the platform from rivals.",
       "source": "The Register",
@@ -3408,6 +3489,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI Responds After Report Exposed Another Incident In Which Its AI Agents Went Rogue",
+      "summary": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-responds-report-exposed-another-211718504.html",
+      "publishedAt": "2026-09-06",
+      "date": "2026-09-06",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI Responds After Report Exposed Another Incident In Which Its AI Ag” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
       "summary": "Tesla's long-awaited Cybercab update failed to dazzle investors.",
       "source": "CNBC Technology",
@@ -3439,8 +3552,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-06｜V3\n生成时间：2026/9/6 08:15:39\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2585｜确认今日 10｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 10 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-06] 特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniqvvnz9666870.shtml\n   报道角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营” against primary-source evidence.\n\n2. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.\n\n3. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛\n   新浪科技｜2026-09-06｜https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.\n\n4. [2026-09-06] 当育种遇上AI：种业有了“显微镜”和“智慧脑”\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “当育种遇上AI：种业有了“显微镜”和“智慧脑”” against primary-source evidence.\n\n5. [2026-09-06] 汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpf0230418.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniqvvnz9666870.shtml\n- 特朗普力挺AI数据中心 加剧共和党中期选举落败风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n- 德国商业火箭成功入轨，欧洲入局卫星发射竞赛｜新浪科技｜https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n- 当育种遇上AI：种业有了“显微镜”和“智慧脑”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml\n- 汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpf0230418.shtml\n- OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n2. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n3. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n4. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft｜TechCrunch｜https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/\n5. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure｜TechCrunch｜https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-06｜V3\n生成时间：2026/9/6 08:15:39\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2585｜确认今日 10｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 10 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-06] 特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniqvvnz9666870.shtml\n   报道角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营” against primary-source evidence.\n\n2. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.\n\n3. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛\n   新浪科技｜2026-09-06｜https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.\n\n4. [2026-09-06] 当育种遇上AI：种业有了“显微镜”和“智慧脑”\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml\n   报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “当育种遇上AI：种业有了“显微镜”和“智慧脑”” against primary-source evidence.\n\n5. [2026-09-06] 汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpf0230418.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniqvvnz9666870.shtml\n- 特朗普力挺AI数据中心 加剧共和党中期选举落败风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n- 德国商业火箭成功入轨，欧洲入局卫星发射竞赛｜新浪科技｜https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n- 当育种遇上AI：种业有了“显微镜”和“智慧脑”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml\n- 汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpf0230418.shtml\n- OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n2. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n3. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n4. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft｜TechCrunch｜https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/\n5. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure｜TechCrunch｜https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-06｜生成时间：2026/9/6 08:15:39｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2585｜确认今日 10｜国际背景 16</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 10 条｜国际 4 条<br>延续跟踪线索：国内 0 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-06] 特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniqvvnz9666870.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-06] 当育种遇上AI：种业有了“显微镜”和“智慧脑”</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “当育种遇上AI：种业有了“显微镜”和“智慧脑”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-06] 汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpf0230418.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI says it will change how it informs the public when its AI agents go off the rails</strong>\n      <span>时间：2026-09-06｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI says it will change how it informs the public when its AI agents ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI’s rogue agents keep escaping, with no formal process to investigate them</strong>\n      <span>时间：Fri, 04 Sep 2026 23:15:11 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI’s rogue agents keep escaping, with no formal process to investiga” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets</strong>\n      <span>时间：Fri, 04 Sep 2026 22:12:11 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AMD's Threadripper Halo is a local-AI workstation for researchers with d” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</strong>\n      <span>时间：Sat, 05 Sep 2026 22:49:55 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Seattle Times and Newsday are the latest publications to sue OpenAI and ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure</strong>\n      <span>时间：Sat, 05 Sep 2026 18:05:27 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/6 08:15:39\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 10 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-06] 特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniqvvnz9666870.shtml\n   角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营” against primary-source evidence.\n\n2. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.\n\n3. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛\n   来源：新浪科技\n   链接：https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.\n\n4. [2026-09-06] 当育种遇上AI：种业有了“显微镜”和“智慧脑”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml\n   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “当育种遇上AI：种业有了“显微镜”和“智慧脑”” against primary-source evidence.\n\n5. [2026-09-06] 汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpf0230418.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniqvvnz9666870.shtml\n- 特朗普力挺AI数据中心 加剧共和党中期选举落败风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n- 德国商业火箭成功入轨，欧洲入局卫星发射竞赛｜新浪科技｜https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n- 当育种遇上AI：种业有了“显微镜”和“智慧脑”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml\n- 汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpf0230418.shtml\n- OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n2. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n3. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n4. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft｜TechCrunch｜https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/\n5. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure｜TechCrunch｜https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-06｜V3\n生成时间：2026/9/6 08:50:35\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2585｜确认今日 12｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-06] 特斯拉Robotaxi下月或实现全天候运营\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.\n\n2. [2026-09-06] 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑\n   科技日报｜2026-09-06｜https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.\n\n3. [2026-09-06] 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\n   报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营” against primary-source evidence.\n\n4. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.\n\n5. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛\n   新浪科技｜2026-09-06｜https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉Robotaxi下月或实现全天候运营｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n- 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n- 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\n- 九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元｜IT之家｜https://www.ithome.com/0/998/869.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n2. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n3. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n4. Tesla Cybercabs are under federal investigation a day after Austin launch｜Yahoo News Technology｜https://tech.yahoo.com/transportation/article/tesla-cybercabs-are-under-federal-investigation-a-day-after-austin-launch-143503214.html\n5. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-06｜V3\n生成时间：2026/9/6 08:50:35\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2585｜确认今日 12｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-06] 特斯拉Robotaxi下月或实现全天候运营\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n   报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.\n\n2. [2026-09-06] 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑\n   科技日报｜2026-09-06｜https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n   报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.\n\n3. [2026-09-06] 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\n   报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营” against primary-source evidence.\n\n4. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险\n   新浪科技｜2026-09-06｜https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.\n\n5. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛\n   新浪科技｜2026-09-06｜https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n   报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉Robotaxi下月或实现全天候运营｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n- 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n- 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\n- 九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元｜IT之家｜https://www.ithome.com/0/998/869.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n2. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n3. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n4. Tesla Cybercabs are under federal investigation a day after Austin launch｜Yahoo News Technology｜https://tech.yahoo.com/transportation/article/tesla-cybercabs-are-under-federal-investigation-a-day-after-austin-launch-143503214.html\n5. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-06｜生成时间：2026/9/6 08:50:35｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2585｜确认今日 12｜国际背景 16</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 0 条<br>延续跟踪线索：国内 8 条｜国际 16 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-06] 特斯拉Robotaxi下月或实现全天候运营</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-06] 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑</strong>\n      <span>科技日报｜2026-09-06｜<a href=\"https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：187｜需核验来源</span>\n      <p>报道角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-06] 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：175｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛</strong>\n      <span>新浪科技｜2026-09-06｜<a href=\"https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI’s rogue agents keep escaping, with no formal process to investigate them</strong>\n      <span>时间：Fri, 04 Sep 2026 23:15:11 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI’s rogue agents keep escaping, with no formal process to investiga” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets</strong>\n      <span>时间：Fri, 04 Sep 2026 22:12:11 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AMD's Threadripper Halo is a local-AI workstation for researchers with d” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI says it will change how it informs the public when its AI agents go off the rails</strong>\n      <span>时间：2026-09-06｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI says it will change how it informs the public when its AI agents ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Tesla Cybercabs are under federal investigation a day after Austin launch</strong>\n      <span>时间：2026-09-04｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/transportation/article/tesla-cybercabs-are-under-federal-investigation-a-day-after-austin-launch-143503214.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Tesla Cybercabs are under federal investigation a day after Austin launc” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. What will Apple’s John Ternus era look like?</strong>\n      <span>时间：Fri, 04 Sep 2026 17:18:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “What will Apple’s John Ternus era look like?” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/6 08:50:35\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 0 条\n延续跟踪线索：国内 8 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-06] 特斯拉Robotaxi下月或实现全天候运营\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉Robotaxi下月或实现全天候运营” against primary-source evidence.\n\n2. [2026-09-06] 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑” against primary-source evidence.\n\n3. [2026-09-06] 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\n   角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营” against primary-source evidence.\n\n4. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.\n\n5. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛\n   来源：新浪科技\n   链接：https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html\n   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.\n\n本次新增线索：\n- 特斯拉Robotaxi下月或实现全天候运营｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvvpa4505973.shtml\n- 风云气象卫星驰援尼泊尔 为跨境灾害监测提供支撑｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/06/content_575946.html\n- 真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpa4517170.shtml\n- 九州风神上架冰立方 500 数显黑金刚版 G2 风冷散热器：5 根 6 mm 热管、3 年质保，首发价 249 元｜IT之家｜https://www.ithome.com/0/998/869.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，2 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/\n2. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616\n3. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html\n4. Tesla Cybercabs are under federal investigation a day after Austin launch｜Yahoo News Technology｜https://tech.yahoo.com/transportation/article/tesla-cybercabs-are-under-federal-investigation-a-day-after-austin-launch-143503214.html\n5. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
