@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/5 18:40:56
+生成时间：2026/9/6 08:15:39
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 1 条
-延续跟踪线索：国内 37 条｜国际 20 条
+新增核心线索：国内 10 条｜国际 4 条
+延续跟踪线索：国内 0 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-05] 普渡机器人全产品矩阵亮相IFA，PUDU D7欧洲首发
+1. [2026-09-06] 特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-09-05/doc-iniquimu0369094.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “普渡机器人全产品矩阵亮相IFA，PUDU D7欧洲首发” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniqvvnz9666870.shtml
+   角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营” against primary-source evidence.
 
-2. [2026-09-05] 阿布扎比G42考虑引入美国资本控股 保障AI芯片获取
+2. [2026-09-06] 特朗普力挺AI数据中心 加剧共和党中期选举落败风险
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtwvy5364999.shtml
-   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “阿布扎比G42考虑引入美国资本控股 保障AI芯片获取” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml
+   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “特朗普力挺AI数据中心 加剧共和党中期选举落败风险” against primary-source evidence.
 
-3. [2026-09-05] 远山智行发布国内首款轮足式导盲机器人，室外避障成功率不低于 96%
+3. [2026-09-06] 德国商业火箭成功入轨，欧洲入局卫星发射竞赛
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-05/doc-iniquimu0354189.shtml
-   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “远山智行发布国内首款轮足式导盲机器人，室外避障成功率不低于 96%” against primary-source evidence.
+   链接：https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html
+   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “德国商业火箭成功入轨，欧洲入局卫星发射竞赛” against primary-source evidence.
 
-4. [09:45] 广汽集团：2021 年广汽资本参投长鑫科技，前瞻布局终获回报
-   来源：IT之家
-   链接：https://www.ithome.com/0/998/788.htm
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “广汽集团：2021 年广汽资本参投长鑫科技，前瞻布局终获回报” against primary-source evidence.
-
-5. [2026-09-05] 追觅携百余款产品亮相IFA，爬楼机、服务机器人都来了
+4. [2026-09-06] 当育种遇上AI：种业有了“显微镜”和“智慧脑”
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-09-05/doc-iniquccu0438422.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “追觅携百余款产品亮相IFA，爬楼机、服务机器人都来了” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “当育种遇上AI：种业有了“显微镜”和“智慧脑”” against primary-source evidence.
+
+5. [2026-09-06] 汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpf0230418.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路” against primary-source evidence.
 
 本次新增线索：
-- 我国自主研发的危化防爆巡检无人机成功首飞 可毫秒级检测13种危险气体｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-05/doc-iniquptn3544779.shtml
-- 两家美国媒体起诉 OpenAI 和微软，指控其 AI 训练侵犯版权｜IT之家｜https://www.ithome.com/0/998/805.htm
-- ChatGPT 卷入校园枪击案，OpenAI 面临诉讼数量已超 50 起｜IT之家｜https://www.ithome.com/0/998/758.htm
-- TCL陪育机器人亮相IFA：造型呆萌，可自主移动、智能交互｜新浪科技｜https://finance.sina.com.cn/roll/2026-09-05/doc-iniqupts5094989.shtml
-- The 7 biggest tech stories of the last seven days — from IFA 2026 to OpenAI's GPT-6 breakthrough｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/7-biggest-tech-stories-last-083000630.html
+- 特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-06/doc-iniqvvnz9666870.shtml
+- 特朗普力挺AI数据中心 加剧共和党中期选举落败风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml
+- 德国商业火箭成功入轨，欧洲入局卫星发射竞赛｜新浪科技｜https://finance.sina.cn/7x24/2026-09-06/detail-iniqvrfi0334980.d.html
+- 当育种遇上AI：种业有了“显微镜”和“智慧脑”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfk7113801.shtml
+- 汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-06/doc-iniqvvpf0230418.shtml
+- OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（7 条，4 个来源）
-- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（7 条，4 个来源）
-- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- AI 应用：AI 应用与智能体（4 条，2 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：
 
 国际科技背景：
-1. Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit｜WIRED Business｜https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/
-2. Anthropic's distillation battle turns to the dark web as China concerns swell｜CNBC Technology｜https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html
-3. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/
-4. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616
-5. The 7 biggest tech stories of the last seven days — from IFA 2026 to OpenAI's GPT-6 breakthrough｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/7-biggest-tech-stories-last-083000630.html
+1. OpenAI says it will change how it informs the public when its AI agents go off the rails｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-change-informs-public-160959473.html
+2. OpenAI’s rogue agents keep escaping, with no formal process to investigate them｜TechCrunch｜https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/
+3. AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets｜The Register｜https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616
+4. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft｜TechCrunch｜https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
+5. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure｜TechCrunch｜https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
