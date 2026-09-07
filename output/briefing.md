@@ -3,20 +3,20 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/7 08:23:01
+生成时间：2026/9/7 08:54:32
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 18 条｜国际 5 条
-延续跟踪线索：国内 0 条｜国际 3 条
+新增核心线索：国内 8 条｜国际 1 条
+延续跟踪线索：国内 15 条｜国际 7 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-07] 刚刚，OpenAI最新内部数据公开！2028年实现全自动AI研究
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-07/doc-iniqxynh6411254.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “刚刚，OpenAI最新内部数据公开！2028年实现全自动AI研究” against primary-source evidence.
+1. [2026-09-07] 17亿块芯片的喜与忧-"28nm及以上成熟制程芯片的中国产能全球占比已接近30%
+   来源：新华网-科技
+   链接：http://www.news.cn/tech/20260907/e65b68892f5847e59cfbfd31078b6c83/c.html
+   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “17亿块芯片的喜与忧-"28nm及以上成熟制程芯片的中国产能全球占比已接近30%” against primary-source evidence.
 
 2. [2026-09-07] 解决20年数学难题！微软开源Argus用证据驱动1548小时自动研究
    来源：新浪科技
@@ -39,27 +39,27 @@ ChenChen 今日 Briefing｜V3
    角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “科技早报 | 苹果在英遭20亿英镑集体诉讼；爱仕” against primary-source evidence.
 
 本次新增线索：
-- 刚刚，OpenAI最新内部数据公开！2028年实现全自动AI研究｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-07/doc-iniqxynh6411254.shtml
-- 解决20年数学难题！微软开源Argus用证据驱动1548小时自动研究｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-07/doc-iniqxynh6410962.shtml
-- OpenAI智能体被曝“劫持”德国程序员社区网站；｜网易科技｜https://www.163.com/dy/article/L673S8II0512B07B.html
-- LG旗下机器人公司Bear Robotics寻求上市前融资 拟在纳斯达克上市｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxyne9666300.shtml
-- 科技早报 | 苹果在英遭20亿英镑集体诉讼；爱仕｜网易科技｜https://www.163.com/dy/article/L677BMND0534A4SC.html
-- OpenAI Says It Reached Its Goal Of Creating An Automated Research Intern｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/openai-says-reached-goal-creating-192652493.html
+- 17亿块芯片的喜与忧-"28nm及以上成熟制程芯片的中国产能全球占比已接近30%｜新华网-科技｜http://www.news.cn/tech/20260907/e65b68892f5847e59cfbfd31078b6c83/c.html
+- 补贴退坡 新能源汽车凭实力“霸榜”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqxpwk9766425.shtml
+- 汽车早报｜问界辟谣生产“预制车” 特斯拉Robotaxi下月或实现全天候运营｜网易科技｜https://www.163.com/dy/article/L678UVM30534A4SC.html
+- 福建一小区禁止新能源汽车进地库怕爆炸 专家吐槽是歧视：律师解读｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-07/doc-iniqyeua9567250.shtml
+- AI融资热潮下的投资人：“不迅速决策，机会就没有了”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-07/doc-iniqyeua9575498.shtml
+- ChatGPT Adds Live Google Drive File Editing for Subscribers｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-adds-live-google-drive-002400832.html
 
 今日热点方向：
-- AI 应用：AI动态（6 条，3 个来源）
+- AI 应用：AI动态（7 条，3 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
 - 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
 - 太空与低空经济：
 - 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
 1. OpenAI Says It Reached Its Goal Of Creating An Automated Research Intern｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/openai-says-reached-goal-creating-192652493.html
-2. Authors push back as publishers and agents make claims on Anthropic settlement｜TechCrunch｜https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/
-3. Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/nvidias-jensen-huang-says-agi-225932892.html
-4. OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences'｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/openais-chief-scientist-says-ai-192604602.html
-5. ‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace｜CNBC Technology｜https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html
+2. ChatGPT Adds Live Google Drive File Editing for Subscribers｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-adds-live-google-drive-002400832.html
+3. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/
+4. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft｜TechCrunch｜https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
+5. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure｜TechCrunch｜https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
