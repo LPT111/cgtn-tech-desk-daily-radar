@@ -3,63 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/7 08:54:32
+生成时间：2026/9/7 09:06:11
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 1 条
-延续跟踪线索：国内 15 条｜国际 7 条
+新增核心线索：国内 10 条｜国际 0 条
+延续跟踪线索：国内 19 条｜国际 8 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-07] 17亿块芯片的喜与忧-"28nm及以上成熟制程芯片的中国产能全球占比已接近30%
+1. [2026-09-07] 韩国综合指数大涨，芯片股延续涨势
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyeue6335527.shtml
+   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “韩国综合指数大涨，芯片股延续涨势” against primary-source evidence.
+
+2. [2026-09-07] 中国机器人在沙特LEAP科技展“圈粉”- 近日在沙特阿拉伯首都利雅得举行的2026年LEAP科技展上
+   来源：新华网-科技
+   链接：http://www.news.cn/tech/20260907/e8b6ec7f48fd4230bd0fa93ad77063c5/c.html
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “中国机器人在沙特LEAP科技展“圈粉”- 近日在沙特阿拉伯首都利雅得举行的2026年LEAP科技展上” against primary-source evidence.
+
+3. [2026-09-07] 高盛策略师料韩股还有80%上涨空间 看好记忆体荣景延续
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxynm0687771.shtml
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “高盛策略师料韩股还有80%上涨空间 看好记忆体荣景延续” against primary-source evidence.
+
+4. [2026-09-07] 17亿块芯片的喜与忧-"28nm及以上成熟制程芯片的中国产能全球占比已接近30%
    来源：新华网-科技
    链接：http://www.news.cn/tech/20260907/e65b68892f5847e59cfbfd31078b6c83/c.html
    角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “17亿块芯片的喜与忧-"28nm及以上成熟制程芯片的中国产能全球占比已接近30%” against primary-source evidence.
 
-2. [2026-09-07] 解决20年数学难题！微软开源Argus用证据驱动1548小时自动研究
+5. [2026-09-07] 让“智慧生活”更有温度 海尔交出AI战略全球答卷
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-07/doc-iniqxynh6410962.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “解决20年数学难题！微软开源Argus用证据驱动1548小时自动研究” against primary-source evidence.
-
-3. [2026-09-07] OpenAI智能体被曝“劫持”德国程序员社区网站；
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L673S8II0512B07B.html
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI智能体被曝“劫持”德国程序员社区网站；” against primary-source evidence.
-
-4. [2026-09-07] LG旗下机器人公司Bear Robotics寻求上市前融资 拟在纳斯达克上市
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxyne9666300.shtml
-   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “LG旗下机器人公司Bear Robotics寻求上市前融资 拟在纳斯达克上市” against primary-source evidence.
-
-5. [2026-09-07] 科技早报 | 苹果在英遭20亿英镑集体诉讼；爱仕
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L677BMND0534A4SC.html
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “科技早报 | 苹果在英遭20亿英镑集体诉讼；爱仕” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-07/doc-iniqyeua9596835.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “让“智慧生活”更有温度 海尔交出AI战略全球答卷” against primary-source evidence.
 
 本次新增线索：
-- 17亿块芯片的喜与忧-"28nm及以上成熟制程芯片的中国产能全球占比已接近30%｜新华网-科技｜http://www.news.cn/tech/20260907/e65b68892f5847e59cfbfd31078b6c83/c.html
-- 补贴退坡 新能源汽车凭实力“霸榜”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqxpwk9766425.shtml
-- 汽车早报｜问界辟谣生产“预制车” 特斯拉Robotaxi下月或实现全天候运营｜网易科技｜https://www.163.com/dy/article/L678UVM30534A4SC.html
-- 福建一小区禁止新能源汽车进地库怕爆炸 专家吐槽是歧视：律师解读｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-07/doc-iniqyeua9567250.shtml
-- AI融资热潮下的投资人：“不迅速决策，机会就没有了”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-07/doc-iniqyeua9575498.shtml
-- ChatGPT Adds Live Google Drive File Editing for Subscribers｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-adds-live-google-drive-002400832.html
+- 韩国综合指数大涨，芯片股延续涨势｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyeue6335527.shtml
+- 中国机器人在沙特LEAP科技展“圈粉”- 近日在沙特阿拉伯首都利雅得举行的2026年LEAP科技展上｜新华网-科技｜http://www.news.cn/tech/20260907/e8b6ec7f48fd4230bd0fa93ad77063c5/c.html
+- 让“智慧生活”更有温度 海尔交出AI战略全球答卷｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-07/doc-iniqyeua9596835.shtml
+- 科技早报｜苹果在英遭20亿英镑集体诉讼；爱仕达｜网易科技｜https://www.163.com/dy/article/L67A5FG80534A4SC.html
+- Asahi Linux 系统正式适配苹果 M3/M3 Pro/M3 Max 芯片｜IT之家｜https://www.ithome.com/0/999/050.htm
 
 今日热点方向：
-- AI 应用：AI动态（7 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
+- AI 应用：AI动态（9 条，3 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
 - 太空与低空经济：
 - 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
 1. OpenAI Says It Reached Its Goal Of Creating An Automated Research Intern｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/openai-says-reached-goal-creating-192652493.html
-2. ChatGPT Adds Live Google Drive File Editing for Subscribers｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-adds-live-google-drive-002400832.html
-3. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/
-4. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft｜TechCrunch｜https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
-5. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure｜TechCrunch｜https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/
+2. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/
+3. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft｜TechCrunch｜https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
+4. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure｜TechCrunch｜https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/
+5. Authors push back as publishers and agents make claims on Anthropic settlement｜TechCrunch｜https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
