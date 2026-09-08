@@ -3,63 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/7 20:41:29
+生成时间：2026/9/8 08:44:45
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 19 条｜国际 2 条
-延续跟踪线索：国内 47 条｜国际 7 条
+新增核心线索：国内 27 条｜国际 1 条
+延续跟踪线索：国内 0 条｜国际 3 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [11:19] 全球首款 6nm 3D 晶圆级堆叠先进封装，小米玄戒 O100 实现 330TPS 超高端侧推理速度
-   来源：IT之家
-   链接：https://www.ithome.com/0/999/436.htm
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “全球首款 6nm 3D 晶圆级堆叠先进封装，小米玄戒 O100 实现 330TPS 超高端侧推理速度” against primary-source evidence.
-
-2. [2026-09-07] 智象具身世界模型发布，登顶RoboColiseum子榜单
+1. [2026-09-08] 国产芯片再迎进阶，麒麟9050 Pro为华为展翼三折叠注入新动力
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqzhfv0193994.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “智象具身世界模型发布，登顶RoboColiseum子榜单” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-09-08/doc-iniraith9716013.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “国产芯片再迎进阶，麒麟9050 Pro为华为展翼三折叠注入新动力” against primary-source evidence.
 
-3. [2026-09-07] OpenAI同日发布两份文件：AI加速时代，安全正在掉队
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqykzy9566279.shtml
-   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI同日发布两份文件：AI加速时代，安全正在掉队” against primary-source evidence.
+2. [2026-09-08] 工信部提升低轨卫星互联网能力，实现全球范围内
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L69PS85Q0512B07B.html
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “工信部提升低轨卫星互联网能力，实现全球范围内” against primary-source evidence.
 
-4. [2026-09-07] 宇树突破技术瓶颈，首次实现人形机器人全自主格斗实时驱动
+3. [2026-09-08] 存储短缺持续恶化 三星、SK海力士内存库存不足10天供应量
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqzhfs6287133.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “宇树突破技术瓶颈，首次实现人形机器人全自主格斗实时驱动” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-08/doc-iniraita9291271.shtml
+   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “存储短缺持续恶化 三星、SK海力士内存库存不足10天供应量” against primary-source evidence.
 
-5. [2026-09-07] 最高法：诉讼参与人利用人工智能伪造证据，可根据情节轻重予以罚款、拘留，构成犯罪的依法追究刑责
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-07/doc-iniqzhfu5356672.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “最高法：诉讼参与人利用人工智能伪造证据，可根据情节轻重予以罚款、拘留，构成犯罪的依法追究刑责” against primary-source evidence.
+4. [2026-09-08] 最高法出台首部涉人工智能纠纷裁判规则；华为发
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L69M9V1T0512B07B.html
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最高法出台首部涉人工智能纠纷裁判规则；华为发” against primary-source evidence.
+
+5. [2026-09-08] 欧洲四大电信运营商据悉拟组建联盟，竞标卫星频
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L69N8O6H0534A4SC.html
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “欧洲四大电信运营商据悉拟组建联盟，竞标卫星频” against primary-source evidence.
 
 本次新增线索：
-- 全球首款 6nm 3D 晶圆级堆叠先进封装，小米玄戒 O100 实现 330TPS 超高端侧推理速度｜IT之家｜https://www.ithome.com/0/999/436.htm
-- 智象具身世界模型发布，登顶RoboColiseum子榜单｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqzhfv0193994.shtml
-- 最高法：诉讼参与人利用人工智能伪造证据，可根据情节轻重予以罚款、拘留，构成犯罪的依法追究刑责｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-07/doc-iniqzhfu5356672.shtml
-- 灵巧手量产前夜，高自由度产品为何“叫好不叫座｜网易科技｜https://www.163.com/dy/article/L68G7FL20512B07B.html
-- Iren首席执行官：AI算力供应可能永远无法满足需求｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqzhfv0196260.shtml
-- OpenAI's rebel agent swarm died young, but its chilling logs live on｜The Register｜https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446
+- 国产芯片再迎进阶，麒麟9050 Pro为华为展翼三折叠注入新动力｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-09-08/doc-iniraith9716013.shtml
+- 工信部提升低轨卫星互联网能力，实现全球范围内｜网易科技｜https://www.163.com/dy/article/L69PS85Q0512B07B.html
+- 存储短缺持续恶化 三星、SK海力士内存库存不足10天供应量｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-08/doc-iniraita9291271.shtml
+- 最高法出台首部涉人工智能纠纷裁判规则；华为发｜网易科技｜https://www.163.com/dy/article/L69M9V1T0512B07B.html
+- 欧洲四大电信运营商据悉拟组建联盟，竞标卫星频｜网易科技｜https://www.163.com/dy/article/L69N8O6H0534A4SC.html
+- OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-ai-agents-hijacked-german-193028131.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（15 条，4 个来源）
-- 芯片/半导体：半导体供应链（3 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（4 条，4 个来源）
-- 新能源车/智能驾驶：新能源车动态（11 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿动态（6 条，4 个来源）
+- AI 应用：AI 应用与智能体（5 条，2 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：机器人动态（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
+- 太空与低空经济：太空与低空动态（2 条，1 个来源）
+- 科学前沿：
 
 国际科技背景：
 1. OpenAI's rebel agent swarm died young, but its chilling logs live on｜The Register｜https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446
-2. OpenAI chief scientist warns no one is prepared for consequences of AI｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/openai-chief-scientist-warns-no-122211273.html
-3. What will Apple’s John Ternus era look like?｜TechCrunch｜https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/
-4. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft｜TechCrunch｜https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
-5. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure｜TechCrunch｜https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/
+2. OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-ai-agents-hijacked-german-193028131.html
+3. Authors push back as publishers and agents make claims on Anthropic settlement｜TechCrunch｜https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/
+4. ‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace｜CNBC Technology｜https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
