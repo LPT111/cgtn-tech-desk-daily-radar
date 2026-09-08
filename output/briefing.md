@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/8 08:44:45
+生成时间：2026/9/8 09:07:19
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 27 条｜国际 1 条
-延续跟踪线索：国内 0 条｜国际 3 条
+新增核心线索：国内 6 条｜国际 2 条
+延续跟踪线索：国内 25 条｜国际 2 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,47 +18,47 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-09-08/doc-iniraith9716013.shtml
    角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “国产芯片再迎进阶，麒麟9050 Pro为华为展翼三折叠注入新动力” against primary-source evidence.
 
-2. [2026-09-08] 工信部提升低轨卫星互联网能力，实现全球范围内
+2. [2026-09-08] 小鹏机器人生产线正式启用
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L69T071K0534A4SC.html
+   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “小鹏机器人生产线正式启用” against primary-source evidence.
+
+3. [2026-09-08] 工信部提升低轨卫星互联网能力，实现全球范围内
    来源：网易科技
    链接：https://www.163.com/dy/article/L69PS85Q0512B07B.html
    角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “工信部提升低轨卫星互联网能力，实现全球范围内” against primary-source evidence.
 
-3. [2026-09-08] 存储短缺持续恶化 三星、SK海力士内存库存不足10天供应量
+4. [2026-09-08] 存储短缺持续恶化 三星、SK海力士内存库存不足10天供应量
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-09-08/doc-iniraita9291271.shtml
    角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “存储短缺持续恶化 三星、SK海力士内存库存不足10天供应量” against primary-source evidence.
 
-4. [2026-09-08] 最高法出台首部涉人工智能纠纷裁判规则；华为发
+5. [2026-09-08] 最高法出台首部涉人工智能纠纷裁判规则；华为发
    来源：网易科技
    链接：https://www.163.com/dy/article/L69M9V1T0512B07B.html
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “最高法出台首部涉人工智能纠纷裁判规则；华为发” against primary-source evidence.
 
-5. [2026-09-08] 欧洲四大电信运营商据悉拟组建联盟，竞标卫星频
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L69N8O6H0534A4SC.html
-   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “欧洲四大电信运营商据悉拟组建联盟，竞标卫星频” against primary-source evidence.
-
 本次新增线索：
-- 国产芯片再迎进阶，麒麟9050 Pro为华为展翼三折叠注入新动力｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-09-08/doc-iniraith9716013.shtml
-- 工信部提升低轨卫星互联网能力，实现全球范围内｜网易科技｜https://www.163.com/dy/article/L69PS85Q0512B07B.html
-- 存储短缺持续恶化 三星、SK海力士内存库存不足10天供应量｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-08/doc-iniraita9291271.shtml
-- 最高法出台首部涉人工智能纠纷裁判规则；华为发｜网易科技｜https://www.163.com/dy/article/L69M9V1T0512B07B.html
-- 欧洲四大电信运营商据悉拟组建联盟，竞标卫星频｜网易科技｜https://www.163.com/dy/article/L69N8O6H0534A4SC.html
-- OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-ai-agents-hijacked-german-193028131.html
+- 小鹏机器人生产线正式启用｜网易科技｜https://www.163.com/dy/article/L69T071K0534A4SC.html
+- 用竹子做的无人机出现了：整机仅重7kg、平飞时速可达百公里！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-08/doc-iniraite6079991.shtml
+- 首发| 佳量脑科学连续完成C轮及D轮融资，推进侵入式脑机接口商业化与国际化｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-08/doc-iniraite6072817.shtml
+- 微信 WeMM-Embedding 多模态模型已在微信大规模使用：覆盖朋友圈搜索等，每天调用量 10 亿次｜IT之家｜https://www.ithome.com/0/999/527.htm
+- DeepSeek一口气扩招150人！0个AI研究岗｜新浪科技｜https://finance.sina.com.cn/tech/csj/2026-09-08/doc-iniraite6059201.shtml
+- Cathay Pacific, Google expand AI trials to cut climate-warming aircraft contrails｜Reuters Technology｜https://www.reuters.com/world/asia-pacific/cathay-pacific-google-expand-ai-trials-cut-climate-warming-aircraft-contrails-2026-09-07/
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（5 条，2 个来源）
+- AI 应用：AI 应用与智能体（6 条，3 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
 - 机器人/具身智能：机器人动态（2 条，1 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
 - 太空与低空经济：太空与低空动态（2 条，1 个来源）
-- 科学前沿：
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
-1. OpenAI's rebel agent swarm died young, but its chilling logs live on｜The Register｜https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446
-2. OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-ai-agents-hijacked-german-193028131.html
+1. Cathay Pacific, Google expand AI trials to cut climate-warming aircraft contrails｜Reuters Technology｜https://www.reuters.com/world/asia-pacific/cathay-pacific-google-expand-ai-trials-cut-climate-warming-aircraft-contrails-2026-09-07/
+2. OpenAI has sent EU incident report on hijacked German website, Commission says｜Reuters Technology｜https://www.reuters.com/business/openai-has-sent-eu-incident-report-hijacked-german-website-commission-says-2026-09-07/
 3. Authors push back as publishers and agents make claims on Anthropic settlement｜TechCrunch｜https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/
-4. ‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace｜CNBC Technology｜https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html
+4. OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-ai-agents-hijacked-german-193028131.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
