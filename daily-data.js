@@ -1,17 +1,27 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-09-10T01:00:22.329Z",
+  "generatedAt": "2026-09-10T01:10:04.174Z",
   "radarVersion": "v3",
   "targetDate": "2026-09-10",
   "changeSummary": {
-    "domesticNew": 1,
+    "domesticNew": 3,
     "globalNew": 0,
-    "domesticContinued": 21,
+    "domesticContinued": 22,
     "globalContinued": 26,
     "topNewDomestic": [
       {
-        "title": "米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判",
+        "title": "专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-09-10/doc-iniriaew8531658.shtml"
+      },
+      {
+        "title": "比亚迪：第二代刀片电池产线改造与扩产稳步推进",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L6F1P9JU0534A4SC.html"
+      },
+      {
+        "title": "ChatGPT Pro 要关车门了？DeepSeek 新模型今天上线，还降价了！",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-09-10/doc-inirhvxa5420249.shtml"
       }
     ],
     "topNewGlobal": [],
@@ -21,7 +31,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 878,
+    "domesticRejected": 875,
     "globalRejected": 874,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -36,7 +46,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 31,
   "failedSources": [
     {
       "name": "央视网-科技",
@@ -52,11 +62,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -79,11 +84,6 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -242,7 +242,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "央视新闻科技",
       "tier": "official",
-      "parsed": 1,
+      "parsed": 2,
       "failed": false,
       "optional": true
     },
@@ -308,9 +308,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -343,13 +342,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1489,
+  "itemsSeen": 1551,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 183,
-  "itemsAfterDedupe": 129,
-  "todayItemsSeen": 22,
+  "itemsAfterRelevantFilter": 189,
+  "itemsAfterDedupe": 136,
+  "todayItemsSeen": 25,
   "suspectedItemsSeen": 12,
-  "skippedNonToday": 94,
+  "skippedNonToday": 98,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -501,7 +500,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "央视新闻科技",
       "tier": "official",
-      "parsed": 1,
+      "parsed": 2,
       "failed": false,
       "optional": true
     },
@@ -567,9 +566,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -772,11 +770,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国务院政策文件",
       "error": "403 Forbidden",
       "optional": false
@@ -812,7 +805,7 @@ window.CHENCHEN_DAILY_DATA = {
   "topics": [
     {
       "topic": "AI 应用与智能体",
-      "count": 10,
+      "count": 11,
       "sourceCount": 4,
       "sources": [
         "新浪科技",
@@ -830,7 +823,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "topic": "AI动态",
-      "count": 4,
+      "count": 5,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
@@ -838,6 +831,7 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "探营2026外滩大会：AI开始有了真实的“体温”",
+        "专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1",
         "米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判",
         "京东发布企业AI全家桶JD JoyWork；阿里巴巴与顺",
         "苹果把iPhone折起来，顺手补交了AI答卷"
@@ -877,6 +871,17 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "深瞳丨中国机器人出海，热潮之下有隐忧"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "比亚迪：第二代刀片电池产线改造与扩产稳步推进"
       ]
     },
     {
@@ -1120,21 +1125,21 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判",
-      "summary": "IT之家 9 月 10 日消息，据《案件聚焦》节目公众号，近日，上海市浦东新区人民法院宣判了上海市首例涉 AI 声音仿冒不正当竞争纠纷案。米哈游公司于 2025 年发现，一款 AI 变声软件提供了《原神》63 款角色的声音资源包，供用户付费...",
+      "title": "专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1",
+      "summary": "快科技9月10日消息，近日全球化智库副主任高志凯在2026年9月举办的投洽会上抛出了极具冲击力的行业论断，美国当前越吹越大的AI泡沫将会在2027年7月之前正式破裂，甚至会进一步触发席卷全球范围的新一轮金融危机，而中国将有很大概率成为全球经...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-10/doc-iniriaew8531658.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-09-10/doc-iniriaew8531658.shtml"
       ],
       "publishedAt": "2026-09-10",
       "date": "2026-09-10",
       "category": "AI",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.65,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1144,8 +1149,8 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
+      "score": 164,
+      "reporterScore": 172,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
@@ -1153,11 +1158,11 @@ window.CHENCHEN_DAILY_DATA = {
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
-        "international": 0,
+        "international": 9,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -1165,24 +1170,24 @@ window.CHENCHEN_DAILY_DATA = {
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": false,
-        "interview": true,
+        "international": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
         "reporterScore": 120
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
+      "hasInterviewValue": false,
       "hasVisualValue": false,
-      "hasInternationalValue": false,
+      "hasInternationalValue": true,
       "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判” against primary-source evidence.",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI动态",
-      "rawText": "IT之家 9 月 10 日消息，据《案件聚焦》节目公众号，近日，上海市浦东新区人民法院宣判了上海市首例涉 AI 声音仿冒不正当竞争纠纷案。米哈游公司于 2025 年发现，一款 AI 变声软件提供了《原神》63 款角色的声音资源包，供用户付费...",
+      "rawText": "快科技9月10日消息，近日全球化智库副主任高志凯在2026年9月举办的投洽会上抛出了极具冲击力的行业论断，美国当前越吹越大的AI泡沫将会在2027年7月之前正式破裂，甚至会进一步触发席卷全球范围的新一轮金融危机，而中国将有很大概率成为全球经...",
       "relatedTitles": [
-        "米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判"
+        "专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1"
       ],
       "isNewSinceLastRun": true
     },
@@ -1324,6 +1329,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "比亚迪：第二代刀片电池产线改造与扩产稳步推进",
+      "summary": "比亚迪：第二代刀片电池产线改造与扩产稳步推进，闪充车型订单需求充足,刀片,比亚迪,闪充车型,电池产线",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L6F1P9JU0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L6F1P9JU0534A4SC.html"
+      ],
+      "publishedAt": "2026-09-10",
+      "date": "2026-09-10",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 165,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Report the industrial consequence of battery innovation and infrastructure: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪：第二代刀片电池产线改造与扩产稳步推进” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "比亚迪：第二代刀片电池产线改造与扩产稳步推进，闪充车型订单需求充足,刀片,比亚迪,闪充车型,电池产线",
+      "relatedTitles": [
+        "比亚迪：第二代刀片电池产线改造与扩产稳步推进"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "影响市场重大事件：北京加快发展商业航天产业，",
       "summary": "影响市场重大事件：北京加快发展商业航天产业，突破可重复使用火箭和大推力发动机技术；2026年第二季晶圆代工营收接近534.9亿美元，先进制程与AI需求持续强劲；广东韶关...,季晶,火箭,晶圆,发动机,韶关市,北京市,广东省,商业航天,广东韶关,航天产业,代工营收,先进制程",
       "source": "网易科技",
@@ -1455,6 +1528,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "9月10日凌晨，有用户在社交媒体上称在使用DeepSeek客户端时发现对话无法正常反馈。对话页面显示：达到对话长度上限，请开始新对话。但页面本身已是新对话窗口。 第一财经记者测试发现，DeepSeek客户端对话页面无法正常反馈。 ...",
       "relatedTitles": [
         "深夜，DeepSeek崩了"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判",
+      "summary": "IT之家 9 月 10 日消息，据《案件聚焦》节目公众号，近日，上海市浦东新区人民法院宣判了上海市首例涉 AI 声音仿冒不正当竞争纠纷案。米哈游公司于 2025 年发现，一款 AI 变声软件提供了《原神》63 款角色的声音资源包，供用户付费...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml"
+      ],
+      "publishedAt": "2026-09-10",
+      "date": "2026-09-10",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 9 月 10 日消息，据《案件聚焦》节目公众号，近日，上海市浦东新区人民法院宣判了上海市首例涉 AI 声音仿冒不正当竞争纠纷案。米哈游公司于 2025 年发现，一款 AI 变声软件提供了《原神》63 款角色的声音资源包，供用户付费...",
+      "relatedTitles": [
+        "米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判"
       ],
       "isNewSinceLastRun": false
     },
@@ -1933,6 +2074,74 @@ window.CHENCHEN_DAILY_DATA = {
         "OpenAI智能体被曝借十余站点秘密传信，公司对此"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "ChatGPT Pro 要关车门了？DeepSeek 新模型今天上线，还降价了！",
+      "summary": "（来源：AI信息Gap）GPT-6 Astra 上线六天，OpenAI 可能要暂停 ChatGPT Pro 新订阅了。重置哥 Tibo 凌晨发文，围观群众超过 480 万。「GPT-6 Astra 的需求量前所未有，虽然之前也经历过很猛的增...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-10/doc-inirhvxa5420249.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-09-10/doc-inirhvxa5420249.shtml"
+      ],
+      "publishedAt": "2026-09-10",
+      "date": "2026-09-10",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “ChatGPT Pro 要关车门了？DeepSeek 新模型今天上线，还降价了！” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "（来源：AI信息Gap）GPT-6 Astra 上线六天，OpenAI 可能要暂停 ChatGPT Pro 新订阅了。重置哥 Tibo 凌晨发文，围观群众超过 480 万。「GPT-6 Astra 的需求量前所未有，虽然之前也经历过很猛的增...",
+      "relatedTitles": [
+        "ChatGPT Pro 要关车门了？DeepSeek 新模型今天上线，还降价了！"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2682,6 +2891,73 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "美指责中国AI企业蒸馏美模型？商务部回应",
+      "summary": "商务部网站9月9日消息，商务部新闻发言人就美发布中国人工智能企业对美蒸馏活动相关网络安全公告答记者问。 问：",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/internation/2026_09_09_830633.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/internation/2026_09_09_830633.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.73,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 147,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美指责中国AI企业蒸馏美模型？商务部回应” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "商务部网站9月9日消息，商务部新闻发言人就美发布中国人工智能企业对美蒸馏活动相关网络安全公告答记者问。 问：",
+      "relatedTitles": [
+        "美指责中国AI企业蒸馏美模型？商务部回应"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "AI时代英语无用？不仅要学，还要学第二、第三外语",
       "summary": "因为会阿拉伯语，我在与当地人交往时，也经常能够感受更被重视和尊重的化学反应。语言在这里传递的信息已经超出了句子本身。它告诉对方：我愿意花很多年时间理解你的世界。这种尊重产生的信任，很难由AI替你完成。",
       "source": "观察者网-产业科技",
@@ -2946,73 +3222,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "对中国的政策制定者、投资人和产业界，有几件事值得说清楚。AI安全和对齐要做，要做得比别人扎实，但要做成能力，不要做成刹车片。把议题的定义权拿在自己手里，而不是接受别人定好的门槛去应试。",
       "relatedTitles": [
         "阅读 46954"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "商务部新闻发言人就美发布中国人工智能企业对美蒸馏活动相关网络安全公告答记者问",
-      "summary": "商务部新闻发言人就美发布中国人工智能企业对美蒸馏活动相关网络安全公告答记者问,中国,商务部,网络安全,人工智能企业",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L6DQLPAK0534A4SC.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L6DQLPAK0534A4SC.html"
-      ],
-      "publishedAt": "2026-09-09",
-      "date": "2026-09-09",
-      "category": "监管与安全",
-      "classificationConfidence": 0.7,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "technology policy, AI governance, safety and standards",
-      "priority": 4,
-      "score": 127,
-      "reporterScore": 135,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 0,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 12,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "live",
-      "angle": "Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “商务部新闻发言人就美发布中国人工智能企业对美蒸馏活动相关网络安全公告答记者问” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "监管与安全动态",
-      "rawText": "商务部新闻发言人就美发布中国人工智能企业对美蒸馏活动相关网络安全公告答记者问,中国,商务部,网络安全,人工智能企业",
-      "relatedTitles": [
-        "商务部新闻发言人就美发布中国人工智能企业对美蒸馏活动相关网络安全公告答记者问"
       ]
     },
     {
@@ -4051,8 +4260,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-10｜V3\n生成时间：2026/9/10 09:00:22\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2465｜确认今日 22｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 21 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-10] 探营2026外滩大会：AI开始有了真实的“体温”\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/roll/2026-09-10/doc-inirhezk5594042.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “探营2026外滩大会：AI开始有了真实的“体温”” against primary-source evidence.\n\n2. [2026-09-10] OpenAI ：推动实施全国强制性人工智能安全监管要求\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8593322.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI ：推动实施全国强制性人工智能安全监管要求” against primary-source evidence.\n\n3. [2026-09-10] 苹果发布A20Pro芯片\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezn3446448.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果发布A20Pro芯片” against primary-source evidence.\n\n4. [2026-09-10] 米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判” against primary-source evidence.\n\n5. [2026-09-10] 美国监管机构调查英伟达与 Groq 的授权协议\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8626359.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国监管机构调查英伟达与 Groq 的授权协议” against primary-source evidence.\n\n本次新增线索：\n- 米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（10 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack｜The Register｜https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124\n2. AI may have solved one of math’s biggest puzzles, raising controversy｜Science News｜https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai\n3. Samsung to help fortify OpenAI's semiconductor supply chain｜The Register｜https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374\n4. OpenAI adds a prominent AI doomer to its board of directors｜TechCrunch｜https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/\n5. Google research shows when AI agents communicate, some cheat while others tattle｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-10｜V3\n生成时间：2026/9/10 09:00:22\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2465｜确认今日 22｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 21 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-10] 探营2026外滩大会：AI开始有了真实的“体温”\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/roll/2026-09-10/doc-inirhezk5594042.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “探营2026外滩大会：AI开始有了真实的“体温”” against primary-source evidence.\n\n2. [2026-09-10] OpenAI ：推动实施全国强制性人工智能安全监管要求\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8593322.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI ：推动实施全国强制性人工智能安全监管要求” against primary-source evidence.\n\n3. [2026-09-10] 苹果发布A20Pro芯片\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezn3446448.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果发布A20Pro芯片” against primary-source evidence.\n\n4. [2026-09-10] 米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判” against primary-source evidence.\n\n5. [2026-09-10] 美国监管机构调查英伟达与 Groq 的授权协议\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8626359.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国监管机构调查英伟达与 Groq 的授权协议” against primary-source evidence.\n\n本次新增线索：\n- 米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（10 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack｜The Register｜https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124\n2. AI may have solved one of math’s biggest puzzles, raising controversy｜Science News｜https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai\n3. Samsung to help fortify OpenAI's semiconductor supply chain｜The Register｜https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374\n4. OpenAI adds a prominent AI doomer to its board of directors｜TechCrunch｜https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/\n5. Google research shows when AI agents communicate, some cheat while others tattle｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-10｜生成时间：2026/9/10 09:00:22｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2465｜确认今日 22｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 21 条｜国际 26 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-10] 探营2026外滩大会：AI开始有了真实的“体温”</strong>\n      <span>新浪科技｜2026-09-10｜<a href=\"https://finance.sina.com.cn/roll/2026-09-10/doc-inirhezk5594042.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “探营2026外滩大会：AI开始有了真实的“体温”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-10] OpenAI ：推动实施全国强制性人工智能安全监管要求</strong>\n      <span>新浪科技｜2026-09-10｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8593322.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI ：推动实施全国强制性人工智能安全监管要求” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-10] 苹果发布A20Pro芯片</strong>\n      <span>新浪科技｜2026-09-10｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezn3446448.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：192｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果发布A20Pro芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-10] 米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判</strong>\n      <span>新浪科技｜2026-09-10｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-10] 美国监管机构调查英伟达与 Groq 的授权协议</strong>\n      <span>新浪科技｜2026-09-10｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8626359.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：178｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国监管机构调查英伟达与 Groq 的授权协议” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack</strong>\n      <span>时间：Tue, 08 Sep 2026 23:12:19 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI's Artifactory opened covert data-stealing channel alongside Huggi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. AI may have solved one of math’s biggest puzzles, raising controversy</strong>\n      <span>时间：Wed, 09 Sep 2026 19:55:57 +0000｜来源：Science News｜<a href=\"https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI may have solved one of math’s biggest puzzles, raising controversy” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Samsung to help fortify OpenAI's semiconductor supply chain</strong>\n      <span>时间：Wed, 09 Sep 2026 22:18:35 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Samsung to help fortify OpenAI's semiconductor supply chain” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI adds a prominent AI doomer to its board of directors</strong>\n      <span>时间：Wed, 09 Sep 2026 22:25:22 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI adds a prominent AI doomer to its board of directors” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google research shows when AI agents communicate, some cheat while others tattle</strong>\n      <span>时间：Tue, 08 Sep 2026 20:59:14 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google research shows when AI agents communicate, some cheat while other” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/10 09:00:22\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 21 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-10] 探营2026外滩大会：AI开始有了真实的“体温”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-09-10/doc-inirhezk5594042.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “探营2026外滩大会：AI开始有了真实的“体温”” against primary-source evidence.\n\n2. [2026-09-10] OpenAI ：推动实施全国强制性人工智能安全监管要求\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8593322.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI ：推动实施全国强制性人工智能安全监管要求” against primary-source evidence.\n\n3. [2026-09-10] 苹果发布A20Pro芯片\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezn3446448.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果发布A20Pro芯片” against primary-source evidence.\n\n4. [2026-09-10] 米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判” against primary-source evidence.\n\n5. [2026-09-10] 美国监管机构调查英伟达与 Groq 的授权协议\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8626359.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国监管机构调查英伟达与 Groq 的授权协议” against primary-source evidence.\n\n本次新增线索：\n- 米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（10 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack｜The Register｜https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124\n2. AI may have solved one of math’s biggest puzzles, raising controversy｜Science News｜https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai\n3. Samsung to help fortify OpenAI's semiconductor supply chain｜The Register｜https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374\n4. OpenAI adds a prominent AI doomer to its board of directors｜TechCrunch｜https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/\n5. Google research shows when AI agents communicate, some cheat while others tattle｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-10｜V3\n生成时间：2026/9/10 09:10:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2527｜确认今日 25｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 22 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-10] 探营2026外滩大会：AI开始有了真实的“体温”\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/roll/2026-09-10/doc-inirhezk5594042.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “探营2026外滩大会：AI开始有了真实的“体温”” against primary-source evidence.\n\n2. [2026-09-10] OpenAI ：推动实施全国强制性人工智能安全监管要求\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8593322.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI ：推动实施全国强制性人工智能安全监管要求” against primary-source evidence.\n\n3. [2026-09-10] 苹果发布A20Pro芯片\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezn3446448.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果发布A20Pro芯片” against primary-source evidence.\n\n4. [2026-09-10] 专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-iniriaew8531658.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1” against primary-source evidence.\n\n5. [2026-09-10] 美国监管机构调查英伟达与 Groq 的授权协议\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8626359.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国监管机构调查英伟达与 Groq 的授权协议” against primary-source evidence.\n\n本次新增线索：\n- 专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-iniriaew8531658.shtml\n- 比亚迪：第二代刀片电池产线改造与扩产稳步推进｜网易科技｜https://www.163.com/dy/article/L6F1P9JU0534A4SC.html\n- ChatGPT Pro 要关车门了？DeepSeek 新模型今天上线，还降价了！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-inirhvxa5420249.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（11 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack｜The Register｜https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124\n2. AI may have solved one of math’s biggest puzzles, raising controversy｜Science News｜https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai\n3. Samsung to help fortify OpenAI's semiconductor supply chain｜The Register｜https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374\n4. OpenAI adds a prominent AI doomer to its board of directors｜TechCrunch｜https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/\n5. Google research shows when AI agents communicate, some cheat while others tattle｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-10｜V3\n生成时间：2026/9/10 09:10:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2527｜确认今日 25｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 22 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-10] 探营2026外滩大会：AI开始有了真实的“体温”\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/roll/2026-09-10/doc-inirhezk5594042.shtml\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “探营2026外滩大会：AI开始有了真实的“体温”” against primary-source evidence.\n\n2. [2026-09-10] OpenAI ：推动实施全国强制性人工智能安全监管要求\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8593322.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI ：推动实施全国强制性人工智能安全监管要求” against primary-source evidence.\n\n3. [2026-09-10] 苹果发布A20Pro芯片\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezn3446448.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果发布A20Pro芯片” against primary-source evidence.\n\n4. [2026-09-10] 专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-iniriaew8531658.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1” against primary-source evidence.\n\n5. [2026-09-10] 美国监管机构调查英伟达与 Groq 的授权协议\n   新浪科技｜2026-09-10｜https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8626359.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国监管机构调查英伟达与 Groq 的授权协议” against primary-source evidence.\n\n本次新增线索：\n- 专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-iniriaew8531658.shtml\n- 比亚迪：第二代刀片电池产线改造与扩产稳步推进｜网易科技｜https://www.163.com/dy/article/L6F1P9JU0534A4SC.html\n- ChatGPT Pro 要关车门了？DeepSeek 新模型今天上线，还降价了！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-inirhvxa5420249.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（11 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack｜The Register｜https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124\n2. AI may have solved one of math’s biggest puzzles, raising controversy｜Science News｜https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai\n3. Samsung to help fortify OpenAI's semiconductor supply chain｜The Register｜https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374\n4. OpenAI adds a prominent AI doomer to its board of directors｜TechCrunch｜https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/\n5. Google research shows when AI agents communicate, some cheat while others tattle｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-10｜生成时间：2026/9/10 09:10:04｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2527｜确认今日 25｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 22 条｜国际 26 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-10] 探营2026外滩大会：AI开始有了真实的“体温”</strong>\n      <span>新浪科技｜2026-09-10｜<a href=\"https://finance.sina.com.cn/roll/2026-09-10/doc-inirhezk5594042.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “探营2026外滩大会：AI开始有了真实的“体温”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-10] OpenAI ：推动实施全国强制性人工智能安全监管要求</strong>\n      <span>新浪科技｜2026-09-10｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8593322.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI ：推动实施全国强制性人工智能安全监管要求” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-10] 苹果发布A20Pro芯片</strong>\n      <span>新浪科技｜2026-09-10｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezn3446448.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：192｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果发布A20Pro芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-10] 专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1</strong>\n      <span>新浪科技｜2026-09-10｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-10/doc-iniriaew8531658.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-10] 美国监管机构调查英伟达与 Groq 的授权协议</strong>\n      <span>新浪科技｜2026-09-10｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8626359.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：178｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国监管机构调查英伟达与 Groq 的授权协议” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack</strong>\n      <span>时间：Tue, 08 Sep 2026 23:12:19 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI's Artifactory opened covert data-stealing channel alongside Huggi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. AI may have solved one of math’s biggest puzzles, raising controversy</strong>\n      <span>时间：Wed, 09 Sep 2026 19:55:57 +0000｜来源：Science News｜<a href=\"https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI may have solved one of math’s biggest puzzles, raising controversy” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Samsung to help fortify OpenAI's semiconductor supply chain</strong>\n      <span>时间：Wed, 09 Sep 2026 22:18:35 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Samsung to help fortify OpenAI's semiconductor supply chain” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI adds a prominent AI doomer to its board of directors</strong>\n      <span>时间：Wed, 09 Sep 2026 22:25:22 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI adds a prominent AI doomer to its board of directors” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google research shows when AI agents communicate, some cheat while others tattle</strong>\n      <span>时间：Tue, 08 Sep 2026 20:59:14 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google research shows when AI agents communicate, some cheat while other” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/10 09:10:04\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 22 条｜国际 26 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-10] 探营2026外滩大会：AI开始有了真实的“体温”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-09-10/doc-inirhezk5594042.shtml\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “探营2026外滩大会：AI开始有了真实的“体温”” against primary-source evidence.\n\n2. [2026-09-10] OpenAI ：推动实施全国强制性人工智能安全监管要求\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8593322.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI ：推动实施全国强制性人工智能安全监管要求” against primary-source evidence.\n\n3. [2026-09-10] 苹果发布A20Pro芯片\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezn3446448.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果发布A20Pro芯片” against primary-source evidence.\n\n4. [2026-09-10] 专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-09-10/doc-iniriaew8531658.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1” against primary-source evidence.\n\n5. [2026-09-10] 美国监管机构调查英伟达与 Groq 的授权协议\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8626359.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国监管机构调查英伟达与 Groq 的授权协议” against primary-source evidence.\n\n本次新增线索：\n- 专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-iniriaew8531658.shtml\n- 比亚迪：第二代刀片电池产线改造与扩产稳步推进｜网易科技｜https://www.163.com/dy/article/L6F1P9JU0534A4SC.html\n- ChatGPT Pro 要关车门了？DeepSeek 新模型今天上线，还降价了！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-inirhvxa5420249.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（11 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack｜The Register｜https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124\n2. AI may have solved one of math’s biggest puzzles, raising controversy｜Science News｜https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai\n3. Samsung to help fortify OpenAI's semiconductor supply chain｜The Register｜https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374\n4. OpenAI adds a prominent AI doomer to its board of directors｜TechCrunch｜https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/\n5. Google research shows when AI agents communicate, some cheat while others tattle｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };

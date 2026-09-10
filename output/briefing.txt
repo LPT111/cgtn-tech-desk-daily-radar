@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/10 09:00:22
+生成时间：2026/9/10 09:10:04
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 21 条｜国际 26 条
+新增核心线索：国内 3 条｜国际 0 条
+延续跟踪线索：国内 22 条｜国际 26 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -26,10 +26,10 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhezn3446448.shtml
    角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苹果发布A20Pro芯片” against primary-source evidence.
 
-4. [2026-09-10] 米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判
+4. [2026-09-10] 专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-10/doc-iniriaew8531658.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1” against primary-source evidence.
 
 5. [2026-09-10] 美国监管机构调查英伟达与 Groq 的授权协议
    来源：新浪科技
@@ -37,10 +37,12 @@ ChenChen 今日 Briefing｜V3
    角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国监管机构调查英伟达与 Groq 的授权协议” against primary-source evidence.
 
 本次新增线索：
-- 米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-10/doc-inirhvxa5418868.shtml
+- 专家预估2027年全球金融危机 美国AI泡沫同年破灭：英伟达等巨头投入产出比仅16:1｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-iniriaew8531658.shtml
+- 比亚迪：第二代刀片电池产线改造与扩产稳步推进｜网易科技｜https://www.163.com/dy/article/L6F1P9JU0534A4SC.html
+- ChatGPT Pro 要关车门了？DeepSeek 新模型今天上线，还降价了！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-inirhvxa5420249.shtml
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（10 条，4 个来源）
+- AI 应用：AI 应用与智能体（11 条，4 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：机器人动态（1 条，1 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
