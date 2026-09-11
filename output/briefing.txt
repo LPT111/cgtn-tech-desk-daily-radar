@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/10 19:26:06
+生成时间：2026/9/11 08:36:53
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 2 条
-延续跟踪线索：国内 70 条｜国际 25 条
+新增核心线索：国内 34 条｜国际 13 条
+延续跟踪线索：国内 0 条｜国际 6 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-10] 乐聚联合安徽电信、华为发布5G-A具身智能专属套餐
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-09-10/doc-inirixkq5349363.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “乐聚联合安徽电信、华为发布5G-A具身智能专属套餐” against primary-source evidence.
+1. [23:43] “AI 教父”辛顿：AI 灾难越来越近，10% 概率灭掉人类不是危言耸听
+   来源：IT之家
+   链接：https://www.ithome.com/1/001/076.htm
+   角度：Build an accountability-focused policy story around the balance between innovation, safety and accountability, timelines, enforcement and affected stakeholders. For this item, test the claim behind ““AI 教父”辛顿：AI 灾难越来越近，10% 概率灭掉人类不是危言耸听” against primary-source evidence.
 
-2. [2026-09-10] 依托自研大模型 美图秀秀全新上线AI助手
+2. [2026-09-11] 人形机器人要扎根汽车工厂再磨炼
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-09-10/doc-iniritaq8558233.shtml
-   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “依托自研大模型 美图秀秀全新上线AI助手” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-09-11/doc-inirkywe2337161.shtml
+   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “人形机器人要扎根汽车工厂再磨炼” against primary-source evidence.
 
-3. [2026-09-10] 健康AI蚂蚁阿福最新用户数达1.5亿，首页新增健康板块入口
+3. [2026-09-11] 你只是怕了：美国高官公开驳斥 Anthropic“AI 末日论”，称担忧源于对技术革命的恐惧
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-09-10/doc-iniritaq8589273.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “健康AI蚂蚁阿福最新用户数达1.5亿，首页新增健康板块入口” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-11/doc-inirmfea2229421.shtml
+   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “你只是怕了：美国高官公开驳斥 Anthropic“AI 末日论”，称担忧源于对技术革命的恐惧” against primary-source evidence.
 
-4. [2026-09-10] 美国监管机构调查英伟达与 Groq 的授权协议
+4. [2026-09-11] 阿联酋计划在德国投资460亿美元 涵盖AI和能源等领域
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirhvwy8626359.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美国监管机构调查英伟达与 Groq 的授权协议” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqm5480799.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “阿联酋计划在德国投资460亿美元 涵盖AI和能源等领域” against primary-source evidence.
 
-5. [2026-09-10] 华为麒麟9050 Pro开辟国产芯片全新赛道 网友：韬定律终于亮剑了
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-09-10/doc-inirfums8469026.shtml
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “华为麒麟9050 Pro开辟国产芯片全新赛道 网友：韬定律终于亮剑了” against primary-source evidence.
+5. [2026-09-11] 9月11日投资避雷针：国际油价大涨超6% 黄金、白银重挫 美股半导体全线下跌
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L6HI8PTN05198CJN.html
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “9月11日投资避雷针：国际油价大涨超6% 黄金、白银重挫 美股半导体全线下跌” against primary-source evidence.
 
 本次新增线索：
-- 乐聚联合安徽电信、华为发布5G-A具身智能专属套餐｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-10/doc-inirixkq5349363.shtml
-- 超100人涉案！三星半导体员工被曝骗取住房补贴：为拿70万韩元伪造合同｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-inirixks2798266.shtml
-- AI几年内可毁灭人类？美国顶尖AI天才辞职感言：巨头拿我们的命在赌！马斯克转发｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-inirixks2795444.shtml
-- 星河动力复用火箭主发动机迈入可靠性验证试车阶段｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/10/content_578751.html
-- 不靠EUV也能造HBM！前英特尔大牛结束7年隐身：宣称破解HBM供应瓶颈｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-10/doc-inirixkn8572408.shtml
-- AMD GPUs Are Gaining Popularity, With 9070 XT Now AMD's Top Card on Steam｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/amd-gpus-gaining-popularity-9070-110000036.html
+- “AI 教父”辛顿：AI 灾难越来越近，10% 概率灭掉人类不是危言耸听｜IT之家｜https://www.ithome.com/1/001/076.htm
+- 人形机器人要扎根汽车工厂再磨炼｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-11/doc-inirkywe2337161.shtml
+- 你只是怕了：美国高官公开驳斥 Anthropic“AI 末日论”，称担忧源于对技术革命的恐惧｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-11/doc-inirmfea2229421.shtml
+- 阿联酋计划在德国投资460亿美元 涵盖AI和能源等领域｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqm5480799.shtml
+- 9月11日投资避雷针：国际油价大涨超6% 黄金、白银重挫 美股半导体全线下跌｜网易科技｜https://www.163.com/dy/article/L6HI8PTN05198CJN.html
+- Is AI Actually Going to Kill Us All?｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/
 
 今日热点方向：
-- AI 应用：AI动态（18 条，5 个来源）
-- 芯片/半导体：半导体供应链（4 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（9 条，3 个来源）
-- 太空与低空经济：太空与低空动态（3 条，3 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- AI 应用：AI动态（9 条，4 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
+- 太空与低空经济：太空与低空动态（3 条，2 个来源）
+- 科学前沿：
 
 国际科技背景：
-1. OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack｜The Register｜https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124
-2. AI may have solved one of math’s biggest puzzles, raising controversy｜Science News｜https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai
-3. Samsung to help fortify OpenAI's semiconductor supply chain｜The Register｜https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374
-4. OpenAI adds a prominent AI doomer to its board of directors｜TechCrunch｜https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/
-5. Google research shows when AI agents communicate, some cheat while others tattle｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090
+1. Is AI Actually Going to Kill Us All?｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/
+2. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov
+3. Apple's iPhone Duo Gets Magnetic Charging Samsung Still Lacks｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apples-iphone-duo-gets-magnetic-211100176.html
+4. OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services｜CNBC Technology｜https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html
+5. Ex-Anthropic researcher warns AI could grow "smart enough to kill us"｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/ex-anthropic-researcher-warns-ai-234831866.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
