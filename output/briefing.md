@@ -3,54 +3,56 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/11 09:11:44
+生成时间：2026/9/11 18:00:43
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 0 条
-延续跟踪线索：国内 47 条｜国际 23 条
+新增核心线索：国内 65 条｜国际 6 条
+延续跟踪线索：国内 13 条｜国际 21 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-11] DeepSeek V4.1 Flash 硬刚智谱「牛来」，谁才是国模 Flash 之王？
+1. [2026-09-11] 今年久久公益节共吸引超1.37亿人参与 AI Agent推动公益走向日常参与丨新经济视界
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirkywi5394525.shtml
-   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek V4.1 Flash 硬刚智谱「牛来」，谁才是国模 Flash 之王？” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirnaka5723505.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “今年久久公益节共吸引超1.37亿人参与 AI Agent推动公益走向日常参与丨新经济视界” against primary-source evidence.
 
-2. [2026-09-11] OpenAI 扩大实时语音模型能力：GPT-Live-1 上线 API，支持打断处理、工具调用和电话语音智能体
+2. [2026-09-11] 多Agent协同、双擎闭环：百度营销如何把AI从“单点工具”变成增长流水线？
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-11/doc-inirmfei2133201.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI 扩大实时语音模型能力：GPT-Live-1 上线 API，支持打断处理、工具调用和电话语音智能体” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirnais6780452.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “多Agent协同、双擎闭环：百度营销如何把AI从“单点工具”变成增长流水线？” against primary-source evidence.
 
 3. [2026-09-11] 全球首套连续塔式萃取分离特色锂矿石伴生铷铯资源示范线全面达产
    来源：中国科学院
    链接：https://www.cas.cn/cg/zh/202609/t20260911_5120164.shtml
    角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect research infrastructure and long-term innovation capacity to China’s wider innovation capacity. For this item, test the claim behind “全球首套连续塔式萃取分离特色锂矿石伴生铷铯资源示范线全面达产” against primary-source evidence.
 
-4. [23:43] “AI 教父”辛顿：AI 灾难越来越近，10% 概率灭掉人类不是危言耸听
-   来源：IT之家
-   链接：https://www.ithome.com/1/001/076.htm
-   角度：Build an accountability-focused policy story around the balance between innovation, safety and accountability, timelines, enforcement and affected stakeholders. For this item, test the claim behind ““AI 教父”辛顿：AI 灾难越来越近，10% 概率灭掉人类不是危言耸听” against primary-source evidence.
-
-5. [2026-09-11] 人形机器人要扎根汽车工厂再磨炼
+4. [2026-09-11] 卧安onero H1机器人亮相IFA
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-09-11/doc-inirkywe2337161.shtml
-   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “人形机器人要扎根汽车工厂再磨炼” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/2026-09-11/doc-inirmrtz5401965.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “卧安onero H1机器人亮相IFA” against primary-source evidence.
+
+5. [2026-09-11] 爱立信张广焯：AI走向物理世界，移动网络成为关键基础设施
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirnaiv5365660.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “爱立信张广焯：AI走向物理世界，移动网络成为关键基础设施” against primary-source evidence.
 
 本次新增线索：
-- 吹哨人警告不断之际 OpenAI讨论放缓前沿AI研发并呼吁同行减速｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmfei2163299.shtml
-- 工信部印发“AI + 软件”专项行动实施方案：支持软件企业与智能手机、智能家居、智能网联汽车等终端厂商联合创新｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-11/doc-inirmfea2254202.shtml
-- “9.11”事件25周年 纽约夜空2977架无人机重现世贸双子塔｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirmfea2249446.shtml
-- 特斯拉上线Model Y高性能版｜网易科技｜https://www.163.com/dy/article/L6HJVL830534A4SC.html
+- 今年久久公益节共吸引超1.37亿人参与 AI Agent推动公益走向日常参与丨新经济视界｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirnaka5723505.shtml
+- 多Agent协同、双擎闭环：百度营销如何把AI从“单点工具”变成增长流水线？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirnais6780452.shtml
+- 卧安onero H1机器人亮相IFA｜新浪科技｜https://finance.sina.com.cn/tech/2026-09-11/doc-inirmrtz5401965.shtml
+- 爱立信张广焯：AI走向物理世界，移动网络成为关键基础设施｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirnaiv5365660.shtml
+- 耐科装备：截至8月底 在手订单3.3亿元｜网易科技｜https://www.163.com/dy/article/L6HSV5G505198CJN.html
+- OpenAI arms devs with AI conversation tool that can talk and listen at the same time｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/10/openai-arms-devs-with-ai-conversation-tool-that-can-talk-and-listen-at-the-same-time/5295708
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（13 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
-- 太空与低空经济：太空与低空动态（4 条，2 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- AI 应用：AI动态（20 条，5 个来源）
+- 芯片/半导体：半导体供应链（4 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（5 条，3 个来源）
+- 太空与低空经济：太空与低空动态（3 条，2 个来源）
+- 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
 1. AI uprising postponed after Copilot falls off the web｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/10/ai-uprising-postponed-after-copilot-falls-off-the-web/5295475
