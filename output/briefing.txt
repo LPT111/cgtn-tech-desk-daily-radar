@@ -1,51 +1,56 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/12 09:13:15
+生成时间：2026/9/12 17:35:40
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 25 条｜国际 22 条
+新增核心线索：国内 42 条｜国际 2 条
+延续跟踪线索：国内 6 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-12] ChatGPT Images 2.5 发布 3 天，12 个宝藏玩法来了！附提示词
+1. [2026-09-12] 岚图梦想家9预售48小时小订3万台，礼尊版订单占比超五成
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-12/doc-inirpcvs7003644.shtml
-   角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “ChatGPT Images 2.5 发布 3 天，12 个宝藏玩法来了！附提示词” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/shenji/2026-09-12/doc-inirpyze5260390.shtml
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “岚图梦想家9预售48小时小订3万台，礼尊版订单占比超五成” against primary-source evidence.
 
-2. [2026-09-12] Rapidus拟考虑2040年前后在月球建设半导体工厂
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L6K1HV6I0534A4SC.html
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Rapidus拟考虑2040年前后在月球建设半导体工厂” against primary-source evidence.
-
-3. [2026-09-12] 火箭实验室抗议 NASA 将 7 亿美元火星通信合同授予蓝色起源，称其采购违反国会资格标准
+2. [2026-09-12] 欧洲首例全无人 Robotaxi 启动载客测试：小马智行、极狐参与，车内不设安全员
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-12/doc-inirpkci1721749.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “火箭实验室抗议 NASA 将 7 亿美元火星通信合同授予蓝色起源，称其采购违反国会资格标准” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-12/doc-inirqfhy8452792.shtml
+   角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “欧洲首例全无人 Robotaxi 启动载客测试：小马智行、极狐参与，车内不设安全员” against primary-source evidence.
 
-4. [2026-09-12] 破局单模型局限！清华大学李秀教授团队提出EMERGE-Policy：以多智能体协作迈向「具身智能系统」时代
+3. [2026-09-12] Anthropic 研究员警告“AI 灭绝人类”后，美国两党议员呼吁政府采取更多行动
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-12/doc-inirpkck8588628.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “破局单模型局限！清华大学李秀教授团队提出EMERGE-Policy：以多智能体协作迈向「具身智能系统」时代” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-12/doc-inirqfia5188014.shtml
+   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic 研究员警告“AI 灭绝人类”后，美国两党议员呼吁政府采取更多行动” against primary-source evidence.
 
-5. [2026-09-12] 铜银等金属价格上涨，1700亿市值行业龙头发布调
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L6J8TE4M0512B07B.html
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “铜银等金属价格上涨，1700亿市值行业龙头发布调” against primary-source evidence.
+4. [2026-09-12] 事关太空算力，四地倡议共建产业长廊
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/roll/2026-09-12/doc-inirpyyz1478649.shtml
+   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “事关太空算力，四地倡议共建产业长廊” against primary-source evidence.
+
+5. [2026-09-12] 我国词元需求呈现爆发式增长，预计今年消耗量将达 10 亿亿
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-12/doc-inirqfie6540336.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “我国词元需求呈现爆发式增长，预计今年消耗量将达 10 亿亿” against primary-source evidence.
 
 本次新增线索：
-- 微软推进数据中心扩张，计划将算力扩大两倍｜网易科技｜https://www.163.com/dy/article/L6K6IION0512B07B.html
+- 岚图梦想家9预售48小时小订3万台，礼尊版订单占比超五成｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-09-12/doc-inirpyze5260390.shtml
+- 欧洲首例全无人 Robotaxi 启动载客测试：小马智行、极狐参与，车内不设安全员｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-12/doc-inirqfhy8452792.shtml
+- Anthropic 研究员警告“AI 灭绝人类”后，美国两党议员呼吁政府采取更多行动｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-12/doc-inirqfia5188014.shtml
+- 事关太空算力，四地倡议共建产业长廊｜新浪科技｜https://finance.sina.com.cn/roll/2026-09-12/doc-inirpyyz1478649.shtml
+- 我国词元需求呈现爆发式增长，预计今年消耗量将达 10 亿亿｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-12/doc-inirqfie6540336.shtml
+- d-Matrix drinks the Nvidia Kool-Aid with NVLink Fusion and MGX rack designs｜The Register｜https://www.theregister.com/systems/2026/09/10/d-matrix-drinks-the-nvidia-kool-aid-with-nvlink-fusion-and-mgx-rack-designs/5295403
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（6 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，1 个来源）
+- AI 应用：AI动态（19 条，3 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
 - 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
 1. AI uprising postponed after Copilot falls off the web｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/10/ai-uprising-postponed-after-copilot-falls-off-the-web/5295475
