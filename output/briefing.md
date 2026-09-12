@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/12 09:03:13
+生成时间：2026/9/12 09:13:15
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 0 条
-延续跟踪线索：国内 22 条｜国际 23 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 25 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -39,9 +39,7 @@ ChenChen 今日 Briefing｜V3
    角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “铜银等金属价格上涨，1700亿市值行业龙头发布调” against primary-source evidence.
 
 本次新增线索：
-- 超2000人报名！上海开放大学超热闹，掀起一波“AI充电潮”｜新浪科技｜https://finance.sina.com.cn/wm/2026-09-12/doc-inirpqmk5291642.shtml
-- 行驶200米被超18次！成都启用AI监测专门治理“龟速车”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-12/doc-inirpkcq6910902.shtml
-- 第三方公司基于三星 Galaxy Watch 8 打造 Bark Watch 儿童手表，内置 AI 风险监测功能｜IT之家｜https://www.ithome.com/1/001/505.htm
+- 微软推进数据中心扩张，计划将算力扩大两倍｜网易科技｜https://www.163.com/dy/article/L6K6IION0512B07B.html
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（6 条，3 个来源）
