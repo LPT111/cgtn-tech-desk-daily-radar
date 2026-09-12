@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/11 19:28:06
+生成时间：2026/9/12 08:43:23
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 16 条｜国际 1 条
-延续跟踪线索：国内 65 条｜国际 19 条
+新增核心线索：国内 22 条｜国际 12 条
+延续跟踪线索：国内 0 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [11:08] 智能体时代的移动计算，Arm 通过一场大会给出自己的答案
-   来源：IT之家
-   链接：https://www.ithome.com/1/001/434.htm
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “智能体时代的移动计算，Arm 通过一场大会给出自己的答案” against primary-source evidence.
-
-2. [2026-09-11] 拿不出货也报不了价！存储大厂警告：内存危机才刚开始
+1. [2026-09-12] ChatGPT Images 2.5 发布 3 天，12 个宝藏玩法来了！附提示词
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirnaiy9003372.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “拿不出货也报不了价！存储大厂警告：内存危机才刚开始” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-12/doc-inirpcvs7003644.shtml
+   角度：Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “ChatGPT Images 2.5 发布 3 天，12 个宝藏玩法来了！附提示词” against primary-source evidence.
 
-3. [2026-09-11] 全球首套连续塔式萃取分离特色锂矿石伴生铷铯资源示范线全面达产
-   来源：中国科学院
-   链接：https://www.cas.cn/cg/zh/202609/t20260911_5120164.shtml
-   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect research infrastructure and long-term innovation capacity to China’s wider innovation capacity. For this item, test the claim behind “全球首套连续塔式萃取分离特色锂矿石伴生铷铯资源示范线全面达产” against primary-source evidence.
+2. [2026-09-12] Rapidus拟考虑2040年前后在月球建设半导体工厂
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L6K1HV6I0534A4SC.html
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Rapidus拟考虑2040年前后在月球建设半导体工厂” against primary-source evidence.
 
-4. [2026-09-11] 商务部：中方正告美方，立即停止对中国包括中国企业的间谍活动
+3. [2026-09-12] 火箭实验室抗议 NASA 将 7 亿美元火星通信合同授予蓝色起源，称其采购违反国会资格标准
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirnhrq6696623.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “商务部：中方正告美方，立即停止对中国包括中国企业的间谍活动” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-12/doc-inirpkci1721749.shtml
+   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “火箭实验室抗议 NASA 将 7 亿美元火星通信合同授予蓝色起源，称其采购违反国会资格标准” against primary-source evidence.
 
-5. [2026-09-11] 北京AI移动医疗车亮相服贸会
+4. [2026-09-12] 破局单模型局限！清华大学李秀教授团队提出EMERGE-Policy：以多智能体协作迈向「具身智能系统」时代
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirnhrw8897067.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “北京AI移动医疗车亮相服贸会” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-12/doc-inirpkck8588628.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “破局单模型局限！清华大学李秀教授团队提出EMERGE-Policy：以多智能体协作迈向「具身智能系统」时代” against primary-source evidence.
+
+5. [2026-09-12] 铜银等金属价格上涨，1700亿市值行业龙头发布调
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L6J8TE4M0512B07B.html
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “铜银等金属价格上涨，1700亿市值行业龙头发布调” against primary-source evidence.
 
 本次新增线索：
-- 智能体时代的移动计算，Arm 通过一场大会给出自己的答案｜IT之家｜https://www.ithome.com/1/001/434.htm
-- 拿不出货也报不了价！存储大厂警告：内存危机才刚开始｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirnaiy9003372.shtml
-- 商务部：中方正告美方，立即停止对中国包括中国企业的间谍活动｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirnhrq6696623.shtml
-- 北京AI移动医疗车亮相服贸会｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-11/doc-inirnhrw8897067.shtml
-- 轻资产叙事背后藏分化：文远知行重营运资金 小马智行依赖合作方 规模化与第二曲线阻碍让盈利仍遥不可及｜新浪科技｜https://finance.sina.com.cn/stock/observe/2026-09-11/doc-inirnaka5785405.shtml
-- Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown｜CNBC Technology｜https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html
+- ChatGPT Images 2.5 发布 3 天，12 个宝藏玩法来了！附提示词｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-12/doc-inirpcvs7003644.shtml
+- Rapidus拟考虑2040年前后在月球建设半导体工厂｜网易科技｜https://www.163.com/dy/article/L6K1HV6I0534A4SC.html
+- 火箭实验室抗议 NASA 将 7 亿美元火星通信合同授予蓝色起源，称其采购违反国会资格标准｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-12/doc-inirpkci1721749.shtml
+- 破局单模型局限！清华大学李秀教授团队提出EMERGE-Policy：以多智能体协作迈向「具身智能系统」时代｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-12/doc-inirpkck8588628.shtml
+- 铜银等金属价格上涨，1700亿市值行业龙头发布调｜网易科技｜https://www.163.com/dy/article/L6J8TE4M0512B07B.html
+- AI uprising postponed after Copilot falls off the web｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/10/ai-uprising-postponed-after-copilot-falls-off-the-web/5295475
 
 今日热点方向：
-- AI 应用：AI动态（23 条，5 个来源）
-- 芯片/半导体：半导体供应链（4 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（7 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- AI 应用：AI 应用与智能体（6 条，3 个来源）
+- 芯片/半导体：半导体供应链（2 条，1 个来源）
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown｜CNBC Technology｜https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html
-2. Is AI Actually Going to Kill Us All?｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/
-3. AI may have solved one of math’s biggest puzzles, raising controversy｜Science News｜https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai
-4. OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul｜WIRED Business｜https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/
-5. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov
+1. AI uprising postponed after Copilot falls off the web｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/10/ai-uprising-postponed-after-copilot-falls-off-the-web/5295475
+2. The debate over AI ‘doomsday’ warnings｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/debate-over-ai-doomsday-warnings-222643831.html
+3. Brad Gerstner responded to the flurry of AI stories this week after a researcher quit his job at Anthropic｜CNBC Technology｜https://www.cnbc.com/2026/09/11/altimeters-gerstner-blasts-researchers-voicing-ai-extinction-warnings.html
+4. Latest Anthropic horror story chills with tales of kamikaze drone swarms and bioweapons research｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/10/latest-anthropic-horror-story-chills-with-tales-of-kamikaze-drone-swarms-and-bioweapons-research/5295702
+5. Is AI Actually Going to Kill Us All?｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
