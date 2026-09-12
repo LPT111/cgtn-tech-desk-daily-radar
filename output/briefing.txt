@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/12 08:43:23
+生成时间：2026/9/12 09:03:13
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 22 条｜国际 12 条
-延续跟踪线索：国内 0 条｜国际 12 条
+新增核心线索：国内 3 条｜国际 0 条
+延续跟踪线索：国内 22 条｜国际 23 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -37,12 +37,9 @@ ChenChen 今日 Briefing｜V3
    角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “铜银等金属价格上涨，1700亿市值行业龙头发布调” against primary-source evidence.
 
 本次新增线索：
-- ChatGPT Images 2.5 发布 3 天，12 个宝藏玩法来了！附提示词｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-12/doc-inirpcvs7003644.shtml
-- Rapidus拟考虑2040年前后在月球建设半导体工厂｜网易科技｜https://www.163.com/dy/article/L6K1HV6I0534A4SC.html
-- 火箭实验室抗议 NASA 将 7 亿美元火星通信合同授予蓝色起源，称其采购违反国会资格标准｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-12/doc-inirpkci1721749.shtml
-- 破局单模型局限！清华大学李秀教授团队提出EMERGE-Policy：以多智能体协作迈向「具身智能系统」时代｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-12/doc-inirpkck8588628.shtml
-- 铜银等金属价格上涨，1700亿市值行业龙头发布调｜网易科技｜https://www.163.com/dy/article/L6J8TE4M0512B07B.html
-- AI uprising postponed after Copilot falls off the web｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/10/ai-uprising-postponed-after-copilot-falls-off-the-web/5295475
+- 超2000人报名！上海开放大学超热闹，掀起一波“AI充电潮”｜新浪科技｜https://finance.sina.com.cn/wm/2026-09-12/doc-inirpqmk5291642.shtml
+- 行驶200米被超18次！成都启用AI监测专门治理“龟速车”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-12/doc-inirpkcq6910902.shtml
+- 第三方公司基于三星 Galaxy Watch 8 打造 Bark Watch 儿童手表，内置 AI 风险监测功能｜IT之家｜https://www.ithome.com/1/001/505.htm
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（6 条，3 个来源）
@@ -54,10 +51,10 @@ ChenChen 今日 Briefing｜V3
 
 国际科技背景：
 1. AI uprising postponed after Copilot falls off the web｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/10/ai-uprising-postponed-after-copilot-falls-off-the-web/5295475
-2. The debate over AI ‘doomsday’ warnings｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/debate-over-ai-doomsday-warnings-222643831.html
-3. Brad Gerstner responded to the flurry of AI stories this week after a researcher quit his job at Anthropic｜CNBC Technology｜https://www.cnbc.com/2026/09/11/altimeters-gerstner-blasts-researchers-voicing-ai-extinction-warnings.html
-4. Latest Anthropic horror story chills with tales of kamikaze drone swarms and bioweapons research｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/10/latest-anthropic-horror-story-chills-with-tales-of-kamikaze-drone-swarms-and-bioweapons-research/5295702
-5. Is AI Actually Going to Kill Us All?｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/
+2. Is AI Actually Going to Kill Us All?｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/
+3. AI may have solved one of math’s biggest puzzles, raising controversy｜Science News｜https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai
+4. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov
+5. OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services｜CNBC Technology｜https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
