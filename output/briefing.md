@@ -3,58 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/13 19:15:08
+生成时间：2026/9/13 19:58:00
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 60 条｜国际 10 条
+新增核心线索：国内 5 条｜国际 2 条
+延续跟踪线索：国内 54 条｜国际 9 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-13] AI早报 |支付宝将推出AI钱包智能体；OpenAI考虑
+1. [2026-09-13] 侯建国调研理论物理所
+   来源：中国科学院
+   链接：https://www.cas.cn/yw/202609/t20260913_5120237.shtml
+   角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “侯建国调研理论物理所” against primary-source evidence.
+
+2. [2026-09-13] AI早报 |支付宝将推出AI钱包智能体；OpenAI考虑
    来源：网易科技
    链接：https://www.163.com/dy/article/L6MOSN6T0534A4SC.html
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI早报 |支付宝将推出AI钱包智能体；OpenAI考虑” against primary-source evidence.
 
-2. [2026-09-13] 优必选超级智慧工厂投产，打造全球首个万台级产能人形机器人智能制造产线
+3. [2026-09-13] 优必选超级智慧工厂投产，打造全球首个万台级产能人形机器人智能制造产线
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/it/2026-09-13/doc-inirrxsh4670780.shtml
    角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “优必选超级智慧工厂投产，打造全球首个万台级产能人形机器人智能制造产线” against primary-source evidence.
 
-3. [2026-09-13] 图灵量子发布第三代光量子计算机
+4. [2026-09-13] 星钥半导体首次亮相光博会，布局 MicroLED AR 微显示与光互连赛道
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/2026-09-13/doc-inirscya7880220.shtml
-   角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “图灵量子发布第三代光量子计算机” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-13/doc-inirsuvy5402361.shtml
+   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “星钥半导体首次亮相光博会，布局 MicroLED AR 微显示与光互连赛道” against primary-source evidence.
 
-4. [2026-09-13] 四足机器人的“深水区竞争”：从零部件到开放生态
+5. [2026-09-13] 东芯半导体亮相2026 深圳国际电子展，以存储"芯"势力，共赴产业之约！
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-13/doc-inirsqpw7774886.shtml
-   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “四足机器人的“深水区竞争”：从零部件到开放生态” against primary-source evidence.
-
-5. [2026-09-13] 聚焦硅基，多场景协同｜立琻半导体2026光博会圆满收官，多款硅基GaN产品集中亮相
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-13/doc-inirsuvt0228190.shtml
-   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “聚焦硅基，多场景协同｜立琻半导体2026光博会圆满收官，多款硅基GaN产品集中亮相” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-13/doc-inirsuvu7685904.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “东芯半导体亮相2026 深圳国际电子展，以存储"芯"势力，共赴产业之约！” against primary-source evidence.
 
 本次新增线索：
-- 聚焦硅基，多场景协同｜立琻半导体2026光博会圆满收官，多款硅基GaN产品集中亮相｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-13/doc-inirsuvt0228190.shtml
+- 侯建国调研理论物理所｜中国科学院｜https://www.cas.cn/yw/202609/t20260913_5120237.shtml
+- 星钥半导体首次亮相光博会，布局 MicroLED AR 微显示与光互连赛道｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-13/doc-inirsuvy5402361.shtml
+- 东芯半导体亮相2026 深圳国际电子展，以存储"芯"势力，共赴产业之约！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-13/doc-inirsuvu7685904.shtml
+- 我国力争到 2030 年关键软件全面实现智能化升级｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-13/doc-inirsuvt0240129.shtml
+- Waymo 自动驾驶出租车监测到乘客携带枪支，协助警方逮捕两名未成年人｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-13/doc-inirsuvu7686119.shtml
+- Xi says China will take lead to foster AI, tech cooperation among BRICS countries｜CNBC Technology｜https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（13 条，4 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）
+- AI 应用：AI 应用与智能体（14 条，5 个来源）
+- 芯片/半导体：半导体供应链（3 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
 - 太空与低空经济：太空与低空动态（3 条，3 个来源）
 - 科学前沿：科学前沿动态（4 条，3 个来源）
 
 国际科技背景：
-1. Is AI Actually Going to Kill Us All?｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/
-2. Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late｜The Register｜https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986
+1. Xi says China will take lead to foster AI, tech cooperation among BRICS countries｜CNBC Technology｜https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html
+2. Is AI Actually Going to Kill Us All?｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/
 3. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov
 4. Brad Gerstner responded to the flurry of AI stories this week after a researcher quit his job at Anthropic｜CNBC Technology｜https://www.cnbc.com/2026/09/11/altimeters-gerstner-blasts-researchers-voicing-ai-extinction-warnings.html
-5. A human set a new mathematical record. Then AI came for it｜Science News｜https://www.sciencenews.org/article/human-math-record-twin-primes-openai
+5. Samsung Galaxy Z Fold 8 vs iPhone Duo — 7 ways Samsung's wider foldable beats Apple｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-galaxy-z-fold-8-093000098.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
