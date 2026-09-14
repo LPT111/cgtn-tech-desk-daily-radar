@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/13 19:58:00
+生成时间：2026/9/14 08:29:27
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 5 条｜国际 2 条
-延续跟踪线索：国内 54 条｜国际 9 条
+新增核心线索：国内 21 条｜国际 4 条
+延续跟踪线索：国内 0 条｜国际 5 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-13] 侯建国调研理论物理所
-   来源：中国科学院
-   链接：https://www.cas.cn/yw/202609/t20260913_5120237.shtml
-   角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “侯建国调研理论物理所” against primary-source evidence.
-
-2. [2026-09-13] AI早报 |支付宝将推出AI钱包智能体；OpenAI考虑
+1. [2026-09-14] 早报AI巨头呼吁，放缓前沿模型研发；沙特输油管
    来源：网易科技
-   链接：https://www.163.com/dy/article/L6MOSN6T0534A4SC.html
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI早报 |支付宝将推出AI钱包智能体；OpenAI考虑” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L6P6HQ4P05198CJN.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “早报AI巨头呼吁，放缓前沿模型研发；沙特输油管” against primary-source evidence.
 
-3. [2026-09-13] 优必选超级智慧工厂投产，打造全球首个万台级产能人形机器人智能制造产线
+2. [2026-09-14] 超越高通！AMD成为全球第三大无晶圆半导体公司
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/it/2026-09-13/doc-inirrxsh4670780.shtml
-   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “优必选超级智慧工厂投产，打造全球首个万台级产能人形机器人智能制造产线” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-09-14/doc-inirtwih7319546.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “超越高通！AMD成为全球第三大无晶圆半导体公司” against primary-source evidence.
 
-4. [2026-09-13] 星钥半导体首次亮相光博会，布局 MicroLED AR 微显示与光互连赛道
+3. [2026-09-14] 贾跃亭要一口气发布9款机器人 打造美国最全机器人矩阵
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-13/doc-inirsuvy5402361.shtml
-   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “星钥半导体首次亮相光博会，布局 MicroLED AR 微显示与光互连赛道” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-09-14/doc-inirtwie9759097.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “贾跃亭要一口气发布9款机器人 打造美国最全机器人矩阵” against primary-source evidence.
 
-5. [2026-09-13] 东芯半导体亮相2026 深圳国际电子展，以存储"芯"势力，共赴产业之约！
+4. [2026-09-14] Anthropic、OpenAI和谷歌讨论合作成立AI行业标准机构
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-13/doc-inirsuvu7685904.shtml
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “东芯半导体亮相2026 深圳国际电子展，以存储"芯"势力，共赴产业之约！” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirtmtk9956295.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic、OpenAI和谷歌讨论合作成立AI行业标准机构” against primary-source evidence.
+
+5. [2026-09-14] 行业预测：2030年国内人形机器人电子皮肤需求将达152.5万平方米、对应市场规模约274亿元
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L6OHC33Q05198CJN.html
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “行业预测：2030年国内人形机器人电子皮肤需求将达152.5万平方米、对应市场规模约274亿元” against primary-source evidence.
 
 本次新增线索：
-- 侯建国调研理论物理所｜中国科学院｜https://www.cas.cn/yw/202609/t20260913_5120237.shtml
-- 星钥半导体首次亮相光博会，布局 MicroLED AR 微显示与光互连赛道｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-13/doc-inirsuvy5402361.shtml
-- 东芯半导体亮相2026 深圳国际电子展，以存储"芯"势力，共赴产业之约！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-13/doc-inirsuvu7685904.shtml
-- 我国力争到 2030 年关键软件全面实现智能化升级｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-13/doc-inirsuvt0240129.shtml
-- Waymo 自动驾驶出租车监测到乘客携带枪支，协助警方逮捕两名未成年人｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-13/doc-inirsuvu7686119.shtml
-- Xi says China will take lead to foster AI, tech cooperation among BRICS countries｜CNBC Technology｜https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html
+- 早报AI巨头呼吁，放缓前沿模型研发；沙特输油管｜网易科技｜https://www.163.com/dy/article/L6P6HQ4P05198CJN.html
+- 超越高通！AMD成为全球第三大无晶圆半导体公司｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-09-14/doc-inirtwih7319546.shtml
+- 贾跃亭要一口气发布9款机器人 打造美国最全机器人矩阵｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-09-14/doc-inirtwie9759097.shtml
+- Anthropic、OpenAI和谷歌讨论合作成立AI行业标准机构｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirtmtk9956295.shtml
+- 行业预测：2030年国内人形机器人电子皮肤需求将达152.5万平方米、对应市场规模约274亿元｜网易科技｜https://www.163.com/dy/article/L6OHC33Q05198CJN.html
+- SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launches-3-telecom-satellites-214126536.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（14 条，5 个来源）
-- 芯片/半导体：半导体供应链（3 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
-- 太空与低空经济：太空与低空动态（3 条，3 个来源）
-- 科学前沿：科学前沿动态（4 条，3 个来源）
+- AI 应用：AI动态（6 条，3 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Xi says China will take lead to foster AI, tech cooperation among BRICS countries｜CNBC Technology｜https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html
-2. Is AI Actually Going to Kill Us All?｜WIRED Business｜https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/
-3. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov
-4. Brad Gerstner responded to the flurry of AI stories this week after a researcher quit his job at Anthropic｜CNBC Technology｜https://www.cnbc.com/2026/09/11/altimeters-gerstner-blasts-researchers-voicing-ai-extinction-warnings.html
-5. Samsung Galaxy Z Fold 8 vs iPhone Duo — 7 ways Samsung's wider foldable beats Apple｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-galaxy-z-fold-8-093000098.html
+1. SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launches-3-telecom-satellites-214126536.html
+2. Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown｜CNBC Technology｜https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html
+3. Xi says China will take lead to foster AI, tech cooperation among BRICS countries｜CNBC Technology｜https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html
+4. Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late｜The Register｜https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986
+5. Obama urges Democrats to have a ‘clear plan’ for AI safeguards｜TechCrunch｜https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
