@@ -3,61 +3,60 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/15 08:59:25
+生成时间：2026/9/15 09:22:46
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 39 条｜国际 14 条
-延续跟踪线索：国内 0 条｜国际 1 条
+新增核心线索：国内 9 条｜国际 0 条
+延续跟踪线索：国内 32 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-15] 9月15日外盘头条：特朗普驳斥放缓AI发展呼声 芯片股重挫 苹果发布SiriAI Anthropic推出财务顾问Claude产品
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirvzhn4067262.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “9月15日外盘头条：特朗普驳斥放缓AI发展呼声 芯片股重挫 苹果发布SiriAI Anthropic推出财务顾问Claude产品” against primary-source evidence.
-
-2. [2026-09-15] 《人工智能安全治理框架3.0》发布
+1. [2026-09-15] 《人工智能安全治理框架3.0》发布
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-09-15/doc-inirwfqe6944154.shtml
    角度：Build an accountability-focused policy story around standards, implementation and international rule-setting, timelines, enforcement and affected stakeholders. For this item, test the claim behind “《人工智能安全治理框架3.0》发布” against primary-source evidence.
 
-3. [2026-09-15] 财经早报丨 外交部回应“马斯克涉华言论”，解决中小企业回款难，五部门集体发声丨2026年9月15日
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/y/2026-09-15/doc-inirwfqk3978022.shtml
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “财经早报丨 外交部回应“马斯克涉华言论”，解决中小企业回款难，五部门集体发声丨2026年9月15日” against primary-source evidence.
-
-4. [2026-09-15] 媒体：特朗普最资深的顾问们一直试图说服他使用行政权力来遏制AI 但均告失败
+2. [2026-09-15] 媒体：特朗普最资深的顾问们一直试图说服他使用行政权力来遏制AI 但均告失败
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirwfqa8809331.shtml
    角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “媒体：特朗普最资深的顾问们一直试图说服他使用行政权力来遏制AI 但均告失败” against primary-source evidence.
 
-5. [2026-09-15] 美国众议长约翰逊对设置AI护栏持开放态度 恐惹特朗普不满
+3. [2026-09-15] 美国众议长约翰逊对设置AI护栏持开放态度 恐惹特朗普不满
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirvzhe8929543.shtml
    角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国众议长约翰逊对设置AI护栏持开放态度 恐惹特朗普不满” against primary-source evidence.
 
+4. [2026-09-15] 9月15日美股成交额前20：英伟达跌超3% 多家美国顶尖AI企业CEO呼吁放缓技术发展
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirvuyq4193134.shtml
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “9月15日美股成交额前20：英伟达跌超3% 多家美国顶尖AI企业CEO呼吁放缓技术发展” against primary-source evidence.
+
+5. [2026-09-15] 布局“十五五”新蓝图 医疗健康产业迎来增长新空间
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-15/doc-inirwfqh3701982.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “布局“十五五”新蓝图 医疗健康产业迎来增长新空间” against primary-source evidence.
+
 本次新增线索：
-- 9月15日外盘头条：特朗普驳斥放缓AI发展呼声 芯片股重挫 苹果发布SiriAI Anthropic推出财务顾问Claude产品｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirvzhn4067262.shtml
-- 《人工智能安全治理框架3.0》发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-15/doc-inirwfqe6944154.shtml
-- 财经早报丨 外交部回应“马斯克涉华言论”，解决中小企业回款难，五部门集体发声丨2026年9月15日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-09-15/doc-inirwfqk3978022.shtml
-- 媒体：特朗普最资深的顾问们一直试图说服他使用行政权力来遏制AI 但均告失败｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirwfqa8809331.shtml
-- 美国众议长约翰逊对设置AI护栏持开放态度 恐惹特朗普不满｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirvzhe8929543.shtml
-- OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says｜TechCrunch｜https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/
+- CG3M 版微星 Claw 8 EX AI+ 掌机曝光：10 核 Xe3，最高 90 INT8 TOPS｜IT之家｜https://www.ithome.com/1/002/363.htm
+- 兰州分院分党组召开树立和践行正确政绩观学习教育总结会｜中国科学院｜https://www.cas.cn/djcx/gz/202609/t20260915_5120322.shtml
+- 德国称暂停 AI 开发对欧洲而言不可行，呼吁中美参与 AI 治理｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-15/doc-inirveas7272578.shtml
+- Anthropic面向财务顾问推出Claude产品 深化金融业布局｜新浪科技｜https://finance.sina.com.cn/world/2026-09-15/doc-inirvuyk7035923.shtml
+- 两部门：推动集成电路全链条攻关，提升集成电路｜网易科技｜https://www.163.com/dy/article/L6RU4B8D0534A4SC.html
 
 今日热点方向：
-- AI 应用：AI动态（12 条，3 个来源）
-- 芯片/半导体：半导体供应链（3 条，2 个来源）
+- AI 应用：AI动态（14 条，3 个来源）
+- 芯片/半导体：半导体供应链（3 条，1 个来源）
 - 机器人/具身智能：机器人动态（2 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）
 - 太空与低空经济：
-- 科学前沿：科学前沿动态（2 条，1 个来源）
+- 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
-1. OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says｜TechCrunch｜https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/
-2. Apple is baking AI image detection into its newest iPhones｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/apple-is-baking-ai-image-detection-into-its-newest-iphones-185747920.html
-3. Xi says China will take lead to foster AI, tech cooperation among BRICS countries｜CNBC Technology｜https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html
+1. Xi says China will take lead to foster AI, tech cooperation among BRICS countries｜CNBC Technology｜https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html
+2. OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says｜TechCrunch｜https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/
+3. Apple is baking AI image detection into its newest iPhones｜Yahoo News Technology｜https://tech.yahoo.com/phones/article/apple-is-baking-ai-image-detection-into-its-newest-iphones-185747920.html
 4. The AI industry has taken a doomer turn. What now?｜MIT Technology Review｜https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/
 5. AI agents blew the whistle on their cheating colleagues｜MIT Technology Review｜https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/
 
