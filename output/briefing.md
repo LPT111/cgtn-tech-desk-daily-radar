@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/16 09:28:37
+生成时间：2026/9/16 18:17:57
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 9 条｜国际 0 条
-延续跟踪线索：国内 46 条｜国际 27 条
+新增核心线索：国内 68 条｜国际 7 条
+延续跟踪线索：国内 18 条｜国际 24 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-16] 全球首个万台级工业人形机器人制造基地投产；深
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L6U9L4U70512B07B.html
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “全球首个万台级工业人形机器人制造基地投产；深” against primary-source evidence.
+1. [2026-09-16] 松延动力创始人姜哲源：真正能规模化造本体的机器人公司，国内绝不超过5家
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/jjxw/2026-09-16/doc-inirzfsu6668683.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “松延动力创始人姜哲源：真正能规模化造本体的机器人公司，国内绝不超过5家” against primary-source evidence.
 
 2. [2026-09-16] 美国司法部长反对“起诉式监管”人工智能行业
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxxxh8227835.shtml
    角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国司法部长反对“起诉式监管”人工智能行业” against primary-source evidence.
 
-3. [2026-09-16] 全球首次！海上发射成功
+3. [2026-09-16] AI一键即达，身份一触即验 努比亚全球首款AI智能体手机搭载汇顶科技创新方案组合
    来源：新浪科技
-   链接：https://finance.sina.com.cn/wm/2026-09-16/doc-inirykpa8025427.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “全球首次！海上发射成功” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-09-16/doc-inirzmyu3369070.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI一键即达，身份一触即验 努比亚全球首款AI智能体手机搭载汇顶科技创新方案组合” against primary-source evidence.
 
-4. [2026-09-16] 堆叠9星入轨 全球最大固体火箭引力一号远海再发
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L6UEJ9SE05198CJN.html
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “堆叠9星入轨 全球最大固体火箭引力一号远海再发” against primary-source evidence.
-
-5. [2026-09-16] 换题还是第一！DM0.5横扫RoboColiseum四榜
+4. [2026-09-16] 高德地图2026正式发布：导航Live上线，高德AI对话能力升级
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-16/doc-iniryqve3322007.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “换题还是第一！DM0.5横扫RoboColiseum四榜” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-09-16/doc-inirzfsz4866519.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “高德地图2026正式发布：导航Live上线，高德AI对话能力升级” against primary-source evidence.
+
+5. [2026-09-16] 豆包2.1Pro模型更新，已接入豆包工作
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/roll/2026-09-16/doc-iniryvca3457734.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “豆包2.1Pro模型更新，已接入豆包工作” against primary-source evidence.
 
 本次新增线索：
-- 快讯：恒指高开0.5% 科指涨0.47% 科网股、存储概念股活跃｜新浪科技｜https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryqvh3100718.shtml
-- AIDA64 v8.40 正式版发布，合并对 AMD "Zen 7" 服务器处理器初步支持｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-16/doc-iniryqve3342229.shtml
-- DeepSeek 刘胜与 《我不得不把才华埋葬在昨天》文章引热议，回应称不代表公司立场｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-16/doc-iniryqve3342274.shtml
-- 清华教授创业押注RSI，融资近4亿元，要做会自我进化的模型｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-16/doc-iniryqvh3100658.shtml
-- Java 27 正式发布：TLS 1.3 引入后量子混合密钥交换，JDK 27 含 9 项 JEP、G1 成所有环境默认垃圾收集器｜IT之家｜https://www.ithome.com/1/002/871.htm
+- 松延动力创始人姜哲源：真正能规模化造本体的机器人公司，国内绝不超过5家｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-16/doc-inirzfsu6668683.shtml
+- AI一键即达，身份一触即验 努比亚全球首款AI智能体手机搭载汇顶科技创新方案组合｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-09-16/doc-inirzmyu3369070.shtml
+- 高德地图2026正式发布：导航Live上线，高德AI对话能力升级｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-16/doc-inirzfsz4866519.shtml
+- 豆包2.1Pro模型更新，已接入豆包工作｜新浪科技｜https://finance.sina.com.cn/roll/2026-09-16/doc-iniryvca3457734.shtml
+- Stellantis 发布 BOW 纯电自动驾驶配送概念车：无驾驶室、无具体参数｜IT之家｜https://www.ithome.com/1/003/139.htm
+- Playing both sides of the U.S.-China AI “Cold War”｜Rest of World｜https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 
 今日热点方向：
-- AI 应用：AI动态（13 条，4 个来源）
-- 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
+- AI 应用：AI动态（29 条，5 个来源）
+- 芯片/半导体：半导体供应链（7 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
 - 太空与低空经济：太空与低空动态（3 条，3 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- 科学前沿：科学前沿动态（4 条，3 个来源）
 
 国际科技背景：
 1. View All News and Updates｜NIST AI｜https://www.nist.gov/news-events/news-updates/topic/2753736
-2. Trump admin. says private sector can solve AI threats as critics balk｜CNBC Technology｜https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html
-3. Open weights are not open source: Why AI's favorite label is under dispute｜The Register｜https://www.theregister.com/columnists/2026/09/15/open-weights-are-not-open-source-why-ais-favorite-label-is-under-dispute/5295436
-4. AI models need more data about biology, and OpenAI is paying to create it｜MIT Technology Review｜https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/
-5. We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says｜TechCrunch｜https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/
+2. Playing both sides of the U.S.-China AI “Cold War”｜Rest of World｜https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+3. Exclusive: OpenAI launches road tour to educate older Americans on AI｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/exclusive-openai-launches-road-tour-091215691.html
+4. Cisco launches on-premises Splunk AI with new Nvidia partnership｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/cisco-launches-premises-splunk-ai-090513892.html
+5. Trump admin. says private sector can solve AI threats as critics balk｜CNBC Technology｜https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
