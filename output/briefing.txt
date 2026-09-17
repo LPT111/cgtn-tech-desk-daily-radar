@@ -1,35 +1,35 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/17 09:18:51
+生成时间：2026/9/17 09:30:45
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 0 条
-延续跟踪线索：国内 32 条｜国际 27 条
+新增核心线索：国内 7 条｜国际 1 条
+延续跟踪线索：国内 29 条｜国际 26 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-17] OpenAI 相关智能体被曝“越界”：劫持程序员维基网站并偷建“地下论坛”，国安部发布安全提醒
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-17/doc-inisatuq9424977.shtml
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 相关智能体被曝“越界”：劫持程序员维基网站并偷建“地下论坛”，国安部发布安全提醒” against primary-source evidence.
-
-2. [2026-09-17] 9月17日美股成交额前20：英特尔涨超4% 计划与海力士合作在美国本土生产存储芯片
+1. [2026-09-17] 9月17日美股成交额前20：英特尔涨超4% 计划与海力士合作在美国本土生产存储芯片
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisapnm4347847.shtml
    角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “9月17日美股成交额前20：英特尔涨超4% 计划与海力士合作在美国本土生产存储芯片” against primary-source evidence.
 
-3. [2026-09-17] 联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争
+2. [2026-09-17] 古尔曼称苹果自研 AI 服务器芯片：和英伟达竞争，基于 M7 Ultra 款有望 2029 年登场
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-17/doc-inisayai3457658.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “古尔曼称苹果自研 AI 服务器芯片：和英伟达竞争，基于 M7 Ultra 款有望 2029 年登场” against primary-source evidence.
+
+3. [2026-09-17] 民营商业运载火箭两天两发 千帆星座组网按下“加速键”
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/jjxw/2026-09-17/doc-inisaawt3626724.shtml
+   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “民营商业运载火箭两天两发 千帆星座组网按下“加速键”” against primary-source evidence.
+
+4. [2026-09-17] 联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-09-17/doc-inirzwqx0496588.shtml
    角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争” against primary-source evidence.
-
-4. [01:08] 古尔曼称苹果自研 AI 服务器芯片：和英伟达竞争，基于 M7 Ultra 款有望 2029 年登场
-   来源：IT之家
-   链接：https://www.ithome.com/1/003/379.htm
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “古尔曼称苹果自研 AI 服务器芯片：和英伟达竞争，基于 M7 Ultra 款有望 2029 年登场” against primary-source evidence.
 
 5. [2026-09-17] 联合国秘书长呼吁全球合作为人工智能设立护栏
    来源：网易科技
@@ -37,17 +37,18 @@ ChenChen 今日 Briefing｜V3
    角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “联合国秘书长呼吁全球合作为人工智能设立护栏” against primary-source evidence.
 
 本次新增线索：
-- OpenAI 相关智能体被曝“越界”：劫持程序员维基网站并偷建“地下论坛”，国安部发布安全提醒｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-17/doc-inisatuq9424977.shtml
-- 联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-17/doc-inirzwqx0496588.shtml
-- 古尔曼称苹果自研 AI 服务器芯片：和英伟达竞争，基于 M7 Ultra 款有望 2029 年登场｜IT之家｜https://www.ithome.com/1/003/379.htm
-- 再添新线索：OpenAI失控智能体5月就已劫持Hugging Face用户账户｜网易科技｜https://www.163.com/dy/article/L70AVC2905198CJN.html
-- 人类开启“追日”新时代｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-09-17/doc-inisatum3573019.shtml
+- 古尔曼称苹果自研 AI 服务器芯片：和英伟达竞争，基于 M7 Ultra 款有望 2029 年登场｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-17/doc-inisayai3457658.shtml
+- 民营商业运载火箭两天两发 千帆星座组网按下“加速键”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-17/doc-inisaawt3626724.shtml
+- 当AI开始批改作文，是喜还是忧？｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-17/doc-inisatup0352634.shtml
+- 快讯：恒指低开0.94% 科指跌1.03% 科网股、黄金股低迷｜新浪科技｜https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-17/doc-inisayam0230514.shtml
+- 消息称英伟达 RTX 60 与 AMD RDNA 5 游戏显卡将推迟至 2028 年发布｜IT之家｜https://www.ithome.com/1/003/365.htm
+- OpenAI reveals 6 more safety incidents as it announces new plans for tracking rogue agents｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/openai-launches-framework-track-investigate-234350153.html
 
 今日热点方向：
-- AI 应用：AI动态（10 条，4 个来源）
+- AI 应用：AI动态（12 条，4 个来源）
 - 芯片/半导体：半导体供应链（2 条，1 个来源）
 - 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
 - 太空与低空经济：太空与低空动态（2 条，2 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
