@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/18 09:13:27
+生成时间：2026/9/18 09:19:00
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 11 条｜国际 0 条
-延续跟踪线索：国内 33 条｜国际 22 条
+新增核心线索：国内 2 条｜国际 0 条
+延续跟踪线索：国内 41 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -23,10 +23,10 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtm3374698.shtml
    角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “9月18日美股成交额前20：英特尔收涨7.67%，英特尔14A制程较原定进度提前，将于明年第一季度试产” against primary-source evidence.
 
-3. [2026-09-18] 比尔·盖茨警告：AI或成为人类历史上最严重的不平等来源
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-18/doc-inisfazi3393869.shtml
-   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “比尔·盖茨警告：AI或成为人类历史上最严重的不平等来源” against primary-source evidence.
+3. [2026-09-18] 亚马逊加入AI安全讨论，呼吁模型发布前严格测试
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L73KBFEH0534A4SC.html
+   角度：Use the balance between innovation, safety and accountability to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “亚马逊加入AI安全讨论，呼吁模型发布前严格测试” against primary-source evidence.
 
 4. [2026-09-18] 亚马逊首次公开回应AI安全争论：安全与发展并非二选一
    来源：网易科技
@@ -39,19 +39,16 @@ ChenChen 今日 Briefing｜V3
    角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI真的会毁灭人类吗？这些专家给出答案” against primary-source evidence.
 
 本次新增线索：
-- 比尔·盖茨警告：AI或成为人类历史上最严重的不平等来源｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-18/doc-inisfazi3393869.shtml
-- 美国电动汽车企业 Lucid 计划在欧洲部署至少 2.5 万辆 Robotaxi｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-18/doc-inisfazn8653984.shtml
-- 意法半导体全新传感器降低车载摄像头模组成本｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-18/doc-inisfazm0176779.shtml
-- 芯片行业热潮并不代表最终市场需求｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-18/doc-inisfazn8653223.shtml
-- Nexperia（安世）与塔塔电子达成战略合作，将利用后者在印半导体产能｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-18/doc-inisfazf3482530.shtml
+- 亚马逊加入AI安全讨论，呼吁模型发布前严格测试｜网易科技｜https://www.163.com/dy/article/L73KBFEH0534A4SC.html
+- SK集团将三名副董事长调往SK海力士｜网易科技｜https://www.163.com/dy/article/L73LL6SB0534A4SC.html
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（12 条，3 个来源）
-- 芯片/半导体：半导体供应链（3 条，1 个来源）
+- 芯片/半导体：半导体供应链（4 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）
 - 太空与低空经济：
-- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. Google DeepMind launches institute to widen the AGI debate｜TechCrunch｜https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/
