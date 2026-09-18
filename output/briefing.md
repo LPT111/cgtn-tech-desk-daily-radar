@@ -3,59 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/18 09:19:00
+生成时间：2026/9/18 18:03:19
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 2 条｜国际 0 条
-延续跟踪线索：国内 41 条｜国际 22 条
+新增核心线索：国内 62 条｜国际 5 条
+延续跟踪线索：国内 8 条｜国际 19 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-18] 从“回答问题”到“替用户办事”：AI手机竞速进入深水区
+1. [2026-09-18] 宇树发布通用人形机器人基础模型：7项具身推理评测领先参评开源模型
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-09-18/doc-inisewtp0193830.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “从“回答问题”到“替用户办事”：AI手机竞速进入深水区” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-18/doc-inisfyez0236295.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “宇树发布通用人形机器人基础模型：7项具身推理评测领先参评开源模型” against primary-source evidence.
 
-2. [2026-09-18] 9月18日美股成交额前20：英特尔收涨7.67%，英特尔14A制程较原定进度提前，将于明年第一季度试产
+2. [2026-09-18] 号称“欧洲顶尖”的AI模型，被曝基于智谱GLM5.2“套壳”
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtm3374698.shtml
-   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “9月18日美股成交额前20：英特尔收涨7.67%，英特尔14A制程较原定进度提前，将于明年第一季度试产” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-18/doc-inisfyfa8394664.shtml
+   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “号称“欧洲顶尖”的AI模型，被曝基于智谱GLM5.2“套壳”” against primary-source evidence.
 
-3. [2026-09-18] 亚马逊加入AI安全讨论，呼吁模型发布前严格测试
+3. [2026-09-18] 擎仓机器人程岩：物流供应链是具身智能产业落地最好的切入点
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/jjxw/2026-09-18/doc-inisftxc0183319.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “擎仓机器人程岩：物流供应链是具身智能产业落地最好的切入点” against primary-source evidence.
+
+4. [2026-09-18] 禾川科技：人形机器人核心零部件产品目前已有订单
    来源：网易科技
-   链接：https://www.163.com/dy/article/L73KBFEH0534A4SC.html
-   角度：Use the balance between innovation, safety and accountability to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “亚马逊加入AI安全讨论，呼吁模型发布前严格测试” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L74D1IDR0512B07B.html
+   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “禾川科技：人形机器人核心零部件产品目前已有订单” against primary-source evidence.
 
-4. [2026-09-18] 亚马逊首次公开回应AI安全争论：安全与发展并非二选一
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L72S769L05198CJN.html
-   角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “亚马逊首次公开回应AI安全争论：安全与发展并非二选一” against primary-source evidence.
-
-5. [2026-09-18] AI真的会毁灭人类吗？这些专家给出答案
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/wm/2026-09-18/doc-inisefvv0363654.shtml
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI真的会毁灭人类吗？这些专家给出答案” against primary-source evidence.
+5. [2026-09-18] 高倍率锌离子混合电容器厚电极设计取得进展
+   来源：中国科学院
+   链接：https://www.cas.cn/syky/202609/t20260918_5120584.shtml
+   角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “高倍率锌离子混合电容器厚电极设计取得进展” against primary-source evidence.
 
 本次新增线索：
-- 亚马逊加入AI安全讨论，呼吁模型发布前严格测试｜网易科技｜https://www.163.com/dy/article/L73KBFEH0534A4SC.html
-- SK集团将三名副董事长调往SK海力士｜网易科技｜https://www.163.com/dy/article/L73LL6SB0534A4SC.html
+- 宇树发布通用人形机器人基础模型：7项具身推理评测领先参评开源模型｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-18/doc-inisfyez0236295.shtml
+- 号称“欧洲顶尖”的AI模型，被曝基于智谱GLM5.2“套壳”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-18/doc-inisfyfa8394664.shtml
+- 擎仓机器人程岩：物流供应链是具身智能产业落地最好的切入点｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-18/doc-inisftxc0183319.shtml
+- 禾川科技：人形机器人核心零部件产品目前已有订单｜网易科技｜https://www.163.com/dy/article/L74D1IDR0512B07B.html
+- 高倍率锌离子混合电容器厚电极设计取得进展｜中国科学院｜https://www.cas.cn/syky/202609/t20260918_5120584.shtml
+- Why Kai-Fu Lee thinks companies need an AI boss｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/why-kai-fu-lee-thinks-084321793.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（12 条，3 个来源）
+- AI 应用：AI动态（10 条，4 个来源）
 - 芯片/半导体：半导体供应链（4 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）
-- 太空与低空经济：
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（10 条，3 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
-1. Google DeepMind launches institute to widen the AGI debate｜TechCrunch｜https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/
-2. Playing both sides of the U.S.-China AI “Cold War”｜Rest of World｜https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-3. UN turns to Google to make its global data ready for AI agents｜TechCrunch｜https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/
-4. Nvidia’s case for taming AI agents｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/nvidia-case-taming-ai-agents-211347692.html
-5. Anthropic policy chief says AI companies can't be expected to operate on 'honor code'｜CNBC Technology｜https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html
+1. Why Kai-Fu Lee thinks companies need an AI boss｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/why-kai-fu-lee-thinks-084321793.html
+2. Google DeepMind launches institute to widen the AGI debate｜TechCrunch｜https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/
+3. Google announces new experimental "CC" AI agent for families｜Ars Technica｜https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/
+4. Playing both sides of the U.S.-China AI “Cold War”｜Rest of World｜https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+5. UN turns to Google to make its global data ready for AI agents｜TechCrunch｜https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
