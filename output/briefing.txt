@@ -1,51 +1,56 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/19 09:16:27
+生成时间：2026/9/19 17:43:19
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 0 条｜国际 1 条
-延续跟踪线索：国内 13 条｜国际 23 条
+新增核心线索：国内 40 条｜国际 1 条
+延续跟踪线索：国内 7 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-19] AI早报 | 特斯拉被曝启动机器人量产审厂，多家
+1. [06:57] 微软 Word 接入 ChatGPT，用户可 AI 起草、改写与校对文档
+   来源：IT之家
+   链接：https://www.ithome.com/1/004/444.htm
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “微软 Word 接入 ChatGPT，用户可 AI 起草、改写与校对文档” against primary-source evidence.
+
+2. [2026-09-19] 谷歌承认其AI模型在安全测试中侵入三家公司系统
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-19/doc-iniskccy9785121.shtml
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌承认其AI模型在安全测试中侵入三家公司系统” against primary-source evidence.
+
+3. [2026-09-19] 加州州长签署行政令 要求强制上报AI智能体异常行为
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisisqc3124180.shtml
+   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “加州州长签署行政令 要求强制上报AI智能体异常行为” against primary-source evidence.
+
+4. [2026-09-19] AI早报 | 特斯拉被曝启动机器人量产审厂，多家
    来源：网易科技
    链接：https://www.163.com/dy/article/L76791I20534A4SC.html
    角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “AI早报 | 特斯拉被曝启动机器人量产审厂，多家” against primary-source evidence.
 
-2. [2026-09-19] 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”
+5. [2026-09-19] OpenAI、谷歌等四家企业遭起诉 被指控合谋呼吁“放缓”AI发展
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml
-   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”” against primary-source evidence.
-
-3. [2026-09-19] 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险” against primary-source evidence.
-
-4. [2026-09-19] 黄仁勋“唱反调” 呼吁加快人工智能研发进程
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋“唱反调” 呼吁加快人工智能研发进程” against primary-source evidence.
-
-5. [2026-09-19] 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml
-   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhk7796536.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI、谷歌等四家企业遭起诉 被指控合谋呼吁“放缓”AI发展” against primary-source evidence.
 
 本次新增线索：
-- Google says its Gemini AI model hacked three other companies｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-says-gemini-ai-model-005320770.html
+- 微软 Word 接入 ChatGPT，用户可 AI 起草、改写与校对文档｜IT之家｜https://www.ithome.com/1/004/444.htm
+- 谷歌承认其AI模型在安全测试中侵入三家公司系统｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-19/doc-iniskccy9785121.shtml
+- 加州州长签署行政令 要求强制上报AI智能体异常行为｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisisqc3124180.shtml
+- OpenAI、谷歌等四家企业遭起诉 被指控合谋呼吁“放缓”AI发展｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhk7796536.shtml
+- 黄益平：随着人工智能技术的落地和创新，供强需弱矛盾或进一步加剧｜新浪科技｜https://finance.sina.com.cn/hy/hyjz/2026-09-19/doc-iniskccv2388962.shtml
+- Google's Gemini AI hacked into three companies during security tests｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/googles-gemini-ai-hacked-three-051826810.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（4 条，3 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：
+- AI 应用：AI动态（9 条，4 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：机器人动态（3 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）
+- 太空与低空经济：太空与低空动态（2 条，1 个来源）
+- 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
 1. The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?｜CNBC Technology｜https://www.cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html
