@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/19 09:07:01
+生成时间：2026/9/19 09:16:27
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 10 条｜国际 5 条
-延续跟踪线索：国内 3 条｜国际 20 条
+新增核心线索：国内 0 条｜国际 1 条
+延续跟踪线索：国内 13 条｜国际 23 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -39,12 +39,7 @@ ChenChen 今日 Briefing｜V3
    角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务” against primary-source evidence.
 
 本次新增线索：
-- AI早报 | 特斯拉被曝启动机器人量产审厂，多家｜网易科技｜https://www.163.com/dy/article/L76791I20534A4SC.html
-- 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml
-- 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml
-- 黄仁勋“唱反调” 呼吁加快人工智能研发进程｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml
-- 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml
-- Anthropic decides to support OpenAI's markdown instructions spec｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588
+- Google says its Gemini AI model hacked three other companies｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-says-gemini-ai-model-005320770.html
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（4 条，3 个来源）

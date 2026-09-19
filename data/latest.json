@@ -1,64 +1,18 @@
 {
-  "generatedAt": "2026-09-19T01:07:01.745Z",
+  "generatedAt": "2026-09-19T01:16:27.194Z",
   "radarVersion": "v3",
   "targetDate": "2026-09-19",
   "changeSummary": {
-    "domesticNew": 10,
-    "globalNew": 5,
-    "domesticContinued": 3,
-    "globalContinued": 20,
-    "topNewDomestic": [
-      {
-        "title": "AI早报 | 特斯拉被曝启动机器人量产审厂，多家",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L76791I20534A4SC.html"
-      },
-      {
-        "title": "微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml"
-      },
-      {
-        "title": "黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml"
-      },
-      {
-        "title": "黄仁勋“唱反调” 呼吁加快人工智能研发进程",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml"
-      },
-      {
-        "title": "美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml"
-      }
-    ],
+    "domesticNew": 0,
+    "globalNew": 1,
+    "domesticContinued": 13,
+    "globalContinued": 23,
+    "topNewDomestic": [],
     "topNewGlobal": [
       {
-        "title": "Anthropic decides to support OpenAI's markdown instructions spec",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588"
-      },
-      {
-        "title": "Microsoft AI chief warns Anthropic not to put ideas in Claude's head",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/09/17/microsoft-ai-chief-warns-anthropic-not-to-put-ideas-in-claudes-head/5297149"
-      },
-      {
-        "title": "OpenAI admits its agents went off the rails another six times",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/09/17/openai-admits-its-agents-went-off-the-rails-another-six-times/5297016"
-      },
-      {
-        "title": "If a Mac mini is agentic overkill, try this glowing pyramid that runs personal bots",
-        "source": "The Register",
-        "url": "https://www.theregister.com/personal-tech/2026/09/17/if-a-mac-mini-is-agentic-overkill-try-this-glowing-pyramid-that-runs-personal-bots/5296964"
-      },
-      {
-        "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html"
+        "title": "Google says its Gemini AI model hacked three other companies",
+        "source": "Yahoo News Technology",
+        "url": "https://tech.yahoo.com/ai/gemini/articles/google-says-gemini-ai-model-005320770.html"
       }
     ],
     "hasPrevious": true
@@ -68,7 +22,7 @@
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
     "domesticRejected": 887,
-    "globalRejected": 875,
+    "globalRejected": 876,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -380,11 +334,11 @@
   ],
   "itemsSeen": 1559,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 226,
-  "itemsAfterDedupe": 175,
+  "itemsAfterRelevantFilter": 224,
+  "itemsAfterDedupe": 173,
   "todayItemsSeen": 13,
   "suspectedItemsSeen": 10,
-  "skippedNonToday": 149,
+  "skippedNonToday": 147,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -837,7 +791,7 @@
   "globalSuccessSources": 17,
   "globalItemsSeen": 968,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 179,
+  "globalItemsAfterRelevantFilter": 178,
   "topics": [
     {
       "topic": "AI 应用与智能体",
@@ -1003,7 +957,7 @@
       "relatedTitles": [
         "AI早报 | 特斯拉被曝启动机器人量产审厂，多家"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1071,7 +1025,7 @@
       "relatedTitles": [
         "微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1139,7 +1093,7 @@
       "relatedTitles": [
         "黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1207,7 +1161,7 @@
       "relatedTitles": [
         "黄仁勋“唱反调” 呼吁加快人工智能研发进程"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1275,7 +1229,7 @@
       "relatedTitles": [
         "美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1343,7 +1297,7 @@
       "relatedTitles": [
         "因胎压监测系统存在软件问题，Jeep 宣布在美国市场召回超 20 万辆汽车"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1411,7 +1365,7 @@
       "relatedTitles": [
         "具身智能规模化落地 渴望“好数据”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1481,7 +1435,7 @@
         "代际提升78%！AMD 256核EPYC 9996跑分曝光：至强6980P不是对手",
         "AMD 霄龙 Venice 官方跑分首发出炉：256 核 EPYC 9996 性能达竞品 2 倍以上，代际提升 78%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1549,75 +1503,7 @@
       "relatedTitles": [
         "360p仅10帧！开发者将DLSS 5移植到Intel核显：能跑但没法玩"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md",
-      "summary": "Anthropic 公司 Claude Code 团队工程师萨里克 · 希希帕尔（Thariq Shihipar，网名 @trq212）在 X 平台发布推文，宣布在今天（9 月 19 日）发布的 2.1.277 版本 Claude Code 中添加支持 AGENTS.md。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/004/351.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/004/351.htm"
-      ],
-      "publishedAt": "Fri, 18 Sep 2026 22:45:05 GMT",
-      "date": "2026-09-19",
-      "category": "AI",
-      "classificationConfidence": 0.88,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "Anthropic 公司 Claude Code 团队工程师萨里克 · 希希帕尔（Thariq Shihipar，网名 @trq212）在 X 平台发布推文，宣布在今天（9 月 19 日）发布的 2.1.277 版本 Claude Code 中添加支持 AGENTS.md。",
-      "relatedTitles": [
-        "Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1684,6 +1570,74 @@
       "rawText": "北京：推动模型与芯片适配调优支持推理专用芯片、模型轻量化、边缘端部署等技术攻关,北京市,专用芯片,技术路线",
       "relatedTitles": [
         "北京：推动模型与芯片适配调优支持推理专用芯片"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md",
+      "summary": "Anthropic 公司 Claude Code 团队工程师萨里克 · 希希帕尔（Thariq Shihipar，网名 @trq212）在 X 平台发布推文，宣布在今天（9 月 19 日）发布的 2.1.277 版本 Claude Code 中添加支持 AGENTS.md。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/004/351.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/004/351.htm"
+      ],
+      "publishedAt": "Fri, 18 Sep 2026 22:45:05 GMT",
+      "date": "2026-09-19",
+      "category": "AI",
+      "classificationConfidence": 0.88,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "Anthropic 公司 Claude Code 团队工程师萨里克 · 希希帕尔（Thariq Shihipar，网名 @trq212）在 X 平台发布推文，宣布在今天（9 月 19 日）发布的 2.1.277 版本 Claude Code 中添加支持 AGENTS.md。",
+      "relatedTitles": [
+        "Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md"
       ],
       "isNewSinceLastRun": false
     },
@@ -2230,7 +2184,7 @@
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "背刺闻泰后，安世半导体想把产能交给印度",
-      "summary": "/GuoJi·ZhanLue/2026_09_18_901095.shtml\" target=\"_blank\" data-sensor=\"阅读数\">阅读 144130 评论 166 背刺闻泰后，安世半导体想把产能交给印度 <img original=\"https://i.guancha.cn/news/2026/9/1",
+      "summary": "/GuoJi·ZhanLue/2026_09_18_901095.shtml\" target=\"_blank\" data-sensor=\"阅读数\">阅读 144222 评论 166 背刺闻泰后，安世半导体想把产能交给印度 <img original=\"https://i.guancha.cn/news/2026/9/1",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2289,7 +2243,7 @@
       "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “背刺闻泰后，安世半导体想把产能交给印度” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "半导体供应链",
-      "rawText": "/GuoJi·ZhanLue/2026_09_18_901095.shtml\" target=\"_blank\" data-sensor=\"阅读数\">阅读 144130 评论 166 背刺闻泰后，安世半导体想把产能交给印度 <img original=\"https://i.guancha.cn/news/2026/9/18/01567694da16440b93671b4493bde169.jpg\" class=\"lazy height254\" data-original=\"https://i.guanc",
+      "rawText": "/GuoJi·ZhanLue/2026_09_18_901095.shtml\" target=\"_blank\" data-sensor=\"阅读数\">阅读 144222 评论 166 背刺闻泰后，安世半导体想把产能交给印度 <img original=\"https://i.guancha.cn/news/2026/9/18/01567694da16440b93671b4493bde169.jpg\" class=\"lazy height254\" data-original=\"https://i.guanc",
       "relatedTitles": [
         "背刺闻泰后，安世半导体想把产能交给印度"
       ]
@@ -2431,7 +2385,7 @@
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "现代战争早已进入“无人机时刻”，而印度还没睡醒",
-      "summary": "t\"> 阅读 43814 评论 23 现代战争早已进入“无人机时刻”，而印度还没睡醒 <img original=\"https://i.guancha.cn/authors/RajShukla/20260909103652755.png\" class=\"lazy height45\" data-original=\"htt",
+      "summary": "t\"> 阅读 43842 评论 23 现代战争早已进入“无人机时刻”，而印度还没睡醒 <img original=\"https://i.guancha.cn/authors/RajShukla/20260909103652755.png\" class=\"lazy height45\" data-original=\"htt",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2490,7 +2444,7 @@
       "angle": "Use urban services, logistics, safety and regulation to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “现代战争早已进入“无人机时刻”，而印度还没睡醒” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "低空经济与无人机",
-      "rawText": "t\"> 阅读 43814 评论 23 现代战争早已进入“无人机时刻”，而印度还没睡醒 <img original=\"https://i.guancha.cn/authors/RajShukla/20260909103652755.png\" class=\"lazy height45\" data-original=\"https://i.guancha.cn/authors/RajShu",
+      "rawText": "t\"> 阅读 43842 评论 23 现代战争早已进入“无人机时刻”，而印度还没睡醒 <img original=\"https://i.guancha.cn/authors/RajShukla/20260909103652755.png\" class=\"lazy height45\" data-original=\"https://i.guancha.cn/authors/RajShu",
       "relatedTitles": [
         "现代战争早已进入“无人机时刻”，而印度还没睡醒"
       ]
@@ -2659,134 +2613,6 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic decides to support OpenAI's markdown instructions spec",
-      "summary": "Devs cheer relief from compatibility headache",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588",
-      "publishedAt": "Fri, 18 Sep 2026 23:33:16 +0200",
-      "date": "2026-09-18",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic decides to support OpenAI's markdown instructions spec” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Microsoft AI chief warns Anthropic not to put ideas in Claude's head",
-      "summary": "Mustafa Suleyman claims model welfare language could make future systems harder to control – while sparing OpenAI the same scrutiny",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/17/microsoft-ai-chief-warns-anthropic-not-to-put-ideas-in-claudes-head/5297149",
-      "publishedAt": "Thu, 17 Sep 2026 14:15:00 +0200",
-      "date": "2026-09-17",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Microsoft AI chief warns Anthropic not to put ideas in Claude's head” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI admits its agents went off the rails another six times",
-      "summary": "Startup says it’s learned from these mistakes and that they shouldn’t happen again … which is just what Zuck has said about 100 times",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/17/openai-admits-its-agents-went-off-the-rails-another-six-times/5297016",
-      "publishedAt": "Thu, 17 Sep 2026 04:39:03 +0200",
-      "date": "2026-09-17",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI admits its agents went off the rails another six times” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "If a Mac mini is agentic overkill, try this glowing pyramid that runs personal bots",
-      "summary": "personal tech If a Mac mini is agentic overkill, try this glowing pyramid that runs personal bots 'Intern 2' offers an isolated environment and cloudy inference to automate your wo",
-      "source": "The Register",
-      "url": "https://www.theregister.com/personal-tech/2026/09/17/if-a-mac-mini-is-agentic-overkill-try-this-glowing-pyramid-that-runs-personal-bots/5296964",
-      "publishedAt": "Thu, 17 Sep 2026 01:28:59 +0200",
-      "date": "2026-09-17",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “If a Mac mini is agentic overkill, try this glowing pyramid that runs pe” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
       "summary": "SpaceX is getting an extension to an existing contract that will allow three additional crewed Dragon flights to the International Space Station.",
       "source": "CNBC Technology",
@@ -2819,20 +2645,20 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+      "title": "Google says its Gemini AI model hacked three other companies",
       "summary": "The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-      "publishedAt": "Sat, 19 Sep 2026 00:53:27 GMT",
-      "date": "2026-09-18",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/google-says-gemini-ai-model-005320770.html",
+      "publishedAt": "2026-09-19",
+      "date": "2026-09-19",
       "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.62,
+      "classificationConfidence": 0.84,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google's Gemini becomes latest AI model to break out and hack computer s” against primary-source evidence.",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Google says its Gemini AI model hacked three other companies” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -2844,9 +2670,9 @@
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 95
+        "reporterScore": 110
       },
-      "status": "recent_48h",
+      "status": "confirmed_today",
       "isNewSinceLastRun": true
     },
     {
@@ -2947,6 +2773,70 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic decides to support OpenAI's markdown instructions spec",
+      "summary": "Devs cheer relief from compatibility headache",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588",
+      "publishedAt": "Fri, 18 Sep 2026 23:33:16 +0200",
+      "date": "2026-09-18",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic decides to support OpenAI's markdown instructions spec” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI admits its agents went off the rails another six times",
+      "summary": "Are we human?",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/17/openai-admits-its-agents-went-off-the-rails-another-six-times/5297016",
+      "publishedAt": "Thu, 17 Sep 2026 04:39:03 +0200",
+      "date": "2026-09-17",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI admits its agents went off the rails another six times” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
       "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
       "source": "Ars Technica",
@@ -3025,6 +2915,38 @@
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
       "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “If the AI Industry Followed Its Own Research, It Might Have Paused Alrea” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Microsoft AI chief warns Anthropic not to put ideas in Claude's head",
+      "summary": "Are we human?",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/17/microsoft-ai-chief-warns-anthropic-not-to-put-ideas-in-claudes-head/5297149",
+      "publishedAt": "Thu, 17 Sep 2026 14:15:00 +0200",
+      "date": "2026-09-17",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.97,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Microsoft AI chief warns Anthropic not to put ideas in Claude's head” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -3298,8 +3220,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-19｜V3\n生成时间：2026/9/19 09:07:01\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2527｜确认今日 13｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 10 条｜国际 5 条\n延续跟踪线索：国内 3 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-19] AI早报 | 特斯拉被曝启动机器人量产审厂，多家\n   网易科技｜2026-09-19｜https://www.163.com/dy/article/L76791I20534A4SC.html\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “AI早报 | 特斯拉被曝启动机器人量产审厂，多家” against primary-source evidence.\n\n2. [2026-09-19] 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”” against primary-source evidence.\n\n3. [2026-09-19] 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险” against primary-source evidence.\n\n4. [2026-09-19] 黄仁勋“唱反调” 呼吁加快人工智能研发进程\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋“唱反调” 呼吁加快人工智能研发进程” against primary-source evidence.\n\n5. [2026-09-19] 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务” against primary-source evidence.\n\n本次新增线索：\n- AI早报 | 特斯拉被曝启动机器人量产审厂，多家｜网易科技｜https://www.163.com/dy/article/L76791I20534A4SC.html\n- 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml\n- 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml\n- 黄仁勋“唱反调” 呼吁加快人工智能研发进程｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml\n- 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml\n- Anthropic decides to support OpenAI's markdown instructions spec｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?｜CNBC Technology｜https://www.cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html\n2. Researchers used Claude to hack OpenAI｜Ars Technica｜https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/\n3. Anthropic is operating a lab that conducts biology experiments｜TechCrunch｜https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/\n4. Samsung’s Galaxy Buds 3 Pro drops from $250 to $102 at Woot｜Yahoo News Technology｜https://tech.yahoo.com/audio/deals/articles/samsung-galaxy-buds-3-pro-223005033.html\n5. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-19｜V3\n生成时间：2026/9/19 09:07:01\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2527｜确认今日 13｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 10 条｜国际 5 条\n延续跟踪线索：国内 3 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-19] AI早报 | 特斯拉被曝启动机器人量产审厂，多家\n   网易科技｜2026-09-19｜https://www.163.com/dy/article/L76791I20534A4SC.html\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “AI早报 | 特斯拉被曝启动机器人量产审厂，多家” against primary-source evidence.\n\n2. [2026-09-19] 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”” against primary-source evidence.\n\n3. [2026-09-19] 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险” against primary-source evidence.\n\n4. [2026-09-19] 黄仁勋“唱反调” 呼吁加快人工智能研发进程\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋“唱反调” 呼吁加快人工智能研发进程” against primary-source evidence.\n\n5. [2026-09-19] 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务” against primary-source evidence.\n\n本次新增线索：\n- AI早报 | 特斯拉被曝启动机器人量产审厂，多家｜网易科技｜https://www.163.com/dy/article/L76791I20534A4SC.html\n- 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml\n- 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml\n- 黄仁勋“唱反调” 呼吁加快人工智能研发进程｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml\n- 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml\n- Anthropic decides to support OpenAI's markdown instructions spec｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?｜CNBC Technology｜https://www.cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html\n2. Researchers used Claude to hack OpenAI｜Ars Technica｜https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/\n3. Anthropic is operating a lab that conducts biology experiments｜TechCrunch｜https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/\n4. Samsung’s Galaxy Buds 3 Pro drops from $250 to $102 at Woot｜Yahoo News Technology｜https://tech.yahoo.com/audio/deals/articles/samsung-galaxy-buds-3-pro-223005033.html\n5. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-19｜生成时间：2026/9/19 09:07:01｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2527｜确认今日 13｜国际背景 25</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 10 条｜国际 5 条<br>延续跟踪线索：国内 3 条｜国际 20 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-19] AI早报 | 特斯拉被曝启动机器人量产审厂，多家</strong>\n      <span>网易科技｜2026-09-19｜<a href=\"https://www.163.com/dy/article/L76791I20534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：199｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “AI早报 | 特斯拉被曝启动机器人量产审厂，多家” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-19] 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”</strong>\n      <span>新浪科技｜2026-09-19｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-19] 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险</strong>\n      <span>新浪科技｜2026-09-19｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-19] 黄仁勋“唱反调” 呼吁加快人工智能研发进程</strong>\n      <span>新浪科技｜2026-09-19｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋“唱反调” 呼吁加快人工智能研发进程” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-19] 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务</strong>\n      <span>新浪科技｜2026-09-19｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?</strong>\n      <span>时间：Fri, 18 Sep 2026 13:00:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The U.S. says China's AI progress is down to 'distillation.' But is it t” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Researchers used Claude to hack OpenAI</strong>\n      <span>时间：Fri, 18 Sep 2026 13:30:12 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Researchers used Claude to hack OpenAI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic is operating a lab that conducts biology experiments</strong>\n      <span>时间：Fri, 18 Sep 2026 23:13:31 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic is operating a lab that conducts biology experiments” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Samsung’s Galaxy Buds 3 Pro drops from $250 to $102 at Woot</strong>\n      <span>时间：2026-09-19｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/audio/deals/articles/samsung-galaxy-buds-3-pro-223005033.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung’s Galaxy Buds 3 Pro drops from $250 to $102 at Woot” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC</strong>\n      <span>时间：Fri, 18 Sep 2026 21:35:55 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Sule” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/19 09:07:01\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 10 条｜国际 5 条\n延续跟踪线索：国内 3 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-19] AI早报 | 特斯拉被曝启动机器人量产审厂，多家\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L76791I20534A4SC.html\n   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “AI早报 | 特斯拉被曝启动机器人量产审厂，多家” against primary-source evidence.\n\n2. [2026-09-19] 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”” against primary-source evidence.\n\n3. [2026-09-19] 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险” against primary-source evidence.\n\n4. [2026-09-19] 黄仁勋“唱反调” 呼吁加快人工智能研发进程\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋“唱反调” 呼吁加快人工智能研发进程” against primary-source evidence.\n\n5. [2026-09-19] 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务” against primary-source evidence.\n\n本次新增线索：\n- AI早报 | 特斯拉被曝启动机器人量产审厂，多家｜网易科技｜https://www.163.com/dy/article/L76791I20534A4SC.html\n- 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml\n- 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml\n- 黄仁勋“唱反调” 呼吁加快人工智能研发进程｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml\n- 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml\n- Anthropic decides to support OpenAI's markdown instructions spec｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?｜CNBC Technology｜https://www.cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html\n2. Researchers used Claude to hack OpenAI｜Ars Technica｜https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/\n3. Anthropic is operating a lab that conducts biology experiments｜TechCrunch｜https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/\n4. Samsung’s Galaxy Buds 3 Pro drops from $250 to $102 at Woot｜Yahoo News Technology｜https://tech.yahoo.com/audio/deals/articles/samsung-galaxy-buds-3-pro-223005033.html\n5. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-19｜V3\n生成时间：2026/9/19 09:16:27\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2527｜确认今日 13｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 13 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-19] AI早报 | 特斯拉被曝启动机器人量产审厂，多家\n   网易科技｜2026-09-19｜https://www.163.com/dy/article/L76791I20534A4SC.html\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “AI早报 | 特斯拉被曝启动机器人量产审厂，多家” against primary-source evidence.\n\n2. [2026-09-19] 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”” against primary-source evidence.\n\n3. [2026-09-19] 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险” against primary-source evidence.\n\n4. [2026-09-19] 黄仁勋“唱反调” 呼吁加快人工智能研发进程\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋“唱反调” 呼吁加快人工智能研发进程” against primary-source evidence.\n\n5. [2026-09-19] 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务” against primary-source evidence.\n\n本次新增线索：\n- Google says its Gemini AI model hacked three other companies｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-says-gemini-ai-model-005320770.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?｜CNBC Technology｜https://www.cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html\n2. Researchers used Claude to hack OpenAI｜Ars Technica｜https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/\n3. Anthropic is operating a lab that conducts biology experiments｜TechCrunch｜https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/\n4. Samsung’s Galaxy Buds 3 Pro drops from $250 to $102 at Woot｜Yahoo News Technology｜https://tech.yahoo.com/audio/deals/articles/samsung-galaxy-buds-3-pro-223005033.html\n5. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-19｜V3\n生成时间：2026/9/19 09:16:27\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2527｜确认今日 13｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 13 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-19] AI早报 | 特斯拉被曝启动机器人量产审厂，多家\n   网易科技｜2026-09-19｜https://www.163.com/dy/article/L76791I20534A4SC.html\n   报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “AI早报 | 特斯拉被曝启动机器人量产审厂，多家” against primary-source evidence.\n\n2. [2026-09-19] 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”” against primary-source evidence.\n\n3. [2026-09-19] 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险” against primary-source evidence.\n\n4. [2026-09-19] 黄仁勋“唱反调” 呼吁加快人工智能研发进程\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋“唱反调” 呼吁加快人工智能研发进程” against primary-source evidence.\n\n5. [2026-09-19] 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务\n   新浪科技｜2026-09-19｜https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务” against primary-source evidence.\n\n本次新增线索：\n- Google says its Gemini AI model hacked three other companies｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-says-gemini-ai-model-005320770.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?｜CNBC Technology｜https://www.cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html\n2. Researchers used Claude to hack OpenAI｜Ars Technica｜https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/\n3. Anthropic is operating a lab that conducts biology experiments｜TechCrunch｜https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/\n4. Samsung’s Galaxy Buds 3 Pro drops from $250 to $102 at Woot｜Yahoo News Technology｜https://tech.yahoo.com/audio/deals/articles/samsung-galaxy-buds-3-pro-223005033.html\n5. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-19｜生成时间：2026/9/19 09:16:27｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2527｜确认今日 13｜国际背景 24</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 1 条<br>延续跟踪线索：国内 13 条｜国际 23 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-19] AI早报 | 特斯拉被曝启动机器人量产审厂，多家</strong>\n      <span>网易科技｜2026-09-19｜<a href=\"https://www.163.com/dy/article/L76791I20534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：199｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “AI早报 | 特斯拉被曝启动机器人量产审厂，多家” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-19] 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”</strong>\n      <span>新浪科技｜2026-09-19｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-19] 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险</strong>\n      <span>新浪科技｜2026-09-19｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-19] 黄仁勋“唱反调” 呼吁加快人工智能研发进程</strong>\n      <span>新浪科技｜2026-09-19｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋“唱反调” 呼吁加快人工智能研发进程” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-19] 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务</strong>\n      <span>新浪科技｜2026-09-19｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：181｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?</strong>\n      <span>时间：Fri, 18 Sep 2026 13:00:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “The U.S. says China's AI progress is down to 'distillation.' But is it t” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Researchers used Claude to hack OpenAI</strong>\n      <span>时间：Fri, 18 Sep 2026 13:30:12 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Researchers used Claude to hack OpenAI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Anthropic is operating a lab that conducts biology experiments</strong>\n      <span>时间：Fri, 18 Sep 2026 23:13:31 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic is operating a lab that conducts biology experiments” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Samsung’s Galaxy Buds 3 Pro drops from $250 to $102 at Woot</strong>\n      <span>时间：2026-09-19｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/audio/deals/articles/samsung-galaxy-buds-3-pro-223005033.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Samsung’s Galaxy Buds 3 Pro drops from $250 to $102 at Woot” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC</strong>\n      <span>时间：Fri, 18 Sep 2026 21:35:55 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Sule” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/19 09:16:27\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 13 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-19] AI早报 | 特斯拉被曝启动机器人量产审厂，多家\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L76791I20534A4SC.html\n   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “AI早报 | 特斯拉被曝启动机器人量产审厂，多家” against primary-source evidence.\n\n2. [2026-09-19] 微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyn7881822.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”” against primary-source evidence.\n\n3. [2026-09-19] 黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险” against primary-source evidence.\n\n4. [2026-09-19] 黄仁勋“唱反调” 呼吁加快人工智能研发进程\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “黄仁勋“唱反调” 呼吁加快人工智能研发进程” against primary-source evidence.\n\n5. [2026-09-19] 美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-19/doc-inisifyi3226295.shtml\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务” against primary-source evidence.\n\n本次新增线索：\n- Google says its Gemini AI model hacked three other companies｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-says-gemini-ai-model-005320770.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（4 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?｜CNBC Technology｜https://www.cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html\n2. Researchers used Claude to hack OpenAI｜Ars Technica｜https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/\n3. Anthropic is operating a lab that conducts biology experiments｜TechCrunch｜https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/\n4. Samsung’s Galaxy Buds 3 Pro drops from $250 to $102 at Woot｜Yahoo News Technology｜https://tech.yahoo.com/audio/deals/articles/samsung-galaxy-buds-3-pro-223005033.html\n5. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
