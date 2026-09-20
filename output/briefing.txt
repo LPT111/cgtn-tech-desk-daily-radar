@@ -1,54 +1,52 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/20 18:49:05
+生成时间：2026/9/20 19:30:44
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 1 条
-延续跟踪线索：国内 54 条｜国际 17 条
+新增核心线索：国内 2 条｜国际 2 条
+延续跟踪线索：国内 57 条｜国际 18 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-20] 澳总理阿尔巴尼斯：苹果库克盛赞澳大利亚社交媒体监管“世界领先”
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-20/doc-inisnhav1515729.shtml
-   角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “澳总理阿尔巴尼斯：苹果库克盛赞澳大利亚社交媒体监管“世界领先”” against primary-source evidence.
-
-2. [2026-09-20] 此芯科技发布AGX X2平台 单Token能耗降低超50%
+1. [2026-09-20] 此芯科技发布AGX X2平台 单Token能耗降低超50%
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/shenji/2026-09-20/doc-inismvph6856303.shtml
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “此芯科技发布AGX X2平台 单Token能耗降低超50%” against primary-source evidence.
 
-3. [2026-09-20] 启元机器人Q1发布，稚晖君要做你的“第一个个人机器人”
+2. [2026-09-20] 启元机器人Q1发布，稚晖君要做你的“第一个个人机器人”
    来源：新浪科技
    链接：https://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnhay9313665.shtml
    角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “启元机器人Q1发布，稚晖君要做你的“第一个个人机器人”” against primary-source evidence.
 
-4. [2026-09-20] 赛力斯科技刘宗成呼吁：整治“速成车”
+3. [2026-09-20] 澳总理阿尔巴尼斯：苹果库克盛赞澳大利亚社交媒体监管“世界领先”
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-20/doc-inisnhav1515729.shtml
+   角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “澳总理阿尔巴尼斯：苹果库克盛赞澳大利亚社交媒体监管“世界领先”” against primary-source evidence.
+
+4. [2026-09-20] 力箭一号遥十八运载火箭发射成功 海上发射首试
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L796JLOH0512B07B.html
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “力箭一号遥十八运载火箭发射成功 海上发射首试” against primary-source evidence.
+
+5. [2026-09-20] 赛力斯科技刘宗成呼吁：整治“速成车”
    来源：新浪科技
    链接：https://finance.sina.com.cn/hy/hyjz/2026-09-20/doc-inismrff2642231.shtml
    角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “赛力斯科技刘宗成呼吁：整治“速成车”” against primary-source evidence.
 
-5. [2026-09-20] 特朗普称将组建“人工智能部队”并任命AI事务负责人
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-iniskyip2787604.shtml
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “特朗普称将组建“人工智能部队”并任命AI事务负责人” against primary-source evidence.
-
 本次新增线索：
-- 澳总理阿尔巴尼斯：苹果库克盛赞澳大利亚社交媒体监管“世界领先”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-20/doc-inisnhav1515729.shtml
-- 北京市“词元经济十条”正式发布！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-20/doc-inisnnky6625980.shtml
-- Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-20/doc-inisnnkv2516932.shtml
-- AMD Venice性能测试公布：碾压至强6980P与英伟达Vera｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-20/doc-inisnnky6614502.shtml
-- OpenAI谷歌等四巨头被起诉，放缓AI发展联合表态｜网易科技｜https://www.163.com/dy/article/L79AHTQT0534A4SC.html
-- This Ford exec put her family's Claude assistant on a PIP. ChatGPT has taken over.｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/ford-exec-put-her-familys-094501694.html
+- 力箭一号遥十八运载火箭发射成功 海上发射首试｜网易科技｜https://www.163.com/dy/article/L796JLOH0512B07B.html
+- AI给细胞生物学研究开“外挂”｜网易科技｜https://www.163.com/dy/article/L78QQHG50514R9OJ.html
+- Nvidia says 'local AI is here' — and it could change how you use AI at home｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/nvidia-says-local-ai-could-043000964.html
+- Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate｜CNBC Technology｜https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html
 
 今日热点方向：
 - AI 应用：AI动态（16 条，4 个来源）
 - 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（6 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（4 条，2 个来源）
 
