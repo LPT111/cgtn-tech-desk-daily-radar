@@ -3,61 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/20 19:30:44
+生成时间：2026/9/21 08:34:40
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 2 条｜国际 2 条
-延续跟踪线索：国内 57 条｜国际 18 条
+新增核心线索：国内 22 条｜国际 3 条
+延续跟踪线索：国内 0 条｜国际 1 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-20] 此芯科技发布AGX X2平台 单Token能耗降低超50%
+1. [2026-09-21] Vals AI 使用《我的世界》评测 Open GPT‑6 Astra 模型：显示 AI 遇重大变故可能陷入行为僵局
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-09-20/doc-inismvph6856303.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “此芯科技发布AGX X2平台 单Token能耗降低超50%” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-21/doc-inispuef2169306.shtml
+   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Vals AI 使用《我的世界》评测 Open GPT‑6 Astra 模型：显示 AI 遇重大变故可能陷入行为僵局” against primary-source evidence.
 
-2. [2026-09-20] 启元机器人Q1发布，稚晖君要做你的“第一个个人机器人”
+2. [2026-09-21] “开放数学模型计划”启动
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnhay9313665.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “启元机器人Q1发布，稚晖君要做你的“第一个个人机器人”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-21/doc-inispchq9166351.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind ““开放数学模型计划”启动” against primary-source evidence.
 
-3. [2026-09-20] 澳总理阿尔巴尼斯：苹果库克盛赞澳大利亚社交媒体监管“世界领先”
+3. [2026-09-21] 把5G基站搬上天！国内首颗通感智算卫星入轨：100Gbps高速星地激光通信
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-20/doc-inisnhav1515729.shtml
-   角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “澳总理阿尔巴尼斯：苹果库克盛赞澳大利亚社交媒体监管“世界领先”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-21/doc-inispuef2170739.shtml
+   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “把5G基站搬上天！国内首颗通感智算卫星入轨：100Gbps高速星地激光通信” against primary-source evidence.
 
-4. [2026-09-20] 力箭一号遥十八运载火箭发射成功 海上发射首试
+4. [2026-09-21] 九识获得欧洲首张RoboVan-比利时Y牌；广汽柬埔
    来源：网易科技
-   链接：https://www.163.com/dy/article/L796JLOH0512B07B.html
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “力箭一号遥十八运载火箭发射成功 海上发射首试” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L7B56TLT0512B07B.html
+   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “九识获得欧洲首张RoboVan-比利时Y牌；广汽柬埔” against primary-source evidence.
 
-5. [2026-09-20] 赛力斯科技刘宗成呼吁：整治“速成车”
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/hy/hyjz/2026-09-20/doc-inismrff2642231.shtml
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “赛力斯科技刘宗成呼吁：整治“速成车”” against primary-source evidence.
+5. [2026-09-21] 我国首款藏语多语言全模态AI输入法发布
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-09/21/content_584773.html
+   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “我国首款藏语多语言全模态AI输入法发布” against primary-source evidence.
 
 本次新增线索：
-- 力箭一号遥十八运载火箭发射成功 海上发射首试｜网易科技｜https://www.163.com/dy/article/L796JLOH0512B07B.html
-- AI给细胞生物学研究开“外挂”｜网易科技｜https://www.163.com/dy/article/L78QQHG50514R9OJ.html
-- Nvidia says 'local AI is here' — and it could change how you use AI at home｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/nvidia-says-local-ai-could-043000964.html
-- Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate｜CNBC Technology｜https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html
+- Vals AI 使用《我的世界》评测 Open GPT‑6 Astra 模型：显示 AI 遇重大变故可能陷入行为僵局｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-21/doc-inispuef2169306.shtml
+- “开放数学模型计划”启动｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-21/doc-inispchq9166351.shtml
+- 把5G基站搬上天！国内首颗通感智算卫星入轨：100Gbps高速星地激光通信｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-21/doc-inispuef2170739.shtml
+- 九识获得欧洲首张RoboVan-比利时Y牌；广汽柬埔｜网易科技｜https://www.163.com/dy/article/L7B56TLT0512B07B.html
+- 我国首款藏语多语言全模态AI输入法发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/21/content_584773.html
+- NASA Picks SpaceX to Hunt Cosmic Explosions With StarBurst — Here’s What Scientists Are Looking For｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/nasa-picks-spacex-hunt-cosmic-183010608.html
 
 今日热点方向：
-- AI 应用：AI动态（16 条，4 个来源）
-- 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（5 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
+- AI 应用：AI动态（5 条，4 个来源）
+- 芯片/半导体：半导体供应链（3 条，1 个来源）
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（4 条，2 个来源）
+- 科学前沿：
 
 国际科技背景：
-1. The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?｜CNBC Technology｜https://www.cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html
-2. Researchers used Claude to hack OpenAI｜Ars Technica｜https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/
-3. Anthropic is operating a lab that conducts biology experiments｜TechCrunch｜https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/
-4. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC｜CNBC Technology｜https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html
-5. SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS｜CNBC Technology｜https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html
+1. NASA Picks SpaceX to Hunt Cosmic Explosions With StarBurst — Here’s What Scientists Are Looking For｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/nasa-picks-spacex-hunt-cosmic-183010608.html
+2. Which Nvidia GPU Is Equivalent To The PlayStation 5 Pro?｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/nvidia-gpu-equivalent-playstation-5-194700120.html
+3. What is the AI singularity? Some experts say it’s closer than ever｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/ai-singularity-experts-closer-ever-181949396.html
+4. Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate｜CNBC Technology｜https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
