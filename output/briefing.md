@@ -3,25 +3,25 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/22 09:15:38
+生成时间：2026/9/22 09:34:16
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 47 条｜国际 14 条
-延续跟踪线索：国内 0 条｜国际 2 条
+新增核心线索：国内 10 条｜国际 0 条
+延续跟踪线索：国内 41 条｜国际 14 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-22] 特斯拉人形机器人量产在即 中国产业链公司迎合作新机遇
+1. [2026-09-22] 国内首个“筷子夹火箭”方案：大航跃迁首飞箭“跃迁一号”研制全面提速，目标 2027 年首飞
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-22/doc-inisscmr2300935.shtml
+   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “国内首个“筷子夹火箭”方案：大航跃迁首飞箭“跃迁一号”研制全面提速，目标 2027 年首飞” against primary-source evidence.
+
+2. [2026-09-22] 特斯拉人形机器人量产在即 中国产业链公司迎合作新机遇
    来源：新浪科技
    链接：https://finance.sina.com.cn/roll/2026-09-22/doc-inisrnpx2579972.shtml
    角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “特斯拉人形机器人量产在即 中国产业链公司迎合作新机遇” against primary-source evidence.
-
-2. [01:07] 国内首个“筷子夹火箭”方案：大航跃迁首飞箭“跃迁一号”研制全面提速，目标 2027 年首飞
-   来源：IT之家
-   链接：https://www.ithome.com/1/005/524.htm
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “国内首个“筷子夹火箭”方案：大航跃迁首飞箭“跃迁一号”研制全面提速，目标 2027 年首飞” against primary-source evidence.
 
 3. [2026-09-22] 跟涨！这家液晶面板大厂将在Q4正式调价
    来源：新浪科技
@@ -39,27 +39,26 @@ ChenChen 今日 Briefing｜V3
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI敦促各国共同制定相互补充的国家和国际标准” against primary-source evidence.
 
 本次新增线索：
-- 特斯拉人形机器人量产在即 中国产业链公司迎合作新机遇｜新浪科技｜https://finance.sina.com.cn/roll/2026-09-22/doc-inisrnpx2579972.shtml
-- 国内首个“筷子夹火箭”方案：大航跃迁首飞箭“跃迁一号”研制全面提速，目标 2027 年首飞｜IT之家｜https://www.ithome.com/1/005/524.htm
-- 跟涨！这家液晶面板大厂将在Q4正式调价｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-22/doc-inisscmi7129428.shtml
-- 小米凌晨发布并开源Xiaomi MiMo-V2.6系列大模型｜网易科技｜https://www.163.com/dy/article/L7DUVPJ40512B07B.html
-- OpenAI敦促各国共同制定相互补充的国家和国际标准｜网易科技｜https://www.163.com/dy/article/L7DPT05R0534A4SC.html
-- Anthropic-linked CVEs pile up, attackers mostly shrug｜The Register｜https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018
+- 国内首个“筷子夹火箭”方案：大航跃迁首飞箭“跃迁一号”研制全面提速，目标 2027 年首飞｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-22/doc-inisscmr2300935.shtml
+- IBM量子工厂的10亿美元政府补贴，正式签订协议｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-22/doc-inisscmm8923222.shtml
+- Meta个人智能体引发乐观情绪 人工智能交易卷土重来｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisscmi7134183.shtml
+- 美国最年轻 10 位亿万富豪出炉：7 人靠 AI 创业，4 人来自 Anthropic｜IT之家｜https://www.ithome.com/1/005/532.htm
+- Token何以成“金”？ 中国电信北京公司“5+3+1”让大模型价值真正落地｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-22/doc-inisscmi7137213.shtml
 
 今日热点方向：
 - AI 应用：AI动态（12 条，4 个来源）
-- 芯片/半导体：半导体供应链（4 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
+- 芯片/半导体：半导体供应链（5 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（2 条，1 个来源）
+- 科学前沿：科学前沿动态（3 条，1 个来源）
 
 国际科技背景：
-1. Anthropic-linked CVEs pile up, attackers mostly shrug｜The Register｜https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018
-2. Google smacks forehead, realizes $899+ thin-and-lights were what it was missing｜The Register｜https://www.theregister.com/personal-tech/2026/09/21/google-smacks-forehead-realizes-899-thin-and-lights-were-what-it-was-missing/5297947
-3. Nvidia’s free AI model could push the UAE closer to the U.S.｜Rest of World｜https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-4. Googlebooks launch October 4 starting at $899—here are the five models you can preorder today｜Ars Technica｜https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/
-5. OpenAI forms math advisory group as its AI resolves more than 100 open problems｜TechCrunch｜https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/
+1. Nvidia’s free AI model could push the UAE closer to the U.S.｜Rest of World｜https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+2. Anthropic-linked CVEs pile up, attackers mostly shrug｜The Register｜https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018
+3. Googlebooks launch October 4 starting at $899—here are the five models you can preorder today｜Ars Technica｜https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/
+4. OpenAI forms math advisory group as its AI resolves more than 100 open problems｜TechCrunch｜https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/
+5. Perpetual underdog AMD nips at Nvidia's heels as it joins the $1T club｜The Register｜https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
