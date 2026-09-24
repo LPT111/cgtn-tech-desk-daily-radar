@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/24 08:55:32
+生成时间：2026/9/24 09:18:41
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 34 条｜国际 9 条
-延续跟踪线索：国内 0 条｜国际 6 条
+新增核心线索：国内 10 条｜国际 1 条
+延续跟踪线索：国内 24 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-24] 多国呼吁管控前沿AI发展
+1. [2026-09-24] A社O社，坐不住了
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-24/doc-iniswmir0724016.shtml
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “多国呼吁管控前沿AI发展” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-09-24/doc-iniswrrp0646579.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “A社O社，坐不住了” against primary-source evidence.
 
-2. [2026-09-24] 财经早报丨人民币对美元汇率创阶段新高 股票私募加仓意愿再度集聚丨2026年9月24日
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/y/2026-09-24/doc-iniswrrf5462659.shtml
-   角度：Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “财经早报丨人民币对美元汇率创阶段新高 股票私募加仓意愿再度集聚丨2026年9月24日” against primary-source evidence.
-
-3. [2026-09-24] 奥特曼、阿莫迪呼吁联合国及各国加强全球AI安全合作
+2. [2026-09-24] 奥特曼、阿莫迪呼吁联合国及各国加强全球AI安全合作
    来源：网易科技
    链接：https://www.163.com/dy/article/L7IVET310534A4SC.html
    角度：Build an accountability-focused policy story around the balance between innovation, safety and accountability, timelines, enforcement and affected stakeholders. For this item, test the claim behind “奥特曼、阿莫迪呼吁联合国及各国加强全球AI安全合作” against primary-source evidence.
 
-4. [2026-09-24] OpenAI智能体入侵澳大利亚政府网站：三个月后才通报
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-24/doc-iniswrrm4994461.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI智能体入侵澳大利亚政府网站：三个月后才通报” against primary-source evidence.
+3. [22:36] 黄仁勋对 AI 公司放话：要求监管就不应获得反垄断豁免
+   来源：IT之家
+   链接：https://www.ithome.com/1/006/514.htm
+   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “黄仁勋对 AI 公司放话：要求监管就不应获得反垄断豁免” against primary-source evidence.
 
-5. [2026-09-24] 2026文化产业投资人大会：一场文化与金融的双向奔赴
+4. [2026-09-24] 2026文化产业投资人大会：一场文化与金融的双向奔赴
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-09-24/doc-iniswrrp0616614.shtml
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “2026文化产业投资人大会：一场文化与金融的双向奔赴” against primary-source evidence.
 
+5. [2026-09-24] 长八甲火箭成功发射卫星互联网低轨26组卫星
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-09/24/content_587046.html
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “长八甲火箭成功发射卫星互联网低轨26组卫星” against primary-source evidence.
+
 本次新增线索：
-- 多国呼吁管控前沿AI发展｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-iniswmir0724016.shtml
-- 财经早报丨人民币对美元汇率创阶段新高 股票私募加仓意愿再度集聚丨2026年9月24日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-09-24/doc-iniswrrf5462659.shtml
-- 奥特曼、阿莫迪呼吁联合国及各国加强全球AI安全合作｜网易科技｜https://www.163.com/dy/article/L7IVET310534A4SC.html
-- OpenAI智能体入侵澳大利亚政府网站：三个月后才通报｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-iniswrrm4994461.shtml
-- 2026文化产业投资人大会：一场文化与金融的双向奔赴｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-iniswrrp0616614.shtml
-- Meta launches camera-free AI glasses amid privacy pushback｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-launches-camera-free-ai-000830038.html
+- A社O社，坐不住了｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-09-24/doc-iniswrrp0646579.shtml
+- 黄仁勋对 AI 公司放话：要求监管就不应获得反垄断豁免｜IT之家｜https://www.ithome.com/1/006/514.htm
+- 新思科技与台积电深化合作，加速AI芯片先进设计｜网易科技｜https://www.163.com/dy/article/L7J39P3L0534A4SC.html
+- 科学家直接捕捉到系外行星射电信号｜网易科技｜https://www.163.com/dy/article/L7IT4OM505198CJN.html
+- 拥有最好的视频AI，抖音为什么反而焦虑起了“好内容”？｜新浪科技｜https://finance.sina.com.cn/roll/2026-09-24/doc-iniswmii5566833.shtml
+- SoftBank shares jump over 7% after $11.1 billion bond issuance to fund OpenAI bet｜CNBC Technology｜https://www.cnbc.com/2026/09/24/softbank-shares-bond-issuance-openai.html
 
 今日热点方向：
-- AI 应用：AI动态（8 条，4 个来源）
-- 芯片/半导体：半导体供应链（4 条，2 个来源）
+- AI 应用：AI动态（7 条，4 个来源）
+- 芯片/半导体：半导体供应链（3 条，1 个来源）
 - 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（3 条，1 个来源）
+- 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
-1. Meta launches camera-free AI glasses amid privacy pushback｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-launches-camera-free-ai-000830038.html
-2. Dario Amodei wants to slow AI. China isn’t taking orders｜Rest of World｜https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+1. Dario Amodei wants to slow AI. China isn’t taking orders｜Rest of World｜https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+2. Meta launches camera-free AI glasses amid privacy pushback｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/meta-launches-camera-free-ai-000830038.html
 3. Trump’s China rivalry and “AI race” delusion may endanger US, experts say｜Ars Technica｜https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/
 4. Okta Unveils AI Agent Security Blueprint Alliance at Oktane｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/okta-unveils-ai-agent-security-190242795.html
-5. OpenAI agents ‘infiltrated Australian government website’｜The Register｜https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702
+5. SoftBank shares jump over 7% after $11.1 billion bond issuance to fund OpenAI bet｜CNBC Technology｜https://www.cnbc.com/2026/09/24/softbank-shares-bond-issuance-openai.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
