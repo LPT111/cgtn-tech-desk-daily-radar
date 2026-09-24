@@ -1,62 +1,61 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/24 19:16:34
+生成时间：2026/9/24 19:53:15
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 19 条｜国际 1 条
-延续跟踪线索：国内 42 条｜国际 16 条
+新增核心线索：国内 7 条｜国际 0 条
+延续跟踪线索：国内 53 条｜国际 16 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-24] 超 300 台机器人陪你玩：全球首个大规模具身智能主题乐园今日开园
+1. [2026-09-24] 拉美欧洲先行，AI办公出海样本：Kooko凭什么一年破千万？
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-24/doc-inisxnuz5044157.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “超 300 台机器人陪你玩：全球首个大规模具身智能主题乐园今日开园” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtaz0280124.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “拉美欧洲先行，AI办公出海样本：Kooko凭什么一年破千万？” against primary-source evidence.
 
-2. [2026-09-24] 科学家研发出单次充电跑完马拉松全程四足机器人
+2. [2026-09-24] “十五五”文旅如何科技赋能？文旅部明确三方面重点
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-09-24/doc-inisxnvc0396404.shtml
-   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “科学家研发出单次充电跑完马拉松全程四足机器人” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtat5119468.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““十五五”文旅如何科技赋能？文旅部明确三方面重点” against primary-source evidence.
 
-3. [2026-09-24] 具身智能需要哪些训练数据？真机、遥操作与无本体数据应用场景解析
+3. [2026-09-24] 敢为者先行，同行者“聚链”！七腾机器人品牌发布会在渝举办
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxnvc0395997.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身智能需要哪些训练数据？真机、遥操作与无本体数据应用场景解析” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtaz0282495.shtml
+   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “敢为者先行，同行者“聚链”！七腾机器人品牌发布会在渝举办” against primary-source evidence.
 
-4. [2026-09-24] 上海药物所召开树立和践行正确政绩观学习教育总结会
-   来源：中国科学院
-   链接：https://www.cas.cn/djcx/gz/202609/t20260924_5120975.shtml
-   角度：Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “上海药物所召开树立和践行正确政绩观学习教育总结会” against primary-source evidence.
-
-5. [2026-09-24] 信息通信业竞逐AI时代新价值
+4. [2026-09-24] 信息通信业竞逐AI时代新价值
    来源：新浪科技
    链接：https://finance.sina.com.cn/jjxw/2026-09-24/doc-iniswrrf5459824.shtml
    角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “信息通信业竞逐AI时代新价值” against primary-source evidence.
 
+5. [2026-09-24] 广州这条产线，要在海外厂商占95%的高频滤波芯
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L7K0SBEL0534A4SC.html
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “广州这条产线，要在海外厂商占95%的高频滤波芯” against primary-source evidence.
+
 本次新增线索：
-- 科学家研发出单次充电跑完马拉松全程四足机器人｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-09-24/doc-inisxnvc0396404.shtml
-- 具身智能需要哪些训练数据？真机、遥操作与无本体数据应用场景解析｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxnvc0395997.shtml
-- 上海药物所召开树立和践行正确政绩观学习教育总结会｜中国科学院｜https://www.cas.cn/djcx/gz/202609/t20260924_5120975.shtml
-- 用DNA存数据！新CMOS芯片写入单元暴增700倍：PB级数据塞进指甲盖大小空间｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtaz0273841.shtml
-- “AI味”最浓世赛更考验人的能力｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtav8173441.shtml
-- HSBC decides Samsung Secure Folder and Android's Private Space are no place for a banking app｜The Register｜https://www.theregister.com/applications/2026/09/24/hsbc-decides-samsung-secure-folder-and-androids-private-space-are-no-place-for-a-banking-app/5298542
+- 拉美欧洲先行，AI办公出海样本：Kooko凭什么一年破千万？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtaz0280124.shtml
+- “十五五”文旅如何科技赋能？文旅部明确三方面重点｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtat5119468.shtml
+- 敢为者先行，同行者“聚链”！七腾机器人品牌发布会在渝举办｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtaz0282495.shtml
+- 突发！600亿半导体龙头实控人被刑拘：涉嫌职务侵占、挪用资金罪｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtaz0280917.shtml
+- AIMarX亮相DMEXCO 2026：以AI驱动程序化广告，迈向可衡量的全球增长｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtav8182262.shtml
 
 今日热点方向：
-- AI 应用：AI动态（17 条，4 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：机器人动态（2 条，2 个来源）
+- AI 应用：AI 应用与智能体（16 条，4 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：机器人动态（3 条，2 个来源）
 - 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（4 条，2 个来源）
+- 科学前沿：科学前沿动态（3 条，2 个来源）
 
 国际科技背景：
 1. Dario Amodei wants to slow AI. China isn’t taking orders｜Rest of World｜https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 2. Trump’s China rivalry and “AI race” delusion may endanger US, experts say｜Ars Technica｜https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/
-3. HSBC decides Samsung Secure Folder and Android's Private Space are no place for a banking app｜The Register｜https://www.theregister.com/applications/2026/09/24/hsbc-decides-samsung-secure-folder-and-androids-private-space-are-no-place-for-a-banking-app/5298542
-4. Anthropic says its biology lab has already found something big｜TechCrunch｜https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/
+3. Anthropic says its biology lab has already found something big｜TechCrunch｜https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/
+4. OpenAI agents ‘infiltrated Australian government website’｜The Register｜https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702
 5. OpenAI's Astra model went for a drive and no one died｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/24/openais-astra-model-went-for-a-drive-and-no-one-died/5298715
 
 发稿前核验提示：
