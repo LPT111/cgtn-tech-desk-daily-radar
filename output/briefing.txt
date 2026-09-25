@@ -1,53 +1,53 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/25 08:56:05
+生成时间：2026/9/25 09:24:27
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 16 条｜国际 10 条
-延续跟踪线索：国内 0 条｜国际 7 条
+新增核心线索：国内 6 条｜国际 2 条
+延续跟踪线索：国内 15 条｜国际 16 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-25] 谷歌、OpenAI、Anthropic据称拟共建“前沿AI标
+1. [2026-09-25] 长安汽车：力争在 2028 年实现人形机器人量产、2030 年推出商用航线飞行汽车
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-25/doc-inisyywk9748729.shtml
+   角度：Report the industrial consequence of battery innovation and infrastructure: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “长安汽车：力争在 2028 年实现人形机器人量产、2030 年推出商用航线飞行汽车” against primary-source evidence.
+
+2. [01:09] 苹果 macOS 27 移除 Boot Camp 等 6 项功能，Intel Mac 时代落幕
+   来源：IT之家
+   链接：https://www.ithome.com/1/007/074.htm
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “苹果 macOS 27 移除 Boot Camp 等 6 项功能，Intel Mac 时代落幕” against primary-source evidence.
+
+3. [2026-09-25] 分析师向AMD开炮：应以叛国罪调查！
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-09-25/doc-inisyywi4605178.shtml
+   角度：Use export controls and supply-chain resilience as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “分析师向AMD开炮：应以叛国罪调查！” against primary-source evidence.
+
+4. [2026-09-25] 谷歌、OpenAI、Anthropic据称拟共建“前沿AI标
    来源：网易科技
    链接：https://www.163.com/dy/article/L7KQRMCD05198CJN.html
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌、OpenAI、Anthropic据称拟共建“前沿AI标” against primary-source evidence.
 
-2. [2026-09-25] AI眼镜出货量420万台创历史新高 Meta一家占超80%市场
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-09-25/doc-inisycsp4958753.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI眼镜出货量420万台创历史新高 Meta一家占超80%市场” against primary-source evidence.
-
-3. [2026-09-25] Meta 的 AI 智能体 Muse 被发现可导出虚拟机大量文件
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-09-25/doc-inisyuqn9854594.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta 的 AI 智能体 Muse 被发现可导出虚拟机大量文件” against primary-source evidence.
-
-4. [2026-09-25] 全球新能源汽车迈入全面市场化新阶段 中国成为产业链重要基石
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-09/25/content_587873.html
-   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “全球新能源汽车迈入全面市场化新阶段 中国成为产业链重要基石” against primary-source evidence.
-
-5. [2026-09-25] Anthropic与AKAMAI达成116亿美元的人工智能算力交易
+5. [2026-09-25] 当虹科技发布ArcSmartCut视频剪辑智能体
    来源：网易科技
-   链接：https://www.163.com/dy/article/L7L9U22O05198CJN.html
-   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic与AKAMAI达成116亿美元的人工智能算力交易” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L7LM7NOT0512B07B.html
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “当虹科技发布ArcSmartCut视频剪辑智能体” against primary-source evidence.
 
 本次新增线索：
-- 谷歌、OpenAI、Anthropic据称拟共建“前沿AI标｜网易科技｜https://www.163.com/dy/article/L7KQRMCD05198CJN.html
-- AI眼镜出货量420万台创历史新高 Meta一家占超80%市场｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-09-25/doc-inisycsp4958753.shtml
-- Meta 的 AI 智能体 Muse 被发现可导出虚拟机大量文件｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-25/doc-inisyuqn9854594.shtml
-- 全球新能源汽车迈入全面市场化新阶段 中国成为产业链重要基石｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/25/content_587873.html
-- Anthropic与AKAMAI达成116亿美元的人工智能算力交易｜网易科技｜https://www.163.com/dy/article/L7L9U22O05198CJN.html
-- enforcement of the AI Act｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act
+- 长安汽车：力争在 2028 年实现人形机器人量产、2030 年推出商用航线飞行汽车｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-25/doc-inisyywk9748729.shtml
+- 苹果 macOS 27 移除 Boot Camp 等 6 项功能，Intel Mac 时代落幕｜IT之家｜https://www.ithome.com/1/007/074.htm
+- 分析师向AMD开炮：应以叛国罪调查！｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-25/doc-inisyywi4605178.shtml
+- 当虹科技发布ArcSmartCut视频剪辑智能体｜网易科技｜https://www.163.com/dy/article/L7LM7NOT0512B07B.html
+- 马斯克：若保持强劲加速度，SpaceXAI 约 6 个月后就能领跑｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-25/doc-inisyywf7838102.shtml
+- Frontier AI keeps racing despite calls to slow down｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（7 条，2 个来源）
+- AI 应用：AI 应用与智能体（8 条，2 个来源）
 - 芯片/半导体：
-- 机器人/具身智能：
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：
@@ -55,9 +55,9 @@ ChenChen 今日 Briefing｜V3
 国际科技背景：
 1. enforcement of the AI Act｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act
 2. Any question on the AI Act? Visit our Single Information Platform｜EU AI Office｜https://ai-act-service-desk.ec.europa.eu/en
-3. SpaceX's Starship megarocket aces launch rehearsal ahead of 1st orbital test flight (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacexs-starship-megarocket-aces-launch-222439742.html
-4. Dario Amodei wants to slow AI. China isn’t taking orders｜Rest of World｜https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-5. Trump’s China rivalry and “AI race” delusion may endanger US, experts say｜Ars Technica｜https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/
+3. Dario Amodei wants to slow AI. China isn’t taking orders｜Rest of World｜https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+4. Trump’s China rivalry and “AI race” delusion may endanger US, experts say｜Ars Technica｜https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/
+5. Frontier AI keeps racing despite calls to slow down｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
