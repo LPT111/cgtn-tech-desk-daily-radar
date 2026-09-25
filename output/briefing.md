@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/24 19:53:15
+生成时间：2026/9/25 08:56:05
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 0 条
-延续跟踪线索：国内 53 条｜国际 16 条
+新增核心线索：国内 16 条｜国际 10 条
+延续跟踪线索：国内 0 条｜国际 7 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-24] 拉美欧洲先行，AI办公出海样本：Kooko凭什么一年破千万？
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtaz0280124.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “拉美欧洲先行，AI办公出海样本：Kooko凭什么一年破千万？” against primary-source evidence.
-
-2. [2026-09-24] “十五五”文旅如何科技赋能？文旅部明确三方面重点
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtat5119468.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind ““十五五”文旅如何科技赋能？文旅部明确三方面重点” against primary-source evidence.
-
-3. [2026-09-24] 敢为者先行，同行者“聚链”！七腾机器人品牌发布会在渝举办
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtaz0282495.shtml
-   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “敢为者先行，同行者“聚链”！七腾机器人品牌发布会在渝举办” against primary-source evidence.
-
-4. [2026-09-24] 信息通信业竞逐AI时代新价值
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-09-24/doc-iniswrrf5459824.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “信息通信业竞逐AI时代新价值” against primary-source evidence.
-
-5. [2026-09-24] 广州这条产线，要在海外厂商占95%的高频滤波芯
+1. [2026-09-25] 谷歌、OpenAI、Anthropic据称拟共建“前沿AI标
    来源：网易科技
-   链接：https://www.163.com/dy/article/L7K0SBEL0534A4SC.html
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “广州这条产线，要在海外厂商占95%的高频滤波芯” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L7KQRMCD05198CJN.html
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌、OpenAI、Anthropic据称拟共建“前沿AI标” against primary-source evidence.
+
+2. [2026-09-25] AI眼镜出货量420万台创历史新高 Meta一家占超80%市场
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-09-25/doc-inisycsp4958753.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI眼镜出货量420万台创历史新高 Meta一家占超80%市场” against primary-source evidence.
+
+3. [2026-09-25] Meta 的 AI 智能体 Muse 被发现可导出虚拟机大量文件
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-09-25/doc-inisyuqn9854594.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta 的 AI 智能体 Muse 被发现可导出虚拟机大量文件” against primary-source evidence.
+
+4. [2026-09-25] 全球新能源汽车迈入全面市场化新阶段 中国成为产业链重要基石
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-09/25/content_587873.html
+   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “全球新能源汽车迈入全面市场化新阶段 中国成为产业链重要基石” against primary-source evidence.
+
+5. [2026-09-25] Anthropic与AKAMAI达成116亿美元的人工智能算力交易
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L7L9U22O05198CJN.html
+   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic与AKAMAI达成116亿美元的人工智能算力交易” against primary-source evidence.
 
 本次新增线索：
-- 拉美欧洲先行，AI办公出海样本：Kooko凭什么一年破千万？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtaz0280124.shtml
-- “十五五”文旅如何科技赋能？文旅部明确三方面重点｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtat5119468.shtml
-- 敢为者先行，同行者“聚链”！七腾机器人品牌发布会在渝举办｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtaz0282495.shtml
-- 突发！600亿半导体龙头实控人被刑拘：涉嫌职务侵占、挪用资金罪｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtaz0280917.shtml
-- AIMarX亮相DMEXCO 2026：以AI驱动程序化广告，迈向可衡量的全球增长｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxtav8182262.shtml
+- 谷歌、OpenAI、Anthropic据称拟共建“前沿AI标｜网易科技｜https://www.163.com/dy/article/L7KQRMCD05198CJN.html
+- AI眼镜出货量420万台创历史新高 Meta一家占超80%市场｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-09-25/doc-inisycsp4958753.shtml
+- Meta 的 AI 智能体 Muse 被发现可导出虚拟机大量文件｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-25/doc-inisyuqn9854594.shtml
+- 全球新能源汽车迈入全面市场化新阶段 中国成为产业链重要基石｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/25/content_587873.html
+- Anthropic与AKAMAI达成116亿美元的人工智能算力交易｜网易科技｜https://www.163.com/dy/article/L7L9U22O05198CJN.html
+- enforcement of the AI Act｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（16 条，4 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：机器人动态（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
+- AI 应用：AI 应用与智能体（7 条，2 个来源）
+- 芯片/半导体：
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- 科学前沿：
 
 国际科技背景：
-1. Dario Amodei wants to slow AI. China isn’t taking orders｜Rest of World｜https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-2. Trump’s China rivalry and “AI race” delusion may endanger US, experts say｜Ars Technica｜https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/
-3. Anthropic says its biology lab has already found something big｜TechCrunch｜https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/
-4. OpenAI agents ‘infiltrated Australian government website’｜The Register｜https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702
-5. OpenAI's Astra model went for a drive and no one died｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/24/openais-astra-model-went-for-a-drive-and-no-one-died/5298715
+1. enforcement of the AI Act｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act
+2. Any question on the AI Act? Visit our Single Information Platform｜EU AI Office｜https://ai-act-service-desk.ec.europa.eu/en
+3. SpaceX's Starship megarocket aces launch rehearsal ahead of 1st orbital test flight (video)｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacexs-starship-megarocket-aces-launch-222439742.html
+4. Dario Amodei wants to slow AI. China isn’t taking orders｜Rest of World｜https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+5. Trump’s China rivalry and “AI race” delusion may endanger US, experts say｜Ars Technica｜https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
