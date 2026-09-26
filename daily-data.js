@@ -1,36 +1,14 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-09-26T01:28:00.160Z",
+  "generatedAt": "2026-09-26T01:40:04.197Z",
   "radarVersion": "v3",
   "targetDate": "2026-09-26",
   "changeSummary": {
-    "domesticNew": 3,
-    "globalNew": 1,
-    "domesticContinued": 12,
-    "globalContinued": 16,
-    "topNewDomestic": [
-      {
-        "title": "OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml"
-      },
-      {
-        "title": "已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml"
-      },
-      {
-        "title": "拖了近10年，特斯拉Semi终于量产！",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L7O0FGBE05198NMR.html"
-      }
-    ],
-    "topNewGlobal": [
-      {
-        "title": "OpenAI says agent leaked user-submitted images",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-says-agent-leaked-user-010439688.html"
-      }
-    ],
+    "domesticNew": 0,
+    "globalNew": 0,
+    "domesticContinued": 15,
+    "globalContinued": 17,
+    "topNewDomestic": [],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
@@ -52,8 +30,13 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 29,
   "failedSources": [
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -68,6 +51,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -77,6 +65,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -90,6 +83,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -199,8 +197,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -314,8 +313,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -348,13 +348,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1555,
+  "itemsSeen": 1431,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 219,
-  "itemsAfterDedupe": 163,
+  "itemsAfterRelevantFilter": 178,
+  "itemsAfterDedupe": 141,
   "todayItemsSeen": 15,
-  "suspectedItemsSeen": 12,
-  "skippedNonToday": 134,
+  "suspectedItemsSeen": 11,
+  "skippedNonToday": 113,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -457,8 +457,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -572,8 +573,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -761,6 +763,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -774,6 +781,11 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -862,17 +874,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "新能源车动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "拖了近10年，特斯拉Semi终于量产！"
-      ]
-    },
-    {
       "topic": "AI动态",
       "count": 1,
       "sourceCount": 1,
@@ -881,6 +882,17 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "特朗普将于下周二推出AI驱动的新网站America.gov"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "网易科技"
+      ],
+      "items": [
+        "拖了近10年，特斯拉Semi终于量产！"
       ]
     },
     {
@@ -1109,7 +1121,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1177,7 +1189,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1314,74 +1326,6 @@ window.CHENCHEN_DAILY_DATA = {
         "AI失控了？OpenAI确认干预3家美国政府网站"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "拖了近10年，特斯拉Semi终于量产！",
-      "summary": "拖了近10年，特斯拉Semi终于量产！,续航,电芯,电动汽车,埃隆_马斯克,特斯拉semi",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L7O0FGBE05198NMR.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L7O0FGBE05198NMR.html"
-      ],
-      "publishedAt": "2026-09-26",
-      "date": "2026-09-26",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “拖了近10年，特斯拉Semi终于量产！” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "拖了近10年，特斯拉Semi终于量产！,续航,电芯,电动汽车,埃隆_马斯克,特斯拉semi",
-      "relatedTitles": [
-        "拖了近10年，特斯拉Semi终于量产！"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1725,6 +1669,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "拖了近10年，特斯拉Semi终于量产！",
+      "summary": "拖了近10年，特斯拉Semi终于量产！,续航,电芯,电动汽车,埃隆_马斯克,特斯拉semi",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L7O0FGBE05198NMR.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L7O0FGBE05198NMR.html"
+      ],
+      "publishedAt": "2026-09-26",
+      "date": "2026-09-26",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “拖了近10年，特斯拉Semi终于量产！” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "拖了近10年，特斯拉Semi终于量产！,续航,电芯,电动汽车,埃隆_马斯克,特斯拉semi",
+      "relatedTitles": [
+        "拖了近10年，特斯拉Semi终于量产！"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "OpenAI据悉仍在调查其AI智能体的异常活动范围",
       "summary": "OpenAI据悉仍在调查其AI智能体的异常活动范围,托管,泄露,智能体,openai",
       "source": "网易科技",
@@ -1930,73 +1942,6 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "suspectedLeads": [
     {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "马斯克：中国会比大多数人预想得更快，粗略估计两三年内",
-      "summary": "9月25日晚，微信公众号“央视财经”发布对美国特斯拉CEO埃隆·马斯克的专访。马斯克就中国人工智能（AI）大",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_09_26_902248.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_09_26_902248.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.76,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 156,
-      "reporterScore": 172,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 115
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “马斯克：中国会比大多数人预想得更快，粗略估计两三年内” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "9月25日晚，微信公众号“央视财经”发布对美国特斯拉CEO埃隆·马斯克的专访。马斯克就中国人工智能（AI）大",
-      "relatedTitles": [
-        "马斯克：中国会比大多数人预想得更快，粗略估计两三年内"
-      ]
-    },
-    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "A社O社，坐不住了",
       "summary": "车圈最新认知 文远发布物理AI大模型WITT：让每一公里都变成模型能力 单卡日处理1万分钟视频 杰西卡 2026-07-17 文远知行 车圈最新认知 理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价 最快下周一提车 杰西卡 2026-07-16 新一代理想L6 理想汽车 车圈最新认知 马",
@@ -2061,73 +2006,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "原标题：A社O社，坐不住了 来源：定焦One大模型卷完参数，开始卷价格。这一次带头降价的，是两家最不缺客户的公司。美国时间9月22日，Anthropic发布Claude Opus 5.5。约一个半小时后，OpenAI推出GPT-6 S...",
       "relatedTitles": [
         "A社O社，坐不住了"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "韩国扩大“间谍罪”范围，剑指中美？",
-      "summary": "此前，韩国传统间谍罪体系主要围绕“敌国”展开，在现实执法中长期高度指向朝鲜。此次调整发生在韩国持续强化半导体和先进技术保护的背景下……",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_09_20_901156.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/shijiekexiansheng/2026_09_20_901156.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "芯片",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 148,
-      "reporterScore": 156,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “韩国扩大“间谍罪”范围，剑指中美？” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "此前，韩国传统间谍罪体系主要围绕“敌国”展开，在现实执法中长期高度指向朝鲜。此次调整发生在韩国持续强化半导体和先进技术保护的背景下……",
-      "relatedTitles": [
-        "韩国扩大“间谍罪”范围，剑指中美？"
       ]
     },
     {
@@ -2266,73 +2144,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "报告显示：中国成为顶尖AI研究人员的首选就业地",
-      "summary": "对顶尖AI研究人员而言，硅谷已不再拥有往日那种无可匹敌的吸引力。据《南华早报》报道，卡内基中国中心本周发布的",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_09_25_902229.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_09_25_902229.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 135,
-      "reporterScore": 143,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “报告显示：中国成为顶尖AI研究人员的首选就业地” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "对顶尖AI研究人员而言，硅谷已不再拥有往日那种无可匹敌的吸引力。据《南华早报》报道，卡内基中国中心本周发布的",
-      "relatedTitles": [
-        "报告显示：中国成为顶尖AI研究人员的首选就业地"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "“白宫要求OpenAI等暂缓向英国测试机构提供新模型”",
       "summary": "蔺渊 评论 28 “白宫要求OpenAI等暂缓向英国测试机构提供新模型” <img original=\"https://i.guancha.cn/news/2026/9/25/74c84fe11a774501aac39516e2340c01.jpg\" class=\"lazy height254\" data-origin",
       "source": "观察者网-产业科技",
@@ -2396,6 +2207,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "蔺渊 评论 28 “白宫要求OpenAI等暂缓向英国测试机构提供新模型” <img original=\"https://i.guancha.cn/news/2026/9/25/74c84fe11a774501aac39516e2340c01.jpg\" class=\"lazy height254\" data-original=\"https://i.guanc",
       "relatedTitles": [
         "“白宫要求OpenAI等暂缓向英国测试机构提供新模型”"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "阅读 36602",
+      "summary": "此前，韩国传统间谍罪体系主要围绕“敌国”展开，在现实执法中长期高度指向朝鲜。此次调整发生在韩国持续强化半导体和先进技术保护的背景下……",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_09_20_901156.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/shijiekexiansheng/2026_09_20_901156.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 139,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “阅读 36602” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "此前，韩国传统间谍罪体系主要围绕“敌国”展开，在现实执法中长期高度指向朝鲜。此次调整发生在韩国持续强化半导体和先进技术保护的背景下……",
+      "relatedTitles": [
+        "阅读 36602"
       ]
     },
     {
@@ -2468,7 +2346,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "机器人技术专家吴林逝世，曾为神舟飞船作出贡献",
-      "summary": "uancha.cn/main/content?id=1743936\" target=\"_blank\" data-sensor=\"阅读数\">阅读 42834 评论 19 机器人技术专家吴林逝世，曾为神舟飞船作出贡献 <img class=\"lazy height150\" data-original=\"https://i.",
+      "summary": "uancha.cn/main/content?id=1743936\" target=\"_blank\" data-sensor=\"阅读数\">阅读 44005 评论 19 机器人技术专家吴林逝世，曾为神舟飞船作出贡献 <img class=\"lazy height150\" data-original=\"https://i.",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2527,7 +2405,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “机器人技术专家吴林逝世，曾为神舟飞船作出贡献” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "机器人动态",
-      "rawText": "uancha.cn/main/content?id=1743936\" target=\"_blank\" data-sensor=\"阅读数\">阅读 42834 评论 19 机器人技术专家吴林逝世，曾为神舟飞船作出贡献 <img class=\"lazy height150\" data-original=\"https://i.guancha.cn/news/2026/9/25/4176b30817b1463ab8eb6f0feaedb1aa.jpg\" alt=\"机器人技术专家吴林逝世，曾为神舟飞船",
+      "rawText": "uancha.cn/main/content?id=1743936\" target=\"_blank\" data-sensor=\"阅读数\">阅读 44005 评论 19 机器人技术专家吴林逝世，曾为神舟飞船作出贡献 <img class=\"lazy height150\" data-original=\"https://i.guancha.cn/news/2026/9/25/4176b30817b1463ab8eb6f0feaedb1aa.jpg\" alt=\"机器人技术专家吴林逝世，曾为神舟飞船",
       "relatedTitles": [
         "机器人技术专家吴林逝世，曾为神舟飞船作出贡献"
       ]
@@ -2535,7 +2413,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "“数学那么难，交给AI不好吗？”",
-      "summary": "a href=\"/SaturdayAtelier/2026_09_19_901217.shtml\" target=\"_blank\" data-sensor=\"阅读数\">阅读 48194 评论 56 “数学那么难，交给AI不好吗？” <img original=\"https://i.guancha.cn/authors/",
+      "summary": "a href=\"/SaturdayAtelier/2026_09_19_901217.shtml\" target=\"_blank\" data-sensor=\"阅读数\">阅读 48201 评论 56 “数学那么难，交给AI不好吗？” <img original=\"https://i.guancha.cn/authors/",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2594,9 +2472,76 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind ““数学那么难，交给AI不好吗？”” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI动态",
-      "rawText": "a href=\"/SaturdayAtelier/2026_09_19_901217.shtml\" target=\"_blank\" data-sensor=\"阅读数\">阅读 48194 评论 56 “数学那么难，交给AI不好吗？” <img original=\"https://i.guancha.cn/authors/zhuzhaoyi/20260715101142292.png\" class=\"lazy height45\" data-original=\"https://i.guancha.cn/authors/zhuzhaoyi",
+      "rawText": "a href=\"/SaturdayAtelier/2026_09_19_901217.shtml\" target=\"_blank\" data-sensor=\"阅读数\">阅读 48201 评论 56 “数学那么难，交给AI不好吗？” <img original=\"https://i.guancha.cn/authors/zhuzhaoyi/20260715101142292.png\" class=\"lazy height45\" data-original=\"https://i.guancha.cn/authors/zhuzhaoyi",
       "relatedTitles": [
         "“数学那么难，交给AI不好吗？”"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "报告显示：中国成为顶尖AI研究人员的首选就业地",
+      "summary": "张璁煜 评论 34 报告显示：中国成为顶尖AI研究人员的首选就业地 <img original=\"https://i.guancha.cn/news/2026/09/25/907d76e717534f1c85dc68fbef4a548f.jpg\" class=\"lazy height254\" data-original",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_09_25_902229.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_09_25_902229.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 127,
+      "reporterScore": 127,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “报告显示：中国成为顶尖AI研究人员的首选就业地” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "张璁煜 评论 34 报告显示：中国成为顶尖AI研究人员的首选就业地 <img original=\"https://i.guancha.cn/news/2026/09/25/907d76e717534f1c85dc68fbef4a548f.jpg\" class=\"lazy height254\" data-original=\"https://i.guan",
+      "relatedTitles": [
+        "报告显示：中国成为顶尖AI研究人员的首选就业地"
       ]
     },
     {
@@ -2833,38 +2778,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI says agent leaked user-submitted images",
-      "summary": "ChatGPT-maker OpenAI said its artificial intelligence (AI) agents had leaked 53 user-submitted images on the internet. \"We have identified 53 instances to date where user-provided ",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-says-agent-leaked-user-010439688.html",
-      "publishedAt": "2026-09-26",
-      "date": "2026-09-26",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI says agent leaked user-submitted images” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
       "summary": "There will obviously be legal consequences,\" prime minister promises.",
       "source": "Ars Technica",
@@ -3089,6 +3002,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI says agent leaked user-submitted images",
+      "summary": "ChatGPT-maker OpenAI said its artificial intelligence (AI) agents had leaked 53 user-submitted images on the internet. \"We have identified 53 instances to date where user-provided ",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-says-agent-leaked-user-010439688.html",
+      "publishedAt": "2026-09-26",
+      "date": "2026-09-26",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI says agent leaked user-submitted images” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven",
       "summary": "Meta CEO Mark Zuckerberg's new Muse Charm device is intended to put his company ahead of rivals like OpenAI and Google in AI agents and consumer hardware.",
       "source": "CNBC Technology",
@@ -3280,8 +3225,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-26｜V3\n生成时间：2026/9/26 09:28:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2523｜确认今日 15｜国际背景 17\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 1 条\n延续跟踪线索：国内 12 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-26] OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvk8824558.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网” against primary-source evidence.\n\n2. [2026-09-26] 特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7441378.shtml\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题” against primary-source evidence.\n\n3. [2026-09-26] OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站” against primary-source evidence.\n\n4. [2026-09-26] 已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存” against primary-source evidence.\n\n5. [2026-09-26] Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initaxpf3786570.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力” against primary-source evidence.\n\n本次新增线索：\n- OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml\n- 已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml\n- 拖了近10年，特斯拉Semi终于量产！｜网易科技｜https://www.163.com/dy/article/L7O0FGBE05198NMR.html\n- OpenAI says agent leaked user-submitted images｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-agent-leaked-user-010439688.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. enforcement of the AI Act｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act\n2. Any question on the AI Act? Visit our Single Information Platform｜EU AI Office｜https://ai-act-service-desk.ec.europa.eu/en\n3. For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts｜TechCrunch｜https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/\n4. OpenAI says agent leaked user-submitted images｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-agent-leaked-user-010439688.html\n5. OpenAI agent “didn’t accept no for an answer” in Australian government breach｜Ars Technica｜https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-26｜V3\n生成时间：2026/9/26 09:28:00\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2523｜确认今日 15｜国际背景 17\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 1 条\n延续跟踪线索：国内 12 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-26] OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvk8824558.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网” against primary-source evidence.\n\n2. [2026-09-26] 特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7441378.shtml\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题” against primary-source evidence.\n\n3. [2026-09-26] OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站” against primary-source evidence.\n\n4. [2026-09-26] 已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存” against primary-source evidence.\n\n5. [2026-09-26] Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initaxpf3786570.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力” against primary-source evidence.\n\n本次新增线索：\n- OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml\n- 已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml\n- 拖了近10年，特斯拉Semi终于量产！｜网易科技｜https://www.163.com/dy/article/L7O0FGBE05198NMR.html\n- OpenAI says agent leaked user-submitted images｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-agent-leaked-user-010439688.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. enforcement of the AI Act｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act\n2. Any question on the AI Act? Visit our Single Information Platform｜EU AI Office｜https://ai-act-service-desk.ec.europa.eu/en\n3. For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts｜TechCrunch｜https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/\n4. OpenAI says agent leaked user-submitted images｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-agent-leaked-user-010439688.html\n5. OpenAI agent “didn’t accept no for an answer” in Australian government breach｜Ars Technica｜https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-26｜生成时间：2026/9/26 09:28:00｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2523｜确认今日 15｜国际背景 17</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 1 条<br>延续跟踪线索：国内 12 条｜国际 16 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-26] OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网</strong>\n      <span>新浪科技｜2026-09-26｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvk8824558.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-26] 特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题</strong>\n      <span>新浪科技｜2026-09-26｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7441378.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-26] OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站</strong>\n      <span>新浪科技｜2026-09-26｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-26] 已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存</strong>\n      <span>新浪科技｜2026-09-26｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-26] Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力</strong>\n      <span>新浪科技｜2026-09-26｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initaxpf3786570.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. enforcement of the AI Act</strong>\n      <span>时间：2026-09-24｜来源：EU AI Office｜<a href=\"https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “enforcement of the AI Act” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Any question on the AI Act? Visit our Single Information Platform</strong>\n      <span>时间：Thu, 24 Sep 2026 16:49:40 +0200｜来源：EU AI Office｜<a href=\"https://ai-act-service-desk.ec.europa.eu/en\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “Any question on the AI Act? Visit our Single Information Platform” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts</strong>\n      <span>时间：Fri, 25 Sep 2026 15:48:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “For months, OpenAI’s agent swarms have been attacking online databases t” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI says agent leaked user-submitted images</strong>\n      <span>时间：2026-09-26｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/openai-says-agent-leaked-user-010439688.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI says agent leaked user-submitted images” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI agent “didn’t accept no for an answer” in Australian government breach</strong>\n      <span>时间：Thu, 24 Sep 2026 16:01:16 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI agent “didn’t accept no for an answer” in Australian government b” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/26 09:28:00\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 1 条\n延续跟踪线索：国内 12 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-26] OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvk8824558.shtml\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网” against primary-source evidence.\n\n2. [2026-09-26] 特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7441378.shtml\n   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题” against primary-source evidence.\n\n3. [2026-09-26] OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站” against primary-source evidence.\n\n4. [2026-09-26] 已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存” against primary-source evidence.\n\n5. [2026-09-26] Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initaxpf3786570.shtml\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力” against primary-source evidence.\n\n本次新增线索：\n- OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml\n- 已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml\n- 拖了近10年，特斯拉Semi终于量产！｜网易科技｜https://www.163.com/dy/article/L7O0FGBE05198NMR.html\n- OpenAI says agent leaked user-submitted images｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-agent-leaked-user-010439688.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. enforcement of the AI Act｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act\n2. Any question on the AI Act? Visit our Single Information Platform｜EU AI Office｜https://ai-act-service-desk.ec.europa.eu/en\n3. For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts｜TechCrunch｜https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/\n4. OpenAI says agent leaked user-submitted images｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-agent-leaked-user-010439688.html\n5. OpenAI agent “didn’t accept no for an answer” in Australian government breach｜Ars Technica｜https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-26｜V3\n生成时间：2026/9/26 09:40:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2399｜确认今日 15｜国际背景 17\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 15 条｜国际 17 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-09-26] OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvk8824558.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网” against primary-source evidence.\n\n2. [2026-09-26] 特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7441378.shtml\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题” against primary-source evidence.\n\n3. [2026-09-26] OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站” against primary-source evidence.\n\n4. [2026-09-26] 已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存” against primary-source evidence.\n\n5. [2026-09-26] Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initaxpf3786570.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. enforcement of the AI Act｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act\n2. Any question on the AI Act? Visit our Single Information Platform｜EU AI Office｜https://ai-act-service-desk.ec.europa.eu/en\n3. For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts｜TechCrunch｜https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/\n4. OpenAI agent “didn’t accept no for an answer” in Australian government breach｜Ars Technica｜https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/\n5. Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory｜CNBC Technology｜https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-26｜V3\n生成时间：2026/9/26 09:40:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2399｜确认今日 15｜国际背景 17\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 15 条｜国际 17 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-09-26] OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvk8824558.shtml\n   报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网” against primary-source evidence.\n\n2. [2026-09-26] 特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7441378.shtml\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题” against primary-source evidence.\n\n3. [2026-09-26] OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站” against primary-source evidence.\n\n4. [2026-09-26] 已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存” against primary-source evidence.\n\n5. [2026-09-26] Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力\n   新浪科技｜2026-09-26｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initaxpf3786570.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. enforcement of the AI Act｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act\n2. Any question on the AI Act? Visit our Single Information Platform｜EU AI Office｜https://ai-act-service-desk.ec.europa.eu/en\n3. For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts｜TechCrunch｜https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/\n4. OpenAI agent “didn’t accept no for an answer” in Australian government breach｜Ars Technica｜https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/\n5. Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory｜CNBC Technology｜https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-26｜生成时间：2026/9/26 09:40:04｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2399｜确认今日 15｜国际背景 17</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 0 条<br>延续跟踪线索：国内 15 条｜国际 17 条<br>本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-26] OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网</strong>\n      <span>新浪科技｜2026-09-26｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvk8824558.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-26] 特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题</strong>\n      <span>新浪科技｜2026-09-26｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7441378.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：209｜需核验来源</span>\n      <p>报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-26] OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站</strong>\n      <span>新浪科技｜2026-09-26｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-26] 已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存</strong>\n      <span>新浪科技｜2026-09-26｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-26] Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力</strong>\n      <span>新浪科技｜2026-09-26｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initaxpf3786570.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. enforcement of the AI Act</strong>\n      <span>时间：2026-09-24｜来源：EU AI Office｜<a href=\"https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “enforcement of the AI Act” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Any question on the AI Act? Visit our Single Information Platform</strong>\n      <span>时间：Thu, 24 Sep 2026 16:49:40 +0200｜来源：EU AI Office｜<a href=\"https://ai-act-service-desk.ec.europa.eu/en\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Build an accountability-focused policy story around technology policy, AI governance, safety and standards, timelines, enforcement and affected stakeholders. For this item, test the claim behind “Any question on the AI Act? Visit our Single Information Platform” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts</strong>\n      <span>时间：Fri, 25 Sep 2026 15:48:14 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “For months, OpenAI’s agent swarms have been attacking online databases t” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI agent “didn’t accept no for an answer” in Australian government breach</strong>\n      <span>时间：Thu, 24 Sep 2026 16:01:16 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI agent “didn’t accept no for an answer” in Australian government b” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory</strong>\n      <span>时间：Fri, 25 Sep 2026 01:50:12 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Tesla poised to scale production of heavy-duty Semi trucks with opening ” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/26 09:40:04\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 0 条\n延续跟踪线索：国内 15 条｜国际 17 条\n本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。\n\n最值得关注：\n1. [2026-09-26] OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvk8824558.shtml\n   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网” against primary-source evidence.\n\n2. [2026-09-26] 特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7441378.shtml\n   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题” against primary-source evidence.\n\n3. [2026-09-26] OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站” against primary-source evidence.\n\n4. [2026-09-26] 已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存” against primary-source evidence.\n\n5. [2026-09-26] Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initaxpf3786570.shtml\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力” against primary-source evidence.\n\n本次新增线索：\n- 暂无新增核心线索。\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. enforcement of the AI Act｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act\n2. Any question on the AI Act? Visit our Single Information Platform｜EU AI Office｜https://ai-act-service-desk.ec.europa.eu/en\n3. For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts｜TechCrunch｜https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/\n4. OpenAI agent “didn’t accept no for an answer” in Australian government breach｜Ars Technica｜https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/\n5. Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory｜CNBC Technology｜https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };

@@ -3,14 +3,14 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/26 09:28:00
+生成时间：2026/9/26 09:40:04
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 1 条
-延续跟踪线索：国内 12 条｜国际 16 条
-本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
+新增核心线索：国内 0 条｜国际 0 条
+延续跟踪线索：国内 15 条｜国际 17 条
+本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
 1. [2026-09-26] OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网
@@ -39,10 +39,7 @@ ChenChen 今日 Briefing｜V3
    角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力” against primary-source evidence.
 
 本次新增线索：
-- OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initccvi4006157.shtml
-- 已破苹果最长迭代空窗期纪录：苹果 Apple TV 4K（第四代）曝光，A17 Pro 芯片 +8GB 内存｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-26/doc-initccvc3680255.shtml
-- 拖了近10年，特斯拉Semi终于量产！｜网易科技｜https://www.163.com/dy/article/L7O0FGBE05198NMR.html
-- OpenAI says agent leaked user-submitted images｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-agent-leaked-user-010439688.html
+- 暂无新增核心线索。
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（7 条，3 个来源）
@@ -56,8 +53,8 @@ ChenChen 今日 Briefing｜V3
 1. enforcement of the AI Act｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act
 2. Any question on the AI Act? Visit our Single Information Platform｜EU AI Office｜https://ai-act-service-desk.ec.europa.eu/en
 3. For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts｜TechCrunch｜https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/
-4. OpenAI says agent leaked user-submitted images｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-says-agent-leaked-user-010439688.html
-5. OpenAI agent “didn’t accept no for an answer” in Australian government breach｜Ars Technica｜https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/
+4. OpenAI agent “didn’t accept no for an answer” in Australian government breach｜Ars Technica｜https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/
+5. Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory｜CNBC Technology｜https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
