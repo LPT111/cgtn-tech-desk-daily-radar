@@ -3,12 +3,12 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/27 09:20:52
+生成时间：2026/9/27 09:33:23
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 0 条｜国际 1 条
+新增核心线索：国内 2 条｜国际 1 条
 延续跟踪线索：国内 12 条｜国际 11 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
@@ -39,20 +39,22 @@ ChenChen 今日 Briefing｜V3
    角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题” against primary-source evidence.
 
 本次新增线索：
-- OpenAI pauses work on top AI models after safeguard breach｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-pauses-top-ai-models-004825796.html
+- 聊聊天就能调GPU！英伟达AI新专利：自动写脚本定位性能问题｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpai9769297.shtml
+- 万里通途越天山！蔚来丝绸之路换电路线正式贯通｜新浪科技｜https://finance.sina.com.cn/tob/2026-09-27/doc-initfpai9764805.shtml
+- Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India｜TechCrunch｜https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（5 条，2 个来源）
-- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）
 - 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：
 
 国际科技背景：
 1. Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html
 2. Scoop: Top AI companies probing tens of thousands of security incidents｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/scoop-top-ai-companies-probing-223553422.html
-3. OpenAI pauses work on top AI models after safeguard breach｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-pauses-top-ai-models-004825796.html
+3. Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India｜TechCrunch｜https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/
 4. Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk｜WIRED Business｜https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/
 5. Tesla workers balk at training Optimus humanoid robots as replacements｜Ars Technica｜https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/
 
