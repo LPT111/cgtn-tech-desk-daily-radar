@@ -1,54 +1,18 @@
 {
-  "generatedAt": "2026-09-27T00:58:16.104Z",
+  "generatedAt": "2026-09-27T01:20:52.891Z",
   "radarVersion": "v3",
   "targetDate": "2026-09-27",
   "changeSummary": {
-    "domesticNew": 13,
-    "globalNew": 3,
-    "domesticContinued": 0,
-    "globalContinued": 8,
-    "topNewDomestic": [
-      {
-        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhuq3677788.shtml"
-      },
-      {
-        "title": "前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml"
-      },
-      {
-        "title": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhum9855934.shtml"
-      },
-      {
-        "title": "外交部发言人就人工智能问题答记者问",
-        "source": "科技日报",
-        "url": "https://www.stdaily.com/web/gdxw/2026-09/27/content_588669.html"
-      },
-      {
-        "title": "唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpaq0357119.shtml"
-      }
-    ],
+    "domesticNew": 0,
+    "globalNew": 1,
+    "domesticContinued": 12,
+    "globalContinued": 11,
+    "topNewDomestic": [],
     "topNewGlobal": [
       {
-        "title": "Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon",
+        "title": "OpenAI pauses work on top AI models after safeguard breach",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html"
-      },
-      {
-        "title": "Scoop: Top AI companies probing tens of thousands of security incidents",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/cybersecurity/articles/scoop-top-ai-companies-probing-223553422.html"
-      },
-      {
-        "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html"
+        "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-pauses-top-ai-models-004825796.html"
       }
     ],
     "hasPrevious": true
@@ -57,8 +21,8 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 887,
-    "globalRejected": 889,
+    "domesticRejected": 888,
+    "globalRejected": 888,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -121,7 +85,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 139,
+      "parsed": 140,
       "failed": false,
       "optional": false
     },
@@ -368,18 +332,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1510,
+  "itemsSeen": 1511,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 268,
-  "itemsAfterDedupe": 184,
-  "todayItemsSeen": 13,
-  "suspectedItemsSeen": 15,
-  "skippedNonToday": 156,
+  "itemsAfterRelevantFilter": 265,
+  "itemsAfterDedupe": 183,
+  "todayItemsSeen": 12,
+  "suspectedItemsSeen": 16,
+  "skippedNonToday": 155,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 139,
+      "parsed": 140,
       "failed": false,
       "optional": false
     },
@@ -638,7 +602,7 @@
     {
       "name": "France24 Technology",
       "tier": "international",
-      "parsed": 155,
+      "parsed": 154,
       "failed": false,
       "optional": false
     },
@@ -825,9 +789,9 @@
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 17,
-  "globalItemsSeen": 970,
+  "globalItemsSeen": 969,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 159,
+  "globalItemsAfterRelevantFilter": 161,
   "topics": [
     {
       "topic": "AI 应用与智能体",
@@ -846,19 +810,6 @@
       ]
     },
     {
-      "topic": "AI动态",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "科技日报",
-        "新浪科技"
-      ],
-      "items": [
-        "外交部发言人就人工智能问题答记者问",
-        "云栖大会：中关村科金携手伙伴加速AI规模化落地"
-      ]
-    },
-    {
       "topic": "新能源车动态",
       "count": 2,
       "sourceCount": 1,
@@ -868,6 +819,17 @@
       "items": [
         "因为一颗转向螺栓 大众拟在全球召回约286万辆汽车",
         "欧盟层面 FSD（监督版）投票推迟，特斯拉与爱尔兰展开审批磋商"
+      ]
+    },
+    {
+      "topic": "AI动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "科技日报"
+      ],
+      "items": [
+        "外交部发言人就人工智能问题答记者问"
       ]
     },
     {
@@ -982,7 +944,7 @@
       "relatedTitles": [
         "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1050,7 +1012,7 @@
       "relatedTitles": [
         "前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1118,7 +1080,7 @@
       "relatedTitles": [
         "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1186,7 +1148,7 @@
       "relatedTitles": [
         "外交部发言人就人工智能问题答记者问"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1254,7 +1216,7 @@
       "relatedTitles": [
         "唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1322,75 +1284,7 @@
       "relatedTitles": [
         "“追火箭”追出文旅新体验"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "云栖大会：中关村科金携手伙伴加速AI规模化落地",
-      "summary": "2026年09月26日 23:59:239月24日，2026 云栖大会于杭州顺利闭幕。本届大会以“Agentic AI”为核心锚点，串联起从芯片、云基础设施，到模型能力、模型服务，再到Agentic应用的完整技术链路，共同探索AI从技术走向...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initerww3919052.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initerww3919052.shtml"
-      ],
-      "publishedAt": "2026-09-27",
-      "date": "2026-09-27",
-      "category": "AI",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “云栖大会：中关村科金携手伙伴加速AI规模化落地” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "2026年09月26日 23:59:239月24日，2026 云栖大会于杭州顺利闭幕。本届大会以“Agentic AI”为核心锚点，串联起从芯片、云基础设施，到模型能力、模型服务，再到Agentic应用的完整技术链路，共同探索AI从技术走向...",
-      "relatedTitles": [
-        "云栖大会：中关村科金携手伙伴加速AI规模化落地"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1458,7 +1352,7 @@
       "relatedTitles": [
         "因为一颗转向螺栓 大众拟在全球召回约286万辆汽车"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1526,7 +1420,7 @@
       "relatedTitles": [
         "欧盟层面 FSD（监督版）投票推迟，特斯拉与爱尔兰展开审批磋商"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1594,7 +1488,7 @@
       "relatedTitles": [
         "刚刚，OpenAI又停训了：Agent逃出沙箱，更多越权事件被扒"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1662,7 +1556,7 @@
       "relatedTitles": [
         "IT早报 0927：微信鸿蒙版 App 安装量破 8000 万；豆包手机助手回应努比亚手机王者荣耀异常；华为大疆联名推出 Pocket 4；OpenAI 暂停最强模型训练"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1730,7 +1624,7 @@
       "relatedTitles": [
         "从成长到实证：天加数据中心能力全面升级，三大里程碑同日落地"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1798,13 +1692,13 @@
       "relatedTitles": [
         "赛力斯回应问界专属专营后是否支持鸿蒙智行独家技术，称将持续应用华为智能化技术并不断迭代升级"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 38659",
+      "title": "阅读 39454",
       "summary": "比尔·盖茨再次发声，呼吁各国政府参与并加强对人工智能（AI）的监管。在美国全国广播公司（NBC）9月25日发",
       "source": "观察者网-产业科技",
       "sources": [
@@ -1861,12 +1755,12 @@
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “阅读 38659” against primary-source evidence.",
+      "angle": "Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “阅读 39454” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI动态",
       "rawText": "比尔·盖茨再次发声，呼吁各国政府参与并加强对人工智能（AI）的监管。在美国全国广播公司（NBC）9月25日发",
       "relatedTitles": [
-        "阅读 38659"
+        "阅读 39454"
       ]
     },
     {
@@ -2674,17 +2568,17 @@
       ]
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "比尔·盖茨最新警告：AI足够强大，足以引发十亿人死亡事件",
-      "summary": "当地时间9月25日，微软联合创始人比尔·盖茨在接受媒体采访时，再次表达了对AI不利影响的担忧，甚至警告称人工智能是一种“足够强大”的工具，“足以引发导致十亿人死亡的事件”。在比尔·盖茨看来，“历史上从未有过任何一种武器，能比得上怀有恶意的人...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "比尔·盖茨最新警告：AI足够强大，足以引发十亿",
+      "summary": "比尔·盖茨最新警告：AI足够强大，足以引发十亿人死亡事件,微软,黄仁勋,马尔斯,比尔盖茨,人工智能,死亡事件,知名企业,比尔·盖茨,高级副总裁,埃隆_马斯克",
+      "source": "网易科技",
       "sources": [
-        "新浪科技"
+        "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initefhw8397372.shtml",
+      "url": "https://www.163.com/dy/article/L7PAMG7K0534A4SC.html",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-09-26/doc-initefhw8397372.shtml"
+        "https://www.163.com/dy/article/L7PAMG7K0534A4SC.html"
       ],
       "publishedAt": "2026-09-26",
       "date": "2026-09-26",
@@ -2732,12 +2626,12 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “比尔·盖茨最新警告：AI足够强大，足以引发十亿人死亡事件” against primary-source evidence.",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “比尔·盖茨最新警告：AI足够强大，足以引发十亿” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI动态",
-      "rawText": "当地时间9月25日，微软联合创始人比尔·盖茨在接受媒体采访时，再次表达了对AI不利影响的担忧，甚至警告称人工智能是一种“足够强大”的工具，“足以引发导致十亿人死亡的事件”。在比尔·盖茨看来，“历史上从未有过任何一种武器，能比得上怀有恶意的人...",
+      "rawText": "比尔·盖茨最新警告：AI足够强大，足以引发十亿人死亡事件,微软,黄仁勋,马尔斯,比尔盖茨,人工智能,死亡事件,知名企业,比尔·盖茨,高级副总裁,埃隆_马斯克",
       "relatedTitles": [
-        "比尔·盖茨最新警告：AI足够强大，足以引发十亿人死亡事件"
+        "比尔·盖茨最新警告：AI足够强大，足以引发十亿"
       ]
     },
     {
@@ -2806,6 +2700,73 @@
       "relatedTitles": [
         "教皇警告AI风险：小心在“机器天堂”里失去人性"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "硬科技早报|三大运营商暂停0元购机；OpenAI用中国模型评测攻击效果",
+      "summary": "e-interact\" style=\"padding:15px 0;\"> 冉召月 评论 12 硬科技早报|三大运营商暂停0元购机；OpenAI用中国模型评测攻击效果 <img class=\"lazy height150\" data-original=\"https://i.guancha.cn/news/2026/9/2",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/CaiJing/2026_09_27_902366.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/CaiJing/2026_09_27_902366.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 127,
+      "reporterScore": 127,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “硬科技早报|三大运营商暂停0元购机；OpenAI用中国模型评测攻击效果” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "e-interact\" style=\"padding:15px 0;\"> 冉召月 评论 12 硬科技早报|三大运营商暂停0元购机；OpenAI用中国模型评测攻击效果 <img class=\"lazy height150\" data-original=\"https://i.guancha.cn/news/2026/9/27/73442d265d1c4fd78ba28439d55cef5d.jpg\" alt=\"硬科技早报|三大运营商暂停0元购机；O",
+      "relatedTitles": [
+        "硬科技早报|三大运营商暂停0元购机；OpenAI用中国模型评测攻击效果"
+      ]
     }
   ],
   "globalLeads": [
@@ -2839,7 +2800,7 @@
         "reporterScore": 103
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2871,16 +2832,16 @@
         "reporterScore": 120
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-      "summary": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
-      "publishedAt": "Sat, 26 Sep 2026 17:10:32 GMT",
-      "date": "2026-09-26",
+      "title": "OpenAI pauses work on top AI models after safeguard breach",
+      "summary": "ChatGPT developer OpenAI has paused work involving its most capable artificial intelligence models after one of its systems bypassed internet restrictions and contacted an external",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-pauses-top-ai-models-004825796.html",
+      "publishedAt": "2026-09-27",
+      "date": "2026-09-27",
       "region": "US",
       "category": "AI",
       "classificationConfidence": 0.99,
@@ -2888,7 +2849,7 @@
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI expands review of model behavior after more rogue agent incidents” against primary-source evidence.",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI pauses work on top AI models after safeguard breach” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -2900,9 +2861,9 @@
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 95
+        "reporterScore": 110
       },
-      "status": "recent_48h",
+      "status": "confirmed_today",
       "isNewSinceLastRun": true
     },
     {
@@ -3099,6 +3060,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
+      "summary": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
+      "publishedAt": "Sat, 26 Sep 2026 17:10:32 GMT",
+      "date": "2026-09-26",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI expands review of model behavior after more rogue agent incidents” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Microsoft's Copilot is an all-in-one AI app now",
       "summary": "Microsoft's AI \"super app\" includes an AI chatbot, agents and coding along with Word and Excel.",
       "source": "Yahoo News Technology",
@@ -3162,8 +3155,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-27｜V3\n生成时间：2026/9/27 08:58:16\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2480｜确认今日 13｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 3 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-27] 消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhuq3677788.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件” against primary-source evidence.\n\n2. [2026-09-27] 前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中” against primary-source evidence.\n\n3. [2026-09-27] 接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhum9855934.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练” against primary-source evidence.\n\n4. [2026-09-27] 外交部发言人就人工智能问题答记者问\n   科技日报｜2026-09-27｜https://www.stdaily.com/web/gdxw/2026-09/27/content_588669.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “外交部发言人就人工智能问题答记者问” against primary-source evidence.\n\n5. [2026-09-27] 唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpaq0357119.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题” against primary-source evidence.\n\n本次新增线索：\n- 消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhuq3677788.shtml\n- 前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中｜新浪科技｜https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml\n- 接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhum9855934.shtml\n- 外交部发言人就人工智能问题答记者问｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/27/content_588669.html\n- 唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpaq0357119.shtml\n- Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html\n2. Scoop: Top AI companies probing tens of thousands of security incidents｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/scoop-top-ai-companies-probing-223553422.html\n3. OpenAI expands review of model behavior after more rogue agent incidents emerge｜CNBC Technology｜https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html\n4. Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk｜WIRED Business｜https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/\n5. Tesla workers balk at training Optimus humanoid robots as replacements｜Ars Technica｜https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-27｜V3\n生成时间：2026/9/27 08:58:16\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2480｜确认今日 13｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 3 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-27] 消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhuq3677788.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件” against primary-source evidence.\n\n2. [2026-09-27] 前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中” against primary-source evidence.\n\n3. [2026-09-27] 接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhum9855934.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练” against primary-source evidence.\n\n4. [2026-09-27] 外交部发言人就人工智能问题答记者问\n   科技日报｜2026-09-27｜https://www.stdaily.com/web/gdxw/2026-09/27/content_588669.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “外交部发言人就人工智能问题答记者问” against primary-source evidence.\n\n5. [2026-09-27] 唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpaq0357119.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题” against primary-source evidence.\n\n本次新增线索：\n- 消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhuq3677788.shtml\n- 前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中｜新浪科技｜https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml\n- 接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhum9855934.shtml\n- 外交部发言人就人工智能问题答记者问｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/27/content_588669.html\n- 唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpaq0357119.shtml\n- Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html\n2. Scoop: Top AI companies probing tens of thousands of security incidents｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/scoop-top-ai-companies-probing-223553422.html\n3. OpenAI expands review of model behavior after more rogue agent incidents emerge｜CNBC Technology｜https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html\n4. Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk｜WIRED Business｜https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/\n5. Tesla workers balk at training Optimus humanoid robots as replacements｜Ars Technica｜https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-27｜生成时间：2026/9/27 08:58:16｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2480｜确认今日 13｜国际背景 11</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 13 条｜国际 3 条<br>延续跟踪线索：国内 0 条｜国际 8 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-27] 消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件</strong>\n      <span>新浪科技｜2026-09-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhuq3677788.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-27] 前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中</strong>\n      <span>新浪科技｜2026-09-27｜<a href=\"https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-27] 接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练</strong>\n      <span>新浪科技｜2026-09-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhum9855934.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-27] 外交部发言人就人工智能问题答记者问</strong>\n      <span>科技日报｜2026-09-27｜<a href=\"https://www.stdaily.com/web/gdxw/2026-09/27/content_588669.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：173｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “外交部发言人就人工智能问题答记者问” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-27] 唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题</strong>\n      <span>新浪科技｜2026-09-27｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpaq0357119.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon</strong>\n      <span>时间：2026-09-26｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Any” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Scoop: Top AI companies probing tens of thousands of security incidents</strong>\n      <span>时间：2026-09-27｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/cybersecurity/articles/scoop-top-ai-companies-probing-223553422.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Scoop: Top AI companies probing tens of thousands of security incidents” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI expands review of model behavior after more rogue agent incidents emerge</strong>\n      <span>时间：Sat, 26 Sep 2026 17:10:32 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI expands review of model behavior after more rogue agent incidents” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk</strong>\n      <span>时间：Fri, 25 Sep 2026 16:58:20 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Tesla workers balk at training Optimus humanoid robots as replacements</strong>\n      <span>时间：Fri, 25 Sep 2026 21:10:51 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Tesla workers balk at training Optimus humanoid robots as replacements” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/27 08:58:16\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 3 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-27] 消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhuq3677788.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件” against primary-source evidence.\n\n2. [2026-09-27] 前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中” against primary-source evidence.\n\n3. [2026-09-27] 接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhum9855934.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练” against primary-source evidence.\n\n4. [2026-09-27] 外交部发言人就人工智能问题答记者问\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-09/27/content_588669.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “外交部发言人就人工智能问题答记者问” against primary-source evidence.\n\n5. [2026-09-27] 唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpaq0357119.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题” against primary-source evidence.\n\n本次新增线索：\n- 消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhuq3677788.shtml\n- 前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中｜新浪科技｜https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml\n- 接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhum9855934.shtml\n- 外交部发言人就人工智能问题答记者问｜科技日报｜https://www.stdaily.com/web/gdxw/2026-09/27/content_588669.html\n- 唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpaq0357119.shtml\n- Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html\n2. Scoop: Top AI companies probing tens of thousands of security incidents｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/scoop-top-ai-companies-probing-223553422.html\n3. OpenAI expands review of model behavior after more rogue agent incidents emerge｜CNBC Technology｜https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html\n4. Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk｜WIRED Business｜https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/\n5. Tesla workers balk at training Optimus humanoid robots as replacements｜Ars Technica｜https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-27｜V3\n生成时间：2026/9/27 09:20:52\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2480｜确认今日 12｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 12 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-27] 消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhuq3677788.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件” against primary-source evidence.\n\n2. [2026-09-27] 前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中” against primary-source evidence.\n\n3. [2026-09-27] 接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhum9855934.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练” against primary-source evidence.\n\n4. [2026-09-27] 外交部发言人就人工智能问题答记者问\n   科技日报｜2026-09-27｜https://www.stdaily.com/web/gdxw/2026-09/27/content_588669.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “外交部发言人就人工智能问题答记者问” against primary-source evidence.\n\n5. [2026-09-27] 唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpaq0357119.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题” against primary-source evidence.\n\n本次新增线索：\n- OpenAI pauses work on top AI models after safeguard breach｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-pauses-top-ai-models-004825796.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html\n2. Scoop: Top AI companies probing tens of thousands of security incidents｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/scoop-top-ai-companies-probing-223553422.html\n3. OpenAI pauses work on top AI models after safeguard breach｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-pauses-top-ai-models-004825796.html\n4. Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk｜WIRED Business｜https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/\n5. Tesla workers balk at training Optimus humanoid robots as replacements｜Ars Technica｜https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-09-27｜V3\n生成时间：2026/9/27 09:20:52\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2480｜确认今日 12｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 12 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-27] 消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhuq3677788.shtml\n   报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件” against primary-source evidence.\n\n2. [2026-09-27] 前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中” against primary-source evidence.\n\n3. [2026-09-27] 接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhum9855934.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练” against primary-source evidence.\n\n4. [2026-09-27] 外交部发言人就人工智能问题答记者问\n   科技日报｜2026-09-27｜https://www.stdaily.com/web/gdxw/2026-09/27/content_588669.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “外交部发言人就人工智能问题答记者问” against primary-source evidence.\n\n5. [2026-09-27] 唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题\n   新浪科技｜2026-09-27｜https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpaq0357119.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题” against primary-source evidence.\n\n本次新增线索：\n- OpenAI pauses work on top AI models after safeguard breach｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-pauses-top-ai-models-004825796.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html\n2. Scoop: Top AI companies probing tens of thousands of security incidents｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/scoop-top-ai-companies-probing-223553422.html\n3. OpenAI pauses work on top AI models after safeguard breach｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-pauses-top-ai-models-004825796.html\n4. Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk｜WIRED Business｜https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/\n5. Tesla workers balk at training Optimus humanoid robots as replacements｜Ars Technica｜https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-09-27｜生成时间：2026/9/27 09:20:52｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2480｜确认今日 12｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 0 条｜国际 1 条<br>延续跟踪线索：国内 12 条｜国际 11 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-09-27] 消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件</strong>\n      <span>新浪科技｜2026-09-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhuq3677788.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-09-27] 前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中</strong>\n      <span>新浪科技｜2026-09-27｜<a href=\"https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-09-27] 接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练</strong>\n      <span>新浪科技｜2026-09-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhum9855934.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-09-27] 外交部发言人就人工智能问题答记者问</strong>\n      <span>科技日报｜2026-09-27｜<a href=\"https://www.stdaily.com/web/gdxw/2026-09/27/content_588669.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：173｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “外交部发言人就人工智能问题答记者问” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-09-27] 唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题</strong>\n      <span>新浪科技｜2026-09-27｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpaq0357119.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon</strong>\n      <span>时间：2026-09-26｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Any” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Scoop: Top AI companies probing tens of thousands of security incidents</strong>\n      <span>时间：2026-09-27｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/cybersecurity/articles/scoop-top-ai-companies-probing-223553422.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Scoop: Top AI companies probing tens of thousands of security incidents” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI pauses work on top AI models after safeguard breach</strong>\n      <span>时间：2026-09-27｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/openai-pauses-top-ai-models-004825796.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI pauses work on top AI models after safeguard breach” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk</strong>\n      <span>时间：Fri, 25 Sep 2026 16:58:20 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Tesla workers balk at training Optimus humanoid robots as replacements</strong>\n      <span>时间：Fri, 25 Sep 2026 21:10:51 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Tesla workers balk at training Optimus humanoid robots as replacements” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/9/27 09:20:52\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 0 条｜国际 1 条\n延续跟踪线索：国内 12 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-09-27] 消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhuq3677788.shtml\n   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件” against primary-source evidence.\n\n2. [2026-09-27] 前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中” against primary-source evidence.\n\n3. [2026-09-27] 接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-09-27/doc-initfhum9855934.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练” against primary-source evidence.\n\n4. [2026-09-27] 外交部发言人就人工智能问题答记者问\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-09/27/content_588669.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “外交部发言人就人工智能问题答记者问” against primary-source evidence.\n\n5. [2026-09-27] 唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-09-27/doc-initfpaq0357119.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “唤醒后不再掉帧！SteamOS新补丁优化AMD独显：修复睡眠后性能暴跌问题” against primary-source evidence.\n\n本次新增线索：\n- OpenAI pauses work on top AI models after safeguard breach｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-pauses-top-ai-models-004825796.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/hands-one-area-tesla-robots-123343274.html\n2. Scoop: Top AI companies probing tens of thousands of security incidents｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/scoop-top-ai-companies-probing-223553422.html\n3. OpenAI pauses work on top AI models after safeguard breach｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-pauses-top-ai-models-004825796.html\n4. Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk｜WIRED Business｜https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/\n5. Tesla workers balk at training Optimus humanoid robots as replacements｜Ars Technica｜https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
