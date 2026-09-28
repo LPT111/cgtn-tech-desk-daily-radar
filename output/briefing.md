@@ -3,35 +3,35 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/9/28 09:34:02
+生成时间：2026/9/28 09:45:02
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 9 条｜国际 1 条
-延续跟踪线索：国内 23 条｜国际 11 条
+新增核心线索：国内 5 条｜国际 1 条
+延续跟踪线索：国内 31 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-09-28] 淄博具身智能训练场投用，机器人产业应用加速落
+1. [2026-09-28] 澜起科技DDR5第五代RCD量产，高性能AI算力内存
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L7TF1APN0512B07B.html
+   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “澜起科技DDR5第五代RCD量产，高性能AI算力内存” against primary-source evidence.
+
+2. [2026-09-28] 淄博具身智能训练场投用，机器人产业应用加速落
    来源：网易科技
    链接：https://www.163.com/dy/article/L7TEES1N0512B07B.html
    角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “淄博具身智能训练场投用，机器人产业应用加速落” against primary-source evidence.
-
-2. [2026-09-28] 财经早报丨央行例会措辞变化释放什么信号 OpenAI暂停最新一代模型训练丨2026年9月28日
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/y/2026-09-28/doc-initirzr3985079.shtml
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “财经早报丨央行例会措辞变化释放什么信号 OpenAI暂停最新一代模型训练丨2026年9月28日” against primary-source evidence.
 
 3. [2026-09-28] OpenAI，经历了最漫长的一天
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-09-28/doc-initirzi8856095.shtml
    角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI，经历了最漫长的一天” against primary-source evidence.
 
-4. [2026-09-28] 具身智能机器人进驻文旅场景，南方基金钟贇持续
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L7TE08PE0534A4SC.html
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身智能机器人进驻文旅场景，南方基金钟贇持续” against primary-source evidence.
+4. [2026-09-28] 研究揭示非计划冲动性与拖延之间的共享神经遗传基础
+   来源：中国科学院
+   链接：https://www.cas.cn/syky/202609/t20260928_5121102.shtml
+   角度：Use researchers and facilities as reporting anchors, with frontier science, research infrastructure and scientific discovery, peer context and limitations clearly stated. For this item, test the claim behind “研究揭示非计划冲动性与拖延之间的共享神经遗传基础” against primary-source evidence.
 
 5. [2026-09-28] AI智能体接连失控，OpenAI叫暂停
    来源：新浪科技
@@ -39,25 +39,25 @@ ChenChen 今日 Briefing｜V3
    角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI智能体接连失控，OpenAI叫暂停” against primary-source evidence.
 
 本次新增线索：
-- 淄博具身智能训练场投用，机器人产业应用加速落｜网易科技｜https://www.163.com/dy/article/L7TEES1N0512B07B.html
-- OpenAI，经历了最漫长的一天｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-09-28/doc-initirzi8856095.shtml
-- 具身智能机器人进驻文旅场景，南方基金钟贇持续｜网易科技｜https://www.163.com/dy/article/L7TE08PE0534A4SC.html
-- 央视起底AI数字人仿冒专家带货：有商家宣称美瞳戴一天还很舒服｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-09-28/doc-initiwip3885997.shtml
-- 报道：台积电2nm芯片月产能到年底或达12万片｜网易科技｜https://www.163.com/dy/article/L7TECR0R0534A4SC.html
-- How Much Samsung Phones Cost In 2016 Vs. 2026｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/much-samsung-phones-cost-2016-001700488.html
+- 澜起科技DDR5第五代RCD量产，高性能AI算力内存｜网易科技｜https://www.163.com/dy/article/L7TF1APN0512B07B.html
+- 研究揭示非计划冲动性与拖延之间的共享神经遗传基础｜中国科学院｜https://www.cas.cn/syky/202609/t20260928_5121102.shtml
+- SpaceX星舰将首次尝试入轨，Starlink V3开启规｜网易科技｜https://www.163.com/dy/article/L7TF1B540512B07B.html
+- 前苹果 Siri 工程师推出 AI 智能体 szn，可在 iMessage 中与用户互动｜IT之家｜https://www.ithome.com/1/007/634.htm
+- 蔚来李斌：与吉利在很多方面都有讨论合作，良性竞争不是内卷｜IT之家｜https://www.ithome.com/1/007/657.htm
+- SpaceX aims to put Starship in orbit for the first time｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-aims-put-starship-orbit-012803446.html
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（7 条，3 个来源）
 - 芯片/半导体：半导体供应链（2 条，1 个来源）
 - 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）
-- 太空与低空经济：商业航天与卫星互联网（1 条，1 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（3 条，3 个来源）
 
 国际科技背景：
-1. Anthropic CEO Amodei set to meet with Trump after missing state dinner｜CNBC Technology｜https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html
-2. Big AI's content problem: Take the work, keep the money｜The Register｜https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007
-3. How Much Samsung Phones Cost In 2016 Vs. 2026｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/much-samsung-phones-cost-2016-001700488.html
+1. SpaceX aims to put Starship in orbit for the first time｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-aims-put-starship-orbit-012803446.html
+2. Anthropic CEO Amodei set to meet with Trump after missing state dinner｜CNBC Technology｜https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html
+3. Big AI's content problem: Take the work, keep the money｜The Register｜https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007
 4. Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk｜WIRED Business｜https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/
 5. Tesla workers balk at training Optimus humanoid robots as replacements｜Ars Technica｜https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/
 
