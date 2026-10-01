@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/1 09:37:02
+生成时间：2026/10/1 10:02:23
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 23 条｜国际 16 条
-延续跟踪线索：国内 0 条｜国际 10 条
+新增核心线索：国内 4 条｜国际 0 条
+延续跟踪线索：国内 22 条｜国际 26 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,20 +18,20 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/digi/2026-10-01/doc-initspnm1434129.shtml
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “美国加州《反机器人老板》法案生效，禁止完全依赖 AI 解雇或惩戒员工” against primary-source evidence.
 
-2. [2026-10-01] 美国联邦贸易委员会正就产品风险调查OpenAI、Anthropic及其他AI公司
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrwqt1751845.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国联邦贸易委员会正就产品风险调查OpenAI、Anthropic及其他AI公司” against primary-source evidence.
-
-3. [2026-10-01] 谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出
+2. [2026-10-01] 谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6482475.shtml
    角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出” against primary-source evidence.
 
-4. [2026-10-01] 美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求
+3. [2026-10-01] 美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2302152.shtml
    角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求” against primary-source evidence.
+
+4. [2026-10-01] 生物安全领域里程碑：谷歌 DeepMind 首创 AI 蛋白质水印技术
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-01/doc-initspnm5420512.shtml
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “生物安全领域里程碑：谷歌 DeepMind 首创 AI 蛋白质水印技术” against primary-source evidence.
 
 5. [23:34] 苹果 iPad Mini 8 前瞻：首次支持 IP 防水，A20 Pro 芯片、OLED 屏、12GB 内存
    来源：IT之家
@@ -39,15 +39,13 @@ ChenChen 今日 Briefing｜V3
    角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “苹果 iPad Mini 8 前瞻：首次支持 IP 防水，A20 Pro 芯片、OLED 屏、12GB 内存” against primary-source evidence.
 
 本次新增线索：
-- 美国加州《反机器人老板》法案生效，禁止完全依赖 AI 解雇或惩戒员工｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-01/doc-initspnm1434129.shtml
-- 美国联邦贸易委员会正就产品风险调查OpenAI、Anthropic及其他AI公司｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrwqt1751845.shtml
-- 谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6482475.shtml
-- 美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2302152.shtml
-- 苹果 iPad Mini 8 前瞻：首次支持 IP 防水，A20 Pro 芯片、OLED 屏、12GB 内存｜IT之家｜https://www.ithome.com/1/008/958.htm
-- SpaceX is ‘go’ to launch NASA’s Crew-13 astronaut mission to the ISS on Oct. 1｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-nasa-crew-13-224720768.html
+- 生物安全领域里程碑：谷歌 DeepMind 首创 AI 蛋白质水印技术｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-01/doc-initspnm5420512.shtml
+- EMNLP 2026｜「AI把数字说歪」，官方AI审稿现场演示了一遍｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-initspnm5431446.shtml
+- TypeSafe CEO 为何主张代码模型必须放弃拟人化？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-initspnm5431384.shtml
+- 韩国9月芯片出口总额同比激增263% 达创纪录的603亿美元｜网易科技｜https://www.163.com/dy/article/L85664JG05198CJN.html
 
 今日热点方向：
-- AI 应用：AI动态（7 条，4 个来源）
+- AI 应用：AI动态（8 条，4 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
 - 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
@@ -55,11 +53,11 @@ ChenChen 今日 Briefing｜V3
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. SpaceX is ‘go’ to launch NASA’s Crew-13 astronaut mission to the ISS on Oct. 1｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-nasa-crew-13-224720768.html
-2. Trump says he doesn't want to work with China on AI safety｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety
+1. Trump says he doesn't want to work with China on AI safety｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety
+2. SpaceX is ‘go’ to launch NASA’s Crew-13 astronaut mission to the ISS on Oct. 1｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-nasa-crew-13-224720768.html
 3. After milestone flight, SpaceX targets next Starship launch｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/milestone-flight-spacex-targets-next-210632783.html
 4. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285
-5. OpenAI flags Chinese-linked effort to extract AI model reasoning｜CNBC Technology｜https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html
+5. Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
