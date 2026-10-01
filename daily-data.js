@@ -1,54 +1,49 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-10-01T12:37:19.136Z",
+  "generatedAt": "2026-10-01T13:25:14.557Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-01",
   "changeSummary": {
-    "domesticNew": 3,
-    "globalNew": 6,
-    "domesticContinued": 47,
-    "globalContinued": 23,
+    "domesticNew": 6,
+    "globalNew": 2,
+    "domesticContinued": 48,
+    "globalContinued": 24,
     "topNewDomestic": [
       {
-        "title": "交通运输部：2026年国庆假期高速公路新能源车日均流量预计1640万辆，同比增长32.7%",
+        "title": "内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxz1903951.shtml"
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-10-01/doc-inittqxx5161174.shtml"
       },
       {
-        "title": "RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4",
+        "title": "全新RDNA5架构 网友模拟RX 10700 XT显卡性能：可超RTX 5080",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqxx5138185.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyf8150334.shtml"
       },
       {
-        "title": "蔚来公司：2026年前三季度交付300301台，同比增长49.2%",
+        "title": "AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/009/111.htm"
+      },
+      {
+        "title": "AI“入港”，山东港口青岛港向智而行",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-10/01/content_591198.html"
+      },
+      {
+        "title": "奇瑞集团 9 月汽车销售 292,308 辆，单月出口破 20 万辆创中国汽车新纪录",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyc6521173.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqyc6544851.shtml"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Google launches AI chips to orbit on SpaceX Transporter-18",
+        "title": "SpaceX to launch four astronauts to space for six-month stay",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html"
+        "url": "https://tech.yahoo.com/science/articles/spacex-launch-four-astronauts-space-131145190.html"
       },
       {
-        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
-      },
-      {
-        "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
-      },
-      {
-        "title": "Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim",
+        "title": "Anthropic wants to get Claude working across all Government arms",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/claude/articles/firm-rents-four-nvidia-h200s-103000831.html"
-      },
-      {
-        "title": "This new AMD APU is rumoured to be the chip that will power the long-awaited Steam Deck 2",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/gaming/articles/amd-apu-rumoured-chip-power-102235655.html"
+        "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-wants-claude-working-across-110500186.html"
       }
     ],
     "hasPrevious": true
@@ -57,8 +52,8 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 850,
-    "globalRejected": 871,
+    "domesticRejected": 846,
+    "globalRejected": 874,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -72,7 +67,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 30,
+  "successSources": 28,
   "failedSources": [
     {
       "name": "央视网-科技",
@@ -80,19 +75,29 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办-政策",
-      "error": "404 Not Found",
-      "optional": true
-    },
-    {
-      "name": "市场监管总局",
+      "name": "国家网信办",
       "error": "fetch failed",
       "optional": false
+    },
+    {
+      "name": "国家网信办-政策",
+      "error": "fetch failed",
+      "optional": true
     },
     {
       "name": "国务院政策文件",
@@ -107,19 +112,29 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办-政策",
-      "error": "404 Not Found",
-      "optional": true
-    },
-    {
-      "name": "市场监管总局",
+      "name": "国家网信办",
       "error": "fetch failed",
       "optional": false
+    },
+    {
+      "name": "国家网信办-政策",
+      "error": "fetch failed",
+      "optional": true
     },
     {
       "name": "国务院政策文件",
@@ -294,14 +309,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -322,8 +339,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -331,7 +349,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -344,9 +362,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -379,13 +396,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1500,
+  "itemsSeen": 1551,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 215,
-  "itemsAfterDedupe": 154,
-  "todayItemsSeen": 50,
+  "itemsAfterRelevantFilter": 217,
+  "itemsAfterDedupe": 152,
+  "todayItemsSeen": 54,
   "suspectedItemsSeen": 5,
-  "skippedNonToday": 98,
+  "skippedNonToday": 92,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -553,14 +570,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -581,8 +600,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -590,7 +610,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -603,9 +623,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -798,19 +817,29 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办-政策",
-      "error": "404 Not Found",
-      "optional": true
-    },
-    {
-      "name": "市场监管总局",
+      "name": "国家网信办",
       "error": "fetch failed",
       "optional": false
+    },
+    {
+      "name": "国家网信办-政策",
+      "error": "fetch failed",
+      "optional": true
     },
     {
       "name": "国务院政策文件",
@@ -844,11 +873,11 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 17,
   "globalItemsSeen": 967,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 176,
+  "globalItemsAfterRelevantFilter": 171,
   "topics": [
     {
       "topic": "AI动态",
-      "count": 6,
+      "count": 7,
       "sourceCount": 4,
       "sources": [
         "IT之家",
@@ -859,9 +888,26 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "一字不改：加州州长纽森反击特朗普将“人工智能”改为“超级智能”，州政府范围内继续叫“AI”",
         "失控事件频发，AI发展需要减速吗",
+        "AI“入港”，山东港口青岛港向智而行",
         "特朗普首席科技顾问：人工智能企业同意接受外部审计",
-        "AI时代的青年之问 年轻人用四个关键词作答｜青春何为",
-        "美光科技 CEO 梅赫罗特拉：目前已锁定约 1500 亿美元长期订单，AI 存储需求紧张"
+        "AI时代的青年之问 年轻人用四个关键词作答｜青春何为"
+      ]
+    },
+    {
+      "topic": "芯片动态",
+      "count": 10,
+      "sourceCount": 3,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技"
+      ],
+      "items": [
+        "余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能",
+        "内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍",
+        "全新RDNA5架构 网友模拟RX 10700 XT显卡性能：可超RTX 5080",
+        "AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片",
+        "离职高管向寒武纪索赔278亿元：一纸上市前的约定，如何变成一场豪赌"
       ]
     },
     {
@@ -908,25 +954,9 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%",
         "新能源车企“金九”成绩单出炉：零跑销量再破10万辆，小米今年内单月首超4万辆",
-        "交通运输部：2026年国庆假期高速公路新能源车日均流量预计1640万辆，同比增长32.7%",
+        "奇瑞集团 9 月汽车销售 292,308 辆，单月出口破 20 万辆创中国汽车新纪录",
         "澎程系列上市首月：小米汽车 9 月交付量超 4 万台",
-        "蔚来公司：2026年前三季度交付300301台，同比增长49.2%"
-      ]
-    },
-    {
-      "topic": "芯片动态",
-      "count": 7,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "网易科技"
-      ],
-      "items": [
-        "AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片",
-        "离职高管向寒武纪索赔278亿元：一纸上市前的约定，如何变成一场豪赌",
-        "华为Mate90全系搭载旗舰韬芯片",
-        "韩国9月芯片出口总额同比激增263% 达创纪录的603亿美元",
-        "Wi-Fi 8 已在路上：射频前端芯片的下一轮换代，"
+        "交通运输部：2026年国庆假期高速公路新能源车日均流量预计1640万辆，同比增长32.7%"
       ]
     },
     {
@@ -942,6 +972,21 @@ window.CHENCHEN_DAILY_DATA = {
         "华之杰半年连买两家公司：从新能源汽车热管理到半导体测试，连续并购加速扩张",
         "12年从蛰伏到突围 一颗芯片与Mate的求索之路",
         "韩国前9个月出口总额首次突破8000亿美元大关"
+      ]
+    },
+    {
+      "topic": "国产 GPU / 算力基础设施",
+      "count": 4,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
+        "新浪科技"
+      ],
+      "items": [
+        "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高",
+        "iPhone 18 标准版首秀：苹果 A20 芯片焊点图曝光，推测 5 核 GPU",
+        "AI进化速递丨LG电子将投资1500亿韩元用于AI数据中心冷却业务",
+        "数据中心催生庞大用工需求，谷歌高管称全美存在数十万个技术工种缺口"
       ]
     },
     {
@@ -984,19 +1029,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "国产 GPU / 算力基础设施",
-      "count": 3,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高",
-        "iPhone 18 标准版首秀：苹果 A20 芯片焊点图曝光，推测 5 核 GPU",
-        "数据中心催生庞大用工需求，谷歌高管称全美存在数十万个技术工种缺口"
-      ]
-    },
-    {
       "topic": "太空与低空动态",
       "count": 2,
       "sourceCount": 1,
@@ -1021,74 +1053,6 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片",
-      "summary": "IT之家 10 月 1 日消息，AMD 于当地时间 9 月 29 日发布了最新的 Adrenalin 26.9.2 显卡驱动，其中出现了一个未知的芯片代号“Gainsborough”（出现在驱动的 Import / Export 数据库文件...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittkrz1110802.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittkrz1110802.shtml"
-      ],
-      "publishedAt": "2026-10-01",
-      "date": "2026-10-01",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 184,
-      "reporterScore": 200,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 130
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "IT之家 10 月 1 日消息，AMD 于当地时间 9 月 29 日发布了最新的 Adrenalin 26.9.2 显卡驱动，其中出现了一个未知的芯片代号“Gainsborough”（出现在驱动的 Import / Export 数据库文件...",
-      "relatedTitles": [
-        "AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片"
-      ],
-      "isNewSinceLastRun": false
-    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能",
@@ -1363,6 +1327,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍",
+      "summary": "10月1日快科技消息，美光财报称内存需求强劲，紧张态势将持续至2028年。Cloudflare CEO Matthew Princ指出，Agent时代CPU需求或达当前产能30-40倍：美国1亿知识工作者每人配1个Agent，按传统容器模式运行就需占全球CPU产量50%，若全球10亿人每人配2个Agent，需求可达当前",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-10-01/doc-inittqxx5161174.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-10-01/doc-inittqxx5161174.shtml"
+      ],
+      "publishedAt": "2026-10-01",
+      "date": "2026-10-01",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "10月1日快科技消息，美光财报称内存需求强劲，紧张态势将持续至2028年。Cloudflare CEO Matthew Princ指出，Agent时代CPU需求或达当前产能30-40倍：美国1亿知识工作者每人配1个Agent，按传统容器模式运行就需占全球CPU产量50%，若全球10亿人每人配2个Agent，需求可达当前产能30-40倍。Intel CEO陈立武称仅能满足50%CPU需求，AMD也表示产能紧张，其2027年2nm处理器Venice产能已售罄，开售2028年产能。热点产品Meta上线的永久在线个人Agent Muse带火相关炒作，国内多家科技公司正复刻该产品，此前停摆的云端小龙虾业务或将重热，但业内预判该热潮数月后大概率一地鸡毛。(AI生成)",
+      "relatedTitles": [
+        "内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "华之杰半年连买两家公司：从新能源汽车热管理到半导体测试，连续并购加速扩张",
       "summary": "文/新浪财经 陈秀颖 9月29日，华之杰董事长陆亚洲主持的董事会上，摆上了一笔半导体收购。对这家长期向电动工具品牌商供应开关、控制器和电机的苏州企业而言，业务版图又要添上一块新拼图。 当天晚间，华之杰（603400.SH）披露预...",
       "source": "新浪科技",
@@ -1428,6 +1460,74 @@ window.CHENCHEN_DAILY_DATA = {
         "华之杰半年连买两家公司：从新能源汽车热管理到半导体测试，连续并购加速扩张"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "全新RDNA5架构 网友模拟RX 10700 XT显卡性能：可超RTX 5080",
+      "summary": "快科技10月1日消息，受内存/显存涨价影响，原本预计今底或明年1月发布的AMD RDNA5架构新显卡，将推迟至2027甚至2028年推出。该架构是2、3代以来AMD最重大的全面革新，在CU单元、光追、AI等方面提升显著，涵盖AT0至AT4多款核心，其中AT2核心对应RX 10700系列。网传RX 10700 XT模拟规",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyf8150334.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyf8150334.shtml"
+      ],
+      "publishedAt": "2026-10-01",
+      "date": "2026-10-01",
+      "category": "芯片",
+      "classificationConfidence": 0.76,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “全新RDNA5架构 网友模拟RX 10700 XT显卡性能：可超RTX 5080” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "快科技10月1日消息，受内存/显存涨价影响，原本预计今底或明年1月发布的AMD RDNA5架构新显卡，将推迟至2027甚至2028年推出。该架构是2、3代以来AMD最重大的全面革新，在CU单元、光追、AI等方面提升显著，涵盖AT0至AT4多款核心，其中AT2核心对应RX 10700系列。网传RX 10700 XT模拟规格为70组CU单元、3.2GHz频率、台积电N3P工艺、300W TBP功耗，模拟性能较RTX 5080高6.5%、较RTX 4080 Super高32.2%，但该模拟仅作参考，最终规格未实锤。待RDNA5显卡上市时，NVIDIA RTX 60系列也将推出，RDNA5面临不小竞争压力。(AI生成)",
+      "relatedTitles": [
+        "全新RDNA5架构 网友模拟RX 10700 XT显卡性能：可超RTX 5080"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1770,6 +1870,74 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片",
+      "summary": "芯片代号延续《最终幻想 7》爱丽丝命名体系，爆料称其采用台积电 N3P 工艺，性能将有明显升级，目前官方尚未确认相关信息。#Steam Deck 2#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/009/111.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/009/111.htm"
+      ],
+      "publishedAt": "Thu, 01 Oct 2026 09:38:52 GMT",
+      "date": "2026-10-01",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 163,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "芯片代号延续《最终幻想 7》爱丽丝命名体系，爆料称其采用台积电 N3P 工艺，性能将有明显升级，目前官方尚未确认相关信息。#Steam Deck 2#",
+      "relatedTitles": [
+        "AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "等了近一年！谷歌新旗舰亮相，普通用户还得等",
       "summary": "等了近一年！谷歌新旗舰Gemini 4终于亮相，但普通用户还得等,谷歌,网络安全,编程,gemini",
@@ -1836,6 +2004,74 @@ window.CHENCHEN_DAILY_DATA = {
         "等了近一年！谷歌新旗舰亮相，普通用户还得等"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "AI“入港”，山东港口青岛港向智而行",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 AI“入港”，山东港口青岛港向智而行 2026-10-01 21:20:04 来源: 科技日报 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-10/01/content_591198.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-10/01/content_591198.html"
+      ],
+      "publishedAt": "2026-10-01",
+      "date": "2026-10-01",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI“入港”，山东港口青岛港向智而行” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 AI“入港”，山东港口青岛港向智而行 2026-10-01 21:20:04 来源: 科技日报 点击数： 热点",
+      "relatedTitles": [
+        "AI“入港”，山东港口青岛港向智而行"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2042,22 +2278,158 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高",
+      "summary": "韩国 9 月出口总额达 1209 亿美元创历史新高，芯片出口同比猛增 263%。AI 需求持续拉动半导体出口，韩国央行连续加息后经济仍显韧性，市场预期后续还将收紧货币政策。#韩国出口# #AI芯片#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/009/096.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/009/096.htm"
+      ],
+      "publishedAt": "Thu, 01 Oct 2026 08:28:58 GMT",
+      "date": "2026-10-01",
+      "category": "芯片",
+      "classificationConfidence": 0.93,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 169,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "韩国 9 月出口总额达 1209 亿美元创历史新高，芯片出口同比猛增 263%。AI 需求持续拉动半导体出口，韩国央行连续加息后经济仍显韧性，市场预期后续还将收紧货币政策。#韩国出口# #AI芯片#",
+      "relatedTitles": [
+        "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "iPhone 18 标准版首秀：苹果 A20 芯片焊点图曝光，推测 5 核 GPU",
+      "summary": "IT之家家友 @白饭炒白米饭 昨日（9 月 30 日）发布动态，分享了苹果 A20 标准版芯片的焊点图，该芯片将会装备在 iPhone 18 标准版机型上。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/009/075.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/009/075.htm"
+      ],
+      "publishedAt": "Thu, 01 Oct 2026 07:18:56 GMT",
+      "date": "2026-10-01",
+      "category": "芯片",
+      "classificationConfidence": 0.92,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 169,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “iPhone 18 标准版首秀：苹果 A20 芯片焊点图曝光，推测 5 核 GPU” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "IT之家家友 @白饭炒白米饭 昨日（9 月 30 日）发布动态，分享了苹果 A20 标准版芯片的焊点图，该芯片将会装备在 iPhone 18 标准版机型上。",
+      "relatedTitles": [
+        "iPhone 18 标准版首秀：苹果 A20 芯片焊点图曝光，推测 5 核 GPU"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "交通运输部：2026年国庆假期高速公路新能源车日均流量预计1640万辆，同比增长32.7%",
-      "summary": "近日消息，国家电网智慧车联网平台预测，国庆假期新能源车自驾出行将迎来充电高峰，高峰时段覆盖7时至20时，长达13个小时。浙江、江苏、安徽、山东、河北、河南、福建7省高速公路充电量有望创历史新高。从高速公路线路看，长深高速、沈海高速、沪昆高速...",
+      "title": "奇瑞集团 9 月汽车销售 292,308 辆，单月出口破 20 万辆创中国汽车新纪录",
+      "summary": "IT之家10月1日消息，奇瑞集团公布最新销量数据：9月销售汽车292308辆，同比增4.2%；前三季度累计销量2206789辆，同比增9.9%。9月出口207814辆，单月出口再破20万辆，创下中国汽车单月出口新纪录，前三季度累计出口1551178辆，同比增65.6%，其中9月新能源车型出口同比增长174.0%。新能源",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxz1903951.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqyc6544851.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxz1903951.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqyc6544851.shtml"
       ],
       "publishedAt": "2026-10-01",
       "date": "2026-10-01",
       "category": "新能源车",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2100,12 +2472,80 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Move beyond launch coverage by testing battery innovation and infrastructure, cost, reliability and consumer value. For this item, test the claim behind “交通运输部：2026年国庆假期高速公路新能源车日均流量预计1640万辆，同比增长32.7%” against primary-source evidence.",
+      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “奇瑞集团 9 月汽车销售 292,308 辆，单月出口破 20 万辆创中国汽车新纪录” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "新能源车动态",
-      "rawText": "近日消息，国家电网智慧车联网平台预测，国庆假期新能源车自驾出行将迎来充电高峰，高峰时段覆盖7时至20时，长达13个小时。浙江、江苏、安徽、山东、河北、河南、福建7省高速公路充电量有望创历史新高。从高速公路线路看，长深高速、沈海高速、沪昆高速...",
+      "rawText": "IT之家10月1日消息，奇瑞集团公布最新销量数据：9月销售汽车292308辆，同比增4.2%；前三季度累计销量2206789辆，同比增9.9%。9月出口207814辆，单月出口再破20万辆，创下中国汽车单月出口新纪录，前三季度累计出口1551178辆，同比增65.6%，其中9月新能源车型出口同比增长174.0%。新能源板块9月销量133310辆，前三季度累计销售858524辆，同比增长46.1%。(AI生成)",
       "relatedTitles": [
-        "交通运输部：2026年国庆假期高速公路新能源车日均流量预计1640万辆，同比增长32.7%"
+        "奇瑞集团 9 月汽车销售 292,308 辆，单月出口破 20 万辆创中国汽车新纪录"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "AI进化速递丨LG电子将投资1500亿韩元用于AI数据中心冷却业务",
+      "summary": "①美光科技CEO：除了数据中心 下一个巨大的增量市场将是物理AI；②LG电子将投资1500亿韩元用于AI数据中心冷却业务；③IBM推出IBM Bob自托管部署方案，帮助企业推进AI主权与治理；④谷歌已开始推出旗舰人工智能模型Gemini 4...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyf8147322.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyf8147322.shtml"
+      ],
+      "publishedAt": "2026-10-01",
+      "date": "2026-10-01",
+      "category": "AI",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 157,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI进化速递丨LG电子将投资1500亿韩元用于AI数据中心冷却业务” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "①美光科技CEO：除了数据中心 下一个巨大的增量市场将是物理AI；②LG电子将投资1500亿韩元用于AI数据中心冷却业务；③IBM推出IBM Bob自托管部署方案，帮助企业推进AI主权与治理；④谷歌已开始推出旗舰人工智能模型Gemini 4...",
+      "relatedTitles": [
+        "AI进化速递丨LG电子将投资1500亿韩元用于AI数据中心冷却业务"
       ],
       "isNewSinceLastRun": true
     },
@@ -2722,74 +3162,6 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4",
-      "summary": "IT之家 10 月 1 日消息，Videocardz 今日发现，一个名为 d4r 的 GitHub 项目为 AMD Radeon RX 9000 系列显卡带来了 NVIDIA DLSS 4 与 DLSS 4.5 超分辨率支持。IT之家查询发...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqxx5138185.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqxx5138185.shtml"
-      ],
-      "publishedAt": "2026-10-01",
-      "date": "2026-10-01",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "IT之家 10 月 1 日消息，Videocardz 今日发现，一个名为 d4r 的 GitHub 项目为 AMD Radeon RX 9000 系列显卡带来了 NVIDIA DLSS 4 与 DLSS 4.5 超分辨率支持。IT之家查询发...",
-      "relatedTitles": [
-        "RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "“人造太阳”建设新进展！紧凑型聚变能实验装置园区交付使用",
       "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 “人造太阳”建设新进展！紧凑型聚变能实验装置园区交付使用 2026-10-01 08:19:59 来源: 央视新闻客户端 点击数： 热点",
@@ -2994,153 +3366,17 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高",
-      "summary": "韩国 9 月出口总额达 1209 亿美元创历史新高，芯片出口同比猛增 263%。AI 需求持续拉动半导体出口，韩国央行连续加息后经济仍显韧性，市场预期后续还将收紧货币政策。#韩国出口# #AI芯片#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/009/096.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/009/096.htm"
-      ],
-      "publishedAt": "Thu, 01 Oct 2026 08:28:58 GMT",
-      "date": "2026-10-01",
-      "category": "芯片",
-      "classificationConfidence": 0.93,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 149,
-      "reporterScore": 157,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 0,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "韩国 9 月出口总额达 1209 亿美元创历史新高，芯片出口同比猛增 263%。AI 需求持续拉动半导体出口，韩国央行连续加息后经济仍显韧性，市场预期后续还将收紧货币政策。#韩国出口# #AI芯片#",
-      "relatedTitles": [
-        "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "iPhone 18 标准版首秀：苹果 A20 芯片焊点图曝光，推测 5 核 GPU",
-      "summary": "IT之家家友 @白饭炒白米饭 昨日（9 月 30 日）发布动态，分享了苹果 A20 标准版芯片的焊点图，该芯片将会装备在 iPhone 18 标准版机型上。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/009/075.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/009/075.htm"
-      ],
-      "publishedAt": "Thu, 01 Oct 2026 07:18:56 GMT",
-      "date": "2026-10-01",
-      "category": "芯片",
-      "classificationConfidence": 0.92,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 149,
-      "reporterScore": 157,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 0,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “iPhone 18 标准版首秀：苹果 A20 芯片焊点图曝光，推测 5 核 GPU” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "IT之家家友 @白饭炒白米饭 昨日（9 月 30 日）发布动态，分享了苹果 A20 标准版芯片的焊点图，该芯片将会装备在 iPhone 18 标准版机型上。",
-      "relatedTitles": [
-        "iPhone 18 标准版首秀：苹果 A20 芯片焊点图曝光，推测 5 核 GPU"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "蔚来公司：2026年前三季度交付300301台，同比增长49.2%",
-      "summary": "近日消息，蔚来公司公布2026年9月交付数据，当月交付新车37408台，同比增长7.7%。其中蔚来品牌交付21318台，同比增长55.3%；乐道品牌交付8763台；firefly萤火虫品牌交付7327台，同比增长26.9%。前三季度，蔚来公...",
+      "title": "交通运输部：2026年国庆假期高速公路新能源车日均流量预计1640万辆，同比增长32.7%",
+      "summary": "近日消息，国家电网智慧车联网平台预测，国庆假期新能源车自驾出行将迎来充电高峰，高峰时段覆盖7时至20时，长达13个小时。浙江、江苏、安徽、山东、河北、河南、福建7省高速公路充电量有望创历史新高。从高速公路线路看，长深高速、沈海高速、沪昆高速...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyc6521173.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxz1903951.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyc6521173.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxz1903951.shtml"
       ],
       "publishedAt": "2026-10-01",
       "date": "2026-10-01",
@@ -3155,14 +3391,14 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 85,
       "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
+      "score": 157,
+      "reporterScore": 157,
       "scoreBreakdown": {
         "hardTech": 85,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 0,
+        "cgtFocus": 12,
         "visual": 0,
         "international": 0,
         "policy": 0,
@@ -3188,14 +3424,82 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “蔚来公司：2026年前三季度交付300301台，同比增长49.2%” against primary-source evidence.",
+      "angle": "Move beyond launch coverage by testing battery innovation and infrastructure, cost, reliability and consumer value. For this item, test the claim behind “交通运输部：2026年国庆假期高速公路新能源车日均流量预计1640万辆，同比增长32.7%” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "新能源车动态",
-      "rawText": "近日消息，蔚来公司公布2026年9月交付数据，当月交付新车37408台，同比增长7.7%。其中蔚来品牌交付21318台，同比增长55.3%；乐道品牌交付8763台；firefly萤火虫品牌交付7327台，同比增长26.9%。前三季度，蔚来公...",
+      "rawText": "近日消息，国家电网智慧车联网平台预测，国庆假期新能源车自驾出行将迎来充电高峰，高峰时段覆盖7时至20时，长达13个小时。浙江、江苏、安徽、山东、河北、河南、福建7省高速公路充电量有望创历史新高。从高速公路线路看，长深高速、沈海高速、沪昆高速...",
       "relatedTitles": [
-        "蔚来公司：2026年前三季度交付300301台，同比增长49.2%"
+        "交通运输部：2026年国庆假期高速公路新能源车日均流量预计1640万辆，同比增长32.7%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4",
+      "summary": "IT之家 10 月 1 日消息，Videocardz 今日发现，一个名为 d4r 的 GitHub 项目为 AMD Radeon RX 9000 系列显卡带来了 NVIDIA DLSS 4 与 DLSS 4.5 超分辨率支持。IT之家查询发...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqxx5138185.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqxx5138185.shtml"
+      ],
+      "publishedAt": "2026-10-01",
+      "date": "2026-10-01",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "IT之家 10 月 1 日消息，Videocardz 今日发现，一个名为 d4r 的 GitHub 项目为 AMD Radeon RX 9000 系列显卡带来了 NVIDIA DLSS 4 与 DLSS 4.5 超分辨率支持。IT之家查询发...",
+      "relatedTitles": [
+        "RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3539,6 +3843,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "蔚来公司：2026年前三季度交付300301台，同比增长49.2%",
+      "summary": "近日消息，蔚来公司公布2026年9月交付数据，当月交付新车37408台，同比增长7.7%。其中蔚来品牌交付21318台，同比增长55.3%；乐道品牌交付8763台；firefly萤火虫品牌交付7327台，同比增长26.9%。前三季度，蔚来公...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyc6521173.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyc6521173.shtml"
+      ],
+      "publishedAt": "2026-10-01",
+      "date": "2026-10-01",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “蔚来公司：2026年前三季度交付300301台，同比增长49.2%” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "近日消息，蔚来公司公布2026年9月交付数据，当月交付新车37408台，同比增长7.7%。其中蔚来品牌交付21318台，同比增长55.3%；乐道品牌交付8763台；firefly萤火虫品牌交付7327台，同比增长26.9%。前三季度，蔚来公...",
+      "relatedTitles": [
+        "蔚来公司：2026年前三季度交付300301台，同比增长49.2%"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "宁夏组织申报2027年度自治区自然科学基金项目",
       "summary": "各有关单位：为认真落实自治区党委和政府关于加强基础研究的安排部署，按照《宁夏回族自治区自然科学基金项目管理办法》（宁科规发〔2025〕6号）、《宁夏回族自治区基础学科研究中心建设管理办法》（宁科规发〔2022〕12号）规定要求，现就2027...",
       "source": "新浪科技",
@@ -3738,74 +4110,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "2026年9月蔚来交付新车37408辆，同比增7.7%；前三季度累计交付300301辆，同比大增49.2%，旗下三品牌前三季度交付均创历史新高，截至目前蔚来总累计交付达1297893辆。9月21日蔚来品牌完成第100万辆新车交付，当前该品牌累计交付1011597辆。旗下多款车型表现亮眼：全新ES8上市一周年交付超15万辆，蝉联大型SUV及40万级车型销冠；ES9历时119天交付破3万辆，连三月获50万级纯电车型销冠；乐道两款车型分获对应细分领域保值率第一；firefly萤火虫累计交付87536辆，连16个月居中国高端小车市占率第一。(AI生成)",
       "relatedTitles": [
         "蔚来公司 9 月交付新车 37408 辆，同比增长 7.7%"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "巨石从天而降砸穿特斯拉天窗 致车门变形无法打开 情侣下车割草捡回一命",
-      "summary": "10月1日快科技消息，国庆假期重庆一对情侣停车后临时下车割草喂兔，一块巨石从十几米高空坠落，砸穿其停在路边的特斯拉天窗，落入副驾驶区域，造成车辆A柱、B柱受损，副驾驶车门变形无法开启，二人因提前离车幸未受伤，车主事后仍心有余悸。业内人士提醒，山区或高切坡路段停车需选开阔地带，远离陡峭坡体与裸露岩壁，发现山体异常需立刻换",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-10-01/doc-initsief6393709.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/discovery/2026-10-01/doc-initsief6393709.shtml"
-      ],
-      "publishedAt": "2026-10-01",
-      "date": "2026-10-01",
-      "category": "新能源车",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “巨石从天而降砸穿特斯拉天窗 致车门变形无法打开 情侣下车割草捡回一命” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "10月1日快科技消息，国庆假期重庆一对情侣停车后临时下车割草喂兔，一块巨石从十几米高空坠落，砸穿其停在路边的特斯拉天窗，落入副驾驶区域，造成车辆A柱、B柱受损，副驾驶车门变形无法开启，二人因提前离车幸未受伤，车主事后仍心有余悸。业内人士提醒，山区或高切坡路段停车需选开阔地带，远离陡峭坡体与裸露岩壁，发现山体异常需立刻换车位，建议车主购置车损险及附加险，应对突发自然灾害带来的车辆损失。(AI生成)",
-      "relatedTitles": [
-        "巨石从天而降砸穿特斯拉天窗 致车门变形无法打开 情侣下车割草捡回一命"
       ],
       "isNewSinceLastRun": false
     },
@@ -4378,14 +4682,14 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "hardTechPriority": 70,
       "keywords": "digital infrastructure, data flows and the platform economy",
-      "priority": 3,
-      "score": 104,
-      "reporterScore": 104,
+      "priority": 4,
+      "score": 116,
+      "reporterScore": 116,
       "scoreBreakdown": {
         "hardTech": 70,
         "today": 18,
         "sourceAuthority": 8,
-        "multiSource": 0,
+        "multiSource": 12,
         "cgtFocus": 0,
         "visual": 0,
         "international": 0,
@@ -4485,7 +4789,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “华为AIDC” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "华为AIDC HC归来，华为正重新定义AIDC基础设施 AI基础设施下一站：算电协同 杰西卡 11分钟前 华为AIDC 热门文章 6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官 AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」 阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中 GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了 PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+      "rawText": "华为AIDC HC归来，华为正重新定义AIDC基础设施 AI基础设施下一站：算电协同 杰西卡 10分钟前 华为AIDC 热门文章 6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官 AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」 阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中 GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了 PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
       "relatedTitles": [
         "华为AIDC"
       ]
@@ -4762,6 +5066,38 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX to launch four astronauts to space for six-month stay",
+      "summary": "A SpaceX rocket is set to blast off from Cape Canaveral on Thursday carrying a four-person crew to the International Space Station (ISS). The launch was originally scheduled to tak",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/science/articles/spacex-launch-four-astronauts-space-131145190.html",
+      "publishedAt": "2026-10-01",
+      "date": "2026-10-01",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 70,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX to launch four astronauts to space for six-month stay” against primary-source evidence.",
+      "priority": 5,
+      "score": 166,
+      "reporterScore": 188,
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 133
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Trump says he doesn't want to work with China on AI safety",
       "summary": "US President Donald Trump discussed AI development with dozens of tech bosses at the White House on Tuesday. Ahead of his \"super intelligence\" luncheon, Trump launched a new AI-pow",
       "source": "France24 Technology",
@@ -4820,38 +5156,6 @@ window.CHENCHEN_DAILY_DATA = {
         "softNews": false,
         "hardTechWeight": 90,
         "reporterScore": 123
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "NASA's SpaceX Crew-13 astronaut bringing 100-year-old heirloom on space station trip",
-      "summary": "The crew is preparing to launch to the International Space Station Thursday.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/science/articles/nasas-spacex-crew-13-astronaut-102433159.html",
-      "publishedAt": "2026-10-01",
-      "date": "2026-10-01",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 70,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “NASA's SpaceX Crew-13 astronaut bringing 100-year-old heirloom on space ” against primary-source evidence.",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 174,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 125
       },
       "status": "confirmed_today",
       "isNewSinceLastRun": false
@@ -4954,38 +5258,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "publishedAt": "Thu, 01 Oct 2026 12:00:00 +0000",
-      "date": "2026-10-01",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.65,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Satlyt, founded by a former Google and SpaceX product manager, raises $8” against primary-source evidence.",
-      "priority": 5,
-      "score": 147,
-      "reporterScore": 153,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "AI in Government Governments are not only AI regulators and investors, but also developers and users.",
       "summary": "Governments are one of the most important adopters of artificial intelligence (AI) and yet, they are also one of the most cautious. This tension isn’t merely organisational inertia",
       "source": "OECD AI Policy",
@@ -5018,52 +5290,20 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-      "summary": "So much for Gemini 3.5 Pro.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-      "publishedAt": "Wed, 30 Sep 2026 20:11:08 +0000",
-      "date": "2026-10-01",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google announces Gemini 4 Argon AI model, but you can't use it yet” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim",
-      "summary": "A call center consultancy rented four Nvidia H200s to run DeepSeek V4.1 Flash for Claude Code and found DeepSeek's API cheaper.",
+      "title": "Anthropic wants to get Claude working across all Government arms",
+      "summary": "Anthropic releases full official version of Claude for Government.",
       "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/claude/articles/firm-rents-four-nvidia-h200s-103000831.html",
+      "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-wants-claude-working-across-110500186.html",
       "publishedAt": "2026-10-01",
       "date": "2026-10-01",
       "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.88,
+      "classificationConfidence": 0.99,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim” against primary-source evidence.",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic wants to get Claude working across all Government arms” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -5082,67 +5322,35 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "This new AMD APU is rumoured to be the chip that will power the long-awaited Steam Deck 2",
-      "summary": "As Final Fantasy 7 fans will know, it's 'Gainsborough' because 'Aerith Gainsborough'.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/gaming/articles/amd-apu-rumoured-chip-power-102235655.html",
-      "publishedAt": "2026-10-01",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "publishedAt": "Thu, 01 Oct 2026 12:00:00 +0000",
       "date": "2026-10-01",
       "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
+      "category": "太空与低空",
+      "classificationConfidence": 0.65,
+      "hardTechPriority": 90,
       "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
       "relevanceToChina": "medium",
-      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “This new AMD APU is rumoured to be the chip that will power the long-awa” against primary-source evidence.",
+      "cgtAngle": "Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “Satlyt, founded by a former Google and SpaceX product manager, raises $8” against primary-source evidence.",
       "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
+      "score": 147,
+      "reporterScore": 153,
       "reporterSignals": {
         "primary": false,
-        "visual": false,
+        "visual": true,
         "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
+        "hardTechWeight": 90,
+        "reporterScore": 113
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/articles/trumps-ai-rebrand-causes-unprecedented-114524243.html",
-      "publishedAt": "2026-10-01",
-      "date": "2026-10-01",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Trump's AI rebrand causes 'unprecedented' demand for Slovenian website n” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -5306,52 +5514,20 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI benches GPT-6.1 Astra for overstepping the mark",
-      "summary": "Turns out teaching an AI to keep going can make it rather bad at knowing when to stop",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743",
-      "publishedAt": "Tue, 29 Sep 2026 15:43:00 +0200",
-      "date": "2026-09-29",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.93,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI benches GPT-6.1 Astra for overstepping the mark” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
-      "summary": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more con",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
-      "publishedAt": "Wed, 30 Sep 2026 14:50:55 +0000",
-      "date": "2026-09-30",
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "summary": "So much for Gemini 3.5 Pro.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "publishedAt": "Wed, 30 Sep 2026 20:11:08 +0000",
+      "date": "2026-10-01",
       "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Pledge signed by President Trump and top AI leaders misspells the United” against primary-source evidence.",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google announces Gemini 4 Argon AI model, but you can't use it yet” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -5363,9 +5539,9 @@ window.CHENCHEN_DAILY_DATA = {
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 95
+        "reporterScore": 110
       },
-      "status": "recent_48h",
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -5626,6 +5802,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "This new AMD APU is rumoured to be the chip that will power the long-awaited Steam Deck 2",
+      "summary": "As Final Fantasy 7 fans will know, it's 'Gainsborough' because 'Aerith Gainsborough'.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/gaming/articles/amd-apu-rumoured-chip-power-102235655.html",
+      "publishedAt": "2026-10-01",
+      "date": "2026-10-01",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “This new AMD APU is rumoured to be the chip that will power the long-awa” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Meta stock enjoys best month since 2022 on AI momentum",
       "summary": "Meta stock had its best month in almost four years as investors cheer the social media giant's recent momentum in artificial intelligence.",
       "source": "CNBC Technology",
@@ -5689,8 +5897,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-01｜V3\n生成时间：2026/10/1 20:37:19\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2467｜确认今日 50｜国际背景 29\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 6 条\n延续跟踪线索：国内 47 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-01] AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittkrz1110802.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片” against primary-source evidence.\n\n2. [2026-10-01] 余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/tob/2026-10-01/doc-initstui5334772.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能” against primary-source evidence.\n\n3. [2026-10-01] 谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6482475.shtml\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出” against primary-source evidence.\n\n4. [2026-10-01] 断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxx1005907.shtml\n   报道角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%” against primary-source evidence.\n\n5. [2026-10-01] 美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2302152.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求” against primary-source evidence.\n\n本次新增线索：\n- 交通运输部：2026年国庆假期高速公路新能源车日均流量预计1640万辆，同比增长32.7%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxz1903951.shtml\n- RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqxx5138185.shtml\n- 蔚来公司：2026年前三季度交付300301台，同比增长49.2%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyc6521173.shtml\n- Google launches AI chips to orbit on SpaceX Transporter-18｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html\n- Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites｜TechCrunch｜https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/\n- Google announces Gemini 4 Argon AI model, but you can't use it yet｜Ars Technica｜https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/\n\n今日热点方向：\n- AI 应用：AI动态（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（11 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump says he doesn't want to work with China on AI safety｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety\n2. Google launches AI chips to orbit on SpaceX Transporter-18｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html\n3. NASA's SpaceX Crew-13 astronaut bringing 100-year-old heirloom on space station trip｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/nasas-spacex-crew-13-astronaut-102433159.html\n4. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\n5. Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-01｜V3\n生成时间：2026/10/1 20:37:19\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2467｜确认今日 50｜国际背景 29\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 6 条\n延续跟踪线索：国内 47 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-01] AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittkrz1110802.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片” against primary-source evidence.\n\n2. [2026-10-01] 余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/tob/2026-10-01/doc-initstui5334772.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能” against primary-source evidence.\n\n3. [2026-10-01] 谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6482475.shtml\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出” against primary-source evidence.\n\n4. [2026-10-01] 断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxx1005907.shtml\n   报道角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%” against primary-source evidence.\n\n5. [2026-10-01] 美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2302152.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求” against primary-source evidence.\n\n本次新增线索：\n- 交通运输部：2026年国庆假期高速公路新能源车日均流量预计1640万辆，同比增长32.7%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxz1903951.shtml\n- RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqxx5138185.shtml\n- 蔚来公司：2026年前三季度交付300301台，同比增长49.2%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyc6521173.shtml\n- Google launches AI chips to orbit on SpaceX Transporter-18｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html\n- Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites｜TechCrunch｜https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/\n- Google announces Gemini 4 Argon AI model, but you can't use it yet｜Ars Technica｜https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/\n\n今日热点方向：\n- AI 应用：AI动态（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（11 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Trump says he doesn't want to work with China on AI safety｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety\n2. Google launches AI chips to orbit on SpaceX Transporter-18｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html\n3. NASA's SpaceX Crew-13 astronaut bringing 100-year-old heirloom on space station trip｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/nasas-spacex-crew-13-astronaut-102433159.html\n4. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\n5. Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-01｜生成时间：2026/10/1 20:37:19｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2467｜确认今日 50｜国际背景 29</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 6 条<br>延续跟踪线索：国内 47 条｜国际 23 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-01] AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片</strong>\n      <span>新浪科技｜2026-10-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittkrz1110802.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-01] 余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能</strong>\n      <span>新浪科技｜2026-10-01｜<a href=\"https://finance.sina.com.cn/tob/2026-10-01/doc-initstui5334772.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-01] 谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出</strong>\n      <span>新浪科技｜2026-10-01｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6482475.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：190｜需核验来源</span>\n      <p>报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-01] 断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%</strong>\n      <span>新浪科技｜2026-10-01｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxx1005907.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：190｜需核验来源</span>\n      <p>报道角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-01] 美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求</strong>\n      <span>新浪科技｜2026-10-01｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2302152.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Trump says he doesn't want to work with China on AI safety</strong>\n      <span>时间：2026-09-29｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Trump says he doesn't want to work with China on AI safety” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Google launches AI chips to orbit on SpaceX Transporter-18</strong>\n      <span>时间：2026-10-01｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Google launches AI chips to orbit on SpaceX Transporter-18” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. NASA's SpaceX Crew-13 astronaut bringing 100-year-old heirloom on space station trip</strong>\n      <span>时间：2026-10-01｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/nasas-spacex-crew-13-astronaut-102433159.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “NASA's SpaceX Crew-13 astronaut bringing 100-year-old heirloom on space ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else</strong>\n      <span>时间：Wed, 30 Sep 2026 23:36:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Irony alert: OpenAI whines that Chinese model stole its special IP that ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Trump administration gets Big Tech to sign weak, non-binding, AI regulations</strong>\n      <span>时间：Wed, 30 Sep 2026 04:11:23 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump administration gets Big Tech to sign weak, non-binding, AI regulat” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/1 20:37:19\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 6 条\n延续跟踪线索：国内 47 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-01] AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittkrz1110802.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片” against primary-source evidence.\n\n2. [2026-10-01] 余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tob/2026-10-01/doc-initstui5334772.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能” against primary-source evidence.\n\n3. [2026-10-01] 谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6482475.shtml\n   角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出” against primary-source evidence.\n\n4. [2026-10-01] 断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxx1005907.shtml\n   角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%” against primary-source evidence.\n\n5. [2026-10-01] 美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2302152.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求” against primary-source evidence.\n\n本次新增线索：\n- 交通运输部：2026年国庆假期高速公路新能源车日均流量预计1640万辆，同比增长32.7%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxz1903951.shtml\n- RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqxx5138185.shtml\n- 蔚来公司：2026年前三季度交付300301台，同比增长49.2%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyc6521173.shtml\n- Google launches AI chips to orbit on SpaceX Transporter-18｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html\n- Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites｜TechCrunch｜https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/\n- Google announces Gemini 4 Argon AI model, but you can't use it yet｜Ars Technica｜https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/\n\n今日热点方向：\n- AI 应用：AI动态（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（11 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n国际科技背景：\n1. Trump says he doesn't want to work with China on AI safety｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety\n2. Google launches AI chips to orbit on SpaceX Transporter-18｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html\n3. NASA's SpaceX Crew-13 astronaut bringing 100-year-old heirloom on space station trip｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/nasas-spacex-crew-13-astronaut-102433159.html\n4. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\n5. Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-01｜V3\n生成时间：2026/10/1 21:25:14\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2518｜确认今日 54｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 2 条\n延续跟踪线索：国内 48 条｜国际 24 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-01] 余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/tob/2026-10-01/doc-initstui5334772.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能” against primary-source evidence.\n\n2. [2026-10-01] 谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6482475.shtml\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出” against primary-source evidence.\n\n3. [2026-10-01] 断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxx1005907.shtml\n   报道角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%” against primary-source evidence.\n\n4. [2026-10-01] 美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2302152.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求” against primary-source evidence.\n\n5. [2026-10-01] 内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/tech/discovery/2026-10-01/doc-inittqxx5161174.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍” against primary-source evidence.\n\n本次新增线索：\n- 内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-01/doc-inittqxx5161174.shtml\n- 全新RDNA5架构 网友模拟RX 10700 XT显卡性能：可超RTX 5080｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyf8150334.shtml\n- AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片｜IT之家｜https://www.ithome.com/1/009/111.htm\n- AI“入港”，山东港口青岛港向智而行｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/01/content_591198.html\n- 奇瑞集团 9 月汽车销售 292,308 辆，单月出口破 20 万辆创中国汽车新纪录｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqyc6544851.shtml\n- SpaceX to launch four astronauts to space for six-month stay｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-four-astronauts-space-131145190.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，4 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（11 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX to launch four astronauts to space for six-month stay｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-four-astronauts-space-131145190.html\n2. Trump says he doesn't want to work with China on AI safety｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety\n3. Google launches AI chips to orbit on SpaceX Transporter-18｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html\n4. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\n5. Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-01｜V3\n生成时间：2026/10/1 21:25:14\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2518｜确认今日 54｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 2 条\n延续跟踪线索：国内 48 条｜国际 24 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-01] 余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/tob/2026-10-01/doc-initstui5334772.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能” against primary-source evidence.\n\n2. [2026-10-01] 谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6482475.shtml\n   报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出” against primary-source evidence.\n\n3. [2026-10-01] 断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxx1005907.shtml\n   报道角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%” against primary-source evidence.\n\n4. [2026-10-01] 美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2302152.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求” against primary-source evidence.\n\n5. [2026-10-01] 内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍\n   新浪科技｜2026-10-01｜https://finance.sina.com.cn/tech/discovery/2026-10-01/doc-inittqxx5161174.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍” against primary-source evidence.\n\n本次新增线索：\n- 内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-01/doc-inittqxx5161174.shtml\n- 全新RDNA5架构 网友模拟RX 10700 XT显卡性能：可超RTX 5080｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyf8150334.shtml\n- AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片｜IT之家｜https://www.ithome.com/1/009/111.htm\n- AI“入港”，山东港口青岛港向智而行｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/01/content_591198.html\n- 奇瑞集团 9 月汽车销售 292,308 辆，单月出口破 20 万辆创中国汽车新纪录｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqyc6544851.shtml\n- SpaceX to launch four astronauts to space for six-month stay｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-four-astronauts-space-131145190.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，4 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（11 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. SpaceX to launch four astronauts to space for six-month stay｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-four-astronauts-space-131145190.html\n2. Trump says he doesn't want to work with China on AI safety｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety\n3. Google launches AI chips to orbit on SpaceX Transporter-18｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html\n4. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\n5. Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-01｜生成时间：2026/10/1 21:25:14｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2518｜确认今日 54｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 2 条<br>延续跟踪线索：国内 48 条｜国际 24 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-01] 余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能</strong>\n      <span>新浪科技｜2026-10-01｜<a href=\"https://finance.sina.com.cn/tob/2026-10-01/doc-initstui5334772.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-01] 谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出</strong>\n      <span>新浪科技｜2026-10-01｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6482475.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：190｜需核验来源</span>\n      <p>报道角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-01] 断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%</strong>\n      <span>新浪科技｜2026-10-01｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxx1005907.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：190｜需核验来源</span>\n      <p>报道角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-01] 美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求</strong>\n      <span>新浪科技｜2026-10-01｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2302152.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-01] 内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍</strong>\n      <span>新浪科技｜2026-10-01｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-10-01/doc-inittqxx5161174.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. SpaceX to launch four astronauts to space for six-month stay</strong>\n      <span>时间：2026-10-01｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/spacex-launch-four-astronauts-space-131145190.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use commercial space, low-altitude economy and satellite infrastructure to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “SpaceX to launch four astronauts to space for six-month stay” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Trump says he doesn't want to work with China on AI safety</strong>\n      <span>时间：2026-09-29｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Trump says he doesn't want to work with China on AI safety” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Google launches AI chips to orbit on SpaceX Transporter-18</strong>\n      <span>时间：2026-10-01｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Google launches AI chips to orbit on SpaceX Transporter-18” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else</strong>\n      <span>时间：Wed, 30 Sep 2026 23:36:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Irony alert: OpenAI whines that Chinese model stole its special IP that ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Trump administration gets Big Tech to sign weak, non-binding, AI regulations</strong>\n      <span>时间：Wed, 30 Sep 2026 04:11:23 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump administration gets Big Tech to sign weak, non-binding, AI regulat” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/1 21:25:14\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 2 条\n延续跟踪线索：国内 48 条｜国际 24 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-01] 余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tob/2026-10-01/doc-initstui5334772.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “余承东：华为Mate 90 Pro Max搭载麒麟9050 Pro芯片，首发四卡三待功能” against primary-source evidence.\n\n2. [2026-10-01] 谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6482475.shtml\n   角度：Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出” against primary-source evidence.\n\n3. [2026-10-01] 断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqxx1005907.shtml\n   角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “断崖式领先！比亚迪9月交付463561辆：海外同比猛涨超153%” against primary-source evidence.\n\n4. [2026-10-01] 美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2302152.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求” against primary-source evidence.\n\n5. [2026-10-01] 内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-10-01/doc-inittqxx5161174.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍” against primary-source evidence.\n\n本次新增线索：\n- 内存还没炒作完又开始炒作CPU了：大佬放言需求将增长40倍｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-01/doc-inittqxx5161174.shtml\n- 全新RDNA5架构 网友模拟RX 10700 XT显卡性能：可超RTX 5080｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-01/doc-inittqyf8150334.shtml\n- AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片｜IT之家｜https://www.ithome.com/1/009/111.htm\n- AI“入港”，山东港口青岛港向智而行｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/01/content_591198.html\n- 奇瑞集团 9 月汽车销售 292,308 辆，单月出口破 20 万辆创中国汽车新纪录｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittqyc6544851.shtml\n- SpaceX to launch four astronauts to space for six-month stay｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-four-astronauts-space-131145190.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，4 个来源）\n- 芯片/半导体：半导体供应链（4 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（11 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n国际科技背景：\n1. SpaceX to launch four astronauts to space for six-month stay｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launch-four-astronauts-space-131145190.html\n2. Trump says he doesn't want to work with China on AI safety｜France24 Technology｜https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety\n3. Google launches AI chips to orbit on SpaceX Transporter-18｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-launches-ai-chips-orbit-121615910.html\n4. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\n5. Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
