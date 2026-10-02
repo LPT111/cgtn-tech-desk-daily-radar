@@ -1,29 +1,54 @@
 {
-  "generatedAt": "2026-10-02T02:08:36.119Z",
+  "generatedAt": "2026-10-02T02:19:06.543Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-02",
   "changeSummary": {
-    "domesticNew": 2,
-    "globalNew": 1,
-    "domesticContinued": 18,
-    "globalContinued": 15,
+    "domesticNew": 3,
+    "globalNew": 6,
+    "domesticContinued": 19,
+    "globalContinued": 16,
     "topNewDomestic": [
       {
-        "title": "马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半",
+        "title": "Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H",
         "source": "IT之家",
-        "url": "https://www.ithome.com/1/009/196.htm"
+        "url": "https://www.ithome.com/1/009/235.htm"
       },
       {
-        "title": "比亚迪乘用车 9 月销量明细曝光：王朝元系列超 8.3 万辆，方程豹钛 7 突破 3.2 万辆",
+        "title": "淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5952618.shtml"
+      },
+      {
+        "title": "“人造太阳”建设新进展：我国紧凑型聚变能实验装置园区交付使用",
         "source": "IT之家",
-        "url": "https://www.ithome.com/1/009/229.htm"
+        "url": "https://www.ithome.com/1/009/236.htm"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "ChatGPT Can Now Help You Virtually Try On Clothes",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-now-help-virtually-try-222739066.html"
+        "title": "Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing",
+        "source": "The Register",
+        "url": "https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595"
+      },
+      {
+        "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
+        "source": "The Register",
+        "url": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285"
+      },
+      {
+        "title": "Trump administration gets Big Tech to sign weak, non-binding, AI regulations",
+        "source": "The Register",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955"
+      },
+      {
+        "title": "OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian",
+        "source": "The Register",
+        "url": "https://www.theregister.com/columnists/2026/09/30/openai-apes-aws-marketplace-while-anthropic-remains-stubbornly-microsoftian/5300056"
+      },
+      {
+        "title": "OpenClaw slips on a suit to evade widespread business bans",
+        "source": "The Register",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/30/openclaw-slips-on-a-suit-to-evade-widespread-business-bans/5299962"
       }
     ],
     "hasPrevious": true
@@ -32,8 +57,8 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 880,
-    "globalRejected": 884,
+    "domesticRejected": 878,
+    "globalRejected": 878,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -47,7 +72,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 29,
   "failedSources": [
     {
       "name": "央视网-科技",
@@ -55,9 +80,19 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
+    },
+    {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -77,9 +112,19 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
+    },
+    {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -259,7 +304,8 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -287,8 +333,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -343,13 +390,13 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1563,
+  "itemsSeen": 1553,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 213,
-  "itemsAfterDedupe": 151,
-  "todayItemsSeen": 20,
-  "suspectedItemsSeen": 7,
-  "skippedNonToday": 122,
+  "itemsAfterRelevantFilter": 214,
+  "itemsAfterDedupe": 152,
+  "todayItemsSeen": 22,
+  "suspectedItemsSeen": 8,
+  "skippedNonToday": 121,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -517,7 +564,8 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -545,8 +593,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -670,7 +719,7 @@
     {
       "name": "The Register",
       "tier": "international",
-      "parsed": 0,
+      "parsed": 50,
       "failed": false,
       "optional": false
     },
@@ -761,9 +810,19 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
+    },
+    {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国家网信办-政策",
@@ -800,30 +859,30 @@
   ],
   "globalSourcesChecked": 21,
   "globalSuccessSources": 17,
-  "globalItemsSeen": 917,
+  "globalItemsSeen": 967,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 170,
+  "globalItemsAfterRelevantFilter": 176,
   "topics": [
     {
       "topic": "新能源车动态",
       "count": 6,
       "sourceCount": 3,
       "sources": [
-        "IT之家",
         "新浪科技",
-        "网易科技"
+        "网易科技",
+        "IT之家"
       ],
       "items": [
-        "比亚迪乘用车 9 月销量明细曝光：王朝元系列超 8.3 万辆，方程豹钛 7 突破 3.2 万辆",
         "史上最强9月！比亚迪狂卖46万辆 7款车型销量破3万",
         "宁德时代公布建议采纳2026年A股第二期员工持股计划",
         "理想汽车-W9月交付新车31817辆",
-        "9月交付量：零跑再超10万辆，小鹏小米站上4万"
+        "9月交付量：零跑再超10万辆，小鹏小米站上4万",
+        "汽车业前三季度成绩单：新势力格局重排，销冠之"
       ]
     },
     {
       "topic": "AI动态",
-      "count": 4,
+      "count": 5,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
@@ -831,6 +890,7 @@
       ],
       "items": [
         "苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录不存视频、仅推送文本提醒",
+        "淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作",
         "古尔曼：苹果首款智能家居中枢支持 AI 面部识别，为家人切换呈现专属内容",
         "追光的你｜00后创业者苏烁轩：AI商业化临界点已至",
         "AI正走向失控？每经对话多位菲尔兹奖得主：在这个新时代"
@@ -848,6 +908,19 @@
         "润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察",
         "将经验存到权重更能帮助 LLM 获得长期记忆吗？",
         "加州检察长向 OpenAI 发出传票，调查 AI 网络安全风险"
+      ]
+    },
+    {
+      "topic": "科学前沿动态",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
+        "网易科技"
+      ],
+      "items": [
+        "“人造太阳”建设新进展：我国紧凑型聚变能实验装置园区交付使用",
+        "我国研发新型锂电正极材料 可提升快充效率与耐"
       ]
     },
     {
@@ -874,6 +947,17 @@
       ]
     },
     {
+      "topic": "芯片动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "IT之家"
+      ],
+      "items": [
+        "Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H"
+      ]
+    },
+    {
       "topic": "国家科技战略与监管",
       "count": 1,
       "sourceCount": 1,
@@ -893,28 +977,6 @@
       ],
       "items": [
         "谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?"
-      ]
-    },
-    {
-      "topic": "芯片动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "Intel七款Nova Lake CPU曝光！旗舰酷睿Ultra 4970K BFC首次现身"
-      ]
-    },
-    {
-      "topic": "科学前沿动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "网易科技"
-      ],
-      "items": [
-        "我国研发新型锂电正极材料 可提升快充效率与耐"
       ]
     }
   ],
@@ -984,6 +1046,74 @@
       "rawText": "全球首富埃隆 · 马斯克今天（10 月 2 日）在 X 平台发布推文，宣布为了调配充足的内存满足 Optimus 机器人量产，计划削减特斯拉 AI5 和 AI6 芯片的内存用量。",
       "relatedTitles": [
         "马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H",
+      "summary": "机构 Signal65 昨日（10 月 1 日）发布报告，测试显示高通 18 核骁龙 X2 Elite 芯片（具体型号为 X2E-88-100）在 CPU、AI、生产力和多数续航项目中，领先英特尔酷睿 Ultra X7 358H 处理器。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/009/235.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/009/235.htm"
+      ],
+      "publishedAt": "Fri, 02 Oct 2026 02:14:16 GMT",
+      "date": "2026-10-02",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 171,
+      "reporterScore": 179,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "机构 Signal65 昨日（10 月 1 日）发布报告，测试显示高通 18 核骁龙 X2 Elite 芯片（具体型号为 X2E-88-100）在 CPU、AI、生产力和多数续航项目中，领先英特尔酷睿 Ultra X7 358H 处理器。",
+      "relatedTitles": [
+        "Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H"
       ],
       "isNewSinceLastRun": true
     },
@@ -1328,39 +1458,39 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "比亚迪乘用车 9 月销量明细曝光：王朝元系列超 8.3 万辆，方程豹钛 7 突破 3.2 万辆",
-      "summary": "奇瑞集团公布最新销量数据，9 月汽车出口再次突破 20 万辆，创下中国汽车单月出口新纪录，其中新能源车型出口同比增长 174%。#奇瑞汽车销量#",
-      "source": "IT之家",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作",
+      "summary": "TaoMate-H3 是由阿里巴巴 TaoLive AIGC 团队研发的音视频联合流式生成模型。基于 MiniMax H3，TaoMate-H3 将三步 LoRA 推理与自回归生成相结合，能够根据文本描述，连续生成包含人物对白、歌声或环境音...",
+      "source": "新浪科技",
       "sources": [
-        "IT之家"
+        "新浪科技"
       ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/009/229.htm",
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5952618.shtml",
       "sourceUrls": [
-        "https://www.ithome.com/1/009/229.htm"
+        "https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5952618.shtml"
       ],
-      "publishedAt": "Fri, 02 Oct 2026 02:01:04 GMT",
+      "publishedAt": "2026-10-02",
       "date": "2026-10-02",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
+      "category": "AI",
+      "classificationConfidence": 0.71,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 153,
-      "reporterScore": 153,
+      "score": 155,
+      "reporterScore": 155,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 8,
+        "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 12,
+        "cgtFocus": 0,
         "visual": 0,
         "international": 0,
         "policy": 0,
@@ -1378,20 +1508,88 @@
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “比亚迪乘用车 9 月销量明细曝光：王朝元系列超 8.3 万辆，方程豹钛 7 突破 3.2 万辆” against primary-source evidence.",
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about compute economics and infrastructure demand, separating product claims from evidence of real-world adoption. For this item, test the claim behind “淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "博主 @小迪快报 今日曝光了比亚迪乘用车 2026 年 9 月的销量明细。",
+      "matchedTopic": "AI动态",
+      "rawText": "TaoMate-H3 是由阿里巴巴 TaoLive AIGC 团队研发的音视频联合流式生成模型。基于 MiniMax H3，TaoMate-H3 将三步 LoRA 推理与自回归生成相结合，能够根据文本描述，连续生成包含人物对白、歌声或环境音...",
       "relatedTitles": [
-        "比亚迪乘用车 9 月销量明细曝光：王朝元系列超 8.3 万辆，方程豹钛 7 突破 3.2 万辆"
+        "淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "“人造太阳”建设新进展：我国紧凑型聚变能实验装置园区交付使用",
+      "summary": "国庆前夕，国家重大工程紧凑型聚变能实验装置（BEST）迎来重要节点，项目园区正式交付启用，核聚变装置主机的建造进入了“四环套装”的关键攻坚阶段。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/009/236.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/009/236.htm"
+      ],
+      "publishedAt": "Fri, 02 Oct 2026 02:14:41 GMT",
+      "date": "2026-10-02",
+      "category": "科学前沿",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 149,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 108
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Use researchers and facilities as reporting anchors, with research infrastructure and long-term innovation capacity, peer context and limitations clearly stated. For this item, test the claim behind ““人造太阳”建设新进展：我国紧凑型聚变能实验装置园区交付使用” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "国庆前夕，国家重大工程紧凑型聚变能实验装置（BEST）迎来重要节点，项目园区正式交付启用，核聚变装置主机的建造进入了“四环套装”的关键攻坚阶段。",
+      "relatedTitles": [
+        "“人造太阳”建设新进展：我国紧凑型聚变能实验装置园区交付使用"
       ],
       "isNewSinceLastRun": true
     },
@@ -1940,74 +2138,6 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "Intel七款Nova Lake CPU曝光！旗舰酷睿Ultra 4970K BFC首次现身",
-      "summary": "快科技10月2日消息，Intel下一代桌面平台Nova Lake-S的7款处理器规格被曝光，确认将使用四位数字命名，其中包括首次出现的28核旗舰Ultra 9 4970K BFC，52核版本则不在本次曝光名单中。Nova Lake-S此次泄...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-02/doc-initusmp1550405.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-02/doc-initusmp1550405.shtml"
-      ],
-      "publishedAt": "2026-10-02",
-      "date": "2026-10-02",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Intel七款Nova Lake CPU曝光！旗舰酷睿Ultra 4970K BFC首次现身” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "快科技10月2日消息，Intel下一代桌面平台Nova Lake-S的7款处理器规格被曝光，确认将使用四位数字命名，其中包括首次出现的28核旗舰Ultra 9 4970K BFC，52核版本则不在本次曝光名单中。Nova Lake-S此次泄...",
-      "relatedTitles": [
-        "Intel七款Nova Lake CPU曝光！旗舰酷睿Ultra 4970K BFC首次现身"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "追光的你｜00后创业者苏烁轩：AI商业化临界点已至",
       "summary": "追光的你｜00后创业者苏烁轩：AI商业化临界点已至，与其站在岸边观望，不如“跳进水里”游泳,苏烁轩,临界点,创业者,追光的你",
@@ -2140,6 +2270,74 @@
       "rawText": "AI正走向失控？每经对话多位菲尔兹奖得主：在这个新时代，人类的许多技能将从传统意义上消失,菲尔兹奖",
       "relatedTitles": [
         "AI正走向失控？每经对话多位菲尔兹奖得主：在这个新时代"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "比亚迪乘用车 9 月销量明细曝光：王朝元系列超 8.3 万辆，方程豹钛 7 突破 3.2 万辆",
+      "summary": "奇瑞集团公布最新销量数据，9 月汽车出口再次突破 20 万辆，创下中国汽车单月出口新纪录，其中新能源车型出口同比增长 174%。#奇瑞汽车销量#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/009/229.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/009/229.htm"
+      ],
+      "publishedAt": "Fri, 02 Oct 2026 02:01:04 GMT",
+      "date": "2026-10-02",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 153,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “比亚迪乘用车 9 月销量明细曝光：王朝元系列超 8.3 万辆，方程豹钛 7 突破 3.2 万辆” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "博主 @小迪快报 今日曝光了比亚迪乘用车 2026 年 9 月的销量明细。",
+      "relatedTitles": [
+        "比亚迪乘用车 9 月销量明细曝光：王朝元系列超 8.3 万辆，方程豹钛 7 突破 3.2 万辆"
       ],
       "isNewSinceLastRun": false
     },
@@ -2349,6 +2547,73 @@
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "MEET大会",
+      "summary": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/meet/meet2026/",
+      "sourceUrls": [
+        "https://www.qbitai.com/meet/meet2026/"
+      ],
+      "publishedAt": "2026-09-49",
+      "date": "2026-09-49",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “MEET大会” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势。量子位在会上发布了「2025人工智能年度榜单」与「2025年度AI十大趋势报告」。 大会直播回顾 MEET2025 回顾 MEET2024 回顾 MEET2023 回顾 特邀嘉宾 &times; 重磅发布 2025人工智能年度榜单 我们希望为关注前沿科技创新的人提供一个独立的第三方参照系 为在技术与产业一线摸索前行的团队加一份笃定 为仍在押注长期主义的建设者刻下年度坐标 2025年度AI十大趋势报告 报告由量子位智库打造 基于对全球AI技术发展、产业应用和社会影响的深度调研与分析 全面呈现了人工智能领域的最新现状与未来发展趋势 独家观点 张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 百",
+      "relatedTitles": [
+        "MEET大会"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "中国机器人狂飙，韩国还能怎么争？",
       "summary": "近期我接触的多位韩国机器人企业负责人不约而同地强调，要与中国竞争，仅靠技术实力是不够的。",
@@ -2477,7 +2742,7 @@
       "angle": "Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “华为AIDC” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "华为AIDC HC归来，华为正重新定义AIDC基础设施 AI基础设施下一站：算电协同 杰西卡 8分钟前 华为AIDC 热门文章 6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官 AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」 阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中 GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了 PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+      "rawText": "华为AIDC HC归来，华为正重新定义AIDC基础设施 AI基础设施下一站：算电协同 杰西卡 10分钟前 华为AIDC 热门文章 6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官 AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」 阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中 GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了 PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
       "relatedTitles": [
         "华为AIDC"
       ]
@@ -2618,7 +2883,7 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 21119",
+      "title": "阅读 21139",
       "summary": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
       "source": "观察者网-产业科技",
       "sources": [
@@ -2675,12 +2940,12 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "graphic",
-      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “阅读 21119” against primary-source evidence.",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “阅读 21139” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "半导体供应链",
       "rawText": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
       "relatedTitles": [
-        "阅读 21119"
+        "阅读 21139"
       ]
     },
     {
@@ -2754,6 +3019,134 @@
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing",
+      "summary": "Your invite to a fake AI policy advisory committee has strings attached",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595",
+      "publishedAt": "Thu, 01 Oct 2026 18:43:30 +0200",
+      "date": "2026-10-01",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 85,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Suspected Chinese spies spoofed an Anthropic exec, ex-White House offici” against primary-source evidence.",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 183,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
+      "summary": "US model makers can train on web data - but distilling theirs is a",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
+      "publishedAt": "Wed, 30 Sep 2026 23:36:00 +0200",
+      "date": "2026-09-30",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 85,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Irony alert: OpenAI whines that Chinese model stole its special IP that ” against primary-source evidence.",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Trump administration gets Big Tech to sign weak, non-binding, AI regulations",
+      "summary": "Also requires name change to",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955",
+      "publishedAt": "Wed, 30 Sep 2026 04:11:23 +0200",
+      "date": "2026-09-30",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 65,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump administration gets Big Tech to sign weak, non-binding, AI regulat” against primary-source evidence.",
+      "priority": 5,
+      "score": 157,
+      "reporterScore": 167,
+      "reporterSignals": {
+        "primary": true,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian",
+      "summary": "By including Baseten in its marketplace, OpenAI signals it wants its models to win on the merits, not through coercion",
+      "source": "The Register",
+      "url": "https://www.theregister.com/columnists/2026/09/30/openai-apes-aws-marketplace-while-anthropic-remains-stubbornly-microsoftian/5300056",
+      "publishedAt": "Wed, 30 Sep 2026 16:53:00 +0200",
+      "date": "2026-09-30",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoft” against primary-source evidence.",
+      "priority": 5,
+      "score": 156,
+      "reporterScore": 166,
+      "reporterSignals": {
+        "primary": true,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
       "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
       "source": "TechCrunch",
@@ -2815,6 +3208,38 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenClaw slips on a suit to evade widespread business bans",
+      "summary": "Red Hat, Nvidia, OpenAI and friends are working on an enterprise edition they say is ‘Kubernetes for agents’",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/30/openclaw-slips-on-a-suit-to-evade-widespread-business-bans/5299962",
+      "publishedAt": "Wed, 30 Sep 2026 07:04:22 +0200",
+      "date": "2026-09-30",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.63,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenClaw slips on a suit to evade widespread business bans” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2882,38 +3307,6 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "ChatGPT Can Now Help You Virtually Try On Clothes",
-      "summary": "Images are generated with OpenAI's latest model and you can save clothes you like for later.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-now-help-virtually-try-222739066.html",
-      "publishedAt": "2026-10-02",
-      "date": "2026-10-02",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “ChatGPT Can Now Help You Virtually Try On Clothes” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "The Battle to Be Your Personal AI Agent Is Here",
       "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
       "source": "WIRED Business",
@@ -2974,6 +3367,38 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "ChatGPT Can Now Help You Virtually Try On Clothes",
+      "summary": "Images are generated with OpenAI's latest model and you can save clothes you like for later.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-now-help-virtually-try-222739066.html",
+      "publishedAt": "2026-10-02",
+      "date": "2026-10-02",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “ChatGPT Can Now Help You Virtually Try On Clothes” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -3263,10 +3688,42 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Where does your AI data actually live?",
+      "summary": "SPONSORED: The Register takes HPE and NVIDIA to dinner in Washington to answer the question that stalls AI in regulated industries, off the record.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/30/sponsored-where-does-your-ai-data-actually-live/5300134",
+      "publishedAt": "Wed, 30 Sep 2026 17:00:00 +0200",
+      "date": "2026-09-30",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.68,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Where does your AI data actually live?” against primary-source evidence.",
+      "priority": 4,
+      "score": 109,
+      "reporterScore": 109,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": true,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 60
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-02｜V3\n生成时间：2026/10/2 10:08:36\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2480｜确认今日 20｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 18 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:16] 马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半\n   IT之家｜2026-10-02｜https://www.ithome.com/1/009/196.htm\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半” against primary-source evidence.\n\n2. [2026-10-02] 前沿模型能力加速跃升 9月全球人工智能发展盘点\n   科技日报｜2026-10-02｜https://www.stdaily.com/web/gdxw/2026-10/02/content_591237.html\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “前沿模型能力加速跃升 9月全球人工智能发展盘点” against primary-source evidence.\n\n3. [2026-10-02] 谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?\n   网易科技｜2026-10-02｜https://www.163.com/dy/article/L875LUI305198CJN.html\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?” against primary-source evidence.\n\n4. [2026-10-02] 润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察\n   新浪科技｜2026-10-02｜https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5948317.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察” against primary-source evidence.\n\n5. [2026-10-02] 苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录不存视频、仅推送文本提醒\n   新浪科技｜2026-10-02｜https://finance.sina.com.cn/tech/digi/2026-10-02/doc-initusmm4799542.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录不存视频、仅推送文本提醒” against primary-source evidence.\n\n本次新增线索：\n- 马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半｜IT之家｜https://www.ithome.com/1/009/196.htm\n- 比亚迪乘用车 9 月销量明细曝光：王朝元系列超 8.3 万辆，方程豹钛 7 突破 3.2 万辆｜IT之家｜https://www.ithome.com/1/009/229.htm\n- ChatGPT Can Now Help You Virtually Try On Clothes｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-now-help-virtually-try-222739066.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI cuts ties with 3 safety researchers, WSJ reports｜TechCrunch｜https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/\n2. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov\n3. Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground｜TechCrunch｜https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/\n4. SpaceX describes surgical intervention before launch of latest crew mission｜Ars Technica｜https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/\n5. ChatGPT Can Now Help You Virtually Try On Clothes｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-now-help-virtually-try-222739066.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-02｜V3\n生成时间：2026/10/2 10:08:36\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2480｜确认今日 20｜国际背景 16\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 18 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:16] 马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半\n   IT之家｜2026-10-02｜https://www.ithome.com/1/009/196.htm\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半” against primary-source evidence.\n\n2. [2026-10-02] 前沿模型能力加速跃升 9月全球人工智能发展盘点\n   科技日报｜2026-10-02｜https://www.stdaily.com/web/gdxw/2026-10/02/content_591237.html\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “前沿模型能力加速跃升 9月全球人工智能发展盘点” against primary-source evidence.\n\n3. [2026-10-02] 谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?\n   网易科技｜2026-10-02｜https://www.163.com/dy/article/L875LUI305198CJN.html\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?” against primary-source evidence.\n\n4. [2026-10-02] 润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察\n   新浪科技｜2026-10-02｜https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5948317.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察” against primary-source evidence.\n\n5. [2026-10-02] 苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录不存视频、仅推送文本提醒\n   新浪科技｜2026-10-02｜https://finance.sina.com.cn/tech/digi/2026-10-02/doc-initusmm4799542.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录不存视频、仅推送文本提醒” against primary-source evidence.\n\n本次新增线索：\n- 马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半｜IT之家｜https://www.ithome.com/1/009/196.htm\n- 比亚迪乘用车 9 月销量明细曝光：王朝元系列超 8.3 万辆，方程豹钛 7 突破 3.2 万辆｜IT之家｜https://www.ithome.com/1/009/229.htm\n- ChatGPT Can Now Help You Virtually Try On Clothes｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-now-help-virtually-try-222739066.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. OpenAI cuts ties with 3 safety researchers, WSJ reports｜TechCrunch｜https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/\n2. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov\n3. Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground｜TechCrunch｜https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/\n4. SpaceX describes surgical intervention before launch of latest crew mission｜Ars Technica｜https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/\n5. ChatGPT Can Now Help You Virtually Try On Clothes｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-now-help-virtually-try-222739066.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-02｜生成时间：2026/10/2 10:08:36｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2480｜确认今日 20｜国际背景 16</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 1 条<br>延续跟踪线索：国内 18 条｜国际 15 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [23:16] 马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半</strong>\n      <span>IT之家｜2026-10-02｜<a href=\"https://www.ithome.com/1/009/196.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：205｜需核验来源</span>\n      <p>报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-02] 前沿模型能力加速跃升 9月全球人工智能发展盘点</strong>\n      <span>科技日报｜2026-10-02｜<a href=\"https://www.stdaily.com/web/gdxw/2026-10/02/content_591237.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：180｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “前沿模型能力加速跃升 9月全球人工智能发展盘点” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-02] 谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?</strong>\n      <span>网易科技｜2026-10-02｜<a href=\"https://www.163.com/dy/article/L875LUI305198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-02] 润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察</strong>\n      <span>新浪科技｜2026-10-02｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5948317.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-02] 苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录不存视频、仅推送文本提醒</strong>\n      <span>新浪科技｜2026-10-02｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-02/doc-initusmm4799542.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录不存视频、仅推送文本提醒” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. OpenAI cuts ties with 3 safety researchers, WSJ reports</strong>\n      <span>时间：Thu, 01 Oct 2026 18:14:42 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI cuts ties with 3 safety researchers, WSJ reports” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. AI in Government Governments are not only AI regulators and investors, but also developers and users.</strong>\n      <span>时间：Wed, 30 Sep 2026 10:40:30 +0000｜来源：OECD AI Policy｜<a href=\"https://oecd.ai/en/gov\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI in Government Governments are not only AI regulators and investors, b” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground</strong>\n      <span>时间：Thu, 01 Oct 2026 19:18:03 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “Google thinks SpaceX’s Starship has to launch 1,800 times before space d” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. SpaceX describes surgical intervention before launch of latest crew mission</strong>\n      <span>时间：Thu, 01 Oct 2026 22:07:33 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX describes surgical intervention before launch of latest crew miss” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. ChatGPT Can Now Help You Virtually Try On Clothes</strong>\n      <span>时间：2026-10-02｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-now-help-virtually-try-222739066.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “ChatGPT Can Now Help You Virtually Try On Clothes” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/2 10:08:36\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 18 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:16] 马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半\n   来源：IT之家\n   链接：https://www.ithome.com/1/009/196.htm\n   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半” against primary-source evidence.\n\n2. [2026-10-02] 前沿模型能力加速跃升 9月全球人工智能发展盘点\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-10/02/content_591237.html\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “前沿模型能力加速跃升 9月全球人工智能发展盘点” against primary-source evidence.\n\n3. [2026-10-02] 谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L875LUI305198CJN.html\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?” against primary-source evidence.\n\n4. [2026-10-02] 润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5948317.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察” against primary-source evidence.\n\n5. [2026-10-02] 苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录不存视频、仅推送文本提醒\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-02/doc-initusmm4799542.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录不存视频、仅推送文本提醒” against primary-source evidence.\n\n本次新增线索：\n- 马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半｜IT之家｜https://www.ithome.com/1/009/196.htm\n- 比亚迪乘用车 9 月销量明细曝光：王朝元系列超 8.3 万辆，方程豹钛 7 突破 3.2 万辆｜IT之家｜https://www.ithome.com/1/009/229.htm\n- ChatGPT Can Now Help You Virtually Try On Clothes｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-now-help-virtually-try-222739066.html\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. OpenAI cuts ties with 3 safety researchers, WSJ reports｜TechCrunch｜https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/\n2. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov\n3. Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground｜TechCrunch｜https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/\n4. SpaceX describes surgical intervention before launch of latest crew mission｜Ars Technica｜https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/\n5. ChatGPT Can Now Help You Virtually Try On Clothes｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-now-help-virtually-try-222739066.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-02｜V3\n生成时间：2026/10/2 10:19:06\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2520｜确认今日 22｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 6 条\n延续跟踪线索：国内 19 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:16] 马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半\n   IT之家｜2026-10-02｜https://www.ithome.com/1/009/196.htm\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半” against primary-source evidence.\n\n2. [02:14] Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H\n   IT之家｜2026-10-02｜https://www.ithome.com/1/009/235.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H” against primary-source evidence.\n\n3. [2026-10-02] 前沿模型能力加速跃升 9月全球人工智能发展盘点\n   科技日报｜2026-10-02｜https://www.stdaily.com/web/gdxw/2026-10/02/content_591237.html\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “前沿模型能力加速跃升 9月全球人工智能发展盘点” against primary-source evidence.\n\n4. [2026-10-02] 谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?\n   网易科技｜2026-10-02｜https://www.163.com/dy/article/L875LUI305198CJN.html\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?” against primary-source evidence.\n\n5. [2026-10-02] 润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察\n   新浪科技｜2026-10-02｜https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5948317.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察” against primary-source evidence.\n\n本次新增线索：\n- Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H｜IT之家｜https://www.ithome.com/1/009/235.htm\n- 淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5952618.shtml\n- “人造太阳”建设新进展：我国紧凑型聚变能实验装置园区交付使用｜IT之家｜https://www.ithome.com/1/009/236.htm\n- Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\n- Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\n- Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955\n\n今日热点方向：\n- AI 应用：AI动态（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\n2. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\n3. Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955\n4. OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian｜The Register｜https://www.theregister.com/columnists/2026/09/30/openai-apes-aws-marketplace-while-anthropic-remains-stubbornly-microsoftian/5300056\n5. OpenAI cuts ties with 3 safety researchers, WSJ reports｜TechCrunch｜https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-02｜V3\n生成时间：2026/10/2 10:19:06\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2520｜确认今日 22｜国际背景 22\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 6 条\n延续跟踪线索：国内 19 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:16] 马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半\n   IT之家｜2026-10-02｜https://www.ithome.com/1/009/196.htm\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半” against primary-source evidence.\n\n2. [02:14] Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H\n   IT之家｜2026-10-02｜https://www.ithome.com/1/009/235.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H” against primary-source evidence.\n\n3. [2026-10-02] 前沿模型能力加速跃升 9月全球人工智能发展盘点\n   科技日报｜2026-10-02｜https://www.stdaily.com/web/gdxw/2026-10/02/content_591237.html\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “前沿模型能力加速跃升 9月全球人工智能发展盘点” against primary-source evidence.\n\n4. [2026-10-02] 谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?\n   网易科技｜2026-10-02｜https://www.163.com/dy/article/L875LUI305198CJN.html\n   报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?” against primary-source evidence.\n\n5. [2026-10-02] 润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察\n   新浪科技｜2026-10-02｜https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5948317.shtml\n   报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察” against primary-source evidence.\n\n本次新增线索：\n- Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H｜IT之家｜https://www.ithome.com/1/009/235.htm\n- 淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5952618.shtml\n- “人造太阳”建设新进展：我国紧凑型聚变能实验装置园区交付使用｜IT之家｜https://www.ithome.com/1/009/236.htm\n- Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\n- Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\n- Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955\n\n今日热点方向：\n- AI 应用：AI动态（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\n2. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\n3. Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955\n4. OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian｜The Register｜https://www.theregister.com/columnists/2026/09/30/openai-apes-aws-marketplace-while-anthropic-remains-stubbornly-microsoftian/5300056\n5. OpenAI cuts ties with 3 safety researchers, WSJ reports｜TechCrunch｜https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-02｜生成时间：2026/10/2 10:19:06｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2520｜确认今日 22｜国际背景 22</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 6 条<br>延续跟踪线索：国内 19 条｜国际 16 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [23:16] 马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半</strong>\n      <span>IT之家｜2026-10-02｜<a href=\"https://www.ithome.com/1/009/196.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：205｜需核验来源</span>\n      <p>报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [02:14] Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H</strong>\n      <span>IT之家｜2026-10-02｜<a href=\"https://www.ithome.com/1/009/235.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：179｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-02] 前沿模型能力加速跃升 9月全球人工智能发展盘点</strong>\n      <span>科技日报｜2026-10-02｜<a href=\"https://www.stdaily.com/web/gdxw/2026-10/02/content_591237.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：180｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “前沿模型能力加速跃升 9月全球人工智能发展盘点” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-02] 谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?</strong>\n      <span>网易科技｜2026-10-02｜<a href=\"https://www.163.com/dy/article/L875LUI305198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-02] 润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察</strong>\n      <span>新浪科技｜2026-10-02｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5948317.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing</strong>\n      <span>时间：Thu, 01 Oct 2026 18:43:30 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Suspected Chinese spies spoofed an Anthropic exec, ex-White House offici” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else</strong>\n      <span>时间：Wed, 30 Sep 2026 23:36:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Irony alert: OpenAI whines that Chinese model stole its special IP that ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Trump administration gets Big Tech to sign weak, non-binding, AI regulations</strong>\n      <span>时间：Wed, 30 Sep 2026 04:11:23 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Trump administration gets Big Tech to sign weak, non-binding, AI regulat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian</strong>\n      <span>时间：Wed, 30 Sep 2026 16:53:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/09/30/openai-apes-aws-marketplace-while-anthropic-remains-stubbornly-microsoftian/5300056\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoft” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. OpenAI cuts ties with 3 safety researchers, WSJ reports</strong>\n      <span>时间：Thu, 01 Oct 2026 18:14:42 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI cuts ties with 3 safety researchers, WSJ reports” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/2 10:19:06\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 6 条\n延续跟踪线索：国内 19 条｜国际 16 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [23:16] 马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半\n   来源：IT之家\n   链接：https://www.ithome.com/1/009/196.htm\n   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半” against primary-source evidence.\n\n2. [02:14] Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H\n   来源：IT之家\n   链接：https://www.ithome.com/1/009/235.htm\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H” against primary-source evidence.\n\n3. [2026-10-02] 前沿模型能力加速跃升 9月全球人工智能发展盘点\n   来源：科技日报\n   链接：https://www.stdaily.com/web/gdxw/2026-10/02/content_591237.html\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “前沿模型能力加速跃升 9月全球人工智能发展盘点” against primary-source evidence.\n\n4. [2026-10-02] 谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L875LUI305198CJN.html\n   角度：Lead with compute economics and infrastructure demand; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “谷歌AI芯片即将上天！SpaceX能否助太空数据中心迈出关键一步?” against primary-source evidence.\n\n5. [2026-10-02] 润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5948317.shtml\n   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “润苗成林，陪跑硬科技——杭州银行科创金融守护“好苗子”企业成长 | 行业观察” against primary-source evidence.\n\n本次新增线索：\n- Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H｜IT之家｜https://www.ithome.com/1/009/235.htm\n- 淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-02/doc-inituwtp5952618.shtml\n- “人造太阳”建设新进展：我国紧凑型聚变能实验装置园区交付使用｜IT之家｜https://www.ithome.com/1/009/236.htm\n- Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\n- Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\n- Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955\n\n今日热点方向：\n- AI 应用：AI动态（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n国际科技背景：\n1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\n2. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285\n3. Trump administration gets Big Tech to sign weak, non-binding, AI regulations｜The Register｜https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955\n4. OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian｜The Register｜https://www.theregister.com/columnists/2026/09/30/openai-apes-aws-marketplace-while-anthropic-remains-stubbornly-microsoftian/5300056\n5. OpenAI cuts ties with 3 safety researchers, WSJ reports｜TechCrunch｜https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
