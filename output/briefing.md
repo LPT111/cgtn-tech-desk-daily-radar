@@ -3,51 +3,56 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/3 10:05:25
+生成时间：2026/10/3 18:38:10
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 19 条｜国际 18 条
+新增核心线索：国内 26 条｜国际 2 条
+延续跟踪线索：国内 4 条｜国际 16 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-03] 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增
+1. [2026-10-03] LG 电子将在美国新建 AI 数据中心冷水机组工厂，韩国本土同步扩产
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initxwvz0624604.shtml
+   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “LG 电子将在美国新建 AI 数据中心冷水机组工厂，韩国本土同步扩产” against primary-source evidence.
+
+2. [2026-10-03] 特朗普拟任命克莱顿为人工智能事务负责人
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxsqc0703492.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普拟任命克莱顿为人工智能事务负责人” against primary-source evidence.
+
+3. [2026-10-03] 华为“叠”出新高度！麒麟9050 Pro芯片显微照曝光：密度提升超50%
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-10-03/doc-initwzsp5052044.shtml
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “华为“叠”出新高度！麒麟9050 Pro芯片显微照曝光：密度提升超50%” against primary-source evidence.
+
+4. [2026-10-03] 台积电被指参与马斯克的TeraFab芯片厂：难以理解 何故给他人做嫁衣
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initxwwf6300307.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “台积电被指参与马斯克的TeraFab芯片厂：难以理解 何故给他人做嫁衣” against primary-source evidence.
+
+5. [2026-10-03] 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsm0876720.shtml
    角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增” against primary-source evidence.
 
-2. [2026-10-03] 同比下降2%！特斯拉2026年第三季度交付超48.6万辆
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsi4081095.shtml
-   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “同比下降2%！特斯拉2026年第三季度交付超48.6万辆” against primary-source evidence.
-
-3. [2026-10-03] 英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwvkr5161523.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐” against primary-source evidence.
-
-4. [2026-10-03] 产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsm0890528.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%” against primary-source evidence.
-
-5. [2026-10-03] 特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsp5057166.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%” against primary-source evidence.
-
 本次新增线索：
-- AMD掌机芯片大变革！锐龙Z3系列曝光：Zen 6架构、25mm封装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initxfym4948429.shtml
+- LG 电子将在美国新建 AI 数据中心冷水机组工厂，韩国本土同步扩产｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initxwvz0624604.shtml
+- 特朗普拟任命克莱顿为人工智能事务负责人｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxsqc0703492.shtml
+- 华为“叠”出新高度！麒麟9050 Pro芯片显微照曝光：密度提升超50%｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-03/doc-initwzsp5052044.shtml
+- 台积电被指参与马斯克的TeraFab芯片厂：难以理解 何故给他人做嫁衣｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initxwwf6300307.shtml
+- OpenAI安全系统团队负责人离职｜网易科技｜https://www.163.com/dy/article/L8B0A5DL0534A4SC.html
+- AAPL To Flag AI Requests For Data Access On Macs Amid Complaints Over META's Muse Agent｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/aapl-flag-ai-requests-data-034802026.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（3 条，2 个来源）
-- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
+- AI 应用：AI动态（6 条，2 个来源）
+- 芯片/半导体：半导体供应链（2 条，1 个来源）
 - 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）
 - 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（3 条，1 个来源）
 
 国际科技背景：
 1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595
