@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-03T01:52:23.949Z",
+  "generatedAt": "2026-10-03T02:05:25.676Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-03",
   "changeSummary": {
     "domesticNew": 1,
     "globalNew": 0,
-    "domesticContinued": 18,
+    "domesticContinued": 19,
     "globalContinued": 18,
     "topNewDomestic": [
       {
-        "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/1/009/373.htm"
+        "title": "AMD掌机芯片大变革！锐龙Z3系列曝光：Zen 6架构、25mm封装",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initxfym4948429.shtml"
       }
     ],
     "topNewGlobal": [],
@@ -21,7 +21,7 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 881,
+    "domesticRejected": 880,
     "globalRejected": 882,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -36,7 +36,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 28,
   "failedSources": [
     {
       "name": "央视网-科技",
@@ -44,14 +44,29 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -66,14 +81,29 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -248,7 +278,8 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -276,8 +307,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -285,7 +317,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -298,8 +330,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -332,13 +365,13 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1513,
+  "itemsSeen": 1442,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 222,
-  "itemsAfterDedupe": 161,
-  "todayItemsSeen": 19,
+  "itemsAfterRelevantFilter": 220,
+  "itemsAfterDedupe": 158,
+  "todayItemsSeen": 20,
   "suspectedItemsSeen": 12,
-  "skippedNonToday": 128,
+  "skippedNonToday": 124,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -506,7 +539,8 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -534,8 +568,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -543,7 +578,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -556,8 +591,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -750,14 +786,29 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -811,7 +862,7 @@
     },
     {
       "topic": "芯片动态",
-      "count": 5,
+      "count": 6,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
@@ -820,9 +871,9 @@
       "items": [
         "英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐",
         "产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%",
-        "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
+        "AMD掌机芯片大变革！锐龙Z3系列曝光：Zen 6架构、25mm封装",
         "英伟达旗舰卡刚过保就翻车！RTX 4090 FE散热器脱落：维修费高达2700元",
-        "买二手锐龙7 5800X3D送“封号套餐”！Riot硬件封禁连坐整机：玩家无辜中招"
+        "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付"
       ]
     },
     {
@@ -1239,22 +1290,22 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
-      "summary": "更多用户将可享受到直接下载预编译着色器带来的好处：缩短加载时间、消除着色器卡顿。",
-      "source": "IT之家",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "AMD掌机芯片大变革！锐龙Z3系列曝光：Zen 6架构、25mm封装",
+      "summary": "快科技10月3日消息，据知名爆料者Gotou_3rd透露，AMD下一代掌机处理器锐龙Z3系列将告别以往由笔记本芯片“阉割”而来的策略，转向为掌机量身打造的半定制设计。锐龙Z3系列将采用与Medusa Point平台共享知识产权的半定制路线，...",
+      "source": "新浪科技",
       "sources": [
-        "IT之家"
+        "新浪科技"
       ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/009/373.htm",
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initxfym4948429.shtml",
       "sourceUrls": [
-        "https://www.ithome.com/1/009/373.htm"
+        "https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initxfym4948429.shtml"
       ],
-      "publishedAt": "Fri, 02 Oct 2026 16:16:55 GMT",
+      "publishedAt": "2026-10-03",
       "date": "2026-10-03",
       "category": "芯片",
-      "classificationConfidence": 0.8,
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1264,20 +1315,20 @@
       "hardTechPriority": 95,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 159,
+      "score": 167,
       "reporterScore": 167,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 8,
+        "sourceAuthority": 12,
         "multiSource": 22,
-        "cgtFocus": 0,
+        "cgtFocus": 12,
         "visual": 0,
         "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -1286,23 +1337,23 @@
         "primary": false,
         "visual": false,
         "international": false,
-        "interview": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 120
+        "reporterScore": 110
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
+      "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付” against primary-source evidence.",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “AMD掌机芯片大变革！锐龙Z3系列曝光：Zen 6架构、25mm封装” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "芯片动态",
-      "rawText": "更多用户将可享受到直接下载预编译着色器带来的好处：缩短加载时间、消除着色器卡顿。",
+      "rawText": "快科技10月3日消息，据知名爆料者Gotou_3rd透露，AMD下一代掌机处理器锐龙Z3系列将告别以往由笔记本芯片“阉割”而来的策略，转向为掌机量身打造的半定制设计。锐龙Z3系列将采用与Medusa Point平台共享知识产权的半定制路线，...",
       "relatedTitles": [
-        "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付"
+        "AMD掌机芯片大变革！锐龙Z3系列曝光：Zen 6架构、25mm封装"
       ],
       "isNewSinceLastRun": true
     },
@@ -1575,6 +1626,74 @@
       "rawText": "首批参加培训的工程师来自埃森哲、贝恩、凯捷、德勤、麦肯锡、摩根士丹利、诺和诺德和澳大利亚联邦银行。Anthropic 的目标是在 2027 年底前培养 1 万名前沿部署工程师。",
       "relatedTitles": [
         "Anthropic 拟斥资 1 亿美元培训万名工程师，破解企业 AI 落地“人才荒”"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
+      "summary": "更多用户将可享受到直接下载预编译着色器带来的好处：缩短加载时间、消除着色器卡顿。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/009/373.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/009/373.htm"
+      ],
+      "publishedAt": "Fri, 02 Oct 2026 16:16:55 GMT",
+      "date": "2026-10-03",
+      "category": "芯片",
+      "classificationConfidence": 0.8,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "更多用户将可享受到直接下载预编译着色器带来的好处：缩短加载时间、消除着色器卡顿。",
+      "relatedTitles": [
+        "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付"
       ],
       "isNewSinceLastRun": false
     },
@@ -2260,6 +2379,73 @@
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "DeepSeek 开源华为昇腾组件",
+      "summary": "上海交通大学 3B模型逆袭7B巨头！Video-XL-Pro突破长视频理解极限，大海捞针准确率超98% 单卡可处理近万帧视频，超长视频理解新SOTA 十三 2025-05-04 上海交通大学 大海捞针 视频理解 用AI评估AI，上交大新款大模型部分任务超越GPT-4，模型数据都开源 消费级显卡可跑 明敏 2023-11",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L87RG9JR0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L87RG9JR0512B07B.html"
+      ],
+      "publishedAt": "2026-10-02",
+      "date": "2026-10-02",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 148,
+      "reporterScore": 156,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek 开源华为昇腾组件” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "DeepSeek 开源华为昇腾组件,华为,昇腾,知名企业,deepseek",
+      "relatedTitles": [
+        "DeepSeek 开源华为昇腾组件"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "中国机器人狂飙，韩国还能怎么争？",
       "summary": "近期我接触的多位韩国机器人企业负责人不约而同地强调，要与中国竞争，仅靠技术实力是不够的。",
@@ -2324,73 +2510,6 @@
       "rawText": "近期我接触的多位韩国机器人企业负责人不约而同地强调，要与中国竞争，仅靠技术实力是不够的。",
       "relatedTitles": [
         "中国机器人狂飙，韩国还能怎么争？"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "上海交通大学",
-      "summary": "上海交通大学 3B模型逆袭7B巨头！Video-XL-Pro突破长视频理解极限，大海捞针准确率超98% 单卡可处理近万帧视频，超长视频理解新SOTA 十三 2025-05-04 上海交通大学 大海捞针 视频理解 用AI评估AI，上交大新款大模型部分任务超越GPT-4，模型数据都开源 消费级显卡可跑 明敏 2023-11",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/%e4%b8%8a%e6%b5%b7%e4%ba%a4%e9%80%9a%e5%a4%a7%e5%ad%a6",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/%e4%b8%8a%e6%b5%b7%e4%ba%a4%e9%80%9a%e5%a4%a7%e5%ad%a6"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.95,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 142,
-      "reporterScore": 150,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “上海交通大学” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "上海交通大学 3B模型逆袭7B巨头！Video-XL-Pro突破长视频理解极限，大海捞针准确率超98% 单卡可处理近万帧视频，超长视频理解新SOTA 十三 2025-05-04 上海交通大学 大海捞针 视频理解 用AI评估AI，上交大新款大模型部分任务超越GPT-4，模型数据都开源 消费级显卡可跑 明敏 2023-11-14 上海交通大学 大模型 数学能力超过ChatGPT！上海交大计算大模型登开源榜首 无需工具，无需RLHF 克雷西 2023-09-22 上海交通大学 上交大校友独作！50年零进展算法难题被突破 计算机能更快确定群同构了 明敏 2023-07-02 上海交通大学 数学 上海交大这波操作，亦可赛艇 学生泪目了 明敏 2022-03-17 上海交通大学 上海交大启用中国高校最强超算！上算引力波，下算光量子 全球高校排名第5，力压牛津哈佛 梦晨 2021-12-15 上海交通大学 超算 古典人像秒变3D，视角还能随意切，华为&上交联手出品 代码已开源 明敏 2021-10-30 上海交通大学 华为 ICML 2021杰出论文奖“临时更换”，上海交大校友田渊栋陆昱成等获提名",
-      "relatedTitles": [
-        "上海交通大学"
       ]
     },
     {
@@ -2529,140 +2648,6 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "芯片不认新闻稿，英国半导体雄心卡在哪？",
-      "summary": "重组一个机构并不难。真正的考验，是证明英国能够建立并留住一个足以满足自身AI和国防需求的半导体产业。",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_10_01_902820.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/shijiekexiansheng/2026_10_01_902820.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 4,
-      "score": 139,
-      "reporterScore": 139,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “芯片不认新闻稿，英国半导体雄心卡在哪？” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "重组一个机构并不难。真正的考验，是证明英国能够建立并留住一个足以满足自身AI和国防需求的半导体产业。",
-      "relatedTitles": [
-        "芯片不认新闻稿，英国半导体雄心卡在哪？"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 23684",
-      "summary": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_09_30_902661.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/shijiekexiansheng/2026_09_30_902661.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "芯片",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 4,
-      "score": 139,
-      "reporterScore": 139,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “阅读 23684” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
-      "relatedTitles": [
-        "阅读 23684"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "高市要拿AI当日本经济“加速器”",
       "summary": "据日媒报道，日本首相高市早苗10月1日在首相官邸召开第8次“日本增长战略会议”，将人工智能（AI）定位为推动",
       "source": "观察者网-产业科技",
@@ -2793,6 +2778,140 @@
       "rawText": "工业Agent 工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路 工业平台已经卷到帮伙伴拿线索、做Agent、出海了 田晏林 9分钟前 工业Agent 工业AI 繁星生态大会 西门子 热门文章 6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官 AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」 阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中 GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了 PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
       "relatedTitles": [
         "工业Agent"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "芯片不认新闻稿，英国半导体雄心卡在哪？",
+      "summary": "重组一个机构并不难。真正的考验，是证明英国能够建立并留住一个足以满足自身AI和国防需求的半导体产业。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_10_01_902820.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/shijiekexiansheng/2026_10_01_902820.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 129,
+      "reporterScore": 129,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “芯片不认新闻稿，英国半导体雄心卡在哪？” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "重组一个机构并不难。真正的考验，是证明英国能够建立并留住一个足以满足自身AI和国防需求的半导体产业。",
+      "relatedTitles": [
+        "芯片不认新闻稿，英国半导体雄心卡在哪？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "阅读 23714",
+      "summary": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_09_30_902661.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/shijiekexiansheng/2026_09_30_902661.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 129,
+      "reporterScore": 129,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “阅读 23714” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
+      "relatedTitles": [
+        "阅读 23714"
       ]
     },
     {
@@ -3575,8 +3694,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-03｜V3\n生成时间：2026/10/3 09:52:23\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2482｜确认今日 19｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 18 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-03] 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsm0876720.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增” against primary-source evidence.\n\n2. [2026-10-03] 同比下降2%！特斯拉2026年第三季度交付超48.6万辆\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsi4081095.shtml\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “同比下降2%！特斯拉2026年第三季度交付超48.6万辆” against primary-source evidence.\n\n3. [2026-10-03] 英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwvkr5161523.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐” against primary-source evidence.\n\n4. [2026-10-03] 产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsm0890528.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%” against primary-source evidence.\n\n5. [2026-10-03] 特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsp5057166.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%” against primary-source evidence.\n\n本次新增线索：\n- 继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付｜IT之家｜https://www.ithome.com/1/009/373.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\n2. Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract｜Ars Technica｜https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/\n3. Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval｜The Register｜https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856\n4. OpenAI shows three staff the door over alleged information misuse｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820\n5. Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch｜The Register｜https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-03｜V3\n生成时间：2026/10/3 09:52:23\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2482｜确认今日 19｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 18 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-03] 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsm0876720.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增” against primary-source evidence.\n\n2. [2026-10-03] 同比下降2%！特斯拉2026年第三季度交付超48.6万辆\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsi4081095.shtml\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “同比下降2%！特斯拉2026年第三季度交付超48.6万辆” against primary-source evidence.\n\n3. [2026-10-03] 英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwvkr5161523.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐” against primary-source evidence.\n\n4. [2026-10-03] 产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsm0890528.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%” against primary-source evidence.\n\n5. [2026-10-03] 特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsp5057166.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%” against primary-source evidence.\n\n本次新增线索：\n- 继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付｜IT之家｜https://www.ithome.com/1/009/373.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\n2. Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract｜Ars Technica｜https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/\n3. Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval｜The Register｜https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856\n4. OpenAI shows three staff the door over alleged information misuse｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820\n5. Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch｜The Register｜https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-03｜生成时间：2026/10/3 09:52:23｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2482｜确认今日 19｜国际背景 18</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 18 条｜国际 18 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-03] 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增</strong>\n      <span>新浪科技｜2026-10-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsm0876720.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-03] 同比下降2%！特斯拉2026年第三季度交付超48.6万辆</strong>\n      <span>新浪科技｜2026-10-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsi4081095.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “同比下降2%！特斯拉2026年第三季度交付超48.6万辆” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-03] 英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐</strong>\n      <span>新浪科技｜2026-10-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwvkr5161523.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-03] 产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%</strong>\n      <span>新浪科技｜2026-10-03｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsm0890528.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-03] 特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%</strong>\n      <span>新浪科技｜2026-10-03｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsp5057166.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing</strong>\n      <span>时间：Thu, 01 Oct 2026 18:43:30 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Suspected Chinese spies spoofed an Anthropic exec, ex-White House offici” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract</strong>\n      <span>时间：Fri, 02 Oct 2026 13:54:34 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets bi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval</strong>\n      <span>时间：Fri, 02 Oct 2026 17:20:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Californian accused of shipping $300M worth of Nvidia chips to China wit” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI shows three staff the door over alleged information misuse</strong>\n      <span>时间：Fri, 02 Oct 2026 15:05:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI shows three staff the door over alleged information misuse” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch</strong>\n      <span>时间：Fri, 02 Oct 2026 15:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memor” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/3 09:52:23\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 18 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-03] 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsm0876720.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增” against primary-source evidence.\n\n2. [2026-10-03] 同比下降2%！特斯拉2026年第三季度交付超48.6万辆\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsi4081095.shtml\n   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “同比下降2%！特斯拉2026年第三季度交付超48.6万辆” against primary-source evidence.\n\n3. [2026-10-03] 英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwvkr5161523.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐” against primary-source evidence.\n\n4. [2026-10-03] 产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsm0890528.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%” against primary-source evidence.\n\n5. [2026-10-03] 特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsp5057166.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%” against primary-source evidence.\n\n本次新增线索：\n- 继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付｜IT之家｜https://www.ithome.com/1/009/373.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\n2. Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract｜Ars Technica｜https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/\n3. Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval｜The Register｜https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856\n4. OpenAI shows three staff the door over alleged information misuse｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820\n5. Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch｜The Register｜https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-03｜V3\n生成时间：2026/10/3 10:05:25\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2411｜确认今日 20｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 19 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-03] 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsm0876720.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增” against primary-source evidence.\n\n2. [2026-10-03] 同比下降2%！特斯拉2026年第三季度交付超48.6万辆\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsi4081095.shtml\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “同比下降2%！特斯拉2026年第三季度交付超48.6万辆” against primary-source evidence.\n\n3. [2026-10-03] 英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwvkr5161523.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐” against primary-source evidence.\n\n4. [2026-10-03] 产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsm0890528.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%” against primary-source evidence.\n\n5. [2026-10-03] 特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsp5057166.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%” against primary-source evidence.\n\n本次新增线索：\n- AMD掌机芯片大变革！锐龙Z3系列曝光：Zen 6架构、25mm封装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initxfym4948429.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\n2. Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract｜Ars Technica｜https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/\n3. Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval｜The Register｜https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856\n4. OpenAI shows three staff the door over alleged information misuse｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820\n5. Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch｜The Register｜https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-03｜V3\n生成时间：2026/10/3 10:05:25\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2411｜确认今日 20｜国际背景 18\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 19 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-03] 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsm0876720.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增” against primary-source evidence.\n\n2. [2026-10-03] 同比下降2%！特斯拉2026年第三季度交付超48.6万辆\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsi4081095.shtml\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “同比下降2%！特斯拉2026年第三季度交付超48.6万辆” against primary-source evidence.\n\n3. [2026-10-03] 英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwvkr5161523.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐” against primary-source evidence.\n\n4. [2026-10-03] 产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsm0890528.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%” against primary-source evidence.\n\n5. [2026-10-03] 特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%\n   新浪科技｜2026-10-03｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsp5057166.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%” against primary-source evidence.\n\n本次新增线索：\n- AMD掌机芯片大变革！锐龙Z3系列曝光：Zen 6架构、25mm封装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initxfym4948429.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\n2. Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract｜Ars Technica｜https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/\n3. Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval｜The Register｜https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856\n4. OpenAI shows three staff the door over alleged information misuse｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820\n5. Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch｜The Register｜https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-03｜生成时间：2026/10/3 10:05:25｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2411｜确认今日 20｜国际背景 18</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 19 条｜国际 18 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-03] 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增</strong>\n      <span>新浪科技｜2026-10-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsm0876720.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-03] 同比下降2%！特斯拉2026年第三季度交付超48.6万辆</strong>\n      <span>新浪科技｜2026-10-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsi4081095.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “同比下降2%！特斯拉2026年第三季度交付超48.6万辆” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-03] 英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐</strong>\n      <span>新浪科技｜2026-10-03｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwvkr5161523.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-03] 产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%</strong>\n      <span>新浪科技｜2026-10-03｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsm0890528.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-03] 特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%</strong>\n      <span>新浪科技｜2026-10-03｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsp5057166.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing</strong>\n      <span>时间：Thu, 01 Oct 2026 18:43:30 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Suspected Chinese spies spoofed an Anthropic exec, ex-White House offici” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract</strong>\n      <span>时间：Fri, 02 Oct 2026 13:54:34 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame the item through commercial space, low-altitude economy and satellite infrastructure, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets bi” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval</strong>\n      <span>时间：Fri, 02 Oct 2026 17:20:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Californian accused of shipping $300M worth of Nvidia chips to China wit” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI shows three staff the door over alleged information misuse</strong>\n      <span>时间：Fri, 02 Oct 2026 15:05:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI shows three staff the door over alleged information misuse” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch</strong>\n      <span>时间：Fri, 02 Oct 2026 15:00:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memor” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/3 10:05:25\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 19 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-03] 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsm0876720.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增” against primary-source evidence.\n\n2. [2026-10-03] 同比下降2%！特斯拉2026年第三季度交付超48.6万辆\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsi4081095.shtml\n   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “同比下降2%！特斯拉2026年第三季度交付超48.6万辆” against primary-source evidence.\n\n3. [2026-10-03] 英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwvkr5161523.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐” against primary-source evidence.\n\n4. [2026-10-03] 产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsm0890528.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%” against primary-source evidence.\n\n5. [2026-10-03] 特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsp5057166.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%” against primary-source evidence.\n\n本次新增线索：\n- AMD掌机芯片大变革！锐龙Z3系列曝光：Zen 6架构、25mm封装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initxfym4948429.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595\n2. Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract｜Ars Technica｜https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/\n3. Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval｜The Register｜https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856\n4. OpenAI shows three staff the door over alleged information misuse｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820\n5. Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch｜The Register｜https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }

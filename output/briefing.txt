@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/3 09:52:23
+生成时间：2026/10/3 10:05:25
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
 新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 18 条｜国际 18 条
+延续跟踪线索：国内 19 条｜国际 18 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -37,7 +37,7 @@ ChenChen 今日 Briefing｜V3
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%” against primary-source evidence.
 
 本次新增线索：
-- 继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付｜IT之家｜https://www.ithome.com/1/009/373.htm
+- AMD掌机芯片大变革！锐龙Z3系列曝光：Zen 6架构、25mm封装｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initxfym4948429.shtml
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（3 条，2 个来源）
