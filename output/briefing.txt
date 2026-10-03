@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/2 20:43:45
+生成时间：2026/10/3 09:29:21
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 3 条
-延续跟踪线索：国内 34 条｜国际 19 条
+新增核心线索：国内 19 条｜国际 12 条
+延续跟踪线索：国内 0 条｜国际 6 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-02] 机器人赛道：谷歌走安卓路线，对标特斯拉的苹果模式
+1. [2026-10-03] 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initvtxf7214702.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “机器人赛道：谷歌走安卓路线，对标特斯拉的苹果模式” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsm0876720.shtml
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增” against primary-source evidence.
 
-2. [2026-10-02] 光芯片解决内存墙 美国公司研发全新内存架构：10TB容量能跑20万亿参数
+2. [2026-10-03] 同比下降2%！特斯拉2026年第三季度交付超48.6万辆
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-02/doc-initvtxf7214736.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “光芯片解决内存墙 美国公司研发全新内存架构：10TB容量能跑20万亿参数” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsi4081095.shtml
+   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “同比下降2%！特斯拉2026年第三季度交付超48.6万辆” against primary-source evidence.
 
-3. [2026-10-02] DeepSeek 开源华为昇腾组件
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L87RG9JR0512B07B.html
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek 开源华为昇腾组件” against primary-source evidence.
-
-4. [2026-10-02] 一老板豪掷90万买四只机器狗 大狗没交货中狗站不稳
+3. [2026-10-03] 英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-10-02/doc-initvtxf7242017.shtml
-   角度：Build the story around robotics, embodied intelligence and smart manufacturing; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “一老板豪掷90万买四只机器狗 大狗没交货中狗站不稳” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwvkr5161523.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐” against primary-source evidence.
 
-5. [2026-10-02] 马斯克称SpaceX星智AI卫星的供电能力将超过国际空间站
+4. [2026-10-03] 产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initvpri7301184.shtml
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “马斯克称SpaceX星智AI卫星的供电能力将超过国际空间站” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsm0890528.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%” against primary-source evidence.
+
+5. [2026-10-03] 特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsp5057166.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%” against primary-source evidence.
 
 本次新增线索：
-- 消息称三星电子已量产 Exynos 2700 处理器，Galaxy S27 系列手机将搭载｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-02/doc-initvyex1217584.shtml
-- 美国三大移动运营商将成立合资企业，利用卫星技术改善偏远地区网络覆盖｜IT之家｜https://www.ithome.com/1/009/320.htm
-- 不再是A卡独占 微软ASD技术全面支持RTX显卡：游戏加载时间暴降95%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-02/doc-initvyex1224721.shtml
-- 赵鼎新：AI不会淘汰任何学科，但抽走了人才成长的底层台阶｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-02/doc-initvyev4443740.shtml
-- AI and the Future of Hospitality Workflows｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/ai-future-hospitality-workflows-121353548.html
-- I played Gears of War: E-Day on PC with Nvidia's RTX Mega Geometry — and the Xbox franchise has never looked better｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/played-gears-war-e-day-103000304.html
+- 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsm0876720.shtml
+- 同比下降2%！特斯拉2026年第三季度交付超48.6万辆｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsi4081095.shtml
+- 英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwvkr5161523.shtml
+- 产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsm0890528.shtml
+- 特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsp5057166.shtml
+- Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract｜Ars Technica｜https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/
 
 今日热点方向：
-- AI 应用：AI动态（9 条，3 个来源）
-- 芯片/半导体：国产 GPU / 算力基础设施（3 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）
-- 太空与低空经济：太空与低空动态（3 条，3 个来源）
-- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
+- AI 应用：AI 应用与智能体（3 条，2 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
+- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing｜The Register｜https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595
-2. SpaceX describes surgical intervention before launch of latest crew mission｜Ars Technica｜https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/
-3. Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else｜The Register｜https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285
-4. OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian｜The Register｜https://www.theregister.com/columnists/2026/09/30/openai-apes-aws-marketplace-while-anthropic-remains-stubbornly-microsoftian/5300056
-5. OpenAI cuts ties with 3 safety researchers, WSJ reports｜TechCrunch｜https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/
+2. Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract｜Ars Technica｜https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/
+3. Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval｜The Register｜https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856
+4. OpenAI shows three staff the door over alleged information misuse｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820
+5. Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch｜The Register｜https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
