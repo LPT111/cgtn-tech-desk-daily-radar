@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/3 09:29:21
+生成时间：2026/10/3 09:52:23
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 19 条｜国际 12 条
-延续跟踪线索：国内 0 条｜国际 6 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 18 条｜国际 18 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -39,16 +39,11 @@ ChenChen 今日 Briefing｜V3
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%” against primary-source evidence.
 
 本次新增线索：
-- 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsm0876720.shtml
-- 同比下降2%！特斯拉2026年第三季度交付超48.6万辆｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwzsi4081095.shtml
-- 英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-03/doc-initwvkr5161523.shtml
-- 产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsm0890528.shtml
-- 特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-03/doc-initwzsp5057166.shtml
-- Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract｜Ars Technica｜https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/
+- 继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付｜IT之家｜https://www.ithome.com/1/009/373.htm
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（3 条，2 个来源）
-- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
 - 机器人/具身智能：
 - 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
 - 太空与低空经济：低空经济与无人机（1 条，1 个来源）
