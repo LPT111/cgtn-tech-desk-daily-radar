@@ -3,30 +3,30 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/4 10:07:05
+生成时间：2026/10/4 10:31:37
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 17 条｜国际 5 条
-延续跟踪线索：国内 0 条｜国际 13 条
+新增核心线索：国内 7 条｜国际 0 条
+延续跟踪线索：国内 13 条｜国际 18 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-04] 台积电探讨与马斯克 Terafab 项目开展合作
+1. [2026-10-04] 现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-04/doc-initzkxp5664607.shtml
+   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂” against primary-source evidence.
+
+2. [2026-10-04] 台积电探讨与马斯克 Terafab 项目开展合作
    来源：新浪科技
    链接：https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4427769.shtml
    角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “台积电探讨与马斯克 Terafab 项目开展合作” against primary-source evidence.
 
-2. [01:53] 现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂
-   来源：IT之家
-   链接：https://www.ithome.com/1/009/616.htm
-   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂” against primary-source evidence.
-
-3. [2026-10-04] 马斯克改口：特斯拉 AI5 芯片内存由 72GB 上调至 96GB
+3. [2026-10-04] 现实版终结者上演！美国退役机器人排队跳进1500℃钢水自尽
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-04/doc-initzerm0233433.shtml
-   角度：Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “马斯克改口：特斯拉 AI5 芯片内存由 72GB 上调至 96GB” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-04/doc-initzerm0248542.shtml
+   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “现实版终结者上演！美国退役机器人排队跳进1500℃钢水自尽” against primary-source evidence.
 
 4. [00:02] 美财长贝森特批评 Anthropic、OpenAI 等风险警告：危言耸听，光喊话不拿解决方案
    来源：IT之家
@@ -39,18 +39,17 @@ ChenChen 今日 Briefing｜V3
    角度：Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “我国科学家将赴尼泊尔开展跨境巨灾应急联合科考” against primary-source evidence.
 
 本次新增线索：
-- 台积电探讨与马斯克 Terafab 项目开展合作｜新浪科技｜https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4427769.shtml
-- 现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂｜IT之家｜https://www.ithome.com/1/009/616.htm
-- 马斯克改口：特斯拉 AI5 芯片内存由 72GB 上调至 96GB｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-04/doc-initzerm0233433.shtml
-- 美财长贝森特批评 Anthropic、OpenAI 等风险警告：危言耸听，光喊话不拿解决方案｜IT之家｜https://www.ithome.com/1/009/596.htm
-- 我国科学家将赴尼泊尔开展跨境巨灾应急联合科考｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/04/content_591699.html
-- Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows｜The Register｜https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933
+- 现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-04/doc-initzkxp5664607.shtml
+- 3.65万亿利润大转移：摩根大通说，中国AI的赚钱逻辑变了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-04/doc-initzkxi0195443.shtml
+- 得知将被关停后，OpenAI 内部模型曾考虑实现自我重启｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-04/doc-initzkxi0203947.shtml
+- Anthropic 被曝密会宗教领袖讨论 Claude 意识问题，OpenAI 奥尔特曼发声批评｜IT之家｜https://www.ithome.com/1/009/585.htm
+- 马斯克改口：特斯拉 AI5 芯片内存由 72GB 上调至 96GB｜IT之家｜https://www.ithome.com/1/009/584.htm
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（2 条，1 个来源）
-- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
 - 太空与低空经济：低空经济与无人机（1 条，1 个来源）
 - 科学前沿：科学前沿与科研设施（2 条，1 个来源）
 
