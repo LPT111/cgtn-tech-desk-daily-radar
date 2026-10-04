@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/4 19:54:18
+生成时间：2026/10/4 20:27:43
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 19 条｜国际 17 条
+新增核心线索：国内 11 条｜国际 0 条
+延续跟踪线索：国内 17 条｜国际 17 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -28,25 +28,29 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-10-04/doc-iniuahcc5298340.shtml
    角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI改名超级智能后马斯克回应：SpaceXAI将更名为SpaceXSI” against primary-source evidence.
 
-4. [2026-10-04] 开创智能网联新能源汽车全球产业合作新局面这样发力
-   来源：央视新闻科技
-   链接：https://news.cctv.com/2026/10/04/ARTInxzi6bO3MncWnwRfNa65261004.shtml
-   角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “开创智能网联新能源汽车全球产业合作新局面这样发力” against primary-source evidence.
-
-5. [2026-10-04] 现实版终结者上演！美国退役机器人排队跳进1500℃钢水自尽
+4. [2026-10-04] 现实版终结者上演！美国退役机器人排队跳进1500℃钢水自尽
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-10-04/doc-initzerm0248542.shtml
    角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “现实版终结者上演！美国退役机器人排队跳进1500℃钢水自尽” against primary-source evidence.
 
+5. [07:07] 特斯拉悄然测试动态大灯水平调节功能：近光灯可根据车身姿态自动修正照射角度
+   来源：IT之家
+   链接：https://www.ithome.com/1/009/653.htm
+   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉悄然测试动态大灯水平调节功能：近光灯可根据车身姿态自动修正照射角度” against primary-source evidence.
+
 本次新增线索：
-- 开创智能网联新能源汽车全球产业合作新局面这样发力｜央视新闻科技｜https://news.cctv.com/2026/10/04/ARTInxzi6bO3MncWnwRfNa65261004.shtml
+- 特斯拉悄然测试动态大灯水平调节功能：近光灯可根据车身姿态自动修正照射角度｜IT之家｜https://www.ithome.com/1/009/653.htm
+- 我国科学家赴尼泊尔开展联合科考，研判喜马拉雅冰冻灾害｜IT之家｜https://www.ithome.com/1/009/698.htm
+- DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心｜IT之家｜https://www.ithome.com/1/009/701.htm
+- 韩国多家银行接连发生信息泄露，金融监管部门启动 IT 系统全面排查｜IT之家｜https://www.ithome.com/1/009/654.htm
+- 国产女伴侣机器人能做各种动作！机器人女友或指日可待｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-04/doc-iniuankz5196380.shtml
 
 今日热点方向：
-- AI 应用：AI动态（5 条，2 个来源）
+- AI 应用：AI 应用与智能体（6 条，3 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
+- 太空与低空经济：低空经济与无人机（2 条，2 个来源）
 - 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
