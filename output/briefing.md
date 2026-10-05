@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/5 09:52:01
+生成时间：2026/10/5 10:05:11
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 0 条
-延续跟踪线索：国内 12 条｜国际 9 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 17 条｜国际 9 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -23,33 +23,29 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml
    角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “投资者寻求对冲人工智能集中度风险” against primary-source evidence.
 
-3. [2026-10-05] Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案” against primary-source evidence.
-
-4. [2026-10-05] 古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室” against primary-source evidence.
-
-5. [23:40] 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元
+3. [23:40] 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元
    来源：IT之家
    链接：https://www.ithome.com/1/009/741.htm
    角度：Report beyond the announcement: verify yield, scale, customers and how export controls and supply-chain resilience affects industrial resilience. For this item, test the claim behind “英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元” against primary-source evidence.
 
+4. [2026-10-05] Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案” against primary-source evidence.
+
+5. [2026-10-05] 古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室” against primary-source evidence.
+
 本次新增线索：
-- Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml
-- 古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml
-- 追光的你｜00后创业者王啸坤：把大模型做进游戏｜网易科技｜https://www.163.com/dy/article/L8FFM3M10534A4SC.html
-- 软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁｜IT之家｜https://www.ithome.com/1/009/758.htm
-- 人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4703638.shtml
+- 消息称 Wayve 将为大众供应自动驾驶解决方案｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucuei2998682.shtml
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（5 条，2 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
 - 太空与低空经济：
 - 科学前沿：科学前沿动态（2 条，2 个来源）
 
