@@ -1,73 +1,47 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-10-05T01:20:03.861Z",
+  "generatedAt": "2026-10-05T01:52:01.885Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-05",
   "changeSummary": {
-    "domesticNew": 14,
-    "globalNew": 6,
-    "domesticContinued": 0,
-    "globalContinued": 3,
+    "domesticNew": 6,
+    "globalNew": 0,
+    "domesticContinued": 12,
+    "globalContinued": 9,
     "topNewDomestic": [
       {
-        "title": "再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%",
+        "title": "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4691678.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml"
       },
       {
-        "title": "投资者寻求对冲人工智能集中度风险",
+        "title": "古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml"
       },
       {
-        "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/1/009/741.htm"
-      },
-      {
-        "title": "DeepSeek Harness国庆假期上新！",
+        "title": "追光的你｜00后创业者王啸坤：把大模型做进游戏",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L8FARIHE0514R9P4.html"
+        "url": "https://www.163.com/dy/article/L8FFM3M10534A4SC.html"
       },
       {
-        "title": "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露",
+        "title": "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/009/758.htm"
+      },
+      {
+        "title": "人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp9805601.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4703638.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Google unveils Gemini 4 Argon, its new frontier model",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html"
-      },
-      {
-        "title": "Why I quit the movement shaping AI",
-        "source": "France24 Technology",
-        "url": "https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai"
-      },
-      {
-        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
-      },
-      {
-        "title": "What Do K And F Mean On Intel CPUs?",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/k-f-mean-intel-cpus-194700590.html"
-      },
-      {
-        "title": "SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/science/articles/spacexs-starship-needs-fully-operational-191700342.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 886,
+    "domesticRejected": 882,
     "globalRejected": 891,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -82,7 +56,7 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 28,
+  "successSources": 30,
   "failedSources": [
     {
       "name": "央视网-科技",
@@ -95,23 +69,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -132,23 +96,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -161,7 +115,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 145,
+      "parsed": 146,
       "failed": false,
       "optional": false
     },
@@ -332,8 +286,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -354,9 +307,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -364,7 +316,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -411,18 +363,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1511,
+  "itemsSeen": 1522,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 215,
-  "itemsAfterDedupe": 158,
-  "todayItemsSeen": 14,
-  "suspectedItemsSeen": 11,
-  "skippedNonToday": 132,
+  "itemsAfterRelevantFilter": 218,
+  "itemsAfterDedupe": 154,
+  "todayItemsSeen": 18,
+  "suspectedItemsSeen": 10,
+  "skippedNonToday": 125,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 145,
+      "parsed": 146,
       "failed": false,
       "optional": false
     },
@@ -593,8 +545,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -615,9 +566,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -625,7 +575,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -837,23 +787,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -888,21 +828,36 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 17,
   "globalItemsSeen": 970,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 178,
+  "globalItemsAfterRelevantFilter": 179,
   "topics": [
     {
       "topic": "AI 应用与智能体",
-      "count": 3,
-      "sourceCount": 3,
+      "count": 5,
+      "sourceCount": 2,
       "sources": [
-        "网易科技",
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室",
+        "追光的你｜00后创业者王啸坤：把大模型做进游戏",
+        "DeepSeek Harness国庆假期上新！",
+        "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露",
+        "人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件"
+      ]
+    },
+    {
+      "topic": "AI动态",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
         "新浪科技",
         "IT之家"
       ],
       "items": [
-        "DeepSeek Harness国庆假期上新！",
-        "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露",
-        "古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室"
+        "投资者寻求对冲人工智能集中度风险",
+        "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案",
+        "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁"
       ]
     },
     {
@@ -919,19 +874,6 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "AI动态",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "IT之家"
-      ],
-      "items": [
-        "投资者寻求对冲人工智能集中度风险",
-        "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案"
-      ]
-    },
-    {
       "topic": "科学前沿动态",
       "count": 2,
       "sourceCount": 2,
@@ -942,6 +884,19 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "中国科学家，重要发现！",
         "2026 诺贝尔奖即将揭晓，9 位华人科学家成热门候选人"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "IT之家",
+        "新浪科技"
+      ],
+      "items": [
+        "消息称 Wayve 将为大众供应自动驾驶解决方案",
+        "国庆假期高速服务区充电至80%强制离场 专家：不会影响新能源车电池"
       ]
     },
     {
@@ -986,17 +941,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "“八分饱”对新能源车有影响吗？假期返程充电避开这些繁忙时段"
-      ]
-    },
-    {
-      "topic": "新能源车与智能驾驶",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "国庆假期高速服务区充电至80%强制离场 专家：不会影响新能源车电池"
       ]
     }
   ],
@@ -1067,7 +1011,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1134,6 +1078,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "随着金融市场和更广泛的美国经济日益依赖人工智能行业的健康，投资者正寻找策略以保护其投资组合免受人工智能敞口过大的影响。美国股票和信贷市场日益集中于人工智能相关公司，基金经理表示正在寻找不受该技术情绪突然转变影响的资产和策略。 花旗集...",
       "relatedTitles": [
         "投资者寻求对冲人工智能集中度风险"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案",
+      "summary": "Meta旗下走红的全新个人助手Muse已获数百万用户下载，可绑定多类账号代处理事务。近期研究人员提取出其内部公开运行指令，发现该系统每小时会为用户每位联系人单独建立档案并逐步完善，涵盖多类信息以提供人际相关建议。Muse为每位用户配专属虚拟机存数据，支持用户清除记忆、断开授权，执行敏感操作前会请求确认。多位专家指出，该",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml"
+      ],
+      "publishedAt": "2026-10-05",
+      "date": "2026-10-05",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "Meta旗下走红的全新个人助手Muse已获数百万用户下载，可绑定多类账号代处理事务。近期研究人员提取出其内部公开运行指令，发现该系统每小时会为用户每位联系人单独建立档案并逐步完善，涵盖多类信息以提供人际相关建议。Muse为每位用户配专属虚拟机存数据，支持用户清除记忆、断开授权，执行敏感操作前会请求确认。多位专家指出，该产品侧重记录人际关系，引导用户提交海量个人数据，存在值得关注的隐私相关隐忧。(AI生成)",
+      "relatedTitles": [
+        "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室",
+      "summary": "2019年乔纳森·伊夫离开苹果后，苹果长期无正式首席设计负责人，此前杰夫·威廉姆斯接管设计业务直至去年离职。约翰·特努斯在出任苹果CEO前就已接手工业、人机交互两支设计团队，正式就任后深度介入，每周数次到访设计工作室，甚至单日多次，而蒂姆·库克此前每月仅到访一次。当前苹果设计人才流失严重，艾伦·戴伊跳槽至Meta，Op",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml"
+      ],
+      "publishedAt": "2026-10-05",
+      "date": "2026-10-05",
+      "category": "AI",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "2019年乔纳森·伊夫离开苹果后，苹果长期无正式首席设计负责人，此前杰夫·威廉姆斯接管设计业务直至去年离职。约翰·特努斯在出任苹果CEO前就已接手工业、人机交互两支设计团队，正式就任后深度介入，每周数次到访设计工作室，甚至单日多次，而蒂姆·库克此前每月仅到访一次。当前苹果设计人才流失严重，艾伦·戴伊跳槽至Meta，OpenAI也挖走多名员工，苹果通过提拔内部浅资历设计师、外招新人补位，暂未启动首席设计官人选搜寻，设计最终决策权由特努斯掌握。(AI生成)",
+      "relatedTitles": [
+        "古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室"
       ],
       "isNewSinceLastRun": true
     },
@@ -1203,6 +1283,142 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "追光的你｜00后创业者王啸坤：把大模型做进游戏",
+      "summary": "追光的你｜00后创业者王啸坤：把大模型做进游戏，让AI更有“活人感”,游戏,创界,王啸坤,大模型,追光的你",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L8FFM3M10534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L8FFM3M10534A4SC.html"
+      ],
+      "publishedAt": "2026-10-05",
+      "date": "2026-10-05",
+      "category": "AI",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “追光的你｜00后创业者王啸坤：把大模型做进游戏” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "追光的你｜00后创业者王啸坤：把大模型做进游戏，让AI更有“活人感”,游戏,创界,王啸坤,大模型,追光的你",
+      "relatedTitles": [
+        "追光的你｜00后创业者王啸坤：把大模型做进游戏"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁",
+      "summary": "软银集团创始人孙正义一直被视为人工智能最坚定的拥护者之一。然而他近日坦言，随着 AI 能力的突飞猛进，就连他也对伴随而来的安全风险深感担忧。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/009/758.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/009/758.htm"
+      ],
+      "publishedAt": "Mon, 05 Oct 2026 01:21:43 GMT",
+      "date": "2026-10-05",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 163,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "软银集团创始人孙正义一直被视为人工智能最坚定的拥护者之一。然而他近日坦言，随着 AI 能力的突飞猛进，就连他也对伴随而来的安全风险深感担忧。",
+      "relatedTitles": [
+        "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1271,7 +1487,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "DeepSeek Harness国庆假期上新！"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1339,75 +1555,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案",
-      "summary": "研究人员通过普通聊天界面提取出 Muse 内部指令，发现它会每小时为每位联系人建立独立档案，包含亲密程度、关系建议甚至隐私推断。Meta 回应称文件本就对外开放，但专家警告用户正把远超以往的信息交给企业。#MetaMuse# #AI隐私#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/009/755.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/009/755.htm"
-      ],
-      "publishedAt": "Mon, 05 Oct 2026 01:08:27 GMT",
-      "date": "2026-10-05",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "研究人员通过普通聊天界面提取出 Muse 内部指令，发现它会每小时为每位联系人建立独立档案，包含亲密程度、关系建议甚至隐私推断。Meta 回应称文件本就对外开放，但专家警告用户正把远超以往的信息交给企业。#MetaMuse# #AI隐私#",
-      "relatedTitles": [
-        "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1474,6 +1622,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 中国科学家，重要发现！ 2026-10-05 08:18:09 来源: 央视新闻 点击数： 热点",
       "relatedTitles": [
         "中国科学家，重要发现！"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件",
+      "summary": "IT之家 10 月 5 日消息，Meta 于当地时间 10 月 2 日宣布推出开源项目 Muse Gadgets，允许开发者为旗下个人 AI 智能体 Muse 打造自定义硬件。Meta 同时也已经在 GitHub 上按照 Apache 2....",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4703638.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4703638.shtml"
+      ],
+      "publishedAt": "2026-10-05",
+      "date": "2026-10-05",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "IT之家 10 月 5 日消息，Meta 于当地时间 10 月 2 日宣布推出开源项目 Muse Gadgets，允许开发者为旗下个人 AI 智能体 Muse 打造自定义硬件。Meta 同时也已经在 GitHub 上按照 Apache 2....",
+      "relatedTitles": [
+        "人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "消息称 Wayve 将为大众供应自动驾驶解决方案",
+      "summary": "Wayve 将开发自动驾驶人工智能软件，CARIAD 则负责软件与大众-博世联合开发硬件的系统集成工作。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/009/762.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/009/762.htm"
+      ],
+      "publishedAt": "Mon, 05 Oct 2026 01:48:19 GMT",
+      "date": "2026-10-05",
+      "category": "新能源车",
+      "classificationConfidence": 0.9,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 153,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “消息称 Wayve 将为大众供应自动驾驶解决方案” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "Wayve 将开发自动驾驶人工智能软件，CARIAD 则负责软件与大众-博世联合开发硬件的系统集成工作。",
+      "relatedTitles": [
+        "消息称 Wayve 将为大众供应自动驾驶解决方案"
       ],
       "isNewSinceLastRun": true
     },
@@ -1543,7 +1827,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "科技消费新趋势｜千元内陪伴机器人火爆"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1611,7 +1895,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "华为首款“韬定律逻辑折叠”芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1679,7 +1963,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "1nm 之后晶体管怎么走？泛林集团探索 SA-CFET 架构，SRAM 单元面积较 N3 缩小 52.7%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1747,7 +2031,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "“八分饱”对新能源车有影响吗？假期返程充电避开这些繁忙时段"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1815,75 +2099,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "2026 诺贝尔奖即将揭晓，9 位华人科学家成热门候选人"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室",
-      "summary": "自杰夫 · 威廉姆斯离职后，特努斯接手工业设计与人机交互两支团队，正式就任 CEO 后更是每周数次亲临设计工作室，部分日子一天到访多次。面对艾伦 · 戴伊跳槽 Meta、OpenAI 挖角等人才流失，苹果提拔资历较浅设计师并从外部吸纳新人，但始终未寻找乔纳森 · 伊夫的继任者，设计最终决策权掌握在特努斯手中。#苹果设计",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/009/752.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/009/752.htm"
-      ],
-      "publishedAt": "Mon, 05 Oct 2026 00:56:52 GMT",
-      "date": "2026-10-05",
-      "category": "AI",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 151,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "自杰夫 · 威廉姆斯离职后，特努斯接手工业设计与人机交互两支团队，正式就任 CEO 后更是每周数次亲临设计工作室，部分日子一天到访多次。面对艾伦 · 戴伊跳槽 Meta、OpenAI 挖角等人才流失，苹果提拔资历较浅设计师并从外部吸纳新人，但始终未寻找乔纳森 · 伊夫的继任者，设计最终决策权掌握在特努斯手中。#苹果设计# #特努斯#",
-      "relatedTitles": [
-        "古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1911,13 +2127,13 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 85,
       "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "priority": 5,
-      "score": 147,
-      "reporterScore": 147,
+      "score": 157,
+      "reporterScore": 157,
       "scoreBreakdown": {
         "hardTech": 85,
         "today": 18,
         "sourceAuthority": 12,
-        "multiSource": 12,
+        "multiSource": 22,
         "cgtFocus": 12,
         "visual": 0,
         "international": 0,
@@ -1951,7 +2167,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "国庆假期高速服务区充电至80%强制离场 专家：不会影响新能源车电池"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2025,7 +2241,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cDovL25ld3Muc2Np",
       "title": "OpenAI安全系统团队负责人辞职",
-      "summary": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 4分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、Ki",
+      "summary": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 14分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、K",
       "source": "中国科学报",
       "sources": [
         "中国科学报"
@@ -2426,7 +2642,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 26633",
+      "title": "阅读 26664",
       "summary": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
       "source": "观察者网-产业科技",
       "sources": [
@@ -2483,79 +2699,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "graphic",
-      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “阅读 26633” against primary-source evidence.",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “阅读 26664” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "半导体供应链",
       "rawText": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
       "relatedTitles": [
-        "阅读 26633"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "美方声称星巴克在新疆开设门店“道德沦丧”，中方回应",
-      "summary": "Neng/?s=syztbq\" class=\"interact-key\" target=\"_blank\" data-sensor=\"专题\">人工智能 观察者头条 美方声称星巴克在新疆开设门店“道德沦丧”，中方回应 <img original=\"https://i.guancha.cn/news/2026/10/3/de",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_03_903123.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_03_903123.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 139,
-      "reporterScore": 139,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美方声称星巴克在新疆开设门店“道德沦丧”，中方回应” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "Neng/?s=syztbq\" class=\"interact-key\" target=\"_blank\" data-sensor=\"专题\">人工智能 观察者头条 美方声称星巴克在新疆开设门店“道德沦丧”，中方回应 <img original=\"https://i.guancha.cn/news/2026/10/3/de9f0cfb66f84a588fbdd67942abf8f0.jpg\" class=\"lazy height254\" data-original=\"https://i.guanc",
-      "relatedTitles": [
-        "美方声称星巴克在新疆开设门店“道德沦丧”，中方回应"
+        "阅读 26664"
       ]
     },
     {
@@ -2696,6 +2845,38 @@ window.CHENCHEN_DAILY_DATA = {
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
+      "summary": "Exploitation attempts came from China-hosted IP, VulnCheck researcher says",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+      "publishedAt": "Sat, 03 Oct 2026 17:27:00 +0200",
+      "date": "2026-10-03",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 85,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic's super bug-hunting model Mythos is hardcore good at math, as ” against primary-source evidence.",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 183,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Google unveils Gemini 4 Argon, its new frontier model",
       "summary": "Google announced its new frontier model, Gemini 4 Argon, which is initially rolling out to trusted cyber defenders through its Fairwind Program, a limited-access initiative by Goog",
       "source": "Yahoo News Technology",
@@ -2724,167 +2905,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 120
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Why I quit the movement shaping AI",
-      "summary": "Artificial intelligence insiders are quitting their jobs, saying the technology could mean the end of humanity. Pope Leo in France warned of a “paradise of machines”. And the New Y",
-      "source": "France24 Technology",
-      "url": "https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai",
-      "publishedAt": "2026-10-04",
-      "date": "2026-10-04",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why I quit the movement shaping AI” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "publishedAt": "Sun, 04 Oct 2026 20:31:07 +0000",
-      "date": "2026-10-04",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google froze its open source bug bounty program due to a ‘significant ri” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "What Do K And F Mean On Intel CPUs?",
-      "summary": "Intel likes to label its processors with enough different letters that it looks like spilled Alphabet Soup, like the Ultra 7 270K or Core i5 12400F.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/k-f-mean-intel-cpus-194700590.html",
-      "publishedAt": "2026-10-05",
-      "date": "2026-10-05",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “What Do K And F Mean On Intel CPUs?” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why",
-      "summary": "SpaceX has plenty left to test on Starship, from refueling to docking in orbit, and NASA is counting on it to finish in time for a much bigger assignment.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/science/articles/spacexs-starship-needs-fully-operational-191700342.html",
-      "publishedAt": "2026-10-05",
-      "date": "2026-10-05",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 70,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why” against primary-source evidence.",
-      "priority": 5,
-      "score": 141,
-      "reporterScore": 141,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 105
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Homebuyer inherits 'OG' Tesla Powerwall, then learns old model can't use app or off-peak charging",
-      "summary": "\"Page 28 says only controls are on what it's connected to.\"",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/home/articles/homebuyer-inherits-og-tesla-powerwall-004500011.html",
-      "publishedAt": "2026-10-05",
-      "date": "2026-10-05",
-      "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Homebuyer inherits 'OG' Tesla Powerwall, then learns old model can't use” against primary-source evidence.",
-      "priority": 5,
-      "score": 133,
-      "reporterScore": 133,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2920,20 +2941,52 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
-      "summary": "Are we human?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
-      "publishedAt": "Sat, 03 Oct 2026 17:27:00 +0200",
-      "date": "2026-10-03",
+      "title": "Why I quit the movement shaping AI",
+      "summary": "Artificial intelligence insiders are quitting their jobs, saying the technology could mean the end of humanity. Pope Leo in France warned of a “paradise of machines”. And the New Y",
+      "source": "France24 Technology",
+      "url": "https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai",
+      "publishedAt": "2026-10-04",
+      "date": "2026-10-04",
       "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.8,
+      "classificationConfidence": 0.62,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic's super bug-hunting model Mythos is hardcore good at math, as ” against primary-source evidence.",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why I quit the movement shaping AI” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "publishedAt": "Sun, 04 Oct 2026 20:31:07 +0000",
+      "date": "2026-10-04",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google froze its open source bug bounty program due to a ‘significant ri” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -2981,10 +3034,106 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "What Do K And F Mean On Intel CPUs?",
+      "summary": "Intel likes to label its processors with enough different letters that it looks like spilled Alphabet Soup, like the Ultra 7 270K or Core i5 12400F.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/k-f-mean-intel-cpus-194700590.html",
+      "publishedAt": "2026-10-05",
+      "date": "2026-10-05",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “What Do K And F Mean On Intel CPUs?” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why",
+      "summary": "SpaceX has plenty left to test on Starship, from refueling to docking in orbit, and NASA is counting on it to finish in time for a much bigger assignment.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/science/articles/spacexs-starship-needs-fully-operational-191700342.html",
+      "publishedAt": "2026-10-05",
+      "date": "2026-10-05",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 70,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why” against primary-source evidence.",
+      "priority": 5,
+      "score": 141,
+      "reporterScore": 141,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 105
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Homebuyer inherits 'OG' Tesla Powerwall, then learns old model can't use app or off-peak charging",
+      "summary": "\"Page 28 says only controls are on what it's connected to.\"",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/home/articles/homebuyer-inherits-og-tesla-powerwall-004500011.html",
+      "publishedAt": "2026-10-05",
+      "date": "2026-10-05",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Homebuyer inherits 'OG' Tesla Powerwall, then learns old model can't use” against primary-source evidence.",
+      "priority": 5,
+      "score": 133,
+      "reporterScore": 133,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-05｜V3\n生成时间：2026/10/5 09:20:03\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2481｜确认今日 14｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 14 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-05] 再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4691678.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%” against primary-source evidence.\n\n2. [2026-10-05] 投资者寻求对冲人工智能集中度风险\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “投资者寻求对冲人工智能集中度风险” against primary-source evidence.\n\n3. [23:40] 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元\n   IT之家｜2026-10-05｜https://www.ithome.com/1/009/741.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how export controls and supply-chain resilience affects industrial resilience. For this item, test the claim behind “英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元” against primary-source evidence.\n\n4. [2026-10-05] DeepSeek Harness国庆假期上新！\n   网易科技｜2026-10-05｜https://www.163.com/dy/article/L8FARIHE0514R9P4.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek Harness国庆假期上新！” against primary-source evidence.\n\n5. [2026-10-05] OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp9805601.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露” against primary-source evidence.\n\n本次新增线索：\n- 再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4691678.shtml\n- 投资者寻求对冲人工智能集中度风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml\n- 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元｜IT之家｜https://www.ithome.com/1/009/741.htm\n- DeepSeek Harness国庆假期上新！｜网易科技｜https://www.163.com/dy/article/L8FARIHE0514R9P4.html\n- OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp9805601.shtml\n- Google unveils Gemini 4 Argon, its new frontier model｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Google unveils Gemini 4 Argon, its new frontier model｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html\n2. Why I quit the movement shaping AI｜France24 Technology｜https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai\n3. Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions｜TechCrunch｜https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/\n4. What Do K And F Mean On Intel CPUs?｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/k-f-mean-intel-cpus-194700590.html\n5. SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacexs-starship-needs-fully-operational-191700342.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-05｜V3\n生成时间：2026/10/5 09:20:03\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2481｜确认今日 14｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 14 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-05] 再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4691678.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%” against primary-source evidence.\n\n2. [2026-10-05] 投资者寻求对冲人工智能集中度风险\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “投资者寻求对冲人工智能集中度风险” against primary-source evidence.\n\n3. [23:40] 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元\n   IT之家｜2026-10-05｜https://www.ithome.com/1/009/741.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how export controls and supply-chain resilience affects industrial resilience. For this item, test the claim behind “英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元” against primary-source evidence.\n\n4. [2026-10-05] DeepSeek Harness国庆假期上新！\n   网易科技｜2026-10-05｜https://www.163.com/dy/article/L8FARIHE0514R9P4.html\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek Harness国庆假期上新！” against primary-source evidence.\n\n5. [2026-10-05] OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp9805601.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露” against primary-source evidence.\n\n本次新增线索：\n- 再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4691678.shtml\n- 投资者寻求对冲人工智能集中度风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml\n- 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元｜IT之家｜https://www.ithome.com/1/009/741.htm\n- DeepSeek Harness国庆假期上新！｜网易科技｜https://www.163.com/dy/article/L8FARIHE0514R9P4.html\n- OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp9805601.shtml\n- Google unveils Gemini 4 Argon, its new frontier model｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Google unveils Gemini 4 Argon, its new frontier model｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html\n2. Why I quit the movement shaping AI｜France24 Technology｜https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai\n3. Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions｜TechCrunch｜https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/\n4. What Do K And F Mean On Intel CPUs?｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/k-f-mean-intel-cpus-194700590.html\n5. SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacexs-starship-needs-fully-operational-191700342.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-05｜生成时间：2026/10/5 09:20:03｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2481｜确认今日 14｜国际背景 9</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 14 条｜国际 6 条<br>延续跟踪线索：国内 0 条｜国际 3 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-05] 再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%</strong>\n      <span>新浪科技｜2026-10-05｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4691678.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-05] 投资者寻求对冲人工智能集中度风险</strong>\n      <span>新浪科技｜2026-10-05｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “投资者寻求对冲人工智能集中度风险” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:40] 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元</strong>\n      <span>IT之家｜2026-10-05｜<a href=\"https://www.ithome.com/1/009/741.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：180｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how export controls and supply-chain resilience affects industrial resilience. For this item, test the claim behind “英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-05] DeepSeek Harness国庆假期上新！</strong>\n      <span>网易科技｜2026-10-05｜<a href=\"https://www.163.com/dy/article/L8FARIHE0514R9P4.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek Harness国庆假期上新！” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-05] OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露</strong>\n      <span>新浪科技｜2026-10-05｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp9805601.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Google unveils Gemini 4 Argon, its new frontier model</strong>\n      <span>时间：2026-10-05｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google unveils Gemini 4 Argon, its new frontier model” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Why I quit the movement shaping AI</strong>\n      <span>时间：2026-10-04｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why I quit the movement shaping AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</strong>\n      <span>时间：Sun, 04 Oct 2026 20:31:07 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google froze its open source bug bounty program due to a ‘significant ri” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. What Do K And F Mean On Intel CPUs?</strong>\n      <span>时间：2026-10-05｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/k-f-mean-intel-cpus-194700590.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “What Do K And F Mean On Intel CPUs?” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why</strong>\n      <span>时间：2026-10-05｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/science/articles/spacexs-starship-needs-fully-operational-191700342.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/5 09:20:03\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 14 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 3 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-05] 再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4691678.shtml\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%” against primary-source evidence.\n\n2. [2026-10-05] 投资者寻求对冲人工智能集中度风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “投资者寻求对冲人工智能集中度风险” against primary-source evidence.\n\n3. [23:40] 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元\n   来源：IT之家\n   链接：https://www.ithome.com/1/009/741.htm\n   角度：Report beyond the announcement: verify yield, scale, customers and how export controls and supply-chain resilience affects industrial resilience. For this item, test the claim behind “英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元” against primary-source evidence.\n\n4. [2026-10-05] DeepSeek Harness国庆假期上新！\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L8FARIHE0514R9P4.html\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek Harness国庆假期上新！” against primary-source evidence.\n\n5. [2026-10-05] OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp9805601.shtml\n   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露” against primary-source evidence.\n\n本次新增线索：\n- 再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4691678.shtml\n- 投资者寻求对冲人工智能集中度风险｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml\n- 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元｜IT之家｜https://www.ithome.com/1/009/741.htm\n- DeepSeek Harness国庆假期上新！｜网易科技｜https://www.163.com/dy/article/L8FARIHE0514R9P4.html\n- OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp9805601.shtml\n- Google unveils Gemini 4 Argon, its new frontier model｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（3 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n国际科技背景：\n1. Google unveils Gemini 4 Argon, its new frontier model｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html\n2. Why I quit the movement shaping AI｜France24 Technology｜https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai\n3. Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions｜TechCrunch｜https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/\n4. What Do K And F Mean On Intel CPUs?｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/k-f-mean-intel-cpus-194700590.html\n5. SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacexs-starship-needs-fully-operational-191700342.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-05｜V3\n生成时间：2026/10/5 09:52:01\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2492｜确认今日 18｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-05] 再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4691678.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%” against primary-source evidence.\n\n2. [2026-10-05] 投资者寻求对冲人工智能集中度风险\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “投资者寻求对冲人工智能集中度风险” against primary-source evidence.\n\n3. [2026-10-05] Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案” against primary-source evidence.\n\n4. [2026-10-05] 古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室” against primary-source evidence.\n\n5. [23:40] 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元\n   IT之家｜2026-10-05｜https://www.ithome.com/1/009/741.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how export controls and supply-chain resilience affects industrial resilience. For this item, test the claim behind “英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元” against primary-source evidence.\n\n本次新增线索：\n- Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml\n- 古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml\n- 追光的你｜00后创业者王啸坤：把大模型做进游戏｜网易科技｜https://www.163.com/dy/article/L8FFM3M10534A4SC.html\n- 软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁｜IT之家｜https://www.ithome.com/1/009/758.htm\n- 人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4703638.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows｜The Register｜https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933\n2. Google unveils Gemini 4 Argon, its new frontier model｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html\n3. OpenAI safety employee resigns, claiming the company’s ‘culture is broken’｜TechCrunch｜https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/\n4. Why I quit the movement shaping AI｜France24 Technology｜https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai\n5. Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions｜TechCrunch｜https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-05｜V3\n生成时间：2026/10/5 09:52:01\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2492｜确认今日 18｜国际背景 9\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-05] 再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4691678.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%” against primary-source evidence.\n\n2. [2026-10-05] 投资者寻求对冲人工智能集中度风险\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “投资者寻求对冲人工智能集中度风险” against primary-source evidence.\n\n3. [2026-10-05] Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案” against primary-source evidence.\n\n4. [2026-10-05] 古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室\n   新浪科技｜2026-10-05｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室” against primary-source evidence.\n\n5. [23:40] 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元\n   IT之家｜2026-10-05｜https://www.ithome.com/1/009/741.htm\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how export controls and supply-chain resilience affects industrial resilience. For this item, test the claim behind “英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元” against primary-source evidence.\n\n本次新增线索：\n- Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml\n- 古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml\n- 追光的你｜00后创业者王啸坤：把大模型做进游戏｜网易科技｜https://www.163.com/dy/article/L8FFM3M10534A4SC.html\n- 软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁｜IT之家｜https://www.ithome.com/1/009/758.htm\n- 人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4703638.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows｜The Register｜https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933\n2. Google unveils Gemini 4 Argon, its new frontier model｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html\n3. OpenAI safety employee resigns, claiming the company’s ‘culture is broken’｜TechCrunch｜https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/\n4. Why I quit the movement shaping AI｜France24 Technology｜https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai\n5. Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions｜TechCrunch｜https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-05｜生成时间：2026/10/5 09:52:01｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2492｜确认今日 18｜国际背景 9</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 0 条<br>延续跟踪线索：国内 12 条｜国际 9 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-05] 再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%</strong>\n      <span>新浪科技｜2026-10-05｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4691678.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-05] 投资者寻求对冲人工智能集中度风险</strong>\n      <span>新浪科技｜2026-10-05｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “投资者寻求对冲人工智能集中度风险” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-05] Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案</strong>\n      <span>新浪科技｜2026-10-05｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-05] 古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室</strong>\n      <span>新浪科技｜2026-10-05｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [23:40] 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元</strong>\n      <span>IT之家｜2026-10-05｜<a href=\"https://www.ithome.com/1/009/741.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：180｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how export controls and supply-chain resilience affects industrial resilience. For this item, test the claim behind “英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows</strong>\n      <span>时间：Sat, 03 Oct 2026 17:27:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Anthropic's super bug-hunting model Mythos is hardcore good at math, as ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Google unveils Gemini 4 Argon, its new frontier model</strong>\n      <span>时间：2026-10-05｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google unveils Gemini 4 Argon, its new frontier model” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</strong>\n      <span>时间：Sat, 03 Oct 2026 16:30:01 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI safety employee resigns, claiming the company’s ‘culture is broke” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Why I quit the movement shaping AI</strong>\n      <span>时间：2026-10-04｜来源：France24 Technology｜<a href=\"https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Why I quit the movement shaping AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</strong>\n      <span>时间：Sun, 04 Oct 2026 20:31:07 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google froze its open source bug bounty program due to a ‘significant ri” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/5 09:52:01\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 9 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-05] 再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4691678.shtml\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%” against primary-source evidence.\n\n2. [2026-10-05] 投资者寻求对冲人工智能集中度风险\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4693996.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “投资者寻求对冲人工智能集中度风险” against primary-source evidence.\n\n3. [2026-10-05] Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案” against primary-source evidence.\n\n4. [2026-10-05] 古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室” against primary-source evidence.\n\n5. [23:40] 英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元\n   来源：IT之家\n   链接：https://www.ithome.com/1/009/741.htm\n   角度：Report beyond the announcement: verify yield, scale, customers and how export controls and supply-chain resilience affects industrial resilience. For this item, test the claim behind “英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元” against primary-source evidence.\n\n本次新增线索：\n- Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4723818.shtml\n- 古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4718120.shtml\n- 追光的你｜00后创业者王啸坤：把大模型做进游戏｜网易科技｜https://www.163.com/dy/article/L8FFM3M10534A4SC.html\n- 软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁｜IT之家｜https://www.ithome.com/1/009/758.htm\n- 人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwp4703638.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（5 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n国际科技背景：\n1. Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows｜The Register｜https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933\n2. Google unveils Gemini 4 Argon, its new frontier model｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html\n3. OpenAI safety employee resigns, claiming the company’s ‘culture is broken’｜TechCrunch｜https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/\n4. Why I quit the movement shaping AI｜France24 Technology｜https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai\n5. Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions｜TechCrunch｜https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
