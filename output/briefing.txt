@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/5 21:52:32
+生成时间：2026/10/5 22:50:03
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 5 条｜国际 2 条
-延续跟踪线索：国内 25 条｜国际 11 条
+新增核心线索：国内 3 条｜国际 1 条
+延续跟踪线索：国内 24 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -26,38 +26,36 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.163.com/dy/article/L8GADEOK0512B07B.html
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “华为和美国高通达成重磅协议，内容包括双方在5G” against primary-source evidence.
 
-4. [09:40] 高通与华为达成逻辑折叠芯片技术相关专利授权，韬定律加速出海
-   来源：IT之家
-   链接：https://www.ithome.com/1/009/852.htm
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “高通与华为达成逻辑折叠芯片技术相关专利授权，韬定律加速出海” against primary-source evidence.
+4. [2026-10-05] 华为与高通达成专利许可协议 涵盖5G、计算和人工智能等领域
+   来源：中国日报-科技
+   链接：https://cn.chinadaily.com.cn/a/202610/05/WS6ac36e44e4b09a165c78dfcf.html
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “华为与高通达成专利许可协议 涵盖5G、计算和人工智能等领域” against primary-source evidence.
 
-5. [2026-10-05] 十年王座易主！32GB内存首次登顶Steam：16GB彻底退位
+5. [2026-10-05] 海外消费者网购下单两次 AMD 锐龙 7 9850X3D 处理器，均被调包成十年前的酷睿 i3-3000 系列产品
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-10-05/doc-iniuevrx9449308.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “十年王座易主！32GB内存首次登顶Steam：16GB彻底退位” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniuevrv2574742.shtml
+   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “海外消费者网购下单两次 AMD 锐龙 7 9850X3D 处理器，均被调包成十年前的酷睿 i3-3000 系列产品” against primary-source evidence.
 
 本次新增线索：
-- 十年王座易主！32GB内存首次登顶Steam：16GB彻底退位｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-05/doc-iniuevrx9449308.shtml
-- 三名科学家获2026年诺贝尔生理学或医学奖｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-05/doc-iniuevrx9454602.shtml
-- 蓝宝石为其 AMD Radeon RX 7000 系列显卡推送固件更新，包含安全改进｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniuevrx9451342.shtml
-- 英伟达 RTX Spark 笔记本 OLED 屏幕供应商曝光：三星七款、LG 一款｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniuevrx9443468.shtml
-- 挪威拟临时禁止在特定场所使用AI眼镜｜网易科技｜https://www.163.com/dy/article/L8GP0RRG05198CJN.html
-- How Many SpaceX Launches Have Been Completed?｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/many-spacex-launches-completed-121700076.html
+- 华为与高通达成专利许可协议 涵盖5G、计算和人工智能等领域｜中国日报-科技｜https://cn.chinadaily.com.cn/a/202610/05/WS6ac36e44e4b09a165c78dfcf.html
+- 海外消费者网购下单两次 AMD 锐龙 7 9850X3D 处理器，均被调包成十年前的酷睿 i3-3000 系列产品｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniuevrv2574742.shtml
+- 曾经“闲人免进”的工业重地，如今成为备受追捧的文旅新地标。近年来，“工业游”持续走红，从汽车智造到船舶重工，从航空航天到清洁能源，一批大国重器敞开大门，让大众得以近距离触摸中国工业硬实力。｜央视新闻科技｜https://news.cctv.com/2026/10/05/ARTIh3BSuc1eue9dpMHUzZYY261005.shtml
+- Google Admits Some 'Complex' Android Apps Run Poorly On Intel Googlebooks｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/google-admits-complex-android-apps-123855186.html
 
 今日热点方向：
-- AI 应用：AI动态（7 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，1 个来源）
+- AI 应用：AI动态（6 条，3 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
 - 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）
-- 太空与低空经济：
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，1 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（7 条，3 个来源）
 
 国际科技背景：
 1. Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows｜The Register｜https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933
 2. How Many SpaceX Launches Have Been Completed?｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/many-spacex-launches-completed-121700076.html
-3. Elon Musk Is Planning To Retire One Of SpaceX's Most Popular Rockets — Here's Why｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/elon-musk-planning-retire-one-101700862.html
-4. OpenAI safety employee resigns, claiming the company’s ‘culture is broken’｜TechCrunch｜https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/
-5. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+3. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+4. Google Admits Some 'Complex' Android Apps Run Poorly On Intel Googlebooks｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/google-admits-complex-android-apps-123855186.html
+5. OpenAI safety employee resigns, claiming the company’s ‘culture is broken’｜TechCrunch｜https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
