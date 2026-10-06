@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/6 10:32:33
+生成时间：2026/10/6 10:54:29
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 23 条｜国际 8 条
-延续跟踪线索：国内 0 条｜国际 6 条
+新增核心线索：国内 2 条｜国际 0 条
+延续跟踪线索：国内 23 条｜国际 14 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -39,12 +39,8 @@ ChenChen 今日 Briefing｜V3
    角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道” against primary-source evidence.
 
 本次新增线索：
-- 谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml
-- 花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml
-- 深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml
-- 最高192GB统一内存！AMD锐龙AI Max Pro 495亮相｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml
-- GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道｜IT之家｜https://www.ithome.com/1/009/946.htm
-- Reflection AI releases first open model to rival China｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html
+- 散热制造商 Dynatron 确认 AMD EPYC "Verano" 处理器采用 SB1 插槽｜IT之家｜https://www.ithome.com/1/009/967.htm
+- 英伟达RTX Spark笔记本OLED屏幕被韩企包揽：三星六款、LG一款｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufxcp5871880.shtml
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（6 条，3 个来源）

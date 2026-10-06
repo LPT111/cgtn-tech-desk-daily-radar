@@ -1,73 +1,32 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-10-06T02:32:33.311Z",
+  "generatedAt": "2026-10-06T02:54:29.512Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-06",
   "changeSummary": {
-    "domesticNew": 23,
-    "globalNew": 8,
-    "domesticContinued": 0,
-    "globalContinued": 6,
+    "domesticNew": 2,
+    "globalNew": 0,
+    "domesticContinued": 23,
+    "globalContinued": 14,
     "topNewDomestic": [
       {
-        "title": "谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml"
-      },
-      {
-        "title": "花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml"
-      },
-      {
-        "title": "深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml"
-      },
-      {
-        "title": "最高192GB统一内存！AMD锐龙AI Max Pro 495亮相",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml"
-      },
-      {
-        "title": "GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道",
+        "title": "散热制造商 Dynatron 确认 AMD EPYC \"Verano\" 处理器采用 SB1 插槽",
         "source": "IT之家",
-        "url": "https://www.ithome.com/1/009/946.htm"
+        "url": "https://www.ithome.com/1/009/967.htm"
+      },
+      {
+        "title": "英伟达RTX Spark笔记本OLED屏幕被韩企包揽：三星六款、LG一款",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufxcp5871880.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Reflection AI releases first open model to rival China",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html"
-      },
-      {
-        "title": "OpenAI launches visual ads that appear alongside image generation results",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
-      },
-      {
-        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
-      },
-      {
-        "title": "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213"
-      },
-      {
-        "title": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 877,
+    "domesticRejected": 875,
     "globalRejected": 886,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -90,24 +49,24 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -122,24 +81,24 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -314,16 +273,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -344,8 +301,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -353,7 +311,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -366,8 +324,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -400,13 +359,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1535,
+  "itemsSeen": 1464,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 217,
-  "itemsAfterDedupe": 150,
-  "todayItemsSeen": 23,
+  "itemsAfterRelevantFilter": 215,
+  "itemsAfterDedupe": 151,
+  "todayItemsSeen": 25,
   "suspectedItemsSeen": 6,
-  "skippedNonToday": 122,
+  "skippedNonToday": 121,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -574,16 +533,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -604,8 +561,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -613,7 +571,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -626,8 +584,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -820,24 +779,24 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -891,6 +850,22 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "芯片动态",
+      "count": 6,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元",
+        "散热制造商 Dynatron 确认 AMD EPYC \"Verano\" 处理器采用 SB1 插槽",
+        "英伟达RTX Spark笔记本OLED屏幕被韩企包揽：三星六款、LG一款",
+        "高盛上调台积电目标价至 3300 新台币，预示约 28% 上涨空间",
+        "Groq 遭起诉：被控与英伟达 200 亿美元“类收购”交易牺牲少数股东权益"
+      ]
+    },
+    {
       "topic": "AI动态",
       "count": 5,
       "sourceCount": 2,
@@ -904,21 +879,6 @@ window.CHENCHEN_DAILY_DATA = {
         "奥尔特曼：马斯克是个“霸凌者”，只尊重敢于回击他的人",
         "苹果断连的旗舰机，与越界的AI",
         "防止 AI 胡编乱造：微软 Word Copilot 新增引用功能，可溯源查证"
-      ]
-    },
-    {
-      "topic": "芯片动态",
-      "count": 4,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "IT之家"
-      ],
-      "items": [
-        "深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元",
-        "高盛上调台积电目标价至 3300 新台币，预示约 28% 上涨空间",
-        "Groq 遭起诉：被控与英伟达 200 亿美元“类收购”交易牺牲少数股东权益",
-        "纳指盘中再创历史新高：SpaceX 涨逾 5%，英伟达涨超 1% 再度逼近历史新高"
       ]
     },
     {
@@ -1058,7 +1018,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1126,7 +1086,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1194,7 +1154,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1262,7 +1222,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "最高192GB统一内存！AMD锐龙AI Max Pro 495亮相"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1330,7 +1290,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1398,7 +1358,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "麦当劳在美遭集体诉讼，被指用 AI 系统非法操纵菜单价格"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1465,6 +1425,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "奥尔特曼称愿意和马斯克开展 AI 领域合作，但也会对对方的攻击予以回击，二人曾公开决裂，目前已有多起法律纠纷。多家 AI 头部企业已签署白宫牵头的 AI 安全管控协议。#人工智能#",
       "relatedTitles": [
         "奥尔特曼：马斯克是个“霸凌者”，只尊重敢于回击他的人"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "散热制造商 Dynatron 确认 AMD EPYC \"Verano\" 处理器采用 SB1 插槽",
+      "summary": "Verano 瞄准 AI 加速器头节点应用场景，至多拥有 72 个 CPU 核心，支持 LPDDR5X SOCAMM2 内存模组，支持 112Gbps 高带宽 xGMI 连接。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/009/967.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/009/967.htm"
+      ],
+      "publishedAt": "Tue, 06 Oct 2026 02:52:28 GMT",
+      "date": "2026-10-06",
+      "category": "芯片",
+      "classificationConfidence": 0.81,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “散热制造商 Dynatron 确认 AMD EPYC \"Verano\" 处理器采用 SB1 插槽” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "Verano 瞄准 AI 加速器头节点应用场景，至多拥有 72 个 CPU 核心，支持 LPDDR5X SOCAMM2 内存模组，支持 112Gbps 高带宽 xGMI 连接。",
+      "relatedTitles": [
+        "散热制造商 Dynatron 确认 AMD EPYC \"Verano\" 处理器采用 SB1 插槽"
       ],
       "isNewSinceLastRun": true
     },
@@ -1534,7 +1562,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "减产自救：美国豪华电动汽车制造商 Lucid 第三季度产量跌至近两年低点"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1602,7 +1630,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "苹果断连的旗舰机，与越界的AI"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1670,7 +1698,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "乌称人工智能炮塔首次成功拦截俄无人机"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1737,6 +1765,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "10月5日科技媒体Windows Central发布博文，报道微软优化Word中的Copilot AI体验，新增引用功能以溯源遏制AI幻觉。Copilot回复将附带来源链接，用户可直接跳转至原始网页或内部文档核实信息，提升信息透明度，帮助用户确认Copilot是否正确提取理解信息。微软还同步优化了Copilot Chat的设计与功能，为Copilot App新增插件、连接器及Work IQ增强，同时在PowerPoint中为Copilot新增技能与连接器。(AI生成)",
       "relatedTitles": [
         "防止 AI 胡编乱造：微软 Word Copilot 新增引用功能，可溯源查证"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "英伟达RTX Spark笔记本OLED屏幕被韩企包揽：三星六款、LG一款",
+      "summary": "快科技10月6日消息，据thelec报道，基于英伟达RTX Spark平台、搭载OLED屏的7款主流AI笔记本，全部采用三星显示与LG显示的面板。其中三星显示供应6款机型，LG显示供应1款。三星显示面板应用于惠普OmniBook Ultra...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufxcp5871880.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufxcp5871880.shtml"
+      ],
+      "publishedAt": "2026-10-06",
+      "date": "2026-10-06",
+      "category": "芯片",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达RTX Spark笔记本OLED屏幕被韩企包揽：三星六款、LG一款” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "快科技10月6日消息，据thelec报道，基于英伟达RTX Spark平台、搭载OLED屏的7款主流AI笔记本，全部采用三星显示与LG显示的面板。其中三星显示供应6款机型，LG显示供应1款。三星显示面板应用于惠普OmniBook Ultra...",
+      "relatedTitles": [
+        "英伟达RTX Spark笔记本OLED屏幕被韩企包揽：三星六款、LG一款"
       ],
       "isNewSinceLastRun": true
     },
@@ -1806,7 +1902,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "我国应用下一代通信关键技术空心光纤，AI 算力时代给光信号造出“磁悬浮”高速轨道"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1874,7 +1970,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "LG 电子将为北美超 5GW 人工智能数据中心供应冷水机组"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1942,7 +2038,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "高盛上调台积电目标价至 3300 新台币，预示约 28% 上涨空间"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2010,7 +2106,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "多家阿联酋基金和贝莱德据悉商谈参与OpenAI最新"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2078,7 +2174,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "奥尔特曼：AI红利足以抵消部分风险 “坏事”发生也值得接受"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2146,7 +2242,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "星舰第14飞首次入轨，猎鹰9号的时代要结束了吗"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2214,7 +2310,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Groq 遭起诉：被控与英伟达 200 亿美元“类收购”交易牺牲少数股东权益"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2282,7 +2378,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "苹果与 OpenAI 商业秘密诉讼交锋升级：互指违规提交新证据"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2350,7 +2446,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "纳指盘中再创历史新高：SpaceX 涨逾 5%，英伟达涨超 1% 再度逼近历史新高"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2418,7 +2514,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "一老板花90万买4条机器狗不满表现，具微科技："
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2486,7 +2582,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "特斯拉连续八个月蝉联韩国进口车销量冠军"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2554,7 +2650,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "比亚迪 Racco 电动微型车将走出日本，率先登陆斯里兰卡、中国澳门"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2628,7 +2724,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职",
-      "summary": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 4分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、Ki",
+      "summary": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 14分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、K",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2687,7 +2783,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI安全团队 OpenAI安全团队持续地震！负责人离职” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "国家科技战略与监管",
-      "rawText": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 4分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光 索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准 AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "rawText": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 14分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光 索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准 AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
       "relatedTitles": [
         "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职"
       ]
@@ -2785,13 +2881,13 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 4,
-      "score": 139,
-      "reporterScore": 139,
+      "score": 129,
+      "reporterScore": 129,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": -10,
         "sourceAuthority": 12,
-        "multiSource": 22,
+        "multiSource": 12,
         "cgtFocus": 12,
         "visual": 0,
         "international": 0,
@@ -2828,7 +2924,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 27401",
+      "title": "阅读 27411",
       "summary": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
       "source": "观察者网-产业科技",
       "sources": [
@@ -2852,13 +2948,13 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 4,
-      "score": 139,
-      "reporterScore": 139,
+      "score": 129,
+      "reporterScore": 129,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": -10,
         "sourceAuthority": 12,
-        "multiSource": 22,
+        "multiSource": 12,
         "cgtFocus": 12,
         "visual": 0,
         "international": 0,
@@ -2885,12 +2981,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "graphic",
-      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “阅读 27401” against primary-source evidence.",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “阅读 27411” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "半导体供应链",
       "rawText": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
       "relatedTitles": [
-        "阅读 27401"
+        "阅读 27411"
       ]
     },
     {
@@ -2992,7 +3088,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 120
       },
       "status": "confirmed_today",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3024,7 +3120,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3088,7 +3184,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3120,103 +3216,7 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged",
-      "summary": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html",
-      "publishedAt": "Mon, 05 Oct 2026 15:46:49 GMT",
-      "date": "2026-10-05",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.71,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockhol” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Every Samsung Phone Getting A Price Hike In October 2026",
-      "summary": "If you were holding out for a lower price on a Samsung smart phone, you might be out of luck, as a wave of price hikes on Samsung devices has been revealed.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/deals/articles/every-samsung-phone-getting-price-211700793.html",
-      "publishedAt": "2026-10-06",
-      "date": "2026-10-06",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Every Samsung Phone Getting A Price Hike In October 2026” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
-      "summary": "SpaceX shares have bounced almost 60% off their low in early August, boosted by the company's AI business and Starship progress.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
-      "publishedAt": "Mon, 05 Oct 2026 20:10:13 GMT",
-      "date": "2026-10-05",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.68,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX stock climbs to highest since June, returning Musk to trillionair” against primary-source evidence.",
-      "priority": 4,
-      "score": 138,
-      "reporterScore": 138,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3284,6 +3284,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged",
+      "summary": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html",
+      "publishedAt": "Mon, 05 Oct 2026 15:46:49 GMT",
+      "date": "2026-10-05",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockhol” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Cerebras stock pops 9% after Sam Altman calls the chipmaker a 'close partner'",
       "summary": "Cerebras stock climbed in premarket trading after OpenAI's CEO Sam Altman reassured investors that the firm is a \"close partner.\"",
       "source": "CNBC Technology",
@@ -3316,6 +3348,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Every Samsung Phone Getting A Price Hike In October 2026",
+      "summary": "If you were holding out for a lower price on a Samsung smart phone, you might be out of luck, as a wave of price hikes on Samsung devices has been revealed.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/deals/articles/every-samsung-phone-getting-price-211700793.html",
+      "publishedAt": "2026-10-06",
+      "date": "2026-10-06",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Every Samsung Phone Getting A Price Hike In October 2026” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
       "summary": "After succeeding Steve Ballmer in 2014, Satya Nadella turned Microsoft into a cloud giant. Now he's tasked with making the company a force in AI.",
       "source": "CNBC Technology",
@@ -3342,6 +3406,38 @@ window.CHENCHEN_DAILY_DATA = {
         "softNews": false,
         "hardTechWeight": 95,
         "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
+      "summary": "SpaceX shares have bounced almost 60% off their low in early August, boosted by the company's AI business and Starship progress.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+      "publishedAt": "Mon, 05 Oct 2026 20:10:13 GMT",
+      "date": "2026-10-05",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.68,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX stock climbs to highest since June, returning Musk to trillionair” against primary-source evidence.",
+      "priority": 4,
+      "score": 138,
+      "reporterScore": 138,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
@@ -3408,11 +3504,11 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 60
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-06｜V3\n生成时间：2026/10/6 10:32:33\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2507｜确认今日 23｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 23 条｜国际 8 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-06] 谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话” against primary-source evidence.\n\n2. [2026-10-06] 花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力” against primary-source evidence.\n\n3. [2026-10-06] 深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元” against primary-source evidence.\n\n4. [2026-10-06] 最高192GB统一内存！AMD锐龙AI Max Pro 495亮相\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “最高192GB统一内存！AMD锐龙AI Max Pro 495亮相” against primary-source evidence.\n\n5. [01:34] GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道\n   IT之家｜2026-10-06｜https://www.ithome.com/1/009/946.htm\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道” against primary-source evidence.\n\n本次新增线索：\n- 谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml\n- 花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml\n- 深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml\n- 最高192GB统一内存！AMD锐龙AI Max Pro 495亮相｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml\n- GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道｜IT之家｜https://www.ithome.com/1/009/946.htm\n- Reflection AI releases first open model to rival China｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Reflection AI releases first open model to rival China｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html\n2. OpenAI launches visual ads that appear alongside image generation results｜TechCrunch｜https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/\n3. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n4. OpenAI will start watermarking ChatGPT’s text in the EU｜TechCrunch｜https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/\n5. Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-06｜V3\n生成时间：2026/10/6 10:32:33\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2507｜确认今日 23｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 23 条｜国际 8 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-06] 谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话” against primary-source evidence.\n\n2. [2026-10-06] 花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力” against primary-source evidence.\n\n3. [2026-10-06] 深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元” against primary-source evidence.\n\n4. [2026-10-06] 最高192GB统一内存！AMD锐龙AI Max Pro 495亮相\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “最高192GB统一内存！AMD锐龙AI Max Pro 495亮相” against primary-source evidence.\n\n5. [01:34] GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道\n   IT之家｜2026-10-06｜https://www.ithome.com/1/009/946.htm\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道” against primary-source evidence.\n\n本次新增线索：\n- 谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml\n- 花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml\n- 深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml\n- 最高192GB统一内存！AMD锐龙AI Max Pro 495亮相｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml\n- GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道｜IT之家｜https://www.ithome.com/1/009/946.htm\n- Reflection AI releases first open model to rival China｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Reflection AI releases first open model to rival China｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html\n2. OpenAI launches visual ads that appear alongside image generation results｜TechCrunch｜https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/\n3. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n4. OpenAI will start watermarking ChatGPT’s text in the EU｜TechCrunch｜https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/\n5. Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-06｜生成时间：2026/10/6 10:32:33｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2507｜确认今日 23｜国际背景 14</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 23 条｜国际 8 条<br>延续跟踪线索：国内 0 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-06] 谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话</strong>\n      <span>新浪科技｜2026-10-06｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-06] 花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力</strong>\n      <span>新浪科技｜2026-10-06｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-06] 深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元</strong>\n      <span>新浪科技｜2026-10-06｜<a href=\"https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-06] 最高192GB统一内存！AMD锐龙AI Max Pro 495亮相</strong>\n      <span>新浪科技｜2026-10-06｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “最高192GB统一内存！AMD锐龙AI Max Pro 495亮相” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [01:34] GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道</strong>\n      <span>IT之家｜2026-10-06｜<a href=\"https://www.ithome.com/1/009/946.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：180｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Reflection AI releases first open model to rival China</strong>\n      <span>时间：2026-10-06｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Reflection AI releases first open model to rival China” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI launches visual ads that appear alongside image generation results</strong>\n      <span>时间：Mon, 05 Oct 2026 15:14:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI launches visual ads that appear alongside image generation result” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. The AI boom is making the world’s cheapest smartphones disappear</strong>\n      <span>时间：Mon, 05 Oct 2026 10:00:43 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI boom is making the world’s cheapest smartphones disappear” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI will start watermarking ChatGPT’s text in the EU</strong>\n      <span>时间：Mon, 05 Oct 2026 20:36:48 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI will start watermarking ChatGPT’s text in the EU” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool</strong>\n      <span>时间：Mon, 05 Oct 2026 21:24:19 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this o” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/6 10:32:33\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 23 条｜国际 8 条\n延续跟踪线索：国内 0 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-06] 谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话” against primary-source evidence.\n\n2. [2026-10-06] 花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力” against primary-source evidence.\n\n3. [2026-10-06] 深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元” against primary-source evidence.\n\n4. [2026-10-06] 最高192GB统一内存！AMD锐龙AI Max Pro 495亮相\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml\n   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “最高192GB统一内存！AMD锐龙AI Max Pro 495亮相” against primary-source evidence.\n\n5. [01:34] GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道\n   来源：IT之家\n   链接：https://www.ithome.com/1/009/946.htm\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道” against primary-source evidence.\n\n本次新增线索：\n- 谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml\n- 花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml\n- 深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元｜新浪科技｜https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml\n- 最高192GB统一内存！AMD锐龙AI Max Pro 495亮相｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml\n- GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道｜IT之家｜https://www.ithome.com/1/009/946.htm\n- Reflection AI releases first open model to rival China｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Reflection AI releases first open model to rival China｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html\n2. OpenAI launches visual ads that appear alongside image generation results｜TechCrunch｜https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/\n3. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n4. OpenAI will start watermarking ChatGPT’s text in the EU｜TechCrunch｜https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/\n5. Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-06｜V3\n生成时间：2026/10/6 10:54:29\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2436｜确认今日 25｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 23 条｜国际 14 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-06] 谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话” against primary-source evidence.\n\n2. [2026-10-06] 花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力” against primary-source evidence.\n\n3. [2026-10-06] 深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元” against primary-source evidence.\n\n4. [2026-10-06] 最高192GB统一内存！AMD锐龙AI Max Pro 495亮相\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “最高192GB统一内存！AMD锐龙AI Max Pro 495亮相” against primary-source evidence.\n\n5. [01:34] GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道\n   IT之家｜2026-10-06｜https://www.ithome.com/1/009/946.htm\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道” against primary-source evidence.\n\n本次新增线索：\n- 散热制造商 Dynatron 确认 AMD EPYC \"Verano\" 处理器采用 SB1 插槽｜IT之家｜https://www.ithome.com/1/009/967.htm\n- 英伟达RTX Spark笔记本OLED屏幕被韩企包揽：三星六款、LG一款｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufxcp5871880.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Reflection AI releases first open model to rival China｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html\n2. OpenAI launches visual ads that appear alongside image generation results｜TechCrunch｜https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/\n3. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n4. OpenAI will start watermarking ChatGPT’s text in the EU｜TechCrunch｜https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/\n5. Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-06｜V3\n生成时间：2026/10/6 10:54:29\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2436｜确认今日 25｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 23 条｜国际 14 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-06] 谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话” against primary-source evidence.\n\n2. [2026-10-06] 花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力” against primary-source evidence.\n\n3. [2026-10-06] 深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元” against primary-source evidence.\n\n4. [2026-10-06] 最高192GB统一内存！AMD锐龙AI Max Pro 495亮相\n   新浪科技｜2026-10-06｜https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “最高192GB统一内存！AMD锐龙AI Max Pro 495亮相” against primary-source evidence.\n\n5. [01:34] GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道\n   IT之家｜2026-10-06｜https://www.ithome.com/1/009/946.htm\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道” against primary-source evidence.\n\n本次新增线索：\n- 散热制造商 Dynatron 确认 AMD EPYC \"Verano\" 处理器采用 SB1 插槽｜IT之家｜https://www.ithome.com/1/009/967.htm\n- 英伟达RTX Spark笔记本OLED屏幕被韩企包揽：三星六款、LG一款｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufxcp5871880.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Reflection AI releases first open model to rival China｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html\n2. OpenAI launches visual ads that appear alongside image generation results｜TechCrunch｜https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/\n3. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n4. OpenAI will start watermarking ChatGPT’s text in the EU｜TechCrunch｜https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/\n5. Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-06｜生成时间：2026/10/6 10:54:29｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2436｜确认今日 25｜国际背景 14</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 0 条<br>延续跟踪线索：国内 23 条｜国际 14 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-06] 谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话</strong>\n      <span>新浪科技｜2026-10-06｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-06] 花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力</strong>\n      <span>新浪科技｜2026-10-06｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-06] 深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元</strong>\n      <span>新浪科技｜2026-10-06｜<a href=\"https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-06] 最高192GB统一内存！AMD锐龙AI Max Pro 495亮相</strong>\n      <span>新浪科技｜2026-10-06｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “最高192GB统一内存！AMD锐龙AI Max Pro 495亮相” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [01:34] GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道</strong>\n      <span>IT之家｜2026-10-06｜<a href=\"https://www.ithome.com/1/009/946.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：180｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Reflection AI releases first open model to rival China</strong>\n      <span>时间：2026-10-06｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Reflection AI releases first open model to rival China” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI launches visual ads that appear alongside image generation results</strong>\n      <span>时间：Mon, 05 Oct 2026 15:14:24 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI launches visual ads that appear alongside image generation result” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. The AI boom is making the world’s cheapest smartphones disappear</strong>\n      <span>时间：Mon, 05 Oct 2026 10:00:43 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI boom is making the world’s cheapest smartphones disappear” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI will start watermarking ChatGPT’s text in the EU</strong>\n      <span>时间：Mon, 05 Oct 2026 20:36:48 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI will start watermarking ChatGPT’s text in the EU” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool</strong>\n      <span>时间：Mon, 05 Oct 2026 21:24:19 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this o” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/6 10:54:29\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 23 条｜国际 14 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-06] 谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvm2176386.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话” against primary-source evidence.\n\n2. [2026-10-06] 花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力” against primary-source evidence.\n\n3. [2026-10-06] 深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/t/2026-10-06/doc-iniufsvp9125532.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元” against primary-source evidence.\n\n4. [2026-10-06] 最高192GB统一内存！AMD锐龙AI Max Pro 495亮相\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufsvm2183649.shtml\n   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “最高192GB统一内存！AMD锐龙AI Max Pro 495亮相” against primary-source evidence.\n\n5. [01:34] GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道\n   来源：IT之家\n   链接：https://www.ithome.com/1/009/946.htm\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道” against primary-source evidence.\n\n本次新增线索：\n- 散热制造商 Dynatron 确认 AMD EPYC \"Verano\" 处理器采用 SB1 插槽｜IT之家｜https://www.ithome.com/1/009/967.htm\n- 英伟达RTX Spark笔记本OLED屏幕被韩企包揽：三星六款、LG一款｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-06/doc-iniufxcp5871880.shtml\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Reflection AI releases first open model to rival China｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/reflection-ai-releases-first-open-214803694.html\n2. OpenAI launches visual ads that appear alongside image generation results｜TechCrunch｜https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/\n3. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n4. OpenAI will start watermarking ChatGPT’s text in the EU｜TechCrunch｜https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/\n5. Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
