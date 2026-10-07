@@ -1,31 +1,20 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-10-07T12:49:15.675Z",
+  "generatedAt": "2026-10-07T13:31:27.523Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-07",
   "changeSummary": {
-    "domesticNew": 2,
-    "globalNew": 1,
-    "domesticContinued": 33,
-    "globalContinued": 24,
+    "domesticNew": 1,
+    "globalNew": 0,
+    "domesticContinued": 34,
+    "globalContinued": 21,
     "topNewDomestic": [
       {
-        "title": "马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/1/010/241.htm"
-      },
-      {
-        "title": "长续航磁流变AI轿跑！2027款深蓝L06官宣：配两只“龙虾”",
+        "title": "诺贝尔化学奖揭晓，95岁法国科学家和75岁日本科学家分享，前者25年曾与诺奖“擦肩而过”",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8092529.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8103372.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "You Have Mere Hours to Shop This Samsung Frame TV for $800 Off",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/home-entertainment/tvs/deals/articles/samsung-frame-pro-tv-800-114051860.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
@@ -33,7 +22,7 @@ window.CHENCHEN_DAILY_DATA = {
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
     "domesticRejected": 865,
-    "globalRejected": 875,
+    "globalRejected": 879,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -47,12 +36,27 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 27,
   "failedSources": [
+    {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -60,8 +64,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -72,9 +81,24 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -82,8 +106,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -194,8 +223,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -259,14 +289,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -287,8 +319,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -296,7 +329,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -343,13 +376,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1534,
+  "itemsSeen": 1461,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 223,
-  "itemsAfterDedupe": 156,
+  "itemsAfterRelevantFilter": 178,
+  "itemsAfterDedupe": 130,
   "todayItemsSeen": 35,
   "suspectedItemsSeen": 9,
-  "skippedNonToday": 111,
+  "skippedNonToday": 85,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -452,8 +485,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 63,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -517,14 +551,16 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -545,8 +581,9 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 10,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -554,7 +591,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -756,9 +793,24 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
+      "name": "中国科学院",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -766,8 +818,13 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -802,7 +859,7 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 17,
   "globalItemsSeen": 973,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 177,
+  "globalItemsAfterRelevantFilter": 173,
   "topics": [
     {
       "topic": "AI动态",
@@ -831,8 +888,8 @@ window.CHENCHEN_DAILY_DATA = {
         "科技日报"
       ],
       "items": [
+        "诺贝尔化学奖揭晓，95岁法国科学家和75岁日本科学家分享，前者25年曾与诺奖“擦肩而过”",
         "2026年诺贝尔化学奖揭晓！2名科学家获奖 破解百年难题",
-        "2026 年诺贝尔化学奖公布，两位科学家获奖",
         "诺贝尔化学奖揭晓，两位科学家摘得大奖",
         "我科研团队成功绘制水稻全生命周期时空细胞图谱"
       ]
@@ -1092,74 +1149,6 @@ window.CHENCHEN_DAILY_DATA = {
         "AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营",
-      "summary": "马斯克今日回应称，该工厂将由公司自行建设和运营，“对此不存在任何疑问”。他表示，如果台积电有意，可以租赁 Terafab 的部分产能，但不会有更多参与。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/010/241.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/010/241.htm"
-      ],
-      "publishedAt": "Wed, 07 Oct 2026 09:28:58 GMT",
-      "date": "2026-10-07",
-      "category": "芯片",
-      "classificationConfidence": 0.82,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 171,
-      "reporterScore": 177,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 118
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "芯片动态",
-      "rawText": "马斯克今日回应称，该工厂将由公司自行建设和运营，“对此不存在任何疑问”。他表示，如果台积电有意，可以租赁 Terafab 的部分产能，但不会有更多参与。",
-      "relatedTitles": [
-        "马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1571,6 +1560,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营",
+      "summary": "马斯克今日回应称，该工厂将由公司自行建设和运营，“对此不存在任何疑问”。他表示，如果台积电有意，可以租赁 Terafab 的部分产能，但不会有更多参与。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/010/241.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/010/241.htm"
+      ],
+      "publishedAt": "Wed, 07 Oct 2026 09:28:58 GMT",
+      "date": "2026-10-07",
+      "category": "芯片",
+      "classificationConfidence": 0.82,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 171,
+      "reporterScore": 177,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "芯片动态",
+      "rawText": "马斯克今日回应称，该工厂将由公司自行建设和运营，“对此不存在任何疑问”。他表示，如果台积电有意，可以租赁 Terafab 的部分产能，但不会有更多参与。",
+      "relatedTitles": [
+        "马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "南极和北极打视频电话、延时不超 1 秒，国产卫星系统首次试验成功",
       "summary": "在前不久的中秋节，国产卫星系统首次试验成功，并实现了跨越南北极视频通话，视频延时不超过 1 秒。#国产卫星系统实现跨南北极视频通话#",
       "source": "IT之家",
@@ -1636,6 +1693,74 @@ window.CHENCHEN_DAILY_DATA = {
         "南极和北极打视频电话、延时不超 1 秒，国产卫星系统首次试验成功"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "诺贝尔化学奖揭晓，95岁法国科学家和75岁日本科学家分享，前者25年曾与诺奖“擦肩而过”",
+      "summary": "当地时间2026年10月7日，诺贝尔奖委员会官网宣布，95岁的法国科学家亨利·B·卡甘与76岁的日本科学家硤合宪三获2026年诺贝尔化学奖，二人因解开化学不对称性谜题获奖，相关成果对药物、香料和新材料研发具有革命性意义。卡甘曾在2001年与诺贝尔化学奖擦肩而过，本次获奖并非补发当年奖项。(AI生成)",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8103372.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8103372.shtml"
+      ],
+      "publishedAt": "2026-10-07",
+      "date": "2026-10-07",
+      "category": "科学前沿",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask what is genuinely new, how it was tested and whether the scientific mechanism, evidence and translational boundary creates a credible path toward application. For this item, test the claim behind “诺贝尔化学奖揭晓，95岁法国科学家和75岁日本科学家分享，前者25年曾与诺奖“擦肩而过”” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "当地时间2026年10月7日，诺贝尔奖委员会官网宣布，95岁的法国科学家亨利·B·卡甘与76岁的日本科学家硤合宪三获2026年诺贝尔化学奖，二人因解开化学不对称性谜题获奖，相关成果对药物、香料和新材料研发具有革命性意义。卡甘曾在2001年与诺贝尔化学奖擦肩而过，本次获奖并非补发当年奖项。(AI生成)",
+      "relatedTitles": [
+        "诺贝尔化学奖揭晓，95岁法国科学家和75岁日本科学家分享，前者25年曾与诺奖“擦肩而过”"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1980,7 +2105,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "AMD CEO苏姿丰：计划2027年大幅提高AI芯片供应",
-      "summary": "据报道，AMD董事长兼首席执行官苏姿丰周二表示，随着公司努力满足人工智能硬件需求，AMD计划在2027年进一步增加芯片供应。 苏姿丰表示：“随着2026年推进，我们已经能够提高供应量，2027年我们将大幅增加供应，但我们肯定还需要更...",
+      "summary": "IT之家 10 月 7 日消息，据科技媒体 TechRadar 今天报道，AMD 首席执行官苏姿丰向外界保证，公司将于 2027 年增加 AI 数据中心芯片产量。苏姿丰在中国台湾地区接受采访时表示：“随着 2026 年的推进，我们已经能确保...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -1992,8 +2117,8 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "publishedAt": "2026-10-07",
       "date": "2026-10-07",
-      "category": "AI",
-      "classificationConfidence": 0.7,
+      "category": "芯片",
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2001,7 +2126,7 @@ window.CHENCHEN_DAILY_DATA = {
         "source"
       ],
       "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
       "score": 167,
       "reporterScore": 167,
@@ -2035,8 +2160,8 @@ window.CHENCHEN_DAILY_DATA = {
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AMD CEO苏姿丰：计划2027年大幅提高AI芯片供应” against primary-source evidence.",
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “AMD CEO苏姿丰：计划2027年大幅提高AI芯片供应” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "国产 GPU / 算力基础设施",
       "rawText": "据报道，AMD董事长兼首席执行官苏姿丰周二表示，随着公司努力满足人工智能硬件需求，AMD计划在2027年进一步增加芯片供应。 苏姿丰表示：“随着2026年推进，我们已经能够提高供应量，2027年我们将大幅增加供应，但我们肯定还需要更...",
@@ -2178,142 +2303,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "OpenAI 宣布 ChatGPT 将自动检测 18 岁以下用户并开启青少年版体验模式，限制暴力、色情等敏感内容，误判可通过 Persona 验证年龄。##ChatGPT##OpenAI##青少年保护#",
       "relatedTitles": [
         "OpenAI 为 ChatGPT 新增自动年龄检测，未满 18 岁用户将自动开启青少年模式"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "长续航磁流变AI轿跑！2027款深蓝L06官宣：配两只“龙虾”",
-      "summary": "深蓝汽车官方今日正式官宣了 2027 款深蓝 L06。新车定位“长续航磁流变 AI 轿跑”，号称搭载两只“龙虾”。深蓝汽车董事长邓承浩表示，2027 款深蓝 L06 的两只“龙虾”分别是 AI Agent 和 AI Box，支持一句话理解车主的意图。#2027款深蓝L06#",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8092529.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8092529.shtml"
-      ],
-      "publishedAt": "2026-10-07",
-      "date": "2026-10-07",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “长续航磁流变AI轿跑！2027款深蓝L06官宣：配两只“龙虾”” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "快科技10月7日消息，今日，深蓝汽车正式官宣了2027款深蓝L06，新车定位长续航磁流变AI轿跑，还搭载了两只“龙虾”。据深蓝汽车董事长邓承浩解读，所谓两只“龙虾”实际指代AI Agent和AI Box两套智能系统，它能够读懂用户的一句话复...",
-      "relatedTitles": [
-        "长续航磁流变AI轿跑！2027款深蓝L06官宣：配两只“龙虾”"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "人形机器人还在数据采集中心“学习”，外骨骼已",
-      "summary": "人形机器人还在数据采集中心“学习”，外骨骼已在各大景区“收租” 谁会先赚到钱？,徒步,国庆,登山,外骨骼,数据采集,人形机器人",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L8LEMMBV0512B07B.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L8LEMMBV0512B07B.html"
-      ],
-      "publishedAt": "2026-10-07",
-      "date": "2026-10-07",
-      "category": "机器人",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 160,
-      "reporterScore": 166,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “人形机器人还在数据采集中心“学习”，外骨骼已” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "人形机器人还在数据采集中心“学习”，外骨骼已在各大景区“收租” 谁会先赚到钱？,徒步,国庆,登山,外骨骼,数据采集,人形机器人",
-      "relatedTitles": [
-        "人形机器人还在数据采集中心“学习”，外骨骼已"
       ],
       "isNewSinceLastRun": false
     },
@@ -2590,74 +2579,6 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "2026 年诺贝尔化学奖公布，两位科学家获奖",
-      "summary": "IT之家 10 月 7 日闪讯速报，2026 年诺贝尔化学奖公布，两位科学家获奖。...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukxfz8142938.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukxfz8142938.shtml"
-      ],
-      "publishedAt": "2026-10-07",
-      "date": "2026-10-07",
-      "category": "科学前沿",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “2026 年诺贝尔化学奖公布，两位科学家获奖” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "IT之家 10 月 7 日闪讯速报，2026 年诺贝尔化学奖公布，两位科学家获奖。...",
-      "relatedTitles": [
-        "2026 年诺贝尔化学奖公布，两位科学家获奖"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "诺贝尔化学奖揭晓，两位科学家摘得大奖",
       "summary": "2026年诺贝尔化学奖揭晓，两位科学家摘得大奖,亨利,化学家,诺贝尔奖,诺贝尔化学奖,瑞典皇家科学院",
@@ -2863,6 +2784,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "长续航磁流变AI轿跑！2027款深蓝L06官宣：配两只“龙虾”",
+      "summary": "深蓝汽车官方今日正式官宣了 2027 款深蓝 L06。新车定位“长续航磁流变 AI 轿跑”，号称搭载两只“龙虾”。深蓝汽车董事长邓承浩表示，2027 款深蓝 L06 的两只“龙虾”分别是 AI Agent 和 AI Box，支持一句话理解车主的意图。#2027款深蓝L06#",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8092529.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8092529.shtml"
+      ],
+      "publishedAt": "2026-10-07",
+      "date": "2026-10-07",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “长续航磁流变AI轿跑！2027款深蓝L06官宣：配两只“龙虾”” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技10月7日消息，今日，深蓝汽车正式官宣了2027款深蓝L06，新车定位长续航磁流变AI轿跑，还搭载了两只“龙虾”。据深蓝汽车董事长邓承浩解读，所谓两只“龙虾”实际指代AI Agent和AI Box两套智能系统，它能够读懂用户的一句话复...",
+      "relatedTitles": [
+        "长续航磁流变AI轿跑！2027款深蓝L06官宣：配两只“龙虾”"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "AI 短剧爆火：制作成本仅为真人剧 1/10，平均每 36 秒诞生 1 部",
       "summary": "10月7日，#看完AI短剧只想说真人短剧完了#冲上微博热搜，位居热搜榜第二，热度值1501003。数据显示2026年AI短剧以真人剧十分之一的成本抢占榜单，红果热播榜前20中仅1部为真人剧。一季度上线微短剧AI占比超95%，平均每36秒诞生一部，3人团队5天可产出80集。AI短剧可实现真人剧难拍的大场面，精准契合下沉市",
       "source": "新浪科技",
@@ -2994,6 +2983,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "近岸蛋白：赋能AI的高通量湿实验与数据包服务尚处于市场拓展初期,高通,实验,近岸蛋白,数据包服务",
       "relatedTitles": [
         "近岸蛋白：赋能AI的高通量湿实验与数据包服务尚处于市场拓展初期"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "人形机器人还在数据采集中心“学习”，外骨骼已",
+      "summary": "人形机器人还在数据采集中心“学习”，外骨骼已在各大景区“收租” 谁会先赚到钱？,徒步,国庆,登山,外骨骼,数据采集,人形机器人",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L8LEMMBV0512B07B.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L8LEMMBV0512B07B.html"
+      ],
+      "publishedAt": "2026-10-07",
+      "date": "2026-10-07",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 148,
+      "reporterScore": 154,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 0,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “人形机器人还在数据采集中心“学习”，外骨骼已” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "人形机器人还在数据采集中心“学习”，外骨骼已在各大景区“收租” 谁会先赚到钱？,徒步,国庆,登山,外骨骼,数据采集,人形机器人",
+      "relatedTitles": [
+        "人形机器人还在数据采集中心“学习”，外骨骼已"
       ],
       "isNewSinceLastRun": false
     },
@@ -3409,7 +3466,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职",
-      "summary": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 4分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、Ki",
+      "summary": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 14分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、K",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -3468,7 +3525,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI安全团队 OpenAI安全团队持续地震！负责人离职” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "国家科技战略与监管",
-      "rawText": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 4分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光 索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准 AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "rawText": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 14分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光 索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准 AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
       "relatedTitles": [
         "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职"
       ]
@@ -3535,7 +3592,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “法国和日本科学家，获2026年诺贝尔化学奖” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "科学前沿动态",
-      "rawText": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 法国和日本科学家，获2026年诺贝尔化学奖 陆远声 北京时间10月7日下午，2026年诺贝尔化学奖揭晓。法国科学家亨利·卡根（Henri Kagan）和日本科学家硤合宪三（Kenso Soai）获奖，以表彰他们“在不对称有机合成中发现非线性效应和自催化现象”。 获奖者将平分1200万瑞典克朗（约合802万元人民币）奖金。 据介绍，卡根1930年出生于法国，1960年获法国法兰西公学院博士学位，法国巴黎南大学荣休教授。 硤合宪三，1950年出生于日本广岛。1979年获日本东京大学博士学位，日本东京理科大学名誉教授。 本文系观察者网独家稿件，未经授权，不得转载。 意外落后博索纳罗之子，卢拉团队紧急“换打法” 两针下去都没死，美国女死囚恢复意识，“州长候选人建议改电刑” 每卖6台就有一台中国车，英国人为何爱上中国汽车？ 日本亚组委主席放话“最好别来”，泰国网民炸锅了 演员王星案细节披露：短短4天被转卖3次，用暗号向女友求救 岛内活动被取消，吴奇隆再发俩视频：不赚钱也是这个立场 “有，我就打！” 《欢迎来龙餐馆",
+      "rawText": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 法国和日本科学家，获2026年诺贝尔化学奖 陆远声 北京时间10月7日下午，2026年诺贝尔化学奖揭晓。法国科学家亨利·卡根（Henri Kagan）和日本科学家硤合宪三（Kenso Soai）获奖，以表彰他们“在不对称有机合成中发现非线性效应和自催化现象”。 获奖者将平分1200万瑞典克朗（约合802万元人民币）奖金。 据介绍，卡根1930年出生于法国，1960年获法国法兰西公学院博士学位，法国巴黎南大学荣休教授。 硤合宪三，1950年出生于日本广岛。1979年获日本东京大学博士学位，日本东京理科大学名誉教授。 本文系观察者网独家稿件，未经授权，不得转载。 完全梳理：俄罗斯真的暴发鼠疫？究竟发生了什么？ 特朗普拒绝澄清，CNN却罕见替他“辟谣” 阿塞拜疆总统：世界只有中美两个超级大国，“没有第三个” 法国和日本科学家，获2026年诺贝尔化学奖 意外落后博索纳罗之子，卢拉团队紧急“换打法” 两针下去都没死，美国女死囚恢复意识，“州长候选人建议改电刑” 每卖6台就有一台中国车，英国人为何爱上中国汽车？ 日",
       "relatedTitles": [
         "法国和日本科学家，获2026年诺贝尔化学奖"
       ]
@@ -3743,7 +3800,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 28734",
+      "title": "阅读 28764",
       "summary": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
       "source": "观察者网-产业科技",
       "sources": [
@@ -3800,12 +3857,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "graphic",
-      "angle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “阅读 28734” against primary-source evidence.",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “阅读 28764” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "半导体供应链",
       "rawText": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
       "relatedTitles": [
-        "阅读 28734"
+        "阅读 28764"
       ]
     },
     {
@@ -4106,70 +4163,6 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX is calling out other satellite operators for nearly crashing into Starlink",
-      "summary": "Elon Musk's rocket giant said one of its satellites had a \"knife-edge\" encounter with a rogue satellite in August.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/science/articles/spacex-calling-other-satellite-operators-105557127.html",
-      "publishedAt": "2026-10-07",
-      "date": "2026-10-07",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 70,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX is calling out other satellite operators for nearly crashing into” against primary-source evidence.",
-      "priority": 5,
-      "score": 149,
-      "reporterScore": 155,
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "You Have Mere Hours to Shop This Samsung Frame TV for $800 Off",
-      "summary": "If you've always dreamed of having one of these museum-worthy gadgets but balked at the price, we've got some good news...",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/home-entertainment/tvs/deals/articles/samsung-frame-pro-tv-800-114051860.html",
-      "publishedAt": "2026-10-07",
-      "date": "2026-10-07",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.67,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “You Have Mere Hours to Shop This Samsung Frame TV for $800 Off” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
       "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
       "source": "WIRED Science",
@@ -4202,40 +4195,8 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Wikimedia Foundation comes forward as latest OpenAI agent assault victim",
-      "summary": "Millions of automated requests may have contributed to partial Wikidata outage in May",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/06/wikimedia-foundation-comes-forward-as-latest-openai-agent-assault-victim/5301400",
-      "publishedAt": "Tue, 06 Oct 2026 18:04:15 +0200",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Wikimedia Foundation comes forward as latest OpenAI agent assault victim” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI rolls out weak sauce watermarking for AI text",
-      "summary": "Compliance, we",
+      "summary": "Are we human?",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/06/openai-rolls-out-weak-sauce-watermarking-for-ai-text/5301257",
       "publishedAt": "Tue, 06 Oct 2026 08:02:00 +0200",
@@ -4267,7 +4228,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool",
-      "summary": "Meet RemoveMacAI",
+      "summary": "Are we human?",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213",
       "publishedAt": "Mon, 05 Oct 2026 21:24:19 +0200",
@@ -4280,6 +4241,38 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this o” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "The question you would ask HPE and NVIDIA if nobody was recording",
+      "summary": "Are we human?",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/05/sponsored-the-question-you-would-ask-hpe-and-nvidia-if-nobody-was-recording/5300427",
+      "publishedAt": "Mon, 05 Oct 2026 17:00:00 +0200",
+      "date": "2026-10-05",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “The question you would ask HPE and NVIDIA if nobody was recording” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -4427,7 +4420,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Anthropic reconfigures its cool kids security program",
-      "summary": "Company",
+      "summary": "Are we human?",
       "source": "The Register",
       "url": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
       "publishedAt": "Wed, 07 Oct 2026 01:29:27 +0200",
@@ -4443,38 +4436,6 @@ window.CHENCHEN_DAILY_DATA = {
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI releases 372 math result groups on GitHub",
-      "summary": "The 722 papers span number theory, algebraic geometry, and other fields, and include advances related to 3 remaining Millennium Prize Problems",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-releases-372-math-result-111120408.html",
-      "publishedAt": "2026-10-07",
-      "date": "2026-10-07",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI releases 372 math result groups on GitHub” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4711,42 +4672,10 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "The question you would ask HPE and NVIDIA if nobody was recording",
-      "summary": "SPONSORED: The Register’s data sovereignty dinner in Washington puts HPE’s and NVIDIA’s AI infrastructure leads at one table, off the record, on 29 October.",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/05/sponsored-the-question-you-would-ask-hpe-and-nvidia-if-nobody-was-recording/5300427",
-      "publishedAt": "Mon, 05 Oct 2026 17:00:00 +0200",
-      "date": "2026-10-05",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.68,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “The question you would ask HPE and NVIDIA if nobody was recording” against primary-source evidence.",
-      "priority": 4,
-      "score": 109,
-      "reporterScore": 109,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": true,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 60
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-07｜V3\n生成时间：2026/10/7 20:49:15\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2507｜确认今日 35｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 33 条｜国际 24 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-07] 谷歌 Gmail 新功能曝光：Gemini 帮你回邮件\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniumcqf4570155.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌 Gmail 新功能曝光：Gemini 帮你回邮件” against primary-source evidence.\n\n2. [2026-10-07] AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhkr4939613.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺” against primary-source evidence.\n\n3. [09:28] 马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营\n   IT之家｜2026-10-07｜https://www.ithome.com/1/010/241.htm\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营” against primary-source evidence.\n\n4. [2026-10-07] Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhki8334160.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153” against primary-source evidence.\n\n5. [2026-10-07] 苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈\n   网易科技｜2026-10-07｜https://www.163.com/dy/article/L8L0025805198CJN.html\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈” against primary-source evidence.\n\n本次新增线索：\n- 马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营｜IT之家｜https://www.ithome.com/1/010/241.htm\n- 长续航磁流变AI轿跑！2027款深蓝L06官宣：配两只“龙虾”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8092529.shtml\n- You Have Mere Hours to Shop This Samsung Frame TV for $800 Off｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/deals/articles/samsung-frame-pro-tv-800-114051860.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（4 条，3 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\n2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\n3. Googlebook \"Better Together\" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\n4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-07｜V3\n生成时间：2026/10/7 20:49:15\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2507｜确认今日 35｜国际背景 25\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 33 条｜国际 24 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-07] 谷歌 Gmail 新功能曝光：Gemini 帮你回邮件\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniumcqf4570155.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌 Gmail 新功能曝光：Gemini 帮你回邮件” against primary-source evidence.\n\n2. [2026-10-07] AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhkr4939613.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺” against primary-source evidence.\n\n3. [09:28] 马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营\n   IT之家｜2026-10-07｜https://www.ithome.com/1/010/241.htm\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营” against primary-source evidence.\n\n4. [2026-10-07] Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhki8334160.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153” against primary-source evidence.\n\n5. [2026-10-07] 苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈\n   网易科技｜2026-10-07｜https://www.163.com/dy/article/L8L0025805198CJN.html\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈” against primary-source evidence.\n\n本次新增线索：\n- 马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营｜IT之家｜https://www.ithome.com/1/010/241.htm\n- 长续航磁流变AI轿跑！2027款深蓝L06官宣：配两只“龙虾”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8092529.shtml\n- You Have Mere Hours to Shop This Samsung Frame TV for $800 Off｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/deals/articles/samsung-frame-pro-tv-800-114051860.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（4 条，3 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\n2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\n3. Googlebook \"Better Together\" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\n4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-07｜生成时间：2026/10/7 20:49:15｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2507｜确认今日 35｜国际背景 25</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 1 条<br>延续跟踪线索：国内 33 条｜国际 24 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-07] 谷歌 Gmail 新功能曝光：Gemini 帮你回邮件</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniumcqf4570155.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌 Gmail 新功能曝光：Gemini 帮你回邮件” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-07] AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhkr4939613.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [09:28] 马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营</strong>\n      <span>IT之家｜2026-10-07｜<a href=\"https://www.ithome.com/1/010/241.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：177｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-07] Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhki8334160.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-07] 苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈</strong>\n      <span>网易科技｜2026-10-07｜<a href=\"https://www.163.com/dy/article/L8L0025805198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China</strong>\n      <span>时间：Tue, 06 Oct 2026 13:15:23 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offerin” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust</strong>\n      <span>时间：Tue, 06 Oct 2026 15:15:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Googlebook \"Better Together\" phone features don't work with Samsung at launch</strong>\n      <span>时间：Tue, 06 Oct 2026 16:15:50 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Googlebook \"Better Together\" phone features don't work with Samsung at l” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. The AI boom is making the world’s cheapest smartphones disappear</strong>\n      <span>时间：Mon, 05 Oct 2026 10:00:43 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI boom is making the world’s cheapest smartphones disappear” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots</strong>\n      <span>时间：Tue, 06 Oct 2026 18:48:36 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta joins with group of companies to tame ‘chaos’ of doing business wit” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/7 20:49:15\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 1 条\n延续跟踪线索：国内 33 条｜国际 24 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-07] 谷歌 Gmail 新功能曝光：Gemini 帮你回邮件\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniumcqf4570155.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌 Gmail 新功能曝光：Gemini 帮你回邮件” against primary-source evidence.\n\n2. [2026-10-07] AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhkr4939613.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺” against primary-source evidence.\n\n3. [09:28] 马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营\n   来源：IT之家\n   链接：https://www.ithome.com/1/010/241.htm\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营” against primary-source evidence.\n\n4. [2026-10-07] Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhki8334160.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153” against primary-source evidence.\n\n5. [2026-10-07] 苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L8L0025805198CJN.html\n   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈” against primary-source evidence.\n\n本次新增线索：\n- 马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营｜IT之家｜https://www.ithome.com/1/010/241.htm\n- 长续航磁流变AI轿跑！2027款深蓝L06官宣：配两只“龙虾”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8092529.shtml\n- You Have Mere Hours to Shop This Samsung Frame TV for $800 Off｜Yahoo News Technology｜https://tech.yahoo.com/home-entertainment/tvs/deals/articles/samsung-frame-pro-tv-800-114051860.html\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（4 条，3 个来源）\n\n国际科技背景：\n1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\n2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\n3. Googlebook \"Better Together\" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\n4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-07｜V3\n生成时间：2026/10/7 21:31:27\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2434｜确认今日 35｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 34 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-07] 谷歌 Gmail 新功能曝光：Gemini 帮你回邮件\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniumcqf4570155.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌 Gmail 新功能曝光：Gemini 帮你回邮件” against primary-source evidence.\n\n2. [2026-10-07] AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhkr4939613.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺” against primary-source evidence.\n\n3. [2026-10-07] Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhki8334160.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153” against primary-source evidence.\n\n4. [2026-10-07] 苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈\n   网易科技｜2026-10-07｜https://www.163.com/dy/article/L8L0025805198CJN.html\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈” against primary-source evidence.\n\n5. [2026-10-07] AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能\n   网易科技｜2026-10-07｜https://www.163.com/dy/article/L8KN4D7H05198CJN.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能” against primary-source evidence.\n\n本次新增线索：\n- 诺贝尔化学奖揭晓，95岁法国科学家和75岁日本科学家分享，前者25年曾与诺奖“擦肩而过”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8103372.shtml\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（4 条，3 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\n2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\n3. Googlebook \"Better Together\" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\n4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-07｜V3\n生成时间：2026/10/7 21:31:27\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2434｜确认今日 35｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 34 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-07] 谷歌 Gmail 新功能曝光：Gemini 帮你回邮件\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniumcqf4570155.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌 Gmail 新功能曝光：Gemini 帮你回邮件” against primary-source evidence.\n\n2. [2026-10-07] AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhkr4939613.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺” against primary-source evidence.\n\n3. [2026-10-07] Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhki8334160.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153” against primary-source evidence.\n\n4. [2026-10-07] 苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈\n   网易科技｜2026-10-07｜https://www.163.com/dy/article/L8L0025805198CJN.html\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈” against primary-source evidence.\n\n5. [2026-10-07] AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能\n   网易科技｜2026-10-07｜https://www.163.com/dy/article/L8KN4D7H05198CJN.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能” against primary-source evidence.\n\n本次新增线索：\n- 诺贝尔化学奖揭晓，95岁法国科学家和75岁日本科学家分享，前者25年曾与诺奖“擦肩而过”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8103372.shtml\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（4 条，3 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\n2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\n3. Googlebook \"Better Together\" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\n4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-07｜生成时间：2026/10/7 21:31:27｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2434｜确认今日 35｜国际背景 21</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 34 条｜国际 21 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-07] 谷歌 Gmail 新功能曝光：Gemini 帮你回邮件</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniumcqf4570155.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌 Gmail 新功能曝光：Gemini 帮你回邮件” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-07] AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhkr4939613.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-07] Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhki8334160.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-07] 苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈</strong>\n      <span>网易科技｜2026-10-07｜<a href=\"https://www.163.com/dy/article/L8L0025805198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-07] AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能</strong>\n      <span>网易科技｜2026-10-07｜<a href=\"https://www.163.com/dy/article/L8KN4D7H05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China</strong>\n      <span>时间：Tue, 06 Oct 2026 13:15:23 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offerin” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust</strong>\n      <span>时间：Tue, 06 Oct 2026 15:15:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Googlebook \"Better Together\" phone features don't work with Samsung at launch</strong>\n      <span>时间：Tue, 06 Oct 2026 16:15:50 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Googlebook \"Better Together\" phone features don't work with Samsung at l” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. The AI boom is making the world’s cheapest smartphones disappear</strong>\n      <span>时间：Mon, 05 Oct 2026 10:00:43 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI boom is making the world’s cheapest smartphones disappear” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots</strong>\n      <span>时间：Tue, 06 Oct 2026 18:48:36 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta joins with group of companies to tame ‘chaos’ of doing business wit” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/7 21:31:27\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 34 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-07] 谷歌 Gmail 新功能曝光：Gemini 帮你回邮件\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniumcqf4570155.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌 Gmail 新功能曝光：Gemini 帮你回邮件” against primary-source evidence.\n\n2. [2026-10-07] AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhkr4939613.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺” against primary-source evidence.\n\n3. [2026-10-07] Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhki8334160.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153” against primary-source evidence.\n\n4. [2026-10-07] 苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L8L0025805198CJN.html\n   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈” against primary-source evidence.\n\n5. [2026-10-07] AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L8KN4D7H05198CJN.html\n   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能” against primary-source evidence.\n\n本次新增线索：\n- 诺贝尔化学奖揭晓，95岁法国科学家和75岁日本科学家分享，前者25年曾与诺奖“擦肩而过”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8103372.shtml\n\n今日热点方向：\n- AI 应用：AI动态（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（4 条，3 个来源）\n\n国际科技背景：\n1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\n2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\n3. Googlebook \"Better Together\" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\n4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
