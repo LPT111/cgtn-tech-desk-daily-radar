@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/7 10:27:57
+生成时间：2026/10/7 20:01:04
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 5 条｜国际 0 条
-延续跟踪线索：国内 12 条｜国际 21 条
+新增核心线索：国内 33 条｜国际 6 条
+延续跟踪线索：国内 6 条｜国际 20 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-07] 波士顿动力换帅！亚马逊前高管普拉萨德出任CEO
+1. [2026-10-07] 谷歌 Gmail 新功能曝光：Gemini 帮你回邮件
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniukhki8266079.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “波士顿动力换帅！亚马逊前高管普拉萨德出任CEO” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniumcqf4570155.shtml
+   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌 Gmail 新功能曝光：Gemini 帮你回邮件” against primary-source evidence.
 
-2. [2026-10-07] 大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞
+2. [2026-10-07] AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml
-   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhkr4939613.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺” against primary-source evidence.
 
-3. [2026-10-07] AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L8KN4D7H05198CJN.html
-   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能” against primary-source evidence.
-
-4. [2026-10-07] 落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”
+3. [2026-10-07] 马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaaq6275998.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukxhc4907164.shtml
+   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营” against primary-source evidence.
 
-5. [01:01] 谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性
-   来源：IT之家
-   链接：https://www.ithome.com/1/010/149.htm
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性” against primary-source evidence.
+4. [2026-10-07] Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhki8334160.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153” against primary-source evidence.
+
+5. [2026-10-07] 纳微半导体与微芯科技合作推出面向 AI 数据中心的 800V 参考设计
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniukxfz8134103.shtml
+   角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “纳微半导体与微芯科技合作推出面向 AI 数据中心的 800V 参考设计” against primary-source evidence.
 
 本次新增线索：
-- AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能｜网易科技｜https://www.163.com/dy/article/L8KN4D7H05198CJN.html
-- 谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性｜IT之家｜https://www.ithome.com/1/010/149.htm
-- LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型｜IT之家｜https://www.ithome.com/1/010/132.htm
-- 德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4922796.shtml
-- 蔚来换电单日总量达183664次再创历史新高，累计提供超过1.27亿次换电服务｜新浪科技｜https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhkn6196959.shtml
+- 谷歌 Gmail 新功能曝光：Gemini 帮你回邮件｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniumcqf4570155.shtml
+- AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhkr4939613.shtml
+- 马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukxhc4907164.shtml
+- Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhki8334160.shtml
+- 纳微半导体与微芯科技合作推出面向 AI 数据中心的 800V 参考设计｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniukxfz8134103.shtml
+- SpaceX is calling out other satellite operators for nearly crashing into Starlink｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-calling-other-satellite-operators-105557127.html
 
 今日热点方向：
-- AI 应用：AI动态（5 条，2 个来源）
-- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）
+- AI 应用：AI动态（8 条，3 个来源）
+- 芯片/半导体：半导体供应链（3 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
-- 太空与低空经济：太空与低空动态（2 条，1 个来源）
-- 科学前沿：
+- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（4 条，3 个来源）
 
 国际科技背景：
 1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/
-2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/
-3. Googlebook "Better Together" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/
-4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html
+2. SpaceX is calling out other satellite operators for nearly crashing into Starlink｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-calling-other-satellite-operators-105557127.html
+3. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/
+4. Googlebook "Better Together" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/
+5. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
