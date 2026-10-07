@@ -1,27 +1,37 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-10-07T02:16:21.092Z",
+  "generatedAt": "2026-10-07T02:27:57.427Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-07",
   "changeSummary": {
-    "domesticNew": 3,
+    "domesticNew": 5,
     "globalNew": 0,
     "domesticContinued": 12,
     "globalContinued": 21,
     "topNewDomestic": [
       {
-        "title": "大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml"
+        "title": "AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/L8KN4D7H05198CJN.html"
       },
       {
-        "title": "中国团队全球首次构建水稻全生命周期三维时空细胞图谱",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4911148.shtml"
+        "title": "谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/010/149.htm"
+      },
+      {
+        "title": "LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/010/132.htm"
       },
       {
         "title": "德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/1/010/165.htm"
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4922796.shtml"
+      },
+      {
+        "title": "蔚来换电单日总量达183664次再创历史新高，累计提供超过1.27亿次换电服务",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhkn6196959.shtml"
       }
     ],
     "topNewGlobal": [],
@@ -31,7 +41,7 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 885,
+    "domesticRejected": 883,
     "globalRejected": 879,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -46,13 +56,8 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 26,
+  "successSources": 30,
   "failedSources": [
-    {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -64,29 +69,14 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -96,11 +86,6 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "failures": [
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -111,29 +96,14 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -145,7 +115,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 171,
+      "parsed": 172,
       "failed": false,
       "optional": false
     },
@@ -243,9 +213,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -317,8 +286,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -339,9 +307,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -362,9 +329,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -397,18 +363,18 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     }
   ],
-  "itemsSeen": 1409,
+  "itemsSeen": 1544,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 191,
-  "itemsAfterDedupe": 126,
-  "todayItemsSeen": 15,
+  "itemsAfterRelevantFilter": 238,
+  "itemsAfterDedupe": 153,
+  "todayItemsSeen": 17,
   "suspectedItemsSeen": 11,
-  "skippedNonToday": 98,
+  "skippedNonToday": 123,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 171,
+      "parsed": 172,
       "failed": false,
       "optional": false
     },
@@ -506,9 +472,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "中国科学院",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 63,
+      "failed": false,
       "optional": false
     },
     {
@@ -580,8 +545,7 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -602,9 +566,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -625,9 +588,8 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -815,11 +777,6 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "domesticFailedSources": [
     {
-      "name": "中国科学院",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -830,29 +787,14 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": false
     },
     {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
       "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -891,16 +833,44 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "topic": "AI动态",
       "count": 5,
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": [
-        "新浪科技"
+        "新浪科技",
+        "IT之家"
       ],
       "items": [
         "落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”",
-        "中国团队全球首次构建水稻全生命周期三维时空细胞图谱",
+        "谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性",
         "LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型",
-        "刚刚，Nano Banana 2.1发布！这一次杀向专业设计师",
+        "中国团队全球首次构建水稻全生命周期三维时空细胞图谱",
         "HubSpot裁员7%，称并非因为AI"
+      ]
+    },
+    {
+      "topic": "新能源车动态",
+      "count": 3,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%",
+        "Cybercab 欧洲首秀：特斯拉将携无人驾驶出租车亮相巴黎车展",
+        "蔚来换电单日总量达183664次再创历史新高，累计提供超过1.27亿次换电服务"
+      ]
+    },
+    {
+      "topic": "国产 GPU / 算力基础设施",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能",
+        "AMD CEO苏姿丰：计划2027年大幅提高AI芯片供应"
       ]
     },
     {
@@ -913,18 +883,6 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞",
         "中国空间站将迎首批外籍航天员！杨利伟：两名预备航天员训练非常优异"
-      ]
-    },
-    {
-      "topic": "新能源车动态",
-      "count": 2,
-      "sourceCount": 1,
-      "sources": [
-        "IT之家"
-      ],
-      "items": [
-        "Cybercab 欧洲首秀：特斯拉将携无人驾驶出租车亮相巴黎车展",
-        "德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%"
       ]
     },
     {
@@ -947,17 +905,6 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "10月7日外盘头条：Anthropic扩大先进AI模型访问权限 Meta和沃尔玛制定个人代理协议 法国25万人参加抗议活动"
-      ]
-    },
-    {
-      "topic": "国产 GPU / 算力基础设施",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "AMD CEO苏姿丰：计划2027年大幅提高AI芯片供应"
       ]
     },
     {
@@ -995,74 +942,6 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞",
-      "summary": "2024年10月7日，2月刚成立的深圳大航跃迁航天科技公布“筷子夹火箭”工程进展。作为国内首家研制该类塔架回收式可重复使用液体火箭的企业，其已完成国内首个“筷子夹”回收塔架地面试验，迭代推出国内首款回收塔架控制器“小火石”，通过相关试验获取上百个测点的结构响应数据。其首型火箭“跃迁一号”近期完成多项地面试验，研制提速，",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml"
-      ],
-      "publishedAt": "2026-10-07",
-      "date": "2026-10-07",
-      "category": "太空与低空",
-      "classificationConfidence": 0.81,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "priority": 5,
-      "score": 175,
-      "reporterScore": 197,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 133
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "太空与低空动态",
-      "rawText": "2024年10月7日，2月刚成立的深圳大航跃迁航天科技公布“筷子夹火箭”工程进展。作为国内首家研制该类塔架回收式可重复使用液体火箭的企业，其已完成国内首个“筷子夹”回收塔架地面试验，迭代推出国内首款回收塔架控制器“小火石”，通过相关试验获取上百个测点的结构响应数据。其首型火箭“跃迁一号”近期完成多项地面试验，研制提速，向着2027年首飞目标迈进，后续还规划搭建海上回收塔架平台。(AI生成)",
-      "relatedTitles": [
-        "大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞"
-      ],
-      "isNewSinceLastRun": true
-    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "波士顿动力换帅！亚马逊前高管普拉萨德出任CEO",
@@ -1133,6 +1012,142 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞",
+      "summary": "2024年10月7日，2月刚成立的深圳大航跃迁航天科技公布“筷子夹火箭”工程进展。作为国内首家研制该类塔架回收式可重复使用液体火箭的企业，其已完成国内首个“筷子夹”回收塔架地面试验，迭代推出国内首款回收塔架控制器“小火石”，通过相关试验获取上百个测点的结构响应数据。其首型火箭“跃迁一号”近期完成多项地面试验，研制提速，",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml"
+      ],
+      "publishedAt": "2026-10-07",
+      "date": "2026-10-07",
+      "category": "太空与低空",
+      "classificationConfidence": 0.81,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 175,
+      "reporterScore": 197,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 133
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "太空与低空动态",
+      "rawText": "2024年10月7日，2月刚成立的深圳大航跃迁航天科技公布“筷子夹火箭”工程进展。作为国内首家研制该类塔架回收式可重复使用液体火箭的企业，其已完成国内首个“筷子夹”回收塔架地面试验，迭代推出国内首款回收塔架控制器“小火石”，通过相关试验获取上百个测点的结构响应数据。其首型火箭“跃迁一号”近期完成多项地面试验，研制提速，向着2027年首飞目标迈进，后续还规划搭建海上回收塔架平台。(AI生成)",
+      "relatedTitles": [
+        "大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能",
+      "summary": "AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能,矽格,gpu,硅光子,ai芯片,半导体生产设备",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L8KN4D7H05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L8KN4D7H05198CJN.html"
+      ],
+      "publishedAt": "2026-10-07",
+      "date": "2026-10-07",
+      "category": "芯片",
+      "classificationConfidence": 0.92,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 175,
+      "reporterScore": 183,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能,矽格,gpu,硅光子,ai芯片,半导体生产设备",
+      "relatedTitles": [
+        "AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”",
       "summary": "IT之家 10 月 7 日消息，路透社看到的一份备忘录显示，美国司法部于当地时间周二向内部工作人员下达指示：在绝大多数场合提及这项技术时（包括法庭相关文书当中），应当使用“超级智能”，而不再使用“人工智能”一词。代理副总检察长特伦特 · 麦...",
       "source": "新浪科技",
@@ -1200,22 +1215,22 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "中国团队全球首次构建水稻全生命周期三维时空细胞图谱",
-      "summary": "10月6日晚，我国多科研机构协作完成的水稻研究成果在线发表于国际学术期刊《细胞》。我国团队全球首次构建覆盖水稻从种子萌发到开花结实全过程的三维时空细胞图谱，整合多类测序技术，为水稻生长发育研究、籽粒品质改良提供新资源。该成果明确功能基因在水稻全生育期不同组织的表达位置，开辟高产稳产精准设计育种新路径。我国科研人员同步搭",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性",
+      "summary": "新版在视觉设计、蒙版编辑和主体一致性上重点改进，支持多模态输入与 1K/2K/4K 图像输出，已覆盖 Gemini 应用、谷歌搜索 AI 模式及企业平台。#谷歌##NanoBanana##AI图像生成#",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4911148.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/010/149.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4911148.shtml"
+        "https://www.ithome.com/1/010/149.htm"
       ],
-      "publishedAt": "2026-10-07",
+      "publishedAt": "Wed, 07 Oct 2026 01:01:58 GMT",
       "date": "2026-10-07",
       "category": "AI",
-      "classificationConfidence": 0.76,
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1225,82 +1240,14 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 164,
-      "reporterScore": 172,
+      "score": 159,
+      "reporterScore": 167,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国团队全球首次构建水稻全生命周期三维时空细胞图谱” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "10月6日晚，我国多科研机构协作完成的水稻研究成果在线发表于国际学术期刊《细胞》。我国团队全球首次构建覆盖水稻从种子萌发到开花结实全过程的三维时空细胞图谱，整合多类测序技术，为水稻生长发育研究、籽粒品质改良提供新资源。该成果明确功能基因在水稻全生育期不同组织的表达位置，开辟高产稳产精准设计育种新路径。我国科研人员同步搭建供全球研究者使用的数据库与水稻单细胞基础模型，支持基因查询等功能，助力定向优化水稻性状，减少不利连锁反应。(AI生成)",
-      "relatedTitles": [
-        "中国团队全球首次构建水稻全生命周期三维时空细胞图谱"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型",
-      "summary": "IT之家 10 月 7 日消息，如果你正在寻找一款不使用人工智能的文档编辑软件，LibreOffice 或许正是适合你的选择。开发这款开源文档编辑软件 LibreOffice 的非营利机构文档基金会（The Document Foundat...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaap5098752.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaap5098752.shtml"
-      ],
-      "publishedAt": "2026-10-07",
-      "date": "2026-10-07",
-      "category": "AI",
-      "classificationConfidence": 0.88,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 175,
-      "reporterScore": 183,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
         "visual": 0,
         "international": 0,
         "policy": 0,
@@ -1326,14 +1273,150 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型” against primary-source evidence.",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI动态",
-      "rawText": "IT之家 10 月 7 日消息，如果你正在寻找一款不使用人工智能的文档编辑软件，LibreOffice 或许正是适合你的选择。开发这款开源文档编辑软件 LibreOffice 的非营利机构文档基金会（The Document Foundat...",
+      "rawText": "新版在视觉设计、蒙版编辑和主体一致性上重点改进，支持多模态输入与 1K/2K/4K 图像输出，已覆盖 Gemini 应用、谷歌搜索 AI 模式及企业平台。#谷歌##NanoBanana##AI图像生成#",
+      "relatedTitles": [
+        "谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型",
+      "summary": "开源办公软件 LibreOffice 所属机构近日明确表态，可预见未来不会内置 AI 功能，将坚持数据本地存储保障用户安全，有 AI 需求的用户可自行安装扩展对接本地模型。#LibreOffice# #AI办公#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/010/132.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/010/132.htm"
+      ],
+      "publishedAt": "Tue, 06 Oct 2026 23:19:20 GMT",
+      "date": "2026-10-07",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "开源办公软件 LibreOffice 所属机构近日明确表态，可预见未来不会内置 AI 功能，将坚持数据本地存储保障用户安全，有 AI 需求的用户可自行安装扩展对接本地模型。#LibreOffice# #AI办公#",
       "relatedTitles": [
         "LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型"
       ],
-      "isNewSinceLastRun": false
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%",
+      "summary": "10月7日消息，德国已准备支持特斯拉监督版FSD在欧洲落地，要求其更名Tesla Assisted Driving（TAD），且系统自动行驶时超速幅度最高不超10%，此前该功能特定工况下可超限速50%。德交通部长9月已与特斯拉达成共识，将推动其获欧盟批准。目前全球共16国批准FSD，欧洲占8国。原定于10月6日的欧盟F",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4922796.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4922796.shtml"
+      ],
+      "publishedAt": "2026-10-07",
+      "date": "2026-10-07",
+      "category": "新能源车",
+      "classificationConfidence": 0.81,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 154,
+      "reporterScore": 162,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "10月7日消息，德国已准备支持特斯拉监督版FSD在欧洲落地，要求其更名Tesla Assisted Driving（TAD），且系统自动行驶时超速幅度最高不超10%，此前该功能特定工况下可超限速50%。德交通部长9月已与特斯拉达成共识，将推动其获欧盟批准。目前全球共16国批准FSD，欧洲占8国。原定于10月6日的欧盟FSD审批投票推迟至12月，特斯拉需获至少15国支持才能通过，当前正逐个争取成员国单独审批。瑞典、法国等此前持反对态度，最终投票结果暂未可知。(AI生成)",
+      "relatedTitles": [
+        "德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1404,6 +1487,74 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "中国团队全球首次构建水稻全生命周期三维时空细胞图谱",
+      "summary": "10月6日晚，我国多科研机构协作完成的水稻研究成果在线发表于国际学术期刊《细胞》。我国团队全球首次构建覆盖水稻从种子萌发到开花结实全过程的三维时空细胞图谱，整合多类测序技术，为水稻生长发育研究、籽粒品质改良提供新资源。该成果明确功能基因在水稻全生育期不同组织的表达位置，开辟高产稳产精准设计育种新路径。我国科研人员同步搭",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4911148.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4911148.shtml"
+      ],
+      "publishedAt": "2026-10-07",
+      "date": "2026-10-07",
+      "category": "AI",
+      "classificationConfidence": 0.76,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 164,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国团队全球首次构建水稻全生命周期三维时空细胞图谱” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "10月6日晚，我国多科研机构协作完成的水稻研究成果在线发表于国际学术期刊《细胞》。我国团队全球首次构建覆盖水稻从种子萌发到开花结实全过程的三维时空细胞图谱，整合多类测序技术，为水稻生长发育研究、籽粒品质改良提供新资源。该成果明确功能基因在水稻全生育期不同组织的表达位置，开辟高产稳产精准设计育种新路径。我国科研人员同步搭建供全球研究者使用的数据库与水稻单细胞基础模型，支持基因查询等功能，助力定向优化水稻性状，减少不利连锁反应。(AI生成)",
+      "relatedTitles": [
+        "中国团队全球首次构建水稻全生命周期三维时空细胞图谱"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "Cybercab 欧洲首秀：特斯拉将携无人驾驶出租车亮相巴黎车展",
       "summary": "据彭博社报道，特斯拉将在 10 月 12 日开幕的巴黎车展展出 Cybercab 无人驾驶出租车，这是该车首次在欧洲公开亮相，参观者可试驾特斯拉其他 6 款搭载 FSD 的车型。#巴黎车展# #特斯拉Cybercab#",
@@ -1470,142 +1621,6 @@ window.CHENCHEN_DAILY_DATA = {
         "Cybercab 欧洲首秀：特斯拉将携无人驾驶出租车亮相巴黎车展"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "刚刚，Nano Banana 2.1发布！这一次杀向专业设计师",
-      "summary": "Nano Banana 2 推出几个月之后，谷歌终于更新了这条产品线。就在今天凌晨，Google DeepMind 正式发布 Nano Banana 2.1。从命名看，这只是一次「0.1」级别的升级，但谷歌给出的评价相当直接：新版在此前 N...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniuivuv5123507.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniuivuv5123507.shtml"
-      ],
-      "publishedAt": "2026-10-07",
-      "date": "2026-10-07",
-      "category": "AI",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “刚刚，Nano Banana 2.1发布！这一次杀向专业设计师” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "Nano Banana 2 推出几个月之后，谷歌终于更新了这条产品线。就在今天凌晨，Google DeepMind 正式发布 Nano Banana 2.1。从命名看，这只是一次「0.1」级别的升级，但谷歌给出的评价相当直接：新版在此前 N...",
-      "relatedTitles": [
-        "刚刚，Nano Banana 2.1发布！这一次杀向专业设计师"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%",
-      "summary": "德国已和特斯拉达成共识，支持 FSD 在欧盟落地，但要求将 FSD 更名为 TAD，且超速幅度不超 10%。欧盟审批投票推迟至 12 月，目前已有 8 个欧洲国家批准 FSD。#特斯拉FSD#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/010/165.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/010/165.htm"
-      ],
-      "publishedAt": "Wed, 07 Oct 2026 02:15:04 GMT",
-      "date": "2026-10-07",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 158,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "德国已和特斯拉达成共识，支持 FSD 在欧盟落地，但要求将 FSD 更名为 TAD，且超速幅度不超 10%。欧盟审批投票推迟至 12 月，目前已有 8 个欧洲国家批准 FSD。#特斯拉FSD#",
-      "relatedTitles": [
-        "德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1880,6 +1895,74 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "蔚来换电单日总量达183664次再创历史新高，累计提供超过1.27亿次换电服务",
+      "summary": "新浪科技讯 10月7日上午消息，蔚来宣布，10月5日，蔚来换电单日总量达183664次，再创历史新高，平均0.47秒就有一台蔚来、乐道、萤火虫完成换电。 10月5日换电单量前三的高速换电站分别是：山东日照·G15沈海高速日照服务区海...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhkn6196959.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhkn6196959.shtml"
+      ],
+      "publishedAt": "2026-10-07",
+      "date": "2026-10-07",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Report the industrial consequence of battery innovation and infrastructure: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “蔚来换电单日总量达183664次再创历史新高，累计提供超过1.27亿次换电服务” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "新浪科技讯 10月7日上午消息，蔚来宣布，10月5日，蔚来换电单日总量达183664次，再创历史新高，平均0.47秒就有一台蔚来、乐道、萤火虫完成换电。 10月5日换电单量前三的高速换电站分别是：山东日照·G15沈海高速日照服务区海...",
+      "relatedTitles": [
+        "蔚来换电单日总量达183664次再创历史新高，累计提供超过1.27亿次换电服务"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "已挖出十几万漏洞，Anthropic 向更多安全团队开放其最强 Claude 模型",
       "summary": "Anthropic 公布新版网络核验计划，整合玻璃翼计划与旧版 CVP，分三个层级向审核通过的机构和研究人员开放 Claude Mythos 等模型，用于漏洞挖掘与安全防护。#Anthropic##网络安全##AI安全#",
@@ -2087,7 +2170,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "为人民群众幸福生活拼搏奉献服务",
-      "summary": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 学习新语·家国同心｜崇尚英雄才会产生英雄 10/07/2026 08:46:32 更多细节曝出，日本民众怒了：究竟还要忍多久？ 耶伦也窜出来了：加拿大就该报复美国，不团结怎么对付中国？ “中国拟推候选人角逐世卫总干事” SpaceX考虑",
+      "summary": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 【新思想引领新征程】大食物观里的中国味道 10/07/2026 08:46:29 更多细节曝出，日本民众怒了：究竟还要忍多久？ 耶伦也窜出来了：加拿大就该报复美国，不团结怎么对付中国？ “中国拟推候选人角逐世卫总干事” SpaceX考虑",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2221,7 +2304,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职",
-      "summary": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 4分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、Ki",
+      "summary": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 14分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、K",
       "source": "量子位",
       "sources": [
         "量子位"
@@ -2280,7 +2363,7 @@ window.CHENCHEN_DAILY_DATA = {
       "angle": "Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI安全团队 OpenAI安全团队持续地震！负责人离职” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "国家科技战略与监管",
-      "rawText": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 4分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光 索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准 AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "rawText": "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 又咋啦。。。 衡宇 14分钟前 OpenAI安全团队 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光 索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准 AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
       "relatedTitles": [
         "OpenAI安全团队 OpenAI安全团队持续地震！负责人离职"
       ]
@@ -2488,6 +2571,140 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "芯片不认新闻稿，英国半导体雄心卡在哪？",
+      "summary": "重组一个机构并不难。真正的考验，是证明英国能够建立并留住一个足以满足自身AI和国防需求的半导体产业。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_10_01_902820.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/shijiekexiansheng/2026_10_01_902820.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 139,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “芯片不认新闻稿，英国半导体雄心卡在哪？” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "重组一个机构并不难。真正的考验，是证明英国能够建立并留住一个足以满足自身AI和国防需求的半导体产业。",
+      "relatedTitles": [
+        "芯片不认新闻稿，英国半导体雄心卡在哪？"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "阅读 28350",
+      "summary": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_09_30_902661.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/shijiekexiansheng/2026_09_30_902661.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "芯片",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 4,
+      "score": 139,
+      "reporterScore": 139,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “阅读 28350” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
+      "relatedTitles": [
+        "阅读 28350"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "中国电信通报“郑季衍实名举报多名高管”",
       "summary": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 中国电信通报“郑季衍实名举报多名高管”：其言论与事实不符 陆远声 近日，自称中国电信原员工的郑季衍在网上实名举报，受到广泛关注。 10月6日下午，中国电信股份有限公司大客户事业部在官方公众号“中国电信政企服务”发布贴图称，关注到郑季衍相",
       "source": "观察者网-产业科技",
@@ -2551,140 +2768,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 中国电信通报“郑季衍实名举报多名高管”：其言论与事实不符 陆远声 近日，自称中国电信原员工的郑季衍在网上实名举报，受到广泛关注。 10月6日下午，中国电信股份有限公司大客户事业部在官方公众号“中国电信政企服务”发布贴图称，关注到郑季衍相关信息，“郑季衍原为我部门员工，自2023年起无理由旷工635天，期间多次劝说无效”。依据有关规定，于2026年8月31日依法解除与郑季衍的劳动关系。 至于郑季衍所提及的工业互联网大数据中心项目，中国电信股份有限公司大客户事业部表示，已于2024年进行过内部专项核查，其言论与事实不符。 据经济导报此前报道，10月5日，原中国电信集团员工郑某实名举报中国电信多名高管一事经媒体报道后引发市场关注。据郑某公开的举报内容，其曾参与“国家工业互联网大数据中心”项目，指控该项目存在组织围标串标、伪造合同等问题，涉嫌违规套取3800万元财政资金。 此外，项目账目还被指存在资金违规分流、责任人带病破格提拔、政企与工联院双向人事利益输送等问题。 郑某称，其此前曾通过内部渠道反映相关问题，于",
       "relatedTitles": [
         "中国电信通报“郑季衍实名举报多名高管”"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "芯片不认新闻稿，英国半导体雄心卡在哪？",
-      "summary": "重组一个机构并不难。真正的考验，是证明英国能够建立并留住一个足以满足自身AI和国防需求的半导体产业。",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_10_01_902820.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/shijiekexiansheng/2026_10_01_902820.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 4,
-      "score": 129,
-      "reporterScore": 129,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “芯片不认新闻稿，英国半导体雄心卡在哪？” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "重组一个机构并不难。真正的考验，是证明英国能够建立并留住一个足以满足自身AI和国防需求的半导体产业。",
-      "relatedTitles": [
-        "芯片不认新闻稿，英国半导体雄心卡在哪？"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 28340",
-      "summary": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
-      "source": "观察者网-产业科技",
-      "sources": [
-        "观察者网-产业科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_09_30_902661.shtml",
-      "sourceUrls": [
-        "https://www.guancha.cn/shijiekexiansheng/2026_09_30_902661.shtml"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "芯片",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 4,
-      "score": 129,
-      "reporterScore": 129,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “阅读 28340” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "这种按利润的一定比例返还给员工的“N%绩效奖金”要求，正从半导体行业向其他领域蔓延。",
-      "relatedTitles": [
-        "阅读 28340"
       ]
     },
     {
@@ -3429,8 +3512,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-07｜V3\n生成时间：2026/10/7 10:16:21\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2382｜确认今日 15｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-07] 大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞” against primary-source evidence.\n\n2. [2026-10-07] 波士顿动力换帅！亚马逊前高管普拉萨德出任CEO\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniukhki8266079.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “波士顿动力换帅！亚马逊前高管普拉萨德出任CEO” against primary-source evidence.\n\n3. [2026-10-07] 落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaaq6275998.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”” against primary-source evidence.\n\n4. [2026-10-07] 中国团队全球首次构建水稻全生命周期三维时空细胞图谱\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4911148.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国团队全球首次构建水稻全生命周期三维时空细胞图谱” against primary-source evidence.\n\n5. [2026-10-07] LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaap5098752.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型” against primary-source evidence.\n\n本次新增线索：\n- 大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml\n- 中国团队全球首次构建水稻全生命周期三维时空细胞图谱｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4911148.shtml\n- 德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%｜IT之家｜https://www.ithome.com/1/010/165.htm\n\n今日热点方向：\n- AI 应用：AI动态（5 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\n2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\n3. Googlebook \"Better Together\" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\n4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-07｜V3\n生成时间：2026/10/7 10:16:21\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2382｜确认今日 15｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-07] 大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞” against primary-source evidence.\n\n2. [2026-10-07] 波士顿动力换帅！亚马逊前高管普拉萨德出任CEO\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniukhki8266079.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “波士顿动力换帅！亚马逊前高管普拉萨德出任CEO” against primary-source evidence.\n\n3. [2026-10-07] 落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaaq6275998.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”” against primary-source evidence.\n\n4. [2026-10-07] 中国团队全球首次构建水稻全生命周期三维时空细胞图谱\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4911148.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国团队全球首次构建水稻全生命周期三维时空细胞图谱” against primary-source evidence.\n\n5. [2026-10-07] LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaap5098752.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型” against primary-source evidence.\n\n本次新增线索：\n- 大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml\n- 中国团队全球首次构建水稻全生命周期三维时空细胞图谱｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4911148.shtml\n- 德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%｜IT之家｜https://www.ithome.com/1/010/165.htm\n\n今日热点方向：\n- AI 应用：AI动态（5 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\n2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\n3. Googlebook \"Better Together\" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\n4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-07｜生成时间：2026/10/7 10:16:21｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2382｜确认今日 15｜国际背景 21</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 0 条<br>延续跟踪线索：国内 12 条｜国际 21 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-07] 大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-07] 波士顿动力换帅！亚马逊前高管普拉萨德出任CEO</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniukhki8266079.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “波士顿动力换帅！亚马逊前高管普拉萨德出任CEO” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-07] 落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaaq6275998.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-07] 中国团队全球首次构建水稻全生命周期三维时空细胞图谱</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4911148.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：172｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国团队全球首次构建水稻全生命周期三维时空细胞图谱” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-07] LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaap5098752.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China</strong>\n      <span>时间：Tue, 06 Oct 2026 13:15:23 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offerin” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust</strong>\n      <span>时间：Tue, 06 Oct 2026 15:15:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Googlebook \"Better Together\" phone features don't work with Samsung at launch</strong>\n      <span>时间：Tue, 06 Oct 2026 16:15:50 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Googlebook \"Better Together\" phone features don't work with Samsung at l” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. The AI boom is making the world’s cheapest smartphones disappear</strong>\n      <span>时间：Mon, 05 Oct 2026 10:00:43 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI boom is making the world’s cheapest smartphones disappear” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots</strong>\n      <span>时间：Tue, 06 Oct 2026 18:48:36 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta joins with group of companies to tame ‘chaos’ of doing business wit” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/7 10:16:21\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-07] 大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞” against primary-source evidence.\n\n2. [2026-10-07] 波士顿动力换帅！亚马逊前高管普拉萨德出任CEO\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniukhki8266079.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “波士顿动力换帅！亚马逊前高管普拉萨德出任CEO” against primary-source evidence.\n\n3. [2026-10-07] 落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaaq6275998.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”” against primary-source evidence.\n\n4. [2026-10-07] 中国团队全球首次构建水稻全生命周期三维时空细胞图谱\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4911148.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中国团队全球首次构建水稻全生命周期三维时空细胞图谱” against primary-source evidence.\n\n5. [2026-10-07] LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaap5098752.shtml\n   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型” against primary-source evidence.\n\n本次新增线索：\n- 大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml\n- 中国团队全球首次构建水稻全生命周期三维时空细胞图谱｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4911148.shtml\n- 德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%｜IT之家｜https://www.ithome.com/1/010/165.htm\n\n今日热点方向：\n- AI 应用：AI动态（5 条，1 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\n2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\n3. Googlebook \"Better Together\" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\n4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-07｜V3\n生成时间：2026/10/7 10:27:57\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2517｜确认今日 17｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-07] 波士顿动力换帅！亚马逊前高管普拉萨德出任CEO\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniukhki8266079.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “波士顿动力换帅！亚马逊前高管普拉萨德出任CEO” against primary-source evidence.\n\n2. [2026-10-07] 大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞” against primary-source evidence.\n\n3. [2026-10-07] AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能\n   网易科技｜2026-10-07｜https://www.163.com/dy/article/L8KN4D7H05198CJN.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能” against primary-source evidence.\n\n4. [2026-10-07] 落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaaq6275998.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”” against primary-source evidence.\n\n5. [01:01] 谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性\n   IT之家｜2026-10-07｜https://www.ithome.com/1/010/149.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性” against primary-source evidence.\n\n本次新增线索：\n- AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能｜网易科技｜https://www.163.com/dy/article/L8KN4D7H05198CJN.html\n- 谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性｜IT之家｜https://www.ithome.com/1/010/149.htm\n- LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型｜IT之家｜https://www.ithome.com/1/010/132.htm\n- 德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4922796.shtml\n- 蔚来换电单日总量达183664次再创历史新高，累计提供超过1.27亿次换电服务｜新浪科技｜https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhkn6196959.shtml\n\n今日热点方向：\n- AI 应用：AI动态（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\n2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\n3. Googlebook \"Better Together\" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\n4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-07｜V3\n生成时间：2026/10/7 10:27:57\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2517｜确认今日 17｜国际背景 21\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-07] 波士顿动力换帅！亚马逊前高管普拉萨德出任CEO\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniukhki8266079.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “波士顿动力换帅！亚马逊前高管普拉萨德出任CEO” against primary-source evidence.\n\n2. [2026-10-07] 大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml\n   报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞” against primary-source evidence.\n\n3. [2026-10-07] AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能\n   网易科技｜2026-10-07｜https://www.163.com/dy/article/L8KN4D7H05198CJN.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能” against primary-source evidence.\n\n4. [2026-10-07] 落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”\n   新浪科技｜2026-10-07｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaaq6275998.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”” against primary-source evidence.\n\n5. [01:01] 谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性\n   IT之家｜2026-10-07｜https://www.ithome.com/1/010/149.htm\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性” against primary-source evidence.\n\n本次新增线索：\n- AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能｜网易科技｜https://www.163.com/dy/article/L8KN4D7H05198CJN.html\n- 谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性｜IT之家｜https://www.ithome.com/1/010/149.htm\n- LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型｜IT之家｜https://www.ithome.com/1/010/132.htm\n- 德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4922796.shtml\n- 蔚来换电单日总量达183664次再创历史新高，累计提供超过1.27亿次换电服务｜新浪科技｜https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhkn6196959.shtml\n\n今日热点方向：\n- AI 应用：AI动态（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\n2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\n3. Googlebook \"Better Together\" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\n4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-07｜生成时间：2026/10/7 10:27:57｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2517｜确认今日 17｜国际背景 21</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 5 条｜国际 0 条<br>延续跟踪线索：国内 12 条｜国际 21 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-07] 波士顿动力换帅！亚马逊前高管普拉萨德出任CEO</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniukhki8266079.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “波士顿动力换帅！亚马逊前高管普拉萨德出任CEO” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-07] 大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：197｜需核验来源</span>\n      <p>报道角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-07] AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能</strong>\n      <span>网易科技｜2026-10-07｜<a href=\"https://www.163.com/dy/article/L8KN4D7H05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-07] 落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”</strong>\n      <span>新浪科技｜2026-10-07｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaaq6275998.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [01:01] 谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性</strong>\n      <span>IT之家｜2026-10-07｜<a href=\"https://www.ithome.com/1/010/149.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China</strong>\n      <span>时间：Tue, 06 Oct 2026 13:15:23 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offerin” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust</strong>\n      <span>时间：Tue, 06 Oct 2026 15:15:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Googlebook \"Better Together\" phone features don't work with Samsung at launch</strong>\n      <span>时间：Tue, 06 Oct 2026 16:15:50 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “Googlebook \"Better Together\" phone features don't work with Samsung at l” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. The AI boom is making the world’s cheapest smartphones disappear</strong>\n      <span>时间：Mon, 05 Oct 2026 10:00:43 +0000｜来源：Rest of World｜<a href=\"https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI boom is making the world’s cheapest smartphones disappear” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots</strong>\n      <span>时间：Tue, 06 Oct 2026 18:48:36 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Meta joins with group of companies to tame ‘chaos’ of doing business wit” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/7 10:27:57\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 12 条｜国际 21 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-07] 波士顿动力换帅！亚马逊前高管普拉萨德出任CEO\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniukhki8266079.shtml\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “波士顿动力换帅！亚马逊前高管普拉萨德出任CEO” against primary-source evidence.\n\n2. [2026-10-07] 大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkn6185084.shtml\n   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “大航跃迁完成国内首个“筷子夹火箭”回收塔架地面试验，目标 2027 年首飞” against primary-source evidence.\n\n3. [2026-10-07] AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L8KN4D7H05198CJN.html\n   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能” against primary-source evidence.\n\n4. [2026-10-07] 落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukaaq6275998.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”” against primary-source evidence.\n\n5. [01:01] 谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性\n   来源：IT之家\n   链接：https://www.ithome.com/1/010/149.htm\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性” against primary-source evidence.\n\n本次新增线索：\n- AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能｜网易科技｜https://www.163.com/dy/article/L8KN4D7H05198CJN.html\n- 谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性｜IT之家｜https://www.ithome.com/1/010/149.htm\n- LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型｜IT之家｜https://www.ithome.com/1/010/132.htm\n- 德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniukhkr4922796.shtml\n- 蔚来换电单日总量达183664次再创历史新高，累计提供超过1.27亿次换电服务｜新浪科技｜https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhkn6196959.shtml\n\n今日热点方向：\n- AI 应用：AI动态（5 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（2 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/\n2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/\n3. Googlebook \"Better Together\" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/\n4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds\n5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
