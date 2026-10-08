@@ -3,58 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/7 21:31:27
+生成时间：2026/10/8 10:18:13
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 34 条｜国际 21 条
+新增核心线索：国内 40 条｜国际 18 条
+延续跟踪线索：国内 0 条｜国际 9 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-07] 谷歌 Gmail 新功能曝光：Gemini 帮你回邮件
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-07/doc-iniumcqf4570155.shtml
-   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “谷歌 Gmail 新功能曝光：Gemini 帮你回邮件” against primary-source evidence.
+1. [23:08] 原 OpenAI 安全负责人戴维 · 罗宾逊“炮轰”老东家：对待 AI 安全说一套做一套
+   来源：IT之家
+   链接：https://www.ithome.com/1/010/351.htm
+   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “原 OpenAI 安全负责人戴维 · 罗宾逊“炮轰”老东家：对待 AI 安全说一套做一套” against primary-source evidence.
 
-2. [2026-10-07] AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺
+2. [2026-10-08] 三星财报：同比翻8倍 1个季度利润超800亿美元！
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhkr4939613.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-10-08/doc-iniunezm7686096.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “三星财报：同比翻8倍 1个季度利润超800亿美元！” against primary-source evidence.
 
-3. [2026-10-07] Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukhki8334160.shtml
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mizuho IR策略师预计美国经济放缓料推动日元汇率年底升至153” against primary-source evidence.
-
-4. [2026-10-07] 苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈
+3. [2026-10-08] 英伟达拟再向Figure投资10亿美元！人形机器人生
    来源：网易科技
-   链接：https://www.163.com/dy/article/L8L0025805198CJN.html
-   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “苏姿丰时隔七月再度访韩 将与三星半导体负责人会谈” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L8N5OCOT0512B07B.html
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “英伟达拟再向Figure投资10亿美元！人形机器人生” against primary-source evidence.
 
-5. [2026-10-07] AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L8KN4D7H05198CJN.html
-   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能” against primary-source evidence.
+4. [00:57] 优必选机器人再进车企：携手一汽-大众推进人形机器人在物流场景应用落地
+   来源：IT之家
+   链接：https://www.ithome.com/1/010/376.htm
+   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “优必选机器人再进车企：携手一汽-大众推进人形机器人在物流场景应用落地” against primary-source evidence.
+
+5. [2026-10-08] 马斯克：Grok Bot 不再只认自家模型，按用户任务择优用 Claude 等最佳 AI
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-08/doc-iniunezp4471901.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “马斯克：Grok Bot 不再只认自家模型，按用户任务择优用 Claude 等最佳 AI” against primary-source evidence.
 
 本次新增线索：
-- 诺贝尔化学奖揭晓，95岁法国科学家和75岁日本科学家分享，前者25年曾与诺奖“擦肩而过”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniumcpx8103372.shtml
+- 原 OpenAI 安全负责人戴维 · 罗宾逊“炮轰”老东家：对待 AI 安全说一套做一套｜IT之家｜https://www.ithome.com/1/010/351.htm
+- 三星财报：同比翻8倍 1个季度利润超800亿美元！｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-08/doc-iniunezm7686096.shtml
+- 英伟达拟再向Figure投资10亿美元！人形机器人生｜网易科技｜https://www.163.com/dy/article/L8N5OCOT0512B07B.html
+- 优必选机器人再进车企：携手一汽-大众推进人形机器人在物流场景应用落地｜IT之家｜https://www.ithome.com/1/010/376.htm
+- 马斯克：Grok Bot 不再只认自家模型，按用户任务择优用 Claude 等最佳 AI｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-08/doc-iniunezp4471901.shtml
+- Europeana conference in Dublin explores the role of cultural heritage in public AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/europeana-conference-dublin-explores-role-cultural-heritage-public-ai
 
 今日热点方向：
-- AI 应用：AI动态（7 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，2 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（4 条，3 个来源）
+- AI 应用：AI 应用与智能体（12 条，3 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
+- 太空与低空经济：太空与低空动态（2 条，2 个来源）
+- 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
-1. Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China｜WIRED Business｜https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/
-2. Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust｜TechCrunch｜https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/
-3. Googlebook "Better Together" phone features don't work with Samsung at launch｜Ars Technica｜https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/
-4. The AI boom is making the world’s cheapest smartphones disappear｜Rest of World｜https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-5. Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots｜CNBC Technology｜https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html
+1. Europeana conference in Dublin explores the role of cultural heritage in public AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/europeana-conference-dublin-explores-role-cultural-heritage-public-ai
+2. Google rolls out improved SynthID AI content detector, now available globally｜Ars Technica｜https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/
+3. ChatGPT is getting a lot more visual, with the launch of a new interface｜TechCrunch｜https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/
+4. OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots｜TechCrunch｜https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/
+5. Google’s new SynthID website can identify AI-generated media｜TechCrunch｜https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
