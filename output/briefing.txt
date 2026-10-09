@@ -1,63 +1,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/9 10:35:50
+生成时间：2026/10/9 10:54:18
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 39 条｜国际 12 条
-延续跟踪线索：国内 0 条｜国际 8 条
+新增核心线索：国内 7 条｜国际 0 条
+延续跟踪线索：国内 30 条｜国际 20 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-09] 陶哲轩质疑 OpenAI 公司：719 篇 AI 数学证明，人类真的理解了吗？
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-09/doc-iniuquqp3083948.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “陶哲轩质疑 OpenAI 公司：719 篇 AI 数学证明，人类真的理解了吗？” against primary-source evidence.
-
-2. [2026-10-09] 深圳加速布局人工智能机器人，产业链迎来助推
+1. [2026-10-09] 深圳加速布局人工智能机器人，产业链迎来助推
    来源：网易科技
    链接：https://www.163.com/dy/article/L8PPIM690512B07B.html
    角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “深圳加速布局人工智能机器人，产业链迎来助推” against primary-source evidence.
 
-3. [2026-10-09] OpenAI 营收数据引发担忧，亚洲芯片股或承压
+2. [2026-10-09] OpenAI 营收数据引发担忧，亚洲芯片股或承压
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniuqqhi7230835.shtml
    角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 营收数据引发担忧，亚洲芯片股或承压” against primary-source evidence.
 
-4. [2026-10-09] 首次通过“视频图灵测试”，新AI模型在视频对话中的表现几可乱真
+3. [2026-10-09] 首次通过“视频图灵测试”，新AI模型在视频对话中的表现几可乱真
    来源：科技日报
    链接：https://www.stdaily.com/web/gjxw/2026-10/09/content_592677.html
    角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “首次通过“视频图灵测试”，新AI模型在视频对话中的表现几可乱真” against primary-source evidence.
 
-5. [2026-10-09] 出海日报｜小马智行与Uber拟在伦敦测试Robotaxi
+4. [2026-10-09] 出海日报｜小马智行与Uber拟在伦敦测试Robotaxi
    来源：网易科技
    链接：https://www.163.com/dy/article/L8POUB8J0534A4SC.html
    角度：Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “出海日报｜小马智行与Uber拟在伦敦测试Robotaxi” against primary-source evidence.
 
+5. [2026-10-09] 人工智能颠覆外卖业务
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-09/doc-iniuquqf7258874.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “人工智能颠覆外卖业务” against primary-source evidence.
+
 本次新增线索：
-- 陶哲轩质疑 OpenAI 公司：719 篇 AI 数学证明，人类真的理解了吗？｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-09/doc-iniuquqp3083948.shtml
-- 深圳加速布局人工智能机器人，产业链迎来助推｜网易科技｜https://www.163.com/dy/article/L8PPIM690512B07B.html
-- OpenAI 营收数据引发担忧，亚洲芯片股或承压｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniuqqhi7230835.shtml
-- 首次通过“视频图灵测试”，新AI模型在视频对话中的表现几可乱真｜科技日报｜https://www.stdaily.com/web/gjxw/2026-10/09/content_592677.html
-- 出海日报｜小马智行与Uber拟在伦敦测试Robotaxi｜网易科技｜https://www.163.com/dy/article/L8POUB8J0534A4SC.html
-- Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect｜TechCrunch｜https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/
+- ASML & 蔡司：未来 Hyper NA EUV 光刻机主要挑战为更低的可用景深｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-09/doc-iniuquqi4041177.shtml
+- OpenAI营收不及预期引爆抛售潮，中际旭创跌超5%失守年线，AI硬件股集体杀跌｜新浪科技｜https://finance.sina.cn/stock/dpps/2026-10-09/detail-iniuquqi4043918.d.html
+- 马斯克进军芯片制造，排除台积电入伙｜网易科技｜https://www.163.com/dy/article/L8PT5FDL0534A4SC.html
+- OpenAI被曝年化收入不及预期｜网易科技｜https://www.163.com/dy/article/L8PRJ3O10519DDQ2.html
+- “中国天眼”发现首个“还没长大”的三体系统，极具科研价值｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-09/doc-iniuquqp7063033.shtml
 
 今日热点方向：
-- AI 应用：AI动态（8 条，4 个来源）
+- AI 应用：AI动态（7 条，4 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
 - 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
 - 太空与低空经济：太空与低空动态（3 条，3 个来源）
-- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
 1. Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect｜TechCrunch｜https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/
 2. LinkedIn exec offers insight into the battle against AI slop｜Yahoo News Technology｜https://tech.yahoo.com/social-media/articles/linkedin-exec-offers-insight-battle-214214965.html
 3. Trump bought up to $25 million in Meta and millions in SpaceX debt in August｜CNBC Technology｜https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html
-4. OpenAI’s revenue is reportedly $20 billion less than previously projected｜TechCrunch｜https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/
-5. Nvidia found $1B under the couch to help secure American scientific computing dominance｜The Register｜https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110
+4. FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX｜CNBC Technology｜https://www.cnbc.com/2026/10/07/fcc-spectrum-auction-spacex-amazon.html
+5. Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots｜Ars Technica｜https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
