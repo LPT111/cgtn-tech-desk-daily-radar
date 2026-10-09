@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/9 10:54:18
+生成时间：2026/10/9 20:05:54
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 0 条
-延续跟踪线索：国内 30 条｜国际 20 条
+新增核心线索：国内 51 条｜国际 7 条
+延续跟踪线索：国内 12 条｜国际 17 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-09] 深圳加速布局人工智能机器人，产业链迎来助推
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L8PPIM690512B07B.html
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “深圳加速布局人工智能机器人，产业链迎来助推” against primary-source evidence.
-
-2. [2026-10-09] OpenAI 营收数据引发担忧，亚洲芯片股或承压
+1. [2026-10-09] 台积电A14对标英特尔14A！15日发布财报将透露进度
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniuqqhi7230835.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 营收数据引发担忧，亚洲芯片股或承压” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-10-09/doc-iniurruc2804869.shtml
+   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “台积电A14对标英特尔14A！15日发布财报将透露进度” against primary-source evidence.
 
-3. [2026-10-09] 首次通过“视频图灵测试”，新AI模型在视频对话中的表现几可乱真
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gjxw/2026-10/09/content_592677.html
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “首次通过“视频图灵测试”，新AI模型在视频对话中的表现几可乱真” against primary-source evidence.
-
-4. [2026-10-09] 出海日报｜小马智行与Uber拟在伦敦测试Robotaxi
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L8POUB8J0534A4SC.html
-   角度：Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “出海日报｜小马智行与Uber拟在伦敦测试Robotaxi” against primary-source evidence.
-
-5. [2026-10-09] 人工智能颠覆外卖业务
+2. [2026-10-09] 星链落地遇阻，马斯克将矛头对准印度亿万富豪安巴尼
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-09/doc-iniuquqf7258874.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “人工智能颠覆外卖业务” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniurmnf2892350.shtml
+   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “星链落地遇阻，马斯克将矛头对准印度亿万富豪安巴尼” against primary-source evidence.
+
+3. [03:22] XPENG names robotaxi service XPENG YOYO, moves toward public trials
+   来源：TechNode
+   链接：https://technode.com/2026/10/09/xpeng-names-robotaxi-service-xpeng-yoyo-moves-toward-public-trials/
+   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “XPENG names robotaxi service XPENG YOYO, moves toward public trials” against primary-source evidence.
+
+4. [2026-10-09] 黄仁勋获颁国家科学奖章，老爸老妈也到场了
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/2026-10-09/doc-iniuqywm3034773.shtml
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “黄仁勋获颁国家科学奖章，老爸老妈也到场了” against primary-source evidence.
+
+5. [2026-10-09] SK海力士押注需求增长 拟加速光州半导体集群的建设
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L8QJUMCM05198CJN.html
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “SK海力士押注需求增长 拟加速光州半导体集群的建设” against primary-source evidence.
 
 本次新增线索：
-- ASML & 蔡司：未来 Hyper NA EUV 光刻机主要挑战为更低的可用景深｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-09/doc-iniuquqi4041177.shtml
-- OpenAI营收不及预期引爆抛售潮，中际旭创跌超5%失守年线，AI硬件股集体杀跌｜新浪科技｜https://finance.sina.cn/stock/dpps/2026-10-09/detail-iniuquqi4043918.d.html
-- 马斯克进军芯片制造，排除台积电入伙｜网易科技｜https://www.163.com/dy/article/L8PT5FDL0534A4SC.html
-- OpenAI被曝年化收入不及预期｜网易科技｜https://www.163.com/dy/article/L8PRJ3O10519DDQ2.html
-- “中国天眼”发现首个“还没长大”的三体系统，极具科研价值｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-09/doc-iniuquqp7063033.shtml
+- 台积电A14对标英特尔14A！15日发布财报将透露进度｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-09/doc-iniurruc2804869.shtml
+- 星链落地遇阻，马斯克将矛头对准印度亿万富豪安巴尼｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniurmnf2892350.shtml
+- XPENG names robotaxi service XPENG YOYO, moves toward public trials｜TechNode｜https://technode.com/2026/10/09/xpeng-names-robotaxi-service-xpeng-yoyo-moves-toward-public-trials/
+- 黄仁勋获颁国家科学奖章，老爸老妈也到场了｜新浪科技｜https://finance.sina.com.cn/tech/2026-10-09/doc-iniuqywm3034773.shtml
+- SK海力士押注需求增长 拟加速光州半导体集群的建设｜网易科技｜https://www.163.com/dy/article/L8QJUMCM05198CJN.html
+- Anthropic asks users to stop being mean to Claude｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218
 
 今日热点方向：
-- AI 应用：AI动态（7 条，4 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
-- 太空与低空经济：太空与低空动态（3 条，3 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- AI 应用：AI动态（13 条，6 个来源）
+- 芯片/半导体：半导体供应链（4 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（9 条，5 个来源）
+- 太空与低空经济：太空与低空动态（4 条，2 个来源）
+- 科学前沿：科学前沿动态（5 条，3 个来源）
 
 国际科技背景：
-1. Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect｜TechCrunch｜https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/
-2. LinkedIn exec offers insight into the battle against AI slop｜Yahoo News Technology｜https://tech.yahoo.com/social-media/articles/linkedin-exec-offers-insight-battle-214214965.html
-3. Trump bought up to $25 million in Meta and millions in SpaceX debt in August｜CNBC Technology｜https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html
-4. FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX｜CNBC Technology｜https://www.cnbc.com/2026/10/07/fcc-spectrum-auction-spacex-amazon.html
-5. Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots｜Ars Technica｜https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/
+1. Anthropic asks users to stop being mean to Claude｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218
+2. There can be only one: Google Cloud casts Gemini as your enterprise AI hero｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/08/there-can-be-only-one-google-cloud-casts-gemini-as-your-enterprise-ai-hero/5302086
+3. Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect｜TechCrunch｜https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/
+4. LinkedIn exec offers insight into the battle against AI slop｜Yahoo News Technology｜https://tech.yahoo.com/social-media/articles/linkedin-exec-offers-insight-battle-214214965.html
+5. Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill｜The Register｜https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
