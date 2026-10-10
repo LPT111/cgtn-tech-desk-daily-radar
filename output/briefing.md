@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/9 21:23:38
+生成时间：2026/10/10 09:56:32
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 3 条
-延续跟踪线索：国内 52 条｜国际 24 条
+新增核心线索：国内 23 条｜国际 8 条
+延续跟踪线索：国内 0 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-09] Anthropic、OpenAI等AI企业私下推演：灾难性AI事件发生后的情景
+1. [2026-10-10] 相关人士谈马斯克想通过 Terafab 自产芯片：可能比送星舰上火星还难
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniurmnk1114787.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic、OpenAI等AI企业私下推演：灾难性AI事件发生后的情景” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-10/doc-iniusxpp2257190.shtml
+   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “相关人士谈马斯克想通过 Terafab 自产芯片：可能比送星舰上火星还难” against primary-source evidence.
 
-2. [2026-10-09] OpenAI全面上线GPT-6，AI大模型竞赛正式进入“赚钱能力”大考
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-09/doc-iniurruc2832777.shtml
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI全面上线GPT-6，AI大模型竞赛正式进入“赚钱能力”大考” against primary-source evidence.
-
-3. [2026-10-09] 首次通过“视频图灵测试”，新AI模型在视频对话中的表现几可乱真
+2. [2026-10-10] 长十二火箭成功发射卫星互联网低轨27组卫星
    来源：科技日报
-   链接：https://www.stdaily.com/web/gjxw/2026-10/09/content_592677.html
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “首次通过“视频图灵测试”，新AI模型在视频对话中的表现几可乱真” against primary-source evidence.
+   链接：https://www.stdaily.com/web/gdxw/2026-10/10/content_593563.html
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “长十二火箭成功发射卫星互联网低轨27组卫星” against primary-source evidence.
 
-4. [2026-10-09] 曙光 8000 支撑可重复使用火箭研发，为发动机群尾焰进行“超高清 CT 扫描”
+3. [2026-10-10] 一人形机器人直播测试出意外：先踢倒人、又踹碎玻璃、后倒地抽搐
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-09/doc-iniurwae0983515.shtml
-   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “曙光 8000 支撑可重复使用火箭研发，为发动机群尾焰进行“超高清 CT 扫描”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-10/doc-iniusxpt7415447.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “一人形机器人直播测试出意外：先踢倒人、又踹碎玻璃、后倒地抽搐” against primary-source evidence.
 
-5. [2026-10-09] 70多家训练场已启用 我国具身智能全产业链加速推进
+4. [2026-10-10] 10月10日美股成交额前20：微软涨2.38% 推出面向快速决策的Microsoft-Decision-1模型
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-09/doc-iniurruh1084063.shtml
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “70多家训练场已启用 我国具身智能全产业链加速推进” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxt6398412.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “10月10日美股成交额前20：微软涨2.38% 推出面向快速决策的Microsoft-Decision-1模型” against primary-source evidence.
+
+5. [2026-10-10] 德意志银行：债市悲观情绪已过头 AI生态风险或令资金重返债市
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxw0766955.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “德意志银行：债市悲观情绪已过头 AI生态风险或令资金重返债市” against primary-source evidence.
 
 本次新增线索：
-- Anthropic、OpenAI等AI企业私下推演：灾难性AI事件发生后的情景｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniurmnk1114787.shtml
-- 曙光 8000 支撑可重复使用火箭研发，为发动机群尾焰进行“超高清 CT 扫描”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-09/doc-iniurwae0983515.shtml
-- 70多家训练场已启用 我国具身智能全产业链加速推进｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-09/doc-iniurruh1084063.shtml
-- 显卡价格彻底失控！5090涨到5万：到底啥时候才能降｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-09/doc-iniurvzz6678102.shtml
-- 蔚来乐道：10 月 1 日单日换电 33,341 次创历史新高｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-09/doc-iniurvzz2720247.shtml
-- Could AI really replace humans? Here’s what the future may look like｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/could-ai-really-replace-humans-123124425.html
+- 相关人士谈马斯克想通过 Terafab 自产芯片：可能比送星舰上火星还难｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-10/doc-iniusxpp2257190.shtml
+- 长十二火箭成功发射卫星互联网低轨27组卫星｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/10/content_593563.html
+- 一人形机器人直播测试出意外：先踢倒人、又踹碎玻璃、后倒地抽搐｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-10/doc-iniusxpt7415447.shtml
+- 10月10日美股成交额前20：微软涨2.38% 推出面向快速决策的Microsoft-Decision-1模型｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxt6398412.shtml
+- 德意志银行：债市悲观情绪已过头 AI生态风险或令资金重返债市｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxw0766955.shtml
+- An NYU professor says OpenAI's mass release of math papers wiped out early-career researchers' projects｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/nyu-professor-says-openais-mass-001630910.html
 
 今日热点方向：
-- AI 应用：AI动态（12 条，5 个来源）
-- 芯片/半导体：半导体供应链（4 条，3 个来源）
+- AI 应用：AI 应用与智能体（3 条，2 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（7 条，4 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（5 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
+- 太空与低空经济：太空与低空动态（3 条，2 个来源）
+- 科学前沿：
 
 国际科技背景：
-1. Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect｜TechCrunch｜https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/
-2. Anthropic asks users to stop being mean to Claude｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218
-3. LinkedIn exec offers insight into the battle against AI slop｜Yahoo News Technology｜https://tech.yahoo.com/social-media/articles/linkedin-exec-offers-insight-battle-214214965.html
+1. An NYU professor says OpenAI's mass release of math papers wiped out early-career researchers' projects｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/nyu-professor-says-openais-mass-001630910.html
+2. Why SpaceX Chose Texas For Starship When Florida Was Already Its Home Base｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/why-spacex-chose-texas-starship-211700545.html
+3. Anthropic asks users to stop being mean to Claude｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218
 4. There can be only one: Google Cloud casts Gemini as your enterprise AI hero｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/08/there-can-be-only-one-google-cloud-casts-gemini-as-your-enterprise-ai-hero/5302086
-5. Could AI really replace humans? Here’s what the future may look like｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/could-ai-really-replace-humans-123124425.html
+5. An Anthropic AI model sent a false homicide tip to Philadelphia police｜TechCrunch｜https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
