@@ -3,58 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/11 09:58:43
+生成时间：2026/10/11 19:36:32
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 1 条｜国际 0 条
-延续跟踪线索：国内 11 条｜国际 11 条
+新增核心线索：国内 27 条｜国际 2 条
+延续跟踪线索：国内 3 条｜国际 10 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-11] 宁德时代、赛力斯，大消息！
+1. [2026-10-11] 理想汽车欧洲战略发布会官宣明晚举行，理想 i6 将亮相法国巴黎
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml
-   角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “宁德时代、赛力斯，大消息！” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvxsc5702890.shtml
+   角度：Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “理想汽车欧洲战略发布会官宣明晚举行，理想 i6 将亮相法国巴黎” against primary-source evidence.
 
-2. [2026-10-11] 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁
+2. [2026-10-11] 国产下一代内存G6预测：继续打磨DUV、最快28年问世
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvhur7354517.shtml
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuwcxz5644950.shtml
+   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “国产下一代内存G6预测：继续打磨DUV、最快28年问世” against primary-source evidence.
 
-3. [2026-10-11] 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案
+3. [2026-10-11] 国产AI性能标杆 Kimi K3.1月中发布：K4要冲5-6万亿参数
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml
-   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuwcye0494644.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国产AI性能标杆 Kimi K3.1月中发布：K4要冲5-6万亿参数” against primary-source evidence.
 
-4. [2026-10-11] 微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务
+4. [2026-10-11] 云遥宇航天津首颗自研商业卫星赴酒泉发射场，10 月底排期发射
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7348649.shtml
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvxsi7370699.shtml
+   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “云遥宇航天津首颗自研商业卫星赴酒泉发射场，10 月底排期发射” against primary-source evidence.
 
-5. [2026-10-11] 科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml
-   角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式” against primary-source evidence.
+5. [08:30] 跻身全球第一梯队：华为 × 华东师大联合研发时序预测基础模型，登顶国际权威时序测评双榜单
+   来源：IT之家
+   链接：https://www.ithome.com/1/011/631.htm
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “跻身全球第一梯队：华为 × 华东师大联合研发时序预测基础模型，登顶国际权威时序测评双榜单” against primary-source evidence.
 
 本次新增线索：
-- 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvhur7354517.shtml
+- 理想汽车欧洲战略发布会官宣明晚举行，理想 i6 将亮相法国巴黎｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvxsc5702890.shtml
+- 国产下一代内存G6预测：继续打磨DUV、最快28年问世｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuwcxz5644950.shtml
+- 国产AI性能标杆 Kimi K3.1月中发布：K4要冲5-6万亿参数｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuwcye0494644.shtml
+- 云遥宇航天津首颗自研商业卫星赴酒泉发射场，10 月底排期发射｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvxsi7370699.shtml
+- 跻身全球第一梯队：华为 × 华东师大联合研发时序预测基础模型，登顶国际权威时序测评双榜单｜IT之家｜https://www.ithome.com/1/011/631.htm
+- From killbots to cuddly little guys: Why AI companies suddenly have cute mascots｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/killbots-cuddly-little-guys-why-084301928.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（3 条，2 个来源）
-- 芯片/半导体：
-- 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）
-- 太空与低空经济：
+- AI 应用：AI动态（8 条，3 个来源）
+- 芯片/半导体：半导体供应链（4 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：
 
 国际科技背景：
 1. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
 2. Anthropic asks users to stop being mean to Claude｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218
 3. Nvidia GPUs are everywhere. Here are the ways companies are accessing them｜CNBC Technology｜https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html
-4. An Anthropic AI model sent a false homicide tip to Philadelphia police｜TechCrunch｜https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/
-5. Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill｜The Register｜https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041
+4. From killbots to cuddly little guys: Why AI companies suddenly have cute mascots｜Yahoo News Technology｜https://tech.yahoo.com/ai/meta-ai/articles/killbots-cuddly-little-guys-why-084301928.html
+5. 5 Cheaper Android Tablets To Buy Instead Of The Samsung Galaxy Tab S12 Ultra｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/5-cheaper-android-tablets-buy-031700983.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
