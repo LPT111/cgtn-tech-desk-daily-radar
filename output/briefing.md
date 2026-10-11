@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/11 09:48:04
+生成时间：2026/10/11 09:58:43
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 1 条
-延续跟踪线索：国内 8 条｜国际 10 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 11 条｜国际 11 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,35 +18,31 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml
    角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “宁德时代、赛力斯，大消息！” against primary-source evidence.
 
-2. [2026-10-11] 科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式
+2. [2026-10-11] 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml
-   角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvhur7354517.shtml
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁” against primary-source evidence.
 
-3. [01:34] 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁
-   来源：IT之家
-   链接：https://www.ithome.com/1/011/558.htm
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁” against primary-source evidence.
-
-4. [2026-10-11] 特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml
-   角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损” against primary-source evidence.
-
-5. [2026-10-11] 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案
+3. [2026-10-11] 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml
    角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案” against primary-source evidence.
 
+4. [2026-10-11] 微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7348649.shtml
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务” against primary-source evidence.
+
+5. [2026-10-11] 科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml
+   角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式” against primary-source evidence.
+
 本次新增线索：
-- 宁德时代、赛力斯，大消息！｜新浪科技｜https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml
-- 科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml
-- 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁｜IT之家｜https://www.ithome.com/1/011/558.htm
-- 特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml
-- Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill｜The Register｜https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041
+- 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvhur7354517.shtml
 
 今日热点方向：
-- AI 应用：AI动态（4 条，3 个来源）
+- AI 应用：AI 应用与智能体（3 条，2 个来源）
 - 芯片/半导体：
 - 机器人/具身智能：机器人动态（1 条，1 个来源）
 - 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）
@@ -57,8 +53,8 @@ ChenChen 今日 Briefing｜V3
 1. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
 2. Anthropic asks users to stop being mean to Claude｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218
 3. Nvidia GPUs are everywhere. Here are the ways companies are accessing them｜CNBC Technology｜https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html
-4. Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill｜The Register｜https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041
-5. An Anthropic AI model sent a false homicide tip to Philadelphia police｜TechCrunch｜https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/
+4. An Anthropic AI model sent a false homicide tip to Philadelphia police｜TechCrunch｜https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/
+5. Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill｜The Register｜https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
