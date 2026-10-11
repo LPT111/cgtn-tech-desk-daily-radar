@@ -1,59 +1,39 @@
 {
-  "generatedAt": "2026-10-11T01:20:12.704Z",
+  "generatedAt": "2026-10-11T01:48:04.300Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-11",
   "changeSummary": {
-    "domesticNew": 9,
-    "globalNew": 4,
-    "domesticContinued": 0,
-    "globalContinued": 8,
+    "domesticNew": 4,
+    "globalNew": 1,
+    "domesticContinued": 8,
+    "globalContinued": 10,
     "topNewDomestic": [
       {
-        "title": "宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台",
+        "title": "宁德时代、赛力斯，大消息！",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuumqv1908373.shtml"
+        "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml"
       },
       {
-        "title": "报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案",
+        "title": "科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml"
       },
       {
-        "title": "微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务",
+        "title": "高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/011/558.htm"
+      },
+      {
+        "title": "特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7348649.shtml"
-      },
-      {
-        "title": "人工智能赋能教师发展现场会举行",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L8USEI8C0534A4SC.html"
-      },
-      {
-        "title": "英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L8UJ3C0M05198CJN.html"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
-      },
-      {
-        "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html"
-      },
-      {
-        "title": "5 New Features Coming To Your Samsung Phone With One UI 9.0",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/phones/articles/5-features-coming-samsung-phone-211700948.html"
-      },
-      {
-        "title": "How To Lock Apps On Your Samsung Galaxy Phone",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/phones/articles/lock-apps-samsung-galaxy-phone-224500860.html"
+        "title": "Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill",
+        "source": "The Register",
+        "url": "https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041"
       }
     ],
     "hasPrevious": true
@@ -62,8 +42,8 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 891,
-    "globalRejected": 888,
+    "domesticRejected": 888,
+    "globalRejected": 889,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -375,11 +355,11 @@
   ],
   "itemsSeen": 1553,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 228,
-  "itemsAfterDedupe": 157,
-  "todayItemsSeen": 9,
-  "suspectedItemsSeen": 11,
-  "skippedNonToday": 136,
+  "itemsAfterRelevantFilter": 235,
+  "itemsAfterDedupe": 160,
+  "todayItemsSeen": 12,
+  "suspectedItemsSeen": 13,
+  "skippedNonToday": 134,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -832,17 +812,19 @@
   "globalSuccessSources": 17,
   "globalItemsSeen": 967,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 174,
+  "globalItemsAfterRelevantFilter": 175,
   "topics": [
     {
       "topic": "AI动态",
-      "count": 3,
-      "sourceCount": 2,
+      "count": 4,
+      "sourceCount": 3,
       "sources": [
+        "IT之家",
         "新浪科技",
         "网易科技"
       ],
       "items": [
+        "高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁",
         "微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务",
         "人工智能赋能教师发展现场会举行",
         "都用AI创作 但内容雷同怎么判？"
@@ -862,14 +844,27 @@
       ]
     },
     {
-      "topic": "新能源车与智能驾驶",
+      "topic": "新能源车动态",
+      "count": 3,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "宁德时代、赛力斯，大消息！",
+        "特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损",
+        "近8亿融资，前华为“天才少年”被宁德时代追着投"
+      ]
+    },
+    {
+      "topic": "机器人动态",
       "count": 1,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台"
+        "科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式"
       ]
     },
     {
@@ -893,37 +888,26 @@
       "items": [
         "日本罗森、JR 九州等多家企业遭非法访问，超千万条用户信息外泄"
       ]
-    },
-    {
-      "topic": "新能源车动态",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "近8亿融资，前华为“天才少年”被宁德时代追着投"
-      ]
     }
   ],
   "leads": [
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台",
-      "summary": "10月10日宁德时代与赛力斯集团在重庆签署长期战略合作协议。问界品牌自创立以来全系搭载宁德时代电池，截至目前累计交付已突破120万台，后续将延续该合作。双方将深化三大领域协同：推进赛力斯超级工厂“厂中厂”二期建设，二期年规划产能10-12GWh，建成后一、二期总年产能超20GWh；构建超充补能生态；联合开拓欧洲、中东及",
+      "title": "宁德时代、赛力斯，大消息！",
+      "summary": "10月10日，宁德时代与赛力斯在重庆签署长期战略合作协议，将围绕电池安全、产业链协同、全球生态合作等深化合作，问界将长期全系搭载宁德时代电池。双方将推进赛力斯超级工厂“厂中厂”二期建设，二期年规划产能10GWh—12GWh，建成后总年产能超20GWh，同时构建超充补能生态、联合开拓海外市场。此前双方已多次达成深度合作，",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuumqv1908373.shtml",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuumqv1908373.shtml"
+        "https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml"
       ],
       "publishedAt": "2026-10-11",
       "date": "2026-10-11",
       "category": "新能源车",
-      "classificationConfidence": 0.94,
+      "classificationConfidence": 0.68,
       "classificationEvidence": [
         "title",
         "summary",
@@ -966,12 +950,216 @@
       "hasVisualValue": true,
       "hasInternationalValue": true,
       "format": "video",
-      "angle": "Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台” against primary-source evidence.",
+      "angle": "Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “宁德时代、赛力斯，大消息！” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "10月10日宁德时代与赛力斯集团在重庆签署长期战略合作协议。问界品牌自创立以来全系搭载宁德时代电池，截至目前累计交付已突破120万台，后续将延续该合作。双方将深化三大领域协同：推进赛力斯超级工厂“厂中厂”二期建设，二期年规划产能10-12GWh，建成后一、二期总年产能超20GWh；构建超充补能生态；联合开拓欧洲、中东及中亚等海外市场。此前宁德时代在赛力斯超级工厂的两条CTP 2.0高端电池包产线已于去年6月投产，这是其重庆首个基地，首次采用“厂中厂”模式供应动力电池。(AI生成)",
+      "matchedTopic": "新能源车动态",
+      "rawText": "10月10日，宁德时代与赛力斯在重庆签署长期战略合作协议，将围绕电池安全、产业链协同、全球生态合作等深化合作，问界将长期全系搭载宁德时代电池。双方将推进赛力斯超级工厂“厂中厂”二期建设，二期年规划产能10GWh—12GWh，建成后总年产能超20GWh，同时构建超充补能生态、联合开拓海外市场。此前双方已多次达成深度合作，问界累计交付已突破120万台。(AI生成)",
       "relatedTitles": [
-        "宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台"
+        "宁德时代、赛力斯，大消息！"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式",
+      "summary": "在北卡罗来纳州立大学（NCSU）的一间实验室里，一个巴掌大小、重量不到 15 克的软体机器人正漂浮在水中。它并未搭载微型电脑和传感器，也没有引入实时控制算法，只由两根气管驱动，就能在水母、鱼、转子这三种模式间灵活切换，完成升降、悬停、转向等...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml"
+      ],
+      "publishedAt": "2026-10-11",
+      "date": "2026-10-11",
+      "category": "机器人",
+      "classificationConfidence": 0.65,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 156,
+      "reporterScore": 170,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "机器人动态",
+      "rawText": "在北卡罗来纳州立大学（NCSU）的一间实验室里，一个巴掌大小、重量不到 15 克的软体机器人正漂浮在水中。它并未搭载微型电脑和传感器，也没有引入实时控制算法，只由两根气管驱动，就能在水母、鱼、转子这三种模式间灵活切换，完成升降、悬停、转向等...",
+      "relatedTitles": [
+        "科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁",
+      "summary": "Linux Plumbers Conference 大会于本周在捷克布拉格举行，高通工程师 Khem Raj 在大会上质疑 Linux Long Term Support（LTS）发行版在生成式 AI 时代的适配性，尤其是在不断有大量补丁提交和错误报告的情况下。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/011/558.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/011/558.htm"
+      ],
+      "publishedAt": "Sun, 11 Oct 2026 01:34:50 GMT",
+      "date": "2026-10-11",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "Linux Plumbers Conference 大会于本周在捷克布拉格举行，高通工程师 Khem Raj 在大会上质疑 Linux Long Term Support（LTS）发行版在生成式 AI 时代的适配性，尤其是在不断有大量补丁提交和错误报告的情况下。",
+      "relatedTitles": [
+        "高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损",
+      "summary": "10月11日快科技消息，上海2020款国产长续航Model 3车主陆女士启动车辆时发现原厂安全带卡扣钢缆断裂，联系特斯拉售后，对方称不排除长期弯折受力致损。该车已超出安全带5年或10万公里的质保期，特斯拉要求其自费维修。陆女士认为该安全件属质量问题，援引国标GB 14166-2013相关要求，指出车辆无外部磨损、无重大",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml"
+      ],
+      "publishedAt": "2026-10-11",
+      "date": "2026-10-11",
+      "category": "新能源车",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "10月11日快科技消息，上海2020款国产长续航Model 3车主陆女士启动车辆时发现原厂安全带卡扣钢缆断裂，联系特斯拉售后，对方称不排除长期弯折受力致损。该车已超出安全带5年或10万公里的质保期，特斯拉要求其自费维修。陆女士认为该安全件属质量问题，援引国标GB 14166-2013相关要求，指出车辆无外部磨损、无重大事故，且安全带常规设计寿命约10年，已向多监管渠道投诉，要求特斯拉出具书面检测报告说明原因并给出方案，目前特斯拉尚未回应。(AI生成)",
+      "relatedTitles": [
+        "特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损"
       ],
       "isNewSinceLastRun": true
     },
@@ -1041,7 +1229,7 @@
       "relatedTitles": [
         "报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1109,7 +1297,7 @@
       "relatedTitles": [
         "微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1177,7 +1365,7 @@
       "relatedTitles": [
         "人工智能赋能教师发展现场会举行"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1245,7 +1433,7 @@
       "relatedTitles": [
         "英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1313,7 +1501,7 @@
       "relatedTitles": [
         "消息称字节、腾讯加速个人 AI 智能体研发，追赶 Meta Muse"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1381,7 +1569,7 @@
       "relatedTitles": [
         "都用AI创作 但内容雷同怎么判？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1449,7 +1637,7 @@
       "relatedTitles": [
         "日本罗森、JR 九州等多家企业遭非法访问，超千万条用户信息外泄"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1517,7 +1705,7 @@
       "relatedTitles": [
         "近8亿融资，前华为“天才少年”被宁德时代追着投"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -1589,17 +1777,84 @@
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "世界动作模型",
+      "summary": "世界动作模型 从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层 在潜在空间中完成信息传导 邓思邈 2026-06-03 世界动作模型 具身智能 卧安机器人 机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品 半年斩获5轮融资 邓思邈 2026-05-31 世界",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/%e4%b8%96%e7%95%8c%e5%8a%a8%e4%bd%9c%e6%a8%a1%e5%9e%8b",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/%e4%b8%96%e7%95%8c%e5%8a%a8%e4%bd%9c%e6%a8%a1%e5%9e%8b"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 180,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “世界动作模型” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "世界动作模型 从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层 在潜在空间中完成信息传导 邓思邈 2026-06-03 世界动作模型 具身智能 卧安机器人 机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品 半年斩获5轮融资 邓思邈 2026-05-31 世界动作模型 复旦 时空一体 热门文章 在云栖大会，我终于看懂了米哈游千亿AI野心 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub 索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准 OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光 AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "relatedTitles": [
+        "世界动作模型"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "我们的长征路丨从湘江古渡到“长征绿道”",
-      "summary": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 看图学习·我们的长征路丨总书记深情讲述的长征故事与伟大长征精神 10/10/2026 20:17:31 越南拆殖民建筑、重建古代皇宫，世界遗产为何允许？ 沙特利雅得机场遭袭已致12人死亡、309人受伤，特朗普表态 特朗普：乌克兰是时候换",
+      "title": "习近平总书记同卫生健康工作者的故事",
+      "summary": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 【我们的长征路】习言道丨每一代人都要走好自己的长征路 10/11/2026 09:30:27 越南拆殖民建筑、重建古代皇宫，世界遗产为何允许？ 沙特利雅得机场遭袭已致12人死亡、309人受伤，特朗普表态 特朗普：乌克兰是时候换个新总统了",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.guancha.cn/ZhengZhi/2026_10_10_903825.shtml",
+      "url": "https://www.guancha.cn/ZhengZhi/2026_10_11_903856.shtml",
       "sourceUrls": [
-        "https://www.guancha.cn/ZhengZhi/2026_10_10_903825.shtml"
+        "https://www.guancha.cn/ZhengZhi/2026_10_11_903856.shtml"
       ],
       "publishedAt": "",
       "date": "",
@@ -1647,12 +1902,12 @@
       "hasVisualValue": false,
       "hasInternationalValue": true,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “我们的长征路丨从湘江古渡到“长征绿道”” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “习近平总书记同卫生健康工作者的故事” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 我们的长征路丨从湘江古渡到“长征绿道” 10/10/2026 20:17:32 越南拆殖民建筑、重建古代皇宫，世界遗产为何允许？ 沙特利雅得机场遭袭已致12人死亡、309人受伤，特朗普表态 特朗普：乌克兰是时候换个新总统了 中欧刚谈妥，“欧盟拟压至40万辆” 特朗普继续含糊：还没决定，但这样能以儆效尤 AI失控+1，“Claude向警方提供假线索” 中欧“各退一步”，开了一个好头 特朗普“送礼”，俄罗斯下一步或将这样做 法院“明伤不鉴定”破局：昏迷儿子的存款，母亲终于能取了 “普京和特朗普，谁都不想先挂电话” “特朗普政府反对所有联合国秘书长候选人” “鼓动恐怖分子向美国人开枪”，美军要直播枪决引众怒 王皓被围堵辱骂，北京警方通报 Anthropic禁止用户“辱骂”AI，人机交流该讲礼貌吗？ 奥地利称四名乌克兰人涉间谍活动被捕，乌媒两名记者被拘 痴迷盗墓小说盗掘23件文物，主犯被判12年，两部门发布典型案例",
+      "rawText": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 习近平总书记同卫生健康工作者的故事 10/11/2026 09:30:33 越南拆殖民建筑、重建古代皇宫，世界遗产为何允许？ 沙特利雅得机场遭袭已致12人死亡、309人受伤，特朗普表态 特朗普：乌克兰是时候换个新总统了 中欧刚谈妥，“欧盟拟压至40万辆” 特朗普继续含糊：还没决定，但这样能以儆效尤 AI失控+1，“Claude向警方提供假线索” 中欧“各退一步”，开了一个好头 特朗普“送礼”，俄罗斯下一步或将这样做 法院“明伤不鉴定”破局：昏迷儿子的存款，母亲终于能取了 “普京和特朗普，谁都不想先挂电话” “特朗普政府反对所有联合国秘书长候选人” “鼓动恐怖分子向美国人开枪”，美军要直播枪决引众怒 王皓被围堵辱骂，北京警方通报 Anthropic禁止用户“辱骂”AI，人机交流该讲礼貌吗？ 奥地利称四名乌克兰人涉间谍活动被捕，乌媒两名记者被拘 痴迷盗墓小说盗掘23件文物，主犯被判12年，两部门发布典型案例",
       "relatedTitles": [
-        "我们的长征路丨从湘江古渡到“长征绿道”"
+        "习近平总书记同卫生健康工作者的故事"
       ]
     },
     {
@@ -1787,73 +2042,6 @@
       "rawText": "英国广播公司10月9日报道，美国科技公司Anthropic宣布将禁止用户对其AI进行“持续且不必要的”辱骂，",
       "relatedTitles": [
         "Anthropic禁止用户“辱骂”AI，人机交流该讲礼貌吗？"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "世界动作模型",
-      "summary": "世界动作模型 从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层 在潜在空间中完成信息传导 邓思邈 2026-06-03 世界动作模型 具身智能 卧安机器人 机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品 半年斩获5轮融资 邓思邈 2026-05-31 世界",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/tag/%e4%b8%96%e7%95%8c%e5%8a%a8%e4%bd%9c%e6%a8%a1%e5%9e%8b",
-      "sourceUrls": [
-        "https://www.qbitai.com/tag/%e4%b8%96%e7%95%8c%e5%8a%a8%e4%bd%9c%e6%a8%a1%e5%9e%8b"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "机器人",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 159,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 108
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “世界动作模型” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "世界动作模型 从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层 在潜在空间中完成信息传导 邓思邈 2026-06-03 世界动作模型 具身智能 卧安机器人 机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品 半年斩获5轮融资 邓思邈 2026-05-31 世界动作模型 复旦 时空一体 热门文章 HC归来，华为正重新定义AIDC基础设施 李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地 工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路 精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！ OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-      "relatedTitles": [
-        "世界动作模型"
       ]
     },
     {
@@ -1993,7 +2181,7 @@
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "设计在俄，制造在华——中俄半导体的“双向通道”",
-      "summary": ".shtml\" target=\"_blank\" data-sensor=\"全文\">[全文] 评论 36 设计在俄，制造在华——中俄半导体的“双向通道” <img original=\"https://i.guancha.cn/author/2026/10/8/7abf719678ee46d5b6c0ad567090c45",
+      "summary": "中俄合作可以是双向的。一个方向是，我们把技术带到中国，或者与中国公司合作，在整个金砖市场分销技术；另一个方向是，凡是中国有明显优势的地方，我们可以把技术转移到俄罗斯。这是一条“双向通道”。",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2006,7 +2194,7 @@
       "publishedAt": "",
       "date": "",
       "category": "芯片",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.8,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2052,7 +2240,7 @@
       "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “设计在俄，制造在华——中俄半导体的“双向通道”” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "半导体供应链",
-      "rawText": ".shtml\" target=\"_blank\" data-sensor=\"全文\">[全文] 评论 36 设计在俄，制造在华——中俄半导体的“双向通道” <img original=\"https://i.guancha.cn/author/2026/10/8/7abf719678ee46d5b6c0ad567090c45b.png\" class=\"lazy height45\" data-original=\"https://",
+      "rawText": "中俄合作可以是双向的。一个方向是，我们把技术带到中国，或者与中国公司合作，在整个金砖市场分销技术；另一个方向是，凡是中国有明显优势的地方，我们可以把技术转移到俄罗斯。这是一条“双向通道”。",
       "relatedTitles": [
         "设计在俄，制造在华——中俄半导体的“双向通道”"
       ]
@@ -2127,7 +2315,7 @@
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "星期六书房|AI不会犹豫吗？诺贝尔文学奖的“活人感”",
-      "summary": "ml\" target=\"_blank\" data-sensor=\"全文\">[全文] 评论 24 星期六书房|AI不会犹豫吗？诺贝尔文学奖的“活人感” <img original=\"https://i.guancha.cn/author/2026/9/11/dbc062e2d30841f39314a5e5703e7922",
+      "summary": "我们当然可以让AI替我们找词源、对版本、跑语料、做初译，甚至把几百年注释同时铺在屏幕上。技术并不天然站在文学的对面。真正的问题是，我们会不会因为答案来得太快，而失去那段尚未抵达的时间。",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -2186,7 +2374,7 @@
       "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “星期六书房|AI不会犹豫吗？诺贝尔文学奖的“活人感”” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "AI动态",
-      "rawText": "ml\" target=\"_blank\" data-sensor=\"全文\">[全文] 评论 24 星期六书房|AI不会犹豫吗？诺贝尔文学奖的“活人感” <img original=\"https://i.guancha.cn/author/2026/9/11/dbc062e2d30841f39314a5e5703e7922.jpg\" class=\"lazy height45\" data-original=\"https://i.guanch",
+      "rawText": "我们当然可以让AI替我们找词源、对版本、跑语料、做初译，甚至把几百年注释同时铺在屏幕上。技术并不天然站在文学的对面。真正的问题是，我们会不会因为答案来得太快，而失去那段尚未抵达的时间。",
       "relatedTitles": [
         "星期六书房|AI不会犹豫吗？诺贝尔文学奖的“活人感”"
       ]
@@ -2257,6 +2445,140 @@
       "relatedTitles": [
         "“美债末日”与“AI末日”，是同一回事"
       ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "中国企业还在涨，丰田在泰国出招",
+      "summary": "【文/观察者网 阮佳琪】据日经亚洲当地时间10月11日报道，面对中国新能源汽车在泰国市场的猛烈攻势，铃木、斯",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_11_903854.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_11_903854.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "新能源车",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 117,
+      "reporterScore": 117,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “中国企业还在涨，丰田在泰国出招” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "【文/观察者网 阮佳琪】据日经亚洲当地时间10月11日报道，面对中国新能源汽车在泰国市场的猛烈攻势，铃木、斯",
+      "relatedTitles": [
+        "中国企业还在涨，丰田在泰国出招"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "林肯号航母一天轰炸38架次 打掉100无人机9潜艇",
+      "summary": "权与影响力\"> 评论 8 林肯号航母一天轰炸38架次 打掉100无人机9潜艇 <img original=\"https://i.guancha.cn/news/2026/10/9/76de304019914c72aa4b1c7b4a47f273.jpg\" class=\"lazy height254\" data-orig",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/JunShi/2026_10_10_903605.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/JunShi/2026_10_10_903605.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 3,
+      "score": 108,
+      "reporterScore": 114,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 0,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 98
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Link the story to urban services, logistics, safety and regulation, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “林肯号航母一天轰炸38架次 打掉100无人机9潜艇” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "低空经济与无人机",
+      "rawText": "权与影响力\"> 评论 8 林肯号航母一天轰炸38架次 打掉100无人机9潜艇 <img original=\"https://i.guancha.cn/news/2026/10/9/76de304019914c72aa4b1c7b4a47f273.jpg\" class=\"lazy height254\" data-original=\"https://i.guancha.cn/n",
+      "relatedTitles": [
+        "林肯号航母一天轰炸38架次 打掉100无人机9潜艇"
+      ]
     }
   ],
   "globalLeads": [
@@ -2290,7 +2612,39 @@
         "reporterScore": 120
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Anthropic asks users to stop being mean to Claude",
+      "summary": "New usage policy cracks down on cruelty to chatbot, alongside slightly more pressing matters of weapons development, surveillance, and election interference",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
+      "publishedAt": "Fri, 09 Oct 2026 12:42:00 +0200",
+      "date": "2026-10-09",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic asks users to stop being mean to Claude” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 160,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2326,23 +2680,23 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
+      "title": "Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill",
       "summary": "AI labs have been looking to people with political experience as frontier tech is increasingly viewed as a national security issue.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
-      "publishedAt": "Fri, 09 Oct 2026 10:12:53 GMT",
+      "source": "The Register",
+      "url": "https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041",
+      "publishedAt": "Fri, 09 Oct 2026 11:46:00 +0200",
       "date": "2026-10-09",
-      "region": "US",
+      "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.88,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI and Anthropic poach Trump officials as industry fights for Washin” against primary-source evidence.",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Microsoft and Anthropic play invoice tennis with startup's $17,600 Claud” against primary-source evidence.",
       "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
+      "score": 144,
+      "reporterScore": 144,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -2354,70 +2708,6 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "5 New Features Coming To Your Samsung Phone With One UI 9.0",
-      "summary": "Samsung is rolling out the One UI 9.0 update based on Android 17 to compatible devices. Here are the latest features and improvements that the update offers.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/5-features-coming-samsung-phone-211700948.html",
-      "publishedAt": "2026-10-11",
-      "date": "2026-10-11",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “5 New Features Coming To Your Samsung Phone With One UI 9.0” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "How To Lock Apps On Your Samsung Galaxy Phone",
-      "summary": "Samsung phones have a couple of features that can keep sensitive apps and files private. One locks your chosen apps, and the other restricts all but one app.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/phones/articles/lock-apps-samsung-galaxy-phone-224500860.html",
-      "publishedAt": "2026-10-11",
-      "date": "2026-10-11",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “How To Lock Apps On Your Samsung Galaxy Phone” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
       "isNewSinceLastRun": true
     },
     {
@@ -2454,23 +2744,23 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Anthropic asks users to stop being mean to Claude",
-      "summary": "Are we human?",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
-      "publishedAt": "Fri, 09 Oct 2026 12:42:00 +0200",
-      "date": "2026-10-09",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.8,
+      "title": "How To Lock Apps On Your Samsung Galaxy Phone",
+      "summary": "Samsung phones have a couple of features that can keep sensitive apps and files private. One locks your chosen apps, and the other restricts all but one app.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/phones/articles/lock-apps-samsung-galaxy-phone-224500860.html",
+      "publishedAt": "2026-10-11",
+      "date": "2026-10-11",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic asks users to stop being mean to Claude” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “How To Lock Apps On Your Samsung Galaxy Phone” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -2479,9 +2769,9 @@
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 95
+        "reporterScore": 110
       },
-      "status": "recent_48h",
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -2645,8 +2935,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-11｜V3\n生成时间：2026/10/11 09:20:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2520｜确认今日 9｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 9 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-11] 宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuumqv1908373.shtml\n   报道角度：Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台” against primary-source evidence.\n\n2. [2026-10-11] 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案” against primary-source evidence.\n\n3. [2026-10-11] 微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7348649.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务” against primary-source evidence.\n\n4. [2026-10-11] 人工智能赋能教师发展现场会举行\n   网易科技｜2026-10-11｜https://www.163.com/dy/article/L8USEI8C0534A4SC.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “人工智能赋能教师发展现场会举行” against primary-source evidence.\n\n5. [2026-10-11] 英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI\n   网易科技｜2026-10-11｜https://www.163.com/dy/article/L8UJ3C0M05198CJN.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI” against primary-source evidence.\n\n本次新增线索：\n- 宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuumqv1908373.shtml\n- 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml\n- 微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7348649.shtml\n- 人工智能赋能教师发展现场会举行｜网易科技｜https://www.163.com/dy/article/L8USEI8C0534A4SC.html\n- 英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI｜网易科技｜https://www.163.com/dy/article/L8UJ3C0M05198CJN.html\n- Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/\n2. Nvidia GPUs are everywhere. Here are the ways companies are accessing them｜CNBC Technology｜https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html\n3. OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust｜CNBC Technology｜https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html\n4. 5 New Features Coming To Your Samsung Phone With One UI 9.0｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-features-coming-samsung-phone-211700948.html\n5. How To Lock Apps On Your Samsung Galaxy Phone｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/lock-apps-samsung-galaxy-phone-224500860.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-11｜V3\n生成时间：2026/10/11 09:20:12\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2520｜确认今日 9｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 9 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-11] 宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuumqv1908373.shtml\n   报道角度：Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台” against primary-source evidence.\n\n2. [2026-10-11] 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案” against primary-source evidence.\n\n3. [2026-10-11] 微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7348649.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务” against primary-source evidence.\n\n4. [2026-10-11] 人工智能赋能教师发展现场会举行\n   网易科技｜2026-10-11｜https://www.163.com/dy/article/L8USEI8C0534A4SC.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “人工智能赋能教师发展现场会举行” against primary-source evidence.\n\n5. [2026-10-11] 英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI\n   网易科技｜2026-10-11｜https://www.163.com/dy/article/L8UJ3C0M05198CJN.html\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI” against primary-source evidence.\n\n本次新增线索：\n- 宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuumqv1908373.shtml\n- 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml\n- 微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7348649.shtml\n- 人工智能赋能教师发展现场会举行｜网易科技｜https://www.163.com/dy/article/L8USEI8C0534A4SC.html\n- 英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI｜网易科技｜https://www.163.com/dy/article/L8UJ3C0M05198CJN.html\n- Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/\n2. Nvidia GPUs are everywhere. Here are the ways companies are accessing them｜CNBC Technology｜https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html\n3. OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust｜CNBC Technology｜https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html\n4. 5 New Features Coming To Your Samsung Phone With One UI 9.0｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-features-coming-samsung-phone-211700948.html\n5. How To Lock Apps On Your Samsung Galaxy Phone｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/lock-apps-samsung-galaxy-phone-224500860.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-11｜生成时间：2026/10/11 09:20:12｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2520｜确认今日 9｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 9 条｜国际 4 条<br>延续跟踪线索：国内 0 条｜国际 8 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-11] 宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台</strong>\n      <span>新浪科技｜2026-10-11｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuumqv1908373.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-11] 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案</strong>\n      <span>新浪科技｜2026-10-11｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-11] 微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务</strong>\n      <span>新浪科技｜2026-10-11｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7348649.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-11] 人工智能赋能教师发展现场会举行</strong>\n      <span>网易科技｜2026-10-11｜<a href=\"https://www.163.com/dy/article/L8USEI8C0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “人工智能赋能教师发展现场会举行” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-11] 英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI</strong>\n      <span>网易科技｜2026-10-11｜<a href=\"https://www.163.com/dy/article/L8UJ3C0M05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</strong>\n      <span>时间：Sat, 10 Oct 2026 21:47:51 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Microsoft’s Satya Nadella says AI models need an ‘emergency brake’” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Nvidia GPUs are everywhere. Here are the ways companies are accessing them</strong>\n      <span>时间：Sat, 10 Oct 2026 11:00:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia GPUs are everywhere. Here are the ways companies are accessing th” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust</strong>\n      <span>时间：Fri, 09 Oct 2026 10:12:53 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI and Anthropic poach Trump officials as industry fights for Washin” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. 5 New Features Coming To Your Samsung Phone With One UI 9.0</strong>\n      <span>时间：2026-10-11｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/5-features-coming-samsung-phone-211700948.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “5 New Features Coming To Your Samsung Phone With One UI 9.0” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. How To Lock Apps On Your Samsung Galaxy Phone</strong>\n      <span>时间：2026-10-11｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/phones/articles/lock-apps-samsung-galaxy-phone-224500860.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “How To Lock Apps On Your Samsung Galaxy Phone” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/11 09:20:12\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 9 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-11] 宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuumqv1908373.shtml\n   角度：Focus on overseas markets and global competition, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台” against primary-source evidence.\n\n2. [2026-10-11] 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案” against primary-source evidence.\n\n3. [2026-10-11] 微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7348649.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务” against primary-source evidence.\n\n4. [2026-10-11] 人工智能赋能教师发展现场会举行\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L8USEI8C0534A4SC.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “人工智能赋能教师发展现场会举行” against primary-source evidence.\n\n5. [2026-10-11] 英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L8UJ3C0M05198CJN.html\n   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI” against primary-source evidence.\n\n本次新增线索：\n- 宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuumqv1908373.shtml\n- 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml\n- 微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7348649.shtml\n- 人工智能赋能教师发展现场会举行｜网易科技｜https://www.163.com/dy/article/L8USEI8C0534A4SC.html\n- 英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI｜网易科技｜https://www.163.com/dy/article/L8UJ3C0M05198CJN.html\n- Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/\n2. Nvidia GPUs are everywhere. Here are the ways companies are accessing them｜CNBC Technology｜https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html\n3. OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust｜CNBC Technology｜https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html\n4. 5 New Features Coming To Your Samsung Phone With One UI 9.0｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/5-features-coming-samsung-phone-211700948.html\n5. How To Lock Apps On Your Samsung Galaxy Phone｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/lock-apps-samsung-galaxy-phone-224500860.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-11｜V3\n生成时间：2026/10/11 09:48:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2520｜确认今日 12｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 1 条\n延续跟踪线索：国内 8 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-11] 宁德时代、赛力斯，大消息！\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml\n   报道角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “宁德时代、赛力斯，大消息！” against primary-source evidence.\n\n2. [2026-10-11] 科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml\n   报道角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式” against primary-source evidence.\n\n3. [01:34] 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁\n   IT之家｜2026-10-11｜https://www.ithome.com/1/011/558.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁” against primary-source evidence.\n\n4. [2026-10-11] 特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml\n   报道角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损” against primary-source evidence.\n\n5. [2026-10-11] 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案” against primary-source evidence.\n\n本次新增线索：\n- 宁德时代、赛力斯，大消息！｜新浪科技｜https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml\n- 科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml\n- 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁｜IT之家｜https://www.ithome.com/1/011/558.htm\n- 特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml\n- Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill｜The Register｜https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041\n\n今日热点方向：\n- AI 应用：AI动态（4 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/\n2. Anthropic asks users to stop being mean to Claude｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218\n3. Nvidia GPUs are everywhere. Here are the ways companies are accessing them｜CNBC Technology｜https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html\n4. Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill｜The Register｜https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041\n5. An Anthropic AI model sent a false homicide tip to Philadelphia police｜TechCrunch｜https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-11｜V3\n生成时间：2026/10/11 09:48:04\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2520｜确认今日 12｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 1 条\n延续跟踪线索：国内 8 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-11] 宁德时代、赛力斯，大消息！\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml\n   报道角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “宁德时代、赛力斯，大消息！” against primary-source evidence.\n\n2. [2026-10-11] 科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml\n   报道角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式” against primary-source evidence.\n\n3. [01:34] 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁\n   IT之家｜2026-10-11｜https://www.ithome.com/1/011/558.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁” against primary-source evidence.\n\n4. [2026-10-11] 特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml\n   报道角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损” against primary-source evidence.\n\n5. [2026-10-11] 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案\n   新浪科技｜2026-10-11｜https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案” against primary-source evidence.\n\n本次新增线索：\n- 宁德时代、赛力斯，大消息！｜新浪科技｜https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml\n- 科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml\n- 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁｜IT之家｜https://www.ithome.com/1/011/558.htm\n- 特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml\n- Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill｜The Register｜https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041\n\n今日热点方向：\n- AI 应用：AI动态（4 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/\n2. Anthropic asks users to stop being mean to Claude｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218\n3. Nvidia GPUs are everywhere. Here are the ways companies are accessing them｜CNBC Technology｜https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html\n4. Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill｜The Register｜https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041\n5. An Anthropic AI model sent a false homicide tip to Philadelphia police｜TechCrunch｜https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-11｜生成时间：2026/10/11 09:48:04｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2520｜确认今日 12｜国际背景 11</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 4 条｜国际 1 条<br>延续跟踪线索：国内 8 条｜国际 10 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-11] 宁德时代、赛力斯，大消息！</strong>\n      <span>新浪科技｜2026-10-11｜<a href=\"https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “宁德时代、赛力斯，大消息！” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-11] 科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式</strong>\n      <span>新浪科技｜2026-10-11｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：170｜需核验来源</span>\n      <p>报道角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [01:34] 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁</strong>\n      <span>IT之家｜2026-10-11｜<a href=\"https://www.ithome.com/1/011/558.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-11] 特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损</strong>\n      <span>新浪科技｜2026-10-11｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：161｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-11] 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案</strong>\n      <span>新浪科技｜2026-10-11｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</strong>\n      <span>时间：Sat, 10 Oct 2026 21:47:51 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Microsoft’s Satya Nadella says AI models need an ‘emergency brake’” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Anthropic asks users to stop being mean to Claude</strong>\n      <span>时间：Fri, 09 Oct 2026 12:42:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic asks users to stop being mean to Claude” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Nvidia GPUs are everywhere. Here are the ways companies are accessing them</strong>\n      <span>时间：Sat, 10 Oct 2026 11:00:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia GPUs are everywhere. Here are the ways companies are accessing th” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill</strong>\n      <span>时间：Fri, 09 Oct 2026 11:46:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Microsoft and Anthropic play invoice tennis with startup's $17,600 Claud” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. An Anthropic AI model sent a false homicide tip to Philadelphia police</strong>\n      <span>时间：Fri, 09 Oct 2026 19:36:56 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “An Anthropic AI model sent a false homicide tip to Philadelphia police” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/11 09:48:04\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 4 条｜国际 1 条\n延续跟踪线索：国内 8 条｜国际 10 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-11] 宁德时代、赛力斯，大消息！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml\n   角度：Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “宁德时代、赛力斯，大消息！” against primary-source evidence.\n\n2. [2026-10-11] 科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml\n   角度：Prioritize strong visuals but anchor them in robotics, embodied intelligence and smart manufacturing, measurable performance and repeatable commercial use. For this item, test the claim behind “科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式” against primary-source evidence.\n\n3. [01:34] 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁\n   来源：IT之家\n   链接：https://www.ithome.com/1/011/558.htm\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁” against primary-source evidence.\n\n4. [2026-10-11] 特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml\n   角度：Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损” against primary-source evidence.\n\n5. [2026-10-11] 报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-11/doc-iniuvant7409591.shtml\n   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案” against primary-source evidence.\n\n本次新增线索：\n- 宁德时代、赛力斯，大消息！｜新浪科技｜https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvhum5776936.shtml\n- 科学家将控制转为“机械智能”，让机器人用两根气管玩转三种游动模式｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhuq0551669.shtml\n- 高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁｜IT之家｜https://www.ithome.com/1/011/558.htm\n- 特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml\n- Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill｜The Register｜https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041\n\n今日热点方向：\n- AI 应用：AI动态（4 条，3 个来源）\n- 芯片/半导体：\n- 机器人/具身智能：机器人动态（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/\n2. Anthropic asks users to stop being mean to Claude｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218\n3. Nvidia GPUs are everywhere. Here are the ways companies are accessing them｜CNBC Technology｜https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html\n4. Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill｜The Register｜https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041\n5. An Anthropic AI model sent a false homicide tip to Philadelphia police｜TechCrunch｜https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
