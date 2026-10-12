@@ -3,61 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/12 10:29:10
+生成时间：2026/10/12 21:32:29
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 1 条
-延续跟踪线索：国内 38 条｜国际 4 条
+新增核心线索：国内 54 条｜国际 4 条
+延续跟踪线索：国内 10 条｜国际 2 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-12] 中央力推“人工智能+”行动，人形机器人场景落
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L91GG5D50512B07B.html
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “中央力推“人工智能+”行动，人形机器人场景落” against primary-source evidence.
-
-2. [2026-10-12] 马斯克称Terafab工厂最终有望造出全球最好的芯片
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuxmtm5378870.shtml
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “马斯克称Terafab工厂最终有望造出全球最好的芯片” against primary-source evidence.
-
-3. [2026-10-12] 恒生科技指数转跌，开盘涨超1%
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/hkstock/2026-10-12/doc-iniuxrzi5333215.shtml
-   角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “恒生科技指数转跌，开盘涨超1%” against primary-source evidence.
-
-4. [2026-10-12] 模思智能完成超10亿元Pre-A轮融资，押注下一代AI全模态实时交互基座
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-10-12/doc-iniuxmtr7267773.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “模思智能完成超10亿元Pre-A轮融资，押注下一代AI全模态实时交互基座” against primary-source evidence.
-
-5. [00:06] 小鹏智驾出海欧洲：两周微调适配一个国家，计划 2027 年落地 NGP
+1. [13:29] 小鹏今年底实现人形机器人量产，2027 年上半年开启交付
    来源：IT之家
-   链接：https://www.ithome.com/1/011/732.htm
-   角度：Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小鹏智驾出海欧洲：两周微调适配一个国家，计划 2027 年落地 NGP” against primary-source evidence.
+   链接：https://www.ithome.com/1/012/094.htm
+   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “小鹏今年底实现人形机器人量产，2027 年上半年开启交付” against primary-source evidence.
+
+2. [2026-10-12] 第三次新疆综合科学考察成果发布会在乌鲁木齐召开
+   来源：中国科学院
+   链接：https://www.cas.cn/yw/202610/t20261012_5122142.shtml
+   角度：Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “第三次新疆综合科学考察成果发布会在乌鲁木齐召开” against primary-source evidence.
+
+3. [2026-10-12] IMF总裁警示：AI对就业与税收构成“缓慢来袭的海啸”
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuyhwz5270561.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “IMF总裁警示：AI对就业与税收构成“缓慢来袭的海啸”” against primary-source evidence.
+
+4. [2026-10-12] 王兴兴最新发声：具身智能临界点最快一两年到来，明年ChatGPT-7或击穿瓶颈
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/shenji/2026-10-12/doc-iniuxwif5373118.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “王兴兴最新发声：具身智能临界点最快一两年到来，明年ChatGPT-7或击穿瓶颈” against primary-source evidence.
+
+5. [2026-10-12] 极智嘉CTO李洪波：具身智能的下一程，拼极限工
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L92MPA940512B07B.html
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “极智嘉CTO李洪波：具身智能的下一程，拼极限工” against primary-source evidence.
 
 本次新增线索：
-- 中央力推“人工智能+”行动，人形机器人场景落｜网易科技｜https://www.163.com/dy/article/L91GG5D50512B07B.html
-- 磐石大模型牵手天穹超算赋能科学研究｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-12/doc-iniuxrzn0419327.shtml
-- 小鹏 MONA L05 官宣即将登场，号称“年轻人的首款大五座 SUV”｜IT之家｜https://www.ithome.com/1/011/752.htm
-- Google's Open-Source Bug Bounty Program Has A Big AI Problem｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/googles-open-source-bug-bounty-011700740.html
+- 小鹏今年底实现人形机器人量产，2027 年上半年开启交付｜IT之家｜https://www.ithome.com/1/012/094.htm
+- 第三次新疆综合科学考察成果发布会在乌鲁木齐召开｜中国科学院｜https://www.cas.cn/yw/202610/t20261012_5122142.shtml
+- IMF总裁警示：AI对就业与税收构成“缓慢来袭的海啸”｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuyhwz5270561.shtml
+- 王兴兴最新发声：具身智能临界点最快一两年到来，明年ChatGPT-7或击穿瓶颈｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-10-12/doc-iniuxwif5373118.shtml
+- 极智嘉CTO李洪波：具身智能的下一程，拼极限工｜网易科技｜https://www.163.com/dy/article/L92MPA940512B07B.html
+- Former Plaud exec raises $26M for AI app that listens to you in the background｜TechCrunch｜https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/
 
 今日热点方向：
-- AI 应用：AI动态（8 条，3 个来源）
-- 芯片/半导体：半导体供应链（4 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（2 条，1 个来源）
-- 科学前沿：科学前沿动态（3 条，3 个来源）
+- AI 应用：AI动态（15 条，3 个来源）
+- 芯片/半导体：半导体供应链（4 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（6 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（8 条，3 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（5 条，3 个来源）
 
 国际科技背景：
-1. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
-2. Nvidia GPUs are everywhere. Here are the ways companies are accessing them｜CNBC Technology｜https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html
-3. SpaceX Achieved A New NASA Record - Here's What It Is｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-achieved-nasa-record-heres-211700904.html
-4. Google's Open-Source Bug Bounty Program Has A Big AI Problem｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/googles-open-source-bug-bounty-011700740.html
-5. Why SpaceX Wants To Catch Starship Instead Of Giving It Landing Legs｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/why-spacex-wants-catch-starship-004700104.html
+1. Nvidia GPUs are everywhere. Here are the ways companies are accessing them｜CNBC Technology｜https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html
+2. Former Plaud exec raises $26M for AI app that listens to you in the background｜TechCrunch｜https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/
+3. TikTok CEO and Microsoft exec warn AI hype outpaces reality｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/tiktok-ceo-microsoft-exec-warn-121606618.html
+4. Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia｜CNBC Technology｜https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html
+5. Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck｜CNBC Technology｜https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
