@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/13 11:13:34
+生成时间：2026/10/13 11:29:41
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 62 条｜国际 8 条
-延续跟踪线索：国内 0 条｜国际 3 条
+新增核心线索：国内 2 条｜国际 0 条
+延续跟踪线索：国内 59 条｜国际 11 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -39,27 +39,23 @@ ChenChen 今日 Briefing｜V3
    角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “欧洲贸易添变量，三家造车新势力巴黎车展争市场” against primary-source evidence.
 
 本次新增线索：
-- 英伟达推进下一代可插拔光模块新标准：单通道速率从200G提升至400G｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzzhk0401540.shtml
-- 刚刚，Meta最强旗舰碾压GPT-6和Opus，一夜杀回世界前三｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqst8206217.shtml
-- IMF上调2026年世界经济增长预期至3.1%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzuyi5071022.shtml
-- 小鹏IRON人形机器人计划2027出海，机器人商业化｜网易科技｜https://www.163.com/dy/article/L944CNPA0512B07B.html
-- 欧洲贸易添变量，三家造车新势力巴黎车展争市场｜网易科技｜https://www.163.com/dy/article/L948303F0512B07B.html
-- SpaceX launching 6,300 pounds of cargo to the ISS on Oct. 13: Watch it live｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launching-6-300-pounds-210000066.html
+- 量子计算机从混沌走向有序获验证｜网易科技｜https://www.163.com/dy/article/L93RP8QB05198CJN.html
+- 没想到SGX要退场了！英特尔调整至强路线图：Diamond Rapids成最后一代｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzzhm7173832.shtml
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（13 条，3 个来源）
+- AI 应用：AI 应用与智能体（14 条，3 个来源）
 - 芯片/半导体：半导体供应链（6 条，3 个来源）
 - 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
 - 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
 - 太空与低空经济：低空经济与无人机（2 条，1 个来源）
-- 科学前沿：科学前沿与科研设施（2 条，2 个来源）
+- 科学前沿：科学前沿与科研设施（2 条，1 个来源）
 
 国际科技背景：
 1. SpaceX launching 6,300 pounds of cargo to the ISS on Oct. 13: Watch it live｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launching-6-300-pounds-210000066.html
 2. An AI fake of Kevin Roose's new book lands under the real one as Amazon's 'No. 1 New Release'｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/ai-fake-kevin-rooses-book-175500812.html
 3. Honeyjar offers AI tools to improve PR and comms at every company｜TechCrunch｜https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/
-4. AMD unveils Helion racks for AI agents at OCP summit｜The Register｜https://www.theregister.com/systems/2026/10/12/amd-unveils-helion-racks-for-ai-agents-at-ocp-summit/5302652
-5. AI agents have now broken into many companies and a government. What's being done about it?｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/ai-agents-have-now-broken-into-many-companies-and-a-government-whats-being-done-about-it-160935310.html
+4. Microsoft president says UK is best placed to drive AI regulation｜TechCrunch｜https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/
+5. AMD unveils Helion racks for AI agents at OCP summit｜The Register｜https://www.theregister.com/systems/2026/10/12/amd-unveils-helion-racks-for-ai-agents-at-ocp-summit/5302652
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
