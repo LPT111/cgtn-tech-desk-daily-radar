@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/12 23:35:57
+生成时间：2026/10/13 11:13:34
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 9 条｜国际 3 条
-延续跟踪线索：国内 63 条｜国际 7 条
+新增核心线索：国内 62 条｜国际 8 条
+延续跟踪线索：国内 0 条｜国际 3 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [13:29] 小鹏今年底实现人形机器人量产，2027 年上半年开启交付
-   来源：IT之家
-   链接：https://www.ithome.com/1/012/094.htm
-   角度：Prioritize strong visuals but anchor them in production scale and real industrial adoption, measurable performance and repeatable commercial use. For this item, test the claim behind “小鹏今年底实现人形机器人量产，2027 年上半年开启交付” against primary-source evidence.
-
-2. [2026-10-12] 第三次新疆综合科学考察成果发布会在乌鲁木齐召开
-   来源：中国科学院
-   链接：https://www.cas.cn/yw/202610/t20261012_5122142.shtml
-   角度：Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “第三次新疆综合科学考察成果发布会在乌鲁木齐召开” against primary-source evidence.
-
-3. [2026-10-12] IMF总裁警示：AI对就业与税收构成“缓慢来袭的海啸”
+1. [2026-10-13] 英伟达推进下一代可插拔光模块新标准：单通道速率从200G提升至400G
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuyhwz5270561.shtml
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “IMF总裁警示：AI对就业与税收构成“缓慢来袭的海啸”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzzhk0401540.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “英伟达推进下一代可插拔光模块新标准：单通道速率从200G提升至400G” against primary-source evidence.
 
-4. [2026-10-12] 曝梁文锋密集接触具身智能创业者，DeepSeek拟入局具身智能
+2. [2026-10-13] 刚刚，Meta最强旗舰碾压GPT-6和Opus，一夜杀回世界前三
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuytnv5205606.shtml
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “曝梁文锋密集接触具身智能创业者，DeepSeek拟入局具身智能” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqst8206217.shtml
+   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “刚刚，Meta最强旗舰碾压GPT-6和Opus，一夜杀回世界前三” against primary-source evidence.
 
-5. [2026-10-12] 马斯克称Terafab工厂最终有望造出全球最好的芯片
+3. [2026-10-13] IMF上调2026年世界经济增长预期至3.1%
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuxmtm5378870.shtml
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “马斯克称Terafab工厂最终有望造出全球最好的芯片” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzuyi5071022.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “IMF上调2026年世界经济增长预期至3.1%” against primary-source evidence.
+
+4. [2026-10-13] 小鹏IRON人形机器人计划2027出海，机器人商业化
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L944CNPA0512B07B.html
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “小鹏IRON人形机器人计划2027出海，机器人商业化” against primary-source evidence.
+
+5. [2026-10-13] 欧洲贸易添变量，三家造车新势力巴黎车展争市场
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L948303F0512B07B.html
+   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “欧洲贸易添变量，三家造车新势力巴黎车展争市场” against primary-source evidence.
 
 本次新增线索：
-- 小鹏今年底实现人形机器人量产，2027 年上半年开启交付｜IT之家｜https://www.ithome.com/1/012/094.htm
-- 华为麒麟7系、8系、9系芯片全面回归：手机业务要重回巅峰｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-12/doc-iniuyari7241102.shtml
-- 存储芯片短缺冲击手机市场！全球三季度出货量创14年来同期新低｜网易科技｜https://www.163.com/dy/article/L92U6L4S05198CJN.html
-- 微软发布Maia 300芯片 加速降低对英伟达依赖｜网易科技｜https://www.163.com/dy/article/L92VBFVQ05198CJN.html
-- 比亚迪腾势将在欧洲推出“天神之眼”辅助驾驶系统，Z9 GT 率先支持｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-12/doc-iniuytnz7311779.shtml
-- AMD debuts Helion reference design for agentic AI servers with up to 32,768 Zen 6 ‘Venice’ cores｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/amd-debuts-helion-reference-design-130000769.html
+- 英伟达推进下一代可插拔光模块新标准：单通道速率从200G提升至400G｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzzhk0401540.shtml
+- 刚刚，Meta最强旗舰碾压GPT-6和Opus，一夜杀回世界前三｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqst8206217.shtml
+- IMF上调2026年世界经济增长预期至3.1%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzuyi5071022.shtml
+- 小鹏IRON人形机器人计划2027出海，机器人商业化｜网易科技｜https://www.163.com/dy/article/L944CNPA0512B07B.html
+- 欧洲贸易添变量，三家造车新势力巴黎车展争市场｜网易科技｜https://www.163.com/dy/article/L948303F0512B07B.html
+- SpaceX launching 6,300 pounds of cargo to the ISS on Oct. 13: Watch it live｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launching-6-300-pounds-210000066.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（10 条，4 个来源）
+- AI 应用：AI 应用与智能体（13 条，3 个来源）
 - 芯片/半导体：半导体供应链（6 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（5 条，3 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（7 条，4 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（5 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
+- 太空与低空经济：低空经济与无人机（2 条，1 个来源）
+- 科学前沿：科学前沿与科研设施（2 条，2 个来源）
 
 国际科技背景：
-1. AMD debuts Helion reference design for agentic AI servers with up to 32,768 Zen 6 ‘Venice’ cores｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/amd-debuts-helion-reference-design-130000769.html
-2. Microsoft’s Satya Nadella says AI models need an ‘emergency brake’｜TechCrunch｜https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
-3. Nvidia GPUs are everywhere. Here are the ways companies are accessing them｜CNBC Technology｜https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html
-4. Microsoft president says UK is best placed to drive AI regulation｜TechCrunch｜https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/
-5. Marvell Introduces Second-Generation CXL 3.2 Memory Expanders for AI Inference Workloads｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/marvell-introduces-second-generation-cxl-141541150.html
+1. SpaceX launching 6,300 pounds of cargo to the ISS on Oct. 13: Watch it live｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/spacex-launching-6-300-pounds-210000066.html
+2. An AI fake of Kevin Roose's new book lands under the real one as Amazon's 'No. 1 New Release'｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/ai-fake-kevin-rooses-book-175500812.html
+3. Honeyjar offers AI tools to improve PR and comms at every company｜TechCrunch｜https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/
+4. AMD unveils Helion racks for AI agents at OCP summit｜The Register｜https://www.theregister.com/systems/2026/10/12/amd-unveils-helion-racks-for-ai-agents-at-ocp-summit/5302652
+5. AI agents have now broken into many companies and a government. What's being done about it?｜Yahoo News Technology｜https://tech.yahoo.com/ai/article/ai-agents-have-now-broken-into-many-companies-and-a-government-whats-being-done-about-it-160935310.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
