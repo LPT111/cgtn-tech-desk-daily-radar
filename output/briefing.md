@@ -3,48 +3,50 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/13 11:29:41
+生成时间：2026/10/13 11:38:08
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 2 条｜国际 0 条
+新增核心线索：国内 4 条｜国际 0 条
 延续跟踪线索：国内 59 条｜国际 11 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-13] 英伟达推进下一代可插拔光模块新标准：单通道速率从200G提升至400G
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzzhk0401540.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “英伟达推进下一代可插拔光模块新标准：单通道速率从200G提升至400G” against primary-source evidence.
-
-2. [2026-10-13] 刚刚，Meta最强旗舰碾压GPT-6和Opus，一夜杀回世界前三
+1. [2026-10-13] 刚刚，Meta最强旗舰碾压GPT-6和Opus，一夜杀回世界前三
    来源：新浪科技
    链接：https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqst8206217.shtml
    角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “刚刚，Meta最强旗舰碾压GPT-6和Opus，一夜杀回世界前三” against primary-source evidence.
 
-3. [2026-10-13] IMF上调2026年世界经济增长预期至3.1%
+2. [2026-10-13] IMF上调2026年世界经济增长预期至3.1%
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzuyi5071022.shtml
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “IMF上调2026年世界经济增长预期至3.1%” against primary-source evidence.
 
-4. [2026-10-13] 小鹏IRON人形机器人计划2027出海，机器人商业化
+3. [2026-10-13] 字节跳动 Seed 单独设立大模型安全与对齐部门
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/shenji/2026-10-13/doc-iniuzzhk0424578.shtml
+   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “字节跳动 Seed 单独设立大模型安全与对齐部门” against primary-source evidence.
+
+4. [2026-10-13] 微软宣布史上最大自研芯片押注，市值重回4万亿美元
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzzhk0422509.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “微软宣布史上最大自研芯片押注，市值重回4万亿美元” against primary-source evidence.
+
+5. [2026-10-13] 小鹏IRON人形机器人计划2027出海，机器人商业化
    来源：网易科技
    链接：https://www.163.com/dy/article/L944CNPA0512B07B.html
    角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “小鹏IRON人形机器人计划2027出海，机器人商业化” against primary-source evidence.
 
-5. [2026-10-13] 欧洲贸易添变量，三家造车新势力巴黎车展争市场
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L948303F0512B07B.html
-   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “欧洲贸易添变量，三家造车新势力巴黎车展争市场” against primary-source evidence.
-
 本次新增线索：
-- 量子计算机从混沌走向有序获验证｜网易科技｜https://www.163.com/dy/article/L93RP8QB05198CJN.html
-- 没想到SGX要退场了！英特尔调整至强路线图：Diamond Rapids成最后一代｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzzhm7173832.shtml
+- 字节跳动 Seed 单独设立大模型安全与对齐部门｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-10-13/doc-iniuzzhk0424578.shtml
+- 微软宣布史上最大自研芯片押注，市值重回4万亿美元｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzzhk0422509.shtml
+- 小米电视遥控器意外火了：很多人拿来直接指挥AI干活｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-13/doc-iniuzzhm7196601.shtml
+- Anthropic 推出新防护措施，模型蒸馏攻击窃取数据量最高降低 99%｜IT之家｜https://www.ithome.com/1/012/264.htm
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（14 条，3 个来源）
-- 芯片/半导体：半导体供应链（6 条，3 个来源）
+- AI 应用：AI 应用与智能体（15 条，3 个来源）
+- 芯片/半导体：半导体供应链（5 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
 - 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
 - 太空与低空经济：低空经济与无人机（2 条，1 个来源）
