@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/13 22:18:16
+生成时间：2026/10/14 09:26:28
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 2 条
-延续跟踪线索：国内 80 条｜国际 14 条
+新增核心线索：国内 38 条｜国际 16 条
+延续跟踪线索：国内 0 条｜国际 10 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-13] 美国AI专项工作组：“超级智能”专项工作组将就AI安全问题向企业施压
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/world/2026-10-13/doc-inivamwe0586733.shtml
-   角度：Use the balance between innovation, safety and accountability to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “美国AI专项工作组：“超级智能”专项工作组将就AI安全问题向企业施压” against primary-source evidence.
+1. [23:44] AI 长视频时代来临：OpenAI GPT-6 Astra 助力生成时长从 1 分钟提升到 10 分钟
+   来源：IT之家
+   链接：https://www.ithome.com/1/012/639.htm
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI 长视频时代来临：OpenAI GPT-6 Astra 助力生成时长从 1 分钟提升到 10 分钟” against primary-source evidence.
 
-2. [2026-10-13] 刚刚，Meta最强旗舰碾压GPT-6和Opus，一夜杀回世界前三
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqst8206217.shtml
-   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “刚刚，Meta最强旗舰碾压GPT-6和Opus，一夜杀回世界前三” against primary-source evidence.
+2. [2026-10-14] 阶跃星辰智能体手机定价3999元/台；马斯克披露T
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L96CF2EQ0512B07B.html
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “阶跃星辰智能体手机定价3999元/台；马斯克披露T” against primary-source evidence.
 
-3. [2026-10-13] AI巨头发债虹吸全球资本 新兴市场债券发行面临挤出效应
+3. [2026-10-14] SpaceX 计划将得州星舰发射频次提升至每年 456 次，正接受美国政府审查
    来源：新浪科技
-   链接：https://finance.sina.com.cn/world/2026-10-13/doc-inivasef8052891.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI巨头发债虹吸全球资本 新兴市场债券发行面临挤出效应” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-14/doc-inivcxxt8568899.shtml
+   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 计划将得州星舰发射频次提升至每年 456 次，正接受美国政府审查” against primary-source evidence.
 
-4. [2026-10-13] IMF预计明年全球经济增速加快 但“韧性正接近极限”
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuzzhk0523441.shtml
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “IMF预计明年全球经济增速加快 但“韧性正接近极限”” against primary-source evidence.
+4. [2026-10-14] 科学家利用拓扑探针首次实现交错磁体原子尺度自旋成像
+   来源：中国科学院
+   链接：https://www.cas.cn/syky/202610/t20261014_5122179.shtml
+   角度：Ask what is genuinely new, how it was tested and whether the scientific mechanism, evidence and translational boundary creates a credible path toward application. For this item, test the claim behind “科学家利用拓扑探针首次实现交错磁体原子尺度自旋成像” against primary-source evidence.
 
-5. [2026-10-13] AI热潮推升风险 IMF压力测试显示极端情境下更多银行将面临困境
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuzzhk0459769.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI热潮推升风险 IMF压力测试显示极端情境下更多银行将面临困境” against primary-source evidence.
+5. [2026-10-14] 中国科学院机关组织第八期“青年思享荟”主题活动
+   来源：中国科学院
+   链接：https://www.cas.cn/djcx/gz/202610/t20261014_5122186.shtml
+   角度：Ask what is genuinely new, how it was tested and whether frontier science, research infrastructure and scientific discovery creates a credible path toward application. For this item, test the claim behind “中国科学院机关组织第八期“青年思享荟”主题活动” against primary-source evidence.
 
 本次新增线索：
-- 美国快充需求 Q3 同比增长 26%，特斯拉超级充电站已涨价｜IT之家｜https://www.ithome.com/1/012/560.htm
-- “79岁老干妈陶华碧用AI一年赚54亿”冲上热搜，｜网易科技｜https://www.163.com/dy/article/L95E62BS0534A4SC.html
-- 软通动力“到货英伟达8000张GPU”究竟是真是假？ 知情人士回应｜网易科技｜https://www.163.com/dy/article/L95A4RNG0512B07B.html
-- 比亚迪大汉EV正式上市｜网易科技｜https://www.163.com/dy/article/L95DDDVR0534A4SC.html
-- Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks｜The Register｜https://www.theregister.com/systems/2026/10/13/microsoft-plans-multi-gigawatt-rollout-of-next-gen-azure-maia-ai-accelerator-racks/5302802
-- Apple unveils new smart home products, showcasing updated Siri AI｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-unveil-smart-home-products-100402176.html
+- AI 长视频时代来临：OpenAI GPT-6 Astra 助力生成时长从 1 分钟提升到 10 分钟｜IT之家｜https://www.ithome.com/1/012/639.htm
+- 阶跃星辰智能体手机定价3999元/台；马斯克披露T｜网易科技｜https://www.163.com/dy/article/L96CF2EQ0512B07B.html
+- SpaceX 计划将得州星舰发射频次提升至每年 456 次，正接受美国政府审查｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-14/doc-inivcxxt8568899.shtml
+- 科学家利用拓扑探针首次实现交错磁体原子尺度自旋成像｜中国科学院｜https://www.cas.cn/syky/202610/t20261014_5122179.shtml
+- 中国科学院机关组织第八期“青年思享荟”主题活动｜中国科学院｜https://www.cas.cn/djcx/gz/202610/t20261014_5122186.shtml
+- Europeana conference in Dublin explores the role of cultural heritage in public AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/europeana-conference-dublin-explores-role-cultural-heritage-public-ai
 
 今日热点方向：
-- AI 应用：AI动态（24 条，4 个来源）
-- 芯片/半导体：半导体供应链（3 条，3 个来源）
-- 机器人/具身智能：机器人动态（6 条，4 个来源）
-- 新能源车/智能驾驶：新能源车动态（10 条，3 个来源）
-- 太空与低空经济：太空与低空动态（4 条，3 个来源）
-- 科学前沿：科学前沿动态（2 条，2 个来源）
+- AI 应用：AI动态（14 条，4 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
-1. Images of SpaceX launch over Charleston area, other parts of SC coast｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/images-spacex-launch-over-charleston-123000204.html
-2. Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands｜TechCrunch｜https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/
-3. Why Nobody Calls The SpaceX Jellyfish Cloud A Chemtrail｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/why-nobody-calls-spacex-jellyfish-121718257.html
-4. Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks｜The Register｜https://www.theregister.com/systems/2026/10/13/microsoft-plans-multi-gigawatt-rollout-of-next-gen-azure-maia-ai-accelerator-racks/5302802
-5. Apple unveils new smart home products, showcasing updated Siri AI｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-unveil-smart-home-products-100402176.html
+1. Europeana conference in Dublin explores the role of cultural heritage in public AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/europeana-conference-dublin-explores-role-cultural-heritage-public-ai
+2. SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s｜TechCrunch｜https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/
+3. Judge orders OpenAI to turn over hiring records in Apple trade secrets case｜TechCrunch｜https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/
+4. OpenAI and Anthropic Tell British Lawmakers: Regulate Us｜WIRED Business｜https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/
+5. OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
