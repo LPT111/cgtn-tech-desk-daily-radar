@@ -1,55 +1,55 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/14 09:48:35
+生成时间：2026/10/14 09:58:53
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 12 条｜国际 0 条
-延续跟踪线索：国内 30 条｜国际 26 条
+新增核心线索：国内 5 条｜国际 0 条
+延续跟踪线索：国内 35 条｜国际 26 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [23:44] AI 长视频时代来临：OpenAI GPT-6 Astra 助力生成时长从 1 分钟提升到 10 分钟
-   来源：IT之家
-   链接：https://www.ithome.com/1/012/639.htm
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI 长视频时代来临：OpenAI GPT-6 Astra 助力生成时长从 1 分钟提升到 10 分钟” against primary-source evidence.
-
-2. [2026-10-14] 富士胶片在美投资 1800 万美元，建设多类型 CMP 浆料产能
+1. [2026-10-14] 富士胶片在美投资 1800 万美元，建设多类型 CMP 浆料产能
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-10-14/doc-inivcxxp7293278.shtml
    角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “富士胶片在美投资 1800 万美元，建设多类型 CMP 浆料产能” against primary-source evidence.
 
-3. [2026-10-14] 比亚迪欧洲首款纯电七座旗舰 SUV 车型 ATTO 8 亮相，二代刀片电池、闪充加持
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-14/doc-inivcxxt8614626.shtml
-   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪欧洲首款纯电七座旗舰 SUV 车型 ATTO 8 亮相，二代刀片电池、闪充加持” against primary-source evidence.
-
-4. [2026-10-14] 阶跃星辰智能体手机定价3999元/台；马斯克披露T
+2. [2026-10-14] 阶跃星辰智能体手机定价3999元/台；马斯克披露T
    来源：网易科技
    链接：https://www.163.com/dy/article/L96CF2EQ0512B07B.html
    角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “阶跃星辰智能体手机定价3999元/台；马斯克披露T” against primary-source evidence.
 
-5. [2026-10-14] SpaceX 计划将得州星舰发射频次提升至每年 456 次，正接受美国政府审查
+3. [00:40] 一名 OpenAI 工程师被捕：涉嫌秘密录制高管会议，最高面临 5 年监禁
+   来源：IT之家
+   链接：https://www.ithome.com/1/012/653.htm
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “一名 OpenAI 工程师被捕：涉嫌秘密录制高管会议，最高面临 5 年监禁” against primary-source evidence.
+
+4. [2026-10-14] 比亚迪欧洲首款纯电七座旗舰 SUV 车型 ATTO 8 亮相，二代刀片电池、闪充加持
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-14/doc-inivcxxt8568899.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX 计划将得州星舰发射频次提升至每年 456 次，正接受美国政府审查” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-14/doc-inivcxxt8614626.shtml
+   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪欧洲首款纯电七座旗舰 SUV 车型 ATTO 8 亮相，二代刀片电池、闪充加持” against primary-source evidence.
+
+5. [00:23] SpaceX 计划将得州星舰发射频次提升至每年 456 次，正接受美国政府审查
+   来源：IT之家
+   链接：https://www.ithome.com/1/012/649.htm
+   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX 计划将得州星舰发射频次提升至每年 456 次，正接受美国政府审查” against primary-source evidence.
 
 本次新增线索：
-- 富士胶片在美投资 1800 万美元，建设多类型 CMP 浆料产能｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-14/doc-inivcxxp7293278.shtml
-- 比亚迪欧洲首款纯电七座旗舰 SUV 车型 ATTO 8 亮相，二代刀片电池、闪充加持｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-14/doc-inivcxxt8614626.shtml
-- 谷歌面向全球开放Gemini 4 Argon，推广期API价｜网易科技｜https://www.163.com/dy/article/L96ETT0P0512B07B.html
-- 奇瑞汽车调整高管分工 常务副总裁张贵兵同时管国内 权限更大了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-14/doc-inivcxxn0520368.shtml
-- 人形机器人催生DRAM需求，内存行业拓展新空间｜｜网易科技｜https://www.163.com/dy/article/L96LLSQV0512B07B.html
+- 一名 OpenAI 工程师被捕：涉嫌秘密录制高管会议，最高面临 5 年监禁｜IT之家｜https://www.ithome.com/1/012/653.htm
+- SpaceX 计划将得州星舰发射频次提升至每年 456 次，正接受美国政府审查｜IT之家｜https://www.ithome.com/1/012/649.htm
+- 千问AI眼镜想让更多用户真正用起来｜网易科技｜https://www.163.com/dy/article/L96M7GQV0534A4SC.html
+- 坐无后视镜的特斯拉 Cybercab 心里发慌？未来乘客行程中可随时查看侧、后摄像头画面｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-14/doc-iniveefp7764332.shtml
+- Manus正式进入手机圈！掌上 Agent将在OPPO Find X10系列首发｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-14/doc-inivcxxn0541643.shtml
 
 今日热点方向：
-- AI 应用：AI动态（13 条，4 个来源）
+- AI 应用：AI 应用与智能体（11 条，3 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
 1. Europeana conference in Dublin explores the role of cultural heritage in public AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/europeana-conference-dublin-explores-role-cultural-heritage-public-ai
