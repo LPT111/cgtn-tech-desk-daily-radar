@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/14 09:58:53
+生成时间：2026/10/14 18:37:16
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 5 条｜国际 0 条
-延续跟踪线索：国内 35 条｜国际 26 条
+新增核心线索：国内 69 条｜国际 7 条
+延续跟踪线索：国内 1 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-14] 富士胶片在美投资 1800 万美元，建设多类型 CMP 浆料产能
+1. [2026-10-14] 徐汇本土AI产品跑出亮眼成绩！商汤小浣熊多项指标位居行业前列
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-14/doc-inivcxxp7293278.shtml
-   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “富士胶片在美投资 1800 万美元，建设多类型 CMP 浆料产能” against primary-source evidence.
+   链接：https://finance.sina.com.cn/wm/2026-10-14/doc-iniveefk0480496.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “徐汇本土AI产品跑出亮眼成绩！商汤小浣熊多项指标位居行业前列” against primary-source evidence.
 
-2. [2026-10-14] 阶跃星辰智能体手机定价3999元/台；马斯克披露T
+2. [2026-10-14] 当逻辑折叠重构SoC：麒麟9050系列，跳出摩尔赛道的新答案
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-10-14/doc-iniveqvi7809494.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “当逻辑折叠重构SoC：麒麟9050系列，跳出摩尔赛道的新答案” against primary-source evidence.
+
+3. [2026-10-14] SK海力士据称推迟部分HBM4后道设备订单，扩产是
    来源：网易科技
-   链接：https://www.163.com/dy/article/L96CF2EQ0512B07B.html
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “阶跃星辰智能体手机定价3999元/台；马斯克披露T” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L97GPPGF05198CJN.html
+   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “SK海力士据称推迟部分HBM4后道设备订单，扩产是” against primary-source evidence.
 
-3. [00:40] 一名 OpenAI 工程师被捕：涉嫌秘密录制高管会议，最高面临 5 年监禁
-   来源：IT之家
-   链接：https://www.ithome.com/1/012/653.htm
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “一名 OpenAI 工程师被捕：涉嫌秘密录制高管会议，最高面临 5 年监禁” against primary-source evidence.
-
-4. [2026-10-14] 比亚迪欧洲首款纯电七座旗舰 SUV 车型 ATTO 8 亮相，二代刀片电池、闪充加持
+4. [2026-10-14] 对话RoboStrategy机器人研究与尽调主管斯考特·沃尔特：下一届人形机器人运动会，想看“十项全能”比拼
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-14/doc-inivcxxt8614626.shtml
-   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “比亚迪欧洲首款纯电七座旗舰 SUV 车型 ATTO 8 亮相，二代刀片电池、闪充加持” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tob/2026-10-14/doc-inivcxxr7816641.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “对话RoboStrategy机器人研究与尽调主管斯考特·沃尔特：下一届人形机器人运动会，想看“十项全能”比拼” against primary-source evidence.
 
-5. [00:23] SpaceX 计划将得州星舰发射频次提升至每年 456 次，正接受美国政府审查
-   来源：IT之家
-   链接：https://www.ithome.com/1/012/649.htm
-   角度：Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “SpaceX 计划将得州星舰发射频次提升至每年 456 次，正接受美国政府审查” against primary-source evidence.
+5. [2026-10-14] AI模型或数月内学会“自我复制”？美巨头称可入侵冰箱电视难关闭，专家质疑：明显夸大
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-14/doc-inivevci8487546.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI模型或数月内学会“自我复制”？美巨头称可入侵冰箱电视难关闭，专家质疑：明显夸大” against primary-source evidence.
 
 本次新增线索：
-- 一名 OpenAI 工程师被捕：涉嫌秘密录制高管会议，最高面临 5 年监禁｜IT之家｜https://www.ithome.com/1/012/653.htm
-- SpaceX 计划将得州星舰发射频次提升至每年 456 次，正接受美国政府审查｜IT之家｜https://www.ithome.com/1/012/649.htm
-- 千问AI眼镜想让更多用户真正用起来｜网易科技｜https://www.163.com/dy/article/L96M7GQV0534A4SC.html
-- 坐无后视镜的特斯拉 Cybercab 心里发慌？未来乘客行程中可随时查看侧、后摄像头画面｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-14/doc-iniveefp7764332.shtml
-- Manus正式进入手机圈！掌上 Agent将在OPPO Find X10系列首发｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-14/doc-inivcxxn0541643.shtml
+- 徐汇本土AI产品跑出亮眼成绩！商汤小浣熊多项指标位居行业前列｜新浪科技｜https://finance.sina.com.cn/wm/2026-10-14/doc-iniveefk0480496.shtml
+- 当逻辑折叠重构SoC：麒麟9050系列，跳出摩尔赛道的新答案｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-10-14/doc-iniveqvi7809494.shtml
+- SK海力士据称推迟部分HBM4后道设备订单，扩产是｜网易科技｜https://www.163.com/dy/article/L97GPPGF05198CJN.html
+- AI模型或数月内学会“自我复制”？美巨头称可入侵冰箱电视难关闭，专家质疑：明显夸大｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-14/doc-inivevci8487546.shtml
+- 越疆发布Vega7下一代原生具身七轴力控臂，平均无故障时间达50000小时｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-10-14/doc-iniveefk0451073.shtml
+- It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（11 条，3 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
+- AI 应用：AI动态（15 条，5 个来源）
+- 芯片/半导体：半导体供应链（9 条，3 个来源）
+- 机器人/具身智能：机器人动态（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）
+- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
+- 科学前沿：科学前沿动态（4 条，3 个来源）
 
 国际科技背景：
-1. Europeana conference in Dublin explores the role of cultural heritage in public AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/europeana-conference-dublin-explores-role-cultural-heritage-public-ai
-2. SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s｜TechCrunch｜https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/
-3. Home Office asylum AI flunks one in five accuracy checks｜The Register｜https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649
-4. Judge orders OpenAI to turn over hiring records in Apple trade secrets case｜TechCrunch｜https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/
-5. OpenAI and Anthropic Tell British Lawmakers: Regulate Us｜WIRED Business｜https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/
+1. It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778
+2. OpenAI engineer charged after boardroom bug found wrapped in toilet paper｜The Register｜https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000
+3. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov
+4. Europeana conference in Dublin explores the role of cultural heritage in public AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/europeana-conference-dublin-explores-role-cultural-heritage-public-ai
+5. Hold on, your existing Apple TV 4K is getting a Siri AI update too – do you really need to upgrade?｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/hold-existing-apple-tv-4k-082041743.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
