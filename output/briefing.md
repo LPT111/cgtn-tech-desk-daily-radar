@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/15 18:59:14
+生成时间：2026/10/15 19:36:44
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 11 条｜国际 0 条
-延续跟踪线索：国内 59 条｜国际 29 条
+新增核心线索：国内 6 条｜国际 2 条
+延续跟踪线索：国内 62 条｜国际 28 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,20 +18,20 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-10-15/doc-iniviekn1475762.shtml
    角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “第二届电子纸生态及产业融合创新发展论坛在京举行 Kaleido 4彩色电子纸和汉王M10C二代全球首发” against primary-source evidence.
 
-2. [2026-10-15] 稀土反制精准命中！中国制裁ASML关键供应商：欧盟马上解除中企限制
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-10-15/doc-iniviekf8044336.shtml
-   角度：Explain the rule, the implementation mechanism and the consequences for technology competition, dialogue and supply-chain consequences, rather than repeating official language. For this item, test the claim behind “稀土反制精准命中！中国制裁ASML关键供应商：欧盟马上解除中企限制” against primary-source evidence.
-
-3. [2026-10-15] 众星微：公司12款量产产品累计出货超80万颗
+2. [2026-10-15] 众星微：公司12款量产产品累计出货超80万颗
    来源：网易科技
    链接：https://www.163.com/dy/article/L9A0G42A0534A4SC.html
    角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “众星微：公司12款量产产品累计出货超80万颗” against primary-source evidence.
 
-4. [2026-10-15] 覆盖1000余个场景，工信部发布人工智能“产业导
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L9A6DK560534A4SC.html
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “覆盖1000余个场景，工信部发布人工智能“产业导” against primary-source evidence.
+3. [2026-10-15] 德拉吉称AI驱动的生产率增长可助美国稳定债务 前提是国会遏制赤字
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-iniviekk4739473.shtml
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “德拉吉称AI驱动的生产率增长可助美国稳定债务 前提是国会遏制赤字” against primary-source evidence.
+
+4. [2026-10-15] 稀土反制精准命中！中国制裁ASML关键供应商：欧盟马上解除中企限制
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-10-15/doc-iniviekf8044336.shtml
+   角度：Explain the rule, the implementation mechanism and the consequences for technology competition, dialogue and supply-chain consequences, rather than repeating official language. For this item, test the claim behind “稀土反制精准命中！中国制裁ASML关键供应商：欧盟马上解除中企限制” against primary-source evidence.
 
 5. [2026-10-15] 美国人工智能投资潮引发三大风险
    来源：科技日报
@@ -39,19 +39,20 @@ ChenChen 今日 Briefing｜V3
    角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国人工智能投资潮引发三大风险” against primary-source evidence.
 
 本次新增线索：
-- 第二届电子纸生态及产业融合创新发展论坛在京举行 Kaleido 4彩色电子纸和汉王M10C二代全球首发｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-15/doc-iniviekn1475762.shtml
-- 稀土反制精准命中！中国制裁ASML关键供应商：欧盟马上解除中企限制｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-15/doc-iniviekf8044336.shtml
-- 覆盖1000余个场景，工信部发布人工智能“产业导｜网易科技｜https://www.163.com/dy/article/L9A6DK560534A4SC.html
-- DeepSeek致歉：抱歉带来不便与困扰，将以赠金形式返还7日消耗金额｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-10-15/doc-iniviekk4672755.shtml
-- 全球首发：万拿NOVA21灵巧手，拓展灵巧操作研究边界｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-15/doc-iniviekk4662091.shtml
+- 德拉吉称AI驱动的生产率增长可助美国稳定债务 前提是国会遏制赤字｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-iniviekk4739473.shtml
+- 小鹏 MONA 系列上市两年来累计交付超 35 万台，M03 连续 24 个月蝉联 10 万-20 万元纯电轿车销冠｜IT之家｜https://www.ithome.com/1/013/611.htm
+- 成片媲美相机！小米18 Fold正在适配小米18 Pro同款“传奇一瞬”功能｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-15/doc-iniviekc7341439.shtml
+- 国内一半AI算力被指在造爽剧，用于研发仅15%｜网易科技｜https://www.163.com/dy/article/L9A5DAHV0534A4SC.html
+- SK 海力士推出 3D FeNAND 技术，瞄准 AI 计算｜IT之家｜https://www.ithome.com/1/013/604.htm
+- AI In Education Is Forcing Schools To Explain Why Learning Matters｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/ai-education-forcing-schools-explain-110000030.html
 
 今日热点方向：
 - AI 应用：AI动态（15 条，5 个来源）
-- 芯片/半导体：半导体供应链（7 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 芯片/半导体：半导体供应链（6 条，2 个来源）
+- 机器人/具身智能：
 - 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）
 - 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（6 条，3 个来源）
+- 科学前沿：科学前沿动态（5 条，2 个来源）
 
 国际科技背景：
 1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai
