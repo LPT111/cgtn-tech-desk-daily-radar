@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/14 19:59:53
+生成时间：2026/10/15 08:58:22
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 9 条｜国际 0 条
-延续跟踪线索：国内 60 条｜国际 28 条
+新增核心线索：国内 31 条｜国际 8 条
+延续跟踪线索：国内 0 条｜国际 18 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-14] 徐汇本土AI产品跑出亮眼成绩！商汤小浣熊多项指标位居行业前列
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/wm/2026-10-14/doc-iniveefk0480496.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “徐汇本土AI产品跑出亮眼成绩！商汤小浣熊多项指标位居行业前列” against primary-source evidence.
-
-2. [2026-10-14] 对话RoboStrategy机器人研究与尽调主管斯考特·沃尔特：下一届人形机器人运动会，想看“十项全能”比拼
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tob/2026-10-14/doc-inivcxxr7816641.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “对话RoboStrategy机器人研究与尽调主管斯考特·沃尔特：下一届人形机器人运动会，想看“十项全能”比拼” against primary-source evidence.
-
-3. [2026-10-14] 2026低空经济产业发展大会在四川自贡举行
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-14/doc-inivezmk4480970.shtml
-   角度：Pair launch or flight visuals with evidence on urban services, logistics, safety and regulation, customers, regulation and operational readiness. For this item, test the claim behind “2026低空经济产业发展大会在四川自贡举行” against primary-source evidence.
-
-4. [2026-10-14] 当逻辑折叠重构SoC：麒麟9050系列，跳出摩尔赛道的新答案
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-10-14/doc-iniveqvi7809494.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “当逻辑折叠重构SoC：麒麟9050系列，跳出摩尔赛道的新答案” against primary-source evidence.
-
-5. [2026-10-14] SK海力士据称推迟部分HBM4后道设备订单，扩产是
+1. [2026-10-15] 全球智能手机出货量第三季度同比降20%，创14年
    来源：网易科技
-   链接：https://www.163.com/dy/article/L97GPPGF05198CJN.html
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “SK海力士据称推迟部分HBM4后道设备订单，扩产是” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L98VCESF0512B07B.html
+   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “全球智能手机出货量第三季度同比降20%，创14年” against primary-source evidence.
+
+2. [2026-10-15] OpenAI 和 Anthropic 被欧盟调查，若认定违反 AI 法案最高罚全球 3% 营业额
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-15/doc-inivhaww4459020.shtml
+   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI 和 Anthropic 被欧盟调查，若认定违反 AI 法案最高罚全球 3% 营业额” against primary-source evidence.
+
+3. [2026-10-15] 影响市场重大事件：2026物理AI与世界模型大会将于10月19日至22日在南京举行
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L98TAIML0512B07B.html
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “影响市场重大事件：2026物理AI与世界模型大会将于10月19日至22日在南京举行” against primary-source evidence.
+
+4. [2026-10-15] Linux 之父托瓦兹推出首个 AI 辅助开发的补丁：并发文件读取吞吐量提升约 3 倍
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-15/doc-inivhier8092931.shtml
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Linux 之父托瓦兹推出首个 AI 辅助开发的补丁：并发文件读取吞吐量提升约 3 倍” against primary-source evidence.
+
+5. [2026-10-15] 财经早报丨热搜第一！香港周生生发生珠宝劫案，美国最新物价数据公布，美联储加息概率飙升丨2026年10月15日
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/y/2026-10-15/doc-inivhawy1242664.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “财经早报丨热搜第一！香港周生生发生珠宝劫案，美国最新物价数据公布，美联储加息概率飙升丨2026年10月15日” against primary-source evidence.
 
 本次新增线索：
-- 2026低空经济产业发展大会在四川自贡举行｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-14/doc-inivezmk4480970.shtml
-- 马斯克又要搞事！SpaceX星舰发射频次暴涨18倍：从25次暴增到456次｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-14/doc-inivezmk4472965.shtml
-- 德国机器人性骚扰16岁少女：已被警方“逮捕”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-14/doc-inivcxxp7150442.shtml
-- 纯电紧凑型SUV！大众ID.CROSS实车亮相：外观硬核｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-14/doc-iniveefk0439159.shtml
-- 主业持续承压下小鹏集团开放生态全领域技术合作 寻求收入新增长点｜网易科技｜https://www.163.com/dy/article/L97EB84I05198CJN.html
+- 全球智能手机出货量第三季度同比降20%，创14年｜网易科技｜https://www.163.com/dy/article/L98VCESF0512B07B.html
+- OpenAI 和 Anthropic 被欧盟调查，若认定违反 AI 法案最高罚全球 3% 营业额｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-15/doc-inivhaww4459020.shtml
+- 影响市场重大事件：2026物理AI与世界模型大会将于10月19日至22日在南京举行｜网易科技｜https://www.163.com/dy/article/L98TAIML0512B07B.html
+- Linux 之父托瓦兹推出首个 AI 辅助开发的补丁：并发文件读取吞吐量提升约 3 倍｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-15/doc-inivhier8092931.shtml
+- 财经早报丨热搜第一！香港周生生发生珠宝劫案，美国最新物价数据公布，美联储加息概率飙升丨2026年10月15日｜新浪科技｜https://finance.sina.com.cn/stock/y/2026-10-15/doc-inivhawy1242664.shtml
+- Apple Reportedly Set To Launch AI Features In China Following Regulatory Approvals｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-reportedly-set-launch-ai-224111624.html
 
 今日热点方向：
-- AI 应用：AI动态（17 条，5 个来源）
-- 芯片/半导体：半导体供应链（5 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（9 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（4 条，3 个来源）
-- 科学前沿：科学前沿动态（5 条，4 个来源）
+- AI 应用：AI 应用与智能体（10 条，3 个来源）
+- 芯片/半导体：半导体供应链（3 条，2 个来源）
+- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
-1. Europeana conference in Dublin explores the role of cultural heritage in public AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/europeana-conference-dublin-explores-role-cultural-heritage-public-ai
-2. It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778
-3. OpenAI engineer charged after boardroom bug found wrapped in toilet paper｜The Register｜https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000
-4. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov
-5. Home Office asylum AI flunks one in five accuracy checks｜The Register｜https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649
+1. Apple Reportedly Set To Launch AI Features In China Following Regulatory Approvals｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-reportedly-set-launch-ai-224111624.html
+2. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai
+3. OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say｜Ars Technica｜https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/
+4. Europeana conference in Dublin explores the role of cultural heritage in public AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/europeana-conference-dublin-explores-role-cultural-heritage-public-ai
+5. It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
