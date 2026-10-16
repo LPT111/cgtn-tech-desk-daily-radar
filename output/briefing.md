@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/15 19:36:44
+生成时间：2026/10/16 08:49:38
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 2 条
-延续跟踪线索：国内 62 条｜国际 28 条
+新增核心线索：国内 34 条｜国际 11 条
+延续跟踪线索：国内 0 条｜国际 8 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-15] 第二届电子纸生态及产业融合创新发展论坛在京举行 Kaleido 4彩色电子纸和汉王M10C二代全球首发
+1. [2026-10-16] Meta杀回开源：816B新模型，两台Mac Studio就能跑
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-15/doc-iniviekn1475762.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “第二届电子纸生态及产业融合创新发展论坛在京举行 Kaleido 4彩色电子纸和汉王M10C二代全球首发” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7790029.shtml
+   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Meta杀回开源：816B新模型，两台Mac Studio就能跑” against primary-source evidence.
 
-2. [2026-10-15] 众星微：公司12款量产产品累计出货超80万颗
+2. [2026-10-16] 可灵AI新一代模型Kling 4.0正式上线
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/shenji/2026-10-16/doc-inivkncr7784960.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “可灵AI新一代模型Kling 4.0正式上线” against primary-source evidence.
+
+3. [2026-10-16] 小米揭秘新款米家三筒洗衣机三大升级：容量更大、洗护更强、AI更聪明
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncx8231428.shtml
+   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “小米揭秘新款米家三筒洗衣机三大升级：容量更大、洗护更强、AI更聪明” against primary-source evidence.
+
+4. [2026-10-16] AI早报 | OpenAI算力业务负责人据悉将离职；英
    来源：网易科技
-   链接：https://www.163.com/dy/article/L9A0G42A0534A4SC.html
-   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “众星微：公司12款量产产品累计出货超80万颗” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L9BLE38E0534A4SC.html
+   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI早报 | OpenAI算力业务负责人据悉将离职；英” against primary-source evidence.
 
-3. [2026-10-15] 德拉吉称AI驱动的生产率增长可助美国稳定债务 前提是国会遏制赤字
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-iniviekk4739473.shtml
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “德拉吉称AI驱动的生产率增长可助美国稳定债务 前提是国会遏制赤字” against primary-source evidence.
-
-4. [2026-10-15] 稀土反制精准命中！中国制裁ASML关键供应商：欧盟马上解除中企限制
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-10-15/doc-iniviekf8044336.shtml
-   角度：Explain the rule, the implementation mechanism and the consequences for technology competition, dialogue and supply-chain consequences, rather than repeating official language. For this item, test the claim behind “稀土反制精准命中！中国制裁ASML关键供应商：欧盟马上解除中企限制” against primary-source evidence.
-
-5. [2026-10-15] 美国人工智能投资潮引发三大风险
-   来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-10/15/content_596686.html
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “美国人工智能投资潮引发三大风险” against primary-source evidence.
+5. [00:47] 英伟达黄仁勋称 AI 芯片需求持续超过供应能力：几乎每天都有新订单涌入
+   来源：IT之家
+   链接：https://www.ithome.com/1/013/721.htm
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “英伟达黄仁勋称 AI 芯片需求持续超过供应能力：几乎每天都有新订单涌入” against primary-source evidence.
 
 本次新增线索：
-- 德拉吉称AI驱动的生产率增长可助美国稳定债务 前提是国会遏制赤字｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-iniviekk4739473.shtml
-- 小鹏 MONA 系列上市两年来累计交付超 35 万台，M03 连续 24 个月蝉联 10 万-20 万元纯电轿车销冠｜IT之家｜https://www.ithome.com/1/013/611.htm
-- 成片媲美相机！小米18 Fold正在适配小米18 Pro同款“传奇一瞬”功能｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-15/doc-iniviekc7341439.shtml
-- 国内一半AI算力被指在造爽剧，用于研发仅15%｜网易科技｜https://www.163.com/dy/article/L9A5DAHV0534A4SC.html
-- SK 海力士推出 3D FeNAND 技术，瞄准 AI 计算｜IT之家｜https://www.ithome.com/1/013/604.htm
-- AI In Education Is Forcing Schools To Explain Why Learning Matters｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/ai-education-forcing-schools-explain-110000030.html
+- Meta杀回开源：816B新模型，两台Mac Studio就能跑｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7790029.shtml
+- 可灵AI新一代模型Kling 4.0正式上线｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-10-16/doc-inivkncr7784960.shtml
+- 小米揭秘新款米家三筒洗衣机三大升级：容量更大、洗护更强、AI更聪明｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncx8231428.shtml
+- AI早报 | OpenAI算力业务负责人据悉将离职；英｜网易科技｜https://www.163.com/dy/article/L9BLE38E0534A4SC.html
+- 英伟达黄仁勋称 AI 芯片需求持续超过供应能力：几乎每天都有新订单涌入｜IT之家｜https://www.ithome.com/1/013/721.htm
+- Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
 
 今日热点方向：
-- AI 应用：AI动态（15 条，5 个来源）
-- 芯片/半导体：半导体供应链（6 条，2 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（5 条，2 个来源）
+- AI 应用：AI动态（8 条，4 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（1 条，1 个来源）
+- 机器人/具身智能：机器人动态（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
 1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai
-2. Europeana conference in Dublin explores the role of cultural heritage in public AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/europeana-conference-dublin-explores-role-cultural-heritage-public-ai
-3. It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778
-4. OpenAI engineer charged after boardroom bug found wrapped in toilet paper｜The Register｜https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000
-5. OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say｜Ars Technica｜https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/
+2. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
+3. Anthropic is letting METR researchers look under the hood with employee-level access｜TechCrunch｜https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/
+4. AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off｜CNBC Technology｜https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html
+5. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
