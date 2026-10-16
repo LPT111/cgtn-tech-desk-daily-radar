@@ -1,64 +1,54 @@
 {
-  "generatedAt": "2026-10-16T01:12:31.822Z",
+  "generatedAt": "2026-10-16T01:29:10.062Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-16",
   "changeSummary": {
-    "domesticNew": 13,
-    "globalNew": 6,
-    "domesticContinued": 25,
-    "globalContinued": 18,
+    "domesticNew": 5,
+    "globalNew": 3,
+    "domesticContinued": 37,
+    "globalContinued": 23,
     "topNewDomestic": [
       {
-        "title": "直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量",
+        "title": "柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7816277.shtml"
       },
       {
-        "title": "Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行",
+        "title": "首批人形机器人领域国家标准发布",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7113783.shtml"
+      },
+      {
+        "title": "杨天若院士：AI是中国弯道超车的机会",
         "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L9B3M88P05198CJN.html"
+        "url": "https://www.163.com/tech/article/L9BOT94M00097U7T.html"
       },
       {
-        "title": "AI早报｜OpenAI算力业务负责人据悉将离职；英伟",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/L9BO0IS00534A4SC.html"
+        "title": "大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘",
+        "source": "科技日报",
+        "url": "https://www.stdaily.com/web/gdxw/2026-10/16/content_597053.html"
       },
       {
-        "title": "人形机器人开始进入汽车产线，但工厂要的不只是会干活",
+        "title": "张雪谈自动驾驶两轮电动车：有点搞笑 一刹车我人就倒了",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7108229.shtml"
-      },
-      {
-        "title": "英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7099996.shtml"
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-10-16/doc-inivkncr7779423.shtml"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "It won't kill you, or humanity, to get off the AI upgrade treadmill",
-        "source": "The Register",
-        "url": "https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778"
+        "title": "Google's $5 AI plan is getting a major downgrade starting November 13",
+        "source": "Yahoo News Technology",
+        "url": "https://tech.yahoo.com/ai/gemini/articles/googles-5-ai-plan-getting-211545124.html"
       },
       {
-        "title": "OpenAI engineer charged after boardroom bug found wrapped in toilet paper",
-        "source": "The Register",
-        "url": "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000"
+        "title": "You bought a Samsung TV to watch shows, but a lawsuit says it could be watching you too",
+        "source": "Yahoo News Technology",
+        "url": "https://tech.yahoo.com/cybersecurity/articles/bought-samsung-tv-watch-shows-010056538.html"
       },
       {
-        "title": "OpenAI claims 100-plus secret files followed ex-employee back to Apple",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/15/openai-claims-100-plus-secret-files-followed-ex-employee-back-to-apple/5303202"
-      },
-      {
-        "title": "Cisco, Nvidia team up to build fatter, faster pluggable",
-        "source": "The Register",
-        "url": "https://www.theregister.com/networks/2026/10/14/cisco-nvidia-team-up-to-build-fatter-faster-pluggable/5302970"
-      },
-      {
-        "title": "$24,000 AI experiment ports TypeScript compiler to Rust",
-        "source": "The Register",
-        "url": "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409"
+        "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"
       }
     ],
     "hasPrevious": true
@@ -67,8 +57,8 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 862,
-    "globalRejected": 876,
+    "domesticRejected": 858,
+    "globalRejected": 874,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -82,7 +72,7 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 29,
+  "successSources": 26,
   "failedSources": [
     {
       "name": "中国科学院",
@@ -100,14 +90,29 @@
       "optional": false
     },
     {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -132,14 +137,29 @@
       "optional": false
     },
     {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -323,7 +343,8 @@
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -344,8 +365,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 12,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -353,7 +375,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -366,8 +388,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -400,13 +423,13 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1490,
+  "itemsSeen": 1417,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 196,
-  "itemsAfterDedupe": 154,
-  "todayItemsSeen": 38,
-  "suspectedItemsSeen": 13,
-  "skippedNonToday": 101,
+  "itemsAfterRelevantFilter": 200,
+  "itemsAfterDedupe": 156,
+  "todayItemsSeen": 42,
+  "suspectedItemsSeen": 14,
+  "skippedNonToday": 98,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -583,7 +606,8 @@
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -604,8 +628,9 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 12,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -613,7 +638,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
     },
     {
@@ -626,8 +651,9 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 61,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -830,14 +856,29 @@
       "optional": false
     },
     {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
     },
     {
+      "name": "国家网信办",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "国家网信办-政策",
-      "error": "404 Not Found",
+      "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "市场监管总局",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -871,26 +912,8 @@
   "globalSuccessSources": 17,
   "globalItemsSeen": 967,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 181,
+  "globalItemsAfterRelevantFilter": 184,
   "topics": [
-    {
-      "topic": "AI动态",
-      "count": 9,
-      "sourceCount": 4,
-      "sources": [
-        "新浪科技",
-        "网易科技",
-        "科技日报",
-        "IT之家"
-      ],
-      "items": [
-        "可灵AI新一代模型Kling 4.0正式上线",
-        "亚马逊“PP 哥”帕诺斯 · 帕奈：未来的 AI 设备或让人不再需要使用 App",
-        "Meta发布开源AI模型，核心尖端技术保持闭源",
-        "CNN与谷歌达成多年合作 探索生成式AI提升新闻内容触达",
-        "专访前阿里副总裁叶军：离开大厂更有自由度，AI"
-      ]
-    },
     {
       "topic": "AI 应用与智能体",
       "count": 11,
@@ -902,10 +925,43 @@
       ],
       "items": [
         "Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行",
-        "AI早报｜OpenAI算力业务负责人据悉将离职；英伟",
         "小米揭秘新款米家三筒洗衣机三大升级：容量更大、洗护更强、AI更聪明",
-        "小米开源空间音频理解大模型MiDashengLM-Spatial",
-        "OpenAI 智能体 dots 负责人：有了 AI，人们可以选择更努力工作，也可以选择少干点活"
+        "AI早报｜OpenAI算力业务负责人据悉将离职；英伟",
+        "美国八个州同步对OpenAI发起诉讼 指控ChatGPT存在系统性风险",
+        "小米开源空间音频理解大模型MiDashengLM-Spatial"
+      ]
+    },
+    {
+      "topic": "AI动态",
+      "count": 10,
+      "sourceCount": 3,
+      "sources": [
+        "新浪科技",
+        "网易科技",
+        "IT之家"
+      ],
+      "items": [
+        "柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI",
+        "杨天若院士：AI是中国弯道超车的机会",
+        "可灵AI新一代模型Kling 4.0正式上线",
+        "CNN与谷歌达成多年合作 探索生成式AI提升新闻内容触达",
+        "亚马逊“PP 哥”帕诺斯 · 帕奈：未来的 AI 设备或让人不再需要使用 App"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
+      "count": 4,
+      "sourceCount": 3,
+      "sources": [
+        "网易科技",
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "宁德时代注册“宁的易购”商标；今年前9个月动",
+        "张雪谈自动驾驶两轮电动车：有点搞笑 一刹车我人就倒了",
+        "前三季度我国汽车出口同比增长65.8%",
+        "沃尔沃与英伟达扩大合作，进一步提升未来车型自动驾驶安全性"
       ]
     },
     {
@@ -924,21 +980,6 @@
       ]
     },
     {
-      "topic": "新能源车与智能驾驶",
-      "count": 3,
-      "sourceCount": 3,
-      "sources": [
-        "网易科技",
-        "新浪科技",
-        "IT之家"
-      ],
-      "items": [
-        "宁德时代注册“宁的易购”商标；今年前9个月动",
-        "前三季度我国汽车出口同比增长65.8%",
-        "沃尔沃与英伟达扩大合作，进一步提升未来车型自动驾驶安全性"
-      ]
-    },
-    {
       "topic": "新能源车动态",
       "count": 4,
       "sourceCount": 2,
@@ -951,6 +992,18 @@
         "汽车早报｜尊界回应三部门联合调查 特斯拉能源业务负责人据悉已离职",
         "老车主集体过年！2017年的特斯拉Model S/X喜提FSD V14 Lite",
         "财联社汽车早报「10月16日」"
+      ]
+    },
+    {
+      "topic": "人形机器人与具身智能",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "首批人形机器人领域国家标准发布",
+        "人形机器人开始进入汽车产线，但工厂要的不只是会干活"
       ]
     },
     {
@@ -977,17 +1030,6 @@
       ]
     },
     {
-      "topic": "人形机器人与具身智能",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "人形机器人开始进入汽车产线，但工厂要的不只是会干活"
-      ]
-    },
-    {
       "topic": "科学前沿与科研设施",
       "count": 1,
       "sourceCount": 1,
@@ -1007,6 +1049,17 @@
       ],
       "items": [
         "欧盟据悉拟快速审批欧洲卫星合资项目"
+      ]
+    },
+    {
+      "topic": "科学前沿动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "科技日报"
+      ],
+      "items": [
+        "大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘"
       ]
     },
     {
@@ -1033,6 +1086,142 @@
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI",
+      "summary": "10月16日快科技消息，国际顶级医学期刊《柳叶刀》发布由35名跨学科专家联合完成的《21世纪全球健康威胁委员会》报告，评估2025至2100年全球重大健康危机。报告从17项重大威胁中，仅将核冲突、人工智能恶意使用列为具备人类灭绝潜力的风险，二者极端事件发生概率偏低，但一旦发生破坏毁灭性。其余15项威胁如气候变化等虽会造",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7816277.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7816277.shtml"
+      ],
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 184,
+      "reporterScore": 200,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 130
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "10月16日快科技消息，国际顶级医学期刊《柳叶刀》发布由35名跨学科专家联合完成的《21世纪全球健康威胁委员会》报告，评估2025至2100年全球重大健康危机。报告从17项重大威胁中，仅将核冲突、人工智能恶意使用列为具备人类灭绝潜力的风险，二者极端事件发生概率偏低，但一旦发生破坏毁灭性。其余15项威胁如气候变化等虽会造成数十亿人健康损失、大量死亡，但达不到人类灭绝级别。报告指出两类灭绝级风险均有可行防控手段，呼吁全球正视这类长期低概率但后果极端的风险。(AI生成)",
+      "relatedTitles": [
+        "柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "首批人形机器人领域国家标准发布",
+      "summary": "央视网消息：随着人形机器人产业的发展，我们期待有一天，它们能真正走进工厂搬运装配，走进家庭陪伴老人。但要让这些期待变成现实，首先要回答几个问题：什么样的人形机器人才足够“聪明”？它要具备哪些能力？安全又如何保障？近日，首批人形机器人领域国家...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7113783.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7113783.shtml"
+      ],
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 178,
+      "reporterScore": 192,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 123
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “首批人形机器人领域国家标准发布” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "央视网消息：随着人形机器人产业的发展，我们期待有一天，它们能真正走进工厂搬运装配，走进家庭陪伴老人。但要让这些期待变成现实，首先要回答几个问题：什么样的人形机器人才足够“聪明”？它要具备哪些能力？安全又如何保障？近日，首批人形机器人领域国家...",
+      "relatedTitles": [
+        "首批人形机器人领域国家标准发布"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量",
@@ -1099,7 +1288,7 @@
       "relatedTitles": [
         "直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1167,25 +1356,25 @@
       "relatedTitles": [
         "Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "AI早报｜OpenAI算力业务负责人据悉将离职；英伟",
-      "summary": "AI早报 | OpenAI算力业务负责人据悉将离职；英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片,芯片,黄仁勋,科技巨头,蒂姆·库克,openai,英伟达ceo",
+      "title": "杨天若院士：AI是中国弯道超车的机会",
+      "summary": "杨天若院士：AI是中国弯道超车的机会,杨天,院士,人工智能,机器人,牛顿,杨天若",
       "source": "网易科技",
       "sources": [
         "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L9BO0IS00534A4SC.html",
+      "url": "https://www.163.com/tech/article/L9BOT94M00097U7T.html",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L9BO0IS00534A4SC.html"
+        "https://www.163.com/tech/article/L9BOT94M00097U7T.html"
       ],
       "publishedAt": "2026-10-16",
       "date": "2026-10-16",
       "category": "AI",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.94,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1196,44 +1385,44 @@
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
       "score": 175,
-      "reporterScore": 183,
+      "reporterScore": 181,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 12,
-        "visual": 0,
+        "visual": 8,
         "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
       },
       "reporterSignals": {
         "primary": false,
-        "visual": false,
+        "visual": true,
         "international": false,
-        "interview": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 120
+        "reporterScore": 118
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI早报｜OpenAI算力业务负责人据悉将离职；英伟” against primary-source evidence.",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “杨天若院士：AI是中国弯道超车的机会” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "AI早报｜OpenAI算力业务负责人据悉将离职；英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片,芯片,黄仁勋,科技巨头,蒂姆·库克,openai,英伟达ceo",
+      "matchedTopic": "AI动态",
+      "rawText": "杨天若院士：AI是中国弯道超车的机会,杨天,院士,人工智能,机器人,牛顿,杨天若",
       "relatedTitles": [
-        "AI早报｜OpenAI算力业务负责人据悉将离职；英伟"
+        "杨天若院士：AI是中国弯道超车的机会"
       ],
       "isNewSinceLastRun": true
     },
@@ -1375,142 +1564,6 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "人形机器人开始进入汽车产线，但工厂要的不只是会干活",
-      "summary": "对人形机器人来说，把一个汽车零部件从料框放到产线上，并不是一件容易的事。工人十几秒钟完成的动作，机器人需要约35秒，且不能打乱生产节拍。10月15日，界面新闻记者在位于杭州的兆丰机电工厂看到，乐聚的多台人形机器人分布在汽车零部件产线不同工位...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7108229.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7108229.shtml"
-      ],
-      "publishedAt": "2026-10-16",
-      "date": "2026-10-16",
-      "category": "机器人",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 90,
-      "keywords": "robotics, embodied intelligence and smart manufacturing",
-      "priority": 5,
-      "score": 170,
-      "reporterScore": 176,
-      "scoreBreakdown": {
-        "hardTech": 90,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “人形机器人开始进入汽车产线，但工厂要的不只是会干活” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "人形机器人与具身智能",
-      "rawText": "对人形机器人来说，把一个汽车零部件从料框放到产线上，并不是一件容易的事。工人十几秒钟完成的动作，机器人需要约35秒，且不能打乱生产节拍。10月15日，界面新闻记者在位于杭州的兆丰机电工厂看到，乐聚的多台人形机器人分布在汽车零部件产线不同工位...",
-      "relatedTitles": [
-        "人形机器人开始进入汽车产线，但工厂要的不只是会干活"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入",
-      "summary": "快科技10月16日消息，英伟达CEO黄仁勋表示，客户对人工智能(AI)芯片的订购需求持续超过公司供应能力。在周四发布的“BG2”播客访谈中，黄仁勋透露，新订单“几乎每周、甚至每天”都在涌入，“我们不断增加供应，订单量也在持续增长。”大型云服...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7099996.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7099996.shtml"
-      ],
-      "publishedAt": "2026-10-16",
-      "date": "2026-10-16",
-      "category": "AI",
-      "classificationConfidence": 0.83,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 165,
-      "reporterScore": 173,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "快科技10月16日消息，英伟达CEO黄仁勋表示，客户对人工智能(AI)芯片的订购需求持续超过公司供应能力。在周四发布的“BG2”播客访谈中，黄仁勋透露，新订单“几乎每周、甚至每天”都在涌入，“我们不断增加供应，订单量也在持续增长。”大型云服...",
-      "relatedTitles": [
-        "英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "小米揭秘新款米家三筒洗衣机三大升级：容量更大、洗护更强、AI更聪明",
       "summary": "10月16日据快科技消息，小米发布《小米大家电答网友问（第4期）》，详解全新米家三筒洗衣机健康洗Pro 14kg的升级亮点。该产品在机身尺寸与上一代三区洗Pro滚筒10kg一致的前提下，实现三大升级：容量上主筒从10kg升至11kg，两个小筒均从0.4kg升至1.5kg，筒径增大64%、深度增加60%；洗护能力搭载超电",
       "source": "新浪科技",
@@ -1578,153 +1631,17 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "亚马逊“PP 哥”帕诺斯 · 帕奈：未来的 AI 设备或让人不再需要使用 App",
-      "summary": "IT之家 10 月 16 日消息，亚马逊看好环境计算，认为个人 AI 的未来不在应用程序，而在能够主动理解用户需求的智能设备。当地时间 15 日，亚马逊旗下 Bee 发布了新款 AI 可穿戴设备。同日，亚马逊设备、Alexa 及 Leo 业...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncx8268434.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncx8268434.shtml"
-      ],
-      "publishedAt": "2026-10-16",
-      "date": "2026-10-16",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “亚马逊“PP 哥”帕诺斯 · 帕奈：未来的 AI 设备或让人不再需要使用 App” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "IT之家 10 月 16 日消息，亚马逊看好环境计算，认为个人 AI 的未来不在应用程序，而在能够主动理解用户需求的智能设备。当地时间 15 日，亚马逊旗下 Bee 发布了新款 AI 可穿戴设备。同日，亚马逊设备、Alexa 及 Leo 业...",
-      "relatedTitles": [
-        "亚马逊“PP 哥”帕诺斯 · 帕奈：未来的 AI 设备或让人不再需要使用 App"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "Meta发布开源AI模型，核心尖端技术保持闭源",
-      "summary": "Meta发布开源AI模型，核心尖端技术保持闭源,编程,meta,开源ai,高吞吐量内核",
+      "title": "AI早报｜OpenAI算力业务负责人据悉将离职；英伟",
+      "summary": "AI早报 | OpenAI算力业务负责人据悉将离职；英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片,芯片,黄仁勋,科技巨头,蒂姆·库克,openai,英伟达ceo",
       "source": "网易科技",
       "sources": [
         "网易科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L9BI5TOF0534A4SC.html",
+      "url": "https://www.163.com/dy/article/L9BO0IS00534A4SC.html",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L9BI5TOF0534A4SC.html"
-      ],
-      "publishedAt": "2026-10-16",
-      "date": "2026-10-16",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta发布开源AI模型，核心尖端技术保持闭源” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "Meta发布开源AI模型，核心尖端技术保持闭源,编程,meta,开源ai,高吞吐量内核",
-      "relatedTitles": [
-        "Meta发布开源AI模型，核心尖端技术保持闭源"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "小米开源空间音频理解大模型MiDashengLM-Spatial",
-      "summary": "小米开源空间音频理解大模型MiDashengLM-Spatial,智能家居,开源空间,小米集团,液态玻璃,spatial,midashenglm",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L9BNQ1K70534A4SC.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L9BNQ1K70534A4SC.html"
+        "https://www.163.com/dy/article/L9BO0IS00534A4SC.html"
       ],
       "publishedAt": "2026-10-16",
       "date": "2026-10-16",
@@ -1739,8 +1656,8 @@
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 167,
-      "reporterScore": 167,
+      "score": 175,
+      "reporterScore": 183,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
@@ -1752,74 +1669,6 @@
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “小米开源空间音频理解大模型MiDashengLM-Spatial” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "小米开源空间音频理解大模型MiDashengLM-Spatial,智能家居,开源空间,小米集团,液态玻璃,spatial,midashenglm",
-      "relatedTitles": [
-        "小米开源空间音频理解大模型MiDashengLM-Spatial"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "OpenAI 智能体 dots 负责人：有了 AI，人们可以选择更努力工作，也可以选择少干点活",
-      "summary": "他认为，随着 AI 能力不断提升，人们可以选择更加努力地工作，也可以把部分工作交给 AI，让自己轻松一些。“我们有了更多选择。”",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/013/703.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/013/703.htm"
-      ],
-      "publishedAt": "Thu, 15 Oct 2026 23:24:50 GMT",
-      "date": "2026-10-16",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 159,
-      "reporterScore": 167,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
         "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
@@ -1840,14 +1689,82 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 智能体 dots 负责人：有了 AI，人们可以选择更努力工作，也可以选择少干点活” against primary-source evidence.",
+      "angle": "Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI早报｜OpenAI算力业务负责人据悉将离职；英伟” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "他认为，随着 AI 能力不断提升，人们可以选择更加努力地工作，也可以把部分工作交给 AI，让自己轻松一些。“我们有了更多选择。”",
+      "rawText": "AI早报｜OpenAI算力业务负责人据悉将离职；英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片,芯片,黄仁勋,科技巨头,蒂姆·库克,openai,英伟达ceo",
       "relatedTitles": [
-        "OpenAI 智能体 dots 负责人：有了 AI，人们可以选择更努力工作，也可以选择少干点活"
+        "AI早报｜OpenAI算力业务负责人据悉将离职；英伟"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "人形机器人开始进入汽车产线，但工厂要的不只是会干活",
+      "summary": "对人形机器人来说，把一个汽车零部件从料框放到产线上，并不是一件容易的事。工人十几秒钟完成的动作，机器人需要约35秒，且不能打乱生产节拍。10月15日，界面新闻记者在位于杭州的兆丰机电工厂看到，乐聚的多台人形机器人分布在汽车零部件产线不同工位...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7108229.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7108229.shtml"
+      ],
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "category": "机器人",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 170,
+      "reporterScore": 176,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “人形机器人开始进入汽车产线，但工厂要的不只是会干活” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "对人形机器人来说，把一个汽车零部件从料框放到产线上，并不是一件容易的事。工人十几秒钟完成的动作，机器人需要约35秒，且不能打乱生产节拍。10月15日，界面新闻记者在位于杭州的兆丰机电工厂看到，乐聚的多台人形机器人分布在汽车零部件产线不同工位...",
+      "relatedTitles": [
+        "人形机器人开始进入汽车产线，但工厂要的不只是会干活"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1919,38 +1836,38 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "曝宁德时代乘用车业务换帅，将加快推进换电",
-      "summary": "IT之家 10 月 16 日消息，据 36 氪 10 月 15 日晚报道，宁德时代乘用车体系迎来重磅调整，宁德时代换电业务负责人、时代电服 CEO 杨峻将接替韩伟，兼任市场体系联席总裁，原市场体系联席总裁韩伟将回归商用车业务。报道称，国内乘...",
+      "title": "英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入",
+      "summary": "快科技10月16日消息，英伟达CEO黄仁勋表示，客户对人工智能(AI)芯片的订购需求持续超过公司供应能力。在周四发布的“BG2”播客访谈中，黄仁勋透露，新订单“几乎每周、甚至每天”都在涌入，“我们不断增加供应，订单量也在持续增长。”大型云服...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncp7106953.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7099996.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncp7106953.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7099996.shtml"
       ],
       "publishedAt": "2026-10-16",
       "date": "2026-10-16",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
+      "category": "AI",
+      "classificationConfidence": 0.83,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
+      "score": 165,
+      "reporterScore": 173,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
+        "multiSource": 12,
+        "cgtFocus": 12,
         "visual": 0,
         "international": 0,
         "policy": 0,
@@ -1968,22 +1885,22 @@
         "interview": true,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
+        "hardTechWeight": 95,
+        "reporterScore": 120
       },
       "isPrimarySource": false,
       "hasInterviewValue": true,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Report the industrial consequence of battery innovation and infrastructure: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “曝宁德时代乘用车业务换帅，将加快推进换电” against primary-source evidence.",
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "IT之家 10 月 16 日消息，据 36 氪 10 月 15 日晚报道，宁德时代乘用车体系迎来重磅调整，宁德时代换电业务负责人、时代电服 CEO 杨峻将接替韩伟，兼任市场体系联席总裁，原市场体系联席总裁韩伟将回归商用车业务。报道称，国内乘...",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "快科技10月16日消息，英伟达CEO黄仁勋表示，客户对人工智能(AI)芯片的订购需求持续超过公司供应能力。在周四发布的“BG2”播客访谈中，黄仁勋透露，新订单“几乎每周、甚至每天”都在涌入，“我们不断增加供应，订单量也在持续增长。”大型云服...",
       "relatedTitles": [
-        "曝宁德时代乘用车业务换帅，将加快推进换电"
+        "英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2122,6 +2039,142 @@
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "亚马逊“PP 哥”帕诺斯 · 帕奈：未来的 AI 设备或让人不再需要使用 App",
+      "summary": "IT之家 10 月 16 日消息，亚马逊看好环境计算，认为个人 AI 的未来不在应用程序，而在能够主动理解用户需求的智能设备。当地时间 15 日，亚马逊旗下 Bee 发布了新款 AI 可穿戴设备。同日，亚马逊设备、Alexa 及 Leo 业...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncx8268434.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncx8268434.shtml"
+      ],
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “亚马逊“PP 哥”帕诺斯 · 帕奈：未来的 AI 设备或让人不再需要使用 App” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "IT之家 10 月 16 日消息，亚马逊看好环境计算，认为个人 AI 的未来不在应用程序，而在能够主动理解用户需求的智能设备。当地时间 15 日，亚马逊旗下 Bee 发布了新款 AI 可穿戴设备。同日，亚马逊设备、Alexa 及 Leo 业...",
+      "relatedTitles": [
+        "亚马逊“PP 哥”帕诺斯 · 帕奈：未来的 AI 设备或让人不再需要使用 App"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "Meta发布开源AI模型，核心尖端技术保持闭源",
+      "summary": "Meta发布开源AI模型，核心尖端技术保持闭源,编程,meta,开源ai,高吞吐量内核",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L9BI5TOF0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L9BI5TOF0534A4SC.html"
+      ],
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta发布开源AI模型，核心尖端技术保持闭源” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "Meta发布开源AI模型，核心尖端技术保持闭源,编程,meta,开源ai,高吞吐量内核",
+      "relatedTitles": [
+        "Meta发布开源AI模型，核心尖端技术保持闭源"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "欧盟据悉拟快速审批欧洲卫星合资项目",
       "summary": "欧盟据悉拟快速审批欧洲卫星合资项目,欧盟,雷兹,欧洲卫星,合资项目",
@@ -2186,6 +2239,142 @@
       "rawText": "欧盟据悉拟快速审批欧洲卫星合资项目,欧盟,雷兹,欧洲卫星,合资项目",
       "relatedTitles": [
         "欧盟据悉拟快速审批欧洲卫星合资项目"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc3Rk",
+      "title": "大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘",
+      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘 2026-10-16 09:22:14 来源: 央视新闻客户端 点击数： 热点",
+      "source": "科技日报",
+      "sources": [
+        "科技日报"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.stdaily.com/web/gdxw/2026-10/16/content_597053.html",
+      "sourceUrls": [
+        "https://www.stdaily.com/web/gdxw/2026-10/16/content_597053.html"
+      ],
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "category": "科学前沿",
+      "classificationConfidence": 0.93,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 149,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘 2026-10-16 09:22:14 来源: 央视新闻客户端 点击数： 热点",
+      "relatedTitles": [
+        "大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "小米开源空间音频理解大模型MiDashengLM-Spatial",
+      "summary": "小米开源空间音频理解大模型MiDashengLM-Spatial,智能家居,开源空间,小米集团,液态玻璃,spatial,midashenglm",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L9BNQ1K70534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L9BNQ1K70534A4SC.html"
+      ],
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “小米开源空间音频理解大模型MiDashengLM-Spatial” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "小米开源空间音频理解大模型MiDashengLM-Spatial,智能家居,开源空间,小米集团,液态玻璃,spatial,midashenglm",
+      "relatedTitles": [
+        "小米开源空间音频理解大模型MiDashengLM-Spatial"
       ],
       "isNewSinceLastRun": false
     },
@@ -2327,6 +2516,74 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "OpenAI 智能体 dots 负责人：有了 AI，人们可以选择更努力工作，也可以选择少干点活",
+      "summary": "他认为，随着 AI 能力不断提升，人们可以选择更加努力地工作，也可以把部分工作交给 AI，让自己轻松一些。“我们有了更多选择。”",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/013/703.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/013/703.htm"
+      ],
+      "publishedAt": "Thu, 15 Oct 2026 23:24:50 GMT",
+      "date": "2026-10-16",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 智能体 dots 负责人：有了 AI，人们可以选择更努力工作，也可以选择少干点活” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "他认为，随着 AI 能力不断提升，人们可以选择更加努力地工作，也可以把部分工作交给 AI，让自己轻松一些。“我们有了更多选择。”",
+      "relatedTitles": [
+        "OpenAI 智能体 dots 负责人：有了 AI，人们可以选择更努力工作，也可以选择少干点活"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "苹果营销主管谈 OpenAI 硬件：我们没感到有威胁，相比追逐 AGI 更重视用户隐私与日常使用体验",
       "summary": "乔斯维亚克称苹果软硬件整合能带来更好体验，产品目标是服务普通用户而非狂热 AI 爱好者，目前重点打造个性化隐私友好 AI，不追逐 AGI。#苹果AI#",
       "source": "IT之家",
@@ -2392,142 +2649,6 @@
         "苹果营销主管谈 OpenAI 硬件：我们没感到有威胁，相比追逐 AGI 更重视用户隐私与日常使用体验"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "平衡成本控制与价值创造，推动AI的规模化应用",
-      "summary": "AI和生成式AI用例从试点向生产环境的过渡，正在显著推高对计算能力的需求。氛围编码（vibe coding）以及嵌入业务工作流中的AI智能体等各类AI用例，都需要使用大语言模型来执行多步骤推理、自主任务编排和迭代式验证周期。这些工作负载显著...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7838061.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7838061.shtml"
-      ],
-      "publishedAt": "2026-10-16",
-      "date": "2026-10-16",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “平衡成本控制与价值创造，推动AI的规模化应用” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "AI和生成式AI用例从试点向生产环境的过渡，正在显著推高对计算能力的需求。氛围编码（vibe coding）以及嵌入业务工作流中的AI智能体等各类AI用例，都需要使用大语言模型来执行多步骤推理、自主任务编排和迭代式验证周期。这些工作负载显著...",
-      "relatedTitles": [
-        "平衡成本控制与价值创造，推动AI的规模化应用"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "专访前阿里副总裁叶军：离开大厂更有自由度，AI",
-      "summary": "专访前阿里副总裁叶军：离开大厂更有自由度，AI创业不抢入口抢生态,叶军,飞轮,自由度,ai创业,知名企业,阿里巴巴集团",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L9BKJ0DL0534A4SC.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/L9BKJ0DL0534A4SC.html"
-      ],
-      "publishedAt": "2026-10-16",
-      "date": "2026-10-16",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “专访前阿里副总裁叶军：离开大厂更有自由度，AI” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "专访前阿里副总裁叶军：离开大厂更有自由度，AI创业不抢入口抢生态,叶军,飞轮,自由度,ai创业,知名企业,阿里巴巴集团",
-      "relatedTitles": [
-        "专访前阿里副总裁叶军：离开大厂更有自由度，AI"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2666,37 +2787,37 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "AI与人丨AI狂飙之下，数学界该何以自处",
-      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 AI与人丨AI狂飙之下，数学界该何以自处 2026-10-16 07:48:06 来源: 科技日报 点击数： 热点",
-      "source": "科技日报",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "曝宁德时代乘用车业务换帅，将加快推进换电",
+      "summary": "2024年10月15日晚据36氪报道，宁德时代乘用车体系迎来重磅人事调整：换电业务负责人、时代电服CEO杨峻接替韩伟兼任市场体系联席总裁，韩伟回归商用车业务；国内乘用车业务原副总裁王慧的业务由乘用车CTO高焕接棒，王慧同样回归商用车业务，此举有望打通乘用车电池销售与换电业务。截至9月29日，宁德时代巧克力换电已建成超2",
+      "source": "新浪科技",
       "sources": [
-        "科技日报"
+        "新浪科技"
       ],
-      "sourceTier": "official",
-      "url": "https://www.stdaily.com/web/gdxw/2026-10/16/content_596993.html",
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncp7106953.shtml",
       "sourceUrls": [
-        "https://www.stdaily.com/web/gdxw/2026-10/16/content_596993.html"
+        "https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncp7106953.shtml"
       ],
       "publishedAt": "2026-10-16",
       "date": "2026-10-16",
-      "category": "AI",
-      "classificationConfidence": 0.75,
+      "category": "新能源车",
+      "classificationConfidence": 0.98,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "priority": 5,
-      "score": 161,
+      "score": 153,
       "reporterScore": 161,
       "scoreBreakdown": {
-        "hardTech": 95,
+        "hardTech": 85,
         "today": 18,
-        "sourceAuthority": 18,
+        "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
@@ -2704,7 +2825,7 @@
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -2713,23 +2834,23 @@
         "primary": false,
         "visual": false,
         "international": false,
-        "interview": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 95,
+        "hardTechWeight": 85,
         "reporterScore": 110
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
+      "hasInterviewValue": true,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI与人丨AI狂飙之下，数学界该何以自处” against primary-source evidence.",
+      "format": "video",
+      "angle": "Report the industrial consequence of battery innovation and infrastructure: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “曝宁德时代乘用车业务换帅，将加快推进换电” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 AI与人丨AI狂飙之下，数学界该何以自处 2026-10-16 07:48:06 来源: 科技日报 点击数： 热点",
+      "matchedTopic": "新能源车动态",
+      "rawText": "2024年10月15日晚据36氪报道，宁德时代乘用车体系迎来重磅人事调整：换电业务负责人、时代电服CEO杨峻接替韩伟兼任市场体系联席总裁，韩伟回归商用车业务；国内乘用车业务原副总裁王慧的业务由乘用车CTO高焕接棒，王慧同样回归商用车业务，此举有望打通乘用车电池销售与换电业务。截至9月29日，宁德时代巧克力换电已建成超2520座换电站，覆盖31省200城，入仓全新电池近2万块，规划2026年底建成超3000座换电站覆盖近216城，2027年建成1000座高速换电站，远期目标布局3万座站点。(AI生成)",
       "relatedTitles": [
-        "AI与人丨AI狂飙之下，数学界该何以自处"
+        "曝宁德时代乘用车业务换帅，将加快推进换电"
       ],
       "isNewSinceLastRun": false
     },
@@ -2870,17 +2991,17 @@
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "财联社汽车早报「10月16日」",
-      "summary": "财联社汽车早报「10月16日」,特斯拉,平衡车,工信部,装车量,财联社,汽车早报,界面新闻,电动汽车",
-      "source": "网易科技",
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "张雪谈自动驾驶两轮电动车：有点搞笑 一刹车我人就倒了",
+      "summary": "10月16日快科技消息，广交会现场，张雪机车创始人张雪受访时直言当下行业热度颇高的两轮电动车自动驾驶概念“有点搞笑”。他指出，汽车可做自动驾驶是因座椅、安全带固定驾乘人员，急刹时不会失衡，但两轮车需骑手实时调整姿态稳车身，若脱手开启自动驾驶，遇突发急刹骑手无法调整重心极易摔倒。当前厂商的炫酷演示仅在封闭场地有效，真实城",
+      "source": "新浪科技",
       "sources": [
-        "网易科技"
+        "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/L9BOF9NM05198CJN.html",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-10-16/doc-inivkncr7779423.shtml",
       "sourceUrls": [
-        "https://www.163.com/dy/article/L9BOF9NM05198CJN.html"
+        "https://finance.sina.com.cn/tech/discovery/2026-10-16/doc-inivkncr7779423.shtml"
       ],
       "publishedAt": "2026-10-16",
       "date": "2026-10-16",
@@ -2928,14 +3049,82 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “财联社汽车早报「10月16日」” against primary-source evidence.",
+      "angle": "Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “张雪谈自动驾驶两轮电动车：有点搞笑 一刹车我人就倒了” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "财联社汽车早报「10月16日」,特斯拉,平衡车,工信部,装车量,财联社,汽车早报,界面新闻,电动汽车",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "10月16日快科技消息，广交会现场，张雪机车创始人张雪受访时直言当下行业热度颇高的两轮电动车自动驾驶概念“有点搞笑”。他指出，汽车可做自动驾驶是因座椅、安全带固定驾乘人员，急刹时不会失衡，但两轮车需骑手实时调整姿态稳车身，若脱手开启自动驾驶，遇突发急刹骑手无法调整重心极易摔倒。当前厂商的炫酷演示仅在封闭场地有效，真实城市道路中两轮车容错率极低，井盖、砂石、横穿行人等小状况都可能引发翻车，汽车自动驾驶思路无法直接照搬。两轮车智能化应聚焦帮骑手规避风险、减轻负担，盲目追求全自动驾驶会埋下安全隐患。(AI生成)",
       "relatedTitles": [
-        "财联社汽车早报「10月16日」"
+        "张雪谈自动驾驶两轮电动车：有点搞笑 一刹车我人就倒了"
       ],
       "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "平衡成本控制与价值创造，推动AI的规模化应用",
+      "summary": "AI和生成式AI用例从试点向生产环境的过渡，正在显著推高对计算能力的需求。氛围编码（vibe coding）以及嵌入业务工作流中的AI智能体等各类AI用例，都需要使用大语言模型来执行多步骤推理、自主任务编排和迭代式验证周期。这些工作负载显著...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7838061.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7838061.shtml"
+      ],
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “平衡成本控制与价值创造，推动AI的规模化应用” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "AI和生成式AI用例从试点向生产环境的过渡，正在显著推高对计算能力的需求。氛围编码（vibe coding）以及嵌入业务工作流中的AI智能体等各类AI用例，都需要使用大语言模型来执行多步骤推理、自主任务编排和迭代式验证周期。这些工作负载显著...",
+      "relatedTitles": [
+        "平衡成本控制与价值创造，推动AI的规模化应用"
+      ],
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3138,6 +3327,74 @@
       "rawText": "中信证券：AI EDA正成为AI Agent落地下一个重要方向，EDA价值有望重估,壁垒,eda,护城河,中信证券,知名企业,agent",
       "relatedTitles": [
         "中信证券：AI EDA正成为AI Agent落地下一个重要方向"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "专访前阿里副总裁叶军：离开大厂更有自由度，AI",
+      "summary": "专访前阿里副总裁叶军：离开大厂更有自由度，AI创业不抢入口抢生态,叶军,飞轮,自由度,ai创业,知名企业,阿里巴巴集团",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L9BKJ0DL0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L9BKJ0DL0534A4SC.html"
+      ],
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “专访前阿里副总裁叶军：离开大厂更有自由度，AI” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "专访前阿里副总裁叶军：离开大厂更有自由度，AI创业不抢入口抢生态,叶军,飞轮,自由度,ai创业,知名企业,阿里巴巴集团",
+      "relatedTitles": [
+        "专访前阿里副总裁叶军：离开大厂更有自由度，AI"
       ],
       "isNewSinceLastRun": false
     },
@@ -3546,6 +3803,74 @@
       "rawText": "国内市场承压、出口较快增长、新能源汽车销量占比持续提升，今年前三季度，我国汽车市场在总量调整中呈现出鲜明的结构性变化。汽车国内销量同比下降的同时，汽车出口则实现较快增长，成为支撑行业平稳运行的重要力量。随着全年消费品以旧换新资金全部下达，国...",
       "relatedTitles": [
         "前三季度我国汽车出口同比增长65.8%"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "财联社汽车早报「10月16日」",
+      "summary": "财联社汽车早报「10月16日」,特斯拉,平衡车,工信部,装车量,财联社,汽车早报,界面新闻,电动汽车",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/L9BOF9NM05198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/L9BOF9NM05198CJN.html"
+      ],
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “财联社汽车早报「10月16日」” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "财联社汽车早报「10月16日」,特斯拉,平衡车,工信部,装车量,财联社,汽车早报,界面新闻,电动汽车",
+      "relatedTitles": [
+        "财联社汽车早报「10月16日」"
       ],
       "isNewSinceLastRun": false
     },
@@ -4223,6 +4548,73 @@
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cucWJp",
+      "title": "YouTube",
+      "summary": "YouTube YouTube将推出短视频产品Shorts，首先在印度测试 将与TikTok展开竞争 鱼羊 2020-09-15 TikTok YouTube 热门文章 全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口 AGI时代的第一个生图模型，ChatGPT Images 2",
+      "source": "量子位",
+      "sources": [
+        "量子位"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.qbitai.com/tag/youtube",
+      "sourceUrls": [
+        "https://www.qbitai.com/tag/youtube"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.97,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 138,
+      "reporterScore": 154,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 6,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “YouTube” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "YouTube YouTube将推出短视频产品Shorts，首先在印度测试 将与TikTok展开竞争 鱼羊 2020-09-15 TikTok YouTube 热门文章 全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口 AGI时代的第一个生图模型，ChatGPT Images 2.5上线 ECCV上，顶尖学者们开始研究如何让AI做生意了 这个新开源的世界模型只有1.3B，单卡就能实时跑！ Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+      "relatedTitles": [
+        "YouTube"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "设计在俄，制造在华——中俄半导体的“双向通道”",
       "summary": "中俄合作可以是双向的。一个方向是，我们把技术带到中国，或者与中国公司合作，在整个金砖市场分销技术；另一个方向是，凡是中国有明显优势的地方，我们可以把技术转移到俄罗斯。这是一条“双向通道”。",
@@ -4554,39 +4946,7 @@
         "reporterScore": 110
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI engineer charged after boardroom bug found wrapped in toilet paper",
-      "summary": "FBI alleges covert recorder was plugged into a TV, with a second device later discovered in the employee",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000",
-      "publishedAt": "Wed, 14 Oct 2026 11:55:00 +0200",
-      "date": "2026-10-14",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI engineer charged after boardroom bug found wrapped in toilet pape” against primary-source evidence.",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 160,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4604,6 +4964,38 @@
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta launches an open-weight AI model that runs on Macs” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 160,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI engineer charged after boardroom bug found wrapped in toilet paper",
+      "summary": "FBI alleges covert recorder was plugged into a TV, with a second device later discovered in the employee",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000",
+      "publishedAt": "Wed, 14 Oct 2026 11:55:00 +0200",
+      "date": "2026-10-14",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI engineer charged after boardroom bug found wrapped in toilet pape” against primary-source evidence.",
       "priority": 5,
       "score": 152,
       "reporterScore": 160,
@@ -4750,87 +5142,23 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI claims 100-plus secret files followed ex-employee back to Apple",
-      "summary": "ChatGPT maker turns tables in Apple",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/15/openai-claims-100-plus-secret-files-followed-ex-employee-back-to-apple/5303202",
-      "publishedAt": "Thu, 15 Oct 2026 13:46:00 +0200",
-      "date": "2026-10-15",
-      "region": "Europe",
+      "title": "Google's $5 AI plan is getting a major downgrade starting November 13",
+      "summary": "Google AI Plus subscribers are getting a pretty significant downgrade.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/googles-5-ai-plan-getting-211545124.html",
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI claims 100-plus secret files followed ex-employee back to Apple” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Cisco, Nvidia team up to build fatter, faster pluggable",
-      "summary": "If you thought 1.6 Tbps was fast, just wait, Cisco",
-      "source": "The Register",
-      "url": "https://www.theregister.com/networks/2026/10/14/cisco-nvidia-team-up-to-build-fatter-faster-pluggable/5302970",
-      "publishedAt": "Wed, 14 Oct 2026 15:30:00 +0200",
-      "date": "2026-10-14",
-      "region": "Europe",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Cisco, Nvidia team up to build fatter, faster pluggable” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "$24,000 AI experiment ports TypeScript compiler to Rust",
-      "summary": "Microsoft",
-      "source": "The Register",
-      "url": "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
-      "publishedAt": "Thu, 15 Oct 2026 20:52:52 +0200",
-      "date": "2026-10-15",
-      "region": "Europe",
-      "category": "AI",
-      "classificationConfidence": 0.62,
+      "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “$24,000 AI experiment ports TypeScript compiler to Rust” against primary-source evidence.",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google's $5 AI plan is getting a major downgrade starting November 13” against primary-source evidence.",
       "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4839,30 +5167,30 @@
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 95
+        "reporterScore": 110
       },
-      "status": "recent_48h",
+      "status": "confirmed_today",
       "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "TSMC sends scouts to check whether America's datacenters can deliver",
-      "summary": "Silicon giant budgets up to $64B for expansion while keeping an eye on construction progress and power supplies",
-      "source": "The Register",
-      "url": "https://www.theregister.com/systems/2026/10/15/tsmc-sends-scouts-to-check-whether-americas-datacenters-can-deliver/5303260",
-      "publishedAt": "Thu, 15 Oct 2026 15:15:00 +0200",
-      "date": "2026-10-15",
-      "region": "Europe",
+      "title": "You bought a Samsung TV to watch shows, but a lawsuit says it could be watching you too",
+      "summary": "A new Samsung TV privacy lawsuit in California challenges how ACR tracks viewing habits, while a Texas agreement has already forced changes to its consent practices.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/cybersecurity/articles/bought-samsung-tv-watch-shows-010056538.html",
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "region": "US",
       "category": "芯片",
-      "classificationConfidence": 0.62,
+      "classificationConfidence": 0.75,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “TSMC sends scouts to check whether America's datacenters can deliver” against primary-source evidence.",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “You bought a Samsung TV to watch shows, but a lawsuit says it could be w” against primary-source evidence.",
       "priority": 4,
-      "score": 144,
-      "reporterScore": 144,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4871,9 +5199,9 @@
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 95
+        "reporterScore": 110
       },
-      "status": "recent_48h",
+      "status": "confirmed_today",
       "isNewSinceLastRun": true
     },
     {
@@ -4907,6 +5235,38 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+      "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+      "publishedAt": "Fri, 16 Oct 2026 01:17:43 +0000",
+      "date": "2026-10-15",
+      "region": "US",
+      "category": "新能源车",
+      "classificationConfidence": 0.65,
+      "hardTechPriority": 85,
+      "globalWhitelistScore": 60,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “Tesla reveals SpaceX-powered Roadster that flies and falls with style” against primary-source evidence.",
+      "priority": 5,
+      "score": 134,
+      "reporterScore": 134,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 85
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -4974,6 +5334,70 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI claims 100-plus secret files followed ex-employee back to Apple",
+      "summary": "ChatGPT maker turns tables in Apple",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/15/openai-claims-100-plus-secret-files-followed-ex-employee-back-to-apple/5303202",
+      "publishedAt": "Thu, 15 Oct 2026 13:46:00 +0200",
+      "date": "2026-10-15",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI claims 100-plus secret files followed ex-employee back to Apple” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Cisco, Nvidia team up to build fatter, faster pluggable",
+      "summary": "If you thought 1.6 Tbps was fast, just wait, Cisco",
+      "source": "The Register",
+      "url": "https://www.theregister.com/networks/2026/10/14/cisco-nvidia-team-up-to-build-fatter-faster-pluggable/5302970",
+      "publishedAt": "Wed, 14 Oct 2026 15:30:00 +0200",
+      "date": "2026-10-14",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Cisco, Nvidia team up to build fatter, faster pluggable” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
       "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
       "source": "Ars Technica",
@@ -5021,6 +5445,70 @@
       "relevanceToChina": "medium",
       "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Amazon devices chief Panos Panay sees a future where AI devices replace ” against primary-source evidence.",
       "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "$24,000 AI experiment ports TypeScript compiler to Rust",
+      "summary": "Microsoft",
+      "source": "The Register",
+      "url": "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
+      "publishedAt": "Thu, 15 Oct 2026 20:52:52 +0200",
+      "date": "2026-10-15",
+      "region": "Europe",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “$24,000 AI experiment ports TypeScript compiler to Rust” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "TSMC sends scouts to check whether America's datacenters can deliver",
+      "summary": "Silicon giant budgets up to $64B for expansion while keeping an eye on construction progress and power supplies",
+      "source": "The Register",
+      "url": "https://www.theregister.com/systems/2026/10/15/tsmc-sends-scouts-to-check-whether-americas-datacenters-can-deliver/5303260",
+      "publishedAt": "Thu, 15 Oct 2026 15:15:00 +0200",
+      "date": "2026-10-15",
+      "region": "Europe",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “TSMC sends scouts to check whether America's datacenters can deliver” against primary-source evidence.",
+      "priority": 4,
       "score": 144,
       "reporterScore": 144,
       "reporterSignals": {
@@ -5227,42 +5715,10 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
-      "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-      "publishedAt": "Thu, 15 Oct 2026 21:26:05 GMT",
-      "date": "2026-10-15",
-      "region": "US",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 85,
-      "globalWhitelistScore": 60,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "relevanceToChina": "high",
-      "cgtAngle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “Tesla plans next-generation Roadster reveal after almost a decade of del” against primary-source evidence.",
-      "priority": 5,
-      "score": 133,
-      "reporterScore": 133,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 85
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-16｜V3\n生成时间：2026/10/16 09:12:31\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2457｜确认今日 38｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 6 条\n延续跟踪线索：国内 25 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-16] 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量\n   新浪科技｜2026-10-16｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量” against primary-source evidence.\n\n2. [2026-10-16] Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行\n   网易科技｜2026-10-16｜https://www.163.com/dy/article/L9B3M88P05198CJN.html\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行” against primary-source evidence.\n\n3. [2026-10-16] AI早报｜OpenAI算力业务负责人据悉将离职；英伟\n   网易科技｜2026-10-16｜https://www.163.com/dy/article/L9BO0IS00534A4SC.html\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI早报｜OpenAI算力业务负责人据悉将离职；英伟” against primary-source evidence.\n\n4. [2026-10-16] 可灵AI新一代模型Kling 4.0正式上线\n   新浪科技｜2026-10-16｜https://finance.sina.com.cn/tech/shenji/2026-10-16/doc-inivkncr7784960.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “可灵AI新一代模型Kling 4.0正式上线” against primary-source evidence.\n\n5. [2026-10-16] 英伟达 RTX 5090 旗舰显卡恐迎“绝版”时刻：官方商城消失、零售商标注“不销售”\n   新浪科技｜2026-10-16｜https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncx8234764.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 RTX 5090 旗舰显卡恐迎“绝版”时刻：官方商城消失、零售商标注“不销售”” against primary-source evidence.\n\n本次新增线索：\n- 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml\n- Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行｜网易科技｜https://www.163.com/dy/article/L9B3M88P05198CJN.html\n- AI早报｜OpenAI算力业务负责人据悉将离职；英伟｜网易科技｜https://www.163.com/dy/article/L9BO0IS00534A4SC.html\n- 人形机器人开始进入汽车产线，但工厂要的不只是会干活｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7108229.shtml\n- 英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7099996.shtml\n- It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778\n\n今日热点方向：\n- AI 应用：AI动态（9 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\n2. It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778\n3. OpenAI engineer charged after boardroom bug found wrapped in toilet paper｜The Register｜https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000\n4. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n5. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-16｜V3\n生成时间：2026/10/16 09:12:31\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2457｜确认今日 38｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 6 条\n延续跟踪线索：国内 25 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-16] 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量\n   新浪科技｜2026-10-16｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量” against primary-source evidence.\n\n2. [2026-10-16] Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行\n   网易科技｜2026-10-16｜https://www.163.com/dy/article/L9B3M88P05198CJN.html\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行” against primary-source evidence.\n\n3. [2026-10-16] AI早报｜OpenAI算力业务负责人据悉将离职；英伟\n   网易科技｜2026-10-16｜https://www.163.com/dy/article/L9BO0IS00534A4SC.html\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI早报｜OpenAI算力业务负责人据悉将离职；英伟” against primary-source evidence.\n\n4. [2026-10-16] 可灵AI新一代模型Kling 4.0正式上线\n   新浪科技｜2026-10-16｜https://finance.sina.com.cn/tech/shenji/2026-10-16/doc-inivkncr7784960.shtml\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “可灵AI新一代模型Kling 4.0正式上线” against primary-source evidence.\n\n5. [2026-10-16] 英伟达 RTX 5090 旗舰显卡恐迎“绝版”时刻：官方商城消失、零售商标注“不销售”\n   新浪科技｜2026-10-16｜https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncx8234764.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 RTX 5090 旗舰显卡恐迎“绝版”时刻：官方商城消失、零售商标注“不销售”” against primary-source evidence.\n\n本次新增线索：\n- 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml\n- Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行｜网易科技｜https://www.163.com/dy/article/L9B3M88P05198CJN.html\n- AI早报｜OpenAI算力业务负责人据悉将离职；英伟｜网易科技｜https://www.163.com/dy/article/L9BO0IS00534A4SC.html\n- 人形机器人开始进入汽车产线，但工厂要的不只是会干活｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7108229.shtml\n- 英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7099996.shtml\n- It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778\n\n今日热点方向：\n- AI 应用：AI动态（9 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\n2. It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778\n3. OpenAI engineer charged after boardroom bug found wrapped in toilet paper｜The Register｜https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000\n4. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n5. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-16｜生成时间：2026/10/16 09:12:31｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2457｜确认今日 38｜国际背景 24</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 13 条｜国际 6 条<br>延续跟踪线索：国内 25 条｜国际 18 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-16] 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量</strong>\n      <span>新浪科技｜2026-10-16｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-16] Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行</strong>\n      <span>网易科技｜2026-10-16｜<a href=\"https://www.163.com/dy/article/L9B3M88P05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-16] AI早报｜OpenAI算力业务负责人据悉将离职；英伟</strong>\n      <span>网易科技｜2026-10-16｜<a href=\"https://www.163.com/dy/article/L9BO0IS00534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI早报｜OpenAI算力业务负责人据悉将离职；英伟” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-16] 可灵AI新一代模型Kling 4.0正式上线</strong>\n      <span>新浪科技｜2026-10-16｜<a href=\"https://finance.sina.com.cn/tech/shenji/2026-10-16/doc-inivkncr7784960.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “可灵AI新一代模型Kling 4.0正式上线” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-16] 英伟达 RTX 5090 旗舰显卡恐迎“绝版”时刻：官方商城消失、零售商标注“不销售”</strong>\n      <span>新浪科技｜2026-10-16｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncx8234764.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 RTX 5090 旗舰显卡恐迎“绝版”时刻：官方商城消失、零售商标注“不销售”” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. EU Code Week 2026 launches with focus on digital skills in the age of AI</strong>\n      <span>时间：Wed, 14 Oct 2026 17:00:00 +0000｜来源：EU AI Office｜<a href=\"https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “EU Code Week 2026 launches with focus on digital skills in the age of AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. It won't kill you, or humanity, to get off the AI upgrade treadmill</strong>\n      <span>时间：Wed, 14 Oct 2026 09:30:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “It won't kill you, or humanity, to get off the AI upgrade treadmill” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI engineer charged after boardroom bug found wrapped in toilet paper</strong>\n      <span>时间：Wed, 14 Oct 2026 11:55:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI engineer charged after boardroom bug found wrapped in toilet pape” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Meta launches an open-weight AI model that runs on Macs</strong>\n      <span>时间：Thu, 15 Oct 2026 20:04:53 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta launches an open-weight AI model that runs on Macs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Nvidia, AMD, Dell sink in global tech rout on AI funding worries</strong>\n      <span>时间：Thu, 15 Oct 2026 20:33:24 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia, AMD, Dell sink in global tech rout on AI funding worries” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/16 09:12:31\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 6 条\n延续跟踪线索：国内 25 条｜国际 18 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-16] 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量” against primary-source evidence.\n\n2. [2026-10-16] Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L9B3M88P05198CJN.html\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行” against primary-source evidence.\n\n3. [2026-10-16] AI早报｜OpenAI算力业务负责人据悉将离职；英伟\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L9BO0IS00534A4SC.html\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI早报｜OpenAI算力业务负责人据悉将离职；英伟” against primary-source evidence.\n\n4. [2026-10-16] 可灵AI新一代模型Kling 4.0正式上线\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/shenji/2026-10-16/doc-inivkncr7784960.shtml\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “可灵AI新一代模型Kling 4.0正式上线” against primary-source evidence.\n\n5. [2026-10-16] 英伟达 RTX 5090 旗舰显卡恐迎“绝版”时刻：官方商城消失、零售商标注“不销售”\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncx8234764.shtml\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 RTX 5090 旗舰显卡恐迎“绝版”时刻：官方商城消失、零售商标注“不销售”” against primary-source evidence.\n\n本次新增线索：\n- 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml\n- Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行｜网易科技｜https://www.163.com/dy/article/L9B3M88P05198CJN.html\n- AI早报｜OpenAI算力业务负责人据悉将离职；英伟｜网易科技｜https://www.163.com/dy/article/L9BO0IS00534A4SC.html\n- 人形机器人开始进入汽车产线，但工厂要的不只是会干活｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7108229.shtml\n- 英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7099996.shtml\n- It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778\n\n今日热点方向：\n- AI 应用：AI动态（9 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\n2. It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778\n3. OpenAI engineer charged after boardroom bug found wrapped in toilet paper｜The Register｜https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000\n4. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n5. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-16｜V3\n生成时间：2026/10/16 09:29:10\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2384｜确认今日 42｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 3 条\n延续跟踪线索：国内 37 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-16] 柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI\n   新浪科技｜2026-10-16｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7816277.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI” against primary-source evidence.\n\n2. [2026-10-16] 首批人形机器人领域国家标准发布\n   新浪科技｜2026-10-16｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7113783.shtml\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “首批人形机器人领域国家标准发布” against primary-source evidence.\n\n3. [2026-10-16] 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量\n   新浪科技｜2026-10-16｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量” against primary-source evidence.\n\n4. [2026-10-16] Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行\n   网易科技｜2026-10-16｜https://www.163.com/dy/article/L9B3M88P05198CJN.html\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行” against primary-source evidence.\n\n5. [2026-10-16] 杨天若院士：AI是中国弯道超车的机会\n   网易科技｜2026-10-16｜https://www.163.com/tech/article/L9BOT94M00097U7T.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “杨天若院士：AI是中国弯道超车的机会” against primary-source evidence.\n\n本次新增线索：\n- 柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7816277.shtml\n- 首批人形机器人领域国家标准发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7113783.shtml\n- 杨天若院士：AI是中国弯道超车的机会｜网易科技｜https://www.163.com/tech/article/L9BOT94M00097U7T.html\n- 大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/16/content_597053.html\n- 张雪谈自动驾驶两轮电动车：有点搞笑 一刹车我人就倒了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-16/doc-inivkncr7779423.shtml\n- Google's $5 AI plan is getting a major downgrade starting November 13｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/googles-5-ai-plan-getting-211545124.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（11 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\n2. It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778\n3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n4. OpenAI engineer charged after boardroom bug found wrapped in toilet paper｜The Register｜https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000\n5. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-16｜V3\n生成时间：2026/10/16 09:29:10\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2384｜确认今日 42｜国际背景 26\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 3 条\n延续跟踪线索：国内 37 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-16] 柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI\n   新浪科技｜2026-10-16｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7816277.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI” against primary-source evidence.\n\n2. [2026-10-16] 首批人形机器人领域国家标准发布\n   新浪科技｜2026-10-16｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7113783.shtml\n   报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “首批人形机器人领域国家标准发布” against primary-source evidence.\n\n3. [2026-10-16] 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量\n   新浪科技｜2026-10-16｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量” against primary-source evidence.\n\n4. [2026-10-16] Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行\n   网易科技｜2026-10-16｜https://www.163.com/dy/article/L9B3M88P05198CJN.html\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行” against primary-source evidence.\n\n5. [2026-10-16] 杨天若院士：AI是中国弯道超车的机会\n   网易科技｜2026-10-16｜https://www.163.com/tech/article/L9BOT94M00097U7T.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “杨天若院士：AI是中国弯道超车的机会” against primary-source evidence.\n\n本次新增线索：\n- 柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7816277.shtml\n- 首批人形机器人领域国家标准发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7113783.shtml\n- 杨天若院士：AI是中国弯道超车的机会｜网易科技｜https://www.163.com/tech/article/L9BOT94M00097U7T.html\n- 大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/16/content_597053.html\n- 张雪谈自动驾驶两轮电动车：有点搞笑 一刹车我人就倒了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-16/doc-inivkncr7779423.shtml\n- Google's $5 AI plan is getting a major downgrade starting November 13｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/googles-5-ai-plan-getting-211545124.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（11 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\n2. It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778\n3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n4. OpenAI engineer charged after boardroom bug found wrapped in toilet paper｜The Register｜https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000\n5. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-16｜生成时间：2026/10/16 09:29:10｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2384｜确认今日 42｜国际背景 26</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 5 条｜国际 3 条<br>延续跟踪线索：国内 37 条｜国际 23 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-16] 柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI</strong>\n      <span>新浪科技｜2026-10-16｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7816277.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-16] 首批人形机器人领域国家标准发布</strong>\n      <span>新浪科技｜2026-10-16｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7113783.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “首批人形机器人领域国家标准发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-16] 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量</strong>\n      <span>新浪科技｜2026-10-16｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-16] Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行</strong>\n      <span>网易科技｜2026-10-16｜<a href=\"https://www.163.com/dy/article/L9B3M88P05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-16] 杨天若院士：AI是中国弯道超车的机会</strong>\n      <span>网易科技｜2026-10-16｜<a href=\"https://www.163.com/tech/article/L9BOT94M00097U7T.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “杨天若院士：AI是中国弯道超车的机会” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. EU Code Week 2026 launches with focus on digital skills in the age of AI</strong>\n      <span>时间：Wed, 14 Oct 2026 17:00:00 +0000｜来源：EU AI Office｜<a href=\"https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “EU Code Week 2026 launches with focus on digital skills in the age of AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. It won't kill you, or humanity, to get off the AI upgrade treadmill</strong>\n      <span>时间：Wed, 14 Oct 2026 09:30:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “It won't kill you, or humanity, to get off the AI upgrade treadmill” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Meta launches an open-weight AI model that runs on Macs</strong>\n      <span>时间：Thu, 15 Oct 2026 20:04:53 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta launches an open-weight AI model that runs on Macs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI engineer charged after boardroom bug found wrapped in toilet paper</strong>\n      <span>时间：Wed, 14 Oct 2026 11:55:00 +0200｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI engineer charged after boardroom bug found wrapped in toilet pape” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Nvidia, AMD, Dell sink in global tech rout on AI funding worries</strong>\n      <span>时间：Thu, 15 Oct 2026 20:33:24 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia, AMD, Dell sink in global tech rout on AI funding worries” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/16 09:29:10\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 3 条\n延续跟踪线索：国内 37 条｜国际 23 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-16] 柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7816277.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI” against primary-source evidence.\n\n2. [2026-10-16] 首批人形机器人领域国家标准发布\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7113783.shtml\n   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “首批人形机器人领域国家标准发布” against primary-source evidence.\n\n3. [2026-10-16] 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量” against primary-source evidence.\n\n4. [2026-10-16] Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L9B3M88P05198CJN.html\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行” against primary-source evidence.\n\n5. [2026-10-16] 杨天若院士：AI是中国弯道超车的机会\n   来源：网易科技\n   链接：https://www.163.com/tech/article/L9BOT94M00097U7T.html\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “杨天若院士：AI是中国弯道超车的机会” against primary-source evidence.\n\n本次新增线索：\n- 柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7816277.shtml\n- 首批人形机器人领域国家标准发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7113783.shtml\n- 杨天若院士：AI是中国弯道超车的机会｜网易科技｜https://www.163.com/tech/article/L9BOT94M00097U7T.html\n- 大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/16/content_597053.html\n- 张雪谈自动驾驶两轮电动车：有点搞笑 一刹车我人就倒了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-16/doc-inivkncr7779423.shtml\n- Google's $5 AI plan is getting a major downgrade starting November 13｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/googles-5-ai-plan-getting-211545124.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（11 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿与科研设施（1 条，1 个来源）\n\n国际科技背景：\n1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\n2. It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778\n3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n4. OpenAI engineer charged after boardroom bug found wrapped in toilet paper｜The Register｜https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000\n5. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }

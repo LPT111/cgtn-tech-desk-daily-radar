@@ -3,62 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/16 09:12:31
+生成时间：2026/10/16 09:29:10
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 13 条｜国际 6 条
-延续跟踪线索：国内 25 条｜国际 18 条
+新增核心线索：国内 5 条｜国际 3 条
+延续跟踪线索：国内 37 条｜国际 23 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-16] 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量
+1. [2026-10-16] 柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7816277.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI” against primary-source evidence.
+
+2. [2026-10-16] 首批人形机器人领域国家标准发布
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7113783.shtml
+   角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “首批人形机器人领域国家标准发布” against primary-source evidence.
+
+3. [2026-10-16] 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml
    角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量” against primary-source evidence.
 
-2. [2026-10-16] Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行
+4. [2026-10-16] Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行
    来源：网易科技
    链接：https://www.163.com/dy/article/L9B3M88P05198CJN.html
    角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行” against primary-source evidence.
 
-3. [2026-10-16] AI早报｜OpenAI算力业务负责人据悉将离职；英伟
+5. [2026-10-16] 杨天若院士：AI是中国弯道超车的机会
    来源：网易科技
-   链接：https://www.163.com/dy/article/L9BO0IS00534A4SC.html
-   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI早报｜OpenAI算力业务负责人据悉将离职；英伟” against primary-source evidence.
-
-4. [2026-10-16] 可灵AI新一代模型Kling 4.0正式上线
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-10-16/doc-inivkncr7784960.shtml
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “可灵AI新一代模型Kling 4.0正式上线” against primary-source evidence.
-
-5. [2026-10-16] 英伟达 RTX 5090 旗舰显卡恐迎“绝版”时刻：官方商城消失、零售商标注“不销售”
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-16/doc-inivkncx8234764.shtml
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “英伟达 RTX 5090 旗舰显卡恐迎“绝版”时刻：官方商城消失、零售商标注“不销售”” against primary-source evidence.
+   链接：https://www.163.com/tech/article/L9BOT94M00097U7T.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “杨天若院士：AI是中国弯道超车的机会” against primary-source evidence.
 
 本次新增线索：
-- 直击2026湾芯展｜存储扩产潮下，国产刻蚀设备需求放量｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7839620.shtml
-- Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行｜网易科技｜https://www.163.com/dy/article/L9B3M88P05198CJN.html
-- AI早报｜OpenAI算力业务负责人据悉将离职；英伟｜网易科技｜https://www.163.com/dy/article/L9BO0IS00534A4SC.html
-- 人形机器人开始进入汽车产线，但工厂要的不只是会干活｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7108229.shtml
-- 英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7099996.shtml
-- It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778
+- 柳叶刀称两种风险或导致人类灭绝：核冲突与恶意使用AI｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncr7816277.shtml
+- 首批人形机器人领域国家标准发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncp7113783.shtml
+- 杨天若院士：AI是中国弯道超车的机会｜网易科技｜https://www.163.com/tech/article/L9BOT94M00097U7T.html
+- 大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/16/content_597053.html
+- 张雪谈自动驾驶两轮电动车：有点搞笑 一刹车我人就倒了｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-16/doc-inivkncr7779423.shtml
+- Google's $5 AI plan is getting a major downgrade starting November 13｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/googles-5-ai-plan-getting-211545124.html
 
 今日热点方向：
-- AI 应用：AI动态（9 条，4 个来源）
+- AI 应用：AI 应用与智能体（11 条，3 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿与科研设施（1 条，1 个来源）
 
 国际科技背景：
 1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai
 2. It won't kill you, or humanity, to get off the AI upgrade treadmill｜The Register｜https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778
-3. OpenAI engineer charged after boardroom bug found wrapped in toilet paper｜The Register｜https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000
-4. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
+3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
+4. OpenAI engineer charged after boardroom bug found wrapped in toilet paper｜The Register｜https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000
 5. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html
 
 发稿前核验提示：
