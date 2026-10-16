@@ -1,54 +1,54 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/16 18:53:53
+生成时间：2026/10/16 19:31:07
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 21 条｜国际 2 条
-延续跟踪线索：国内 49 条｜国际 27 条
+新增核心线索：国内 10 条｜国际 2 条
+延续跟踪线索：国内 60 条｜国际 27 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-16] 一脚踹翻CEO的众擎机器人，野心藏不住了
+1. [2026-10-16] 详解特斯拉会飞的汽车：自己给高压空气罐推进器充气，倒挂爬升用的是风扇吸力
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmiic6992916.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “一脚踹翻CEO的众擎机器人，野心藏不住了” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmprk1614037.shtml
+   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “详解特斯拉会飞的汽车：自己给高压空气罐推进器充气，倒挂爬升用的是风扇吸力” against primary-source evidence.
 
-2. [2026-10-16] OpenAI代理在运行中试图偷窃数字钱包
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivmazr8293414.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI代理在运行中试图偷窃数字钱包” against primary-source evidence.
-
-3. [2026-10-16] 七国集团计划模拟人工智能攻击银行的情景
+2. [2026-10-16] 七国集团计划模拟人工智能攻击银行的情景
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivmazi7778843.shtml
    角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “七国集团计划模拟人工智能攻击银行的情景” against primary-source evidence.
 
-4. [2026-10-16] AI机器人渐别 “花拳绣腿” 行业关注点转向“车间干活能力”｜直击2026工博会
+3. [2026-10-16] AI机器人渐别 “花拳绣腿” 行业关注点转向“车间干活能力”｜直击2026工博会
    来源：网易科技
    链接：https://www.163.com/dy/article/L9CI960905198CJN.html
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI机器人渐别 “花拳绣腿” 行业关注点转向“车间干活能力”｜直击2026工博会” against primary-source evidence.
 
-5. [2026-10-16] 专访研究团队还原“失控智能体”访问高德3.5万次背后：用了被泄露的密钥
+4. [2026-10-16] 国常会：不断深化拓展“人工智能+”行动
    来源：网易科技
-   链接：https://www.163.com/dy/article/L9COB98P0512B07B.html
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “专访研究团队还原“失控智能体”访问高德3.5万次背后：用了被泄露的密钥” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L9CR416A0534A4SC.html
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “国常会：不断深化拓展“人工智能+”行动” against primary-source evidence.
+
+5. [2026-10-16] 国产旗舰轿车加速向上突破
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmprk1612971.shtml
+   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “国产旗舰轿车加速向上突破” against primary-source evidence.
 
 本次新增线索：
-- 一脚踹翻CEO的众擎机器人，野心藏不住了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmiic6992916.shtml
-- 专访研究团队还原“失控智能体”访问高德3.5万次背后：用了被泄露的密钥｜网易科技｜https://www.163.com/dy/article/L9COB98P0512B07B.html
-- MONA杨光：众所周知，在小鹏内部，大家都怕给“凤头”汇报｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmpqz6883323.shtml
-- 等了九年，特斯拉真的会飞！马斯克：“你看，飞行汽车是真实的”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmiic6997977.shtml
-- 蔚来李斌谈特斯拉会飞：这个我们真没有｜新浪科技｜https://finance.sina.com.cn/roll/2026-10-16/doc-inivmiif7721257.shtml
-- Apple says Siri doesn't need to beat ChatGPT — here's what it's betting on instead｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-says-siri-doesnt-beat-083000632.html
+- 详解特斯拉会飞的汽车：自己给高压空气罐推进器充气，倒挂爬升用的是风扇吸力｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmprk1614037.shtml
+- 国常会：不断深化拓展“人工智能+”行动｜网易科技｜https://www.163.com/dy/article/L9CR416A0534A4SC.html
+- 国产旗舰轿车加速向上突破｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmprk1612971.shtml
+- 李斌转发特斯拉Roadster视频：太厉害了，这个我们真没有｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivmiin1706570.shtml
+- 文化和旅游部公布“人工智能+文化和旅游”应用试点名单｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmprc7631043.shtml
+- NVIDIA RTX Spark Changes What A Windows Laptop Can Be｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/nvidia-rtx-spark-changes-windows-110000983.html
 
 今日热点方向：
-- AI 应用：AI动态（18 条，3 个来源）
-- 芯片/半导体：半导体供应链（4 条，2 个来源）
+- AI 应用：AI动态（22 条，4 个来源）
+- 芯片/半导体：半导体供应链（3 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（11 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（11 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
