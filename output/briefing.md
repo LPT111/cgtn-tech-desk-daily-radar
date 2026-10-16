@@ -3,55 +3,55 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/16 18:06:13
+生成时间：2026/10/16 18:53:53
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 68 条｜国际 5 条
-延续跟踪线索：国内 5 条｜国际 22 条
+新增核心线索：国内 21 条｜国际 2 条
+延续跟踪线索：国内 49 条｜国际 27 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [07:49] 台积电美国第二座晶圆厂完工，目标 2027Q3 投产
-   来源：IT之家
-   链接：https://www.ithome.com/1/013/965.htm
-   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “台积电美国第二座晶圆厂完工，目标 2027Q3 投产” against primary-source evidence.
+1. [2026-10-16] 一脚踹翻CEO的众擎机器人，野心藏不住了
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmiic6992916.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “一脚踹翻CEO的众擎机器人，野心藏不住了” against primary-source evidence.
 
-2. [2026-10-16] 七国集团计划模拟人工智能攻击银行的情景
+2. [2026-10-16] OpenAI代理在运行中试图偷窃数字钱包
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivmazr8293414.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI代理在运行中试图偷窃数字钱包” against primary-source evidence.
+
+3. [2026-10-16] 七国集团计划模拟人工智能攻击银行的情景
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivmazi7778843.shtml
    角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “七国集团计划模拟人工智能攻击银行的情景” against primary-source evidence.
 
-3. [2026-10-16] AI机器人渐别 “花拳绣腿” 行业关注点转向“车间干活能力”｜直击2026工博会
+4. [2026-10-16] AI机器人渐别 “花拳绣腿” 行业关注点转向“车间干活能力”｜直击2026工博会
    来源：网易科技
    链接：https://www.163.com/dy/article/L9CI960905198CJN.html
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI机器人渐别 “花拳绣腿” 行业关注点转向“车间干活能力”｜直击2026工博会” against primary-source evidence.
 
-4. [2026-10-16] 米果智能携migo亮相香港秋季电子产品展，探索具身智能新路径
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmiif7707274.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “米果智能携migo亮相香港秋季电子产品展，探索具身智能新路径” against primary-source evidence.
-
-5. [2026-10-16] 福瑞泰克：扎根乌镇，开启全栈能力的下一程
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivmiip8440793.shtml
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “福瑞泰克：扎根乌镇，开启全栈能力的下一程” against primary-source evidence.
+5. [2026-10-16] 专访研究团队还原“失控智能体”访问高德3.5万次背后：用了被泄露的密钥
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L9COB98P0512B07B.html
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “专访研究团队还原“失控智能体”访问高德3.5万次背后：用了被泄露的密钥” against primary-source evidence.
 
 本次新增线索：
-- 台积电美国第二座晶圆厂完工，目标 2027Q3 投产｜IT之家｜https://www.ithome.com/1/013/965.htm
-- 七国集团计划模拟人工智能攻击银行的情景｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivmazi7778843.shtml
-- AI机器人渐别 “花拳绣腿” 行业关注点转向“车间干活能力”｜直击2026工博会｜网易科技｜https://www.163.com/dy/article/L9CI960905198CJN.html
-- 米果智能携migo亮相香港秋季电子产品展，探索具身智能新路径｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmiif7707274.shtml
-- 福瑞泰克：扎根乌镇，开启全栈能力的下一程｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivmiip8440793.shtml
-- Gmail's Live AI Search Feature Arrives For Google AI Subscribers｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/gmails-live-ai-search-feature-083148452.html
+- 一脚踹翻CEO的众擎机器人，野心藏不住了｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmiic6992916.shtml
+- 专访研究团队还原“失控智能体”访问高德3.5万次背后：用了被泄露的密钥｜网易科技｜https://www.163.com/dy/article/L9COB98P0512B07B.html
+- MONA杨光：众所周知，在小鹏内部，大家都怕给“凤头”汇报｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmpqz6883323.shtml
+- 等了九年，特斯拉真的会飞！马斯克：“你看，飞行汽车是真实的”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmiic6997977.shtml
+- 蔚来李斌谈特斯拉会飞：这个我们真没有｜新浪科技｜https://finance.sina.com.cn/roll/2026-10-16/doc-inivmiif7721257.shtml
+- Apple says Siri doesn't need to beat ChatGPT — here's what it's betting on instead｜Yahoo News Technology｜https://tech.yahoo.com/ai/apple-intelligence/articles/apple-says-siri-doesnt-beat-083000632.html
 
 今日热点方向：
-- AI 应用：AI动态（24 条，3 个来源）
-- 芯片/半导体：半导体供应链（4 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（6 条，2 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（9 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
+- AI 应用：AI动态（18 条，3 个来源）
+- 芯片/半导体：半导体供应链（4 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（11 条，3 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
