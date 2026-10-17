@@ -1,34 +1,39 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-10-17T10:16:42.275Z",
+  "generatedAt": "2026-10-17T10:50:59.244Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-17",
   "changeSummary": {
     "domesticNew": 3,
-    "globalNew": 1,
-    "domesticContinued": 30,
+    "globalNew": 2,
+    "domesticContinued": 32,
     "globalContinued": 22,
     "topNewDomestic": [
       {
-        "title": "DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真 网友怒赞：太上进 超级斩杀线",
+        "title": "DeepSeek更新模型了，还对外开放了搜索引擎",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpsqc7109082.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpspz6398641.shtml"
       },
       {
-        "title": "Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5",
+        "title": "中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去",
         "source": "IT之家",
-        "url": "https://www.ithome.com/1/014/312.htm"
+        "url": "https://www.ithome.com/1/014/371.htm"
       },
       {
-        "title": "特斯拉司机开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/1/014/348.htm"
+        "title": "OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/digi/2026-10-17/doc-inivpsqk1379254.shtml"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
+        "title": "$24,000 AI experiment ports TypeScript compiler to Rust",
         "source": "The Register",
-        "url": "https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569"
+        "url": "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409"
+      },
+      {
+        "title": "I ran a half marathon with the Apple Watch Ultra 4 vs Samsung Galaxy Watch Ultra 2 — here's the winner",
+        "source": "Yahoo News Technology",
+        "url": "https://tech.yahoo.com/wearables/articles/ran-half-marathon-apple-watch-053000852.html"
       }
     ],
     "hasPrevious": true
@@ -37,8 +42,8 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 867,
-    "globalRejected": 877,
+    "domesticRejected": 865,
+    "globalRejected": 876,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -52,22 +57,12 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 28,
+  "successSources": 30,
   "failedSources": [
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -81,7 +76,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -97,16 +92,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -118,7 +103,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -294,16 +279,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -334,7 +317,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -383,11 +366,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "itemsSeen": 1543,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 255,
-  "itemsAfterDedupe": 170,
-  "todayItemsSeen": 33,
-  "suspectedItemsSeen": 13,
-  "skippedNonToday": 119,
+  "itemsAfterRelevantFilter": 261,
+  "itemsAfterDedupe": 175,
+  "todayItemsSeen": 35,
+  "suspectedItemsSeen": 14,
+  "skippedNonToday": 121,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -555,16 +538,14 @@ window.CHENCHEN_DAILY_DATA = {
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -595,7 +576,7 @@ window.CHENCHEN_DAILY_DATA = {
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -802,16 +783,6 @@ window.CHENCHEN_DAILY_DATA = {
       "optional": true
     },
     {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -823,7 +794,7 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -858,11 +829,11 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 17,
   "globalItemsSeen": 967,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 163,
+  "globalItemsAfterRelevantFilter": 165,
   "topics": [
     {
       "topic": "AI 应用与智能体",
-      "count": 8,
+      "count": 10,
       "sourceCount": 3,
       "sources": [
         "新浪科技",
@@ -872,38 +843,40 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "国产大模型攻克世界级数学难题，AI正在改写数学研究",
         "OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图",
+        "DeepSeek更新模型了，还对外开放了搜索引擎",
         "DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真 网友怒赞：太上进 超级斩杀线",
-        "破解跨域协同瓶颈，智能体互联平台发布",
-        "OpenAI挖角xAI核心销售负责人"
+        "破解跨域协同瓶颈，智能体互联平台发布"
       ]
     },
     {
       "topic": "新能源车动态",
-      "count": 7,
+      "count": 6,
       "sourceCount": 3,
       "sources": [
         "新浪科技",
-        "IT之家",
-        "网易科技"
+        "网易科技",
+        "IT之家"
       ],
       "items": [
-        "马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年",
         "特斯拉美国 Model Y 穿越高速隔离带致人死亡，驾驶辅助系统处于启用状态",
         "美国男子开特斯拉FSD后睡觉撞警车：两名巡警重伤送医",
-        "特斯拉司机开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤",
-        "德系豪华三强集体败北！蔚来Q3终端销量首超BBA：8省40城全面领先"
+        "德系豪华三强集体败北！蔚来Q3终端销量首超BBA：8省40城全面领先",
+        "车企高管谈特斯拉“会飞的跑车”，李斌：太厉害",
+        "特斯拉司机自称开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤"
       ]
     },
     {
       "topic": "AI动态",
-      "count": 3,
-      "sourceCount": 2,
+      "count": 4,
+      "sourceCount": 3,
       "sources": [
         "网易科技",
+        "IT之家",
         "新浪科技"
       ],
       "items": [
         "再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发",
+        "中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去",
         "黄仁勋最新表态：这一切都会过去",
         "超算互联网助天气预报系统“风清”运行"
       ]
@@ -1093,74 +1066,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "困扰数学界30余年、1995年由法国数学家吉斯提出的三维Ghys猜想，近期由中国许地生团队联合上海人工智能实验室，依托国产书生科学多模态大模型S2人机协同攻克，北大团队完成形式化验证，系中国科学家首次用中国大模型拿下世界级数学难题。攻关中书生-S2产出400页首轮推导报告，先后完成7批接续推演，问题图从15个节点扩展至389个，总推导量达千页。当前AI介入前沿数学引发学界争论，25位菲尔兹奖得主联名担忧其可能损害数学研究生态，丘成桐称其冲击如“海啸”，学界普遍认为AI是辅助工具，人类主导研究方向，二者协同可提速数学研究。(AI生成)",
       "relatedTitles": [
         "国产大模型攻克世界级数学难题，AI正在改写数学研究"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年",
-      "summary": "在埃隆·马斯克发布特斯拉Roadster飞行跑车的当天，全球首个‌获得美国联邦航空管理局（FAA）特殊适航认证的飞行汽车研发商，也是硅谷头部电动飞行汽车初创公司Alef Aeronautics ，发布了一段视频。视频中该公司的电动飞行汽车飞...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpnhn1407144.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpnhn1407144.shtml"
-      ],
-      "publishedAt": "2026-10-17",
-      "date": "2026-10-17",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 170,
-      "reporterScore": 192,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 128
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "在埃隆·马斯克发布特斯拉Roadster飞行跑车的当天，全球首个‌获得美国联邦航空管理局（FAA）特殊适航认证的飞行汽车研发商，也是硅谷头部电动飞行汽车初创公司Alef Aeronautics ，发布了一段视频。视频中该公司的电动飞行汽车飞...",
-      "relatedTitles": [
-        "马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年"
       ],
       "isNewSinceLastRun": false
     },
@@ -1438,21 +1343,21 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真 网友怒赞：太上进 超级斩杀线",
-      "summary": "10月17日消息，DeepSeek V4.1 Flash已更新至V4.1-Flash-1017版本，网页端、APP与API模型同步切换为新模型。本次更新实现性能与成本的帕累托改进，模型能力较上一版明显提升，任务运行时间、输出长度缩短，单次调用综合成本下降，达成多Harness框架下的性能-费用帕累托最优，针对DeepS",
+      "title": "DeepSeek更新模型了，还对外开放了搜索引擎",
+      "summary": "距离上一次模型发布仅一个多月，DeepSeek又迭代新模型了，这次还对外开放自研搜索API，针对SEO（搜索引擎优化）作弊、GEO（生成引擎优化）操纵和低质AIGC进行了过滤。10月17日下午，DeepSeek官方宣布，V4.1 Flash...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpsqc7109082.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpspz6398641.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpsqc7109082.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpspz6398641.shtml"
       ],
       "publishedAt": "2026-10-17",
       "date": "2026-10-17",
       "category": "AI",
-      "classificationConfidence": 0.79,
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1495,12 +1400,12 @@ window.CHENCHEN_DAILY_DATA = {
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真 网友怒赞：太上进 超级斩杀线” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “DeepSeek更新模型了，还对外开放了搜索引擎” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI 应用与智能体",
-      "rawText": "快科技10月17日消息，据DeepSeek官方公众号今日消息，DeepSeek V4.1 Flash现已更新至V4.1-Flash-1017版本，官方网页端、APP与API模型已同步变更为新模型。据官方介绍，DeepSeek V4.1 Fl...",
+      "rawText": "距离上一次模型发布仅一个多月，DeepSeek又迭代新模型了，这次还对外开放自研搜索API，针对SEO（搜索引擎优化）作弊、GEO（生成引擎优化）操纵和低质AIGC进行了过滤。10月17日下午，DeepSeek官方宣布，V4.1 Flash...",
       "relatedTitles": [
-        "DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真 网友怒赞：太上进 超级斩杀线"
+        "DeepSeek更新模型了，还对外开放了搜索引擎"
       ],
       "isNewSinceLastRun": true
     },
@@ -1773,6 +1678,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "2026年10月16日，中国汽车工业协会与澳大利亚联邦汽车工业商会、澳大利亚卡车工业理事会举行座谈，三方均为国际汽车制造商协会主要会员，围绕新能源汽车产业发展、充换电基建、国际技术标准法规协调等议题深入交流，约定后续依托相关国际框架深化务实合作，推动全球汽车产业高质量发展。当前中国是澳新车市场最重要进口来源，2026年6月中国制造汽车在澳销量46592辆，占澳新车市场份额35.5%，2025年中国对澳整车出口29.74万辆。(AI生成)",
       "relatedTitles": [
         "中汽协与澳大利亚联邦汽车工业商会、澳大利亚卡车工业理事会举行会谈"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去",
+      "summary": "鄂维南在光华思想力论坛表示，AI 将降低科研门槛，推动科研平权化。同时他还谈及工业软件自主可控、科研体系变革等话题。#人工智能# #科研创新#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/014/371.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/014/371.htm"
+      ],
+      "publishedAt": "Sat, 17 Oct 2026 10:39:55 GMT",
+      "date": "2026-10-17",
+      "category": "AI",
+      "classificationConfidence": 0.74,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 163,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "鄂维南在光华思想力论坛表示，AI 将降低科研门槛，推动科研平权化。同时他还谈及工业软件自主可控、科研体系变革等话题。#人工智能# #科研创新#",
+      "relatedTitles": [
+        "中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真 网友怒赞：太上进 超级斩杀线",
+      "summary": "快科技10月17日消息，据DeepSeek官方公众号今日消息，DeepSeek V4.1 Flash现已更新至V4.1-Flash-1017版本，官方网页端、APP与API模型已同步变更为新模型。据官方介绍，DeepSeek V4.1 Fl...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpsqc7109082.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpsqc7109082.shtml"
+      ],
+      "publishedAt": "2026-10-17",
+      "date": "2026-10-17",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真 网友怒赞：太上进 超级斩杀线” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "快科技10月17日消息，据DeepSeek官方公众号今日消息，DeepSeek V4.1 Flash现已更新至V4.1-Flash-1017版本，官方网页端、APP与API模型已同步变更为新模型。据官方介绍，DeepSeek V4.1 Fl...",
+      "relatedTitles": [
+        "DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真 网友怒赞：太上进 超级斩杀线"
       ],
       "isNewSinceLastRun": false
     },
@@ -2457,6 +2498,74 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜",
+      "summary": "IT之家 10 月 17 日消息，OpenAI 今年 9 月公布了一份长达 166 页的纳维-斯托克斯方程（Navier–Stokes equations）相关证明，称其内部 AI 系统在约 88 小时内完成了对这一千禧年难题的求解。不过，...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-17/doc-inivpsqk1379254.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-17/doc-inivpsqk1379254.shtml"
+      ],
+      "publishedAt": "2026-10-17",
+      "date": "2026-10-17",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "IT之家 10 月 17 日消息，OpenAI 今年 9 月公布了一份长达 166 页的纳维-斯托克斯方程（Navier–Stokes equations）相关证明，称其内部 AI 系统在约 88 小时内完成了对这一千禧年难题的求解。不过，...",
+      "relatedTitles": [
+        "OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "AI蠕虫带来网络安全新挑战",
       "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 AI蠕虫带来网络安全新挑战，或能自主部署、复制并在智能设备间传播 2026-10-17 01:45:00 来源: 科技日报 点击数： 热点",
@@ -2523,74 +2632,6 @@ window.CHENCHEN_DAILY_DATA = {
         "AI蠕虫带来网络安全新挑战"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5",
-      "summary": "移除后将自动切换为 Haiku 5.5，原有对话内容不会删除，企业套餐及 API 服务不受影响。新款 Haiku 5.5 性能更强成本更低。#Anthropic# #Claude#",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/014/312.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/014/312.htm"
-      ],
-      "publishedAt": "Sat, 17 Oct 2026 07:28:03 GMT",
-      "date": "2026-10-17",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 151,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "移除后将自动切换为 Haiku 5.5，原有对话内容不会删除，企业套餐及 API 服务不受影响。新款 Haiku 5.5 性能更强成本更低。#Anthropic# #Claude#",
-      "relatedTitles": [
-        "Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2798,34 +2839,34 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "特斯拉司机开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤",
-      "summary": "该事故再次引发对 FSD 驾驶员监督、道路标志识别能力的讨论，此前特斯拉已因类似问题被调查召回，类似事故仍有发生。#特斯拉FSD# #交通安全#",
+      "title": "Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5",
+      "summary": "移除后将自动切换为 Haiku 5.5，原有对话内容不会删除，企业套餐及 API 服务不受影响。新款 Haiku 5.5 性能更强成本更低。#Anthropic# #Claude#",
       "source": "IT之家",
       "sources": [
         "IT之家"
       ],
       "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/014/348.htm",
+      "url": "https://www.ithome.com/1/014/312.htm",
       "sourceUrls": [
-        "https://www.ithome.com/1/014/348.htm"
+        "https://www.ithome.com/1/014/312.htm"
       ],
-      "publishedAt": "Sat, 17 Oct 2026 09:43:25 GMT",
+      "publishedAt": "Sat, 17 Oct 2026 07:28:03 GMT",
       "date": "2026-10-17",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
+      "category": "AI",
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 4,
-      "score": 141,
-      "reporterScore": 141,
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
         "sourceAuthority": 8,
         "multiSource": 22,
@@ -2847,22 +2888,22 @@ window.CHENCHEN_DAILY_DATA = {
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉司机开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤” against primary-source evidence.",
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "该事故再次引发对 FSD 驾驶员监督、道路标志识别能力的讨论，此前特斯拉已因类似问题被调查召回，类似事故仍有发生。#特斯拉FSD# #交通安全#",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "移除后将自动切换为 Haiku 5.5，原有对话内容不会删除，企业套餐及 API 服务不受影响。新款 Haiku 5.5 性能更强成本更低。#Anthropic# #Claude#",
       "relatedTitles": [
-        "特斯拉司机开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤"
+        "Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2997,6 +3038,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "车企高管谈特斯拉“会飞的跑车”，李斌：太厉害了，这个我们真没有！何小鹏直言“非常酷”,跑车,何小鹏,汽车行业,特斯拉(公司),李斌(1954年10月)",
       "relatedTitles": [
         "车企高管谈特斯拉“会飞的跑车”，李斌：太厉害"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "特斯拉司机自称开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤",
+      "summary": "该事故再次引发对 FSD 驾驶员监督、道路标志识别能力的讨论，此前特斯拉已因类似问题被调查召回，类似事故仍有发生。#特斯拉FSD# #交通安全#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/014/348.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/014/348.htm"
+      ],
+      "publishedAt": "Sat, 17 Oct 2026 09:43:25 GMT",
+      "date": "2026-10-17",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 141,
+      "reporterScore": 141,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “特斯拉司机自称开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "该事故再次引发对 FSD 驾驶员监督、道路标志识别能力的讨论，此前特斯拉已因类似问题被调查召回，类似事故仍有发生。#特斯拉FSD# #交通安全#",
+      "relatedTitles": [
+        "特斯拉司机自称开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤"
       ],
       "isNewSinceLastRun": false
     },
@@ -3473,6 +3582,73 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "2026年10月14日，蓝箭航天的朱雀二号改进型遥四运载火箭在东风商业航天创新试验区点火升空，将国星宇航8颗卫星和蓝塔智能光传03、04星送入预定轨道。本次任务入轨的10颗卫星，主要针对太空算力、高性能卫星互联网等全球商业航天前沿需求，开展相关关键技术试验与验证。",
       "relatedTitles": [
         "29天内两次一箭十星，中国商业航天离“班次化”还有几步"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "OpenAI代理在运行中试图偷窃数字钱包",
+      "summary": "OpenAI OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了 今年devday牙膏挤爆 衡宇 2026-09-30 Dots GPT-6.1 Sol OpenAI OpenAI因新模型太强叫停发布 AGI计划暂停。 程浅 2026-09-29 GPT-6 Astra OpenAI OpenAI",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivmazr8293414.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivmazr8293414.shtml"
+      ],
+      "publishedAt": "2026-10-16",
+      "date": "2026-10-16",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 157,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI代理在运行中试图偷窃数字钱包” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "该研究模型从公开种子短语推导出有资金的Sepolia地址，质疑使用这笔钱是否合乎道德，然后称这些资金“实际上已被遗弃”，但还是用了。 OpenAI周四披露，一个OpenAI研究模型在以太坊测试网络上陷入资金短缺，于是去寻找别人的钱包...",
+      "relatedTitles": [
+        "OpenAI代理在运行中试图偷窃数字钱包"
       ]
     },
     {
@@ -4341,12 +4517,12 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
-      "summary": "Are we human?",
+      "title": "$24,000 AI experiment ports TypeScript compiler to Rust",
+      "summary": "Microsoft",
       "source": "The Register",
-      "url": "https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569",
-      "publishedAt": "Sat, 17 Oct 2026 11:00:00 +0200",
-      "date": "2026-10-17",
+      "url": "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
+      "publishedAt": "Thu, 15 Oct 2026 20:52:52 +0200",
+      "date": "2026-10-15",
       "region": "Europe",
       "category": "AI",
       "classificationConfidence": 0.62,
@@ -4354,10 +4530,42 @@ window.CHENCHEN_DAILY_DATA = {
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "medium",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Amazon wants you to Bee-lieve wearable AI can recall it all for you” against primary-source evidence.",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “$24,000 AI experiment ports TypeScript compiler to Rust” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "I ran a half marathon with the Apple Watch Ultra 4 vs Samsung Galaxy Watch Ultra 2 — here's the winner",
+      "summary": "We wore both smartwatches for a half marathon race to see which came out on top",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/wearables/articles/ran-half-marathon-apple-watch-053000852.html",
+      "publishedAt": "2026-10-17",
+      "date": "2026-10-17",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “I ran a half marathon with the Apple Watch Ultra 4 vs Samsung Galaxy Wat” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -4502,14 +4710,14 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI claims 100-plus secret files followed ex-employee back to Apple",
-      "summary": "Are we human?",
+      "summary": "ChatGPT maker turns tables in Apple",
       "source": "The Register",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/15/openai-claims-100-plus-secret-files-followed-ex-employee-back-to-apple/5303202",
       "publishedAt": "Thu, 15 Oct 2026 13:46:00 +0200",
       "date": "2026-10-15",
       "region": "Europe",
       "category": "AI",
-      "classificationConfidence": 0.8,
+      "classificationConfidence": 0.99,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
@@ -4566,7 +4774,7 @@ window.CHENCHEN_DAILY_DATA = {
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "TSMC sends scouts to check whether America's datacenters can deliver",
-      "summary": "Are we human?",
+      "summary": "Silicon giant budgets up to $64B for expansion while keeping an eye on construction progress and power supplies",
       "source": "The Register",
       "url": "https://www.theregister.com/systems/2026/10/15/tsmc-sends-scouts-to-check-whether-americas-datacenters-can-deliver/5303260",
       "publishedAt": "Thu, 15 Oct 2026 15:15:00 +0200",
@@ -4884,8 +5092,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-17｜V3\n生成时间：2026/10/17 18:16:42\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2510｜确认今日 33｜国际背景 23\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 1 条\n延续跟踪线索：国内 30 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-17] 国产大模型攻克世界级数学难题，AI正在改写数学研究\n   新浪科技｜2026-10-17｜https://finance.sina.com.cn/roll/2026-10-17/doc-inivnvku1484173.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国产大模型攻克世界级数学难题，AI正在改写数学研究” against primary-source evidence.\n\n2. [2026-10-17] 马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年\n   新浪科技｜2026-10-17｜https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpnhn1407144.shtml\n   报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年” against primary-source evidence.\n\n3. [07:07] OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图\n   IT之家｜2026-10-17｜https://www.ithome.com/1/014/303.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图” against primary-source evidence.\n\n4. [2026-10-17] Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型\n   新浪科技｜2026-10-17｜https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型” against primary-source evidence.\n\n5. [2026-10-17] 再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发\n   网易科技｜2026-10-17｜https://www.163.com/dy/article/L9EL97190512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发” against primary-source evidence.\n\n本次新增线索：\n- DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真 网友怒赞：太上进 超级斩杀线｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpsqc7109082.shtml\n- Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5｜IT之家｜https://www.ithome.com/1/014/312.htm\n- 特斯拉司机开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤｜IT之家｜https://www.ithome.com/1/014/348.htm\n- Amazon wants you to Bee-lieve wearable AI can recall it all for you｜The Register｜https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\n2. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images｜CNBC Technology｜https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html\n3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n4. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html\n5. AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off｜CNBC Technology｜https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-17｜V3\n生成时间：2026/10/17 18:16:42\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2510｜确认今日 33｜国际背景 23\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 1 条\n延续跟踪线索：国内 30 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-17] 国产大模型攻克世界级数学难题，AI正在改写数学研究\n   新浪科技｜2026-10-17｜https://finance.sina.com.cn/roll/2026-10-17/doc-inivnvku1484173.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国产大模型攻克世界级数学难题，AI正在改写数学研究” against primary-source evidence.\n\n2. [2026-10-17] 马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年\n   新浪科技｜2026-10-17｜https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpnhn1407144.shtml\n   报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年” against primary-source evidence.\n\n3. [07:07] OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图\n   IT之家｜2026-10-17｜https://www.ithome.com/1/014/303.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图” against primary-source evidence.\n\n4. [2026-10-17] Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型\n   新浪科技｜2026-10-17｜https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型” against primary-source evidence.\n\n5. [2026-10-17] 再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发\n   网易科技｜2026-10-17｜https://www.163.com/dy/article/L9EL97190512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发” against primary-source evidence.\n\n本次新增线索：\n- DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真 网友怒赞：太上进 超级斩杀线｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpsqc7109082.shtml\n- Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5｜IT之家｜https://www.ithome.com/1/014/312.htm\n- 特斯拉司机开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤｜IT之家｜https://www.ithome.com/1/014/348.htm\n- Amazon wants you to Bee-lieve wearable AI can recall it all for you｜The Register｜https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\n2. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images｜CNBC Technology｜https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html\n3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n4. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html\n5. AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off｜CNBC Technology｜https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-17｜生成时间：2026/10/17 18:16:42｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2510｜确认今日 33｜国际背景 23</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 1 条<br>延续跟踪线索：国内 30 条｜国际 22 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-17] 国产大模型攻克世界级数学难题，AI正在改写数学研究</strong>\n      <span>新浪科技｜2026-10-17｜<a href=\"https://finance.sina.com.cn/roll/2026-10-17/doc-inivnvku1484173.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国产大模型攻克世界级数学难题，AI正在改写数学研究” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-17] 马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年</strong>\n      <span>新浪科技｜2026-10-17｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpnhn1407144.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：192｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [07:07] OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图</strong>\n      <span>IT之家｜2026-10-17｜<a href=\"https://www.ithome.com/1/014/303.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-17] Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型</strong>\n      <span>新浪科技｜2026-10-17｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-17] 再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发</strong>\n      <span>网易科技｜2026-10-17｜<a href=\"https://www.163.com/dy/article/L9EL97190512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. EU Code Week 2026 launches with focus on digital skills in the age of AI</strong>\n      <span>时间：Wed, 14 Oct 2026 17:00:00 +0000｜来源：EU AI Office｜<a href=\"https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “EU Code Week 2026 launches with focus on digital skills in the age of AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images</strong>\n      <span>时间：Fri, 16 Oct 2026 19:30:51 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualize” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Meta launches an open-weight AI model that runs on Macs</strong>\n      <span>时间：Thu, 15 Oct 2026 20:04:53 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta launches an open-weight AI model that runs on Macs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Nvidia, AMD, Dell sink in global tech rout on AI funding worries</strong>\n      <span>时间：Thu, 15 Oct 2026 20:33:24 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia, AMD, Dell sink in global tech rout on AI funding worries” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off</strong>\n      <span>时间：Thu, 15 Oct 2026 14:10:14 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AWS, Anthropic race to deploy army of specialized engineers key to provi” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/17 18:16:42\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 1 条\n延续跟踪线索：国内 30 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-17] 国产大模型攻克世界级数学难题，AI正在改写数学研究\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-10-17/doc-inivnvku1484173.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国产大模型攻克世界级数学难题，AI正在改写数学研究” against primary-source evidence.\n\n2. [2026-10-17] 马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpnhn1407144.shtml\n   角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年” against primary-source evidence.\n\n3. [07:07] OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图\n   来源：IT之家\n   链接：https://www.ithome.com/1/014/303.htm\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图” against primary-source evidence.\n\n4. [2026-10-17] Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型” against primary-source evidence.\n\n5. [2026-10-17] 再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L9EL97190512B07B.html\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发” against primary-source evidence.\n\n本次新增线索：\n- DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真 网友怒赞：太上进 超级斩杀线｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpsqc7109082.shtml\n- Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5｜IT之家｜https://www.ithome.com/1/014/312.htm\n- 特斯拉司机开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤｜IT之家｜https://www.ithome.com/1/014/348.htm\n- Amazon wants you to Bee-lieve wearable AI can recall it all for you｜The Register｜https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（8 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\n2. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images｜CNBC Technology｜https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html\n3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n4. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html\n5. AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off｜CNBC Technology｜https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-17｜V3\n生成时间：2026/10/17 18:50:59\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2510｜确认今日 35｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 2 条\n延续跟踪线索：国内 32 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-17] 国产大模型攻克世界级数学难题，AI正在改写数学研究\n   新浪科技｜2026-10-17｜https://finance.sina.com.cn/roll/2026-10-17/doc-inivnvku1484173.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国产大模型攻克世界级数学难题，AI正在改写数学研究” against primary-source evidence.\n\n2. [07:07] OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图\n   IT之家｜2026-10-17｜https://www.ithome.com/1/014/303.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图” against primary-source evidence.\n\n3. [2026-10-17] Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型\n   新浪科技｜2026-10-17｜https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型” against primary-source evidence.\n\n4. [2026-10-17] 再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发\n   网易科技｜2026-10-17｜https://www.163.com/dy/article/L9EL97190512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发” against primary-source evidence.\n\n5. [2026-10-17] 直击2026湾芯展｜订单超全年营收两倍，国产半导\n   网易科技｜2026-10-17｜https://www.163.com/dy/article/L9ED4ELJ0534A4SC.html\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “直击2026湾芯展｜订单超全年营收两倍，国产半导” against primary-source evidence.\n\n本次新增线索：\n- DeepSeek更新模型了，还对外开放了搜索引擎｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpspz6398641.shtml\n- 中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去｜IT之家｜https://www.ithome.com/1/014/371.htm\n- OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-17/doc-inivpsqk1379254.shtml\n- $24,000 AI experiment ports TypeScript compiler to Rust｜The Register｜https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409\n- I ran a half marathon with the Apple Watch Ultra 4 vs Samsung Galaxy Watch Ultra 2 — here's the winner｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/ran-half-marathon-apple-watch-053000852.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（10 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\n2. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images｜CNBC Technology｜https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html\n3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n4. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html\n5. AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off｜CNBC Technology｜https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-17｜V3\n生成时间：2026/10/17 18:50:59\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2510｜确认今日 35｜国际背景 24\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 2 条\n延续跟踪线索：国内 32 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-17] 国产大模型攻克世界级数学难题，AI正在改写数学研究\n   新浪科技｜2026-10-17｜https://finance.sina.com.cn/roll/2026-10-17/doc-inivnvku1484173.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国产大模型攻克世界级数学难题，AI正在改写数学研究” against primary-source evidence.\n\n2. [07:07] OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图\n   IT之家｜2026-10-17｜https://www.ithome.com/1/014/303.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图” against primary-source evidence.\n\n3. [2026-10-17] Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型\n   新浪科技｜2026-10-17｜https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml\n   报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型” against primary-source evidence.\n\n4. [2026-10-17] 再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发\n   网易科技｜2026-10-17｜https://www.163.com/dy/article/L9EL97190512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发” against primary-source evidence.\n\n5. [2026-10-17] 直击2026湾芯展｜订单超全年营收两倍，国产半导\n   网易科技｜2026-10-17｜https://www.163.com/dy/article/L9ED4ELJ0534A4SC.html\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “直击2026湾芯展｜订单超全年营收两倍，国产半导” against primary-source evidence.\n\n本次新增线索：\n- DeepSeek更新模型了，还对外开放了搜索引擎｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpspz6398641.shtml\n- 中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去｜IT之家｜https://www.ithome.com/1/014/371.htm\n- OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-17/doc-inivpsqk1379254.shtml\n- $24,000 AI experiment ports TypeScript compiler to Rust｜The Register｜https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409\n- I ran a half marathon with the Apple Watch Ultra 4 vs Samsung Galaxy Watch Ultra 2 — here's the winner｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/ran-half-marathon-apple-watch-053000852.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（10 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\n2. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images｜CNBC Technology｜https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html\n3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n4. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html\n5. AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off｜CNBC Technology｜https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-17｜生成时间：2026/10/17 18:50:59｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2510｜确认今日 35｜国际背景 24</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 3 条｜国际 2 条<br>延续跟踪线索：国内 32 条｜国际 22 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-17] 国产大模型攻克世界级数学难题，AI正在改写数学研究</strong>\n      <span>新浪科技｜2026-10-17｜<a href=\"https://finance.sina.com.cn/roll/2026-10-17/doc-inivnvku1484173.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国产大模型攻克世界级数学难题，AI正在改写数学研究” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [07:07] OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图</strong>\n      <span>IT之家｜2026-10-17｜<a href=\"https://www.ithome.com/1/014/303.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-17] Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型</strong>\n      <span>新浪科技｜2026-10-17｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-17] 再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发</strong>\n      <span>网易科技｜2026-10-17｜<a href=\"https://www.163.com/dy/article/L9EL97190512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-17] 直击2026湾芯展｜订单超全年营收两倍，国产半导</strong>\n      <span>网易科技｜2026-10-17｜<a href=\"https://www.163.com/dy/article/L9ED4ELJ0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “直击2026湾芯展｜订单超全年营收两倍，国产半导” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. EU Code Week 2026 launches with focus on digital skills in the age of AI</strong>\n      <span>时间：Wed, 14 Oct 2026 17:00:00 +0000｜来源：EU AI Office｜<a href=\"https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “EU Code Week 2026 launches with focus on digital skills in the age of AI” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images</strong>\n      <span>时间：Fri, 16 Oct 2026 19:30:51 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualize” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Meta launches an open-weight AI model that runs on Macs</strong>\n      <span>时间：Thu, 15 Oct 2026 20:04:53 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Meta launches an open-weight AI model that runs on Macs” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Nvidia, AMD, Dell sink in global tech rout on AI funding worries</strong>\n      <span>时间：Thu, 15 Oct 2026 20:33:24 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Nvidia, AMD, Dell sink in global tech rout on AI funding worries” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off</strong>\n      <span>时间：Thu, 15 Oct 2026 14:10:14 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AWS, Anthropic race to deploy army of specialized engineers key to provi” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/17 18:50:59\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 3 条｜国际 2 条\n延续跟踪线索：国内 32 条｜国际 22 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-17] 国产大模型攻克世界级数学难题，AI正在改写数学研究\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-10-17/doc-inivnvku1484173.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国产大模型攻克世界级数学难题，AI正在改写数学研究” against primary-source evidence.\n\n2. [07:07] OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图\n   来源：IT之家\n   链接：https://www.ithome.com/1/014/303.htm\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图” against primary-source evidence.\n\n3. [2026-10-17] Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml\n   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型” against primary-source evidence.\n\n4. [2026-10-17] 再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L9EL97190512B07B.html\n   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发” against primary-source evidence.\n\n5. [2026-10-17] 直击2026湾芯展｜订单超全年营收两倍，国产半导\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L9ED4ELJ0534A4SC.html\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “直击2026湾芯展｜订单超全年营收两倍，国产半导” against primary-source evidence.\n\n本次新增线索：\n- DeepSeek更新模型了，还对外开放了搜索引擎｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpspz6398641.shtml\n- 中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去｜IT之家｜https://www.ithome.com/1/014/371.htm\n- OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-17/doc-inivpsqk1379254.shtml\n- $24,000 AI experiment ports TypeScript compiler to Rust｜The Register｜https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409\n- I ran a half marathon with the Apple Watch Ultra 4 vs Samsung Galaxy Watch Ultra 2 — here's the winner｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/ran-half-marathon-apple-watch-053000852.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（10 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：机器人动态（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai\n2. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images｜CNBC Technology｜https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html\n3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n4. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html\n5. AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off｜CNBC Technology｜https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
