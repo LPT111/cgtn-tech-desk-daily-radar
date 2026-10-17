@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/17 08:48:59
+生成时间：2026/10/17 09:15:00
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 18 条｜国际 8 条
-延续跟踪线索：国内 0 条｜国际 15 条
+新增核心线索：国内 6 条｜国际 1 条
+延续跟踪线索：国内 16 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,48 +18,48 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.ithome.com/1/014/191.htm
    角度：Use standards, implementation and international rule-setting to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜” against primary-source evidence.
 
-2. [2026-10-17] Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型
+2. [2026-10-17] 新型芯片级陀螺仪可测量极慢速旋转
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-10/17/content_597455.html
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “新型芯片级陀螺仪可测量极慢速旋转” against primary-source evidence.
+
+3. [2026-10-17] Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml
    角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型” against primary-source evidence.
 
-3. [2026-10-17] 存储器、E-Glass 双面夹击成本，传三星 MX 2027 年智能手机业务计划悬而未决
+4. [2026-10-17] 存储器、E-Glass 双面夹击成本，传三星 MX 2027 年智能手机业务计划悬而未决
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/digi/2026-10-17/doc-inivnrap6648623.shtml
    角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “存储器、E-Glass 双面夹击成本，传三星 MX 2027 年智能手机业务计划悬而未决” against primary-source evidence.
 
-4. [2026-10-17] 真爱美家等成立智能科技公司，含AI及机器人业务
+5. [2026-10-17] 223 道题、2651 条标准：阿里 Qwen 开源 BlenderWorld，给 AI 出了一套 3D 建模大考
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivnenv7432840.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “真爱美家等成立智能科技公司，含AI及机器人业务” against primary-source evidence.
-
-5. [2026-10-17] 特朗普否认限制乌克兰卫星系统 乌方对此存疑
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnkuz8238911.shtml
-   角度：Use mission capability and commercial sustainability to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “特朗普否认限制乌克兰卫星系统 乌方对此存疑” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-17/doc-inivnvku1407345.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “223 道题、2651 条标准：阿里 Qwen 开源 BlenderWorld，给 AI 出了一套 3D 建模大考” against primary-source evidence.
 
 本次新增线索：
-- Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜｜IT之家｜https://www.ithome.com/1/014/191.htm
-- Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml
-- 存储器、E-Glass 双面夹击成本，传三星 MX 2027 年智能手机业务计划悬而未决｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-17/doc-inivnrap6648623.shtml
-- 真爱美家等成立智能科技公司，含AI及机器人业务｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivnenv7432840.shtml
-- 特朗普否认限制乌克兰卫星系统 乌方对此存疑｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnkuz8238911.shtml
-- SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images｜CNBC Technology｜https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html
+- 新型芯片级陀螺仪可测量极慢速旋转｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/17/content_597455.html
+- 223 道题、2651 条标准：阿里 Qwen 开源 BlenderWorld，给 AI 出了一套 3D 建模大考｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-17/doc-inivnvku1407345.shtml
+- Anthropic据悉在最新一轮芯片融资交易中向黑石提供两位数收益率｜网易科技｜https://www.163.com/dy/article/L9EALC040534A4SC.html
+- 告别独占直通！Nova Lake核显确认支持SR-IOV：多虚拟机可共享GPU｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-17/doc-inivnvkp7279595.shtml
+- AI蠕虫带来网络安全新挑战｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/17/content_597457.html
+- What Do AMD GPU Names And Numbers Actually Mean?｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/amd-gpu-names-numbers-actually-231700656.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（6 条，3 个来源）
+- AI 应用：AI 应用与智能体（7 条，2 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
 - 机器人/具身智能：机器人动态（1 条，1 个来源）
-- 新能源车/智能驾驶：
+- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
 - 太空与低空经济：低空经济与无人机（1 条，1 个来源）
 - 科学前沿：
 
 国际科技背景：
-1. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images｜CNBC Technology｜https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html
-2. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai
-3. An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet｜TechCrunch｜https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
-4. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
-5. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html
+1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai
+2. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images｜CNBC Technology｜https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html
+3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
+4. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html
+5. AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off｜CNBC Technology｜https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
