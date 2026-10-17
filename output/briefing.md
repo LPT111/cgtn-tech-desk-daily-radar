@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/17 17:41:29
+生成时间：2026/10/17 18:16:42
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 28 条｜国际 1 条
-延续跟踪线索：国内 6 条｜国际 23 条
+新增核心线索：国内 3 条｜国际 1 条
+延续跟踪线索：国内 30 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -28,38 +28,36 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.ithome.com/1/014/303.htm
    角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图” against primary-source evidence.
 
-4. [2026-10-17] 再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发
+4. [2026-10-17] Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml
+   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型” against primary-source evidence.
+
+5. [2026-10-17] 再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发
    来源：网易科技
    链接：https://www.163.com/dy/article/L9EL97190512B07B.html
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发” against primary-source evidence.
 
-5. [2026-10-17] 直击2026湾芯展｜订单超全年营收两倍，国产半导
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L9ED4ELJ0534A4SC.html
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “直击2026湾芯展｜订单超全年营收两倍，国产半导” against primary-source evidence.
-
 本次新增线索：
-- 国产大模型攻克世界级数学难题，AI正在改写数学研究｜新浪科技｜https://finance.sina.com.cn/roll/2026-10-17/doc-inivnvku1484173.shtml
-- 马斯克遭遇“踢馆”：有证的飞行汽车研发公司发布其车飞越特斯拉视频，称已领先11年｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpnhn1407144.shtml
-- OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图｜IT之家｜https://www.ithome.com/1/014/303.htm
-- 再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发｜网易科技｜https://www.163.com/dy/article/L9EL97190512B07B.html
-- 直击2026湾芯展｜订单超全年营收两倍，国产半导｜网易科技｜https://www.163.com/dy/article/L9ED4ELJ0534A4SC.html
-- Nvidia's RTX Spark Event in San Francisco Attracts Long Lines, But Few Buyers｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/nvidias-rtx-spark-event-san-212210901.html
+- DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真 网友怒赞：太上进 超级斩杀线｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpsqc7109082.shtml
+- Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5｜IT之家｜https://www.ithome.com/1/014/312.htm
+- 特斯拉司机开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤｜IT之家｜https://www.ithome.com/1/014/348.htm
+- Amazon wants you to Bee-lieve wearable AI can recall it all for you｜The Register｜https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569
 
 今日热点方向：
 - AI 应用：AI 应用与智能体（8 条，3 个来源）
 - 芯片/半导体：半导体供应链（2 条，1 个来源）
 - 机器人/具身智能：机器人动态（2 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）
 - 太空与低空经济：低空经济与无人机（1 条，1 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai
 2. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images｜CNBC Technology｜https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html
-3. Nvidia's RTX Spark Event in San Francisco Attracts Long Lines, But Few Buyers｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/nvidias-rtx-spark-event-san-212210901.html
-4. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
-5. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html
+3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
+4. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html
+5. AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off｜CNBC Technology｜https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
