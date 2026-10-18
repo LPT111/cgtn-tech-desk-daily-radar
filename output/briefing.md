@@ -3,62 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/17 18:50:59
+生成时间：2026/10/18 08:27:29
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 2 条
-延续跟踪线索：国内 32 条｜国际 22 条
+新增核心线索：国内 17 条｜国际 4 条
+延续跟踪线索：国内 0 条｜国际 6 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-17] 国产大模型攻克世界级数学难题，AI正在改写数学研究
+1. [2026-10-18] 韩国半导体工程师指控特斯拉：施压三星压低 AI 芯片报价、索要敏感信息并挖角其人才
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-10-17/doc-inivnvku1484173.shtml
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “国产大模型攻克世界级数学难题，AI正在改写数学研究” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-18/doc-inivqyim6076626.shtml
+   角度：Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “韩国半导体工程师指控特斯拉：施压三星压低 AI 芯片报价、索要敏感信息并挖角其人才” against primary-source evidence.
 
-2. [07:07] OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图
-   来源：IT之家
-   链接：https://www.ithome.com/1/014/303.htm
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图” against primary-source evidence.
-
-3. [2026-10-17] Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型
+2. [2026-10-18] 我国首个十万卡AI 超集群 “能装一个宇宙”
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml
-   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivqyip6791353.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “我国首个十万卡AI 超集群 “能装一个宇宙”” against primary-source evidence.
 
-4. [2026-10-17] 再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L9EL97190512B07B.html
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发” against primary-source evidence.
+3. [2026-10-18] 英伟达官方平台下架RTX 5090 零售商正加速清库存
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-10-18/doc-inivqyiu1121563.shtml
+   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “英伟达官方平台下架RTX 5090 零售商正加速清库存” against primary-source evidence.
 
-5. [2026-10-17] 直击2026湾芯展｜订单超全年营收两倍，国产半导
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L9ED4ELJ0534A4SC.html
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “直击2026湾芯展｜订单超全年营收两倍，国产半导” against primary-source evidence.
+4. [2026-10-18] OpenAI 将研发人形机器人，奥尔特曼称核心是打造“大脑”
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-18/doc-inivqyim6095063.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “OpenAI 将研发人形机器人，奥尔特曼称核心是打造“大脑”” against primary-source evidence.
+
+5. [2026-10-18] 全新Roadster上演科幻级特技！特斯拉飞行汽车被质疑是噱头
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-18/doc-inivqyiu1101876.shtml
+   角度：Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “全新Roadster上演科幻级特技！特斯拉飞行汽车被质疑是噱头” against primary-source evidence.
 
 本次新增线索：
-- DeepSeek更新模型了，还对外开放了搜索引擎｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivpspz6398641.shtml
-- 中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去｜IT之家｜https://www.ithome.com/1/014/371.htm
-- OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-17/doc-inivpsqk1379254.shtml
-- $24,000 AI experiment ports TypeScript compiler to Rust｜The Register｜https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409
-- I ran a half marathon with the Apple Watch Ultra 4 vs Samsung Galaxy Watch Ultra 2 — here's the winner｜Yahoo News Technology｜https://tech.yahoo.com/wearables/articles/ran-half-marathon-apple-watch-053000852.html
+- 韩国半导体工程师指控特斯拉：施压三星压低 AI 芯片报价、索要敏感信息并挖角其人才｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-18/doc-inivqyim6076626.shtml
+- 我国首个十万卡AI 超集群 “能装一个宇宙”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivqyip6791353.shtml
+- 英伟达官方平台下架RTX 5090 零售商正加速清库存｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-18/doc-inivqyiu1121563.shtml
+- OpenAI 将研发人形机器人，奥尔特曼称核心是打造“大脑”｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-18/doc-inivqyim6095063.shtml
+- 全新Roadster上演科幻级特技！特斯拉飞行汽车被质疑是噱头｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-18/doc-inivqyiu1101876.shtml
+- Replit makes OpenAI its default over Anthropic, CEO says｜TechCrunch｜https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（10 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：机器人动态（2 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- AI 应用：AI动态（6 条，2 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车动态（3 条，1 个来源）
+- 太空与低空经济：
+- 科学前沿：
 
 国际科技背景：
-1. EU Code Week 2026 launches with focus on digital skills in the age of AI｜EU AI Office｜https://digital-strategy.ec.europa.eu/en/events/eu-code-week-2026-launches-focus-digital-skills-age-ai
-2. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images｜CNBC Technology｜https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html
-3. Meta launches an open-weight AI model that runs on Macs｜TechCrunch｜https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
-4. Nvidia, AMD, Dell sink in global tech rout on AI funding worries｜CNBC Technology｜https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html
-5. AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off｜CNBC Technology｜https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html
+1. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images｜CNBC Technology｜https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html
+2. An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet｜TechCrunch｜https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
+3. Replit makes OpenAI its default over Anthropic, CEO says｜TechCrunch｜https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
+4. Anthropic says its workforce has become less junior and is spending more time in meetings｜TechCrunch｜https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
+5. What Will Change If You Use An AI Chatbot Instead Of Google Search?｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/change-ai-chatbot-instead-google-171700480.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
