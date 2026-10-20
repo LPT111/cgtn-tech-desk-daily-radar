@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/20 09:18:34
+生成时间：2026/10/20 09:42:44
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 36 条｜国际 7 条
-延续跟踪线索：国内 0 条｜国际 5 条
+新增核心线索：国内 8 条｜国际 2 条
+延续跟踪线索：国内 29 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -16,48 +16,48 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/roll/2026-10-20/doc-inivvhfu0846677.shtml
    角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “当AI输出的文本，开始自带“水印”” against primary-source evidence.
 
-2. [2026-10-20] 专家：人工智能拥有答案，而人类需要提出好问题
+2. [2026-10-20] 我国在脑机接口领域实现国际标准新突破
    来源：科技日报
-   链接：https://www.stdaily.com/web/gdxw/2026-10/20/content_599065.html
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “专家：人工智能拥有答案，而人类需要提出好问题” against primary-source evidence.
+   链接：https://www.stdaily.com/web/gdxw/2026-10/20/content_599103.html
+   角度：Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “我国在脑机接口领域实现国际标准新突破” against primary-source evidence.
 
 3. [2026-10-20] 《人工智能赋能全球传统医学发展报告》发布
    来源：科技日报
    链接：https://www.stdaily.com/web/gdxw/2026-10/20/content_599064.html
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “《人工智能赋能全球传统医学发展报告》发布” against primary-source evidence.
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “《人工智能赋能全球传统医学发展报告》发布” against primary-source evidence.
 
-4. [2026-10-20] 中国大模型周调用量连续25周超过美国；人工智能
+4. [2026-10-20] 专家：人工智能拥有答案，而人类需要提出好问题
+   来源：科技日报
+   链接：https://www.stdaily.com/web/gdxw/2026-10/20/content_599065.html
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “专家：人工智能拥有答案，而人类需要提出好问题” against primary-source evidence.
+
+5. [2026-10-20] 中国大模型周调用量连续25周超过美国；人工智能
    来源：网易科技
    链接：https://www.163.com/dy/article/L9LRDJNR0512B07B.html
    角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中国大模型周调用量连续25周超过美国；人工智能” against primary-source evidence.
 
-5. [2026-10-20] 乐华×天太×金马×蚂蚁集团/千问 探索物理AI落地新场景————全球 AI 大模型背景下中国文旅物理 AI 跨界合作新布局
-   来源：网易科技
-   链接：https://www.163.com/dy/article/L9LVORSR05198CJN.html
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “乐华×天太×金马×蚂蚁集团/千问 探索物理AI落地新场景————全球 AI 大模型背景下中国文旅物理 AI 跨界合作新布局” against primary-source evidence.
-
 本次新增线索：
-- 当AI输出的文本，开始自带“水印”｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-20/doc-inivvhfu0846677.shtml
-- 专家：人工智能拥有答案，而人类需要提出好问题｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/20/content_599065.html
-- 《人工智能赋能全球传统医学发展报告》发布｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/20/content_599064.html
-- 中国大模型周调用量连续25周超过美国；人工智能｜网易科技｜https://www.163.com/dy/article/L9LRDJNR0512B07B.html
-- 乐华×天太×金马×蚂蚁集团/千问 探索物理AI落地新场景————全球 AI 大模型背景下中国文旅物理 AI 跨界合作新布局｜网易科技｜https://www.163.com/dy/article/L9LVORSR05198CJN.html
-- Nvidia launches new open models to run agents in the enterprise and on PCs｜TechCrunch｜https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/
+- 我国在脑机接口领域实现国际标准新突破｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/20/content_599103.html
+- 中国家电品牌以AI创新产品加速拓展全球市场｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-20/doc-inivvsvt5799369.shtml
+- AI终端与具身智能获政策支持，南方基金持续关注｜网易科技｜https://www.163.com/dy/article/L9M2QV020534A4SC.html
+- 重仅1克 我国科学家研制世界最轻无线介观显微镜｜网易科技｜https://www.163.com/dy/article/L9L75KG905198CJN.html
+- 11亿美元出海！剂泰科技牵手礼来，国内生成式AI｜网易科技｜https://www.163.com/dy/article/L9M3ABSP0534A4SC.html
+- Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says｜TechCrunch｜https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（14 条，3 个来源）
+- AI 应用：AI动态（7 条，4 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
 - 新能源车/智能驾驶：新能源车与智能驾驶（1 条，1 个来源）
-- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- 太空与低空经济：
+- 科学前沿：科学前沿与科研设施（3 条，3 个来源）
 
 国际科技背景：
-1. Nvidia launches new open models to run agents in the enterprise and on PCs｜TechCrunch｜https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/
-2. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody｜WIRED Business｜https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/
-3. Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says｜Ars Technica｜https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/
-4. AI’s epic cash call is matched only by its ability to strangle revenue streams｜The Register｜https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493
-5. Will developing nations be able to handle millions of AI agents?｜Rest of World｜https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+1. Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says｜TechCrunch｜https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/
+2. AI’s epic cash call is matched only by its ability to strangle revenue streams｜The Register｜https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493
+3. Nvidia launches new open models to run agents in the enterprise and on PCs｜TechCrunch｜https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/
+4. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody｜WIRED Business｜https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/
+5. Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says｜Ars Technica｜https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
