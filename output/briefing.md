@@ -3,58 +3,59 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/21 09:41:31
+生成时间：2026/10/21 18:35:51
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 1 条
-延续跟踪线索：国内 40 条｜国际 18 条
+新增核心线索：国内 95 条｜国际 4 条
+延续跟踪线索：国内 9 条｜国际 17 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-21] 奇瑞发布垂类基础大模型CheryMind和紫微芯片
+1. [2026-10-21] 全球每台光刻机都靠它！蔡司已备好货：三星、SK海力士扩产不用等
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-10-21/doc-inivysyq4860002.shtml
+   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “全球每台光刻机都靠它！蔡司已备好货：三星、SK海力士扩产不用等” against primary-source evidence.
+
+2. [2026-10-21] 奇瑞旗下墨甲机器人首款消费级家庭陪伴人形机器人“墨宝”发布：身高 0.9 米，22 个自由度支持行走与身体表达
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-21/doc-inivysyn8111693.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “奇瑞旗下墨甲机器人首款消费级家庭陪伴人形机器人“墨宝”发布：身高 0.9 米，22 个自由度支持行走与身体表达” against primary-source evidence.
+
+3. [2026-10-21] 奇瑞发布垂类基础大模型CheryMind和紫微芯片
    来源：新浪科技
    链接：https://finance.sina.com.cn/roll/2026-10-21/doc-inivxrnx6295823.shtml
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “奇瑞发布垂类基础大模型CheryMind和紫微芯片” against primary-source evidence.
 
-2. [2026-10-21] 马斯克称Terafab目标2028年第三季度实现量产：“挑战性极强”
+4. [2026-10-21] 麦克法兰：AI是个有用的工具，但也就如此了
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxvuv6208902.shtml
-   角度：Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “马斯克称Terafab目标2028年第三季度实现量产：“挑战性极强”” against primary-source evidence.
+   链接：https://finance.sina.com.cn/hy/hyjz/2026-10-21/doc-inivyaat6231111.shtml
+   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “麦克法兰：AI是个有用的工具，但也就如此了” against primary-source evidence.
 
-3. [2026-10-21] 特斯拉能飞我们就被甩开了吗 人民日报：不必妄自菲薄！
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-21/doc-inivxvuv6265732.shtml
-   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “特斯拉能飞我们就被甩开了吗 人民日报：不必妄自菲薄！” against primary-source evidence.
-
-4. [2026-10-21] 我的巨额财富可能在几代人后所剩无几！马斯克：金钱将毫无意义 AI让人们得到一切
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-10-21/doc-inivxvut5533509.shtml
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “我的巨额财富可能在几代人后所剩无几！马斯克：金钱将毫无意义 AI让人们得到一切” against primary-source evidence.
-
-5. [2026-10-21] 斩获AI顶会NeurIPS 2026！摩尔线程前沿成果ReorgGS：以极小工程改动，提升3DGS渲染画质与效率
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-21/doc-inivxvut5512816.shtml
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “斩获AI顶会NeurIPS 2026！摩尔线程前沿成果ReorgGS：以极小工程改动，提升3DGS渲染画质与效率” against primary-source evidence.
+5. [2026-10-21] 英伟达发布Vera Rubin DSX POD模块化AI工厂参考架构
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L9PIULG305198CJN.html
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “英伟达发布Vera Rubin DSX POD模块化AI工厂参考架构” against primary-source evidence.
 
 本次新增线索：
-- 马斯克称Terafab目标2028年第三季度实现量产：“挑战性极强”｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxvuv6208902.shtml
-- 我的巨额财富可能在几代人后所剩无几！马斯克：金钱将毫无意义 AI让人们得到一切｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-21/doc-inivxvut5533509.shtml
-- AMD FSR 超分辨率 4.1 将登陆 XBOX Series X|S，FSR 将支持 Vulkan API｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-21/doc-inivxvuy4787890.shtml
-- 花旗将宁德时代AH股目标价下调4% 第三季度净利润不及预期｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxvut5542019.shtml
-- Samsung Galaxy Z Flip 8 Review: Iteration Overshadowed By Innovation｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-galaxy-z-flip-8-000000023.html
+- 全球每台光刻机都靠它！蔡司已备好货：三星、SK海力士扩产不用等｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-21/doc-inivysyq4860002.shtml
+- 奇瑞旗下墨甲机器人首款消费级家庭陪伴人形机器人“墨宝”发布：身高 0.9 米，22 个自由度支持行走与身体表达｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-21/doc-inivysyn8111693.shtml
+- 麦克法兰：AI是个有用的工具，但也就如此了｜新浪科技｜https://finance.sina.com.cn/hy/hyjz/2026-10-21/doc-inivyaat6231111.shtml
+- 英伟达发布Vera Rubin DSX POD模块化AI工厂参考架构｜网易科技｜https://www.163.com/dy/article/L9PIULG305198CJN.html
+- 三星电子、SK 海力士升级中国工厂，生产更先进闪存芯片｜IT之家｜https://www.ithome.com/1/015/996.htm
+- AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（9 条，4 个来源）
-- 芯片/半导体：半导体供应链（4 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
-- 太空与低空经济：太空与低空动态（2 条，1 个来源）
+- AI 应用：AI动态（29 条，5 个来源）
+- 芯片/半导体：半导体供应链（7 条，4 个来源）
+- 机器人/具身智能：人形机器人与具身智能（5 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（15 条，4 个来源）
+- 太空与低空经济：太空与低空动态（2 条，2 个来源）
 - 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
-1. Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’｜TechCrunch｜https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/
+1. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov
 2. AI’s epic cash call is matched only by its ability to strangle revenue streams｜The Register｜https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493
 3. Anthropic pitches AI safety bill that may block a model if 50+ people could be killed｜TechCrunch｜https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/
 4. OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business｜TechCrunch｜https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/
