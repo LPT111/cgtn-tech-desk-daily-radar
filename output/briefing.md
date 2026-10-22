@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/22 18:39:09
+生成时间：2026/10/22 19:18:52
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 55 条｜国际 5 条
-延续跟踪线索：国内 5 条｜国际 17 条
+新增核心线索：国内 16 条｜国际 3 条
+延续跟踪线索：国内 44 条｜国际 18 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-22] 宇树科技王兴兴：我很害怕浪费每一天，这代人有希望把人形机器人生产力提升到下一个台阶
+1. [2026-10-22] 人力资本可持续发展生态大会在京举行，发布五项合作计划
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwcafi5885798.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “人力资本可持续发展生态大会在京举行，发布五项合作计划” against primary-source evidence.
+
+2. [2026-10-22] 宇树科技王兴兴：我很害怕浪费每一天，这代人有希望把人形机器人生产力提升到下一个台阶
    来源：新浪科技
    链接：https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamiu4932992.shtml
    角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “宇树科技王兴兴：我很害怕浪费每一天，这代人有希望把人形机器人生产力提升到下一个台阶” against primary-source evidence.
 
-2. [2026-10-22] 宇树科技王兴兴：宇树G1机器人已经累计生产下线约1-2万台
+3. [2026-10-22] 宇树 10 周年，王兴兴：我劝你相信 AI
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamis8046402.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “宇树科技王兴兴：宇树G1机器人已经累计生产下线约1-2万台” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwcaff5148051.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “宇树 10 周年，王兴兴：我劝你相信 AI” against primary-source evidence.
 
-3. [2026-10-22] 侯建国分别会见葡萄牙教育、科学和创新部长及匈牙利科学院院长
-   来源：中国科学院
-   链接：https://www.cas.cn/yw/202610/t20261022_5122723.shtml
-   角度：Ask what is genuinely new, how it was tested and whether research infrastructure and long-term innovation capacity creates a credible path toward application. For this item, test the claim behind “侯建国分别会见葡萄牙教育、科学和创新部长及匈牙利科学院院长” against primary-source evidence.
-
-4. [2026-10-22] DeepSeek 开源看家算子的同一周，AI 超过了它
+4. [2026-10-22] 广交会最新发布 | 选甜甜圈、做饮品，享刻智能Nico展示首款餐饮人形机器人多面手
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwcaff5131324.shtml
-   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “DeepSeek 开源看家算子的同一周，AI 超过了它” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwcafi5901069.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “广交会最新发布 | 选甜甜圈、做饮品，享刻智能Nico展示首款餐饮人形机器人多面手” against primary-source evidence.
 
-5. [2026-10-22] 特斯拉透露人形机器人时间表，擎天柱机器人正处
+5. [2026-10-22] OpenAI支持AI强制监管：致信加州州长 建议强化A
    来源：网易科技
-   链接：https://www.163.com/dy/article/L9S2O8MC0512B07B.html
-   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “特斯拉透露人形机器人时间表，擎天柱机器人正处” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L9S6CCES05198CJN.html
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI支持AI强制监管：致信加州州长 建议强化A” against primary-source evidence.
 
 本次新增线索：
-- 宇树科技王兴兴：我很害怕浪费每一天，这代人有希望把人形机器人生产力提升到下一个台阶｜新浪科技｜https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamiu4932992.shtml
-- 宇树科技王兴兴：宇树G1机器人已经累计生产下线约1-2万台｜新浪科技｜https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamis8046402.shtml
-- 侯建国分别会见葡萄牙教育、科学和创新部长及匈牙利科学院院长｜中国科学院｜https://www.cas.cn/yw/202610/t20261022_5122723.shtml
-- DeepSeek 开源看家算子的同一周，AI 超过了它｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwcaff5131324.shtml
-- 特斯拉透露人形机器人时间表，擎天柱机器人正处｜网易科技｜https://www.163.com/dy/article/L9S2O8MC0512B07B.html
-- To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623
+- 人力资本可持续发展生态大会在京举行，发布五项合作计划｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwcafi5885798.shtml
+- 宇树 10 周年，王兴兴：我劝你相信 AI｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwcaff5148051.shtml
+- 广交会最新发布 | 选甜甜圈、做饮品，享刻智能Nico展示首款餐饮人形机器人多面手｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwcafi5901069.shtml
+- 我国再添大科学装置，“模式动物表型与遗传研究”通过国家验收｜IT之家｜https://www.ithome.com/1/016/620.htm
+- 上汽通用五菱与上海人工智能研究院签署战略合作协议｜网易科技｜https://www.163.com/dy/article/L9S85T720534A4SC.html
+- Websites shut down globally after AI finds a critical flaw affecting 70% of the internet｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/websites-shut-down-globally-ai-095522258.html
 
 今日热点方向：
-- AI 应用：AI动态（11 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（9 条，3 个来源）
-- 新能源车/智能驾驶：新能源车动态（12 条，3 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- AI 应用：AI动态（12 条，3 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（10 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（11 条，3 个来源）
+- 太空与低空经济：太空与低空动态（2 条，2 个来源）
 - 科学前沿：科学前沿与科研设施（3 条，3 个来源）
 
 国际科技背景：
-1. To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623
-2. PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk｜The Register｜https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611
-3. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody｜WIRED Business｜https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/
-4. Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond｜CNBC Technology｜https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html
-5. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov
+1. Websites shut down globally after AI finds a critical flaw affecting 70% of the internet｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/websites-shut-down-globally-ai-095522258.html
+2. To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623
+3. PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk｜The Register｜https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611
+4. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody｜WIRED Business｜https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/
+5. Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond｜CNBC Technology｜https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
