@@ -1,46 +1,25 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-10-22T01:26:07.880Z",
+  "generatedAt": "2026-10-22T01:36:28.944Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-22",
   "changeSummary": {
-    "domesticNew": 13,
-    "globalNew": 1,
-    "domesticContinued": 20,
-    "globalContinued": 19,
+    "domesticNew": 2,
+    "globalNew": 0,
+    "domesticContinued": 31,
+    "globalContinued": 20,
     "topNewDomestic": [
       {
-        "title": "英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879913.shtml"
-      },
-      {
-        "title": "影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复",
+        "title": "西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗",
         "source": "IT之家",
-        "url": "https://www.ithome.com/1/016/173.htm"
+        "url": "https://www.ithome.com/1/016/206.htm"
       },
       {
-        "title": "安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5888170.shtml"
-      },
-      {
-        "title": "李书福回应与蔚来换电合作：避免重复建设，以合并替代各自布局",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5883671.shtml"
-      },
-      {
-        "title": "何小鹏：L3只是L2的增强，L4技术落地预计在2028年下半年",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezr5152212.shtml"
+        "title": "美光认为 4F² DRAM 内存无可行扩展路径，1ε 晶圆键合、 ζÅ High NA EUV",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/016/208.htm"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
@@ -360,11 +339,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "itemsSeen": 1552,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 243,
-  "itemsAfterDedupe": 192,
+  "itemsAfterRelevantFilter": 240,
+  "itemsAfterDedupe": 190,
   "todayItemsSeen": 33,
-  "suspectedItemsSeen": 11,
-  "skippedNonToday": 148,
+  "suspectedItemsSeen": 10,
+  "skippedNonToday": 146,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -826,6 +805,23 @@ window.CHENCHEN_DAILY_DATA = {
   "globalItemsAfterRelevantFilter": 140,
   "topics": [
     {
+      "topic": "AI 应用与智能体",
+      "count": 7,
+      "sourceCount": 3,
+      "sources": [
+        "新浪科技",
+        "IT之家",
+        "网易科技"
+      ],
+      "items": [
+        "英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络",
+        "以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕",
+        "影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复",
+        "西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗",
+        "OpenAI更新使用政策，模型路由器、AI网关提供访"
+      ]
+    },
+    {
       "topic": "新能源车与智能驾驶",
       "count": 7,
       "sourceCount": 3,
@@ -843,25 +839,8 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
-      "topic": "AI 应用与智能体",
-      "count": 6,
-      "sourceCount": 3,
-      "sources": [
-        "新浪科技",
-        "IT之家",
-        "网易科技"
-      ],
-      "items": [
-        "英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络",
-        "影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复",
-        "以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕",
-        "OpenAI更新使用政策，模型路由器、AI网关提供访",
-        "Anthropic推出AI智能体Claude Duet"
-      ]
-    },
-    {
       "topic": "新能源车动态",
-      "count": 9,
+      "count": 8,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
@@ -870,9 +849,9 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心",
         "李书福回应与蔚来换电合作：避免重复建设，以合并替代各自布局",
+        "通用汽车安吉星服务将全面升级：引入 AI 助手，还能帮你控车、排障",
         "特斯拉三季度净利润大跌43%，交付量降至48.65万辆",
-        "通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半",
-        "通用汽车安吉星服务将全面升级：引入 AI 助手，还能帮你控车、排障"
+        "通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半"
       ]
     },
     {
@@ -892,8 +871,21 @@ window.CHENCHEN_DAILY_DATA = {
       ]
     },
     {
+      "topic": "半导体供应链",
+      "count": 2,
+      "sourceCount": 2,
+      "sources": [
+        "新浪科技",
+        "IT之家"
+      ],
+      "items": [
+        "马斯克点燃AI交易？美股存储半导体股大反弹，西部数据涨近4%，科技股大涨，Meta盘后涨超6%",
+        "美光认为 4F² DRAM 内存无可行扩展路径，1ε 晶圆键合、 ζÅ High NA EUV"
+      ]
+    },
+    {
       "topic": "科学前沿动态",
-      "count": 3,
+      "count": 2,
       "sourceCount": 2,
       "sources": [
         "中国科学院",
@@ -901,19 +893,7 @@ window.CHENCHEN_DAILY_DATA = {
       ],
       "items": [
         "科研人员实现分子筛催化低碳烯烃羰基化新反应",
-        "核光钟关键进展引发多国关注，全球量子精密测量技术竞速升温",
         "总编辑圈点丨一粒正电子首次被“关”数月时间"
-      ]
-    },
-    {
-      "topic": "半导体供应链",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "马斯克点燃AI交易？美股存储半导体股大反弹，西部数据涨近4%，科技股大涨，Meta盘后涨超6%"
       ]
     },
     {
@@ -1006,7 +986,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1077,74 +1057,6 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复",
-      "summary": "OpenAI 公司昨日（10 月 21 日）发布博文，宣布通过其“修补地球”（Patch the Planet）计划，协助安全研究人员发现了 PHP 编程语言中的两项严重漏洞，并联合 PHP 维护团队、安全公司、云服务商及多国网络安全机构，在漏洞公开前完成了为期约两个月的协调修复。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/016/173.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/016/173.htm"
-      ],
-      "publishedAt": "Wed, 21 Oct 2026 23:11:56 GMT",
-      "date": "2026-10-22",
-      "category": "AI",
-      "classificationConfidence": 0.9,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 168,
-      "reporterScore": 184,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 130
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "OpenAI 公司昨日（10 月 21 日）发布博文，宣布通过其“修补地球”（Patch the Planet）计划，协助安全研究人员发现了 PHP 编程语言中的两项严重漏洞，并联合 PHP 维护团队、安全公司、云服务商及多国网络安全机构，在漏洞公开前完成了为期约两个月的协调修复。",
-      "relatedTitles": [
-        "影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景",
       "summary": "10月21日，2026世界智能网联汽车大会在京开幕。会上发布的信息显示，我国乘用车新车L2级组合驾驶辅助功能搭载率超过70%，首批L3级有条件自动驾驶车型已在特定区域上路通行试点；大算力芯片、舱驾融合等关键技术持续突破。 记者从大会上...",
@@ -1211,346 +1123,6 @@ window.CHENCHEN_DAILY_DATA = {
         "聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心",
-      "summary": "10月21日世界智能网联汽车大会上，雷军重申小米造车自启动起便将车辆安全置于最高优先级，定下安全高于一切的铁律，提出要做同档位最安全车型的目标。小米搭建了多层级安全体系，设立独立汽车安全研究中心、全域安全部，强化汽车安全委员会作用，组建跨行业汽车安全顾问委员会，目前安全相关团队总规模超3000人。小米2021年初官宣造",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5888170.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5888170.shtml"
-      ],
-      "publishedAt": "2026-10-22",
-      "date": "2026-10-22",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 162,
-      "reporterScore": 178,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "10月21日世界智能网联汽车大会上，雷军重申小米造车自启动起便将车辆安全置于最高优先级，定下安全高于一切的铁律，提出要做同档位最安全车型的目标。小米搭建了多层级安全体系，设立独立汽车安全研究中心、全域安全部，强化汽车安全委员会作用，组建跨行业汽车安全顾问委员会，目前安全相关团队总规模超3000人。小米2021年初官宣造车，2024年4月首款量产车上市，交付两年半累计交付破80万辆，用户平均成交均价超26万元。(AI生成)",
-      "relatedTitles": [
-        "安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "李书福回应与蔚来换电合作：避免重复建设，以合并替代各自布局",
-      "summary": "吉利控股集团董事长李书福在2026世界智能网联汽车大会上回应吉利与蔚来的换电合作时表示，国家智能电动化的发展离不开补能基础设施的建设。2026年9月，吉利控股与蔚来汽车在换电领域达成全面战略合作，双方通过开放共享、标准统一与资源协同，推动构...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5883671.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5883671.shtml"
-      ],
-      "publishedAt": "2026-10-22",
-      "date": "2026-10-22",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 162,
-      "reporterScore": 178,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Report the industrial consequence of battery innovation and infrastructure: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “李书福回应与蔚来换电合作：避免重复建设，以合并替代各自布局” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "吉利控股集团董事长李书福在2026世界智能网联汽车大会上回应吉利与蔚来的换电合作时表示，国家智能电动化的发展离不开补能基础设施的建设。2026年9月，吉利控股与蔚来汽车在换电领域达成全面战略合作，双方通过开放共享、标准统一与资源协同，推动构...",
-      "relatedTitles": [
-        "李书福回应与蔚来换电合作：避免重复建设，以合并替代各自布局"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "何小鹏：L3只是L2的增强，L4技术落地预计在2028年下半年",
-      "summary": "10月21日据快科技援引第一财经报道，比亚迪集团高级副总裁杨冬生在世界智能网联汽车大会上透露，比亚迪L3级有条件自动驾驶有望2028年落地，更高级别自动驾驶预计此后1-2年落地。比亚迪当前智驾主力系统为“天神之眼”，2026年1月已升级至5.0版本，智驾团队每7天迭代一次模型，2024年新增训练里程7200万公里。我国",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezr5152212.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezr5152212.shtml"
-      ],
-      "publishedAt": "2026-10-22",
-      "date": "2026-10-22",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 162,
-      "reporterScore": 178,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “何小鹏：L3只是L2的增强，L4技术落地预计在2028年下半年” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "在今日开幕的2026世界智能网联汽车大会上，小鹏集团董事长何小鹏在谈及自动驾驶向高端发展时表示，管控的关键在于“安全可管控”。他判断，未来最有机会的是L2、L4和L5，而L3本质上只是L2的一种增强。他认为L4技术落地大约在2028年下半年...",
-      "relatedTitles": [
-        "何小鹏：L3只是L2的增强，L4技术落地预计在2028年下半年"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "比亚迪杨冬生：限定场景L3有望2028年量产",
-      "summary": "在2026世界智能网联汽车大会首日，针对L3级别自动驾驶的量产时间，比亚迪集团高级副总裁、汽车新技术研究院院长杨冬生回应称，当前L3正处于多部委联合推动的试点阶段，比亚迪希望通过试点持续提升技术。他明确区分了技术层级：真正的L3是限定场景的...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5883676.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5883676.shtml"
-      ],
-      "publishedAt": "2026-10-22",
-      "date": "2026-10-22",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 162,
-      "reporterScore": 178,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “比亚迪杨冬生：限定场景L3有望2028年量产” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "在2026世界智能网联汽车大会首日，针对L3级别自动驾驶的量产时间，比亚迪集团高级副总裁、汽车新技术研究院院长杨冬生回应称，当前L3正处于多部委联合推动的试点阶段，比亚迪希望通过试点持续提升技术。他明确区分了技术层级：真正的L3是限定场景的...",
-      "relatedTitles": [
-        "比亚迪杨冬生：限定场景L3有望2028年量产"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2Fz",
-      "title": "科研人员实现分子筛催化低碳烯烃羰基化新反应",
-      "summary": "首页 > 科研进展 羰基化反应发展至今已百余年，但工业上主流方法依然依赖铑、铱等贵金属及有机配体修饰，存在体系复杂、流程繁琐、成本高昂以及催化剂与产物分离困难等挑战。 近日，中国科学院大连化学物理研究所等合作开辟了另一条路线，不用金属不用配体，让分子筛“独自”完成催化。该方法实现了水参与的分子筛催化丙烯羰基化制异丁酸、",
-      "source": "中国科学院",
-      "sources": [
-        "中国科学院"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.cas.cn/syky/202610/t20261022_5122670.shtml",
-      "sourceUrls": [
-        "https://www.cas.cn/syky/202610/t20261022_5122670.shtml"
-      ],
-      "publishedAt": "2026-10-22",
-      "date": "2026-10-22",
-      "category": "科学前沿",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 173,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 18,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 12,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": true,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 115
-      },
-      "isPrimarySource": true,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “科研人员实现分子筛催化低碳烯烃羰基化新反应” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "首页 > 科研进展 羰基化反应发展至今已百余年，但工业上主流方法依然依赖铑、铱等贵金属及有机配体修饰，存在体系复杂、流程繁琐、成本高昂以及催化剂与产物分离困难等挑战。 近日，中国科学院大连化学物理研究所等合作开辟了另一条路线，不用金属不用配体，让分子筛“独自”完成催化。该方法实现了水参与的分子筛催化丙烯羰基化制异丁酸、乙烯羰基化制丙酸两个新的反应，并从中发现了基础规律。 羰基化反应，是现代化学工业的“基础”。从醋酸、增塑剂醇，到香料与医药中间体，一条条产业链都搭建在这个反应上面。简单来说，羰基化反应，是将一氧化碳“嫁接”到烯烃分子上，生成酸、酯、醇类化合物的过程。分子筛是一种多孔、有序的晶体材料，孔道尺寸精确到分子级别，具有精准的孔道筛选能力，能将形状和尺寸不合适的分子“挡”在门外，在石油炼制、气体分离和绿色化工中发挥着重要作用。 团队经过多年攻关，巧妙利用分子筛的限域效应，成功实现了两个分子筛催化的新反应：水参与的丙烯羰基化生成异丁酸及乙烯羰基化生成丙酸，反应过程不需要金属，也不需要有机配体。研究发现，分子筛的限域带来多重利好。分子筛在推动烯烃羰基化顺利进行的同时，还抑制了烯烃聚合的",
-      "relatedTitles": [
-        "科研人员实现分子筛催化低碳烯烃羰基化新反应"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1689,6 +1261,74 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复",
+      "summary": "OpenAI 公司昨日（10 月 21 日）发布博文，宣布通过其“修补地球”（Patch the Planet）计划，协助安全研究人员发现了 PHP 编程语言中的两项严重漏洞，并联合 PHP 维护团队、安全公司、云服务商及多国网络安全机构，在漏洞公开前完成了为期约两个月的协调修复。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/016/173.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/016/173.htm"
+      ],
+      "publishedAt": "Wed, 21 Oct 2026 23:11:56 GMT",
+      "date": "2026-10-22",
+      "category": "AI",
+      "classificationConfidence": 0.9,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 168,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 130
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "OpenAI 公司昨日（10 月 21 日）发布博文，宣布通过其“修补地球”（Patch the Planet）计划，协助安全研究人员发现了 PHP 编程语言中的两项严重漏洞，并联合 PHP 维护团队、安全公司、云服务商及多国网络安全机构，在漏洞公开前完成了为期约两个月的协调修复。",
+      "relatedTitles": [
+        "影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "Meta Q3营收超预期并宣布1拆2股票分割，上调资本支出加码AI",
       "summary": "Meta Platforms Inc.加码人工智能押注，于周三发布季度财报时宣布上调资本支出预期并拟新设无投票权股票。其2026年资本支出预计达1350亿至1450亿美元，较此前1300亿美元的区间低端有所提高。新无投票权股票将以股票股息形式分配给现有投资者，每持有一股现有股票可获一股新股，相当于股票一拆二，新股将用于",
@@ -1758,6 +1398,414 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心",
+      "summary": "10月21日世界智能网联汽车大会上，雷军重申小米造车自启动起便将车辆安全置于最高优先级，定下安全高于一切的铁律，提出要做同档位最安全车型的目标。小米搭建了多层级安全体系，设立独立汽车安全研究中心、全域安全部，强化汽车安全委员会作用，组建跨行业汽车安全顾问委员会，目前安全相关团队总规模超3000人。小米2021年初官宣造",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5888170.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5888170.shtml"
+      ],
+      "publishedAt": "2026-10-22",
+      "date": "2026-10-22",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 178,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "10月21日世界智能网联汽车大会上，雷军重申小米造车自启动起便将车辆安全置于最高优先级，定下安全高于一切的铁律，提出要做同档位最安全车型的目标。小米搭建了多层级安全体系，设立独立汽车安全研究中心、全域安全部，强化汽车安全委员会作用，组建跨行业汽车安全顾问委员会，目前安全相关团队总规模超3000人。小米2021年初官宣造车，2024年4月首款量产车上市，交付两年半累计交付破80万辆，用户平均成交均价超26万元。(AI生成)",
+      "relatedTitles": [
+        "安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "李书福回应与蔚来换电合作：避免重复建设，以合并替代各自布局",
+      "summary": "吉利控股集团董事长李书福在2026世界智能网联汽车大会上回应吉利与蔚来的换电合作时表示，国家智能电动化的发展离不开补能基础设施的建设。2026年9月，吉利控股与蔚来汽车在换电领域达成全面战略合作，双方通过开放共享、标准统一与资源协同，推动构...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5883671.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5883671.shtml"
+      ],
+      "publishedAt": "2026-10-22",
+      "date": "2026-10-22",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 178,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of battery innovation and infrastructure: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “李书福回应与蔚来换电合作：避免重复建设，以合并替代各自布局” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "吉利控股集团董事长李书福在2026世界智能网联汽车大会上回应吉利与蔚来的换电合作时表示，国家智能电动化的发展离不开补能基础设施的建设。2026年9月，吉利控股与蔚来汽车在换电领域达成全面战略合作，双方通过开放共享、标准统一与资源协同，推动构...",
+      "relatedTitles": [
+        "李书福回应与蔚来换电合作：避免重复建设，以合并替代各自布局"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "何小鹏：L3只是L2的增强，L4技术落地预计在2028年下半年",
+      "summary": "10月21日据快科技援引第一财经报道，比亚迪集团高级副总裁杨冬生在世界智能网联汽车大会上透露，比亚迪L3级有条件自动驾驶有望2028年落地，更高级别自动驾驶预计此后1-2年落地。比亚迪当前智驾主力系统为“天神之眼”，2026年1月已升级至5.0版本，智驾团队每7天迭代一次模型，2024年新增训练里程7200万公里。我国",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezr5152212.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezr5152212.shtml"
+      ],
+      "publishedAt": "2026-10-22",
+      "date": "2026-10-22",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 178,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of deployment safety, regulation and user adoption: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “何小鹏：L3只是L2的增强，L4技术落地预计在2028年下半年” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "在今日开幕的2026世界智能网联汽车大会上，小鹏集团董事长何小鹏在谈及自动驾驶向高端发展时表示，管控的关键在于“安全可管控”。他判断，未来最有机会的是L2、L4和L5，而L3本质上只是L2的一种增强。他认为L4技术落地大约在2028年下半年...",
+      "relatedTitles": [
+        "何小鹏：L3只是L2的增强，L4技术落地预计在2028年下半年"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "比亚迪杨冬生：限定场景L3有望2028年量产",
+      "summary": "在2026世界智能网联汽车大会首日，针对L3级别自动驾驶的量产时间，比亚迪集团高级副总裁、汽车新技术研究院院长杨冬生回应称，当前L3正处于多部委联合推动的试点阶段，比亚迪希望通过试点持续提升技术。他明确区分了技术层级：真正的L3是限定场景的...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5883676.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5883676.shtml"
+      ],
+      "publishedAt": "2026-10-22",
+      "date": "2026-10-22",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 178,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “比亚迪杨冬生：限定场景L3有望2028年量产” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "在2026世界智能网联汽车大会首日，针对L3级别自动驾驶的量产时间，比亚迪集团高级副总裁、汽车新技术研究院院长杨冬生回应称，当前L3正处于多部委联合推动的试点阶段，比亚迪希望通过试点持续提升技术。他明确区分了技术层级：真正的L3是限定场景的...",
+      "relatedTitles": [
+        "比亚迪杨冬生：限定场景L3有望2028年量产"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗",
+      "summary": "西门子医疗与英伟达今日宣布达成合作，双方正共同开发下一代自适应放射治疗技术，融合智能体与机器人智能，将影像和肿瘤学专业知识与加速计算及仿真相结合，以简化工作流程并提升医疗可及性。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/016/206.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/016/206.htm"
+      ],
+      "publishedAt": "Thu, 22 Oct 2026 01:28:20 GMT",
+      "date": "2026-10-22",
+      "category": "AI",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 165,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "西门子医疗与英伟达今日宣布达成合作，双方正共同开发下一代自适应放射治疗技术，融合智能体与机器人智能，将影像和肿瘤学专业知识与加速计算及仿真相结合，以简化工作流程并提升医疗可及性。",
+      "relatedTitles": [
+        "西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY2Fz",
+      "title": "科研人员实现分子筛催化低碳烯烃羰基化新反应",
+      "summary": "首页 > 科研进展 羰基化反应发展至今已百余年，但工业上主流方法依然依赖铑、铱等贵金属及有机配体修饰，存在体系复杂、流程繁琐、成本高昂以及催化剂与产物分离困难等挑战。 近日，中国科学院大连化学物理研究所等合作开辟了另一条路线，不用金属不用配体，让分子筛“独自”完成催化。该方法实现了水参与的分子筛催化丙烯羰基化制异丁酸、",
+      "source": "中国科学院",
+      "sources": [
+        "中国科学院"
+      ],
+      "sourceTier": "official",
+      "url": "https://www.cas.cn/syky/202610/t20261022_5122670.shtml",
+      "sourceUrls": [
+        "https://www.cas.cn/syky/202610/t20261022_5122670.shtml"
+      ],
+      "publishedAt": "2026-10-22",
+      "date": "2026-10-22",
+      "category": "科学前沿",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 173,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 18,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 12,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": true,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 115
+      },
+      "isPrimarySource": true,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the research into a human-readable science story about the scientific mechanism, evidence and translational boundary, avoiding claims beyond the published evidence. For this item, test the claim behind “科研人员实现分子筛催化低碳烯烃羰基化新反应” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "首页 > 科研进展 羰基化反应发展至今已百余年，但工业上主流方法依然依赖铑、铱等贵金属及有机配体修饰，存在体系复杂、流程繁琐、成本高昂以及催化剂与产物分离困难等挑战。 近日，中国科学院大连化学物理研究所等合作开辟了另一条路线，不用金属不用配体，让分子筛“独自”完成催化。该方法实现了水参与的分子筛催化丙烯羰基化制异丁酸、乙烯羰基化制丙酸两个新的反应，并从中发现了基础规律。 羰基化反应，是现代化学工业的“基础”。从醋酸、增塑剂醇，到香料与医药中间体，一条条产业链都搭建在这个反应上面。简单来说，羰基化反应，是将一氧化碳“嫁接”到烯烃分子上，生成酸、酯、醇类化合物的过程。分子筛是一种多孔、有序的晶体材料，孔道尺寸精确到分子级别，具有精准的孔道筛选能力，能将形状和尺寸不合适的分子“挡”在门外，在石油炼制、气体分离和绿色化工中发挥着重要作用。 团队经过多年攻关，巧妙利用分子筛的限域效应，成功实现了两个分子筛催化的新反应：水参与的丙烯羰基化生成异丁酸及乙烯羰基化生成丙酸，反应过程不需要金属，也不需要有机配体。研究发现，分子筛的限域带来多重利好。分子筛在推动烯烃羰基化顺利进行的同时，还抑制了烯烃聚合的",
+      "relatedTitles": [
+        "科研人员实现分子筛催化低碳烯烃羰基化新反应"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "不用再硬调BIOS了！AMD给Linux用户发福利：锐龙官方超频驱动进内核",
       "summary": "快科技10月22日消息，近日AMD正式向Linux内核提交了一组全新补丁，为锐龙处理器引入AOD支持。这意味着Linux用户终于可以告别长期以来只能深入UEFI/BIOS固件进行CPU调校的繁琐方式，获得一条官方的软件级调校通道。过去多年里...",
       "source": "新浪科技",
@@ -1822,143 +1870,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "不用再硬调BIOS了！AMD给Linux用户发福利：锐龙官方超频驱动进内核"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "特斯拉：上季度北美 75% 的新车买家订阅了 FSD",
-      "summary": "特斯拉将四年最高车辆订单积压量的首要原因归结为自动驾驶技术实力，称FSD是品牌吸引力核心。上个季度北美交付新车中75%搭载FSD，高于二季度的55%。当前全车队FSD订阅用户达174万，同比增67%，不含免费试用用户，买断与月付用户占比五五开，月付用户约87.5万，月费99美元，对应年收入约10.4亿美元。特斯拉预告最",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-22/doc-iniwaezr5168884.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-22/doc-iniwaezr5168884.shtml"
-      ],
-      "publishedAt": "2026-10-22",
-      "date": "2026-10-22",
-      "category": "新能源车",
-      "classificationConfidence": 0.94,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉：上季度北美 75% 的新车买家订阅了 FSD” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "特斯拉将四年最高车辆订单积压量的首要原因归结为自动驾驶技术实力，称FSD是品牌吸引力核心。上个季度北美交付新车中75%搭载FSD，高于二季度的55%。当前全车队FSD订阅用户达174万，同比增67%，不含免费试用用户，买断与月付用户占比五五开，月付用户约87.5万，月费99美元，对应年收入约10.4亿美元。特斯拉预告最快明年夏推出带地理围栏、仅适配顶配硬件的无监督版FSD，同期允许私家车接入其自动驾驶出租车网络。(AI生成)",
-      "relatedTitles": [
-        "特斯拉：上季度北美 75% 的新车买家订阅了 FSD"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "特斯拉三季度净利润大跌43%，交付量降至48.65万辆",
-      "summary": "【TechWeb】10月22日消息，特斯拉于当地时间周三美股盘后发布2026年第三季度财报。数据显示，公司当季营收为280.46亿美元，与上年同期的280.95亿美元基本持平；GAAP净利润为7.87亿美元，同比下降43%。按非GAAP口径...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5885896.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5885896.shtml"
-      ],
-      "publishedAt": "2026-10-22",
-      "date": "2026-10-22",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉三季度净利润大跌43%，交付量降至48.65万辆” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "【TechWeb】10月22日消息，特斯拉于当地时间周三美股盘后发布2026年第三季度财报。数据显示，公司当季营收为280.46亿美元，与上年同期的280.95亿美元基本持平；GAAP净利润为7.87亿美元，同比下降43%。按非GAAP口径...",
-      "relatedTitles": [
-        "特斯拉三季度净利润大跌43%，交付量降至48.65万辆"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2025,142 +1937,6 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "OpenAI更新使用政策，模型路由器、AI网关提供访问权限前需经审批,路由器,使用政策,前沿模型,openai",
       "relatedTitles": [
         "OpenAI更新使用政策，模型路由器、AI网关提供访"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半",
-      "summary": "当地时间 21 日，通用汽车总裁马可 · 睿思在纽约举行的 GM Forward 活动上重申，公司不会放弃电动汽车业务，计划推出更符合美国市场需求的产品，进一步提升竞争力。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/016/180.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/016/180.htm"
-      ],
-      "publishedAt": "Wed, 21 Oct 2026 23:47:52 GMT",
-      "date": "2026-10-22",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 150,
-      "reporterScore": 158,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Report the industrial consequence of battery innovation and infrastructure: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "当地时间 21 日，通用汽车总裁马可 · 睿思在纽约举行的 GM Forward 活动上重申，公司不会放弃电动汽车业务，计划推出更符合美国市场需求的产品，进一步提升竞争力。",
-      "relatedTitles": [
-        "通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuc3Rk",
-      "title": "核光钟关键进展引发多国关注，全球量子精密测量技术竞速升温",
-      "summary": "所在位置： 中国科技网首页 > 滚动 > 正文 科技创新世界潮丨核光钟关键进展引发多国关注，全球量子精密测量技术竞速升温 2026-10-22 07:41:59 来源: 科技日报 点击数： 热点",
-      "source": "科技日报",
-      "sources": [
-        "科技日报"
-      ],
-      "sourceTier": "official",
-      "url": "https://www.stdaily.com/web/gdxw/2026-10/22/content_600473.html",
-      "sourceUrls": [
-        "https://www.stdaily.com/web/gdxw/2026-10/22/content_600473.html"
-      ],
-      "publishedAt": "2026-10-22",
-      "date": "2026-10-22",
-      "category": "科学前沿",
-      "classificationConfidence": 0.93,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
-      "priority": 5,
-      "score": 160,
-      "reporterScore": 168,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 18,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect the scientific mechanism, evidence and translational boundary to China’s wider innovation capacity. For this item, test the claim behind “核光钟关键进展引发多国关注，全球量子精密测量技术竞速升温” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 科技创新世界潮丨核光钟关键进展引发多国关注，全球量子精密测量技术竞速升温 2026-10-22 07:41:59 来源: 科技日报 点击数： 热点",
-      "relatedTitles": [
-        "核光钟关键进展引发多国关注，全球量子精密测量技术竞速升温"
       ],
       "isNewSinceLastRun": false
     },
@@ -2301,40 +2077,40 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "男子二次酒驾弃车逃窜被无人机全程拍下：罚款行拘吊销驾照！",
-      "summary": "快科技10月22日消息，据央视新闻报道，近日，广西贺州市钟山县一男子在饮用自酿米酒后，心存侥幸驾车上路。途中发现交警夜查，他当即调头驶入小路、弃车躲藏，试图逃避处罚，不料全程被警用无人机拍下。画面中，司机冼某某发现执勤民警后，将车辆驶入偏僻...",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "美光认为 4F² DRAM 内存无可行扩展路径，1ε 晶圆键合、 ζÅ High NA EUV",
+      "summary": "美光称 4F² DRAM 存在复杂度和成本上的不足，该企业选择 3D DRAM 作为未来的发展路径。",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5897530.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/016/208.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5897530.shtml"
+        "https://www.ithome.com/1/016/208.htm"
       ],
-      "publishedAt": "2026-10-22",
+      "publishedAt": "Thu, 22 Oct 2026 01:31:36 GMT",
       "date": "2026-10-22",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
+      "category": "芯片",
+      "classificationConfidence": 0.8,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 90,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
       "priority": 5,
-      "score": 148,
-      "reporterScore": 154,
+      "score": 151,
+      "reporterScore": 151,
       "scoreBreakdown": {
-        "hardTech": 90,
+        "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
+        "sourceAuthority": 8,
+        "multiSource": 22,
         "cgtFocus": 0,
-        "visual": 8,
+        "visual": 0,
         "international": 0,
         "policy": 0,
         "sourceWeight": 8,
@@ -2346,25 +2122,25 @@ window.CHENCHEN_DAILY_DATA = {
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
+        "visual": false,
         "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 113
+        "hardTechWeight": 95,
+        "reporterScore": 110
       },
       "isPrimarySource": false,
       "hasInterviewValue": false,
-      "hasVisualValue": true,
+      "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use urban services, logistics, safety and regulation to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “男子二次酒驾弃车逃窜被无人机全程拍下：罚款行拘吊销驾照！” against primary-source evidence.",
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “美光认为 4F² DRAM 内存无可行扩展路径，1ε 晶圆键合、 ζÅ High NA EUV” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "低空经济与无人机",
-      "rawText": "快科技10月22日消息，据央视新闻报道，近日，广西贺州市钟山县一男子在饮用自酿米酒后，心存侥幸驾车上路。途中发现交警夜查，他当即调头驶入小路、弃车躲藏，试图逃避处罚，不料全程被警用无人机拍下。画面中，司机冼某某发现执勤民警后，将车辆驶入偏僻...",
+      "matchedTopic": "半导体供应链",
+      "rawText": "美光称 4F² DRAM 存在复杂度和成本上的不足，该企业选择 3D DRAM 作为未来的发展路径。",
       "relatedTitles": [
-        "男子二次酒驾弃车逃窜被无人机全程拍下：罚款行拘吊销驾照！"
+        "美光认为 4F² DRAM 内存无可行扩展路径，1ε 晶圆键合、 ζÅ High NA EUV"
       ],
       "isNewSinceLastRun": true
     },
@@ -2438,21 +2214,21 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "雷军、李斌、何小鹏，最新发声",
-      "summary": "2026世界智能网联汽车大会10月21日在北京亦庄开幕，中国科学技术协会名誉主席万钢在主旨报告中给出重要数据：2026年上半年，我国L2级辅助驾驶乘用车新车渗透率已突破70%，预计2030年L2级辅助驾驶普及面将达95%，L3级有条件自...",
+      "title": "特斯拉：上季度北美 75% 的新车买家订阅了 FSD",
+      "summary": "特斯拉将四年最高车辆订单积压量的首要原因归结为自动驾驶技术实力，称FSD是品牌吸引力核心。上个季度北美交付新车中75%搭载FSD，高于二季度的55%。当前全车队FSD订阅用户达174万，同比增67%，不含免费试用用户，买断与月付用户占比五五开，月付用户约87.5万，月费99美元，对应年收入约10.4亿美元。特斯拉预告最",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-22/doc-inivzytw7972474.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-22/doc-iniwaezr5168884.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/stock/bxjj/2026-10-22/doc-inivzytw7972474.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-10-22/doc-iniwaezr5168884.shtml"
       ],
       "publishedAt": "2026-10-22",
       "date": "2026-10-22",
       "category": "新能源车",
-      "classificationConfidence": 0.88,
+      "classificationConfidence": 0.94,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2462,8 +2238,8 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 85,
       "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "priority": 5,
-      "score": 154,
-      "reporterScore": 162,
+      "score": 153,
+      "reporterScore": 161,
       "scoreBreakdown": {
         "hardTech": 85,
         "today": 18,
@@ -2471,11 +2247,11 @@ window.CHENCHEN_DAILY_DATA = {
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
-        "international": 9,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
@@ -2483,24 +2259,92 @@ window.CHENCHEN_DAILY_DATA = {
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": true,
-        "interview": false,
+        "international": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 85,
         "reporterScore": 110
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
+      "hasInterviewValue": true,
       "hasVisualValue": false,
-      "hasInternationalValue": true,
+      "hasInternationalValue": false,
       "format": "video",
-      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “雷军、李斌、何小鹏，最新发声” against primary-source evidence.",
+      "angle": "Use deployment safety, regulation and user adoption to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉：上季度北美 75% 的新车买家订阅了 FSD” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "特斯拉将四年最高车辆订单积压量的首要原因归结为自动驾驶技术实力，称FSD是品牌吸引力核心。上个季度北美交付新车中75%搭载FSD，高于二季度的55%。当前全车队FSD订阅用户达174万，同比增67%，不含免费试用用户，买断与月付用户占比五五开，月付用户约87.5万，月费99美元，对应年收入约10.4亿美元。特斯拉预告最快明年夏推出带地理围栏、仅适配顶配硬件的无监督版FSD，同期允许私家车接入其自动驾驶出租车网络。(AI生成)",
+      "relatedTitles": [
+        "特斯拉：上季度北美 75% 的新车买家订阅了 FSD"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "特斯拉三季度净利润大跌43%，交付量降至48.65万辆",
+      "summary": "【TechWeb】10月22日消息，特斯拉于当地时间周三美股盘后发布2026年第三季度财报。数据显示，公司当季营收为280.46亿美元，与上年同期的280.95亿美元基本持平；GAAP净利润为7.87亿美元，同比下降43%。按非GAAP口径...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5885896.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5885896.shtml"
+      ],
+      "publishedAt": "2026-10-22",
+      "date": "2026-10-22",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉三季度净利润大跌43%，交付量降至48.65万辆” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "新能源车动态",
-      "rawText": "2026世界智能网联汽车大会10月21日在北京亦庄开幕，中国科学技术协会名誉主席万钢在主旨报告中给出重要数据：2026年上半年，我国L2级辅助驾驶乘用车新车渗透率已突破70%，预计2030年L2级辅助驾驶普及面将达95%，L3级有条件自...",
+      "rawText": "【TechWeb】10月22日消息，特斯拉于当地时间周三美股盘后发布2026年第三季度财报。数据显示，公司当季营收为280.46亿美元，与上年同期的280.95亿美元基本持平；GAAP净利润为7.87亿美元，同比下降43%。按非GAAP口径...",
       "relatedTitles": [
-        "雷军、李斌、何小鹏，最新发声"
+        "特斯拉三季度净利润大跌43%，交付量降至48.65万辆"
       ],
       "isNewSinceLastRun": false
     },
@@ -2642,6 +2486,74 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半",
+      "summary": "当地时间 21 日，通用汽车总裁马可 · 睿思在纽约举行的 GM Forward 活动上重申，公司不会放弃电动汽车业务，计划推出更符合美国市场需求的产品，进一步提升竞争力。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/016/180.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/016/180.htm"
+      ],
+      "publishedAt": "Wed, 21 Oct 2026 23:47:52 GMT",
+      "date": "2026-10-22",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 158,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of battery innovation and infrastructure: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "当地时间 21 日，通用汽车总裁马可 · 睿思在纽约举行的 GM Forward 活动上重申，公司不会放弃电动汽车业务，计划推出更符合美国市场需求的产品，进一步提升竞争力。",
+      "relatedTitles": [
+        "通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
       "title": "特斯拉：将在今年年底前向客户销售 Cybercab 无人驾驶出租车",
       "summary": "特斯拉工程副总裁莫拉维在 Q3 财报电话会上确认，Cybercab 将从小批量起步向第三方客户交付。但 NHTSA 正在调查其无方向盘设计是否符合安全标准，调查结果将决定这款车能否合法上路。 #特斯拉Cybercab# #自动驾驶出租车#",
       "source": "IT之家",
@@ -2775,74 +2687,6 @@ window.CHENCHEN_DAILY_DATA = {
         "IT早报 1022：苹果 iPhone Duo 三方应用界面首曝；问界、神木警方回应汽车碰撞起火司机遇难事件；马斯克暗示 SpaceX+ 特斯拉合并；荣耀 WIN 2 手机发布"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "特斯拉Q3财报喜忧参半 利润大降56% 马斯克立下flag：2030年年产500万辆",
-      "summary": "当地时间2026年10月21日特斯拉公布第三季度财报，当季营收280.46亿美元同比基本持平，归母净利润7.87亿美元同比降43%，经调整净利润16.97亿美元同比降4%。汽车业务收入205.6亿美元同比降3%，能源发电与储能业务收入28.81亿美元同比降16%，服务及其他业务收入46.05亿美元同比增33%。当季营业",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879941.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879941.shtml"
-      ],
-      "publishedAt": "2026-10-22",
-      "date": "2026-10-22",
-      "category": "新能源车",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉Q3财报喜忧参半 利润大降56% 马斯克立下flag：2030年年产500万辆” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "当地时间2026年10月21日特斯拉公布第三季度财报，当季营收280.46亿美元同比基本持平，归母净利润7.87亿美元同比降43%，经调整净利润16.97亿美元同比降4%。汽车业务收入205.6亿美元同比降3%，能源发电与储能业务收入28.81亿美元同比降16%，服务及其他业务收入46.05亿美元同比增33%。当季营业利润7.18亿美元同比降56%，营业利润率2.6%，毛利率19.6%同比升1.6个百分点，资本开支47.32亿美元低于预期，自由现金流15.31亿美元，期末现金等价物等合计454.47亿美元。当季汽车交付48.65万辆同比降约2%，交付量连续两季高于产量，推进库存去化。马斯克称目标2030年前后年产汽车约500万辆。(AI生成)",
-      "relatedTitles": [
-        "特斯拉Q3财报喜忧参半 利润大降56% 马斯克立下flag：2030年年产500万辆"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3113,6 +2957,142 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "AI基建扩张加速 光通信锁定高增长预期,光通信,第四财季营收",
       "relatedTitles": [
         "AI基建扩张加速 光通信锁定高增长预期"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "男子二次酒驾弃车逃窜被无人机全程拍下：罚款行拘吊销驾照！",
+      "summary": "快科技10月22日消息，据央视新闻报道，近日，广西贺州市钟山县一男子在饮用自酿米酒后，心存侥幸驾车上路。途中发现交警夜查，他当即调头驶入小路、弃车躲藏，试图逃避处罚，不料全程被警用无人机拍下。画面中，司机冼某某发现执勤民警后，将车辆驶入偏僻...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5897530.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5897530.shtml"
+      ],
+      "publishedAt": "2026-10-22",
+      "date": "2026-10-22",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "priority": 5,
+      "score": 148,
+      "reporterScore": 154,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use urban services, logistics, safety and regulation to explain how aerospace capability becomes a commercial or public-service application rather than a one-off event. For this item, test the claim behind “男子二次酒驾弃车逃窜被无人机全程拍下：罚款行拘吊销驾照！” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "低空经济与无人机",
+      "rawText": "快科技10月22日消息，据央视新闻报道，近日，广西贺州市钟山县一男子在饮用自酿米酒后，心存侥幸驾车上路。途中发现交警夜查，他当即调头驶入小路、弃车躲藏，试图逃避处罚，不料全程被警用无人机拍下。画面中，司机冼某某发现执勤民警后，将车辆驶入偏僻...",
+      "relatedTitles": [
+        "男子二次酒驾弃车逃窜被无人机全程拍下：罚款行拘吊销驾照！"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "特斯拉Q3财报喜忧参半 利润大降56% 马斯克立下flag：2030年年产500万辆",
+      "summary": "当地时间2026年10月21日特斯拉公布第三季度财报，当季营收280.46亿美元同比基本持平，归母净利润7.87亿美元同比降43%，经调整净利润16.97亿美元同比降4%。汽车业务收入205.6亿美元同比降3%，能源发电与储能业务收入28.81亿美元同比降16%，服务及其他业务收入46.05亿美元同比增33%。当季营业",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879941.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879941.shtml"
+      ],
+      "publishedAt": "2026-10-22",
+      "date": "2026-10-22",
+      "category": "新能源车",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉Q3财报喜忧参半 利润大降56% 马斯克立下flag：2030年年产500万辆” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "当地时间2026年10月21日特斯拉公布第三季度财报，当季营收280.46亿美元同比基本持平，归母净利润7.87亿美元同比降43%，经调整净利润16.97亿美元同比降4%。汽车业务收入205.6亿美元同比降3%，能源发电与储能业务收入28.81亿美元同比降16%，服务及其他业务收入46.05亿美元同比增33%。当季营业利润7.18亿美元同比降56%，营业利润率2.6%，毛利率19.6%同比升1.6个百分点，资本开支47.32亿美元低于预期，自由现金流15.31亿美元，期末现金等价物等合计454.47亿美元。当季汽车交付48.65万辆同比降约2%，交付量连续两季高于产量，推进库存去化。马斯克称目标2030年前后年产汽车约500万辆。(AI生成)",
+      "relatedTitles": [
+        "特斯拉Q3财报喜忧参半 利润大降56% 马斯克立下flag：2030年年产500万辆"
       ],
       "isNewSinceLastRun": false
     },
@@ -3855,108 +3835,9 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "一周军评：星链限速 不止是技术问题"
       ]
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJp",
-      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-      "summary": "量子位 22小时前 AI先锋未来人才大赛 豆包工作 飞书",
-      "source": "量子位",
-      "sources": [
-        "量子位"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.qbitai.com/2026/10/504608.html",
-      "sourceUrls": [
-        "https://www.qbitai.com/2026/10/504608.html"
-      ],
-      "publishedAt": "2026-10-50",
-      "date": "2026-10-50",
-      "category": "AI",
-      "classificationConfidence": 0.92,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 121,
-      "reporterScore": 121,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 6,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "先看真实问题解决力",
-      "relatedTitles": [
-        "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人"
-      ]
     }
   ],
   "globalLeads": [
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-      "summary": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-      "publishedAt": "Thu, 22 Oct 2026 01:05:15 GMT",
-      "date": "2026-10-22",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Critical web security flaws spark global alarm as Google, OpenAI and Ama” against primary-source evidence.",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 160,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
@@ -4019,6 +3900,38 @@ window.CHENCHEN_DAILY_DATA = {
         "reporterScore": 105
       },
       "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+      "summary": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+      "publishedAt": "Thu, 22 Oct 2026 01:05:15 GMT",
+      "date": "2026-10-22",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Critical web security flaws spark global alarm as Google, OpenAI and Ama” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 160,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "status": "confirmed_today",
       "isNewSinceLastRun": false
     },
     {
@@ -4566,8 +4479,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-22｜V3\n生成时间：2026/10/22 09:26:07\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2427｜确认今日 33｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 1 条\n延续跟踪线索：国内 20 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-22] 英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879913.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络” against primary-source evidence.\n\n2. [2026-10-22] 中办、国办：全面实施“人工智能+”行动；英伟\n   网易科技｜2026-10-22｜https://www.163.com/dy/article/L9R05UIN0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中办、国办：全面实施“人工智能+”行动；英伟” against primary-source evidence.\n\n3. [23:11] 影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复\n   IT之家｜2026-10-22｜https://www.ithome.com/1/016/173.htm\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复” against primary-source evidence.\n\n4. [2026-10-22] 聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-inivzyty4817995.shtml\n   报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景” against primary-source evidence.\n\n5. [2026-10-22] 安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5888170.shtml\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心” against primary-source evidence.\n\n本次新增线索：\n- 英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879913.shtml\n- 影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复｜IT之家｜https://www.ithome.com/1/016/173.htm\n- 安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5888170.shtml\n- 李书福回应与蔚来换电合作：避免重复建设，以合并替代各自布局｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5883671.shtml\n- 何小鹏：L3只是L2的增强，L4技术落地预计在2028年下半年｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezr5152212.shtml\n- Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond｜CNBC Technology｜https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（7 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond｜CNBC Technology｜https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html\n2. PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk｜The Register｜https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611\n3. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody｜WIRED Business｜https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/\n4. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov\n5. Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-22｜V3\n生成时间：2026/10/22 09:26:07\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2427｜确认今日 33｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 1 条\n延续跟踪线索：国内 20 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-22] 英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879913.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络” against primary-source evidence.\n\n2. [2026-10-22] 中办、国办：全面实施“人工智能+”行动；英伟\n   网易科技｜2026-10-22｜https://www.163.com/dy/article/L9R05UIN0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中办、国办：全面实施“人工智能+”行动；英伟” against primary-source evidence.\n\n3. [23:11] 影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复\n   IT之家｜2026-10-22｜https://www.ithome.com/1/016/173.htm\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复” against primary-source evidence.\n\n4. [2026-10-22] 聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-inivzyty4817995.shtml\n   报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景” against primary-source evidence.\n\n5. [2026-10-22] 安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5888170.shtml\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心” against primary-source evidence.\n\n本次新增线索：\n- 英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879913.shtml\n- 影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复｜IT之家｜https://www.ithome.com/1/016/173.htm\n- 安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5888170.shtml\n- 李书福回应与蔚来换电合作：避免重复建设，以合并替代各自布局｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5883671.shtml\n- 何小鹏：L3只是L2的增强，L4技术落地预计在2028年下半年｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezr5152212.shtml\n- Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond｜CNBC Technology｜https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（7 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond｜CNBC Technology｜https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html\n2. PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk｜The Register｜https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611\n3. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody｜WIRED Business｜https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/\n4. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov\n5. Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-22｜生成时间：2026/10/22 09:26:07｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2427｜确认今日 33｜国际背景 20</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 13 条｜国际 1 条<br>延续跟踪线索：国内 20 条｜国际 19 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-22] 英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络</strong>\n      <span>新浪科技｜2026-10-22｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879913.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-22] 中办、国办：全面实施“人工智能+”行动；英伟</strong>\n      <span>网易科技｜2026-10-22｜<a href=\"https://www.163.com/dy/article/L9R05UIN0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中办、国办：全面实施“人工智能+”行动；英伟” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [23:11] 影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复</strong>\n      <span>IT之家｜2026-10-22｜<a href=\"https://www.ithome.com/1/016/173.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-22] 聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景</strong>\n      <span>新浪科技｜2026-10-22｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-22/doc-inivzyty4817995.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：190｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-22] 安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心</strong>\n      <span>新浪科技｜2026-10-22｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5888170.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond</strong>\n      <span>时间：Thu, 22 Oct 2026 01:05:15 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Critical web security flaws spark global alarm as Google, OpenAI and Ama” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk</strong>\n      <span>时间：Wed, 21 Oct 2026 23:02:57 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “PHP blames supply chain security biz Chainguard for putting huge chunks ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody</strong>\n      <span>时间：Mon, 19 Oct 2026 19:49:17 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Cus” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AI in Government Governments are not only AI regulators and investors, but also developers and users.</strong>\n      <span>时间：Wed, 21 Oct 2026 10:30:00 +0000｜来源：OECD AI Policy｜<a href=\"https://oecd.ai/en/gov\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI in Government Governments are not only AI regulators and investors, b” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision</strong>\n      <span>时间：Wed, 21 Oct 2026 15:00:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vis” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/22 09:26:07\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 13 条｜国际 1 条\n延续跟踪线索：国内 20 条｜国际 19 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-22] 英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879913.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络” against primary-source evidence.\n\n2. [2026-10-22] 中办、国办：全面实施“人工智能+”行动；英伟\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L9R05UIN0512B07B.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中办、国办：全面实施“人工智能+”行动；英伟” against primary-source evidence.\n\n3. [23:11] 影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复\n   来源：IT之家\n   链接：https://www.ithome.com/1/016/173.htm\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复” against primary-source evidence.\n\n4. [2026-10-22] 聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-22/doc-inivzyty4817995.shtml\n   角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景” against primary-source evidence.\n\n5. [2026-10-22] 安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5888170.shtml\n   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心” against primary-source evidence.\n\n本次新增线索：\n- 英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879913.shtml\n- 影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复｜IT之家｜https://www.ithome.com/1/016/173.htm\n- 安全高于一切！雷军：小米已交付超80万辆车 均价超26万、成立独立汽车安全研究中心｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5888170.shtml\n- 李书福回应与蔚来换电合作：避免重复建设，以合并替代各自布局｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5883671.shtml\n- 何小鹏：L3只是L2的增强，L4技术落地预计在2028年下半年｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezr5152212.shtml\n- Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond｜CNBC Technology｜https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（6 条，3 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（7 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（3 条，2 个来源）\n\n国际科技背景：\n1. Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond｜CNBC Technology｜https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html\n2. PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk｜The Register｜https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611\n3. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody｜WIRED Business｜https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/\n4. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov\n5. Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-22｜V3\n生成时间：2026/10/22 09:36:28\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2427｜确认今日 33｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 31 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-22] 英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879913.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络” against primary-source evidence.\n\n2. [2026-10-22] 中办、国办：全面实施“人工智能+”行动；英伟\n   网易科技｜2026-10-22｜https://www.163.com/dy/article/L9R05UIN0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中办、国办：全面实施“人工智能+”行动；英伟” against primary-source evidence.\n\n3. [2026-10-22] 聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-inivzyty4817995.shtml\n   报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景” against primary-source evidence.\n\n4. [2026-10-22] 以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/tech/mobile/n/2026-10-22/doc-inivzytt5229965.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕” against primary-source evidence.\n\n5. [2026-10-22] 马斯克点燃AI交易？美股存储半导体股大反弹，西部数据涨近4%，科技股大涨，Meta盘后涨超6%\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/stock/t/2026-10-22/doc-inivzyty4763059.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “马斯克点燃AI交易？美股存储半导体股大反弹，西部数据涨近4%，科技股大涨，Meta盘后涨超6%” against primary-source evidence.\n\n本次新增线索：\n- 西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗｜IT之家｜https://www.ithome.com/1/016/206.htm\n- 美光认为 4F² DRAM 内存无可行扩展路径，1ε 晶圆键合、 ζÅ High NA EUV｜IT之家｜https://www.ithome.com/1/016/208.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（7 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk｜The Register｜https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611\n2. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody｜WIRED Business｜https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/\n3. Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond｜CNBC Technology｜https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html\n4. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov\n5. Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-22｜V3\n生成时间：2026/10/22 09:36:28\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2427｜确认今日 33｜国际背景 20\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 31 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-22] 英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879913.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络” against primary-source evidence.\n\n2. [2026-10-22] 中办、国办：全面实施“人工智能+”行动；英伟\n   网易科技｜2026-10-22｜https://www.163.com/dy/article/L9R05UIN0512B07B.html\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中办、国办：全面实施“人工智能+”行动；英伟” against primary-source evidence.\n\n3. [2026-10-22] 聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-inivzyty4817995.shtml\n   报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景” against primary-source evidence.\n\n4. [2026-10-22] 以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/tech/mobile/n/2026-10-22/doc-inivzytt5229965.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕” against primary-source evidence.\n\n5. [2026-10-22] 马斯克点燃AI交易？美股存储半导体股大反弹，西部数据涨近4%，科技股大涨，Meta盘后涨超6%\n   新浪科技｜2026-10-22｜https://finance.sina.com.cn/stock/t/2026-10-22/doc-inivzyty4763059.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “马斯克点燃AI交易？美股存储半导体股大反弹，西部数据涨近4%，科技股大涨，Meta盘后涨超6%” against primary-source evidence.\n\n本次新增线索：\n- 西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗｜IT之家｜https://www.ithome.com/1/016/206.htm\n- 美光认为 4F² DRAM 内存无可行扩展路径，1ε 晶圆键合、 ζÅ High NA EUV｜IT之家｜https://www.ithome.com/1/016/208.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（7 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk｜The Register｜https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611\n2. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody｜WIRED Business｜https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/\n3. Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond｜CNBC Technology｜https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html\n4. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov\n5. Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-22｜生成时间：2026/10/22 09:36:28｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2427｜确认今日 33｜国际背景 20</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 0 条<br>延续跟踪线索：国内 31 条｜国际 20 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-22] 英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络</strong>\n      <span>新浪科技｜2026-10-22｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879913.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-22] 中办、国办：全面实施“人工智能+”行动；英伟</strong>\n      <span>网易科技｜2026-10-22｜<a href=\"https://www.163.com/dy/article/L9R05UIN0512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中办、国办：全面实施“人工智能+”行动；英伟” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-22] 聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景</strong>\n      <span>新浪科技｜2026-10-22｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-22/doc-inivzyty4817995.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：190｜需核验来源</span>\n      <p>报道角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-22] 以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕</strong>\n      <span>新浪科技｜2026-10-22｜<a href=\"https://finance.sina.com.cn/tech/mobile/n/2026-10-22/doc-inivzytt5229965.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-22] 马斯克点燃AI交易？美股存储半导体股大反弹，西部数据涨近4%，科技股大涨，Meta盘后涨超6%</strong>\n      <span>新浪科技｜2026-10-22｜<a href=\"https://finance.sina.com.cn/stock/t/2026-10-22/doc-inivzyty4763059.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “马斯克点燃AI交易？美股存储半导体股大反弹，西部数据涨近4%，科技股大涨，Meta盘后涨超6%” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk</strong>\n      <span>时间：Wed, 21 Oct 2026 23:02:57 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “PHP blames supply chain security biz Chainguard for putting huge chunks ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody</strong>\n      <span>时间：Mon, 19 Oct 2026 19:49:17 +0000｜来源：WIRED Business｜<a href=\"https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Cus” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond</strong>\n      <span>时间：Thu, 22 Oct 2026 01:05:15 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Critical web security flaws spark global alarm as Google, OpenAI and Ama” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AI in Government Governments are not only AI regulators and investors, but also developers and users.</strong>\n      <span>时间：Wed, 21 Oct 2026 10:30:00 +0000｜来源：OECD AI Policy｜<a href=\"https://oecd.ai/en/gov\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI in Government Governments are not only AI regulators and investors, b” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision</strong>\n      <span>时间：Wed, 21 Oct 2026 15:00:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vis” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/22 09:36:28\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 31 条｜国际 20 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-22] 英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-22/doc-iniwaezt5879913.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络” against primary-source evidence.\n\n2. [2026-10-22] 中办、国办：全面实施“人工智能+”行动；英伟\n   来源：网易科技\n   链接：https://www.163.com/dy/article/L9R05UIN0512B07B.html\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中办、国办：全面实施“人工智能+”行动；英伟” against primary-source evidence.\n\n3. [2026-10-22] 聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-22/doc-inivzyty4817995.shtml\n   角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景” against primary-source evidence.\n\n4. [2026-10-22] 以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/mobile/n/2026-10-22/doc-inivzytt5229965.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕” against primary-source evidence.\n\n5. [2026-10-22] 马斯克点燃AI交易？美股存储半导体股大反弹，西部数据涨近4%，科技股大涨，Meta盘后涨超6%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/t/2026-10-22/doc-inivzyty4763059.shtml\n   角度：Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “马斯克点燃AI交易？美股存储半导体股大反弹，西部数据涨近4%，科技股大涨，Meta盘后涨超6%” against primary-source evidence.\n\n本次新增线索：\n- 西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗｜IT之家｜https://www.ithome.com/1/016/206.htm\n- 美光认为 4F² DRAM 内存无可行扩展路径，1ε 晶圆键合、 ζÅ High NA EUV｜IT之家｜https://www.ithome.com/1/016/208.htm\n\n今日热点方向：\n- AI 应用：AI 应用与智能体（7 条，3 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车与智能驾驶（7 条，3 个来源）\n- 太空与低空经济：低空经济与无人机（1 条，1 个来源）\n- 科学前沿：科学前沿动态（2 条，2 个来源）\n\n国际科技背景：\n1. PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk｜The Register｜https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611\n2. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody｜WIRED Business｜https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/\n3. Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond｜CNBC Technology｜https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html\n4. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov\n5. Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
