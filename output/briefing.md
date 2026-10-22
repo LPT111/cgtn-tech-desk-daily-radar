@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/21 19:57:31
+生成时间：2026/10/22 08:59:04
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 16 条｜国际 1 条
-延续跟踪线索：国内 96 条｜国际 20 条
+新增核心线索：国内 26 条｜国际 13 条
+延续跟踪线索：国内 0 条｜国际 6 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-21] 奇瑞发布垂类基础大模型CheryMind和紫微芯片
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-10-21/doc-inivxrnx6295823.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “奇瑞发布垂类基础大模型CheryMind和紫微芯片” against primary-source evidence.
-
-2. [2026-10-21] 安靠科技与英伟达签署13亿美元新协议，扩大韩国
+1. [2026-10-22] 中办、国办：全面实施“人工智能+”行动；英伟
    来源：网易科技
-   链接：https://www.163.com/dy/article/L9POFJK10534A4SC.html
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “安靠科技与英伟达签署13亿美元新协议，扩大韩国” against primary-source evidence.
+   链接：https://www.163.com/dy/article/L9R05UIN0512B07B.html
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “中办、国办：全面实施“人工智能+”行动；英伟” against primary-source evidence.
 
-3. [11:49] 告别“线数内卷”：禾赛 6D 全彩激光雷达亮点公布，可将 RGB 与深度信息在芯片级原生像素级对齐
-   来源：IT之家
-   链接：https://www.ithome.com/1/016/089.htm
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “告别“线数内卷”：禾赛 6D 全彩激光雷达亮点公布，可将 RGB 与深度信息在芯片级原生像素级对齐” against primary-source evidence.
-
-4. [2026-10-21] 青年主导的美国AI安全组织呼吁：出台青少年用户保护措施
+2. [2026-10-22] 聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivysym6219582.shtml
-   角度：Frame the policy through the balance between innovation, safety and accountability, identifying what changes in practice for companies, researchers and international partners. For this item, test the claim behind “青年主导的美国AI安全组织呼吁：出台青少年用户保护措施” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-22/doc-inivzyty4817995.shtml
+   角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景” against primary-source evidence.
 
-5. [09:48] 奇瑞旗下墨甲机器人首款消费级家庭陪伴人形机器人“墨宝”发布：身高 0.9 米，22 个自由度支持行走与身体表达
-   来源：IT之家
-   链接：https://www.ithome.com/1/016/037.htm
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “奇瑞旗下墨甲机器人首款消费级家庭陪伴人形机器人“墨宝”发布：身高 0.9 米，22 个自由度支持行走与身体表达” against primary-source evidence.
+3. [2026-10-22] 影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-22/doc-inivzytt5206634.shtml
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复” against primary-source evidence.
+
+4. [2026-10-22] 以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/mobile/n/2026-10-22/doc-inivzytt5229965.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕” against primary-source evidence.
+
+5. [2026-10-22] 高通骁龙8 Gen5 Pro来袭：3nm工艺 +自研CPU 一加全球首发
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-22/doc-inivzytv5949958.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “高通骁龙8 Gen5 Pro来袭：3nm工艺 +自研CPU 一加全球首发” against primary-source evidence.
 
 本次新增线索：
-- 安靠科技与英伟达签署13亿美元新协议，扩大韩国｜网易科技｜https://www.163.com/dy/article/L9POFJK10534A4SC.html
-- 告别“线数内卷”：禾赛 6D 全彩激光雷达亮点公布，可将 RGB 与深度信息在芯片级原生像素级对齐｜IT之家｜https://www.ithome.com/1/016/089.htm
-- 蔚来李斌：用户不愿意付钱，自动驾驶讲得再好也没有真正创造用户价值｜IT之家｜https://www.ithome.com/1/016/054.htm
-- 英伟达携欧洲云服务商扩建AI基础设施 推进安全自主智能体部署｜网易科技｜https://www.163.com/dy/article/L9PNDK1M05198CJN.html
-- 超微电脑携手诺基亚将英伟达Aerial RAN计算解决方案部署至网络边缘｜网易科技｜https://www.163.com/dy/article/L9PP857805198CJN.html
-- Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck｜CNBC Technology｜https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html
+- 中办、国办：全面实施“人工智能+”行动；英伟｜网易科技｜https://www.163.com/dy/article/L9R05UIN0512B07B.html
+- 聚焦技术攻关、场景推广、行业治理 智能网联汽车产业勾勒未来发展图景｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-inivzyty4817995.shtml
+- 影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-22/doc-inivzytt5206634.shtml
+- 以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/2026-10-22/doc-inivzytt5229965.shtml
+- 高通骁龙8 Gen5 Pro来袭：3nm工艺 +自研CPU 一加全球首发｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-22/doc-inivzytv5949958.shtml
+- PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk｜The Register｜https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611
 
 今日热点方向：
-- AI 应用：AI动态（25 条，5 个来源）
-- 芯片/半导体：半导体供应链（10 条，4 个来源）
-- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（19 条，4 个来源）
-- 太空与低空经济：太空与低空动态（3 条，3 个来源）
+- AI 应用：AI动态（5 条，2 个来源）
+- 芯片/半导体：半导体供应链（2 条，1 个来源）
+- 机器人/具身智能：
+- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
+- 太空与低空经济：
 - 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
-1. Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck｜CNBC Technology｜https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html
-2. AI’s epic cash call is matched only by its ability to strangle revenue streams｜The Register｜https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493
-3. Anthropic pitches AI safety bill that may block a model if 50+ people could be killed｜TechCrunch｜https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/
-4. OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business｜TechCrunch｜https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/
-5. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody｜WIRED Business｜https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/
+1. PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk｜The Register｜https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611
+2. Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472
+3. Tesla says it will start selling Cybercabs by end of year｜TechCrunch｜https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/
+4. OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody｜WIRED Business｜https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/
+5. AI in Government Governments are not only AI regulators and investors, but also developers and users.｜OECD AI Policy｜https://oecd.ai/en/gov
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
