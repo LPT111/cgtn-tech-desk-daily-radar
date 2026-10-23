@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/23 09:37:25
+生成时间：2026/10/23 18:31:24
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 6 条｜国际 2 条
-延续跟踪线索：国内 45 条｜国际 18 条
+新增核心线索：国内 48 条｜国际 5 条
+延续跟踪线索：国内 11 条｜国际 18 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -16,48 +16,48 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwecsy4855641.shtml
    角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “A股AI叙事迎产业验证窗口” against primary-source evidence.
 
-2. [2026-10-23] 黄仁勋亲手调教机器鸭 喊一声打盹儿翻跟头萌翻全场
+2. [2026-10-23] 周鸿祎谈DeepSeek开源：AI时代，企业要有自己的“主权AI”
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-10-23/doc-iniweiyt5672049.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “黄仁勋亲手调教机器鸭 喊一声打盹儿翻跟头萌翻全场” against primary-source evidence.
+   链接：https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwffen4974378.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “周鸿祎谈DeepSeek开源：AI时代，企业要有自己的“主权AI”” against primary-source evidence.
 
-3. [2026-10-23] Claude自动模式将全球上线！OpenAI曝出最恐怖一幕
+3. [2026-10-23] 国办发布重磅文件，拓展新兴领域人工智能就业新
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L9UMHV6I0534A4SC.html
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “国办发布重磅文件，拓展新兴领域人工智能就业新” against primary-source evidence.
+
+4. [2026-10-23] 骏亚科技：人形机器人相关业务目前已批量供货
+   来源：网易科技
+   链接：https://www.163.com/dy/article/L9UMLFPC0512B07B.html
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “骏亚科技：人形机器人相关业务目前已批量供货” against primary-source evidence.
+
+5. [2026-10-23] Claude自动模式将全球上线！OpenAI曝出最恐怖一幕
    来源：新浪科技
    链接：https://finance.sina.com.cn/wm/2026-10-23/doc-iniweiyt5660748.shtml
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Claude自动模式将全球上线！OpenAI曝出最恐怖一幕” against primary-source evidence.
 
-4. [2026-10-23] 顶级期刊不是一天建成的，访施普林格·自然首席出版官
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-10-23/doc-iniweiyr4900416.shtml
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “顶级期刊不是一天建成的，访施普林格·自然首席出版官” against primary-source evidence.
-
-5. [2026-10-23] Rivian收购AI公司Third Dimension，利用3D仿真技术加速自动驾驶研发，12月启动道路测试
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwecst4944877.shtml
-   角度：Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “Rivian收购AI公司Third Dimension，利用3D仿真技术加速自动驾驶研发，12月启动道路测试” against primary-source evidence.
-
 本次新增线索：
-- 黄仁勋亲手调教机器鸭 喊一声打盹儿翻跟头萌翻全场｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-23/doc-iniweiyt5672049.shtml
-- 快讯：恒指高开0.41% 恒科指涨0.51% 科网股、石油股活跃｜新浪科技｜https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-23/doc-iniweiyt5674564.shtml
-- 摩尔线程完成MiniMax M3.1 Flash大模型适配｜网易科技｜https://www.163.com/dy/article/L9TQH9E60534A4SC.html
-- AI 智能体的“说明书”转为社区共治：Anthropic 捐赠 Agent Skills 开放标准｜IT之家｜https://www.ithome.com/1/016/811.htm
-- AI需求拉动 PCB企业三季度利润大增｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-23/doc-iniweiyu8117313.shtml
-- Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472
+- 周鸿祎谈DeepSeek开源：AI时代，企业要有自己的“主权AI”｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwffen4974378.shtml
+- 国办发布重磅文件，拓展新兴领域人工智能就业新｜网易科技｜https://www.163.com/dy/article/L9UMHV6I0534A4SC.html
+- 骏亚科技：人形机器人相关业务目前已批量供货｜网易科技｜https://www.163.com/dy/article/L9UMLFPC0512B07B.html
+- 上游订单火热、终端“爆款”难寻 AI玩具的“下半场”怎么打？｜网易科技｜https://www.163.com/dy/article/L9UDKA6U05198CJN.html
+- 深圳将发布海洋标准体系建设指南、水下机器人标准体系｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-23/doc-iniwffes2647064.shtml
+- Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia｜TechCrunch｜https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（15 条，3 个来源）
-- 芯片/半导体：半导体供应链（4 条，3 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（8 条，4 个来源）
-- 太空与低空经济：太空与低空动态（4 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- AI 应用：AI动态（20 条，4 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（6 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）
+- 太空与低空经济：太空与低空动态（2 条，1 个来源）
+- 科学前沿：科学前沿动态（2 条，1 个来源）
 
 国际科技背景：
 1. Former OpenAI science lead launches Warp Science to automate wet labs with robots｜TechCrunch｜https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/
-2. Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472
-3. Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise｜TechCrunch｜https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/
-4. To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623
-5. OpenAI makes its Jev competitor widely available as decision model competition heats up｜TechCrunch｜https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/
+2. Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise｜TechCrunch｜https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/
+3. To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623
+4. OpenAI makes its Jev competitor widely available as decision model competition heats up｜TechCrunch｜https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/
+5. Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond｜CNBC Technology｜https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
