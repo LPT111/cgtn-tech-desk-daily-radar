@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/25 09:02:10
+生成时间：2026/10/25 09:17:03
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 2 条｜国际 0 条
-延续跟踪线索：国内 6 条｜国际 12 条
+新增核心线索：国内 0 条｜国际 1 条
+延续跟踪线索：国内 8 条｜国际 12 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -37,8 +37,7 @@ ChenChen 今日 Briefing｜V3
    角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “研究发现土壤病毒调控深层土壤微生物碳泵” against primary-source evidence.
 
 本次新增线索：
-- 澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3516692.shtml
-- 研究发现土壤病毒调控深层土壤微生物碳泵｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwkwff3515440.shtml
+- Anthropic unveils Claude Duet, its answer to AI agents like Dots｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-answer-002554435.html
 
 今日热点方向：
 - AI 应用：AI动态（3 条，1 个来源）
@@ -53,7 +52,7 @@ ChenChen 今日 Briefing｜V3
 2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
 3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/
 4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/
-5. With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage｜CNBC Technology｜https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html
+5. Anthropic unveils Claude Duet, its answer to AI agents like Dots｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-answer-002554435.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
