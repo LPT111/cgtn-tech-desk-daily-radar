@@ -1,50 +1,55 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/25 09:17:03
+生成时间：2026/10/25 18:09:38
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 0 条｜国际 1 条
-延续跟踪线索：国内 8 条｜国际 12 条
+新增核心线索：国内 29 条｜国际 2 条
+延续跟踪线索：国内 0 条｜国际 13 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-25] 广州发布AIGC视听产业行动计划
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广州发布AIGC视听产业行动计划” against primary-source evidence.
+1. [07:57] 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧
+   来源：IT之家
+   链接：https://www.ithome.com/1/017/622.htm
+   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧” against primary-source evidence.
 
-2. [2026-10-25] 余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产
+2. [2026-10-25] 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml
-   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增” against primary-source evidence.
 
-3. [2026-10-25] PHP 基金会负责人坦言资金不足：仅 1 名全职员工
+3. [2026-10-25] whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml
-   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “PHP 基金会负责人坦言资金不足：仅 1 名全职员工” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml
+   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月” against primary-source evidence.
 
-4. [2026-10-25] 澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化
+4. [2026-10-25] 使用AI撰写论文的博士生不太可能留在学术界
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3516692.shtml
-   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwmpav6476464.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “使用AI撰写论文的博士生不太可能留在学术界” against primary-source evidence.
 
-5. [2026-10-25] 研究发现土壤病毒调控深层土壤微生物碳泵
+5. [2026-10-25] 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwkwff3515440.shtml
-   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “研究发现土壤病毒调控深层土壤微生物碳泵” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元” against primary-source evidence.
 
 本次新增线索：
-- Anthropic unveils Claude Duet, its answer to AI agents like Dots｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-answer-002554435.html
+- 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧｜IT之家｜https://www.ithome.com/1/017/622.htm
+- 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml
+- whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml
+- 使用AI撰写论文的博士生不太可能留在学术界｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwmpav6476464.shtml
+- 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml
+- An expert explains how AI can predict vulnerable areas before extreme weather strikes｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/expert-explains-ai-predict-vulnerable-053000883.html
 
 今日热点方向：
-- AI 应用：AI动态（3 条，1 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：
-- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）
-- 太空与低空经济：
+- AI 应用：AI动态（5 条，2 个来源）
+- 芯片/半导体：半导体供应链（2 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
 - 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
@@ -52,7 +57,7 @@ ChenChen 今日 Briefing｜V3
 2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
 3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/
 4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/
-5. Anthropic unveils Claude Duet, its answer to AI agents like Dots｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-answer-002554435.html
+5. An expert explains how AI can predict vulnerable areas before extreme weather strikes｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/expert-explains-ai-predict-vulnerable-053000883.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
