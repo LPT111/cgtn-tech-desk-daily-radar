@@ -1,51 +1,20 @@
 {
-  "generatedAt": "2026-10-25T10:09:38.554Z",
+  "generatedAt": "2026-10-25T10:54:40.728Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-25",
   "changeSummary": {
-    "domesticNew": 29,
-    "globalNew": 2,
-    "domesticContinued": 0,
-    "globalContinued": 13,
+    "domesticNew": 1,
+    "globalNew": 0,
+    "domesticContinued": 28,
+    "globalContinued": 15,
     "topNewDomestic": [
       {
-        "title": "野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧",
-        "source": "IT之家",
-        "url": "https://www.ithome.com/1/017/622.htm"
-      },
-      {
-        "title": "韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增",
+        "title": "清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml"
-      },
-      {
-        "title": "whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml"
-      },
-      {
-        "title": "使用AI撰写论文的博士生不太可能留在学术界",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwmpav6476464.shtml"
-      },
-      {
-        "title": "韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkr9829954.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "An expert explains how AI can predict vulnerable areas before extreme weather strikes",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/ai/articles/expert-explains-ai-predict-vulnerable-053000883.html"
-      },
-      {
-        "title": "Which AMD CPU Is Equivalent To The One In The PlayStation 5 Pro?",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/gaming/articles/amd-cpu-equivalent-one-playstation-024700316.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
@@ -116,7 +85,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 157,
+      "parsed": 154,
       "failed": false,
       "optional": false
     },
@@ -363,18 +332,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1534,
+  "itemsSeen": 1531,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 229,
-  "itemsAfterDedupe": 175,
+  "itemsAfterRelevantFilter": 230,
+  "itemsAfterDedupe": 176,
   "todayItemsSeen": 29,
-  "suspectedItemsSeen": 9,
-  "skippedNonToday": 135,
+  "suspectedItemsSeen": 10,
+  "skippedNonToday": 134,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 157,
+      "parsed": 154,
       "failed": false,
       "optional": false
     },
@@ -849,18 +818,31 @@
     },
     {
       "topic": "AI动态",
-      "count": 5,
+      "count": 4,
+      "sourceCount": 2,
+      "sources": [
+        "网易科技",
+        "新浪科技"
+      ],
+      "items": [
+        "一会儿繁荣一会儿末日，美国政界受够AI巨头了",
+        "英国宣布设立AI生物安全实验室",
+        "一句“我想要”，AI就能生成候选蛋白质序列？",
+        "暂不必担忧模型的失控，更迫切的问题就在眼前"
+      ]
+    },
+    {
+      "topic": "人形机器人与具身智能",
+      "count": 3,
       "sourceCount": 2,
       "sources": [
         "新浪科技",
         "网易科技"
       ],
       "items": [
-        "使用AI撰写论文的博士生不太可能留在学术界",
-        "一会儿繁荣一会儿末日，美国政界受够AI巨头了",
-        "英国宣布设立AI生物安全实验室",
-        "一句“我想要”，AI就能生成候选蛋白质序列？",
-        "暂不必担忧模型的失控，更迫切的问题就在眼前"
+        "机器人的o1时刻来了！哈佛、伯克利、英伟达推出探索Scaling Law，五大基准平均领先37.4个点",
+        "明日主题前瞻多赛道共振打开丝杠成长空间，人形",
+        "清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力"
       ]
     },
     {
@@ -889,19 +871,6 @@
         "从空中到地面，南昌未来交通产业加速起势",
         "比亚迪腾势：将持续加强闪充场站管理，持续优化改善充电桩被燃油车占位问题",
         "一周新车盘点｜比亚迪海鸥换代增至五座 捷达首款纯电轿车上市"
-      ]
-    },
-    {
-      "topic": "人形机器人与具身智能",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "新浪科技",
-        "网易科技"
-      ],
-      "items": [
-        "机器人的o1时刻来了！哈佛、伯克利、英伟达推出探索Scaling Law，五大基准平均领先37.4个点",
-        "明日主题前瞻多赛道共振打开丝杠成长空间，人形"
       ]
     },
     {
@@ -1052,7 +1021,7 @@
       "relatedTitles": [
         "野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1120,7 +1089,7 @@
       "relatedTitles": [
         "韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1188,75 +1157,7 @@
       "relatedTitles": [
         "whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "使用AI撰写论文的博士生不太可能留在学术界",
-      "summary": "据《自然》报道，一份未经同行评审的论文指出，美国科学、技术、工程和数学（STEM）领域的博士学位论文中，约30%包含由人工智能（AI）生成的文本。研究还发现，那些使用AI撰写论文的博士毕业生更有可能在工业界工作，而不太可能进入学术界。多项研...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwmpav6476464.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwmpav6476464.shtml"
-      ],
-      "publishedAt": "2026-10-25",
-      "date": "2026-10-25",
-      "category": "AI",
-      "classificationConfidence": 0.84,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 176,
-      "reporterScore": 184,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “使用AI撰写论文的博士生不太可能留在学术界” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "据《自然》报道，一份未经同行评审的论文指出，美国科学、技术、工程和数学（STEM）领域的博士学位论文中，约30%包含由人工智能（AI）生成的文本。研究还发现，那些使用AI撰写论文的博士毕业生更有可能在工业界工作，而不太可能进入学术界。多项研...",
-      "relatedTitles": [
-        "使用AI撰写论文的博士生不太可能留在学术界"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1324,12 +1225,12 @@
       "relatedTitles": [
         "韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%",
-      "summary": "IT之家10月25日援引消息源smashx_60消息，曝光HMD新款欧版Fusion手机，该机相比2024年9月发布的现款Fusion，将原骁龙4 Gen 2芯片、6.56英寸HD+90Hz IPS LCD面板，更换为骁龙7s Gen 2芯片、6.56英寸FHD+120Hz IPS LCD面板。新机保留50Mp前置、1",
+      "summary": "近日消息，寒武纪发布2026年第三季度财报，AI算力芯片业务继续走高，单季度归母净利润达到14.04亿元，同比增长147.74%。第三季度营业收入35.31亿元，同比涨幅104.47%，扣非净利润13.58亿元，同比增长168.13%。往前...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
@@ -1342,7 +1243,7 @@
       "publishedAt": "2026-10-25",
       "date": "2026-10-25",
       "category": "芯片",
-      "classificationConfidence": 0.76,
+      "classificationConfidence": 0.94,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1385,14 +1286,14 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "graphic",
-      "angle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%” against primary-source evidence.",
+      "angle": "Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "芯片动态",
       "rawText": "近日消息，寒武纪发布2026年第三季度财报，AI算力芯片业务继续走高，单季度归母净利润达到14.04亿元，同比增长147.74%。第三季度营业收入35.31亿元，同比涨幅104.47%，扣非净利润13.58亿元，同比增长168.13%。往前...",
       "relatedTitles": [
         "寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1460,7 +1361,7 @@
       "relatedTitles": [
         "韩国芯片企业三星电子与SK海力士将于下周发布第三季度财报"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1528,7 +1429,7 @@
       "relatedTitles": [
         "HMD 新款欧洲版 Fusion 手机规格曝光：升级骁龙 7s Gen 2 芯片、120Hz 刷新率"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1596,7 +1497,7 @@
       "relatedTitles": [
         "机器人的o1时刻来了！哈佛、伯克利、英伟达推出探索Scaling Law，五大基准平均领先37.4个点"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1663,6 +1564,74 @@
       "rawText": "明日主题前瞻多赛道共振打开丝杠成长空间，人形机器人或带来行业最大增量,丝杠,电机,特高压,人形机器人",
       "relatedTitles": [
         "明日主题前瞻多赛道共振打开丝杠成长空间，人形"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力",
+      "summary": "编辑｜陈陈、Clio机器人操作的「考卷」，需要为灵巧手重新出一份了。过去的机器人操作 benchmark，大多围绕夹爪展开。而随着第一视角（ego）人类操作数据不断积累，人如何抓握、使用工具、完成精细接触，正被越来越大规模地记录下来。灵巧手...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkr9829954.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkr9829954.shtml"
+      ],
+      "publishedAt": "2026-10-25",
+      "date": "2026-10-25",
+      "category": "机器人",
+      "classificationConfidence": 0.88,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 90,
+      "keywords": "robotics, embodied intelligence and smart manufacturing",
+      "priority": 5,
+      "score": 158,
+      "reporterScore": 164,
+      "scoreBreakdown": {
+        "hardTech": 90,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 113
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "人形机器人与具身智能",
+      "rawText": "编辑｜陈陈、Clio机器人操作的「考卷」，需要为灵巧手重新出一份了。过去的机器人操作 benchmark，大多围绕夹爪展开。而随着第一视角（ego）人类操作数据不断积累，人如何抓握、使用工具、完成精细接触，正被越来越大规模地记录下来。灵巧手...",
+      "relatedTitles": [
+        "清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力"
       ],
       "isNewSinceLastRun": true
     },
@@ -1732,7 +1701,7 @@
       "relatedTitles": [
         "三星电子会长李在镕近日出访阿联酋 业内关注新增数据中心订单可能性"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1800,7 +1769,7 @@
       "relatedTitles": [
         "一会儿繁荣一会儿末日，美国政界受够AI巨头了"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1868,7 +1837,7 @@
       "relatedTitles": [
         "英国宣布设立AI生物安全实验室"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1936,7 +1905,7 @@
       "relatedTitles": [
         "OpenAI降价抢单成效显著 多家Anthropic客户编码业务“倒戈”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2004,7 +1973,7 @@
       "relatedTitles": [
         "SK海力士三季报即将出炉，股东回报与投资资金成核心看点"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2072,7 +2041,7 @@
       "relatedTitles": [
         "一句“我想要”，AI就能生成候选蛋白质序列？"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2140,7 +2109,7 @@
       "relatedTitles": [
         "暂不必担忧模型的失控，更迫切的问题就在眼前"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2208,7 +2177,7 @@
       "relatedTitles": [
         "孙正义计划在马来西亚投资500亿美元 押注AI、数据中心"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -2276,7 +2245,7 @@
       "relatedTitles": [
         "卫星互联网低轨28组卫星发射成功"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2344,7 +2313,7 @@
       "relatedTitles": [
         "网络安全专家：AI 发现的漏洞，很快或将引发新的安全隐患"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2412,7 +2381,7 @@
       "relatedTitles": [
         "AI 云厂商 Nscale“摊上事了”，被前工程师指控报复性解雇、违法使用分包人员"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2480,7 +2449,7 @@
       "relatedTitles": [
         "曜越推出 AX600 Pro 机箱：提供多达 20 个风扇位，899 元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -2548,7 +2517,7 @@
       "relatedTitles": [
         "1.63秒转一圈！我科研人员确认已知自转最快近地小行星"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2616,7 +2585,7 @@
       "relatedTitles": [
         "马斯克公布乌克兰星链被限速原因： 违反服务条"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2684,7 +2653,7 @@
       "relatedTitles": [
         "从空中到地面，南昌未来交通产业加速起势"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2752,7 +2721,7 @@
       "relatedTitles": [
         "比亚迪腾势：将持续加强闪充场站管理，持续优化改善充电桩被燃油车占位问题"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2820,7 +2789,7 @@
       "relatedTitles": [
         "一周新车盘点｜比亚迪海鸥换代增至五座 捷达首款纯电轿车上市"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2888,7 +2857,7 @@
       "relatedTitles": [
         "鸿蒙智行智界 RX 轿跑 SUV 整装发运：今日同步开启全国大规模交付，赛车手谢欣哲成首批车主"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2956,7 +2925,7 @@
       "relatedTitles": [
         "因日活量不佳，VRMMO 游戏《Zenith》将于 12 月正式关闭服务器"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -3364,6 +3333,73 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
+      "title": "半年增长近3倍：6月国内词元日均消耗约500万亿",
+      "summary": "中国信息通信研究院近日发布《大模型词元服务性能监测报告（2026年）》。随着大模型技术的迅速迭代，词元（To",
+      "source": "观察者网-产业科技",
+      "sources": [
+        "观察者网-产业科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.guancha.cn/CaiJing/2026_10_25_905732.shtml",
+      "sourceUrls": [
+        "https://www.guancha.cn/CaiJing/2026_10_25_905732.shtml"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "AI",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 147,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 105
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “半年增长近3倍：6月国内词元日均消耗约500万亿” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "中国信息通信研究院近日发布《大模型词元服务性能监测报告（2026年）》。随着大模型技术的迅速迭代，词元（To",
+      "relatedTitles": [
+        "半年增长近3倍：6月国内词元日均消耗约500万亿"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "乌克兰防长：“星盾”已恢复稳定通信",
       "summary": "据华尔街日报当地时间10月24日报道，乌克兰国防部长赫马拉表示，该国军方使用的“星链”系统在周六上午已恢复正常运行。 赫马拉称，无人机测试显示，“星链”军用版本“星盾”在时速超过400公里的情况下仍能保持稳定连接。 其他乌克兰官员表示，目前仍在以更高速度进行测试。其中一名官员称，基辅方面至今仍未收到美国就“星盾”为何突",
       "source": "观察者网-产业科技",
@@ -3432,7 +3468,7 @@
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "半导体带动，韩国二季度经常项目顺差首超德日总和",
-      "summary": "韩联社10月25日报道，韩国今年二季度经常项目顺差达1166.3亿美元，超过德国和日本合计的1028.9亿美",
+      "summary": "张荃 评论 21 半导体带动，韩国二季度经常项目顺差首超德日总和 <img original=\"https://i.guancha.cn/news/2026/10/25/4cfd1c03d51046b0a7b68ef256a815e0.jpg\" class=\"lazy height254\" data-original=",
       "source": "观察者网-产业科技",
       "sources": [
         "观察者网-产业科技"
@@ -3445,7 +3481,7 @@
       "publishedAt": "",
       "date": "",
       "category": "芯片",
-      "classificationConfidence": 0.8,
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -3491,7 +3527,7 @@
       "angle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “半导体带动，韩国二季度经常项目顺差首超德日总和” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "半导体供应链",
-      "rawText": "韩联社10月25日报道，韩国今年二季度经常项目顺差达1166.3亿美元，超过德国和日本合计的1028.9亿美",
+      "rawText": "张荃 评论 21 半导体带动，韩国二季度经常项目顺差首超德日总和 <img original=\"https://i.guancha.cn/news/2026/10/25/4cfd1c03d51046b0a7b68ef256a815e0.jpg\" class=\"lazy height254\" data-original=\"https://i.guan",
       "relatedTitles": [
         "半导体带动，韩国二季度经常项目顺差首超德日总和"
       ]
@@ -3692,70 +3728,6 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "An expert explains how AI can predict vulnerable areas before extreme weather strikes",
-      "summary": "This former Google DeepMind product manager explains how spatial AI helps cities predict and prepare for extreme weather and infrastructure failures before disaster strikes.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/ai/articles/expert-explains-ai-predict-vulnerable-053000883.html",
-      "publishedAt": "2026-10-25",
-      "date": "2026-10-25",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “An expert explains how AI can predict vulnerable areas before extreme we” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Which AMD CPU Is Equivalent To The One In The PlayStation 5 Pro?",
-      "summary": "As gaming consoles get more expensive, many gamers consider building a PC instead. Here is the AMD CPU that's equivalent to the one in the PlayStation 5 Pro.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/gaming/articles/amd-cpu-equivalent-one-playstation-024700316.html",
-      "publishedAt": "2026-10-25",
-      "date": "2026-10-25",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Which AMD CPU Is Equivalent To The One In The PlayStation 5 Pro?” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -3983,6 +3955,70 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "An expert explains how AI can predict vulnerable areas before extreme weather strikes",
+      "summary": "This former Google DeepMind product manager explains how spatial AI helps cities predict and prepare for extreme weather and infrastructure failures before disaster strikes.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/articles/expert-explains-ai-predict-vulnerable-053000883.html",
+      "publishedAt": "2026-10-25",
+      "date": "2026-10-25",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “An expert explains how AI can predict vulnerable areas before extreme we” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Which AMD CPU Is Equivalent To The One In The PlayStation 5 Pro?",
+      "summary": "As gaming consoles get more expensive, many gamers consider building a PC instead. Here is the AMD CPU that's equivalent to the one in the PlayStation 5 Pro.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/gaming/articles/amd-cpu-equivalent-one-playstation-024700316.html",
+      "publishedAt": "2026-10-25",
+      "date": "2026-10-25",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Which AMD CPU Is Equivalent To The One In The PlayStation 5 Pro?” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Your AMD GPU Has A One-Click Setting That Can Extend Its Lifespan",
       "summary": "It's increasingly more important to take care of the hardware in your computer, especially your AMD GPU, because the rising prices make it difficult to replace.",
       "source": "Yahoo News Technology",
@@ -4046,8 +4082,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-25｜V3\n生成时间：2026/10/25 18:09:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2409｜确认今日 29｜国际背景 15\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 29 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [07:57] 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧\n   IT之家｜2026-10-25｜https://www.ithome.com/1/017/622.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧” against primary-source evidence.\n\n2. [2026-10-25] 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增” against primary-source evidence.\n\n3. [2026-10-25] whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月” against primary-source evidence.\n\n4. [2026-10-25] 使用AI撰写论文的博士生不太可能留在学术界\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwmpav6476464.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “使用AI撰写论文的博士生不太可能留在学术界” against primary-source evidence.\n\n5. [2026-10-25] 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元” against primary-source evidence.\n\n本次新增线索：\n- 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧｜IT之家｜https://www.ithome.com/1/017/622.htm\n- 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml\n- whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml\n- 使用AI撰写论文的博士生不太可能留在学术界｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwmpav6476464.shtml\n- 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml\n- An expert explains how AI can predict vulnerable areas before extreme weather strikes｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/expert-explains-ai-predict-vulnerable-053000883.html\n\n今日热点方向：\n- AI 应用：AI动态（5 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches｜The Register｜https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\n2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\n4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n5. An expert explains how AI can predict vulnerable areas before extreme weather strikes｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/expert-explains-ai-predict-vulnerable-053000883.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-25｜V3\n生成时间：2026/10/25 18:09:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2409｜确认今日 29｜国际背景 15\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 29 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [07:57] 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧\n   IT之家｜2026-10-25｜https://www.ithome.com/1/017/622.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧” against primary-source evidence.\n\n2. [2026-10-25] 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增” against primary-source evidence.\n\n3. [2026-10-25] whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月” against primary-source evidence.\n\n4. [2026-10-25] 使用AI撰写论文的博士生不太可能留在学术界\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwmpav6476464.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “使用AI撰写论文的博士生不太可能留在学术界” against primary-source evidence.\n\n5. [2026-10-25] 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元” against primary-source evidence.\n\n本次新增线索：\n- 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧｜IT之家｜https://www.ithome.com/1/017/622.htm\n- 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml\n- whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml\n- 使用AI撰写论文的博士生不太可能留在学术界｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwmpav6476464.shtml\n- 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml\n- An expert explains how AI can predict vulnerable areas before extreme weather strikes｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/expert-explains-ai-predict-vulnerable-053000883.html\n\n今日热点方向：\n- AI 应用：AI动态（5 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches｜The Register｜https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\n2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\n4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n5. An expert explains how AI can predict vulnerable areas before extreme weather strikes｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/expert-explains-ai-predict-vulnerable-053000883.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-25｜生成时间：2026/10/25 18:09:38｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2409｜确认今日 29｜国际背景 15</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 29 条｜国际 2 条<br>延续跟踪线索：国内 0 条｜国际 13 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [07:57] 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧</strong>\n      <span>IT之家｜2026-10-25｜<a href=\"https://www.ithome.com/1/017/622.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：196｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-25] 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-25] whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-25] 使用AI撰写论文的博士生不太可能留在学术界</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwmpav6476464.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “使用AI撰写论文的博士生不太可能留在学术界” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-25] 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches</strong>\n      <span>时间：Fri, 23 Oct 2026 11:31:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Torvalds: AI is fine for competent devs, but spare us the 'drive-by' pat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. The AI graveyard: a running list of projects and startups that didn’t make it</strong>\n      <span>时间：Sat, 24 Oct 2026 19:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI graveyard: a running list of projects and startups that didn’t ma” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</strong>\n      <span>时间：Fri, 23 Oct 2026 21:59:19 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robo” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</strong>\n      <span>时间：Fri, 23 Oct 2026 17:18:31 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Intel gets waiver after worries fuzzy US ban on foreign-made robots may ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. An expert explains how AI can predict vulnerable areas before extreme weather strikes</strong>\n      <span>时间：2026-10-25｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/articles/expert-explains-ai-predict-vulnerable-053000883.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “An expert explains how AI can predict vulnerable areas before extreme we” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/25 18:09:38\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 29 条｜国际 2 条\n延续跟踪线索：国内 0 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [07:57] 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧\n   来源：IT之家\n   链接：https://www.ithome.com/1/017/622.htm\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧” against primary-source evidence.\n\n2. [2026-10-25] 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增” against primary-source evidence.\n\n3. [2026-10-25] whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml\n   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月” against primary-source evidence.\n\n4. [2026-10-25] 使用AI撰写论文的博士生不太可能留在学术界\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwmpav6476464.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “使用AI撰写论文的博士生不太可能留在学术界” against primary-source evidence.\n\n5. [2026-10-25] 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元” against primary-source evidence.\n\n本次新增线索：\n- 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧｜IT之家｜https://www.ithome.com/1/017/622.htm\n- 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml\n- whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml\n- 使用AI撰写论文的博士生不太可能留在学术界｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwmpav6476464.shtml\n- 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml\n- An expert explains how AI can predict vulnerable areas before extreme weather strikes｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/expert-explains-ai-predict-vulnerable-053000883.html\n\n今日热点方向：\n- AI 应用：AI动态（5 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（2 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches｜The Register｜https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\n2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\n4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n5. An expert explains how AI can predict vulnerable areas before extreme weather strikes｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/expert-explains-ai-predict-vulnerable-053000883.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-25｜V3\n生成时间：2026/10/25 18:54:40\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2406｜确认今日 29｜国际背景 15\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 28 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [07:57] 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧\n   IT之家｜2026-10-25｜https://www.ithome.com/1/017/622.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧” against primary-source evidence.\n\n2. [2026-10-25] 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增” against primary-source evidence.\n\n3. [2026-10-25] whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月” against primary-source evidence.\n\n4. [2026-10-25] 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元” against primary-source evidence.\n\n5. [2026-10-25] 寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkv3144406.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%” against primary-source evidence.\n\n本次新增线索：\n- 清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkr9829954.shtml\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches｜The Register｜https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\n2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\n4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n5. With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage｜CNBC Technology｜https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-25｜V3\n生成时间：2026/10/25 18:54:40\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2406｜确认今日 29｜国际背景 15\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 28 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [07:57] 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧\n   IT之家｜2026-10-25｜https://www.ithome.com/1/017/622.htm\n   报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧” against primary-source evidence.\n\n2. [2026-10-25] 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增” against primary-source evidence.\n\n3. [2026-10-25] whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml\n   报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月” against primary-source evidence.\n\n4. [2026-10-25] 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml\n   报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元” against primary-source evidence.\n\n5. [2026-10-25] 寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkv3144406.shtml\n   报道角度：Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%” against primary-source evidence.\n\n本次新增线索：\n- 清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkr9829954.shtml\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches｜The Register｜https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\n2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\n4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n5. With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage｜CNBC Technology｜https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-25｜生成时间：2026/10/25 18:54:40｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2406｜确认今日 29｜国际背景 15</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 1 条｜国际 0 条<br>延续跟踪线索：国内 28 条｜国际 15 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [07:57] 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧</strong>\n      <span>IT之家｜2026-10-25｜<a href=\"https://www.ithome.com/1/017/622.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：196｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-25] 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-25] whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-25] 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-25] 寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkv3144406.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches</strong>\n      <span>时间：Fri, 23 Oct 2026 11:31:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Torvalds: AI is fine for competent devs, but spare us the 'drive-by' pat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. The AI graveyard: a running list of projects and startups that didn’t make it</strong>\n      <span>时间：Sat, 24 Oct 2026 19:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI graveyard: a running list of projects and startups that didn’t ma” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</strong>\n      <span>时间：Fri, 23 Oct 2026 21:59:19 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robo” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</strong>\n      <span>时间：Fri, 23 Oct 2026 17:18:31 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Intel gets waiver after worries fuzzy US ban on foreign-made robots may ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage</strong>\n      <span>时间：Fri, 23 Oct 2026 11:00:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “With earnings in rearview mirror, SpaceX-Tesla merger chatter takes cent” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/25 18:54:40\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 1 条｜国际 0 条\n延续跟踪线索：国内 28 条｜国际 15 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [07:57] 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧\n   来源：IT之家\n   链接：https://www.ithome.com/1/017/622.htm\n   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧” against primary-source evidence.\n\n2. [2026-10-25] 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml\n   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增” against primary-source evidence.\n\n3. [2026-10-25] whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml\n   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月” against primary-source evidence.\n\n4. [2026-10-25] 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml\n   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元” against primary-source evidence.\n\n5. [2026-10-25] 寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkv3144406.shtml\n   角度：Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%” against primary-source evidence.\n\n本次新增线索：\n- 清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkr9829954.shtml\n\n今日热点方向：\n- AI 应用：AI动态（4 条，2 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches｜The Register｜https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\n2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\n4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n5. With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage｜CNBC Technology｜https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
