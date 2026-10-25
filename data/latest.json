@@ -1,68 +1,32 @@
 {
-  "generatedAt": "2026-10-25T00:35:36.623Z",
+  "generatedAt": "2026-10-25T01:02:10.124Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-25",
   "changeSummary": {
-    "domesticNew": 7,
-    "globalNew": 4,
-    "domesticContinued": 0,
-    "globalContinued": 8,
+    "domesticNew": 2,
+    "globalNew": 0,
+    "domesticContinued": 6,
+    "globalContinued": 12,
     "topNewDomestic": [
       {
-        "title": "广州发布AIGC视听产业行动计划",
+        "title": "澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3516692.shtml"
       },
       {
-        "title": "余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产",
+        "title": "研究发现土壤病毒调控深层土壤微生物碳泵",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml"
-      },
-      {
-        "title": "PHP 基金会负责人坦言资金不足：仅 1 名全职员工",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml"
-      },
-      {
-        "title": "搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwey3234557.shtml"
-      },
-      {
-        "title": "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkrxe0132350.shtml"
+        "url": "https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwkwff3515440.shtml"
       }
     ],
-    "topNewGlobal": [
-      {
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-      },
-      {
-        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
-      },
-      {
-        "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"
-      },
-      {
-        "title": "Your AMD GPU Has A One-Click Setting That Can Extend Its Lifespan",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/amd-gpu-one-click-setting-224700444.html"
-      }
-    ],
+    "topNewGlobal": [],
     "hasPrevious": true
   },
   "qualityMetrics": {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 893,
+    "domesticRejected": 892,
     "globalRejected": 863,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -77,22 +41,17 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 27,
+  "successSources": 30,
   "failedSources": [
+    {
+      "name": "人民网-科技",
+      "error": "This operation was aborted",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -100,19 +59,9 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -122,19 +71,14 @@
   ],
   "failures": [
     {
+      "name": "人民网-科技",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -142,19 +86,9 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -166,7 +100,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 167,
+      "parsed": 164,
       "failed": false,
       "optional": false
     },
@@ -278,8 +212,9 @@
     {
       "name": "人民网-科技",
       "tier": "mainstream",
-      "parsed": 30,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -329,16 +264,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -359,9 +292,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -369,7 +301,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -382,9 +314,8 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -417,18 +348,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1472,
+  "itemsSeen": 1510,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 236,
-  "itemsAfterDedupe": 172,
-  "todayItemsSeen": 7,
+  "itemsAfterRelevantFilter": 238,
+  "itemsAfterDedupe": 173,
+  "todayItemsSeen": 8,
   "suspectedItemsSeen": 12,
   "skippedNonToday": 153,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 167,
+      "parsed": 164,
       "failed": false,
       "optional": false
     },
@@ -540,8 +471,9 @@
     {
       "name": "人民网-科技",
       "tier": "mainstream",
-      "parsed": 30,
-      "failed": false,
+      "parsed": 0,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -591,16 +523,14 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "failed": false,
       "optional": false
     },
     {
@@ -621,9 +551,8 @@
     {
       "name": "国家网信办",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 10,
+      "failed": false,
       "optional": false
     },
     {
@@ -631,7 +560,7 @@
       "tier": "official",
       "parsed": 0,
       "failed": true,
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
     },
     {
@@ -644,9 +573,8 @@
     {
       "name": "市场监管总局",
       "tier": "official",
-      "parsed": 0,
-      "failed": true,
-      "error": "fetch failed",
+      "parsed": 61,
+      "failed": false,
       "optional": false
     },
     {
@@ -835,19 +763,14 @@
   ],
   "domesticFailedSources": [
     {
+      "name": "人民网-科技",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
-    },
-    {
-      "name": "工信部",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
-      "name": "工信部-政策文件",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -855,19 +778,9 @@
       "optional": true
     },
     {
-      "name": "国家网信办",
-      "error": "fetch failed",
-      "optional": false
-    },
-    {
       "name": "国家网信办-政策",
-      "error": "fetch failed",
+      "error": "404 Not Found",
       "optional": true
-    },
-    {
-      "name": "市场监管总局",
-      "error": "fetch failed",
-      "optional": false
     },
     {
       "name": "国务院政策文件",
@@ -906,7 +819,7 @@
   "globalSuccessSources": 16,
   "globalItemsSeen": 875,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 130,
+  "globalItemsAfterRelevantFilter": 131,
   "topics": [
     {
       "topic": "AI动态",
@@ -917,8 +830,8 @@
       ],
       "items": [
         "广州发布AIGC视听产业行动计划",
-        "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限",
-        "黄仁勋痛斥AI毁灭人类言论：无稽之谈"
+        "澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化",
+        "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限"
       ]
     },
     {
@@ -941,6 +854,17 @@
       ],
       "items": [
         "PHP 基金会负责人坦言资金不足：仅 1 名全职员工"
+      ]
+    },
+    {
+      "topic": "科学前沿动态",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "研究发现土壤病毒调控深层土壤微生物碳泵"
       ]
     },
     {
@@ -1033,7 +957,7 @@
       "relatedTitles": [
         "广州发布AIGC视听产业行动计划"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1101,7 +1025,7 @@
       "relatedTitles": [
         "余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1168,6 +1092,142 @@
       "rawText": "10月25日消息，拥有三十年历史的开源编程语言PHP本周曝出两处高危漏洞，全球随即启动防护行动。据估算全球最高约七成网站依托PHP搭建，但负责维护它的非营利PHP基金会经费紧张，仅1名全职员工、14名多为兼职的外包人员，董事会成员均为无薪志愿者，资金靠捐赠与资助。 基金会联合OpenAI、Wiz、Calif等多方协作排查漏洞、开发补丁，本周三已发布修复补丁。Cloudflare监测到数百万次攻击尝试，目前无证据显示黑客在漏洞公开前得手或攻击已打补丁的网站。AI助力发现潜伏十年的漏洞、提升开发效率，但也让代码修改提案量接近一年前两倍，贡献者人数未同步增长，人力负担加重，凸显PHP资金投入严重不足。(AI生成)",
       "relatedTitles": [
         "PHP 基金会负责人坦言资金不足：仅 1 名全职员工"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化",
+      "summary": "现年22岁的澳男足球员克里斯蒂安·沃尔帕托9月与总部位于加州的卡兰多公司达成协议，授权对方独家持有自身数字形象、声音、生物特征及赛场表现数据，由该公司对接品牌用其AI肖像变现分成，同时拦截未授权内容。这类运动员AI肖像授权是新兴行业前沿尝试，此前6月巴西球星内马尔也授权过AI肖像，当前相关监管尚不完善，未经许可滥用运动",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3516692.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3516692.shtml"
+      ],
+      "publishedAt": "2026-10-25",
+      "date": "2026-10-25",
+      "category": "AI",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "现年22岁的澳男足球员克里斯蒂安·沃尔帕托9月与总部位于加州的卡兰多公司达成协议，授权对方独家持有自身数字形象、声音、生物特征及赛场表现数据，由该公司对接品牌用其AI肖像变现分成，同时拦截未授权内容。这类运动员AI肖像授权是新兴行业前沿尝试，此前6月巴西球星内马尔也授权过AI肖像，当前相关监管尚不完善，未经许可滥用运动员AI肖像牟利的情况频发，业内认为该行业或将改写肖像权与体育内容的未来。(AI生成)",
+      "relatedTitles": [
+        "澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "研究发现土壤病毒调控深层土壤微生物碳泵",
+      "summary": "近日，中国科学院生态环境研究中心土壤环境生物学团队联合国内外多家科研机构，在国际期刊Nature Ecology and Evolution发表研究论文，揭示了土壤病毒在深层土壤碳持久性中的关键调控机制。该研究通过原位土壤剖面调查（0-70...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwkwff3515440.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwkwff3515440.shtml"
+      ],
+      "publishedAt": "2026-10-25",
+      "date": "2026-10-25",
+      "category": "科学前沿",
+      "classificationConfidence": 0.97,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "priority": 5,
+      "score": 154,
+      "reporterScore": 162,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “研究发现土壤病毒调控深层土壤微生物碳泵” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "科学前沿动态",
+      "rawText": "近日，中国科学院生态环境研究中心土壤环境生物学团队联合国内外多家科研机构，在国际期刊Nature Ecology and Evolution发表研究论文，揭示了土壤病毒在深层土壤碳持久性中的关键调控机制。该研究通过原位土壤剖面调查（0-70...",
+      "relatedTitles": [
+        "研究发现土壤病毒调控深层土壤微生物碳泵"
       ],
       "isNewSinceLastRun": true
     },
@@ -1237,7 +1297,7 @@
       "relatedTitles": [
         "搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1305,75 +1365,7 @@
       "relatedTitles": [
         "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "黄仁勋痛斥AI毁灭人类言论：无稽之谈",
-      "summary": "10月24日快科技消息，英伟达首席执行官黄仁勋公开发声抨击AI毁灭人类的相关言论，称这类说法是部分人为博头条流量刻意捏造的廉价炒作，完全是无稽之谈，与AI产业实际发展路径不符。他反驳部分所谓专家抛出的“AI10年内毁灭人类、威胁人类概率达10%”的极端观点，指出这类说辞无严谨科学依据与学术数据佐证，只会制造不必要的公众",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwiyzk3639089.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwiyzk3639089.shtml"
-      ],
-      "publishedAt": "2026-10-25",
-      "date": "2026-10-25",
-      "category": "AI",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 155,
-      "reporterScore": 155,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “黄仁勋痛斥AI毁灭人类言论：无稽之谈” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "10月24日快科技消息，英伟达首席执行官黄仁勋公开发声抨击AI毁灭人类的相关言论，称这类说法是部分人为博头条流量刻意捏造的廉价炒作，完全是无稽之谈，与AI产业实际发展路径不符。他反驳部分所谓专家抛出的“AI10年内毁灭人类、威胁人类概率达10%”的极端观点，指出这类说辞无严谨科学依据与学术数据佐证，只会制造不必要的公众恐慌，同时呼吁公众与行业以负责任的乐观态度看待AI迭代，当下正是稳步推进AI技术落地的最佳时机。(AI生成)",
-      "relatedTitles": [
-        "黄仁勋痛斥AI毁灭人类言论：无稽之谈"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -1441,7 +1433,7 @@
       "relatedTitles": [
         "不只是要卖车，消息称奇瑞汽车计划在加拿大建厂"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -1510,73 +1502,6 @@
       "rawText": "量子位MEET2026智能未来大会丨共生无界 智启未来 12月10日，MEET2026智能未来大会在北京举办！ 本届大会以「共生无界，智启未来」为主题，关注以AI为代表的智能科技如何穿透产业、学科与场景的边界，成为驱动社会演进的核心动能。 大会汇聚近三十位行业顶级大咖，共同探讨AI技术革新与产业应用的最新进展与未来趋势。量子位在会上发布了「2025人工智能年度榜单」与「2025年度AI十大趋势报告」。 大会直播回顾 MEET2025 回顾 MEET2024 回顾 MEET2023 回顾 特邀嘉宾 &times; 重磅发布 2025人工智能年度榜单 我们希望为关注前沿科技创新的人提供一个独立的第三方参照系 为在技术与产业一线摸索前行的团队加一份笃定 为仍在押注长期主义的建设者刻下年度坐标 2025年度AI十大趋势报告 报告由量子位智库打造 基于对全球AI技术发展、产业应用和社会影响的深度调研与分析 全面呈现了人工智能领域的最新现状与未来发展趋势 独家观点 张亚勤院士：基础大模型最终不超过10个，十年后机器人比人多 清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 百",
       "relatedTitles": [
         "MEET大会"
-      ]
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLnNj",
-      "title": "3万亿级参数规模，全球最大开源AI大模型上新",
-      "summary": "AI先锋未来人才大赛 飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人 先看真实问题解决力 量子位 5分钟前 AI先锋未来人才大赛 豆包工作 飞书 热门文章 DeepSeek服务器全球宕机！神秘Harness账号同时现身 突发！DeepSeek新模型发布，超级性价比斩杀一切 库克：苹果智能接入阿里千问大",
-      "source": "中国科学报",
-      "sources": [
-        "中国科学报"
-      ],
-      "sourceTier": "research",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/10/573535.shtm",
-      "sourceUrls": [
-        "https://news.sciencenet.cn/htmlnews/2026/10/573535.shtm"
-      ],
-      "publishedAt": "2026-10-57",
-      "date": "2026-10-57",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 158,
-      "reporterScore": 174,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 14,
-        "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 115
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "package",
-      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “3万亿级参数规模，全球最大开源AI大模型上新” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "科学网-3万亿级参数规模，全球最大开源AI大模型上新",
-      "relatedTitles": [
-        "3万亿级参数规模，全球最大开源AI大模型上新"
       ]
     },
     {
@@ -1714,6 +1639,73 @@
       ]
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "周鸿祎谈DeepSeek开源：AI时代，企业要有自己的“主权AI”",
+      "summary": "AI先锋未来人才大赛 飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人 先看真实问题解决力 量子位 5分钟前 AI先锋未来人才大赛 豆包工作 飞书 热门文章 DeepSeek服务器全球宕机！神秘Harness账号同时现身 突发！DeepSeek新模型发布，超级性价比斩杀一切 库克：苹果智能接入阿里千问大",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwffen4974378.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwffen4974378.shtml"
+      ],
+      "publishedAt": "2026-10-23",
+      "date": "2026-10-23",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 156,
+      "reporterScore": 172,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 115
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “周鸿祎谈DeepSeek开源：AI时代，企业要有自己的“主权AI”” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "新浪科技讯 10月23日下午消息，近日，DeepSeek宣布将内部使用的AI推理框架DeepInfer全面开源，成为开源社区的又一标志性动作。360集团创始人周鸿祎对此表示，这背后“是一种技术自信，更是一种开源普惠的理念”；往深一层看，...",
+      "relatedTitles": [
+        "周鸿祎谈DeepSeek开源：AI时代，企业要有自己的“主权AI”"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
       "title": "航行警告！南海部分海域有火箭发射，禁止驶入",
       "summary": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 航行警告！南海部分海域有火箭发射，禁止驶入 分享到： 据中国海事局网站消息，清澜海事局发布航行警告，10月25日至10月26日，每日9时至11时，南海部分海域进行火箭发射，禁止驶入。 ​​​ 航行警告全文如下： 琼航警210/26，南海",
@@ -1729,7 +1721,7 @@
       "publishedAt": "",
       "date": "",
       "category": "太空与低空",
-      "classificationConfidence": 0.68,
+      "classificationConfidence": 0.81,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1775,7 +1767,7 @@
       "angle": "Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “航行警告！南海部分海域有火箭发射，禁止驶入” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "太空与低空动态",
-      "rawText": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 航行警告！南海部分海域有火箭发射，禁止驶入 分享到： 据中国海事局网站消息，清澜海事局发布航行警告，10月25日至10月26日，每日9时至11时，南海部分海域进行火箭发射，禁止驶入。 ​​​ 航行警告全文如下： 琼航警210/26，南海，自10月25日至10月26日，每日0900时至1100时，在以19-36.00N /110-55.80E为中心，5.4海里为半径的圆形区域内进行火箭发射，禁止驶入。 对话孙杨：1小时56分，我游赢了20年前的自己 菲律宾2架飞机相撞，4名空军飞行员死亡 印度大学宿舍装388台防自杀风扇，承重超10公斤直接落下 NBA球赛现场与人争执，美国务院新闻顾问“24小时内晋升又被解雇” 卡尼反击：加拿大等得起，大不了等你下台 唐登杰当选山西省委书记 福建前首富林秀成被批捕 硬件八字还没一撇，NASA局长紧盯中国，一脚油门踩下去… 马斯克：乌精英阶层变得非常富有，而民众的孩子却死在战壕中 明目张胆！鲁比奥向古巴人公然喊话 王某打包饭菜说“漏了”，李某以为在说自己女性家属的衣着，将其",
+      "rawText": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 航行警告！南海部分海域有火箭发射，禁止驶入 分享到： 据中国海事局网站消息，清澜海事局发布航行警告，10月25日至10月26日，每日9时至11时，南海部分海域进行火箭发射，禁止驶入。 ​​​ 航行警告全文如下： 琼航警210/26，南海，自10月25日至10月26日，每日0900时至1100时，在以19-36.00N /110-55.80E为中心，5.4海里为半径的圆形区域内进行火箭发射，禁止驶入。 46.3%VS45%！巴西大选决选轮前一天，两人民调死咬 法国41万人上街，巴黎封地铁、关卢浮宫 剑指大选！“勒庞的总理”巴尔代拉连任法国国民联盟主席 星链恢复了，马斯克仍不爽：乌克兰违反规定用它杀人 美国政界听烦了：闭嘴，专心造产品 奥巴马开火：特朗普这两年，混乱、残酷、腐败、无能 对话孙杨：1小时56分，我游赢了20年前的自己 菲律宾2架飞机相撞，4名空军飞行员死亡 印度大学宿舍装388台防自杀风扇，承重超10公斤直接落下 NBA球赛现场与人争执，美国务院新闻顾问“24小时内晋升又被解雇” 卡尼反击：加",
       "relatedTitles": [
         "航行警告！南海部分海域有火箭发射，禁止驶入"
       ]
@@ -2110,7 +2102,7 @@
       "angle": "Link the story to mission capability and commercial sustainability, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “我国成功发射遥感五十号03星” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "商业航天与卫星互联网",
-      "rawText": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 我国成功发射遥感五十号03星 分享到： 据微信公众号“我们的太空”消息，北京时间2026年10月23日18时15分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将遥感五十号03星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于国土普查、农作物估产和防灾减灾等领域。 此次任务是长征系列运载火箭的第672次飞行。 对话孙杨：1小时56分，我游赢了20年前的自己 菲律宾2架飞机相撞，4名空军飞行员死亡 印度大学宿舍装388台防自杀风扇，承重超10公斤直接落下 NBA球赛现场与人争执，美国务院新闻顾问“24小时内晋升又被解雇” 卡尼反击：加拿大等得起，大不了等你下台 唐登杰当选山西省委书记 福建前首富林秀成被批捕 硬件八字还没一撇，NASA局长紧盯中国，一脚油门踩下去… 马斯克：乌精英阶层变得非常富有，而民众的孩子却死在战壕中 明目张胆！鲁比奥向古巴人公然喊话 王某打包饭菜说“漏了”，李某以为在说自己女性家属的衣着，将其打倒 微信紧急更新 郭宁宁任福建省政府党组书记 美特使称“完全”可",
+      "rawText": "首页 风闻 财经 国际 军事 观出行 观金融 产经 科技 城事 滚动 观察员 视频 我国成功发射遥感五十号03星 分享到： 据微信公众号“我们的太空”消息，北京时间2026年10月23日18时15分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将遥感五十号03星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于国土普查、农作物估产和防灾减灾等领域。 此次任务是长征系列运载火箭的第672次飞行。 46.3%VS45%！巴西大选决选轮前一天，两人民调死咬 法国41万人上街，巴黎封地铁、关卢浮宫 剑指大选！“勒庞的总理”巴尔代拉连任法国国民联盟主席 星链恢复了，马斯克仍不爽：乌克兰违反规定用它杀人 美国政界听烦了：闭嘴，专心造产品 奥巴马开火：特朗普这两年，混乱、残酷、腐败、无能 对话孙杨：1小时56分，我游赢了20年前的自己 菲律宾2架飞机相撞，4名空军飞行员死亡 印度大学宿舍装388台防自杀风扇，承重超10公斤直接落下 NBA球赛现场与人争执，美国务院新闻顾问“24小时内晋升又被解雇” 卡尼反击：加拿大等得起，大不了等你下台 唐登杰当选山西省委书记 福建前首富林秀",
       "relatedTitles": [
         "我国成功发射遥感五十号03星"
       ]
@@ -2253,38 +2245,6 @@
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "Sat, 24 Oct 2026 19:00:00 +0000",
-      "date": "2026-10-24",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI graveyard: a running list of projects and startups that didn’t ma” against primary-source evidence.",
-      "priority": 5,
-      "score": 152,
-      "reporterScore": 160,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
       "summary": "Kernel maintainers stop asking who used AI, as long as the code is good",
       "source": "The Register",
@@ -2311,6 +2271,38 @@
         "softNews": false,
         "hardTechWeight": 95,
         "reporterScore": 110
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "date": "2026-10-24",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI graveyard: a running list of projects and startups that didn’t ma” against primary-source evidence.",
+      "priority": 5,
+      "score": 152,
+      "reporterScore": 160,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
@@ -2381,102 +2373,6 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 e",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "publishedAt": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "date": "2026-10-24",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Demo” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-      "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-      "publishedAt": "Sat, 24 Oct 2026 11:00:01 GMT",
-      "date": "2026-10-24",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.58,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Nvidia's role as AI financier faces first big test as neoclouds take mar” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Your AMD GPU Has A One-Click Setting That Can Extend Its Lifespan",
-      "summary": "It's increasingly more important to take care of the hardware in your computer, especially your AMD GPU, because the rising prices make it difficult to replace.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/amd-gpu-one-click-setting-224700444.html",
-      "publishedAt": "2026-10-25",
-      "date": "2026-10-25",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Your AMD GPU Has A One-Click Setting That Can Extend Its Lifespan” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
       "summary": "A Tesla-SpaceX merger may be in the works, but the companies face a long road of negotiations and regulatory reviews.",
       "source": "CNBC Technology",
@@ -2523,6 +2419,38 @@
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI says it will no longer train its AI models on the live internet, ” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 e",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "publishedAt": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "date": "2026-10-24",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Demo” against primary-source evidence.",
       "priority": 5,
       "score": 144,
       "reporterScore": 144,
@@ -2605,6 +2533,70 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+      "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+      "publishedAt": "Sat, 24 Oct 2026 11:00:01 GMT",
+      "date": "2026-10-24",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.58,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Nvidia's role as AI financier faces first big test as neoclouds take mar” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Your AMD GPU Has A One-Click Setting That Can Extend Its Lifespan",
+      "summary": "It's increasingly more important to take care of the hardware in your computer, especially your AMD GPU, because the rising prices make it difficult to replace.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/amd-gpu-one-click-setting-224700444.html",
+      "publishedAt": "2026-10-25",
+      "date": "2026-10-25",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Your AMD GPU Has A One-Click Setting That Can Extend Its Lifespan” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
       "summary": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
       "source": "CNBC Technology",
@@ -2636,8 +2628,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-25｜V3\n生成时间：2026/10/25 08:35:36\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2347｜确认今日 7｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-25] 广州发布AIGC视听产业行动计划\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广州发布AIGC视听产业行动计划” against primary-source evidence.\n\n2. [2026-10-25] 余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产” against primary-source evidence.\n\n3. [2026-10-25] PHP 基金会负责人坦言资金不足：仅 1 名全职员工\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “PHP 基金会负责人坦言资金不足：仅 1 名全职员工” against primary-source evidence.\n\n4. [2026-10-25] 搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwey3234557.shtml\n   报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出” against primary-source evidence.\n\n5. [2026-10-25] BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkrxe0132350.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限” against primary-source evidence.\n\n本次新增线索：\n- 广州发布AIGC视听产业行动计划｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml\n- 余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml\n- PHP 基金会负责人坦言资金不足：仅 1 名全职员工｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml\n- 搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwey3234557.shtml\n- BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkrxe0132350.shtml\n- The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n2. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches｜The Register｜https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\n3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\n4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n5. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.｜TechCrunch｜https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-25｜V3\n生成时间：2026/10/25 08:35:36\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2347｜确认今日 7｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-25] 广州发布AIGC视听产业行动计划\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广州发布AIGC视听产业行动计划” against primary-source evidence.\n\n2. [2026-10-25] 余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产” against primary-source evidence.\n\n3. [2026-10-25] PHP 基金会负责人坦言资金不足：仅 1 名全职员工\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “PHP 基金会负责人坦言资金不足：仅 1 名全职员工” against primary-source evidence.\n\n4. [2026-10-25] 搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwey3234557.shtml\n   报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出” against primary-source evidence.\n\n5. [2026-10-25] BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkrxe0132350.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限” against primary-source evidence.\n\n本次新增线索：\n- 广州发布AIGC视听产业行动计划｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml\n- 余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml\n- PHP 基金会负责人坦言资金不足：仅 1 名全职员工｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml\n- 搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwey3234557.shtml\n- BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkrxe0132350.shtml\n- The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n2. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches｜The Register｜https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\n3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\n4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n5. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.｜TechCrunch｜https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-25｜生成时间：2026/10/25 08:35:36｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2347｜确认今日 7｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 7 条｜国际 4 条<br>延续跟踪线索：国内 0 条｜国际 8 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-25] 广州发布AIGC视听产业行动计划</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广州发布AIGC视听产业行动计划” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-25] 余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：190｜需核验来源</span>\n      <p>报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-25] PHP 基金会负责人坦言资金不足：仅 1 名全职员工</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “PHP 基金会负责人坦言资金不足：仅 1 名全职员工” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-25] 搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwey3234557.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：161｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-25] BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkrxe0132350.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：155｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The AI graveyard: a running list of projects and startups that didn’t make it</strong>\n      <span>时间：Sat, 24 Oct 2026 19:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI graveyard: a running list of projects and startups that didn’t ma” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches</strong>\n      <span>时间：Fri, 23 Oct 2026 11:31:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Torvalds: AI is fine for competent devs, but spare us the 'drive-by' pat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</strong>\n      <span>时间：Fri, 23 Oct 2026 21:59:19 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robo” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</strong>\n      <span>时间：Fri, 23 Oct 2026 17:18:31 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Intel gets waiver after worries fuzzy US ban on foreign-made robots may ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</strong>\n      <span>时间：Sat, 24 Oct 2026 15:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Demo” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/25 08:35:36\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 4 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-25] 广州发布AIGC视听产业行动计划\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广州发布AIGC视听产业行动计划” against primary-source evidence.\n\n2. [2026-10-25] 余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml\n   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产” against primary-source evidence.\n\n3. [2026-10-25] PHP 基金会负责人坦言资金不足：仅 1 名全职员工\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “PHP 基金会负责人坦言资金不足：仅 1 名全职员工” against primary-source evidence.\n\n4. [2026-10-25] 搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwey3234557.shtml\n   角度：Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出” against primary-source evidence.\n\n5. [2026-10-25] BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkrxe0132350.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限” against primary-source evidence.\n\n本次新增线索：\n- 广州发布AIGC视听产业行动计划｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml\n- 余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml\n- PHP 基金会负责人坦言资金不足：仅 1 名全职员工｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml\n- 搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwey3234557.shtml\n- BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkrxe0132350.shtml\n- The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：\n\n国际科技背景：\n1. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n2. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches｜The Register｜https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\n3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\n4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n5. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.｜TechCrunch｜https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-25｜V3\n生成时间：2026/10/25 09:02:10\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2385｜确认今日 8｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 6 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-25] 广州发布AIGC视听产业行动计划\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广州发布AIGC视听产业行动计划” against primary-source evidence.\n\n2. [2026-10-25] 余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产” against primary-source evidence.\n\n3. [2026-10-25] PHP 基金会负责人坦言资金不足：仅 1 名全职员工\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “PHP 基金会负责人坦言资金不足：仅 1 名全职员工” against primary-source evidence.\n\n4. [2026-10-25] 澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3516692.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化” against primary-source evidence.\n\n5. [2026-10-25] 研究发现土壤病毒调控深层土壤微生物碳泵\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwkwff3515440.shtml\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “研究发现土壤病毒调控深层土壤微生物碳泵” against primary-source evidence.\n\n本次新增线索：\n- 澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3516692.shtml\n- 研究发现土壤病毒调控深层土壤微生物碳泵｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwkwff3515440.shtml\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches｜The Register｜https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\n2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\n4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n5. With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage｜CNBC Technology｜https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-25｜V3\n生成时间：2026/10/25 09:02:10\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2385｜确认今日 8｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 6 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-25] 广州发布AIGC视听产业行动计划\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广州发布AIGC视听产业行动计划” against primary-source evidence.\n\n2. [2026-10-25] 余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml\n   报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产” against primary-source evidence.\n\n3. [2026-10-25] PHP 基金会负责人坦言资金不足：仅 1 名全职员工\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml\n   报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “PHP 基金会负责人坦言资金不足：仅 1 名全职员工” against primary-source evidence.\n\n4. [2026-10-25] 澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3516692.shtml\n   报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化” against primary-source evidence.\n\n5. [2026-10-25] 研究发现土壤病毒调控深层土壤微生物碳泵\n   新浪科技｜2026-10-25｜https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwkwff3515440.shtml\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “研究发现土壤病毒调控深层土壤微生物碳泵” against primary-source evidence.\n\n本次新增线索：\n- 澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3516692.shtml\n- 研究发现土壤病毒调控深层土壤微生物碳泵｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwkwff3515440.shtml\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches｜The Register｜https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\n2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\n4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n5. With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage｜CNBC Technology｜https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-25｜生成时间：2026/10/25 09:02:10｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2385｜确认今日 8｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 2 条｜国际 0 条<br>延续跟踪线索：国内 6 条｜国际 12 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-25] 广州发布AIGC视听产业行动计划</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广州发布AIGC视听产业行动计划” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-25] 余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：190｜需核验来源</span>\n      <p>报道角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-25] PHP 基金会负责人坦言资金不足：仅 1 名全职员工</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：188｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “PHP 基金会负责人坦言资金不足：仅 1 名全职员工” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-25] 澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3516692.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：171｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-25] 研究发现土壤病毒调控深层土壤微生物碳泵</strong>\n      <span>新浪科技｜2026-10-25｜<a href=\"https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwkwff3515440.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：162｜需核验来源</span>\n      <p>报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “研究发现土壤病毒调控深层土壤微生物碳泵” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches</strong>\n      <span>时间：Fri, 23 Oct 2026 11:31:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Torvalds: AI is fine for competent devs, but spare us the 'drive-by' pat” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. The AI graveyard: a running list of projects and startups that didn’t make it</strong>\n      <span>时间：Sat, 24 Oct 2026 19:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI graveyard: a running list of projects and startups that didn’t ma” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</strong>\n      <span>时间：Fri, 23 Oct 2026 21:59:19 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robo” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</strong>\n      <span>时间：Fri, 23 Oct 2026 17:18:31 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Intel gets waiver after worries fuzzy US ban on foreign-made robots may ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage</strong>\n      <span>时间：Fri, 23 Oct 2026 11:00:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Link the story to commercial space, low-altitude economy and satellite infrastructure, then verify payload, mission economics, regulation, safety and practical service scenarios. For this item, test the claim behind “With earnings in rearview mirror, SpaceX-Tesla merger chatter takes cent” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/25 09:02:10\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 2 条｜国际 0 条\n延续跟踪线索：国内 6 条｜国际 12 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-25] 广州发布AIGC视听产业行动计划\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzn0418823.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “广州发布AIGC视听产业行动计划” against primary-source evidence.\n\n2. [2026-10-25] 余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwiyzr3947874.shtml\n   角度：Use manufacturing capability and bottlenecks as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产” against primary-source evidence.\n\n3. [2026-10-25] PHP 基金会负责人坦言资金不足：仅 1 名全职员工\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3495539.shtml\n   角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “PHP 基金会负责人坦言资金不足：仅 1 名全职员工” against primary-source evidence.\n\n4. [2026-10-25] 澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3516692.shtml\n   角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化” against primary-source evidence.\n\n5. [2026-10-25] 研究发现土壤病毒调控深层土壤微生物碳泵\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwkwff3515440.shtml\n   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “研究发现土壤病毒调控深层土壤微生物碳泵” against primary-source evidence.\n\n本次新增线索：\n- 澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwkwff3516692.shtml\n- 研究发现土壤病毒调控深层土壤微生物碳泵｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-25/doc-iniwkwff3515440.shtml\n\n今日热点方向：\n- AI 应用：AI动态（3 条，1 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：\n- 新能源车/智能驾驶：新能源车动态（1 条，1 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches｜The Register｜https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\n2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n3. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/\n4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n5. With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage｜CNBC Technology｜https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
