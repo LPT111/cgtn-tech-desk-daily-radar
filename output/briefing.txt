@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/25 19:39:20
+生成时间：2026/10/26 08:45:57
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 5 条｜国际 0 条
-延续跟踪线索：国内 26 条｜国际 12 条
+新增核心线索：国内 27 条｜国际 2 条
+延续跟踪线索：国内 0 条｜国际 4 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [07:57] 野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧
-   来源：IT之家
-   链接：https://www.ithome.com/1/017/622.htm
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧” against primary-source evidence.
-
-2. [2026-10-25] 韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增
+1. [2026-10-26] AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布
    来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml
-   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcz9310820.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布” against primary-source evidence.
 
-3. [2026-10-25] whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月
+2. [2026-10-26] Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkq3027483.shtml
-   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “whatmodel.sh：2026年10月中美AI大模型性能差距缩短至1个月” against primary-source evidence.
+   链接：https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9285666.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据” against primary-source evidence.
 
-4. [2026-10-25] 韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元” against primary-source evidence.
+3. [2026-10-26] AI早报 | 智元110台人形机器人同时跳舞，创吉尼
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LA5DD8BQ0534A4SC.html
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “AI早报 | 智元110台人形机器人同时跳舞，创吉尼” against primary-source evidence.
 
-5. [2026-10-25] 寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%
+4. [2026-10-26] 用AI写论文的博士生留在学术界可能性低
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmtkv3144406.shtml
-   角度：Explain which chip bottleneck this addresses and assess AI-compute demand and domestic alternatives, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “寒武纪：2026年Q3归母净利润14.04亿元，同比增长147.74%” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwnzcz9284394.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “用AI写论文的博士生留在学术界可能性低” against primary-source evidence.
+
+5. [2026-10-26] DeepSeek、MiniMax完成大模型出海登记；亚马逊A
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LA5C8ND30512B07B.html
+   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek、MiniMax完成大模型出海登记；亚马逊A” against primary-source evidence.
 
 本次新增线索：
-- 阿里千问蒋冠军谈个人 AI 智能体技术框架：需要模型、记忆与生态协同推进｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwmtkv3162797.shtml
-- V观财报｜存储芯片“牛股”发业绩，第三季度净利同比增超2900%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmxsp9711341.shtml
-- 比亚迪携手东润杯 助力校园足球少年圆梦工体｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-25/doc-iniwmxsr6256688.shtml
-- 上纬新材旗下启元机器人第5000台个人机器人下线｜网易科技｜https://www.163.com/dy/article/LA40T75U0534A4SC.html
-- 网络安全研究员称三星电视利用 AI 录制音频、截屏投放广告｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-25/doc-iniwmtkt6385586.shtml
+- AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcz9310820.shtml
+- Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据｜新浪科技｜https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9285666.shtml
+- AI早报 | 智元110台人形机器人同时跳舞，创吉尼｜网易科技｜https://www.163.com/dy/article/LA5DD8BQ0534A4SC.html
+- 用AI写论文的博士生留在学术界可能性低｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwnzcz9284394.shtml
+- DeepSeek、MiniMax完成大模型出海登记；亚马逊A｜网易科技｜https://www.163.com/dy/article/LA5C8ND30512B07B.html
+- AI delivers ‘zero financial payoff’ to most companies, Apollo economist says｜TechCrunch｜https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（4 条，1 个来源）
-- 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（4 条，2 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- AI 应用：AI动态（7 条，4 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）
+- 太空与低空经济：
+- 科学前沿：科学前沿动态（3 条，1 个来源）
 
 国际科技背景：
 1. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
-2. Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell｜TechCrunch｜https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/
-3. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/
-4. With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage｜CNBC Technology｜https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html
-5. OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”｜TechCrunch｜https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
+2. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/
+3. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says｜TechCrunch｜https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
+4. SpaceX closes $40 billion debt deal for AI chips, Elon Musk says｜CNBC Technology｜https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html
+5. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.｜TechCrunch｜https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
