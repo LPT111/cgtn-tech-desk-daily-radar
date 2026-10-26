@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-26T01:05:32.065Z",
+  "generatedAt": "2026-10-26T01:19:37.618Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-26",
   "changeSummary": {
-    "domesticNew": 5,
+    "domesticNew": 6,
     "globalNew": 0,
-    "domesticContinued": 23,
+    "domesticContinued": 26,
     "globalContinued": 6,
     "topNewDomestic": [
       {
-        "title": "钱七虎：书信里，一场跨越岁月的初心传递",
+        "title": "高盛表示日元正成为应对AI市场冲击更有效的对冲工具",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/discovery/2026-10-26/doc-iniwpfmx9235210.shtml"
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpfmx9252529.shtml"
       },
       {
-        "title": "Kimi致歉，公布补偿方案",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmz5648173.shtml"
+        "title": "佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/LA5GR38G0534A4SC.html"
       },
       {
-        "title": "走完8年三电质保周期！我国上百万老电车集中脱保：换电池比车贵、二手车没人敢收等",
+        "title": "英特尔押注3D芯片 高层直言先进晶圆难增十倍",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmz5644451.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmx9249515.shtml"
       },
       {
-        "title": "消息称蔚来大圆柱电池将由亿纬锂能与国轩高科代工生产",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwpfmx9221332.shtml"
-      },
-      {
-        "title": "2026 央视《鸿蒙星光盛典》定档 12 月 5 日，见证华为鸿蒙应用体验进入成熟好用阶段",
+        "title": "网友成功将一加 Ace 5 刷入真 · 纯血鸿蒙 6 系统：机型显示华为 Mate 80 Pro，实现 GPU 完美修复",
         "source": "IT之家",
-        "url": "https://www.ithome.com/1/017/745.htm"
+        "url": "https://www.ithome.com/1/017/753.htm"
+      },
+      {
+        "title": "深读“十五五”专项规划｜《国家信息化“十五五”规划》印发 到2030年新一代通信网全面建成",
+        "source": "新浪科技",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmw2479122.shtml"
       }
     ],
     "topNewGlobal": [],
@@ -41,7 +41,7 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 872,
+    "domesticRejected": 868,
     "globalRejected": 869,
     "targets": {
       "classificationValidationRate": ">90%",
@@ -56,8 +56,18 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 29,
   "failedSources": [
+    {
+      "name": "快科技-硬件",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
+      "name": "快科技-科学",
+      "error": "This operation was aborted",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -80,6 +90,16 @@
     }
   ],
   "failures": [
+    {
+      "name": "快科技-硬件",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
+      "name": "快科技-科学",
+      "error": "This operation was aborted",
+      "optional": false
+    },
     {
       "name": "央视网-科技",
       "error": "fetch failed",
@@ -105,7 +125,7 @@
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 169,
+      "parsed": 172,
       "failed": false,
       "optional": false
     },
@@ -127,14 +147,16 @@
       "name": "快科技-硬件",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
       "name": "快科技-科学",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -352,18 +374,18 @@
       "optional": false
     }
   ],
-  "itemsSeen": 1546,
+  "itemsSeen": 1549,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 239,
+  "itemsAfterRelevantFilter": 240,
   "itemsAfterDedupe": 176,
-  "todayItemsSeen": 28,
+  "todayItemsSeen": 32,
   "suspectedItemsSeen": 10,
-  "skippedNonToday": 137,
+  "skippedNonToday": 133,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
       "tier": "mainstream",
-      "parsed": 169,
+      "parsed": 172,
       "failed": false,
       "optional": false
     },
@@ -385,14 +407,16 @@
       "name": "快科技-硬件",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
       "name": "快科技-科学",
       "tier": "industry",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "This operation was aborted",
       "optional": false
     },
     {
@@ -766,6 +790,16 @@
   ],
   "domesticFailedSources": [
     {
+      "name": "快科技-硬件",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
+      "name": "快科技-科学",
+      "error": "This operation was aborted",
+      "optional": false
+    },
+    {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
@@ -821,25 +855,25 @@
   "topics": [
     {
       "topic": "AI动态",
-      "count": 6,
+      "count": 9,
       "sourceCount": 4,
       "sources": [
+        "新浪科技",
         "网易科技",
         "IT之家",
-        "新浪科技",
         "科技日报"
       ],
       "items": [
+        "高盛表示日元正成为应对AI市场冲击更有效的对冲工具",
+        "佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心",
         "K3.1 Pro发布才两天，Kimi道歉补额度！",
         "中信证券：通用模型进入具身任务领域将成为AI行业的下一个投入方向",
-        "Epic CEO 斯维尼再批 Steam AI 公示政策，称会导致极端群体攻击开发者",
-        "Kimi致歉，公布补偿方案",
-        "创新谈丨AI时代稳就业要做好两个“加法”"
+        "Epic CEO 斯维尼再批 Steam AI 公示政策，称会导致极端群体攻击开发者"
       ]
     },
     {
       "topic": "新能源车动态",
-      "count": 5,
+      "count": 4,
       "sourceCount": 3,
       "sources": [
         "网易科技",
@@ -849,7 +883,6 @@
       "items": [
         "首个汽车行业AI基座发布；蔚来全国已建成9704座",
         "消息称蔚来大圆柱电池将由亿纬锂能与国轩高科代工生产",
-        "3000元和6000元电动车 贵出来的钱到底花在哪？",
         "汽车早报｜小鹏副总裁回应“老登”用词 丰田在美召回6.8万辆雷克萨斯",
         "比亚迪在韩销量激增，现代起亚本土市场承压"
       ]
@@ -871,28 +904,41 @@
       ]
     },
     {
-      "topic": "科学前沿动态",
+      "topic": "国产 GPU / 算力基础设施",
       "count": 3,
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": [
-        "新浪科技"
+        "新浪科技",
+        "IT之家"
       ],
       "items": [
-        "年轻不设限科学向未来｜2026何享健青年科学家揭晓仪式成功举办",
-        "钱七虎：书信里，一场跨越岁月的初心传递",
-        "这只恐龙只吃水果“沙拉”"
+        "马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU",
+        "网友成功将一加 Ace 5 刷入真 · 纯血鸿蒙 6 系统：机型显示华为 Mate 80 Pro，实现 GPU 完美修复",
+        "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约1.35万"
       ]
     },
     {
-      "topic": "国产 GPU / 算力基础设施",
+      "topic": "半导体供应链",
       "count": 2,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约1.35万",
-        "马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU"
+        "英特尔押注3D芯片 高层直言先进晶圆难增十倍",
+        "英特尔高管：采用High NA EUV光刻机是正确选择 追赶台积电是规模问题"
+      ]
+    },
+    {
+      "topic": "科学前沿动态",
+      "count": 2,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "年轻不设限科学向未来｜2026何享健青年科学家揭晓仪式成功举办",
+        "钱七虎：书信里，一场跨越岁月的初心传递"
       ]
     },
     {
@@ -919,25 +965,14 @@
       ]
     },
     {
-      "topic": "新能源车与智能驾驶",
+      "topic": "监管与安全动态",
       "count": 1,
       "sourceCount": 1,
       "sources": [
         "新浪科技"
       ],
       "items": [
-        "走完8年三电质保周期！我国上百万老电车集中脱保：换电池比车贵、二手车没人敢收等"
-      ]
-    },
-    {
-      "topic": "半导体供应链",
-      "count": 1,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "英特尔高管：采用High NA EUV光刻机是正确选择 追赶台积电是规模问题"
+        "深读“十五五”专项规划｜《国家信息化“十五五”规划》印发 到2030年新一代通信网全面建成"
       ]
     },
     {
@@ -949,6 +984,17 @@
       ],
       "items": [
         "总编辑圈点丨由藻类和光驱动的机械臂制成"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
+      "count": 1,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "走完8年三电质保周期！我国上百万老电车集中脱保：换电池比车贵、二手车没人敢收等"
       ]
     },
     {
@@ -1034,6 +1080,142 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "高盛表示日元正成为应对AI市场冲击更有效的对冲工具",
+      "summary": "高盛表示，在应对人工智能（AI）驱动的市场冲击方面，日元正成为更有效的对冲工具，原因是日本政策背景的变化降低了全球收益率上升时日元急剧贬值的风险。 “尽管全球背景仍表明日元可能进一步走弱，但与近年来相比，日元目前对顺周期投资组合而言...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpfmx9252529.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpfmx9252529.shtml"
+      ],
+      "publishedAt": "2026-10-26",
+      "date": "2026-10-26",
+      "category": "AI",
+      "classificationConfidence": 0.94,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 184,
+      "reporterScore": 200,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 130
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高盛表示日元正成为应对AI市场冲击更有效的对冲工具” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "高盛表示，在应对人工智能（AI）驱动的市场冲击方面，日元正成为更有效的对冲工具，原因是日本政策背景的变化降低了全球收益率上升时日元急剧贬值的风险。 “尽管全球背景仍表明日元可能进一步走弱，但与近年来相比，日元目前对顺周期投资组合而言...",
+      "relatedTitles": [
+        "高盛表示日元正成为应对AI市场冲击更有效的对冲工具"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心",
+      "summary": "佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心,佳贤通信,深圳市政府,智能机器人,ai-ran技术,世界人工智能大会",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LA5GR38G0534A4SC.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LA5GR38G0534A4SC.html"
+      ],
+      "publishedAt": "2026-10-26",
+      "date": "2026-10-26",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 184,
+      "reporterScore": 198,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 128
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": true,
+      "format": "package",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心,佳贤通信,深圳市政府,智能机器人,ai-ran技术,世界人工智能大会",
+      "relatedTitles": [
+        "佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据",
       "summary": "人工智能正在从模型能力竞赛，走向产业现场深处。2026年，AI智能体开始进入真实工作流，具身智能加速迈向物理世界，AI基础设施支撑大规模应用落地，AI内容与文化生态也在重塑新的生产方式与消费体验。AI不再只是技术变量，而正在成为产业升级、城市进化和创业创新的核心引擎。 在这一时代节点下，\"2026新一代人工智能（深圳）",
       "source": "新浪科技",
@@ -1099,6 +1281,142 @@
         "Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU",
+      "summary": "美东时间周日，SpaceX CEO马斯克披露，公司依托投资级信用评级及星链、发射业务营收，完成400亿美元可赎回债务融资，资金将用于采购GPU，这批芯片明后年一二季度交付，对本季度影响不大。公司预计四季度资本开支达350亿至400亿美元。马斯克预判无可观非AI数据中心营收的新云厂商将迎来大规模整合倒闭潮，SpaceX不",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcy2521010.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcy2521010.shtml"
+      ],
+      "publishedAt": "2026-10-26",
+      "date": "2026-10-26",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 183,
+      "reporterScore": 197,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 128
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "10月26日消息，马斯克在社交平台X公开称，SpaceX已完成400亿美元（约合2675.68亿元人民币）可赎回债务融资，主要用于采购2027年一二季度交付的GPU算力硬件，该资金对本季度无主要影响。此前路透社本月曾报道其正洽谈该笔融资用于购买英伟达AI芯片。同时披露SpaceX2026财年第三财季总营收145.75亿美元，同比增161%，毛利润90.97亿美元，同比增216.86%，毛利率62.42%，同比提升10.93个百分点，归母净利润44.04亿美元，同比扭亏为盈。(AI生成)",
+      "relatedTitles": [
+        "马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "英特尔押注3D芯片 高层直言先进晶圆难增十倍",
+      "summary": "快科技10月26日消息，英特尔技术长Pushkar Ranade指出，以全球现有半导体制造设备规模来看，先进制程晶圆产量要扩大10倍并不容易，相比之下，提升至约2倍更具现实可能性。英特尔高管在访谈中表示，先进制程的发展瓶颈不只在于芯片设计与...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmx9249515.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmx9249515.shtml"
+      ],
+      "publishedAt": "2026-10-26",
+      "date": "2026-10-26",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 176,
+      "reporterScore": 184,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “英特尔押注3D芯片 高层直言先进晶圆难增十倍” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "快科技10月26日消息，英特尔技术长Pushkar Ranade指出，以全球现有半导体制造设备规模来看，先进制程晶圆产量要扩大10倍并不容易，相比之下，提升至约2倍更具现实可能性。英特尔高管在访谈中表示，先进制程的发展瓶颈不只在于芯片设计与...",
+      "relatedTitles": [
+        "英特尔押注3D芯片 高层直言先进晶圆难增十倍"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1235,6 +1553,74 @@
         "DeepSeek、MiniMax完成大模型出海登记；亚马逊A"
       ],
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "网友成功将一加 Ace 5 刷入真 · 纯血鸿蒙 6 系统：机型显示华为 Mate 80 Pro，实现 GPU 完美修复",
+      "summary": "#一加手机刷上了华为鸿蒙系统#B站网友 @RryanLyu 昨晚发布视频，分享了自己的最新刷机成果 —— 为一加 Ace 5 成功刷入 HarmonyOS 6，并实现 GPU 完美修复。视频显示，刷机后，机型显示为华为 Mate 80 Pro，侧边快捷栏等功能均可正常使用。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/017/753.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/017/753.htm"
+      ],
+      "publishedAt": "Mon, 26 Oct 2026 01:18:51 GMT",
+      "date": "2026-10-26",
+      "category": "芯片",
+      "classificationConfidence": 0.8,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 159,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “网友成功将一加 Ace 5 刷入真 · 纯血鸿蒙 6 系统：机型显示华为 Mate 80 Pro，实现 GPU 完美修复” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "#一加手机刷上了华为鸿蒙系统#B站网友 @RryanLyu 昨晚发布视频，分享了自己的最新刷机成果 —— 为一加 Ace 5 成功刷入 HarmonyOS 6，并实现 GPU 完美修复。视频显示，刷机后，机型显示为华为 Mate 80 Pro，侧边快捷栏等功能均可正常使用。",
+      "relatedTitles": [
+        "网友成功将一加 Ace 5 刷入真 · 纯血鸿蒙 6 系统：机型显示华为 Mate 80 Pro，实现 GPU 完美修复"
+      ],
+      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1374,88 +1760,20 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约1.35万",
-      "summary": "10月26日快科技消息，英伟达计划拓展软件业务，在AI芯片硬件销售外，通过售卖企业级软件许可获取稳定经常性收入，优化营收结构。黄仁勋在柏林GTC活动上提及，面向AI代理的配套软件拟按GPU数量计费，参考定价为每块GPU每年约2000美元，约合1.35万元人民币，该价格仅为设想示例，并非正式执行的统一收费标准。按此测算，",
+      "title": "深读“十五五”专项规划｜《国家信息化“十五五”规划》印发 到2030年新一代通信网全面建成",
+      "summary": "近日，中央网络安全和信息化委员会印发《国家信息化“十五五”规划》（简称《规划》），提出到2030年，我国信息化取得重大进展，在推进中国式现代化中的作用更加凸显。信息基础设施巩固拓展领先优势，陆海空天立体化网络体系基本形成，新一代通信网全...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/stock/t/2026-10-26/doc-iniwnzec5753811.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmw2479122.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/stock/t/2026-10-26/doc-iniwnzec5753811.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmw2479122.shtml"
       ],
       "publishedAt": "2026-10-26",
       "date": "2026-10-26",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 165,
-      "reporterScore": 173,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约1.35万” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "（来源：快科技）快科技10月26日消息，英伟达正计划进一步扩大软件业务版图，目标是在现有人工智能芯片硬件销售之外，通过售卖企业级软件许可获得更加稳定的经常性收入流，优化整体营收结构。英伟达首席执行官黄仁勋近日在德国柏林举行的GTC活动上谈及...",
-      "relatedTitles": [
-        "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约1.35万"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "钱七虎：书信里，一场跨越岁月的初心传递",
-      "summary": "科学家简介钱七虎（1937年10月26日—），中共党员，中国工程院院士，防护工程专家。钱七虎，国家最高科学技术奖获得者，长期从事防护工程及地下工程的教学与科研工作。70多年里，他创建了中国防护工程学科，建成了国家重点学科、重点实验室和创新研...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-10-26/doc-iniwpfmx9235210.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/discovery/2026-10-26/doc-iniwpfmx9235210.shtml"
-      ],
-      "publishedAt": "2026-10-26",
-      "date": "2026-10-26",
-      "category": "科学前沿",
+      "category": "监管与安全",
       "classificationConfidence": 0.71,
       "classificationEvidence": [
         "title",
@@ -1464,19 +1782,19 @@
         "source"
       ],
       "hardTechPriority": 85,
-      "keywords": "frontier science, research infrastructure and scientific discovery",
+      "keywords": "technology policy, AI governance, safety and standards",
       "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
+      "score": 155,
+      "reporterScore": 163,
       "scoreBreakdown": {
         "hardTech": 85,
         "today": 18,
         "sourceAuthority": 12,
-        "multiSource": 22,
+        "multiSource": 12,
         "cgtFocus": 0,
         "visual": 0,
         "international": 0,
-        "policy": 0,
+        "policy": 12,
         "sourceWeight": 8,
         "primarySource": 0,
         "interviewValue": 8,
@@ -1498,13 +1816,13 @@
       "hasInterviewValue": true,
       "hasVisualValue": false,
       "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Turn the research into a human-readable science story about research infrastructure and long-term innovation capacity, avoiding claims beyond the published evidence. For this item, test the claim behind “钱七虎：书信里，一场跨越岁月的初心传递” against primary-source evidence.",
+      "format": "live",
+      "angle": "Use technology policy, AI governance, safety and standards to compare Chinese and international governance choices and identify points of cooperation or friction. For this item, test the claim behind “深读“十五五”专项规划｜《国家信息化“十五五”规划》印发 到2030年新一代通信网全面建成” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "科学前沿动态",
-      "rawText": "科学家简介钱七虎（1937年10月26日—），中共党员，中国工程院院士，防护工程专家。钱七虎，国家最高科学技术奖获得者，长期从事防护工程及地下工程的教学与科研工作。70多年里，他创建了中国防护工程学科，建成了国家重点学科、重点实验室和创新研...",
+      "matchedTopic": "监管与安全动态",
+      "rawText": "近日，中央网络安全和信息化委员会印发《国家信息化“十五五”规划》（简称《规划》），提出到2030年，我国信息化取得重大进展，在推进中国式现代化中的作用更加凸显。信息基础设施巩固拓展领先优势，陆海空天立体化网络体系基本形成，新一代通信网全...",
       "relatedTitles": [
-        "钱七虎：书信里，一场跨越岁月的初心传递"
+        "深读“十五五”专项规划｜《国家信息化“十五五”规划》印发 到2030年新一代通信网全面建成"
       ],
       "isNewSinceLastRun": true
     },
@@ -1781,6 +2099,74 @@
       "isNewSinceLastRun": false
     },
     {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约1.35万",
+      "summary": "（来源：快科技）快科技10月26日消息，英伟达正计划进一步扩大软件业务版图，目标是在现有人工智能芯片硬件销售之外，通过售卖企业级软件许可获得更加稳定的经常性收入流，优化整体营收结构。英伟达首席执行官黄仁勋近日在德国柏林举行的GTC活动上谈及...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/stock/t/2026-10-26/doc-iniwnzec5753811.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/stock/t/2026-10-26/doc-iniwnzec5753811.shtml"
+      ],
+      "publishedAt": "2026-10-26",
+      "date": "2026-10-26",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 167,
+      "reporterScore": 167,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "graphic",
+      "angle": "Report beyond the announcement: verify yield, scale, customers and how AI-compute demand and domestic alternatives affects industrial resilience. For this item, test the claim behind “英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约1.35万” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "（来源：快科技）快科技10月26日消息，英伟达正计划进一步扩大软件业务版图，目标是在现有人工智能芯片硬件销售之外，通过售卖企业级软件许可获得更加稳定的经常性收入流，优化整体营收结构。英伟达首席执行官黄仁勋近日在德国柏林举行的GTC活动上谈及...",
+      "relatedTitles": [
+        "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约1.35万"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuMTYz",
       "title": "中信建投：物理AI与网安有望成为产业新标杆",
       "summary": "中信建投：物理AI与网安有望成为产业新标杆,网安,中信建投,国产芯片,物理ai",
@@ -1918,21 +2304,21 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "Kimi致歉，公布补偿方案",
-      "summary": "10月26日凌晨，Kimi智能助手发文致歉，针对近期Kimi会员使用K3.1 Pro时遭遇的限流及不必要额度消耗问题作出说明。当日平台将为所有档位的有效期内订阅会员统一重置用量：所有符合条件的会员均可获得月度总额25%的补偿，相当于一周的用量；若会员当前用量不足月度总额的25%，则直接将用量重置为0，用量进度条将在当日",
+      "title": "Kimi致歉并宣布补偿，发放25%月会员额度",
+      "summary": "新浪科技讯 10月26日上午消息，月之暗面Kimi发文称，对于近期Kimi会员使用K3.1 Pro时出现的限流及不必要的额度消耗，向大家致歉。 Kimi将为所有档位的订阅会员进行一次重置：所有有效期内的会员都将获得月度总额的25%作...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmz5648173.shtml",
+      "url": "https://finance.sina.com.cn/tob/2026-10-26/doc-iniwpfnc2435327.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmz5648173.shtml"
+        "https://finance.sina.com.cn/tob/2026-10-26/doc-iniwpfnc2435327.shtml"
       ],
       "publishedAt": "2026-10-26",
       "date": "2026-10-26",
       "category": "AI",
-      "classificationConfidence": 0.88,
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1975,12 +2361,12 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Kimi致歉，公布补偿方案” against primary-source evidence.",
+      "angle": "Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Kimi致歉并宣布补偿，发放25%月会员额度” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "AI动态",
-      "rawText": "10月26日凌晨，Kimi智能助手发文致歉，针对近期Kimi会员使用K3.1 Pro时遭遇的限流及不必要额度消耗问题作出说明。当日平台将为所有档位的有效期内订阅会员统一重置用量：所有符合条件的会员均可获得月度总额25%的补偿，相当于一周的用量；若会员当前用量不足月度总额的25%，则直接将用量重置为0，用量进度条将在当日结束前显示调整结果。目前平台已完成配置调整，正通过减少不必要的子Agent调用和输出长度，保障同等额度可完成更多实际任务。(AI生成)",
+      "rawText": "新浪科技讯 10月26日上午消息，月之暗面Kimi发文称，对于近期Kimi会员使用K3.1 Pro时出现的限流及不必要的额度消耗，向大家致歉。 Kimi将为所有档位的订阅会员进行一次重置：所有有效期内的会员都将获得月度总额的25%作...",
       "relatedTitles": [
-        "Kimi致歉，公布补偿方案"
+        "Kimi致歉并宣布补偿，发放25%月会员额度"
       ],
       "isNewSinceLastRun": true
     },
@@ -2054,16 +2440,16 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "这只恐龙只吃水果“沙拉”",
-      "summary": "“地狱鸡”啄食果实复原图。大约1.3亿年前，最早的被子植物出现了。它们结出了丰硕的果实，并与恐龙一起生长。但研究人员一直心存疑问：恐龙到底有没有把这些最早的水果当作主食？根据一篇近日发表于《自然-通讯》的论文，科学家发现一种名为“地狱鸡”（...",
+      "title": "钱七虎：书信里，一场跨越岁月的初心传递",
+      "summary": "科学家简介钱七虎（1937年10月26日—），中共党员，中国工程院院士，防护工程专家。钱七虎，国家最高科学技术奖获得者，长期从事防护工程及地下工程的教学与科研工作。70多年里，他创建了中国防护工程学科，建成了国家重点学科、重点实验室和创新研...",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwnzef2515739.shtml",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-10-26/doc-iniwpfmx9235210.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwnzef2515739.shtml"
+        "https://finance.sina.com.cn/tech/discovery/2026-10-26/doc-iniwpfmx9235210.shtml"
       ],
       "publishedAt": "2026-10-26",
       "date": "2026-10-26",
@@ -2111,218 +2497,14 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "package",
-      "angle": "Turn the research into a human-readable science story about frontier science, research infrastructure and scientific discovery, avoiding claims beyond the published evidence. For this item, test the claim behind “这只恐龙只吃水果“沙拉”” against primary-source evidence.",
+      "angle": "Turn the research into a human-readable science story about research infrastructure and long-term innovation capacity, avoiding claims beyond the published evidence. For this item, test the claim behind “钱七虎：书信里，一场跨越岁月的初心传递” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "科学前沿动态",
-      "rawText": "“地狱鸡”啄食果实复原图。大约1.3亿年前，最早的被子植物出现了。它们结出了丰硕的果实，并与恐龙一起生长。但研究人员一直心存疑问：恐龙到底有没有把这些最早的水果当作主食？根据一篇近日发表于《自然-通讯》的论文，科学家发现一种名为“地狱鸡”（...",
+      "rawText": "科学家简介钱七虎（1937年10月26日—），中共党员，中国工程院院士，防护工程专家。钱七虎，国家最高科学技术奖获得者，长期从事防护工程及地下工程的教学与科研工作。70多年里，他创建了中国防护工程学科，建成了国家重点学科、重点实验室和创新研...",
       "relatedTitles": [
-        "这只恐龙只吃水果“沙拉”"
+        "钱七虎：书信里，一场跨越岁月的初心传递"
       ],
       "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU",
-      "summary": "10月26日消息，马斯克在社交平台X公开称，SpaceX已完成400亿美元（约合2675.68亿元人民币）可赎回债务融资，主要用于采购2027年一二季度交付的GPU算力硬件，该资金对本季度无主要影响。此前路透社本月曾报道其正洽谈该笔融资用于购买英伟达AI芯片。同时披露SpaceX2026财年第三财季总营收145.75亿",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcy2521010.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcy2521010.shtml"
-      ],
-      "publishedAt": "2026-10-26",
-      "date": "2026-10-26",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 157,
-      "reporterScore": 157,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 12,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "国产 GPU / 算力基础设施",
-      "rawText": "10月26日消息，马斯克在社交平台X公开称，SpaceX已完成400亿美元（约合2675.68亿元人民币）可赎回债务融资，主要用于采购2027年一二季度交付的GPU算力硬件，该资金对本季度无主要影响。此前路透社本月曾报道其正洽谈该笔融资用于购买英伟达AI芯片。同时披露SpaceX2026财年第三财季总营收145.75亿美元，同比增161%，毛利润90.97亿美元，同比增216.86%，毛利率62.42%，同比提升10.93个百分点，归母净利润44.04亿美元，同比扭亏为盈。(AI生成)",
-      "relatedTitles": [
-        "马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU"
-      ],
-      "isNewSinceLastRun": false
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "走完8年三电质保周期！我国上百万老电车集中脱保：换电池比车贵、二手车没人敢收等",
-      "summary": "据快科技10月26日消息，国内上百万辆2018年前后上牌的首批存量老电动车，2026年起将陆续走完车企承诺的8年三电质保周期，集中进入脱保状态。这批老车普遍陷入换电池比整车贵的困境：换全新动力电池整包报价动辄数万元，高端大容积车型报价可达十万上下，但这批车当前二手残值普遍仅三四万、四五万，部分小众车型残值不足两万。二手",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmz5644451.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmz5644451.shtml"
-      ],
-      "publishedAt": "2026-10-26",
-      "date": "2026-10-26",
-      "category": "新能源车",
-      "classificationConfidence": 0.76,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “走完8年三电质保周期！我国上百万老电车集中脱保：换电池比车贵、二手车没人敢收等” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "据快科技10月26日消息，国内上百万辆2018年前后上牌的首批存量老电动车，2026年起将陆续走完车企承诺的8年三电质保周期，集中进入脱保状态。这批老车普遍陷入换电池比整车贵的困境：换全新动力电池整包报价动辄数万元，高端大容积车型报价可达十万上下，但这批车当前二手残值普遍仅三四万、四五万，部分小众车型残值不足两万。二手车商因无法完全排查电池健康度，多压价甚至拒收，老车成两头烫手山芋。该存量危机也提醒消费者购车需关注质保细则、车企经营稳定性等核心细节。(AI生成)",
-      "relatedTitles": [
-        "走完8年三电质保周期！我国上百万老电车集中脱保：换电池比车贵、二手车没人敢收等"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "消息称蔚来大圆柱电池将由亿纬锂能与国轩高科代工生产",
-      "summary": "IT之家 10 月 26 日消息，据极片 Lab 消息，蔚来自主设计的大圆柱电池，将由亿纬锂能与国轩高科代工生产，年末将有极小批量的电芯下线。知情人士透露，短期内蔚来的大圆柱电池很难批量生产。同时，蔚来也加大了宁德时代的方形电池供应量，在乐...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwpfmx9221332.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwpfmx9221332.shtml"
-      ],
-      "publishedAt": "2026-10-26",
-      "date": "2026-10-26",
-      "category": "新能源车",
-      "classificationConfidence": 0.88,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “消息称蔚来大圆柱电池将由亿纬锂能与国轩高科代工生产” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "IT之家 10 月 26 日消息，据极片 Lab 消息，蔚来自主设计的大圆柱电池，将由亿纬锂能与国轩高科代工生产，年末将有极小批量的电芯下线。知情人士透露，短期内蔚来的大圆柱电池很难批量生产。同时，蔚来也加大了宁德时代的方形电池供应量，在乐...",
-      "relatedTitles": [
-        "消息称蔚来大圆柱电池将由亿纬锂能与国轩高科代工生产"
-      ],
-      "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2457,6 +2639,74 @@
       "rawText": "10月26日快科技消息，英特尔制造开发相关高管克里斯·奥思称，相较台积电，英特尔更适配High NA EUV光刻机：英特尔采用背面供电技术，可直接用该设备光刻电路，自身间距要求更宽松，容错空间更高，而台积电无背面供电，需用EUV双重曝光。英特尔CTO普什卡尔·拉纳德表示，追赶台积电是规模问题而非技术问题。High NA EUV可实现16nm至8nm间距，单次曝光可降成本。目前Intel 14A已是PDK可选方案，正与客户逐一洽谈。(AI生成)",
       "relatedTitles": [
         "英特尔高管：采用High NA EUV光刻机是正确选择 追赶台积电是规模问题"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "Kimi致歉，公布补偿方案",
+      "summary": "10月26日凌晨，Kimi智能助手发文致歉，针对近期Kimi会员使用K3.1 Pro时遭遇的限流及不必要额度消耗问题作出说明。当日平台将为所有档位的有效期内订阅会员统一重置用量：所有符合条件的会员均可获得月度总额25%的补偿，相当于一周的用量；若会员当前用量不足月度总额的25%，则直接将用量重置为0，用量进度条将在当日",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmz5648173.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmz5648173.shtml"
+      ],
+      "publishedAt": "2026-10-26",
+      "date": "2026-10-26",
+      "category": "AI",
+      "classificationConfidence": 0.88,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 155,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Kimi致歉，公布补偿方案” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "10月26日凌晨，Kimi智能助手发文致歉，针对近期Kimi会员使用K3.1 Pro时遭遇的限流及不必要额度消耗问题作出说明。当日平台将为所有档位的有效期内订阅会员统一重置用量：所有符合条件的会员均可获得月度总额25%的补偿，相当于一周的用量；若会员当前用量不足月度总额的25%，则直接将用量重置为0，用量进度条将在当日结束前显示调整结果。目前平台已完成配置调整，正通过减少不必要的子Agent调用和输出长度，保障同等额度可完成更多实际任务。(AI生成)",
+      "relatedTitles": [
+        "Kimi致歉，公布补偿方案"
       ],
       "isNewSinceLastRun": false
     },
@@ -2598,21 +2848,21 @@
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "3000元和6000元电动车 贵出来的钱到底花在哪？",
-      "summary": "不少消费者选购电动车时，常会在3000元与6000元两档间纠结。两档3000元的差价，一部分体现在看得见的硬件上：6000元档车架用料更扎实、配大容量锂电池、搭载更好的液压减震与碟刹，3000元档受成本限制配置偏弱。另一部分藏在看不见的系统细节里，6000元档调校、防水做工、智能化配置更优，但也存在大屏、冗余智能功能、",
+      "title": "走完8年三电质保周期！我国上百万老电车集中脱保：换电池比车贵、二手车没人敢收等",
+      "summary": "据快科技10月26日消息，国内上百万辆2018年前后上牌的首批存量老电动车，2026年起将陆续走完车企承诺的8年三电质保周期，集中进入脱保状态。这批老车普遍陷入换电池比整车贵的困境：换全新动力电池整包报价动辄数万元，高端大容积车型报价可达十万上下，但这批车当前二手残值普遍仅三四万、四五万，部分小众车型残值不足两万。二手",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwnzef2517333.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmz5644451.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwnzef2517333.shtml"
+        "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmz5644451.shtml"
       ],
       "publishedAt": "2026-10-26",
       "date": "2026-10-26",
       "category": "新能源车",
-      "classificationConfidence": 0.99,
+      "classificationConfidence": 0.76,
       "classificationEvidence": [
         "title",
         "summary",
@@ -2655,12 +2905,80 @@
       "hasVisualValue": false,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Move beyond launch coverage by testing battery innovation and infrastructure, cost, reliability and consumer value. For this item, test the claim behind “3000元和6000元电动车 贵出来的钱到底花在哪？” against primary-source evidence.",
+      "angle": "Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “走完8年三电质保周期！我国上百万老电车集中脱保：换电池比车贵、二手车没人敢收等” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "据快科技10月26日消息，国内上百万辆2018年前后上牌的首批存量老电动车，2026年起将陆续走完车企承诺的8年三电质保周期，集中进入脱保状态。这批老车普遍陷入换电池比整车贵的困境：换全新动力电池整包报价动辄数万元，高端大容积车型报价可达十万上下，但这批车当前二手残值普遍仅三四万、四五万，部分小众车型残值不足两万。二手车商因无法完全排查电池健康度，多压价甚至拒收，老车成两头烫手山芋。该存量危机也提醒消费者购车需关注质保细则、车企经营稳定性等核心细节。(AI生成)",
+      "relatedTitles": [
+        "走完8年三电质保周期！我国上百万老电车集中脱保：换电池比车贵、二手车没人敢收等"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "消息称蔚来大圆柱电池将由亿纬锂能与国轩高科代工生产",
+      "summary": "IT之家 10 月 26 日消息，据极片 Lab 消息，蔚来自主设计的大圆柱电池，将由亿纬锂能与国轩高科代工生产，年末将有极小批量的电芯下线。知情人士透露，短期内蔚来的大圆柱电池很难批量生产。同时，蔚来也加大了宁德时代的方形电池供应量，在乐...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwpfmx9221332.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwpfmx9221332.shtml"
+      ],
+      "publishedAt": "2026-10-26",
+      "date": "2026-10-26",
+      "category": "新能源车",
+      "classificationConfidence": 0.88,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 145,
+      "reporterScore": 145,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 100
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Focus on battery innovation and infrastructure, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “消息称蔚来大圆柱电池将由亿纬锂能与国轩高科代工生产” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "新能源车动态",
-      "rawText": "不少消费者选购电动车时，常会在3000元与6000元两档间纠结。两档3000元的差价，一部分体现在看得见的硬件上：6000元档车架用料更扎实、配大容量锂电池、搭载更好的液压减震与碟刹，3000元档受成本限制配置偏弱。另一部分藏在看不见的系统细节里，6000元档调校、防水做工、智能化配置更优，但也存在大屏、冗余智能功能、品牌外观这类非必要溢价。消费者可结合自身骑行距离、路况、对安全品质的需求，判断差价是否值得，按需选购即可。(AI生成)",
+      "rawText": "IT之家 10 月 26 日消息，据极片 Lab 消息，蔚来自主设计的大圆柱电池，将由亿纬锂能与国轩高科代工生产，年末将有极小批量的电芯下线。知情人士透露，短期内蔚来的大圆柱电池很难批量生产。同时，蔚来也加大了宁德时代的方形电池供应量，在乐...",
       "relatedTitles": [
-        "3000元和6000元电动车 贵出来的钱到底花在哪？"
+        "消息称蔚来大圆柱电池将由亿纬锂能与国轩高科代工生产"
       ],
       "isNewSinceLastRun": false
     },
@@ -2866,7 +3184,7 @@
       "relatedTitles": [
         "2026 央视《鸿蒙星光盛典》定档 12 月 5 日，见证华为鸿蒙应用体验进入成熟好用阶段"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -3341,7 +3659,7 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuZ3Vh",
-      "title": "阅读 32070",
+      "title": "阅读 32283",
       "summary": "据微信公众号“中国运载火箭研究院”消息，10月25日10时03分，长征八号甲运载火箭（简称“长八甲火箭”）在",
       "source": "观察者网-产业科技",
       "sources": [
@@ -3398,12 +3716,12 @@
       "hasVisualValue": true,
       "hasInternationalValue": false,
       "format": "video",
-      "angle": "Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “阅读 32070” against primary-source evidence.",
+      "angle": "Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “阅读 32283” against primary-source evidence.",
       "status": "suspected_today",
       "matchedTopic": "商业航天与卫星互联网",
       "rawText": "据微信公众号“中国运载火箭研究院”消息，10月25日10时03分，长征八号甲运载火箭（简称“长八甲火箭”）在",
       "relatedTitles": [
-        "阅读 32070"
+        "阅读 32283"
       ]
     },
     {
@@ -3735,8 +4053,8 @@
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-26｜V3\n生成时间：2026/10/26 09:05:32\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2421｜确认今日 28｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 23 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-26] AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcz9310820.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布” against primary-source evidence.\n\n2. [2026-10-26] Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9285666.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据” against primary-source evidence.\n\n3. [2026-10-26] AI早报 | 智元110台人形机器人同时跳舞，创吉尼\n   网易科技｜2026-10-26｜https://www.163.com/dy/article/LA5DD8BQ0534A4SC.html\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “AI早报 | 智元110台人形机器人同时跳舞，创吉尼” against primary-source evidence.\n\n4. [2026-10-26] DeepSeek、MiniMax完成大模型出海登记；亚马逊A\n   网易科技｜2026-10-26｜https://www.163.com/dy/article/LA5C8ND30512B07B.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek、MiniMax完成大模型出海登记；亚马逊A” against primary-source evidence.\n\n5. [2026-10-26] 年轻不设限科学向未来｜2026何享健青年科学家揭晓仪式成功举办\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwnzcy2559610.shtml\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “年轻不设限科学向未来｜2026何享健青年科学家揭晓仪式成功举办” against primary-source evidence.\n\n本次新增线索：\n- 钱七虎：书信里，一场跨越岁月的初心传递｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-26/doc-iniwpfmx9235210.shtml\n- Kimi致歉，公布补偿方案｜新浪科技｜https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmz5648173.shtml\n- 走完8年三电质保周期！我国上百万老电车集中脱保：换电池比车贵、二手车没人敢收等｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmz5644451.shtml\n- 消息称蔚来大圆柱电池将由亿纬锂能与国轩高科代工生产｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwpfmx9221332.shtml\n- 2026 央视《鸿蒙星光盛典》定档 12 月 5 日，见证华为鸿蒙应用体验进入成熟好用阶段｜IT之家｜https://www.ithome.com/1/017/745.htm\n\n今日热点方向：\n- AI 应用：AI动态（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n2. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n3. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.｜TechCrunch｜https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/\n4. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says｜TechCrunch｜https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\n5. Nvidia's role as AI financier faces first big test as neoclouds take market hit｜CNBC Technology｜https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-26｜V3\n生成时间：2026/10/26 09:05:32\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2421｜确认今日 28｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 23 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-26] AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcz9310820.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布” against primary-source evidence.\n\n2. [2026-10-26] Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9285666.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据” against primary-source evidence.\n\n3. [2026-10-26] AI早报 | 智元110台人形机器人同时跳舞，创吉尼\n   网易科技｜2026-10-26｜https://www.163.com/dy/article/LA5DD8BQ0534A4SC.html\n   报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “AI早报 | 智元110台人形机器人同时跳舞，创吉尼” against primary-source evidence.\n\n4. [2026-10-26] DeepSeek、MiniMax完成大模型出海登记；亚马逊A\n   网易科技｜2026-10-26｜https://www.163.com/dy/article/LA5C8ND30512B07B.html\n   报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek、MiniMax完成大模型出海登记；亚马逊A” against primary-source evidence.\n\n5. [2026-10-26] 年轻不设限科学向未来｜2026何享健青年科学家揭晓仪式成功举办\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwnzcy2559610.shtml\n   报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “年轻不设限科学向未来｜2026何享健青年科学家揭晓仪式成功举办” against primary-source evidence.\n\n本次新增线索：\n- 钱七虎：书信里，一场跨越岁月的初心传递｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-26/doc-iniwpfmx9235210.shtml\n- Kimi致歉，公布补偿方案｜新浪科技｜https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmz5648173.shtml\n- 走完8年三电质保周期！我国上百万老电车集中脱保：换电池比车贵、二手车没人敢收等｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmz5644451.shtml\n- 消息称蔚来大圆柱电池将由亿纬锂能与国轩高科代工生产｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwpfmx9221332.shtml\n- 2026 央视《鸿蒙星光盛典》定档 12 月 5 日，见证华为鸿蒙应用体验进入成熟好用阶段｜IT之家｜https://www.ithome.com/1/017/745.htm\n\n今日热点方向：\n- AI 应用：AI动态（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n2. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n3. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.｜TechCrunch｜https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/\n4. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says｜TechCrunch｜https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\n5. Nvidia's role as AI financier faces first big test as neoclouds take market hit｜CNBC Technology｜https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-26｜生成时间：2026/10/26 09:05:32｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2421｜确认今日 28｜国际背景 6</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 5 条｜国际 0 条<br>延续跟踪线索：国内 23 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-26] AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布</strong>\n      <span>新浪科技｜2026-10-26｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcz9310820.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-26] Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据</strong>\n      <span>新浪科技｜2026-10-26｜<a href=\"https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9285666.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-26] AI早报 | 智元110台人形机器人同时跳舞，创吉尼</strong>\n      <span>网易科技｜2026-10-26｜<a href=\"https://www.163.com/dy/article/LA5DD8BQ0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：193｜需核验来源</span>\n      <p>报道角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “AI早报 | 智元110台人形机器人同时跳舞，创吉尼” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-26] DeepSeek、MiniMax完成大模型出海登记；亚马逊A</strong>\n      <span>网易科技｜2026-10-26｜<a href=\"https://www.163.com/dy/article/LA5C8ND30512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek、MiniMax完成大模型出海登记；亚马逊A” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-26] 年轻不设限科学向未来｜2026何享健青年科学家揭晓仪式成功举办</strong>\n      <span>新浪科技｜2026-10-26｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwnzcy2559610.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “年轻不设限科学向未来｜2026何享健青年科学家揭晓仪式成功举办” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The AI graveyard: a running list of projects and startups that didn’t make it</strong>\n      <span>时间：Sat, 24 Oct 2026 19:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI graveyard: a running list of projects and startups that didn’t ma” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</strong>\n      <span>时间：Fri, 23 Oct 2026 17:18:31 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Intel gets waiver after worries fuzzy US ban on foreign-made robots may ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</strong>\n      <span>时间：Sat, 24 Oct 2026 15:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Demo” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</strong>\n      <span>时间：Sun, 25 Oct 2026 16:57:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI delivers ‘zero financial payoff’ to most companies, Apollo economist ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Nvidia's role as AI financier faces first big test as neoclouds take market hit</strong>\n      <span>时间：Sat, 24 Oct 2026 11:00:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Nvidia's role as AI financier faces first big test as neoclouds take mar” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/26 09:05:32\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 0 条\n延续跟踪线索：国内 23 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-26] AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcz9310820.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布” against primary-source evidence.\n\n2. [2026-10-26] Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9285666.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据” against primary-source evidence.\n\n3. [2026-10-26] AI早报 | 智元110台人形机器人同时跳舞，创吉尼\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LA5DD8BQ0534A4SC.html\n   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “AI早报 | 智元110台人形机器人同时跳舞，创吉尼” against primary-source evidence.\n\n4. [2026-10-26] DeepSeek、MiniMax完成大模型出海登记；亚马逊A\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LA5C8ND30512B07B.html\n   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “DeepSeek、MiniMax完成大模型出海登记；亚马逊A” against primary-source evidence.\n\n5. [2026-10-26] 年轻不设限科学向未来｜2026何享健青年科学家揭晓仪式成功举办\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwnzcy2559610.shtml\n   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “年轻不设限科学向未来｜2026何享健青年科学家揭晓仪式成功举办” against primary-source evidence.\n\n本次新增线索：\n- 钱七虎：书信里，一场跨越岁月的初心传递｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-26/doc-iniwpfmx9235210.shtml\n- Kimi致歉，公布补偿方案｜新浪科技｜https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmz5648173.shtml\n- 走完8年三电质保周期！我国上百万老电车集中脱保：换电池比车贵、二手车没人敢收等｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmz5644451.shtml\n- 消息称蔚来大圆柱电池将由亿纬锂能与国轩高科代工生产｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwpfmx9221332.shtml\n- 2026 央视《鸿蒙星光盛典》定档 12 月 5 日，见证华为鸿蒙应用体验进入成熟好用阶段｜IT之家｜https://www.ithome.com/1/017/745.htm\n\n今日热点方向：\n- AI 应用：AI动态（6 条，4 个来源）\n- 芯片/半导体：半导体供应链（1 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（5 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（3 条，1 个来源）\n\n国际科技背景：\n1. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n2. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n3. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.｜TechCrunch｜https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/\n4. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says｜TechCrunch｜https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\n5. Nvidia's role as AI financier faces first big test as neoclouds take market hit｜CNBC Technology｜https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-26｜V3\n生成时间：2026/10/26 09:19:37\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2424｜确认今日 32｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 26 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-26] AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcz9310820.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布” against primary-source evidence.\n\n2. [2026-10-26] 高盛表示日元正成为应对AI市场冲击更有效的对冲工具\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpfmx9252529.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高盛表示日元正成为应对AI市场冲击更有效的对冲工具” against primary-source evidence.\n\n3. [2026-10-26] 佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心\n   网易科技｜2026-10-26｜https://www.163.com/dy/article/LA5GR38G0534A4SC.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心” against primary-source evidence.\n\n4. [2026-10-26] Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9285666.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据” against primary-source evidence.\n\n5. [2026-10-26] 马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcy2521010.shtml\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU” against primary-source evidence.\n\n本次新增线索：\n- 高盛表示日元正成为应对AI市场冲击更有效的对冲工具｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpfmx9252529.shtml\n- 佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心｜网易科技｜https://www.163.com/dy/article/LA5GR38G0534A4SC.html\n- 英特尔押注3D芯片 高层直言先进晶圆难增十倍｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmx9249515.shtml\n- 网友成功将一加 Ace 5 刷入真 · 纯血鸿蒙 6 系统：机型显示华为 Mate 80 Pro，实现 GPU 完美修复｜IT之家｜https://www.ithome.com/1/017/753.htm\n- 深读“十五五”专项规划｜《国家信息化“十五五”规划》印发 到2030年新一代通信网全面建成｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmw2479122.shtml\n\n今日热点方向：\n- AI 应用：AI动态（9 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n2. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n3. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.｜TechCrunch｜https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/\n4. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says｜TechCrunch｜https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\n5. Nvidia's role as AI financier faces first big test as neoclouds take market hit｜CNBC Technology｜https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-26｜V3\n生成时间：2026/10/26 09:19:37\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2424｜确认今日 32｜国际背景 6\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 26 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-26] AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcz9310820.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布” against primary-source evidence.\n\n2. [2026-10-26] 高盛表示日元正成为应对AI市场冲击更有效的对冲工具\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpfmx9252529.shtml\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高盛表示日元正成为应对AI市场冲击更有效的对冲工具” against primary-source evidence.\n\n3. [2026-10-26] 佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心\n   网易科技｜2026-10-26｜https://www.163.com/dy/article/LA5GR38G0534A4SC.html\n   报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心” against primary-source evidence.\n\n4. [2026-10-26] Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9285666.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据” against primary-source evidence.\n\n5. [2026-10-26] 马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU\n   新浪科技｜2026-10-26｜https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcy2521010.shtml\n   报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU” against primary-source evidence.\n\n本次新增线索：\n- 高盛表示日元正成为应对AI市场冲击更有效的对冲工具｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpfmx9252529.shtml\n- 佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心｜网易科技｜https://www.163.com/dy/article/LA5GR38G0534A4SC.html\n- 英特尔押注3D芯片 高层直言先进晶圆难增十倍｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmx9249515.shtml\n- 网友成功将一加 Ace 5 刷入真 · 纯血鸿蒙 6 系统：机型显示华为 Mate 80 Pro，实现 GPU 完美修复｜IT之家｜https://www.ithome.com/1/017/753.htm\n- 深读“十五五”专项规划｜《国家信息化“十五五”规划》印发 到2030年新一代通信网全面建成｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmw2479122.shtml\n\n今日热点方向：\n- AI 应用：AI动态（9 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n2. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n3. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.｜TechCrunch｜https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/\n4. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says｜TechCrunch｜https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\n5. Nvidia's role as AI financier faces first big test as neoclouds take market hit｜CNBC Technology｜https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-26｜生成时间：2026/10/26 09:19:37｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2424｜确认今日 32｜国际背景 6</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 6 条｜国际 0 条<br>延续跟踪线索：国内 26 条｜国际 6 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-26] AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布</strong>\n      <span>新浪科技｜2026-10-26｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcz9310820.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-26] 高盛表示日元正成为应对AI市场冲击更有效的对冲工具</strong>\n      <span>新浪科技｜2026-10-26｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpfmx9252529.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高盛表示日元正成为应对AI市场冲击更有效的对冲工具” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-26] 佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心</strong>\n      <span>网易科技｜2026-10-26｜<a href=\"https://www.163.com/dy/article/LA5GR38G0534A4SC.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：198｜需核验来源</span>\n      <p>报道角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-26] Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据</strong>\n      <span>新浪科技｜2026-10-26｜<a href=\"https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9285666.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-26] 马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU</strong>\n      <span>新浪科技｜2026-10-26｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcy2521010.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：197｜需核验来源</span>\n      <p>报道角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. The AI graveyard: a running list of projects and startups that didn’t make it</strong>\n      <span>时间：Sat, 24 Oct 2026 19:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “The AI graveyard: a running list of projects and startups that didn’t ma” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</strong>\n      <span>时间：Fri, 23 Oct 2026 17:18:31 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Intel gets waiver after worries fuzzy US ban on foreign-made robots may ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</strong>\n      <span>时间：Sat, 24 Oct 2026 15:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Demo” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</strong>\n      <span>时间：Sun, 25 Oct 2026 16:57:32 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI delivers ‘zero financial payoff’ to most companies, Apollo economist ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Nvidia's role as AI financier faces first big test as neoclouds take market hit</strong>\n      <span>时间：Sat, 24 Oct 2026 11:00:01 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Nvidia's role as AI financier faces first big test as neoclouds take mar” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/26 09:19:37\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 6 条｜国际 0 条\n延续跟踪线索：国内 26 条｜国际 6 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-26] AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcz9310820.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布” against primary-source evidence.\n\n2. [2026-10-26] 高盛表示日元正成为应对AI市场冲击更有效的对冲工具\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpfmx9252529.shtml\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高盛表示日元正成为应对AI市场冲击更有效的对冲工具” against primary-source evidence.\n\n3. [2026-10-26] 佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LA5GR38G0534A4SC.html\n   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心” against primary-source evidence.\n\n4. [2026-10-26] Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9285666.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据” against primary-source evidence.\n\n5. [2026-10-26] 马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwnzcy2521010.shtml\n   角度：Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU” against primary-source evidence.\n\n本次新增线索：\n- 高盛表示日元正成为应对AI市场冲击更有效的对冲工具｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpfmx9252529.shtml\n- 佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心｜网易科技｜https://www.163.com/dy/article/LA5GR38G0534A4SC.html\n- 英特尔押注3D芯片 高层直言先进晶圆难增十倍｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmx9249515.shtml\n- 网友成功将一加 Ace 5 刷入真 · 纯血鸿蒙 6 系统：机型显示华为 Mate 80 Pro，实现 GPU 完美修复｜IT之家｜https://www.ithome.com/1/017/753.htm\n- 深读“十五五”专项规划｜《国家信息化“十五五”规划》印发 到2030年新一代通信网全面建成｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmw2479122.shtml\n\n今日热点方向：\n- AI 应用：AI动态（9 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）\n- 太空与低空经济：\n- 科学前沿：科学前沿动态（2 条，1 个来源）\n\n国际科技背景：\n1. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n2. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/\n3. Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.｜TechCrunch｜https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/\n4. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says｜TechCrunch｜https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\n5. Nvidia's role as AI financier faces first big test as neoclouds take market hit｜CNBC Technology｜https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
