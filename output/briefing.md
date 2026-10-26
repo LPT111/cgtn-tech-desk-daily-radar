@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/26 20:25:19
+生成时间：2026/10/26 21:12:01
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 16 条｜国际 3 条
-延续跟踪线索：国内 65 条｜国际 8 条
+新增核心线索：国内 15 条｜国际 4 条
+延续跟踪线索：国内 67 条｜国际 10 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -18,15 +18,15 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/2026-10-26/doc-iniwqart2131902.shtml
    角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “筑牢可信底座，推动法律AI从“能用”到“敢用” -讯飞晓法超级法律助手发布” against primary-source evidence.
 
-2. [2026-10-26] 激波前兆区瞬态结构的空间天气效应研究获进展
-   来源：中国科学院
-   链接：https://www.cas.cn/syky/202610/t20261026_5122846.shtml
-   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “激波前兆区瞬态结构的空间天气效应研究获进展” against primary-source evidence.
+2. [2026-10-26] Ipsos：调查显示57%美国人认为AI对社会弊大于利
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwqhxr2072428.shtml
+   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Ipsos：调查显示57%美国人认为AI对社会弊大于利” against primary-source evidence.
 
-3. [2026-10-26] 丰田和本田在日本工厂测试人形机器人 加速产线“人机协作”
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LA6M519B05198CJN.html
-   角度：Show whether the robot is moving from demo to deployment, using production scale and real industrial adoption, orders, operating scenarios and safety as evidence. For this item, test the claim behind “丰田和本田在日本工厂测试人形机器人 加速产线“人机协作”” against primary-source evidence.
+3. [13:00] 古尔曼称苹果可能本周连续三天发布新品：周一 OLED iPad mini、周二 M6 芯片 iMac、周三触控屏 MacBook Pro
+   来源：IT之家
+   链接：https://www.ithome.com/1/018/153.htm
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “古尔曼称苹果可能本周连续三天发布新品：周一 OLED iPad mini、周二 M6 芯片 iMac、周三触控屏 MacBook Pro” against primary-source evidence.
 
 4. [2026-10-26] 随着AI行情降温 两支挂钩SK海力士的杠杆基金将在美国退市
    来源：新浪科技
@@ -39,27 +39,27 @@ ChenChen 今日 Briefing｜V3
    角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高盛表示日元正成为应对AI市场冲击更有效的对冲工具” against primary-source evidence.
 
 本次新增线索：
-- 丰田和本田在日本工厂测试人形机器人 加速产线“人机协作”｜网易科技｜https://www.163.com/dy/article/LA6M519B05198CJN.html
-- 智元发布重载具身机器人精灵 G2 Max，双臂额定负载 40kg｜IT之家｜https://www.ithome.com/1/017/951.htm
-- 2026届“国芯展”现场实录：中国芯片走到哪一步了？｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwqhxm9170427.shtml
-- 腾讯混元同声传译大模型Hy-SimulMT发布并开源｜网易科技｜https://www.163.com/dy/article/LA6M0ICN0534A4SC.html
-- 甩出人类几条街！机器狗登泰山竞速赛排位赛开赛：1小时速通中天门｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwqhxk2392905.shtml
-- Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall｜The Register｜https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181
+- Ipsos：调查显示57%美国人认为AI对社会弊大于利｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwqhxr2072428.shtml
+- 古尔曼称苹果可能本周连续三天发布新品：周一 OLED iPad mini、周二 M6 芯片 iMac、周三触控屏 MacBook Pro｜IT之家｜https://www.ithome.com/1/018/153.htm
+- Omdia：2026年Q3全球PC出货量同比下降21%，2027年同比下降7%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwqhxp5294505.shtml
+- Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwqhxk2414291.shtml
+- 芯智融合促创新 硬科技项目集聚宁波奉化—— 第八届全国“创业之芯”大赛奉化人工智能专项赛举办｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwqhxp5281441.shtml
+- Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)｜TechCrunch｜https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/
 
 今日热点方向：
-- AI 应用：AI动态（14 条，5 个来源）
-- 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（9 条，4 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（11 条，3 个来源）
-- 太空与低空经济：太空与低空动态（4 条，2 个来源）
+- AI 应用：AI动态（18 条，5 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（7 条，4 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（10 条，3 个来源）
+- 太空与低空经济：低空经济与无人机（2 条，2 个来源）
 - 科学前沿：科学前沿动态（5 条，2 个来源）
 
 国际科技背景：
-1. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
-2. Researcher claims Samsung TVs listen to you to target ads｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/researcher-claims-samsung-tvs-listen-104511643.html
-3. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/
-4. Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall｜The Register｜https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181
-5. Meta announces $95 billion stock offering to fund AI expansion｜CNBC Technology｜https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html
+1. Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)｜TechCrunch｜https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/
+2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
+3. Researcher claims Samsung TVs listen to you to target ads｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/researcher-claims-samsung-tvs-listen-104511643.html
+4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/
+5. Claude helped plan risky bird flu research. What did the AI add?｜Science News｜https://www.sciencenews.org/article/claude-bird-flu-research-ai-biology
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
