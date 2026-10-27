@@ -1,63 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/26 21:12:01
+生成时间：2026/10/27 09:38:08
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 15 条｜国际 4 条
-延续跟踪线索：国内 67 条｜国际 10 条
+新增核心线索：国内 33 条｜国际 6 条
+延续跟踪线索：国内 0 条｜国际 7 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-26] 筑牢可信底座，推动法律AI从“能用”到“敢用” -讯飞晓法超级法律助手发布
+1. [2026-10-27] GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/2026-10-26/doc-iniwqart2131902.shtml
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “筑牢可信底座，推动法律AI从“能用”到“敢用” -讯飞晓法超级法律助手发布” against primary-source evidence.
+   链接：https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml
+   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！” against primary-source evidence.
 
-2. [2026-10-26] Ipsos：调查显示57%美国人认为AI对社会弊大于利
+2. [2026-10-27] 三星、SK海力士明年二季度量产8层HBM4供英伟达
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LA7S4PO40512B07B.html
+   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “三星、SK海力士明年二季度量产8层HBM4供英伟达” against primary-source evidence.
+
+3. [2026-10-27] Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwqhxr2072428.shtml
-   角度：Ask whether this changes China’s AI competitiveness through compute economics and infrastructure demand, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Ipsos：调查显示57%美国人认为AI对社会弊大于利” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkz4836391.shtml
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%” against primary-source evidence.
 
-3. [13:00] 古尔曼称苹果可能本周连续三天发布新品：周一 OLED iPad mini、周二 M6 芯片 iMac、周三触控屏 MacBook Pro
-   来源：IT之家
-   链接：https://www.ithome.com/1/018/153.htm
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “古尔曼称苹果可能本周连续三天发布新品：周一 OLED iPad mini、周二 M6 芯片 iMac、周三触控屏 MacBook Pro” against primary-source evidence.
-
-4. [2026-10-26] 随着AI行情降温 两支挂钩SK海力士的杠杆基金将在美国退市
+4. [2026-10-27] 拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国
    来源：新浪科技
-   链接：https://finance.sina.com.cn/world/2026-10-26/doc-iniwpwir9265690.shtml
-   角度：Lead with governance, safety and public trust; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “随着AI行情降温 两支挂钩SK海力士的杠杆基金将在美国退市” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2127169.shtml
+   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国” against primary-source evidence.
 
-5. [2026-10-26] 高盛表示日元正成为应对AI市场冲击更有效的对冲工具
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpfmx9252529.shtml
-   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “高盛表示日元正成为应对AI市场冲击更有效的对冲工具” against primary-source evidence.
+5. [2026-10-27] 人形机器人应用持续拓展 核心零部件投资机遇受关注
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LA7QLBVR05198CJN.html
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “人形机器人应用持续拓展 核心零部件投资机遇受关注” against primary-source evidence.
 
 本次新增线索：
-- Ipsos：调查显示57%美国人认为AI对社会弊大于利｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwqhxr2072428.shtml
-- 古尔曼称苹果可能本周连续三天发布新品：周一 OLED iPad mini、周二 M6 芯片 iMac、周三触控屏 MacBook Pro｜IT之家｜https://www.ithome.com/1/018/153.htm
-- Omdia：2026年Q3全球PC出货量同比下降21%，2027年同比下降7%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwqhxp5294505.shtml
-- Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-26/doc-iniwqhxk2414291.shtml
-- 芯智融合促创新 硬科技项目集聚宁波奉化—— 第八届全国“创业之芯”大赛奉化人工智能专项赛举办｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwqhxp5281441.shtml
-- Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)｜TechCrunch｜https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/
+- GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！｜新浪科技｜https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml
+- 三星、SK海力士明年二季度量产8层HBM4供英伟达｜网易科技｜https://www.163.com/dy/article/LA7S4PO40512B07B.html
+- Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkz4836391.shtml
+- 拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2127169.shtml
+- 人形机器人应用持续拓展 核心零部件投资机遇受关注｜网易科技｜https://www.163.com/dy/article/LA7QLBVR05198CJN.html
+- Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/
 
 今日热点方向：
-- AI 应用：AI动态（18 条，5 个来源）
+- AI 应用：AI动态（10 条，4 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（7 条，4 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（10 条，3 个来源）
-- 太空与低空经济：低空经济与无人机（2 条，2 个来源）
-- 科学前沿：科学前沿动态（5 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)｜TechCrunch｜https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/
-2. The AI graveyard: a running list of projects and startups that didn’t make it｜TechCrunch｜https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
-3. Researcher claims Samsung TVs listen to you to target ads｜Yahoo News Technology｜https://tech.yahoo.com/cybersecurity/articles/researcher-claims-samsung-tvs-listen-104511643.html
-4. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs｜Ars Technica｜https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/
-5. Claude helped plan risky bird flu research. What did the AI add?｜Science News｜https://www.sciencenews.org/article/claude-bird-flu-research-ai-biology
+1. Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/
+2. SpaceX locks in $40B GPU financing deal with Apollo｜TechCrunch｜https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/
+3. Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/amd-gpu-nvidia-dlss-5-231700579.html
+4. Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push｜CNBC Technology｜https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html
+5. Which AMD CPU Is Equivalent To The PlayStation 5?｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/amd-cpu-equivalent-playstation-5-231700555.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
