@@ -1,64 +1,44 @@
 window.CHENCHEN_DAILY_DATA = {
-  "generatedAt": "2026-10-27T01:38:08.175Z",
+  "generatedAt": "2026-10-27T01:59:31.517Z",
   "radarVersion": "v3",
   "targetDate": "2026-10-27",
   "changeSummary": {
-    "domesticNew": 33,
-    "globalNew": 6,
-    "domesticContinued": 0,
-    "globalContinued": 7,
+    "domesticNew": 7,
+    "globalNew": 1,
+    "domesticContinued": 27,
+    "globalContinued": 13,
     "topNewDomestic": [
       {
-        "title": "GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！",
+        "title": "应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrqsv8824091.shtml"
       },
       {
-        "title": "三星、SK海力士明年二季度量产8层HBM4供英伟达",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/LA7S4PO40512B07B.html"
+        "title": "苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/018/229.htm"
       },
       {
-        "title": "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%",
+        "title": "塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/018/246.htm"
+      },
+      {
+        "title": "原中汽协高层批尊界事件：非标极限测试不可滥用 各平台应报由主管部门决定如何发布",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkz4836391.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwrqsu2062640.shtml"
       },
       {
         "title": "拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2127169.shtml"
-      },
-      {
-        "title": "人形机器人应用持续拓展 核心零部件投资机遇受关注",
-        "source": "网易科技",
-        "url": "https://www.163.com/dy/article/LA7QLBVR05198CJN.html"
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/018/224.htm"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/"
-      },
-      {
-        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
-      },
-      {
-        "title": "Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch",
+        "title": "Nvidia's AI factory to slash deployment time from 6 months to just 14 days",
         "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/computing/articles/amd-gpu-nvidia-dlss-5-231700579.html"
-      },
-      {
-        "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
-      },
-      {
-        "title": "Which AMD CPU Is Equivalent To The PlayStation 5?",
-        "source": "Yahoo News Technology",
-        "url": "https://tech.yahoo.com/gaming/articles/amd-cpu-equivalent-playstation-5-231700555.html"
+        "url": "https://tech.yahoo.com/ai/articles/nvidias-ai-factory-slash-deployment-233500055.html"
       }
     ],
     "hasPrevious": true
@@ -67,8 +47,8 @@ window.CHENCHEN_DAILY_DATA = {
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 867,
-    "globalRejected": 863,
+    "domesticRejected": 866,
+    "globalRejected": 862,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -380,11 +360,11 @@ window.CHENCHEN_DAILY_DATA = {
   ],
   "itemsSeen": 1557,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 245,
-  "itemsAfterDedupe": 180,
-  "todayItemsSeen": 33,
-  "suspectedItemsSeen": 6,
-  "skippedNonToday": 138,
+  "itemsAfterRelevantFilter": 240,
+  "itemsAfterDedupe": 177,
+  "todayItemsSeen": 34,
+  "suspectedItemsSeen": 5,
+  "skippedNonToday": 135,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -843,24 +823,24 @@ window.CHENCHEN_DAILY_DATA = {
   "globalSuccessSources": 16,
   "globalItemsSeen": 876,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 132,
+  "globalItemsAfterRelevantFilter": 133,
   "topics": [
     {
       "topic": "AI动态",
       "count": 10,
       "sourceCount": 4,
       "sources": [
-        "新浪科技",
+        "IT之家",
         "科技日报",
-        "网易科技",
-        "IT之家"
+        "新浪科技",
+        "网易科技"
       ],
       "items": [
-        "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%",
+        "苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前",
         "人工智能越“聪明”，就越需要算力吗？",
         "菲尔兹奖得主邓煜评论 AI 公司反蒸馏：你不能只在你蒸馏全人类知识时支持蒸馏",
-        "苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前",
-        "患者“不用额外付费” 北京“AI医疗产品”临床用量增多"
+        "患者“不用额外付费” 北京“AI医疗产品”临床用量增多",
+        "人工智能交易规模惊人 城堡证券称到了“没有容错空间”的地步"
       ]
     },
     {
@@ -875,13 +855,28 @@ window.CHENCHEN_DAILY_DATA = {
       "items": [
         "GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！",
         "三星、SK海力士明年二季度量产8层HBM4供英伟达",
+        "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
         "亦友亦敌又手握渠道 Anthropic对三大科技巨头依赖加深",
-        "Anthropic最硬气招股书，先把丑话说在前头",
-        "OpenAI宣布在数学、计算机科学、物理学领域取得三项新发现"
+        "Anthropic最硬气招股书，先把丑话说在前头"
       ]
     },
     {
-      "topic": "新能源车动态",
+      "topic": "国产 GPU / 算力基础设施",
+      "count": 3,
+      "sourceCount": 3,
+      "sources": [
+        "IT之家",
+        "新浪科技",
+        "网易科技"
+      ],
+      "items": [
+        "塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心",
+        "微软向6万名员工推出自愿离职买断计划",
+        "中信建投：建议关注高速光模块、AI服务器及数据中心配套"
+      ]
+    },
+    {
+      "topic": "新能源车与智能驾驶",
       "count": 3,
       "sourceCount": 2,
       "sources": [
@@ -889,48 +884,33 @@ window.CHENCHEN_DAILY_DATA = {
         "IT之家"
       ],
       "items": [
+        "原中汽协高层批尊界事件：非标极限测试不可滥用 各平台应报由主管部门决定如何发布",
         "拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国",
-        "宾利首款纯电 SUV 托卡尔新增首发版车型：全系最强动力加持，还有碳纤维套件、电动门",
-        "消息称大众、小鹏合作的架构将走出中国，用于大众、斯柯达、CUPRA 品牌新车"
-      ]
-    },
-    {
-      "topic": "新能源车与智能驾驶",
-      "count": 2,
-      "sourceCount": 2,
-      "sources": [
-        "网易科技",
-        "新浪科技"
-      ],
-      "items": [
-        "崔东树：2027年国内车市零售销量预计增长2%；大",
         "造型像火箭！特斯拉休斯顿 Robotaxi 服务范围扩至 10 倍，面积是 Waymo 的 5 倍"
       ]
     },
     {
       "topic": "半导体供应链",
       "count": 2,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "sources": [
-        "新浪科技",
-        "IT之家"
+        "新浪科技"
       ],
       "items": [
-        "开盘：三大指数集体高开 半导体板块涨幅居前",
-        "应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%"
+        "应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%",
+        "开盘：三大指数集体高开 半导体板块涨幅居前"
       ]
     },
     {
-      "topic": "国产 GPU / 算力基础设施",
+      "topic": "新能源车动态",
       "count": 2,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "sources": [
-        "新浪科技",
-        "网易科技"
+        "IT之家"
       ],
       "items": [
-        "微软向6万名员工推出自愿离职买断计划",
-        "中信建投：建议关注高速光模块、AI服务器及数据中心配套"
+        "宾利首款纯电 SUV 托卡尔新增首发版车型：全系最强动力加持，还有碳纤维套件、电动门",
+        "消息称大众、小鹏合作的架构将走出中国，用于大众、斯柯达、CUPRA 品牌新车"
       ]
     },
     {
@@ -990,6 +970,74 @@ window.CHENCHEN_DAILY_DATA = {
     }
   ],
   "leads": [
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%",
+      "summary": "IT之家10月27日消息，应用材料于美国当地时间本月26日宣布追加对荷兰半导体封装设备制造商Besi的投资，对其持股比例从此前9%升至约20%，目前已是Besi第一大股东。应用材料称当前无意进一步增持，也无意谋求Besi董事会席位。两家企业2020年启动联合开发后合作顺畅，Besi本月初加入应用材料硅谷EPIC中心，双",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrqsv8824091.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrqsv8824091.shtml"
+      ],
+      "publishedAt": "2026-10-27",
+      "date": "2026-10-27",
+      "category": "芯片",
+      "classificationConfidence": 0.98,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "priority": 5,
+      "score": 174,
+      "reporterScore": 190,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 12,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 130
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "graphic",
+      "angle": "Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "半导体供应链",
+      "rawText": "IT之家10月27日消息，应用材料于美国当地时间本月26日宣布追加对荷兰半导体封装设备制造商Besi的投资，对其持股比例从此前9%升至约20%，目前已是Besi第一大股东。应用材料称当前无意进一步增持，也无意谋求Besi董事会席位。两家企业2020年启动联合开发后合作顺畅，Besi本月初加入应用材料硅谷EPIC中心，双方合作范围从混合键合拓展至更广泛的新型互连架构及应用领域。(AI生成)",
+      "relatedTitles": [
+        "应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%"
+      ],
+      "isNewSinceLastRun": true
+    },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
       "title": "GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！",
@@ -1056,7 +1104,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1124,25 +1172,25 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "三星、SK海力士明年二季度量产8层HBM4供英伟达"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%",
-      "summary": "10月24日，本地运行AI模型的开源平台Ollama宣布其Mac应用正式支持文本转语音生成，Windows、Linux版本将随后跟进，这是该平台首次新增语音生成能力。其首个支持的语音模型为Gradium开发的Phonon系列，适配Apple Silicon Mac，依托苹果MLX框架提升运行效率，在M5 Max芯片的M",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
+      "summary": "OpenAI OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了 今年devday牙膏挤爆 衡宇 11小时前 Dots GPT-6.1 Sol OpenAI OpenAI因新模型太强叫停发布 AGI计划暂停。 程浅 昨天 15:49 GPT-6 Astra OpenAI OpenAI失控Agent",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkz4836391.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/018/203.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkz4836391.shtml"
+        "https://www.ithome.com/1/018/203.htm"
       ],
-      "publishedAt": "2026-10-27",
+      "publishedAt": "Mon, 26 Oct 2026 23:37:17 GMT",
       "date": "2026-10-27",
       "category": "AI",
-      "classificationConfidence": 0.68,
+      "classificationConfidence": 0.99,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1152,84 +1200,84 @@ window.CHENCHEN_DAILY_DATA = {
       "hardTechPriority": 95,
       "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 176,
-      "reporterScore": 184,
+      "score": 167,
+      "reporterScore": 181,
       "scoreBreakdown": {
         "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
-        "cgtFocus": 12,
-        "visual": 0,
-        "international": 9,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 0,
+        "interviewValue": 8,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
       },
       "reporterSignals": {
         "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 120
+        "reporterScore": 128
       },
       "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
       "format": "package",
-      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%” against primary-source evidence.",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "10月24日，本地运行AI模型的开源平台Ollama宣布其Mac应用正式支持文本转语音生成，Windows、Linux版本将随后跟进，这是该平台首次新增语音生成能力。其首个支持的语音模型为Gradium开发的Phonon系列，适配Apple Silicon Mac，依托苹果MLX框架提升运行效率，在M5 Max芯片的MacBook Pro上，语音生成速度较Gradium自身实现快35%，支持实时语音生成。Phonon覆盖5种单语言模型及多语言模型，可选择不同口音音色。Ollama是热门AI开源项目，GitHub拥有近18.5万Star、约1.86万Fork。(AI生成)",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "OpenAI 宣布，其 AI 模型在数学、计算机科学和物理学领域取得三项重大突破，展现出 AI 独立发现并证明复杂科学理论的能力，而不只是回答问题或辅助研究。",
       "relatedTitles": [
-        "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%"
+        "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国",
-      "summary": "拉脱维亚正式批准特斯拉FSD（监督版）上路，成为第10个独立批准该系统的欧盟成员国、全球第18个获批国。特斯拉已将欧洲区FSD更名为特斯拉辅助驾驶，拉脱维亚将优先为搭载HW4硬件的车辆推送适配当地规则的欧洲专属FSD v14版本。欧盟年底将投票推进全域FSD许可，特斯拉需至少15国有效多数支持，目前已获批的10国加德国",
-      "source": "新浪科技",
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前",
+      "summary": "今天发布的 27.2 版本软件更新，进一步扩大新一代 Siri AI 的使用范围，新增支持法语、日语、韩语、葡萄牙语和西班牙语。苹果计划继续增加 Siri AI 支持的语言，繁体中文、挪威语、土耳其语和越南语将在年底前加入。",
+      "source": "IT之家",
       "sources": [
-        "新浪科技"
+        "IT之家"
       ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2127169.shtml",
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/018/229.htm",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2127169.shtml"
+        "https://www.ithome.com/1/018/229.htm"
       ],
-      "publishedAt": "2026-10-27",
+      "publishedAt": "Tue, 27 Oct 2026 01:04:05 GMT",
       "date": "2026-10-27",
-      "category": "新能源车",
-      "classificationConfidence": 0.68,
+      "category": "AI",
+      "classificationConfidence": 0.75,
       "classificationEvidence": [
         "title",
         "summary",
         "rawText_first_500",
         "source"
       ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
       "priority": 5,
-      "score": 162,
-      "reporterScore": 178,
+      "score": 159,
+      "reporterScore": 167,
       "scoreBreakdown": {
-        "hardTech": 85,
+        "hardTech": 95,
         "today": 18,
-        "sourceAuthority": 12,
+        "sourceAuthority": 8,
         "multiSource": 22,
         "cgtFocus": 0,
         "visual": 0,
-        "international": 9,
+        "international": 0,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
@@ -1241,24 +1289,24 @@ window.CHENCHEN_DAILY_DATA = {
       "reporterSignals": {
         "primary": false,
         "visual": false,
-        "international": true,
+        "international": false,
         "interview": true,
         "marketing": false,
         "softNews": false,
-        "hardTechWeight": 85,
+        "hardTechWeight": 95,
         "reporterScore": 120
       },
       "isPrimarySource": false,
       "hasInterviewValue": true,
       "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国” against primary-source evidence.",
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前” against primary-source evidence.",
       "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "拉脱维亚正式批准特斯拉FSD（监督版）上路，成为第10个独立批准该系统的欧盟成员国、全球第18个获批国。特斯拉已将欧洲区FSD更名为特斯拉辅助驾驶，拉脱维亚将优先为搭载HW4硬件的车辆推送适配当地规则的欧洲专属FSD v14版本。欧盟年底将投票推进全域FSD许可，特斯拉需至少15国有效多数支持，目前已获批的10国加德国仍需再争取4国。特斯拉2026年第三季度财报显示FSD订阅用户达174万，无监督版FSD预计2027年第二季度向部分首批用户交付。(AI生成)",
+      "matchedTopic": "AI动态",
+      "rawText": "今天发布的 27.2 版本软件更新，进一步扩大新一代 Siri AI 的使用范围，新增支持法语、日语、韩语、葡萄牙语和西班牙语。苹果计划继续增加 Siri AI 支持的语言，繁体中文、挪威语、土耳其语和越南语将在年底前加入。",
       "relatedTitles": [
-        "拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国"
+        "苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前"
       ],
       "isNewSinceLastRun": true
     },
@@ -1328,6 +1376,74 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "人形机器人应用持续拓展 核心零部件投资机遇受关注"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心",
+      "summary": "塔塔通讯计划在印度建设一条连接关键人工智能数据中心的 AI 就绪型高速率低延迟网络走廊，首阶段以孟买-浦那-海得拉巴-金奈连通该国东西海岸。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/018/246.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/018/246.htm"
+      ],
+      "publishedAt": "Tue, 27 Oct 2026 01:53:31 GMT",
+      "date": "2026-10-27",
+      "category": "AI",
+      "classificationConfidence": 0.84,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 163,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 12,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "国产 GPU / 算力基础设施",
+      "rawText": "塔塔通讯计划在印度建设一条连接关键人工智能数据中心的 AI 就绪型高速率低延迟网络走廊，首阶段以孟买-浦那-海得拉巴-金奈连通该国东西海岸。",
+      "relatedTitles": [
+        "塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心"
+      ],
       "isNewSinceLastRun": true
     },
     {
@@ -1395,6 +1511,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "所在位置： 中国科技网首页 > 滚动 > 正文 人工智能越“聪明”，就越需要算力吗？ 2026-10-27 09:22:18 来源: 中国新闻网 点击数： 热点",
       "relatedTitles": [
         "人工智能越“聪明”，就越需要算力吗？"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "原中汽协高层批尊界事件：非标极限测试不可滥用 各平台应报由主管部门决定如何发布",
+      "summary": "快科技10月27日消息，近日，中国汽车动力电池产业创新联盟理事长、中国电动汽车百人会副理事长、原中国汽车工业协会秘书长董扬，在个人公众号发布了题为非标极限测试不可滥用的署名文章。他在文章里明确提出，行业整体利益大于单个企业利益，国家利益大于...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwrqsu2062640.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwrqsu2062640.shtml"
+      ],
+      "publishedAt": "2026-10-27",
+      "date": "2026-10-27",
+      "category": "新能源车",
+      "classificationConfidence": 0.71,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 153,
+      "reporterScore": 161,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing battery innovation and infrastructure, cost, reliability and consumer value. For this item, test the claim behind “原中汽协高层批尊界事件：非标极限测试不可滥用 各平台应报由主管部门决定如何发布” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "快科技10月27日消息，近日，中国汽车动力电池产业创新联盟理事长、中国电动汽车百人会副理事长、原中国汽车工业协会秘书长董扬，在个人公众号发布了题为非标极限测试不可滥用的署名文章。他在文章里明确提出，行业整体利益大于单个企业利益，国家利益大于...",
+      "relatedTitles": [
+        "原中汽协高层批尊界事件：非标极限测试不可滥用 各平台应报由主管部门决定如何发布"
       ],
       "isNewSinceLastRun": true
     },
@@ -1464,75 +1648,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "菲尔兹奖得主邓煜评论 AI 公司反蒸馏：你不能只在你蒸馏全人类知识时支持蒸馏"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前",
-      "summary": "IT之家 10 月 27 日消息，苹果今天（27 日）通过新闻稿宣布，今天发布的 27.2 版本软件更新，进一步扩大新一代 Siri AI 的使用范围，新增支持法语、日语、韩语、葡萄牙语和西班牙语。Siri AI 是全面升级的 Siri，不...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkmc1613594.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkmc1613594.shtml"
-      ],
-      "publishedAt": "2026-10-27",
-      "date": "2026-10-27",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 163,
-      "reporterScore": 171,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI动态",
-      "rawText": "IT之家 10 月 27 日消息，苹果今天（27 日）通过新闻稿宣布，今天发布的 27.2 版本软件更新，进一步扩大新一代 Siri AI 的使用范围，新增支持法语、日语、韩语、葡萄牙语和西班牙语。Siri AI 是全面升级的 Siri，不...",
-      "relatedTitles": [
-        "苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1600,7 +1716,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "患者“不用额外付费” 北京“AI医疗产品”临床用量增多"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1667,6 +1783,74 @@ window.CHENCHEN_DAILY_DATA = {
       "rawText": "影响市场重大事件：上海：到2030年在轨卫星总数超3000颗，核心产业规模突破800亿元；推动民用飞机搭载低轨卫星互联网终端；推动低轨、中轨星座加速部署；支持个人用户通...,星座,天基,飞机,互联网,上海市,卫星通信,在轨卫星,低轨卫星,北斗卫星,个人用户通",
       "relatedTitles": [
         "影响市场重大事件：上海：到2030年在轨卫星总数超3000颗"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国",
+      "summary": "拉脱维亚成为全球第 18 个、欧盟第 10 个批准特斯拉 FSD（监督版）的市场，将优先面向 HW4 硬件车辆推送适配当地法规的版本。#特斯拉FSD##欧盟自动驾驶审批#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/018/224.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/018/224.htm"
+      ],
+      "publishedAt": "Tue, 27 Oct 2026 00:40:06 GMT",
+      "date": "2026-10-27",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 158,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "拉脱维亚成为全球第 18 个、欧盟第 10 个批准特斯拉 FSD（监督版）的市场，将优先面向 HW4 硬件车辆推送适配当地法规的版本。#特斯拉FSD##欧盟自动驾驶审批#",
+      "relatedTitles": [
+        "拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国"
       ],
       "isNewSinceLastRun": true
     },
@@ -1736,7 +1920,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "人工智能交易规模惊人 城堡证券称到了“没有容错空间”的地步"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1804,12 +1988,148 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "减少条条框框 弱化考核指标，“何享健青年科学家”项目鼓励自由探索"
       ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "造型像火箭！特斯拉休斯顿 Robotaxi 服务范围扩至 10 倍，面积是 Waymo 的 5 倍",
+      "summary": "特斯拉休斯顿 Robotaxi 服务区从 25 平方英里扩至 254 平方英里，面积翻近十倍，覆盖约 120 万居民。新区域轮廓酷似火箭，被指致敬休斯顿航天城地位。目前区域内仍由改装 Model Y 运营，全程无人，尚未覆盖两大机场。#特斯拉Robotaxi#",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/018/226.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/018/226.htm"
+      ],
+      "publishedAt": "Tue, 27 Oct 2026 00:54:00 GMT",
+      "date": "2026-10-27",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 149,
+      "reporterScore": 155,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 108
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “造型像火箭！特斯拉休斯顿 Robotaxi 服务范围扩至 10 倍，面积是 Waymo 的 5 倍” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车与智能驾驶",
+      "rawText": "特斯拉休斯顿 Robotaxi 服务区从 25 平方英里扩至 254 平方英里，面积翻近十倍，覆盖约 120 万居民。新区域轮廓酷似火箭，被指致敬休斯顿航天城地位。目前区域内仍由改装 Model Y 运营，全程无人，尚未覆盖两大机场。#特斯拉Robotaxi#",
+      "relatedTitles": [
+        "造型像火箭！特斯拉休斯顿 Robotaxi 服务范围扩至 10 倍，面积是 Waymo 的 5 倍"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%",
+      "summary": "本地运行 AI 模型的开源平台 Ollama 于 10 月 24 日宣布，其 Mac 应用正式支持文本转语音（TTS）生成，Windows 和 Linux 版本也将随后跟进。",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/018/228.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/018/228.htm"
+      ],
+      "publishedAt": "Tue, 27 Oct 2026 01:00:25 GMT",
+      "date": "2026-10-27",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 151,
+      "reporterScore": 151,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI动态",
+      "rawText": "本地运行 AI 模型的开源平台 Ollama 于 10 月 24 日宣布，其 Mac 应用正式支持文本转语音（TTS）生成，Windows 和 Linux 版本也将随后跟进。",
+      "relatedTitles": [
+        "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%"
+      ],
       "isNewSinceLastRun": true
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
       "title": "热点回应丨“AI脸”认证过关，人脸识别安全防护需升级",
-      "summary": "所在位置： 中国科技网首页 > 正文 热点回应丨“AI脸”认证过关，人脸识别安全防护需升级 2026-10-27 07:44:21 来源: 科技日报 点击数： 热点",
+      "summary": "10月26日快科技消息，网传“老干妈用AI将600名工人裁至48人，年营收54亿”的不实信息引发热议，导致部分消费者表示不再购买，老干妈线上销售额明显下跌，某电商平台数据显示10月22日起其连续多日日销售额仅1000-5000元，此前多稳定在5000-1万元。老干妈官方回应该裁员传闻不实。此前老干妈透露2025年营收达",
       "source": "科技日报",
       "sources": [
         "科技日报"
@@ -1872,7 +2192,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "热点回应丨“AI脸”认证过关，人脸识别安全防护需升级"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1940,7 +2260,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI创业浪潮的主角，正从“经验派”转向“新生代”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2008,143 +2328,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "英特尔宣布收购Classiq 陈立武：将打造全栈量子计算业务"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuMTYz",
-      "title": "崔东树：2027年国内车市零售销量预计增长2%；大",
-      "summary": "崔东树：2027年国内车市零售销量预计增长2%；大众中国在合肥获得L3级自动驾驶道路测试牌照丨汽车早参,车市,崔东树,大众中国,自动驾驶,奇瑞汽车,道路测试,汽车早参,传统车企",
-      "source": "网易科技",
-      "sources": [
-        "网易科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://www.163.com/dy/article/LA7S4Q590512B07B.html",
-      "sourceUrls": [
-        "https://www.163.com/dy/article/LA7S4Q590512B07B.html"
-      ],
-      "publishedAt": "2026-10-27",
-      "date": "2026-10-27",
-      "category": "新能源车",
-      "classificationConfidence": 0.71,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 161,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Move beyond launch coverage by testing deployment safety, regulation and user adoption, cost, reliability and consumer value. For this item, test the claim behind “崔东树：2027年国内车市零售销量预计增长2%；大” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "崔东树：2027年国内车市零售销量预计增长2%；大众中国在合肥获得L3级自动驾驶道路测试牌照丨汽车早参,车市,崔东树,大众中国,自动驾驶,奇瑞汽车,道路测试,汽车早参,传统车企",
-      "relatedTitles": [
-        "崔东树：2027年国内车市零售销量预计增长2%；大"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "造型像火箭！特斯拉休斯顿 Robotaxi 服务范围扩至 10 倍，面积是 Waymo 的 5 倍",
-      "summary": "10月27日消息，特斯拉休斯顿Robotaxi自动驾驶出租车服务大幅扩容，运营面积从约25平方英里扩至254平方英里（约657.9平方公里），增幅916%，为今年4月落地后首次扩区，全程无安全员，用改装Model Y运营，覆盖约120万居民，未覆盖当地两大机场。该区域面积是当地Waymo的5倍，截至10月中旬休斯顿Ro",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2139895.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2139895.shtml"
-      ],
-      "publishedAt": "2026-10-27",
-      "date": "2026-10-27",
-      "category": "新能源车",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 153,
-      "reporterScore": 159,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 108
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “造型像火箭！特斯拉休斯顿 Robotaxi 服务范围扩至 10 倍，面积是 Waymo 的 5 倍” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车与智能驾驶",
-      "rawText": "10月27日消息，特斯拉休斯顿Robotaxi自动驾驶出租车服务大幅扩容，运营面积从约25平方英里扩至254平方英里（约657.9平方公里），增幅916%，为今年4月落地后首次扩区，全程无安全员，用改装Model Y运营，覆盖约120万居民，未覆盖当地两大机场。该区域面积是当地Waymo的5倍，截至10月中旬休斯顿Robotaxi车队已完成近22.6万英里自动驾驶里程。特斯拉计划下月在达拉斯上线Cybercab载客服务，还公布了拉斯维加斯等四座新落地城市，预计2027年第二季度起车主可将Model 3、Y接入Robotaxi网络。(AI生成)",
-      "relatedTitles": [
-        "造型像火箭！特斯拉休斯顿 Robotaxi 服务范围扩至 10 倍，面积是 Waymo 的 5 倍"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2212,75 +2396,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "开盘：三大指数集体高开 半导体板块涨幅居前"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%",
-      "summary": "两家企业自 2020 年启动联合开发以来一直保持着良好的合作关系，应用材料目前已是 Besi 的第一大股东。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/018/236.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/018/236.htm"
-      ],
-      "publishedAt": "Tue, 27 Oct 2026 01:26:29 GMT",
-      "date": "2026-10-27",
-      "category": "芯片",
-      "classificationConfidence": 0.8,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "priority": 5,
-      "score": 149,
-      "reporterScore": 157,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 12,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 120
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "graphic",
-      "angle": "Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "半导体供应链",
-      "rawText": "两家企业自 2020 年启动联合开发以来一直保持着良好的合作关系，应用材料目前已是 Besi 的第一大股东。",
-      "relatedTitles": [
-        "应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2348,7 +2464,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "宾利首款纯电 SUV 托卡尔新增首发版车型：全系最强动力加持，还有碳纤维套件、电动门"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2416,7 +2532,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "亦友亦敌又手握渠道 Anthropic对三大科技巨头依赖加深"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2484,7 +2600,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Anthropic最硬气招股书，先把丑话说在前头"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2552,7 +2668,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "OpenAI宣布在数学、计算机科学、物理学领域取得三项新发现"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2620,7 +2736,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI早报 | Kimi就会员使用K3.1 Pro出现限流等问题致歉"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2688,7 +2804,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "AI能提前预测癌症对免疫疗法反应"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -2756,7 +2872,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Anthropic“亦敌亦友”的生意：谷歌、亚马逊、微软既是伙伴也是对手"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2824,7 +2940,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "美最大运营商 Verizon 称 SpaceX 拥有竞争力需 8 年，马斯克回怼“2-3 年就够”"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2892,75 +3008,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "微软 CEO 纳德拉：以前我认为 AI 越强大也会越安全，现在不信了"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaXRo",
-      "title": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
-      "summary": "OpenAI 宣布，其 AI 模型在数学、计算机科学和物理学领域取得三项重大突破，展现出 AI 独立发现并证明复杂科学理论的能力，而不只是回答问题或辅助研究。",
-      "source": "IT之家",
-      "sources": [
-        "IT之家"
-      ],
-      "sourceTier": "industry",
-      "url": "https://www.ithome.com/1/018/203.htm",
-      "sourceUrls": [
-        "https://www.ithome.com/1/018/203.htm"
-      ],
-      "publishedAt": "Mon, 26 Oct 2026 23:37:17 GMT",
-      "date": "2026-10-27",
-      "category": "AI",
-      "classificationConfidence": 0.99,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 5,
-      "score": 151,
-      "reporterScore": 151,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": 18,
-        "sourceAuthority": 8,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "AI 应用与智能体",
-      "rawText": "OpenAI 宣布，其 AI 模型在数学、计算机科学和物理学领域取得三项重大突破，展现出 AI 独立发现并证明复杂科学理论的能力，而不只是回答问题或辅助研究。",
-      "relatedTitles": [
-        "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3028,7 +3076,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "Anthropic 招股书披露生态打法：打造高粘性企业客户体系"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -3096,7 +3144,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "微软向6万名员工推出自愿离职买断计划"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -3164,7 +3212,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "中信建投：建议关注高速光模块、AI服务器及数据中心配套"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -3232,7 +3280,7 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "消息称大众、小鹏合作的架构将走出中国，用于大众、斯柯达、CUPRA 品牌新车"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -3570,264 +3618,37 @@ window.CHENCHEN_DAILY_DATA = {
       "relatedTitles": [
         "“不想继续依赖中美”，卢拉承诺：创造巴西自己的AI"
       ]
-    },
-    {
-      "id": "aHR0cDovL3pob25nY2Uu",
-      "title": "把奥特曼“带出屏幕”：跃然创新AI互动对话器由新浪众测网友发布的高质量的生活指南类内容",
-      "summary": "把奥特曼“带出屏幕”：跃然创新AI互动对话器由新浪众测网友发布的高质量的生活指南类内容，本文是作者亲身的原创评测体验，为帮助其他网友提供客观中立的消费指南。",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "http://zhongce.sina.com.cn/article/view/200900",
-      "sourceUrls": [
-        "http://zhongce.sina.com.cn/article/view/200900"
-      ],
-      "publishedAt": "",
-      "date": "",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 95,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "priority": 4,
-      "score": 135,
-      "reporterScore": 143,
-      "scoreBreakdown": {
-        "hardTech": 95,
-        "today": -10,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 8,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": true,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 105
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "package",
-      "angle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “把奥特曼“带出屏幕”：跃然创新AI互动对话器由新浪众测网友发布的高质量的生活指南类内容” against primary-source evidence.",
-      "status": "suspected_today",
-      "matchedTopic": "AI动态",
-      "rawText": "把奥特曼“带出屏幕”：跃然创新AI互动对话器由新浪众测网友发布的高质量的生活指南类内容，本文是作者亲身的原创评测体验，为帮助其他网友提供客观中立的消费指南。",
-      "relatedTitles": [
-        "把奥特曼“带出屏幕”：跃然创新AI互动对话器由新浪众测网友发布的高质量的生活指南类内容"
-      ]
     }
   ],
   "globalLeads": [
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-      "summary": "Included is the ability to limit which applications Siri can directly access.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-      "publishedAt": "Mon, 26 Oct 2026 20:04:16 +0000",
+      "title": "Nvidia's AI factory to slash deployment time from 6 months to just 14 days",
+      "summary": "‘An AI factory creates value when it starts producing tokens’: Nvidia’s modular liquid-cooled pods speed up data center builds",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/articles/nvidias-ai-factory-slash-deployment-233500055.html",
+      "publishedAt": "2026-10-27",
       "date": "2026-10-27",
       "region": "US",
       "category": "AI",
-      "classificationConfidence": 0.62,
+      "classificationConfidence": 0.58,
       "hardTechPriority": 95,
       "globalWhitelistScore": 60,
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
-      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Apple releases iOS and macOS 27.2 with new Siri AI features, new Music l” against primary-source evidence.",
+      "cgtAngle": "Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia's AI factory to slash deployment time from 6 months to just 14 da” against primary-source evidence.",
       "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
+      "score": 151,
+      "reporterScore": 157,
       "reporterSignals": {
         "primary": false,
-        "visual": false,
+        "visual": true,
         "international": false,
         "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "publishedAt": "Mon, 26 Oct 2026 16:46:36 +0000",
-      "date": "2026-10-26",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.62,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “SpaceX locks in $40B GPU financing deal with Apollo” against primary-source evidence.",
-      "priority": 5,
-      "score": 144,
-      "reporterScore": 144,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch",
-      "summary": "Nvidia's DLSS has become a key differentiator separating the company's GPUs from competing technology from AMD. But a new app is hoping to change that.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/amd-gpu-nvidia-dlss-5-231700579.html",
-      "publishedAt": "2026-10-27",
-      "date": "2026-10-27",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "high",
-      "cgtAngle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-      "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "publishedAt": "Tue, 27 Oct 2026 01:05:06 GMT",
-      "date": "2026-10-26",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Microsoft offers voluntary buyouts to 60,000 employees as AI leads to ef” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Which AMD CPU Is Equivalent To The PlayStation 5?",
-      "summary": "Sony's Playstation 5 uses a custom AMD Zen 2 CPU with a variable clock speed of 3.5 GHz to operate, which is pretty good, considering other CPUs.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/gaming/articles/amd-cpu-equivalent-playstation-5-231700555.html",
-      "publishedAt": "2026-10-27",
-      "date": "2026-10-27",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Which AMD CPU Is Equivalent To The PlayStation 5?” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
-      },
-      "status": "confirmed_today",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "Buying An AMD GPU Used To Be Wildly Cheaper In 2006 Vs. 2026",
-      "summary": "Some say nostalgia is seen through rose-tinted glasses, but the cost of buying a GPU in 2006 didn't equate to first, last, and a security deposit.",
-      "source": "Yahoo News Technology",
-      "url": "https://tech.yahoo.com/computing/articles/buying-amd-gpu-used-wildly-214700748.html",
-      "publishedAt": "2026-10-27",
-      "date": "2026-10-27",
-      "region": "US",
-      "category": "芯片",
-      "classificationConfidence": 0.99,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
-      "relevanceToChina": "low",
-      "cgtAngle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “Buying An AMD GPU Used To Be Wildly Cheaper In 2006 Vs. 2026” against primary-source evidence.",
-      "priority": 4,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 110
+        "reporterScore": 118
       },
       "status": "confirmed_today",
       "isNewSinceLastRun": true
@@ -3883,6 +3704,70 @@ window.CHENCHEN_DAILY_DATA = {
       "priority": 5,
       "score": 146,
       "reporterScore": 146,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "summary": "Included is the ability to limit which applications Siri can directly access.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+      "publishedAt": "Mon, 26 Oct 2026 20:04:16 +0000",
+      "date": "2026-10-27",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Apple releases iOS and macOS 27.2 with new Siri AI features, new Music l” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "publishedAt": "Mon, 26 Oct 2026 16:46:36 +0000",
+      "date": "2026-10-26",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.62,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “SpaceX locks in $40B GPU financing deal with Apollo” against primary-source evidence.",
+      "priority": 5,
+      "score": 144,
+      "reporterScore": 144,
       "reporterSignals": {
         "primary": false,
         "visual": false,
@@ -3962,6 +3847,38 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch",
+      "summary": "Nvidia's DLSS has become a key differentiator separating the company's GPUs from competing technology from AMD. But a new app is hoping to change that.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/amd-gpu-nvidia-dlss-5-231700579.html",
+      "publishedAt": "2026-10-27",
+      "date": "2026-10-27",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "high",
+      "cgtAngle": "Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Meta announces $95 billion stock offering to fund AI expansion",
       "summary": "Meta plans to raise $95 billion to fund AI infrastructure and superintelligence, as Nvidia, AMD and Broadcom eye up to $5 billion in shares.",
       "source": "CNBC Technology",
@@ -3976,6 +3893,38 @@ window.CHENCHEN_DAILY_DATA = {
       "keywords": "AI applications, foundation models, agents and governance",
       "relevanceToChina": "high",
       "cgtAngle": "Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Meta announces $95 billion stock offering to fund AI expansion” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "publishedAt": "Tue, 27 Oct 2026 01:05:06 GMT",
+      "date": "2026-10-26",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Microsoft offers voluntary buyouts to 60,000 employees as AI leads to ef” against primary-source evidence.",
       "priority": 5,
       "score": 143,
       "reporterScore": 143,
@@ -4026,6 +3975,70 @@ window.CHENCHEN_DAILY_DATA = {
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Which AMD CPU Is Equivalent To The PlayStation 5?",
+      "summary": "Sony's Playstation 5 uses a custom AMD Zen 2 CPU with a variable clock speed of 3.5 GHz to operate, which is pretty good, considering other CPUs.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/gaming/articles/amd-cpu-equivalent-playstation-5-231700555.html",
+      "publishedAt": "2026-10-27",
+      "date": "2026-10-27",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Which AMD CPU Is Equivalent To The PlayStation 5?” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "Buying An AMD GPU Used To Be Wildly Cheaper In 2006 Vs. 2026",
+      "summary": "Some say nostalgia is seen through rose-tinted glasses, but the cost of buying a GPU in 2006 didn't equate to first, last, and a security deposit.",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/computing/articles/buying-amd-gpu-used-wildly-214700748.html",
+      "publishedAt": "2026-10-27",
+      "date": "2026-10-27",
+      "region": "US",
+      "category": "芯片",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "semiconductors, advanced manufacturing and compute infrastructure",
+      "relevanceToChina": "low",
+      "cgtAngle": "Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “Buying An AMD GPU Used To Be Wildly Cheaper In 2006 Vs. 2026” against primary-source evidence.",
+      "priority": 4,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
       "summary": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
       "source": "CNBC Technology",
@@ -4057,8 +4070,8 @@ window.CHENCHEN_DAILY_DATA = {
       "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-27｜V3\n生成时间：2026/10/27 09:38:08\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2433｜确认今日 33｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 33 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-27] GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！\n   新浪科技｜2026-10-27｜https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！” against primary-source evidence.\n\n2. [2026-10-27] 三星、SK海力士明年二季度量产8层HBM4供英伟达\n   网易科技｜2026-10-27｜https://www.163.com/dy/article/LA7S4PO40512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “三星、SK海力士明年二季度量产8层HBM4供英伟达” against primary-source evidence.\n\n3. [2026-10-27] Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%\n   新浪科技｜2026-10-27｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkz4836391.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%” against primary-source evidence.\n\n4. [2026-10-27] 拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国\n   新浪科技｜2026-10-27｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2127169.shtml\n   报道角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国” against primary-source evidence.\n\n5. [2026-10-27] 人形机器人应用持续拓展 核心零部件投资机遇受关注\n   网易科技｜2026-10-27｜https://www.163.com/dy/article/LA7QLBVR05198CJN.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “人形机器人应用持续拓展 核心零部件投资机遇受关注” against primary-source evidence.\n\n本次新增线索：\n- GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！｜新浪科技｜https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml\n- 三星、SK海力士明年二季度量产8层HBM4供英伟达｜网易科技｜https://www.163.com/dy/article/LA7S4PO40512B07B.html\n- Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkz4836391.shtml\n- 拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2127169.shtml\n- 人形机器人应用持续拓展 核心零部件投资机遇受关注｜网易科技｜https://www.163.com/dy/article/LA7QLBVR05198CJN.html\n- Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/\n\n今日热点方向：\n- AI 应用：AI动态（10 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/\n2. SpaceX locks in $40B GPU financing deal with Apollo｜TechCrunch｜https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/\n3. Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/amd-gpu-nvidia-dlss-5-231700579.html\n4. Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push｜CNBC Technology｜https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html\n5. Which AMD CPU Is Equivalent To The PlayStation 5?｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/amd-cpu-equivalent-playstation-5-231700555.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-27｜V3\n生成时间：2026/10/27 09:38:08\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2433｜确认今日 33｜国际背景 13\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 33 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-27] GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！\n   新浪科技｜2026-10-27｜https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！” against primary-source evidence.\n\n2. [2026-10-27] 三星、SK海力士明年二季度量产8层HBM4供英伟达\n   网易科技｜2026-10-27｜https://www.163.com/dy/article/LA7S4PO40512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “三星、SK海力士明年二季度量产8层HBM4供英伟达” against primary-source evidence.\n\n3. [2026-10-27] Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%\n   新浪科技｜2026-10-27｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkz4836391.shtml\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%” against primary-source evidence.\n\n4. [2026-10-27] 拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国\n   新浪科技｜2026-10-27｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2127169.shtml\n   报道角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国” against primary-source evidence.\n\n5. [2026-10-27] 人形机器人应用持续拓展 核心零部件投资机遇受关注\n   网易科技｜2026-10-27｜https://www.163.com/dy/article/LA7QLBVR05198CJN.html\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “人形机器人应用持续拓展 核心零部件投资机遇受关注” against primary-source evidence.\n\n本次新增线索：\n- GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！｜新浪科技｜https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml\n- 三星、SK海力士明年二季度量产8层HBM4供英伟达｜网易科技｜https://www.163.com/dy/article/LA7S4PO40512B07B.html\n- Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkz4836391.shtml\n- 拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2127169.shtml\n- 人形机器人应用持续拓展 核心零部件投资机遇受关注｜网易科技｜https://www.163.com/dy/article/LA7QLBVR05198CJN.html\n- Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/\n\n今日热点方向：\n- AI 应用：AI动态（10 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/\n2. SpaceX locks in $40B GPU financing deal with Apollo｜TechCrunch｜https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/\n3. Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/amd-gpu-nvidia-dlss-5-231700579.html\n4. Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push｜CNBC Technology｜https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html\n5. Which AMD CPU Is Equivalent To The PlayStation 5?｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/amd-cpu-equivalent-playstation-5-231700555.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-27｜生成时间：2026/10/27 09:38:08｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2433｜确认今日 33｜国际背景 13</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 33 条｜国际 6 条<br>延续跟踪线索：国内 0 条｜国际 7 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-27] GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！</strong>\n      <span>新浪科技｜2026-10-27｜<a href=\"https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-27] 三星、SK海力士明年二季度量产8层HBM4供英伟达</strong>\n      <span>网易科技｜2026-10-27｜<a href=\"https://www.163.com/dy/article/LA7S4PO40512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “三星、SK海力士明年二季度量产8层HBM4供英伟达” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-27] Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%</strong>\n      <span>新浪科技｜2026-10-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkz4836391.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-10-27] 拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国</strong>\n      <span>新浪科技｜2026-10-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2127169.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-10-27] 人形机器人应用持续拓展 核心零部件投资机遇受关注</strong>\n      <span>网易科技｜2026-10-27｜<a href=\"https://www.163.com/dy/article/LA7QLBVR05198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：176｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “人形机器人应用持续拓展 核心零部件投资机遇受关注” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo</strong>\n      <span>时间：Mon, 26 Oct 2026 20:04:16 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Apple releases iOS and macOS 27.2 with new Siri AI features, new Music l” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. SpaceX locks in $40B GPU financing deal with Apollo</strong>\n      <span>时间：Mon, 26 Oct 2026 16:46:36 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “SpaceX locks in $40B GPU financing deal with Apollo” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch</strong>\n      <span>时间：2026-10-27｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/computing/articles/amd-gpu-nvidia-dlss-5-231700579.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Use AI-compute demand and domestic alternatives as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push</strong>\n      <span>时间：Tue, 27 Oct 2026 01:05:06 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Microsoft offers voluntary buyouts to 60,000 employees as AI leads to ef” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Which AMD CPU Is Equivalent To The PlayStation 5?</strong>\n      <span>时间：2026-10-27｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/gaming/articles/amd-cpu-equivalent-playstation-5-231700555.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “Which AMD CPU Is Equivalent To The PlayStation 5?” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/27 09:38:08\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 33 条｜国际 6 条\n延续跟踪线索：国内 0 条｜国际 7 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-27] GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！” against primary-source evidence.\n\n2. [2026-10-27] 三星、SK海力士明年二季度量产8层HBM4供英伟达\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LA7S4PO40512B07B.html\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “三星、SK海力士明年二季度量产8层HBM4供英伟达” against primary-source evidence.\n\n3. [2026-10-27] Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkz4836391.shtml\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%” against primary-source evidence.\n\n4. [2026-10-27] 拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2127169.shtml\n   角度：Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国” against primary-source evidence.\n\n5. [2026-10-27] 人形机器人应用持续拓展 核心零部件投资机遇受关注\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LA7QLBVR05198CJN.html\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “人形机器人应用持续拓展 核心零部件投资机遇受关注” against primary-source evidence.\n\n本次新增线索：\n- GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！｜新浪科技｜https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml\n- 三星、SK海力士明年二季度量产8层HBM4供英伟达｜网易科技｜https://www.163.com/dy/article/LA7S4PO40512B07B.html\n- Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkz4836391.shtml\n- 拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrkkw2127169.shtml\n- 人形机器人应用持续拓展 核心零部件投资机遇受关注｜网易科技｜https://www.163.com/dy/article/LA7QLBVR05198CJN.html\n- Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/\n\n今日热点方向：\n- AI 应用：AI动态（10 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，2 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/\n2. SpaceX locks in $40B GPU financing deal with Apollo｜TechCrunch｜https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/\n3. Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/amd-gpu-nvidia-dlss-5-231700579.html\n4. Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push｜CNBC Technology｜https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html\n5. Which AMD CPU Is Equivalent To The PlayStation 5?｜Yahoo News Technology｜https://tech.yahoo.com/gaming/articles/amd-cpu-equivalent-playstation-5-231700555.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-27｜V3\n生成时间：2026/10/27 09:59:31\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2433｜确认今日 34｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 1 条\n延续跟踪线索：国内 27 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-27] 应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%\n   新浪科技｜2026-10-27｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrqsv8824091.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%” against primary-source evidence.\n\n2. [2026-10-27] GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！\n   新浪科技｜2026-10-27｜https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！” against primary-source evidence.\n\n3. [2026-10-27] 三星、SK海力士明年二季度量产8层HBM4供英伟达\n   网易科技｜2026-10-27｜https://www.163.com/dy/article/LA7S4PO40512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “三星、SK海力士明年二季度量产8层HBM4供英伟达” against primary-source evidence.\n\n4. [23:37] OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题\n   IT之家｜2026-10-27｜https://www.ithome.com/1/018/203.htm\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题” against primary-source evidence.\n\n5. [01:04] 苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前\n   IT之家｜2026-10-27｜https://www.ithome.com/1/018/229.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前” against primary-source evidence.\n\n本次新增线索：\n- 应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrqsv8824091.shtml\n- 苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前｜IT之家｜https://www.ithome.com/1/018/229.htm\n- 塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心｜IT之家｜https://www.ithome.com/1/018/246.htm\n- 原中汽协高层批尊界事件：非标极限测试不可滥用 各平台应报由主管部门决定如何发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwrqsu2062640.shtml\n- 拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国｜IT之家｜https://www.ithome.com/1/018/224.htm\n- Nvidia's AI factory to slash deployment time from 6 months to just 14 days｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/nvidias-ai-factory-slash-deployment-233500055.html\n\n今日热点方向：\n- AI 应用：AI动态（10 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia's AI factory to slash deployment time from 6 months to just 14 days｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/nvidias-ai-factory-slash-deployment-233500055.html\n2. Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)｜TechCrunch｜https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/\n3. Claude helped plan risky bird flu research. What did the AI add?｜Science News｜https://www.sciencenews.org/article/claude-bird-flu-research-ai-biology\n4. Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/\n5. SpaceX locks in $40B GPU financing deal with Apollo｜TechCrunch｜https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-10-27｜V3\n生成时间：2026/10/27 09:59:31\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2433｜确认今日 34｜国际背景 14\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 1 条\n延续跟踪线索：国内 27 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-27] 应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%\n   新浪科技｜2026-10-27｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrqsv8824091.shtml\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%” against primary-source evidence.\n\n2. [2026-10-27] GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！\n   新浪科技｜2026-10-27｜https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！” against primary-source evidence.\n\n3. [2026-10-27] 三星、SK海力士明年二季度量产8层HBM4供英伟达\n   网易科技｜2026-10-27｜https://www.163.com/dy/article/LA7S4PO40512B07B.html\n   报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “三星、SK海力士明年二季度量产8层HBM4供英伟达” against primary-source evidence.\n\n4. [23:37] OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题\n   IT之家｜2026-10-27｜https://www.ithome.com/1/018/203.htm\n   报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题” against primary-source evidence.\n\n5. [01:04] 苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前\n   IT之家｜2026-10-27｜https://www.ithome.com/1/018/229.htm\n   报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前” against primary-source evidence.\n\n本次新增线索：\n- 应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrqsv8824091.shtml\n- 苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前｜IT之家｜https://www.ithome.com/1/018/229.htm\n- 塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心｜IT之家｜https://www.ithome.com/1/018/246.htm\n- 原中汽协高层批尊界事件：非标极限测试不可滥用 各平台应报由主管部门决定如何发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwrqsu2062640.shtml\n- 拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国｜IT之家｜https://www.ithome.com/1/018/224.htm\n- Nvidia's AI factory to slash deployment time from 6 months to just 14 days｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/nvidias-ai-factory-slash-deployment-233500055.html\n\n今日热点方向：\n- AI 应用：AI动态（10 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Nvidia's AI factory to slash deployment time from 6 months to just 14 days｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/nvidias-ai-factory-slash-deployment-233500055.html\n2. Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)｜TechCrunch｜https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/\n3. Claude helped plan risky bird flu research. What did the AI add?｜Science News｜https://www.sciencenews.org/article/claude-bird-flu-research-ai-biology\n4. Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/\n5. SpaceX locks in $40B GPU financing deal with Apollo｜TechCrunch｜https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-10-27｜生成时间：2026/10/27 09:59:31｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2433｜确认今日 34｜国际背景 14</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 7 条｜国际 1 条<br>延续跟踪线索：国内 27 条｜国际 13 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-10-27] 应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%</strong>\n      <span>新浪科技｜2026-10-27｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrqsv8824091.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：190｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-10-27] GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！</strong>\n      <span>新浪科技｜2026-10-27｜<a href=\"https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-10-27] 三星、SK海力士明年二季度量产8层HBM4供英伟达</strong>\n      <span>网易科技｜2026-10-27｜<a href=\"https://www.163.com/dy/article/LA7S4PO40512B07B.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：200｜需核验来源</span>\n      <p>报道角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “三星、SK海力士明年二季度量产8层HBM4供英伟达” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [23:37] OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题</strong>\n      <span>IT之家｜2026-10-27｜<a href=\"https://www.ithome.com/1/018/203.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：181｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [01:04] 苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前</strong>\n      <span>IT之家｜2026-10-27｜<a href=\"https://www.ithome.com/1/018/229.htm\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：167｜需核验来源</span>\n      <p>报道角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Nvidia's AI factory to slash deployment time from 6 months to just 14 days</strong>\n      <span>时间：2026-10-27｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/articles/nvidias-ai-factory-slash-deployment-233500055.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Nvidia's AI factory to slash deployment time from 6 months to just 14 da” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)</strong>\n      <span>时间：Mon, 26 Oct 2026 12:58:40 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. Claude helped plan risky bird flu research. What did the AI add?</strong>\n      <span>时间：Mon, 26 Oct 2026 13:00:00 +0000｜来源：Science News｜<a href=\"https://www.sciencenews.org/article/claude-bird-flu-research-ai-biology\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Claude helped plan risky bird flu research. What did the AI add?” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo</strong>\n      <span>时间：Mon, 26 Oct 2026 20:04:16 +0000｜来源：Ars Technica｜<a href=\"https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Apple releases iOS and macOS 27.2 with new Siri AI features, new Music l” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. SpaceX locks in $40B GPU financing deal with Apollo</strong>\n      <span>时间：Mon, 26 Oct 2026 16:46:36 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Place the development in the semiconductor value chain, focusing on AI-compute demand and domestic alternatives, production evidence and implications for global supply. For this item, test the claim behind “SpaceX locks in $40B GPU financing deal with Apollo” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/10/27 09:59:31\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 7 条｜国际 1 条\n延续跟踪线索：国内 27 条｜国际 13 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-10-27] 应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrqsv8824091.shtml\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%” against primary-source evidence.\n\n2. [2026-10-27] GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml\n   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！” against primary-source evidence.\n\n3. [2026-10-27] 三星、SK海力士明年二季度量产8层HBM4供英伟达\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LA7S4PO40512B07B.html\n   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “三星、SK海力士明年二季度量产8层HBM4供英伟达” against primary-source evidence.\n\n4. [23:37] OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题\n   来源：IT之家\n   链接：https://www.ithome.com/1/018/203.htm\n   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题” against primary-source evidence.\n\n5. [01:04] 苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前\n   来源：IT之家\n   链接：https://www.ithome.com/1/018/229.htm\n   角度：Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前” against primary-source evidence.\n\n本次新增线索：\n- 应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrqsv8824091.shtml\n- 苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前｜IT之家｜https://www.ithome.com/1/018/229.htm\n- 塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心｜IT之家｜https://www.ithome.com/1/018/246.htm\n- 原中汽协高层批尊界事件：非标极限测试不可滥用 各平台应报由主管部门决定如何发布｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwrqsu2062640.shtml\n- 拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国｜IT之家｜https://www.ithome.com/1/018/224.htm\n- Nvidia's AI factory to slash deployment time from 6 months to just 14 days｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/nvidias-ai-factory-slash-deployment-233500055.html\n\n今日热点方向：\n- AI 应用：AI动态（10 条，4 个来源）\n- 芯片/半导体：半导体供应链（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车与智能驾驶（3 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：科学前沿动态（1 条，1 个来源）\n\n国际科技背景：\n1. Nvidia's AI factory to slash deployment time from 6 months to just 14 days｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/nvidias-ai-factory-slash-deployment-233500055.html\n2. Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)｜TechCrunch｜https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/\n3. Claude helped plan risky bird flu research. What did the AI add?｜Science News｜https://www.sciencenews.org/article/claude-bird-flu-research-ai-biology\n4. Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/\n5. SpaceX locks in $40B GPU financing deal with Apollo｜TechCrunch｜https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 };
