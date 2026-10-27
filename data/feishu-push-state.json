@@ -1919,6 +1919,12 @@
       "displayTime": "2026-10-27 09:42",
       "scheduleSlot": "07:00",
       "runId": "40433719443"
+    },
+    "v3-2026-10-27-afternoon": {
+      "sentAt": "2026-10-27T11:06:01.763Z",
+      "displayTime": "2026-10-27 19:06",
+      "scheduleSlot": "14:00",
+      "runId": "40492871677"
     }
   }
 }

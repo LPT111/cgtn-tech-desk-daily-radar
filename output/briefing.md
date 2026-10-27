@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/27 10:09:07
+生成时间：2026/10/27 19:00:45
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 1 条
-延续跟踪线索：国内 31 条｜国际 14 条
+新增核心线索：国内 61 条｜国际 5 条
+延续跟踪线索：国内 4 条｜国际 13 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-27] GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！
+1. [2026-10-27] 亮源新创：打破冷启动，消费级具身智能即将迎来ChatGPT时刻
    来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml
-   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-10-27/doc-iniwrzhr8851776.shtml
+   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “亮源新创：打破冷启动，消费级具身智能即将迎来ChatGPT时刻” against primary-source evidence.
 
-2. [2026-10-27] 三星、SK海力士明年二季度量产8层HBM4供英伟达
+2. [2026-10-27] 讯飞星火 X2.6 正式发布
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/mobile/2026-10-27/doc-iniwruys2126122.shtml
+   角度：Ask whether this changes China’s AI competitiveness through model capability, access and ecosystem effects, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “讯飞星火 X2.6 正式发布” against primary-source evidence.
+
+3. [2026-10-27] “2026进博交通出行服务专区”上线！首次引入AI出行智能体
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/wm/2026-10-27/doc-iniwrqsz1508896.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind ““2026进博交通出行服务专区”上线！首次引入AI出行智能体” against primary-source evidence.
+
+4. [2026-10-27] 3000B大模型，如何塞进一台算力盒子？明略科技(
    来源：网易科技
-   链接：https://www.163.com/dy/article/LA7S4PO40512B07B.html
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “三星、SK海力士明年二季度量产8层HBM4供英伟达” against primary-source evidence.
+   链接：https://www.163.com/dy/article/LA8REMDI0534A4SC.html
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “3000B大模型，如何塞进一台算力盒子？明略科技(” against primary-source evidence.
 
-3. [2026-10-27] 联通数科连续四年蝉联中国AI+应急解决方案市场份额榜首
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwrqsu2065087.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “联通数科连续四年蝉联中国AI+应急解决方案市场份额榜首” against primary-source evidence.
-
-4. [2026-10-27] 应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-10-27/doc-iniwrqsv8824091.shtml
-   角度：Place the development in the semiconductor value chain, focusing on manufacturing capability and bottlenecks, production evidence and implications for global supply. For this item, test the claim behind “应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%” against primary-source evidence.
-
-5. [2026-10-27] NVIDIA说RTX 5090没停产！合作伙伴却连延期订单都下不了：谁在说谎
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwrqsx4722460.shtml
-   角度：Place the development in the semiconductor value chain, focusing on semiconductors, advanced manufacturing and compute infrastructure, production evidence and implications for global supply. For this item, test the claim behind “NVIDIA说RTX 5090没停产！合作伙伴却连延期订单都下不了：谁在说谎” against primary-source evidence.
+5. [2026-10-27] 米埃勒：AI若有20%的概率毁灭人类
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LA7UB4220514R9P4.html
+   角度：Ask whether this changes China’s AI competitiveness through governance, safety and public trust, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “米埃勒：AI若有20%的概率毁灭人类” against primary-source evidence.
 
 本次新增线索：
-- 联通数科连续四年蝉联中国AI+应急解决方案市场份额榜首｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwrqsu2065087.shtml
-- NVIDIA说RTX 5090没停产！合作伙伴却连延期订单都下不了：谁在说谎｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwrqsx4722460.shtml
-- Anthropic七位联创身价均超900亿！上市有望翻倍 承诺捐出80%财富｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-27/doc-iniwrqsz1501835.shtml
-- 崔东树：2027年国内车市零售销量预计增长2%；大｜网易科技｜https://www.163.com/dy/article/LA7S4Q590512B07B.html
-- Anthropic的奇异之处｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwrqsz1499691.shtml
-- How OpenAI turned its coding tools into dots, an always-on personal assistant｜TechCrunch｜https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/
+- 亮源新创：打破冷启动，消费级具身智能即将迎来ChatGPT时刻｜新浪科技｜https://finance.sina.com.cn/tech/mobile/n/n/2026-10-27/doc-iniwrzhr8851776.shtml
+- 讯飞星火 X2.6 正式发布｜新浪科技｜https://finance.sina.com.cn/tech/mobile/2026-10-27/doc-iniwruys2126122.shtml
+- “2026进博交通出行服务专区”上线！首次引入AI出行智能体｜新浪科技｜https://finance.sina.com.cn/wm/2026-10-27/doc-iniwrqsz1508896.shtml
+- 3000B大模型，如何塞进一台算力盒子？明略科技(｜网易科技｜https://www.163.com/dy/article/LA8REMDI0534A4SC.html
+- 米埃勒：AI若有20%的概率毁灭人类｜网易科技｜https://www.163.com/dy/article/LA7UB4220514R9P4.html
+- Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625
 
 今日热点方向：
-- AI 应用：AI动态（9 条，4 个来源）
-- 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（4 条，3 个来源）
-- 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- AI 应用：AI动态（18 条，5 个来源）
+- 芯片/半导体：半导体供应链（5 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（6 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（6 条，2 个来源）
+- 太空与低空经济：商业航天与卫星互联网（2 条，2 个来源）
+- 科学前沿：科学前沿动态（4 条，3 个来源）
 
 国际科技背景：
 1. Nvidia's AI factory to slash deployment time from 6 months to just 14 days｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/nvidias-ai-factory-slash-deployment-233500055.html
-2. How OpenAI turned its coding tools into dots, an always-on personal assistant｜TechCrunch｜https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/
-3. Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)｜TechCrunch｜https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/
-4. Claude helped plan risky bird flu research. What did the AI add?｜Science News｜https://www.sciencenews.org/article/claude-bird-flu-research-ai-biology
-5. Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/
+2. Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625
+3. Sam Altman Announces OpenAI’s Budget-Friendly GPT-6.1 Terra, Touts ‘New Era’ of Computer Use｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/sam-altman-announces-openai-budget-071529880.html
+4. ‘Disable This Via Settings’—Microsoft AI Starts Reading Your Emails And Chats｜Yahoo News Technology｜https://tech.yahoo.com/ai/copilot/articles/disable-via-settings-microsoft-ai-074046560.html
+5. This Underrated AMD GPU Feature Can Improve Your FPS For Free｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/underrated-amd-gpu-feature-improve-031700411.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
