@@ -1,62 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/27 20:19:47
+生成时间：2026/10/28 09:49:27
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 7 条｜国际 0 条
-延续跟踪线索：国内 50 条｜国际 15 条
+新增核心线索：国内 39 条｜国际 11 条
+延续跟踪线索：国内 0 条｜国际 4 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-27] 亮源新创：打破冷启动，消费级具身智能即将迎来ChatGPT时刻
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/mobile/n/n/2026-10-27/doc-iniwrzhr8851776.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind “亮源新创：打破冷启动，消费级具身智能即将迎来ChatGPT时刻” against primary-source evidence.
-
-2. [2026-10-27] GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrecf1674950.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！” against primary-source evidence.
-
-3. [2026-10-27] 讯飞星火 X2.6 正式发布
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/mobile/2026-10-27/doc-iniwruys2126122.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “讯飞星火 X2.6 正式发布” against primary-source evidence.
-
-4. [2026-10-27] “2026进博交通出行服务专区”上线！首次引入AI出行智能体
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/wm/2026-10-27/doc-iniwrqsz1508896.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind ““2026进博交通出行服务专区”上线！首次引入AI出行智能体” against primary-source evidence.
-
-5. [2026-10-27] 3000B大模型，如何塞进一台算力盒子？明略科技(
+1. [00:55] 2026新一代人工智能(深圳)创业创新大赛
    来源：网易科技
-   链接：https://www.163.com/dy/article/LA8REMDI0534A4SC.html
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “3000B大模型，如何塞进一台算力盒子？明略科技(” against primary-source evidence.
+   链接：https://tech.163.com/special/2026aiec/
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “2026新一代人工智能(深圳)创业创新大赛” against primary-source evidence.
+
+2. [2026-10-28] 豪威首款2.2微米全局快门单曝光HDR图像传感器发布：专为工业机器与机器人打造
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-28/doc-iniwttse3413904.shtml
+   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “豪威首款2.2微米全局快门单曝光HDR图像传感器发布：专为工业机器与机器人打造” against primary-source evidence.
+
+3. [2026-10-28] Google发布Genie 4世界模型
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiam9929133.shtml
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “Google发布Genie 4世界模型” against primary-source evidence.
+
+4. [2026-10-28] 谷歌推出Genie 4世界模型，可实时生成交互式虚
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LAAJJ0IQ0512B07B.html
+   角度：Explain which chip bottleneck this addresses and assess semiconductors, advanced manufacturing and compute infrastructure, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “谷歌推出Genie 4世界模型，可实时生成交互式虚” against primary-source evidence.
+
+5. [2026-10-28] 迎战“双11”快递高峰 AI加速渗透物流业
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-28/doc-iniwttrx3866630.shtml
+   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “迎战“双11”快递高峰 AI加速渗透物流业” against primary-source evidence.
 
 本次新增线索：
-- 浙江：鼓励更多民企在人工智能等赛道上“揭榜挂帅”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-10/27/content_603658.html
-- AMD下代锐龙性能猛涨一波：残血版Zen6 IPC也能涨16%｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-27/doc-iniwsmwr1227294.shtml
-- 8万平米大展背后：深圳半导体的“补链”野心｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwsmww0320364.shtml
-- 比亚迪：智驾等创新业务将稳步推进 相关业务尚｜网易科技｜https://www.163.com/dy/article/LA92C5S40512B07B.html
-- 没有舌尖体验何来探店测评？AI合成内容不应瓦解｜网易科技｜https://www.163.com/dy/article/LA97GP5I0512B07B.html
+- 2026新一代人工智能(深圳)创业创新大赛｜网易科技｜https://tech.163.com/special/2026aiec/
+- 豪威首款2.2微米全局快门单曝光HDR图像传感器发布：专为工业机器与机器人打造｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-28/doc-iniwttse3413904.shtml
+- Google发布Genie 4世界模型｜新浪科技｜https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiam9929133.shtml
+- 谷歌推出Genie 4世界模型，可实时生成交互式虚｜网易科技｜https://www.163.com/dy/article/LAAJJ0IQ0512B07B.html
+- 迎战“双11”快递高峰 AI加速渗透物流业｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-28/doc-iniwttrx3866630.shtml
+- Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI｜CNBC Technology｜https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html
 
 今日热点方向：
-- AI 应用：AI动态（14 条，5 个来源）
-- 芯片/半导体：半导体供应链（4 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（4 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（8 条，3 个来源）
-- 太空与低空经济：商业航天与卫星互联网（2 条，2 个来源）
-- 科学前沿：科学前沿动态（5 条，3 个来源）
+- AI 应用：AI 应用与智能体（8 条，3 个来源）
+- 芯片/半导体：半导体供应链（8 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（2 条，1 个来源）
+- 太空与低空经济：太空与低空动态（1 条，1 个来源）
+- 科学前沿：科学前沿与科研设施（2 条，1 个来源）
 
 国际科技背景：
-1. Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)｜TechCrunch｜https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/
-2. Claude helped plan risky bird flu research. What did the AI add?｜Science News｜https://www.sciencenews.org/article/claude-bird-flu-research-ai-biology
-3. How OpenAI turned its coding tools into dots, an always-on personal assistant｜TechCrunch｜https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/
-4. OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574
-5. Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo｜Ars Technica｜https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/
+1. Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI｜CNBC Technology｜https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html
+2. Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks｜WIRED Science｜https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/
+3. Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication｜TechCrunch｜https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/
+4. Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?｜TechCrunch｜https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/
+5. Apple rolls out iOS 27.2 with new Siri AI languages and security fixes｜TechCrunch｜https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
