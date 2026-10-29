@@ -1,61 +1,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/29 10:30:09
+生成时间：2026/10/29 19:46:43
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 0 条
-延续跟踪线索：国内 38 条｜国际 18 条
+新增核心线索：国内 51 条｜国际 5 条
+延续跟踪线索：国内 7 条｜国际 17 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-29] 智元宣布量产人形机器人20000台，2026上半年营收近20亿元
+1. [2026-10-29] 钛动科技发布AI for Growth智能体，日均10亿+数据感知监测
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwiew6098874.shtml
+   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “钛动科技发布AI for Growth智能体，日均10亿+数据感知监测” against primary-source evidence.
+
+2. [2026-10-29] 智元发布WITA-OMNI具身全模态端到端交互大模型，支持100多种语言极速交互
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwaxa2926175.shtml
+   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “智元发布WITA-OMNI具身全模态端到端交互大模型，支持100多种语言极速交互” against primary-source evidence.
+
+3. [2026-10-29] 谷歌最强模型Gemini 4 Carbon正式发布：重回全球第一！
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/discovery/2026-10-29/doc-iniwvwre2896482.shtml
+   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌最强模型Gemini 4 Carbon正式发布：重回全球第一！” against primary-source evidence.
+
+4. [09:47] 美国纽约州新法令禁止向未成年人提供不安全 AI 聊天机器人服务
+   来源：IT之家
+   链接：https://www.ithome.com/1/019/627.htm
+   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “美国纽约州新法令禁止向未成年人提供不安全 AI 聊天机器人服务” against primary-source evidence.
+
+5. [2026-10-29] 智元宣布量产人形机器人20000台，2026上半年营收近20亿元
    来源：新浪科技
    链接：https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwaxc8915036.shtml
    角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智元宣布量产人形机器人20000台，2026上半年营收近20亿元” against primary-source evidence.
 
-2. [2026-10-29] 光伏企业海外技术合作规则进一步明确
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwwaxc8933950.shtml
-   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “光伏企业海外技术合作规则进一步明确” against primary-source evidence.
-
-3. [2026-10-29] 惠誉警告：人工智能热潮和收益率上升威胁全球市场
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LAD0KSTI0534A4SC.html
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “惠誉警告：人工智能热潮和收益率上升威胁全球市场” against primary-source evidence.
-
-4. [22:35] Claude AI 找漏洞实战：安卓手机锁屏下提取照片、53 分钟攻破 Linux 获取最高权限
-   来源：IT之家
-   链接：https://www.ithome.com/1/019/268.htm
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Claude AI 找漏洞实战：安卓手机锁屏下提取照片、53 分钟攻破 Linux 获取最高权限” against primary-source evidence.
-
-5. [2026-10-29] 人民日报深阅读：企业办事更便捷，城市治理更精准，道路服务更贴心 人工智能，加速融入你我生活
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwvsie6193453.shtml
-   角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人民日报深阅读：企业办事更便捷，城市治理更精准，道路服务更贴心 人工智能，加速融入你我生活” against primary-source evidence.
-
 本次新增线索：
-- AI巨头抢特朗普嫌弃的“丑”东西｜网易科技｜https://www.163.com/dy/article/LADALRPK051481US.html
-- 摩尔线程三季报出炉：Q3实现提前盈利，国产GPU龙头进入业绩兑现期｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwwaxa2877464.shtml
-- 中国信通院发布AI漏洞挖掘能力标尺，360图龙锋全国首个通过评估｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwwaxa2876926.shtml
-- AI 视频的天亮了！LibTV 把价格打没了！0 积分无限蹬｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwwaxc8942211.shtml
+- 钛动科技发布AI for Growth智能体，日均10亿+数据感知监测｜新浪科技｜https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwiew6098874.shtml
+- 智元发布WITA-OMNI具身全模态端到端交互大模型，支持100多种语言极速交互｜新浪科技｜https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwaxa2926175.shtml
+- 谷歌最强模型Gemini 4 Carbon正式发布：重回全球第一！｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-10-29/doc-iniwvwre2896482.shtml
+- 美国纽约州新法令禁止向未成年人提供不安全 AI 聊天机器人服务｜IT之家｜https://www.ithome.com/1/019/627.htm
+- Momenta预告R7 Ultra：模型参数规模扩大至原来5倍，安全性能表现提升5倍｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwwtuu2831249.shtml
+- An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’｜WIRED Science｜https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/
 
 今日热点方向：
-- AI 应用：AI动态（10 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
-- 机器人/具身智能：人形机器人与具身智能（3 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
-- 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（4 条，3 个来源）
+- AI 应用：AI 应用与智能体（13 条，4 个来源）
+- 芯片/半导体：
+- 机器人/具身智能：人形机器人与具身智能（8 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（7 条，3 个来源）
+- 太空与低空经济：太空与低空动态（3 条，3 个来源）
+- 科学前沿：科学前沿与科研设施（2 条，2 个来源）
 
 国际科技背景：
-1. Google expands AI Search ads globally as core ad growth slows｜TechCrunch｜https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/
-2. Intel gets tax breaks while local authorities lose revenue, claims policy org｜The Register｜https://www.theregister.com/systems/2026/10/28/intel-gets-tax-breaks-while-local-authorities-lose-revenue-claims-policy-org/5305902
-3. Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks｜WIRED Science｜https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/
-4. Voice AI in vogue: Nvidia releases new open transcription model｜TechCrunch｜https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/
-5. Microsoft recorded $10 billion in revenue from OpenAI｜TechCrunch｜https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/
+1. An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’｜WIRED Science｜https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/
+2. Google expands AI Search ads globally as core ad growth slows｜TechCrunch｜https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/
+3. Intel gets tax breaks while local authorities lose revenue, claims policy org｜The Register｜https://www.theregister.com/systems/2026/10/28/intel-gets-tax-breaks-while-local-authorities-lose-revenue-claims-policy-org/5305902
+4. Google struggling to make AI Mode searches pay｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181
+5. Windows 11 could get a serious performance boost, but there’s a catch｜Yahoo News Technology｜https://tech.yahoo.com/computing/articles/windows-11-could-serious-performance-090338526.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
