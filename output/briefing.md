@@ -3,63 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/29 09:57:46
+生成时间：2026/10/29 10:20:58
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 32 条｜国际 6 条
-延续跟踪线索：国内 0 条｜国际 12 条
+新增核心线索：国内 10 条｜国际 0 条
+延续跟踪线索：国内 30 条｜国际 18 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-29] 智元宣布量产人形机器人20000台，2026上半年营收近20亿元
+1. [2026-10-29] 光伏企业海外技术合作规则进一步明确
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwwaxc8933950.shtml
+   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “光伏企业海外技术合作规则进一步明确” against primary-source evidence.
+
+2. [2026-10-29] 智元宣布量产人形机器人20000台，2026上半年营收近20亿元
    来源：新浪科技
    链接：https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwaxc8915036.shtml
    角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智元宣布量产人形机器人20000台，2026上半年营收近20亿元” against primary-source evidence.
 
-2. [2026-10-29] 惠誉警告：人工智能热潮和收益率上升威胁全球市场
+3. [2026-10-29] 智元首提物理AI价值度量单位Worken，发布《2026具身智能产业创新报告》
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwawy6076902.shtml
+   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “智元首提物理AI价值度量单位Worken，发布《2026具身智能产业创新报告》” against primary-source evidence.
+
+4. [2026-10-29] 惠誉警告：人工智能热潮和收益率上升威胁全球市场
    来源：网易科技
    链接：https://www.163.com/dy/article/LAD0KSTI0534A4SC.html
    角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “惠誉警告：人工智能热潮和收益率上升威胁全球市场” against primary-source evidence.
 
-3. [2026-10-29] 人民日报深阅读：企业办事更便捷，城市治理更精准，道路服务更贴心 人工智能，加速融入你我生活
+5. [2026-10-29] 人民日报深阅读：企业办事更便捷，城市治理更精准，道路服务更贴心 人工智能，加速融入你我生活
    来源：新浪科技
    链接：https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwvsie6193453.shtml
    角度：Turn the item into a reporting test of governance, safety and public trust: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “人民日报深阅读：企业办事更便捷，城市治理更精准，道路服务更贴心 人工智能，加速融入你我生活” against primary-source evidence.
 
-4. [2026-10-29] 影响市场重大事件：美国联邦通信委员会批准了亚马逊Leo以115亿美元收购Globalstar的计划
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LAD00TUF0512B07B.html
-   角度：Frame the item through mission capability and commercial sustainability, China’s industrial ecosystem and the international market or standards context. For this item, test the claim behind “影响市场重大事件：美国联邦通信委员会批准了亚马逊Leo以115亿美元收购Globalstar的计划” against primary-source evidence.
-
-5. [2026-10-29] OpenAI与ServiceNow扩大合作
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LACE9DV105198CJN.html
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “OpenAI与ServiceNow扩大合作” against primary-source evidence.
-
 本次新增线索：
-- 智元宣布量产人形机器人20000台，2026上半年营收近20亿元｜新浪科技｜https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwaxc8915036.shtml
-- 惠誉警告：人工智能热潮和收益率上升威胁全球市场｜网易科技｜https://www.163.com/dy/article/LAD0KSTI0534A4SC.html
-- 人民日报深阅读：企业办事更便捷，城市治理更精准，道路服务更贴心 人工智能，加速融入你我生活｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwvsie6193453.shtml
-- 影响市场重大事件：美国联邦通信委员会批准了亚马逊Leo以115亿美元收购Globalstar的计划｜网易科技｜https://www.163.com/dy/article/LAD00TUF0512B07B.html
-- OpenAI与ServiceNow扩大合作｜网易科技｜https://www.163.com/dy/article/LACE9DV105198CJN.html
-- Google expands AI Search ads globally as core ad growth slows｜TechCrunch｜https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/
+- 光伏企业海外技术合作规则进一步明确｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwwaxc8933950.shtml
+- 智元首提物理AI价值度量单位Worken，发布《2026具身智能产业创新报告》｜新浪科技｜https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwawy6076902.shtml
+- 微软Azure增速超预期，AI算力产业预期持续修复｜网易科技｜https://www.163.com/dy/article/LADA7FTJ0512B07B.html
+- 当机器人走出预设任务：RobotAgentBench全面评测机器人的开放世界能力｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwwaxf5386639.shtml
+- 三星电子计划2027年上半年开始量产HBM4E｜网易科技｜https://www.163.com/dy/article/LADBGVQK05198CJN.html
 
 今日热点方向：
-- AI 应用：AI动态（7 条，3 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（2 条，2 个来源）
+- AI 应用：AI动态（9 条，3 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- 机器人/具身智能：人形机器人与具身智能（3 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
 - 太空与低空经济：太空与低空动态（2 条，2 个来源）
-- 科学前沿：科学前沿动态（3 条，2 个来源）
+- 科学前沿：科学前沿动态（4 条，3 个来源）
 
 国际科技背景：
 1. Google expands AI Search ads globally as core ad growth slows｜TechCrunch｜https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/
 2. Intel gets tax breaks while local authorities lose revenue, claims policy org｜The Register｜https://www.theregister.com/systems/2026/10/28/intel-gets-tax-breaks-while-local-authorities-lose-revenue-claims-policy-org/5305902
-3. Voice AI in vogue: Nvidia releases new open transcription model｜TechCrunch｜https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/
-4. Microsoft recorded $10 billion in revenue from OpenAI｜TechCrunch｜https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/
-5. As AI agents reshape the web, Google opens Gemini and Search to more apps｜TechCrunch｜https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/
+3. Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks｜WIRED Science｜https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/
+4. Voice AI in vogue: Nvidia releases new open transcription model｜TechCrunch｜https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/
+5. Microsoft recorded $10 billion in revenue from OpenAI｜TechCrunch｜https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
