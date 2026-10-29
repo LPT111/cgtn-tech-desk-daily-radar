@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/29 20:26:25
+生成时间：2026/10/29 21:10:21
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 4 条｜国际 2 条
-延续跟踪线索：国内 48 条｜国际 22 条
+新增核心线索：国内 8 条｜国际 2 条
+延续跟踪线索：国内 47 条｜国际 22 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -28,10 +28,10 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwaxc8915036.shtml
    角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智元宣布量产人形机器人20000台，2026上半年营收近20亿元” against primary-source evidence.
 
-4. [2026-10-29] 何小鹏：MONA系列平均月销14000台，全球累计交付超36万台
+4. [2026-10-29] 厂商聚焦主动智能情感陪伴 又一款伙伴式交互机器人正式亮相
    来源：新浪科技
-   链接：https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwwyas2808625.shtml
-   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “何小鹏：MONA系列平均月销14000台，全球累计交付超36万台” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwxekr8682402.shtml
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “厂商聚焦主动智能情感陪伴 又一款伙伴式交互机器人正式亮相” against primary-source evidence.
 
 5. [2026-10-29] 谷歌最强模型Gemini 4 Carbon正式发布：重回全球第一！
    来源：新浪科技
@@ -39,27 +39,27 @@ ChenChen 今日 Briefing｜V3
    角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌最强模型Gemini 4 Carbon正式发布：重回全球第一！” against primary-source evidence.
 
 本次新增线索：
-- 何小鹏：MONA系列平均月销14000台，全球累计交付超36万台｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwwyas2808625.shtml
-- Genspark 发布第二款硬件 VoicePad：在用户本来就要开口的地方，放一个 AI 入口｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwwyaq6024324.shtml
-- 豆包手机助手宣布新功能上线！一句话帮你AI焕新桌面、生成专属壁纸｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwwyaq6027908.shtml
-- 险资三季度持仓披露！中国人寿新晋宁德时代第九大股东，持仓超2600万股｜新浪科技｜https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwwyaq5979691.shtml
-- Google's Gemini 4 Carbon looks like a diamond in the rough｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/29/googles-gemini-4-carbon-looks-like-a-diamond-in-the-rough/5306149
-- SpaceX no longer needs NASA, and that's a problem for America's space agency｜Ars Technica｜https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/
+- 厂商聚焦主动智能情感陪伴 又一款伙伴式交互机器人正式亮相｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwxekr8682402.shtml
+- AI进化速递丨腾讯发布面向个人用户的跨应用AI协同体系Buddy One｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwwyaq6050076.shtml
+- 科研人员创制新的碳纳米带实现高效电子输运｜中国科学院｜https://www.cas.cn/syky/202610/t20261029_5123069.shtml
+- 欧阳明高：2025年国内动力电池出货量1875GWh，2030年接近翻倍｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwxekq2711457.shtml
+- V观财报｜多只半导体股业绩爆发：普冉股份前三季净利增2533.23%，江波龙增1909.68%，兆易创新增921.55%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwxekr8689564.shtml
+- Google Confirms Chrome AI Can Crawl Your Gmail Inbox For Autofill Data｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-confirms-chrome-ai-crawl-123753686.html
 
 今日热点方向：
-- AI 应用：AI动态（13 条，4 个来源）
-- 芯片/半导体：
+- AI 应用：AI 应用与智能体（13 条，4 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
 - 机器人/具身智能：人形机器人与具身智能（8 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）
 - 太空与低空经济：太空与低空动态（3 条，3 个来源）
-- 科学前沿：科学前沿与科研设施（1 条，1 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
 1. An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’｜WIRED Science｜https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/
 2. Google expands AI Search ads globally as core ad growth slows｜TechCrunch｜https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/
 3. Intel gets tax breaks while local authorities lose revenue, claims policy org｜The Register｜https://www.theregister.com/systems/2026/10/28/intel-gets-tax-breaks-while-local-authorities-lose-revenue-claims-policy-org/5305902
-4. Google's Gemini 4 Carbon looks like a diamond in the rough｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/29/googles-gemini-4-carbon-looks-like-a-diamond-in-the-rough/5306149
-5. SpaceX no longer needs NASA, and that's a problem for America's space agency｜Ars Technica｜https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/
+4. Google Confirms Chrome AI Can Crawl Your Gmail Inbox For Autofill Data｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-confirms-chrome-ai-crawl-123753686.html
+5. Opinion: It’s Time to Teach Students to Be Drivers of AI, Not Passengers｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/opinion-time-teach-students-drivers-123000239.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
