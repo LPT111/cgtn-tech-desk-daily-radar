@@ -3,63 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/10/29 21:10:21
+生成时间：2026/10/30 10:10:25
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 2 条
-延续跟踪线索：国内 47 条｜国际 22 条
+新增核心线索：国内 28 条｜国际 9 条
+延续跟踪线索：国内 0 条｜国际 6 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-10-29] 钛动科技发布AI for Growth智能体，日均10亿+数据感知监测
+1. [2026-10-30] 马斯克再次预言：人工智能将带来超级富足，为未来存钱毫无意义
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwiew6098874.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “钛动科技发布AI for Growth智能体，日均10亿+数据感知监测” against primary-source evidence.
+   链接：https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxzqf8400461.shtml
+   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “马斯克再次预言：人工智能将带来超级富足，为未来存钱毫无意义” against primary-source evidence.
 
-2. [2026-10-29] 智元发布WITA-OMNI具身全模态端到端交互大模型，支持100多种语言极速交互
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwaxa2926175.shtml
-   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “智元发布WITA-OMNI具身全模态端到端交互大模型，支持100多种语言极速交互” against primary-source evidence.
+2. [2026-10-30] 南山智尚：人形机器人相关业务尚处于客户培育认证阶段
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LAFQN6UE0512B07B.html
+   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “南山智尚：人形机器人相关业务尚处于客户培育认证阶段” against primary-source evidence.
 
-3. [2026-10-29] 智元宣布量产人形机器人20000台，2026上半年营收近20亿元
+3. [2026-10-30] 大普微Q3净利暴增1492%扭亏为盈！存储芯片板块强力回弹
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tob/2026-10-29/doc-iniwwaxc8915036.shtml
-   角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智元宣布量产人形机器人20000台，2026上半年营收近20亿元” against primary-source evidence.
+   链接：https://finance.sina.cn/stock/dpps/2026-10-30/detail-iniwyfwf4800968.d.html
+   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “大普微Q3净利暴增1492%扭亏为盈！存储芯片板块强力回弹” against primary-source evidence.
 
-4. [2026-10-29] 厂商聚焦主动智能情感陪伴 又一款伙伴式交互机器人正式亮相
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwxekr8682402.shtml
-   角度：Prioritize strong visuals but anchor them in embodied intelligence beyond demonstration, measurable performance and repeatable commercial use. For this item, test the claim behind “厂商聚焦主动智能情感陪伴 又一款伙伴式交互机器人正式亮相” against primary-source evidence.
+4. [2026-10-30] 豆包工作开放企业第三方模型调用能力；启元机器
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LAFHGD4F0512B07B.html
+   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “豆包工作开放企业第三方模型调用能力；启元机器” against primary-source evidence.
 
-5. [2026-10-29] 谷歌最强模型Gemini 4 Carbon正式发布：重回全球第一！
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/discovery/2026-10-29/doc-iniwvwre2896482.shtml
-   角度：Frame this as an AI deployment story about model capability, access and ecosystem effects, separating product claims from evidence of real-world adoption. For this item, test the claim behind “谷歌最强模型Gemini 4 Carbon正式发布：重回全球第一！” against primary-source evidence.
+5. [2026-10-30] AI早报｜智元发布物理AI价值度量单位Worken；亚
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LAFPO3U50534A4SC.html
+   角度：Assess the robotics value chain through robotics, embodied intelligence and smart manufacturing, including components, cost, reliability and export potential. For this item, test the claim behind “AI早报｜智元发布物理AI价值度量单位Worken；亚” against primary-source evidence.
 
 本次新增线索：
-- 厂商聚焦主动智能情感陪伴 又一款伙伴式交互机器人正式亮相｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwxekr8682402.shtml
-- AI进化速递丨腾讯发布面向个人用户的跨应用AI协同体系Buddy One｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwwyaq6050076.shtml
-- 科研人员创制新的碳纳米带实现高效电子输运｜中国科学院｜https://www.cas.cn/syky/202610/t20261029_5123069.shtml
-- 欧阳明高：2025年国内动力电池出货量1875GWh，2030年接近翻倍｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwxekq2711457.shtml
-- V观财报｜多只半导体股业绩爆发：普冉股份前三季净利增2533.23%，江波龙增1909.68%，兆易创新增921.55%｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-10-29/doc-iniwxekr8689564.shtml
-- Google Confirms Chrome AI Can Crawl Your Gmail Inbox For Autofill Data｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-confirms-chrome-ai-crawl-123753686.html
+- 马斯克再次预言：人工智能将带来超级富足，为未来存钱毫无意义｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxzqf8400461.shtml
+- 南山智尚：人形机器人相关业务尚处于客户培育认证阶段｜网易科技｜https://www.163.com/dy/article/LAFQN6UE0512B07B.html
+- 大普微Q3净利暴增1492%扭亏为盈！存储芯片板块强力回弹｜新浪科技｜https://finance.sina.cn/stock/dpps/2026-10-30/detail-iniwyfwf4800968.d.html
+- 豆包工作开放企业第三方模型调用能力；启元机器｜网易科技｜https://www.163.com/dy/article/LAFHGD4F0512B07B.html
+- AI早报｜智元发布物理AI价值度量单位Worken；亚｜网易科技｜https://www.163.com/dy/article/LAFPO3U50534A4SC.html
+- US investigated Chinese spy plot aimed at Nvidia CEO｜TechCrunch｜https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（13 条，4 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（8 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（5 条，2 个来源）
-- 太空与低空经济：太空与低空动态（3 条，3 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- AI 应用：AI 应用与智能体（6 条，3 个来源）
+- 芯片/半导体：国产 GPU / 算力基础设施（5 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（3 条，2 个来源）
+- 太空与低空经济：低空经济与无人机（1 条，1 个来源）
+- 科学前沿：科学前沿与科研设施（2 条，2 个来源）
 
 国际科技背景：
-1. An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’｜WIRED Science｜https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/
-2. Google expands AI Search ads globally as core ad growth slows｜TechCrunch｜https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/
-3. Intel gets tax breaks while local authorities lose revenue, claims policy org｜The Register｜https://www.theregister.com/systems/2026/10/28/intel-gets-tax-breaks-while-local-authorities-lose-revenue-claims-policy-org/5305902
-4. Google Confirms Chrome AI Can Crawl Your Gmail Inbox For Autofill Data｜Yahoo News Technology｜https://tech.yahoo.com/ai/gemini/articles/google-confirms-chrome-ai-crawl-123753686.html
-5. Opinion: It’s Time to Teach Students to Be Drivers of AI, Not Passengers｜Yahoo News Technology｜https://tech.yahoo.com/ai/deals/articles/opinion-time-teach-students-drivers-123000239.html
+1. US investigated Chinese spy plot aimed at Nvidia CEO｜TechCrunch｜https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/
+2. Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says｜Ars Technica｜https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/
+3. An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’｜WIRED Science｜https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/
+4. You don’t need to believe in a god to get a religious exemption from using AI at work｜TechCrunch｜https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/
+5. OpenAI-backed Thrive Holdings acquires ADT｜TechCrunch｜https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
