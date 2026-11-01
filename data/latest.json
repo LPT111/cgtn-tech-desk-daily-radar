@@ -1,54 +1,44 @@
 {
-  "generatedAt": "2026-11-01T01:31:32.095Z",
+  "generatedAt": "2026-11-01T02:06:38.675Z",
   "radarVersion": "v3",
   "targetDate": "2026-11-01",
   "changeSummary": {
-    "domesticNew": 18,
-    "globalNew": 3,
-    "domesticContinued": 0,
-    "globalContinued": 8,
+    "domesticNew": 5,
+    "globalNew": 1,
+    "domesticContinued": 14,
+    "globalContinued": 11,
     "topNewDomestic": [
       {
-        "title": "AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器",
+        "title": "深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepuc6899246.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzz6809562.shtml"
       },
       {
-        "title": "消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepty4337025.shtml"
+        "title": "小米汽车10月交付量超5万台",
+        "source": "网易科技",
+        "url": "https://www.163.com/dy/article/LAKV3T1105198CJN.html"
       },
       {
-        "title": "OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心",
+        "title": "刚刚，DeepSeek 开源「超级智能体」！这 AI 牛马，没人 @ 都自己干活",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010236.shtml"
+        "url": "https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixeuac3258808.shtml"
       },
       {
-        "title": "AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌",
+        "title": "全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励",
         "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeceh1320354.shtml"
+        "url": "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzw4268254.shtml"
       },
       {
-        "title": "消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本",
-        "source": "新浪科技",
-        "url": "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixeuac3227160.shtml"
+        "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
+        "source": "IT之家",
+        "url": "https://www.ithome.com/1/020/640.htm"
       }
     ],
     "topNewGlobal": [
       {
-        "title": "OpenAI reportedly lowers funding target for new round",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
-      },
-      {
-        "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html"
-      },
-      {
-        "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-        "source": "CNBC Technology",
-        "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html"
+        "title": "OpenAI now lets you text your ChatGPT Dot agent to get things done",
+        "source": "Yahoo News Technology",
+        "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-now-lets-text-chatgpt-010639985.html"
       }
     ],
     "hasPrevious": true
@@ -57,8 +47,8 @@
     "classificationValidationRate": 100,
     "globalWhitelistRate": 100,
     "angleDuplicateRate": 0,
-    "domesticRejected": 882,
-    "globalRejected": 889,
+    "domesticRejected": 881,
+    "globalRejected": 888,
     "targets": {
       "classificationValidationRate": ">90%",
       "globalWhitelistRate": ">85%",
@@ -72,12 +62,22 @@
   ],
   "todayOnly": true,
   "sourcesChecked": 35,
-  "successSources": 31,
+  "successSources": 29,
   "failedSources": [
     {
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -100,6 +100,16 @@
       "name": "央视网-科技",
       "error": "fetch failed",
       "optional": true
+    },
+    {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
     },
     {
       "name": "科技部-国际合作",
@@ -284,14 +294,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -370,11 +382,11 @@
   ],
   "itemsSeen": 1553,
   "itemsAfterEnrich": 900,
-  "itemsAfterRelevantFilter": 213,
+  "itemsAfterRelevantFilter": 215,
   "itemsAfterDedupe": 149,
-  "todayItemsSeen": 18,
-  "suspectedItemsSeen": 5,
-  "skippedNonToday": 124,
+  "todayItemsSeen": 19,
+  "suspectedItemsSeen": 7,
+  "skippedNonToday": 120,
   "domesticSourceStats": [
     {
       "name": "新浪科技",
@@ -542,14 +554,16 @@
       "name": "工信部",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
       "name": "工信部-政策文件",
       "tier": "official",
       "parsed": 0,
-      "failed": false,
+      "failed": true,
+      "error": "fetch failed",
       "optional": false
     },
     {
@@ -786,6 +800,16 @@
       "optional": true
     },
     {
+      "name": "工信部",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
+      "name": "工信部-政策文件",
+      "error": "fetch failed",
+      "optional": false
+    },
+    {
       "name": "科技部-国际合作",
       "error": "404 ",
       "optional": true
@@ -827,22 +851,23 @@
   "globalSuccessSources": 17,
   "globalItemsSeen": 966,
   "globalWindow": "latest_48h",
-  "globalItemsAfterRelevantFilter": 168,
+  "globalItemsAfterRelevantFilter": 169,
   "topics": [
     {
       "topic": "新能源车动态",
       "count": 6,
-      "sourceCount": 2,
+      "sourceCount": 3,
       "sources": [
         "新浪科技",
+        "网易科技",
         "IT之家"
       ],
       "items": [
-        "小米汽车 2026 年 10 月交付量超过 50,000 台",
-        "曝特斯拉砍掉买车推荐奖励：以后只送FSD 一个月换一个月",
+        "深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%",
+        "小米汽车10月交付量超5万台",
+        "全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励",
         "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
-        "小鹏总裁王凤英：2027年起 部分城市将设立MONA独立门店",
-        "20.99万起的澎程系列开始发力！小米汽车10月销量年内首破5万台"
+        "小鹏总裁王凤英：2027年起 部分城市将设立MONA独立门店"
       ]
     },
     {
@@ -860,6 +885,19 @@
       ]
     },
     {
+      "topic": "AI 应用与智能体",
+      "count": 3,
+      "sourceCount": 1,
+      "sources": [
+        "新浪科技"
+      ],
+      "items": [
+        "OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心",
+        "刚刚，DeepSeek 开源「超级智能体」！这 AI 牛马，没人 @ 都自己干活",
+        "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度"
+      ]
+    },
+    {
       "topic": "国产 GPU / 算力基础设施",
       "count": 2,
       "sourceCount": 1,
@@ -869,18 +907,6 @@
       "items": [
         "AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器",
         "小米19 Fold明年登场：正常迭代 或首发下一代玄戒芯片"
-      ]
-    },
-    {
-      "topic": "AI 应用与智能体",
-      "count": 2,
-      "sourceCount": 1,
-      "sources": [
-        "新浪科技"
-      ],
-      "items": [
-        "OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心",
-        "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度"
       ]
     },
     {
@@ -1006,7 +1032,7 @@
       "relatedTitles": [
         "AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1073,6 +1099,142 @@
       "rawText": "11月1日IT之家消息，据The Information报道，Meta近期与中国企业傅利叶合作打造人形机器人原型Max，该机器人研发用时3个月，身高约1.5米，体重约48.1千克，搭载英伟达Thor芯片，被Meta CEO扎克伯格视作Muse人工智能模型的“物理化身”，可承担日常家务。两家公司今年9月已启动Max 2原型研发，将重新设计躯干并做常规升级，双方暂未确定产品推出时间，也无原型机销售计划。(AI生成)",
       "relatedTitles": [
         "消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%",
+      "summary": "IT之家 11 月 1 日消息，深蓝汽车今日官宣，2026 年 10 月全球销量 32602 辆，环比增长 8.01%。综合IT之家此前报道，深蓝汽车在 2026 年 10 月发布了 2027 款深蓝 L06 及深蓝 L06 追风版车型，2...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzz6809562.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzz6809562.shtml"
+      ],
+      "publishedAt": "2026-11-01",
+      "date": "2026-11-01",
+      "category": "新能源车",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 162,
+      "reporterScore": 178,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "IT之家 11 月 1 日消息，深蓝汽车今日官宣，2026 年 10 月全球销量 32602 辆，环比增长 8.01%。综合IT之家此前报道，深蓝汽车在 2026 年 10 月发布了 2027 款深蓝 L06 及深蓝 L06 追风版车型，2...",
+      "relatedTitles": [
+        "深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%"
+      ],
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "小米汽车10月交付量超5万台",
+      "summary": "小米汽车官方刚刚宣布，2026 年 10 月，小米汽车交付量超过 50,000 台。在 7 月 30 日的小米澎程技术发布会上，小米创办人、董事长兼 CEO 雷军透露，小米 SU7 和小米 YU7 累计交付 70 多万台。#小米汽车#",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/LAKV3T1105198CJN.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/LAKV3T1105198CJN.html"
+      ],
+      "publishedAt": "2026-11-01",
+      "date": "2026-11-01",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 161,
+      "reporterScore": 175,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 8,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": true,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 118
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": true,
+      "hasInternationalValue": false,
+      "format": "video",
+      "angle": "Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车10月交付量超5万台” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "雷军回应小米汽车10月交付量",
+      "relatedTitles": [
+        "小米汽车10月交付量超5万台"
       ],
       "isNewSinceLastRun": true
     },
@@ -1142,7 +1304,7 @@
       "relatedTitles": [
         "OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1210,7 +1372,7 @@
       "relatedTitles": [
         "AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1277,6 +1439,74 @@
       "rawText": "IT之家 11 月 1 日消息，据金融时报 FT 消息，Spotify 正在积极推进版权授权谈判，并努力说服音乐人拥抱新技术。Spotify 计划在 2027 年初推出一项由人工智能驱动的新服务，允许用户自行制作歌曲的混音与翻唱版本。知情人...",
       "relatedTitles": [
         "消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly9maW5hbmNl",
+      "title": "刚刚，DeepSeek 开源「超级智能体」！这 AI 牛马，没人 @ 都自己干活",
+      "summary": "（来源：AI信息Gap）别人家的 AI，已经不用艾特 @ 就能主动干活了。DeepSeek Harness 的内部用户群里，就潜伏着这么一位 AI 牛马。没人 @ 它，它 7x24 小时在线。这时如果有用户抱怨了一个 Bug，它会默默跑去后...",
+      "source": "新浪科技",
+      "sources": [
+        "新浪科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixeuac3258808.shtml",
+      "sourceUrls": [
+        "https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixeuac3258808.shtml"
+      ],
+      "publishedAt": "2026-11-01",
+      "date": "2026-11-01",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 5,
+      "score": 163,
+      "reporterScore": 171,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": 18,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 8,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": true,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 120
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": true,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “刚刚，DeepSeek 开源「超级智能体」！这 AI 牛马，没人 @ 都自己干活” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "AI 应用与智能体",
+      "rawText": "（来源：AI信息Gap）别人家的 AI，已经不用艾特 @ 就能主动干活了。DeepSeek Harness 的内部用户群里，就潜伏着这么一位 AI 牛马。没人 @ 它，它 7x24 小时在线。这时如果有用户抱怨了一个 Bug，它会默默跑去后...",
+      "relatedTitles": [
+        "刚刚，DeepSeek 开源「超级智能体」！这 AI 牛马，没人 @ 都自己干活"
       ],
       "isNewSinceLastRun": true
     },
@@ -1346,25 +1576,25 @@
       "relatedTitles": [
         "被 AI 假学生薅了 2 亿美元贷款羊毛，美国司法部紧急调查"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "小米汽车 2026 年 10 月交付量超过 50,000 台",
-      "summary": "IT之家 11 月 1 日消息，小米汽车官方刚刚宣布，2026 年 10 月，小米汽车交付量超过 50,000 台。在 7 月 30 日的小米澎程技术发布会上，小米创办人、董事长兼 CEO 雷军表示，2 年半的时间，小米汽车发布了两款车 —...",
+      "title": "全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励",
+      "summary": "11月1日快科技援引Electrek消息，特斯拉悄然调整美国“Refer and Earn”推荐计划，不再以车辆购买为奖励触发条件，转而采用以FSD订阅为核心的新激励机制。仅自身订阅FSD或此前买断过FSD的车主可生成推荐链接，被推荐方需满足硬件兼容、近12个月未付费/买断FSD等条件，其转为付费订阅后，推荐人可获1个",
       "source": "新浪科技",
       "sources": [
         "新浪科技"
       ],
       "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzy1029159.shtml",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzw4268254.shtml",
       "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzy1029159.shtml"
+        "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzw4268254.shtml"
       ],
       "publishedAt": "2026-11-01",
       "date": "2026-11-01",
       "category": "新能源车",
-      "classificationConfidence": 0.75,
+      "classificationConfidence": 0.7,
       "classificationEvidence": [
         "title",
         "summary",
@@ -1374,45 +1604,45 @@
       "hardTechPriority": 85,
       "keywords": "EVs, smart mobility, batteries and autonomous driving",
       "priority": 5,
-      "score": 161,
-      "reporterScore": 175,
+      "score": 154,
+      "reporterScore": 162,
       "scoreBreakdown": {
         "hardTech": 85,
         "today": 18,
         "sourceAuthority": 12,
         "multiSource": 22,
         "cgtFocus": 0,
-        "visual": 8,
-        "international": 0,
+        "visual": 0,
+        "international": 9,
         "policy": 0,
         "sourceWeight": 8,
         "primarySource": 0,
-        "interviewValue": 8,
+        "interviewValue": 0,
         "marketingPenalty": 0,
         "softNewsPenalty": 0,
         "lowValuePenalty": 0
       },
       "reporterSignals": {
         "primary": false,
-        "visual": true,
-        "international": false,
-        "interview": true,
+        "visual": false,
+        "international": true,
+        "interview": false,
         "marketing": false,
         "softNews": false,
         "hardTechWeight": 85,
-        "reporterScore": 118
+        "reporterScore": 110
       },
       "isPrimarySource": false,
-      "hasInterviewValue": true,
-      "hasVisualValue": true,
-      "hasInternationalValue": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
       "format": "video",
-      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “小米汽车 2026 年 10 月交付量超过 50,000 台” against primary-source evidence.",
+      "angle": "Move beyond launch coverage by testing overseas markets and global competition, cost, reliability and consumer value. For this item, test the claim behind “全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励” against primary-source evidence.",
       "status": "confirmed_today",
       "matchedTopic": "新能源车动态",
-      "rawText": "IT之家 11 月 1 日消息，小米汽车官方刚刚宣布，2026 年 10 月，小米汽车交付量超过 50,000 台。在 7 月 30 日的小米澎程技术发布会上，小米创办人、董事长兼 CEO 雷军表示，2 年半的时间，小米汽车发布了两款车 —...",
+      "rawText": "IT之家 11 月 1 日消息，据汽车媒体 Electrek 前天报道，特斯拉现已在美国推出全新推荐奖励计划，车主推荐好友购买车辆不再获得购车奖励，而是获得一个月 FSD 监督版使用权益。如果推荐对象随后开始订阅 FSD，推荐人可获得 1 ...",
       "relatedTitles": [
-        "小米汽车 2026 年 10 月交付量超过 50,000 台"
+        "全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励"
       ],
       "isNewSinceLastRun": true
     },
@@ -1482,7 +1712,7 @@
       "relatedTitles": [
         "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1549,6 +1779,74 @@
       "rawText": "机器之心发布在电子游戏里，玩家拥有一项近乎无敌的特权——无限读档（env.reset）。在机器人仿真环境中，一些具身 Agent 同样可以通过提前探索任务、反复重置环境、修改动作脚本，逐步寻找更优的操作策略。但如果不给机器人提前刷题的机会呢...",
       "relatedTitles": [
         "具身RSI的真假之争：机器人是在自我进化，还是在反复刷题？"
+      ],
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuaXRo",
+      "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
+      "summary": "现有车主需已买断或订阅 FSD 才可参与，被邀请人须为已注册特斯拉车主且过去 12 个月未付费订阅过 FSD。每笔奖励 12 个月后失效，全年最多可获等值约 1200 美元积分，可用于超充、购车、支付订阅或商城。##特斯拉FSD##",
+      "source": "IT之家",
+      "sources": [
+        "IT之家"
+      ],
+      "sourceTier": "industry",
+      "url": "https://www.ithome.com/1/020/640.htm",
+      "sourceUrls": [
+        "https://www.ithome.com/1/020/640.htm"
+      ],
+      "publishedAt": "Sat, 31 Oct 2026 23:38:59 GMT",
+      "date": "2026-11-01",
+      "category": "新能源车",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 5,
+      "score": 150,
+      "reporterScore": 158,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": 18,
+        "sourceAuthority": 8,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 110
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Report the industrial consequence of overseas markets and global competition: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分” against primary-source evidence.",
+      "status": "confirmed_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "现有车主需已买断或订阅 FSD 才可参与，被邀请人须为已注册特斯拉车主且过去 12 个月未付费订阅过 FSD。每笔奖励 12 个月后失效，全年最多可获等值约 1200 美元积分，可用于超充、购车、支付订阅或商城。##特斯拉FSD##",
+      "relatedTitles": [
+        "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分"
       ],
       "isNewSinceLastRun": true
     },
@@ -1618,143 +1916,7 @@
       "relatedTitles": [
         "小米19 Fold明年登场：正常迭代 或首发下一代玄戒芯片"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "曝特斯拉砍掉买车推荐奖励：以后只送FSD 一个月换一个月",
-      "summary": "11月1日快科技援引Electrek消息，特斯拉悄然调整美国“Refer and Earn”推荐计划，不再以车辆购买为奖励触发条件，转而采用以FSD订阅为核心的新激励机制。仅自身订阅FSD或此前买断过FSD的车主可生成推荐链接，被推荐方需满足硬件兼容、近12个月未付费/买断FSD等条件，其转为付费订阅后，推荐人可获1个",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010268.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010268.shtml"
-      ],
-      "publishedAt": "2026-11-01",
-      "date": "2026-11-01",
-      "category": "新能源车",
-      "classificationConfidence": 0.68,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 154,
-      "reporterScore": 162,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “曝特斯拉砍掉买车推荐奖励：以后只送FSD 一个月换一个月” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "11月1日快科技援引Electrek消息，特斯拉悄然调整美国“Refer and Earn”推荐计划，不再以车辆购买为奖励触发条件，转而采用以FSD订阅为核心的新激励机制。仅自身订阅FSD或此前买断过FSD的车主可生成推荐链接，被推荐方需满足硬件兼容、近12个月未付费/买断FSD等条件，其转为付费订阅后，推荐人可获1个月免费FSD或99美元特斯拉积分，被推荐方得1个月免费FSD，积分12个月后过期不可提现，每年最多可获12次奖励，累计最高12个月FSD或1188美元积分。当前车辆相关推荐奖励仅覆盖老车主复购部分车型，新购车辆推荐激励尚未正式官宣下线。(AI生成)",
-      "relatedTitles": [
-        "曝特斯拉砍掉买车推荐奖励：以后只送FSD 一个月换一个月"
-      ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
-      "summary": "IT之家 11 月 1 日消息，特斯拉最近在海外市场推出全新推荐奖励计划，车主可邀请朋友（也得是特斯拉车主）体验一个月 FSD 监督版，最终双方都能拿到免费权益。据介绍，现有特斯拉车主可以分享自己的推荐链接，被邀请人打开后可获一个月 FSD...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepua1122914.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepua1122914.shtml"
-      ],
-      "publishedAt": "2026-11-01",
-      "date": "2026-11-01",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 154,
-      "reporterScore": 162,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 9,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": true,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 110
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": true,
-      "format": "video",
-      "angle": "Use overseas markets and global competition to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "IT之家 11 月 1 日消息，特斯拉最近在海外市场推出全新推荐奖励计划，车主可邀请朋友（也得是特斯拉车主）体验一个月 FSD 监督版，最终双方都能拿到免费权益。据介绍，现有特斯拉车主可以分享自己的推荐链接，被邀请人打开后可获一个月 FSD...",
-      "relatedTitles": [
-        "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -1822,7 +1984,7 @@
       "relatedTitles": [
         "小鹏总裁王凤英：2027年起 部分城市将设立MONA独立门店"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuMTYz",
@@ -1890,7 +2052,7 @@
       "relatedTitles": [
         "谷歌据称洽谈参与“金穹”导弹防御计划 或提供数据安全技术支持"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuc3Rk",
@@ -1958,75 +2120,7 @@
       "relatedTitles": [
         "航天水稻，这里种了五万亩"
       ],
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "aHR0cHM6Ly9maW5hbmNl",
-      "title": "20.99万起的澎程系列开始发力！小米汽车10月销量年内首破5万台",
-      "summary": "快科技11月1日消息，小米汽车今日官宣，2026年10月交付量超过50000台，这是小米汽车单月交付量年内首次突破5万大关。从8月的3万+、9月的4万+到10月的5万+，小米汽车连续三个月实现月度交付量阶梯式攀升，而澎程系列放量是销量攀升的...",
-      "source": "新浪科技",
-      "sources": [
-        "新浪科技"
-      ],
-      "sourceTier": "mainstream",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1032299.shtml",
-      "sourceUrls": [
-        "https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1032299.shtml"
-      ],
-      "publishedAt": "2026-11-01",
-      "date": "2026-11-01",
-      "category": "新能源车",
-      "classificationConfidence": 0.75,
-      "classificationEvidence": [
-        "title",
-        "summary",
-        "rawText_first_500",
-        "source"
-      ],
-      "hardTechPriority": 85,
-      "keywords": "EVs, smart mobility, batteries and autonomous driving",
-      "priority": 5,
-      "score": 145,
-      "reporterScore": 145,
-      "scoreBreakdown": {
-        "hardTech": 85,
-        "today": 18,
-        "sourceAuthority": 12,
-        "multiSource": 22,
-        "cgtFocus": 0,
-        "visual": 0,
-        "international": 0,
-        "policy": 0,
-        "sourceWeight": 8,
-        "primarySource": 0,
-        "interviewValue": 0,
-        "marketingPenalty": 0,
-        "softNewsPenalty": 0,
-        "lowValuePenalty": 0
-      },
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 85,
-        "reporterScore": 100
-      },
-      "isPrimarySource": false,
-      "hasInterviewValue": false,
-      "hasVisualValue": false,
-      "hasInternationalValue": false,
-      "format": "video",
-      "angle": "Report the industrial consequence of EVs, smart mobility, batteries and autonomous driving: who gains, what scales and what regulatory or trade barriers remain. For this item, test the claim behind “20.99万起的澎程系列开始发力！小米汽车10月销量年内首破5万台” against primary-source evidence.",
-      "status": "confirmed_today",
-      "matchedTopic": "新能源车动态",
-      "rawText": "快科技11月1日消息，小米汽车今日官宣，2026年10月交付量超过50000台，这是小米汽车单月交付量年内首次突破5万大关。从8月的3万+、9月的4万+到10月的5万+，小米汽车连续三个月实现月度交付量阶梯式攀升，而澎程系列放量是销量攀升的...",
-      "relatedTitles": [
-        "20.99万起的澎程系列开始发力！小米汽车10月销量年内首破5万台"
-      ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly93d3cuaXRo",
@@ -2094,7 +2188,7 @@
       "relatedTitles": [
         "比亚迪方程豹熊甜波：10 月方程系列交付总量没达到预期，11 月会全力提产提速"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "aHR0cHM6Ly9maW5hbmNl",
@@ -2162,7 +2256,7 @@
       "relatedTitles": [
         "小米云服务双11限时大降价！会员低至3折 50GB包年仅29元"
       ],
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     }
   ],
   "suspectedLeads": [
@@ -2301,6 +2395,73 @@
       ]
     },
     {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "李斌回应蔚来“千站计划”迟缓问题：最多推迟一两个月",
+      "summary": "> 马斯克要跟扎克伯格“笼斗”！随时随地、任何规则 抖音电商否认“上半年GMV未达预期”传闻 “最懂苹果”分析师郭明錤：苹果将停产iPhone 17 Plus 李斌回应蔚来“千站计划”迟缓问题：最多推迟一两个月 美股七巨头一夜市值蒸发近6万亿元，创下12年以来最大单日跌幅 报告｜同程旅行：奥运会开幕首周巴黎酒店预订热度",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/dy/article/J7UI2RGL05476C4F.html",
+      "sourceUrls": [
+        "https://www.163.com/dy/article/J7UI2RGL05476C4F.html"
+      ],
+      "publishedAt": "",
+      "date": "",
+      "category": "新能源车",
+      "classificationConfidence": 0.68,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 85,
+      "keywords": "EVs, smart mobility, batteries and autonomous driving",
+      "priority": 4,
+      "score": 126,
+      "reporterScore": 134,
+      "scoreBreakdown": {
+        "hardTech": 85,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 9,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": true,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 85,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": true,
+      "format": "video",
+      "angle": "Move beyond launch coverage by testing EVs, smart mobility, batteries and autonomous driving, cost, reliability and consumer value. For this item, test the claim behind “李斌回应蔚来“千站计划”迟缓问题：最多推迟一两个月” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "新能源车动态",
+      "rawText": "> 马斯克要跟扎克伯格“笼斗”！随时随地、任何规则 抖音电商否认“上半年GMV未达预期”传闻 “最懂苹果”分析师郭明錤：苹果将停产iPhone 17 Plus 李斌回应蔚来“千站计划”迟缓问题：最多推迟一两个月 美股七巨头一夜市值蒸发近6万亿元，创下12年以来最大单日跌幅 报告｜同程旅行：奥运会开幕首周巴黎酒店预订热度同比涨4倍 扎克伯格深度专访：中美AI竞争完全错误，美国别想长期领先",
+      "relatedTitles": [
+        "李斌回应蔚来“千站计划”迟缓问题：最多推迟一两个月"
+      ]
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucWJp",
       "title": "MEET2027 量子位2026人工智能年度榜单",
       "summary": "MEET2027 量子位2026人工智能年度榜单，正式启动！ 报名通道已开启，欢迎参与！ 量子位 2026-09-16 MEET2027 量子位「MEET2027智能未来大会」启动！年度榜单征集进行中 今年12月，北京，MEET2027智能未来大会！ 量子位 2026-09-11 MEET2027 热门文章 刚刚，Hi",
@@ -2365,6 +2526,73 @@
       "rawText": "MEET2027 量子位2026人工智能年度榜单，正式启动！ 报名通道已开启，欢迎参与！ 量子位 2026-09-16 MEET2027 量子位「MEET2027智能未来大会」启动！年度榜单征集进行中 今年12月，北京，MEET2027智能未来大会！ 量子位 2026-09-11 MEET2027 热门文章 刚刚，Hinton发了首篇RSI论文 限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来 刚刚，诺贝尔奖颁给光遗传学！ 特斯拉FSD，在欧洲被打回原形",
       "relatedTitles": [
         "MEET2027 量子位2026人工智能年度榜单"
+      ]
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuMTYz",
+      "title": "后厂村AI派·龙虾专场",
+      "summary": "《后厂村AI派·龙虾专场》 | “龙虾”当道，人类何为？五位养虾人聊了聊人类的出路,龙虾,后厂村ai派·龙虾专场,弗兰克,程序员,王宁,agent",
+      "source": "网易科技",
+      "sources": [
+        "网易科技"
+      ],
+      "sourceTier": "mainstream",
+      "url": "https://www.163.com/tech/article/KO5CH5IG00098IEO.html",
+      "sourceUrls": [
+        "https://www.163.com/tech/article/KO5CH5IG00098IEO.html"
+      ],
+      "publishedAt": "2026-03-16",
+      "date": "2026-03-16",
+      "category": "AI",
+      "classificationConfidence": 0.75,
+      "classificationEvidence": [
+        "title",
+        "summary",
+        "rawText_first_500",
+        "source"
+      ],
+      "hardTechPriority": 95,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "priority": 4,
+      "score": 127,
+      "reporterScore": 127,
+      "scoreBreakdown": {
+        "hardTech": 95,
+        "today": -10,
+        "sourceAuthority": 12,
+        "multiSource": 22,
+        "cgtFocus": 0,
+        "visual": 0,
+        "international": 0,
+        "policy": 0,
+        "sourceWeight": 8,
+        "primarySource": 0,
+        "interviewValue": 0,
+        "marketingPenalty": 0,
+        "softNewsPenalty": 0,
+        "lowValuePenalty": 0
+      },
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "isPrimarySource": false,
+      "hasInterviewValue": false,
+      "hasVisualValue": false,
+      "hasInternationalValue": false,
+      "format": "package",
+      "angle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “后厂村AI派·龙虾专场” against primary-source evidence.",
+      "status": "suspected_today",
+      "matchedTopic": "AI动态",
+      "rawText": "《后厂村AI派·龙虾专场》 | “龙虾”当道，人类何为？五位养虾人聊了聊人类的出路,龙虾,后厂村ai派·龙虾专场,弗兰克,程序员,王宁,agent",
+      "relatedTitles": [
+        "后厂村AI派·龙虾专场"
       ]
     },
     {
@@ -2569,6 +2797,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI now lets you text your ChatGPT Dot agent to get things done",
+      "summary": "OpenAI is bringing ChatGPT Dot to iMessage and Android's RCS, letting Pro subscribers text their AI agent, send photos and voice messages, assign tasks, and receive proactive updat",
+      "source": "Yahoo News Technology",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-now-lets-text-chatgpt-010639985.html",
+      "publishedAt": "2026-11-01",
+      "date": "2026-11-01",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.99,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI now lets you text your ChatGPT Dot agent to get things done” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 110
+      },
+      "status": "confirmed_today",
+      "isNewSinceLastRun": true
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "OpenAI reportedly lowers funding target for new round",
       "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
       "source": "TechCrunch",
@@ -2597,71 +2857,7 @@
         "reporterScore": 95
       },
       "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-      "summary": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-      "publishedAt": "Sat, 31 Oct 2026 19:56:23 GMT",
-      "date": "2026-10-31",
-      "region": "US",
-      "category": "AI",
-      "classificationConfidence": 0.8,
-      "hardTechPriority": 95,
-      "globalWhitelistScore": 60,
-      "keywords": "AI applications, foundation models, agents and governance",
-      "relevanceToChina": "high",
-      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI pares fundraising goal, now seeking up to $20 billion in latest r” against primary-source evidence.",
-      "priority": 5,
-      "score": 143,
-      "reporterScore": 143,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 95,
-        "reporterScore": 95
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
-    },
-    {
-      "id": "Z2xvYmFsLWh0dHBzOi8v",
-      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-      "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-      "publishedAt": "Sat, 31 Oct 2026 20:12:37 GMT",
-      "date": "2026-10-31",
-      "region": "US",
-      "category": "太空与低空",
-      "classificationConfidence": 0.75,
-      "hardTechPriority": 90,
-      "globalWhitelistScore": 60,
-      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
-      "relevanceToChina": "medium",
-      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX loses bid to toss NAACP lawsuit over Memphis data center air poll” against primary-source evidence.",
-      "priority": 4,
-      "score": 138,
-      "reporterScore": 138,
-      "reporterSignals": {
-        "primary": false,
-        "visual": false,
-        "international": false,
-        "interview": false,
-        "marketing": false,
-        "softNews": false,
-        "hardTechWeight": 90,
-        "reporterScore": 90
-      },
-      "status": "recent_48h",
-      "isNewSinceLastRun": true
+      "isNewSinceLastRun": false
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
@@ -2825,6 +3021,38 @@
     },
     {
       "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+      "summary": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+      "publishedAt": "Sat, 31 Oct 2026 19:56:23 GMT",
+      "date": "2026-10-31",
+      "region": "US",
+      "category": "AI",
+      "classificationConfidence": 0.8,
+      "hardTechPriority": 95,
+      "globalWhitelistScore": 60,
+      "keywords": "AI applications, foundation models, agents and governance",
+      "relevanceToChina": "high",
+      "cgtAngle": "Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI pares fundraising goal, now seeking up to $20 billion in latest r” against primary-source evidence.",
+      "priority": 5,
+      "score": 143,
+      "reporterScore": 143,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 95,
+        "reporterScore": 95
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
       "title": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout",
       "summary": "Hyperscalers continue spending big on artificial intelligence, putting pressure on their legacy businesses and impacting their free cash flow.",
       "source": "CNBC Technology",
@@ -2854,10 +3082,42 @@
       },
       "status": "recent_48h",
       "isNewSinceLastRun": false
+    },
+    {
+      "id": "Z2xvYmFsLWh0dHBzOi8v",
+      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "publishedAt": "Sat, 31 Oct 2026 20:12:37 GMT",
+      "date": "2026-10-31",
+      "region": "US",
+      "category": "太空与低空",
+      "classificationConfidence": 0.75,
+      "hardTechPriority": 90,
+      "globalWhitelistScore": 60,
+      "keywords": "commercial space, low-altitude economy and satellite infrastructure",
+      "relevanceToChina": "medium",
+      "cgtAngle": "Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX loses bid to toss NAACP lawsuit over Memphis data center air poll” against primary-source evidence.",
+      "priority": 4,
+      "score": 138,
+      "reporterScore": 138,
+      "reporterSignals": {
+        "primary": false,
+        "visual": false,
+        "international": false,
+        "interview": false,
+        "marketing": false,
+        "softNews": false,
+        "hardTechWeight": 90,
+        "reporterScore": 90
+      },
+      "status": "recent_48h",
+      "isNewSinceLastRun": false
     }
   ],
-  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-01｜V3\n生成时间：2026/11/1 09:31:32\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2519｜确认今日 18｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 3 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-01] AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepuc6899246.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器” against primary-source evidence.\n\n2. [2026-11-01] 消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepty4337025.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身” against primary-source evidence.\n\n3. [2026-11-01] OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010236.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心” against primary-source evidence.\n\n4. [2026-11-01] AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeceh1320354.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌” against primary-source evidence.\n\n5. [2026-11-01] 消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixeuac3227160.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本” against primary-source evidence.\n\n本次新增线索：\n- AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepuc6899246.shtml\n- 消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepty4337025.shtml\n- OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010236.shtml\n- AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeceh1320354.shtml\n- 消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixeuac3227160.shtml\n- OpenAI reportedly lowers funding target for new round｜TechCrunch｜https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Amazon sends chills through its workforce with mixed message memo about AI use｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804\n2. Google’s first data center satellite is online and writing poetry｜TechCrunch｜https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/\n3. OpenAI reportedly lowers funding target for new round｜TechCrunch｜https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/\n4. OpenAI pares fundraising goal, now seeking up to $20 billion in latest round｜CNBC Technology｜https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html\n5. SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution｜CNBC Technology｜https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-01｜V3\n生成时间：2026/11/1 09:31:32\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2519｜确认今日 18｜国际背景 11\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 3 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-01] AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepuc6899246.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器” against primary-source evidence.\n\n2. [2026-11-01] 消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepty4337025.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身” against primary-source evidence.\n\n3. [2026-11-01] OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010236.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心” against primary-source evidence.\n\n4. [2026-11-01] AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeceh1320354.shtml\n   报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌” against primary-source evidence.\n\n5. [2026-11-01] 消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixeuac3227160.shtml\n   报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本” against primary-source evidence.\n\n本次新增线索：\n- AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepuc6899246.shtml\n- 消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepty4337025.shtml\n- OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010236.shtml\n- AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeceh1320354.shtml\n- 消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixeuac3227160.shtml\n- OpenAI reportedly lowers funding target for new round｜TechCrunch｜https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Amazon sends chills through its workforce with mixed message memo about AI use｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804\n2. Google’s first data center satellite is online and writing poetry｜TechCrunch｜https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/\n3. OpenAI reportedly lowers funding target for new round｜TechCrunch｜https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/\n4. OpenAI pares fundraising goal, now seeking up to $20 billion in latest round｜CNBC Technology｜https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html\n5. SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution｜CNBC Technology｜https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-01｜生成时间：2026/11/1 09:31:32｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2519｜确认今日 18｜国际背景 11</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 18 条｜国际 3 条<br>延续跟踪线索：国内 0 条｜国际 8 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-01] AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器</strong>\n      <span>新浪科技｜2026-11-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepuc6899246.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-01] 消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身</strong>\n      <span>新浪科技｜2026-11-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepty4337025.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-01] OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心</strong>\n      <span>新浪科技｜2026-11-01｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010236.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-01] AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌</strong>\n      <span>新浪科技｜2026-11-01｜<a href=\"https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeceh1320354.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-11-01] 消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本</strong>\n      <span>新浪科技｜2026-11-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixeuac3227160.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：183｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Amazon sends chills through its workforce with mixed message memo about AI use</strong>\n      <span>时间：Sat, 31 Oct 2026 11:00:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Amazon sends chills through its workforce with mixed message memo about ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Google’s first data center satellite is online and writing poetry</strong>\n      <span>时间：Fri, 30 Oct 2026 17:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google’s first data center satellite is online and writing poetry” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI reportedly lowers funding target for new round</strong>\n      <span>时间：Sat, 31 Oct 2026 16:12:55 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI reportedly lowers funding target for new round” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI pares fundraising goal, now seeking up to $20 billion in latest round</strong>\n      <span>时间：Sat, 31 Oct 2026 19:56:23 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI pares fundraising goal, now seeking up to $20 billion in latest r” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution</strong>\n      <span>时间：Sat, 31 Oct 2026 20:12:37 GMT｜来源：CNBC Technology｜<a href=\"https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Pair launch or flight visuals with evidence on commercial space, low-altitude economy and satellite infrastructure, customers, regulation and operational readiness. For this item, test the claim behind “SpaceX loses bid to toss NAACP lawsuit over Memphis data center air poll” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
-  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/1 09:31:32\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 18 条｜国际 3 条\n延续跟踪线索：国内 0 条｜国际 8 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-01] AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepuc6899246.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器” against primary-source evidence.\n\n2. [2026-11-01] 消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepty4337025.shtml\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身” against primary-source evidence.\n\n3. [2026-11-01] OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010236.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心” against primary-source evidence.\n\n4. [2026-11-01] AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeceh1320354.shtml\n   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌” against primary-source evidence.\n\n5. [2026-11-01] 消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixeuac3227160.shtml\n   角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本” against primary-source evidence.\n\n本次新增线索：\n- AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepuc6899246.shtml\n- 消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepty4337025.shtml\n- OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010236.shtml\n- AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeceh1320354.shtml\n- 消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixeuac3227160.shtml\n- OpenAI reportedly lowers funding target for new round｜TechCrunch｜https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，2 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Amazon sends chills through its workforce with mixed message memo about AI use｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804\n2. Google’s first data center satellite is online and writing poetry｜TechCrunch｜https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/\n3. OpenAI reportedly lowers funding target for new round｜TechCrunch｜https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/\n4. OpenAI pares fundraising goal, now seeking up to $20 billion in latest round｜CNBC Technology｜https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html\n5. SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution｜CNBC Technology｜https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
+  "brief": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-01｜V3\n生成时间：2026/11/1 10:06:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2519｜确认今日 19｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 1 条\n延续跟踪线索：国内 14 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-01] AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepuc6899246.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器” against primary-source evidence.\n\n2. [2026-11-01] 消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepty4337025.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身” against primary-source evidence.\n\n3. [2026-11-01] 深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzz6809562.shtml\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%” against primary-source evidence.\n\n4. [2026-11-01] 小米汽车10月交付量超5万台\n   网易科技｜2026-11-01｜https://www.163.com/dy/article/LAKV3T1105198CJN.html\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车10月交付量超5万台” against primary-source evidence.\n\n5. [2026-11-01] OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010236.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心” against primary-source evidence.\n\n本次新增线索：\n- 深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzz6809562.shtml\n- 小米汽车10月交付量超5万台｜网易科技｜https://www.163.com/dy/article/LAKV3T1105198CJN.html\n- 刚刚，DeepSeek 开源「超级智能体」！这 AI 牛马，没人 @ 都自己干活｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixeuac3258808.shtml\n- 全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzw4268254.shtml\n- 特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分｜IT之家｜https://www.ithome.com/1/020/640.htm\n- OpenAI now lets you text your ChatGPT Dot agent to get things done｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-now-lets-text-chatgpt-010639985.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Amazon sends chills through its workforce with mixed message memo about AI use｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804\n2. Google’s first data center satellite is online and writing poetry｜TechCrunch｜https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/\n3. OpenAI now lets you text your ChatGPT Dot agent to get things done｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-now-lets-text-chatgpt-010639985.html\n4. OpenAI reportedly lowers funding target for new round｜TechCrunch｜https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/\n5. Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia｜TechCrunch｜https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+  "copyBriefingText": "CGTN Tech Desk Daily Radar V3\nChenChen 今日中国科技热点｜2026-11-01｜V3\n生成时间：2026/11/1 10:06:38\n抓取时间范围：00:00–当前时间\n数据统计：抓取总数 2519｜确认今日 19｜国际背景 12\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 1 条\n延续跟踪线索：国内 14 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-01] AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepuc6899246.shtml\n   报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器” against primary-source evidence.\n\n2. [2026-11-01] 消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepty4337025.shtml\n   报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身” against primary-source evidence.\n\n3. [2026-11-01] 深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzz6809562.shtml\n   报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%” against primary-source evidence.\n\n4. [2026-11-01] 小米汽车10月交付量超5万台\n   网易科技｜2026-11-01｜https://www.163.com/dy/article/LAKV3T1105198CJN.html\n   报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车10月交付量超5万台” against primary-source evidence.\n\n5. [2026-11-01] OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心\n   新浪科技｜2026-11-01｜https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010236.shtml\n   报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心” against primary-source evidence.\n\n本次新增线索：\n- 深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzz6809562.shtml\n- 小米汽车10月交付量超5万台｜网易科技｜https://www.163.com/dy/article/LAKV3T1105198CJN.html\n- 刚刚，DeepSeek 开源「超级智能体」！这 AI 牛马，没人 @ 都自己干活｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixeuac3258808.shtml\n- 全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzw4268254.shtml\n- 特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分｜IT之家｜https://www.ithome.com/1/020/640.htm\n- OpenAI now lets you text your ChatGPT Dot agent to get things done｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-now-lets-text-chatgpt-010639985.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n需要核实：\n官方来源、企业回应、数据口径、国际背景、可视化素材。\n\n可采访方向：\n政策研究者、企业工程师、行业分析师、真实用户、科研人员。\n\n国际科技背景：\n1. Amazon sends chills through its workforce with mixed message memo about AI use｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804\n2. Google’s first data center satellite is online and writing poetry｜TechCrunch｜https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/\n3. OpenAI now lets you text your ChatGPT Dot agent to get things done｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-now-lets-text-chatgpt-010639985.html\n4. OpenAI reportedly lowers funding target for new round｜TechCrunch｜https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/\n5. Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia｜TechCrunch｜https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+  "displayBriefingHtml": "\n    <div class=\"brief-display\">\n      <h3>CGTN Tech Desk Daily Radar <small>V3</small></h3>\n      <p><strong>ChenChen 今日中国科技热点</strong>｜Reporter Mode｜硬科技优先</p>\n      <p>日期：2026-11-01｜生成时间：2026/11/1 10:06:38｜抓取时间范围：00:00–当前时间</p>\n      <p>数据统计：抓取总数 2519｜确认今日 19｜国际背景 12</p>\n      <h4>本次更新</h4>\n      <p>新增核心线索：国内 5 条｜国际 1 条<br>延续跟踪线索：国内 14 条｜国际 11 条<br>本次有新增核心线索，优先核验新增项的一手来源和可视化素材。</p>\n      <h4>最值得关注</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. [2026-11-01] AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器</strong>\n      <span>新浪科技｜2026-11-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepuc6899246.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：214｜需核验来源</span>\n      <p>报道角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. [2026-11-01] 消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身</strong>\n      <span>新浪科技｜2026-11-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepty4337025.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：90｜记者分：192｜需核验来源</span>\n      <p>报道角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. [2026-11-01] 深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%</strong>\n      <span>新浪科技｜2026-11-01｜<a href=\"https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzz6809562.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：178｜需核验来源</span>\n      <p>报道角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. [2026-11-01] 小米汽车10月交付量超5万台</strong>\n      <span>网易科技｜2026-11-01｜<a href=\"https://www.163.com/dy/article/LAKV3T1105198CJN.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：85｜记者分：175｜需核验来源</span>\n      <p>报道角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车10月交付量超5万台” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. [2026-11-01] OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心</strong>\n      <span>新浪科技｜2026-11-01｜<a href=\"https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010236.shtml\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <span>硬科技优先级：95｜记者分：184｜需核验来源</span>\n      <p>报道角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心” against primary-source evidence.</p>\n    </article>\n  \n      <h4>国际科技背景</h4>\n      \n    <article class=\"brief-item\">\n      <strong>1. Amazon sends chills through its workforce with mixed message memo about AI use</strong>\n      <span>时间：Sat, 31 Oct 2026 11:00:00 +0000｜来源：The Register｜<a href=\"https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about AI applications, foundation models, agents and governance, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Amazon sends chills through its workforce with mixed message memo about ” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>2. Google’s first data center satellite is online and writing poetry</strong>\n      <span>时间：Fri, 30 Oct 2026 17:00:00 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Google’s first data center satellite is online and writing poetry” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>3. OpenAI now lets you text your ChatGPT Dot agent to get things done</strong>\n      <span>时间：2026-11-01｜来源：Yahoo News Technology｜<a href=\"https://tech.yahoo.com/ai/chatgpt/articles/openai-now-lets-text-chatgpt-010639985.html\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “OpenAI now lets you text your ChatGPT Dot agent to get things done” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>4. OpenAI reportedly lowers funding target for new round</strong>\n      <span>时间：Sat, 31 Oct 2026 16:12:55 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “OpenAI reportedly lowers funding target for new round” against primary-source evidence.</p>\n    </article>\n  \n    <article class=\"brief-item\">\n      <strong>5. Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</strong>\n      <span>时间：Sat, 31 Oct 2026 01:20:05 +0000｜来源：TechCrunch｜<a href=\"https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/\" target=\"_blank\" rel=\"noopener\">原文链接</a></span>\n      <p>Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Nvidia weighs playing the cosigner for Nscale’s AI data center in West V” against primary-source evidence.</p>\n    </article>\n  \n    </div>\n  ",
+  "feishuBriefingText": "【CGTN Tech Desk Daily Radar V3】\nChenChen 今日 Briefing｜V3\n\n生成时间：2026/11/1 10:06:38\n网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/\n模式：Reporter Mode｜硬科技优先\n\n本次更新：\n新增核心线索：国内 5 条｜国际 1 条\n延续跟踪线索：国内 14 条｜国际 11 条\n本次有新增核心线索，优先核验新增项的一手来源和可视化素材。\n\n最值得关注：\n1. [2026-11-01] AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepuc6899246.shtml\n   角度：Use semiconductors, advanced manufacturing and compute infrastructure as the spine of the story, then compare China’s progress with global competitors and market demand. For this item, test the claim behind “AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器” against primary-source evidence.\n\n2. [2026-11-01] 消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixepty4337025.shtml\n   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身” against primary-source evidence.\n\n3. [2026-11-01] 深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzz6809562.shtml\n   角度：Focus on EVs, smart mobility, batteries and autonomous driving, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%” against primary-source evidence.\n\n4. [2026-11-01] 小米汽车10月交付量超5万台\n   来源：网易科技\n   链接：https://www.163.com/dy/article/LAKV3T1105198CJN.html\n   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “小米汽车10月交付量超5万台” against primary-source evidence.\n\n5. [2026-11-01] OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心\n   来源：新浪科技\n   链接：https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1010236.shtml\n   角度：Turn the item into a reporting test of compute economics and infrastructure demand: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “OpenAI CEO奥特曼：DRAM放在PC是资源浪费 应优先供给AI数据中心” against primary-source evidence.\n\n本次新增线索：\n- 深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzz6809562.shtml\n- 小米汽车10月交付量超5万台｜网易科技｜https://www.163.com/dy/article/LAKV3T1105198CJN.html\n- 刚刚，DeepSeek 开源「超级智能体」！这 AI 牛马，没人 @ 都自己干活｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixeuac3258808.shtml\n- 全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-01/doc-inixetzw4268254.shtml\n- 特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分｜IT之家｜https://www.ithome.com/1/020/640.htm\n- OpenAI now lets you text your ChatGPT Dot agent to get things done｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-now-lets-text-chatgpt-010639985.html\n\n今日热点方向：\n- AI 应用：AI动态（3 条，2 个来源）\n- 芯片/半导体：国产 GPU / 算力基础设施（2 条，1 个来源）\n- 机器人/具身智能：人形机器人与具身智能（1 条，1 个来源）\n- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）\n- 太空与低空经济：太空与低空动态（1 条，1 个来源）\n- 科学前沿：\n\n国际科技背景：\n1. Amazon sends chills through its workforce with mixed message memo about AI use｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804\n2. Google’s first data center satellite is online and writing poetry｜TechCrunch｜https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/\n3. OpenAI now lets you text your ChatGPT Dot agent to get things done｜Yahoo News Technology｜https://tech.yahoo.com/ai/chatgpt/articles/openai-now-lets-text-chatgpt-010639985.html\n4. OpenAI reportedly lowers funding target for new round｜TechCrunch｜https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/\n5. Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia｜TechCrunch｜https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/\n\n发稿前核验提示：\n官方来源、企业回应、数据口径、国际背景、可视化素材。"
 }
