@@ -1,63 +1,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/2 09:54:38
+生成时间：2026/11/2 10:22:25
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 36 条｜国际 4 条
-延续跟踪线索：国内 0 条｜国际 7 条
+新增核心线索：国内 17 条｜国际 0 条
+延续跟踪线索：国内 23 条｜国际 10 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-02] AI早报｜千问将集成至Apple智能；OpenAI据称将
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LANF7BDJ0534A4SC.html
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI早报｜千问将集成至Apple智能；OpenAI据称将” against primary-source evidence.
+1. [2026-11-02] 优必选Thinker-Sim具身智能仿真平台正式发布，具备三大核心技术优势
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/shenji/2026-11-02/doc-inixicic0524615.shtml
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “优必选Thinker-Sim具身智能仿真平台正式发布，具备三大核心技术优势” against primary-source evidence.
 
 2. [2026-11-02] 苹果：国行Apple Intelligence接入千问，11月4
    来源：网易科技
    链接：https://www.163.com/dy/article/LANCFCEC0512B07B.html
    角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “苹果：国行Apple Intelligence接入千问，11月4” against primary-source evidence.
 
-3. [2026-11-02] 消息称三星首款 AI 眼镜 12 月中旬登陆韩国、美国，要和 Meta 抢市场？
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-02/doc-inixicie7225149.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “消息称三星首款 AI 眼镜 12 月中旬登陆韩国、美国，要和 Meta 抢市场？” against primary-source evidence.
+3. [2026-11-02] AI早报｜千问将集成至Apple智能；OpenAI据称将
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LANF7BDJ0534A4SC.html
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “AI早报｜千问将集成至Apple智能；OpenAI据称将” against primary-source evidence.
 
-4. [2026-11-02] 三星李在镕赴日本考察先进封装技术 将打造全球先进封装研发中心
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-02/doc-inixicie7226761.shtml
-   角度：Explain which chip bottleneck this addresses and assess manufacturing capability and bottlenecks, customers, capacity and dependence on overseas equipment. For this item, test the claim behind “三星李在镕赴日本考察先进封装技术 将打造全球先进封装研发中心” against primary-source evidence.
+4. [2026-11-02] 智元6台精灵G2挑战便利店连续作业24小时，测试
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LANKG6R20534A4SC.html
+   角度：Assess the robotics value chain through service deployment, safety and user value, including components, cost, reliability and export potential. For this item, test the claim behind “智元6台精灵G2挑战便利店连续作业24小时，测试” against primary-source evidence.
 
-5. [2026-11-02] 存储芯片涨价成“最后一根稻草”，华硕手机正式步入退市阶段
+5. [2026-11-02] 猛鬼电车上街！特斯拉Cybercab万圣节整活：载骷髅夜间狂飙
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-02/doc-inixicic0456935.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “存储芯片涨价成“最后一根稻草”，华硕手机正式步入退市阶段” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-02/doc-inixicih3004882.shtml
+   角度：Focus on deployment safety, regulation and user adoption, comparing technology claims with deliveries, safety data, user adoption and overseas market implications. For this item, test the claim behind “猛鬼电车上街！特斯拉Cybercab万圣节整活：载骷髅夜间狂飙” against primary-source evidence.
 
 本次新增线索：
-- AI早报｜千问将集成至Apple智能；OpenAI据称将｜网易科技｜https://www.163.com/dy/article/LANF7BDJ0534A4SC.html
-- 苹果：国行Apple Intelligence接入千问，11月4｜网易科技｜https://www.163.com/dy/article/LANCFCEC0512B07B.html
-- 消息称三星首款 AI 眼镜 12 月中旬登陆韩国、美国，要和 Meta 抢市场？｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-02/doc-inixicie7225149.shtml
-- 三星李在镕赴日本考察先进封装技术 将打造全球先进封装研发中心｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-02/doc-inixicie7226761.shtml
-- 存储芯片涨价成“最后一根稻草”，华硕手机正式步入退市阶段｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-02/doc-inixicic0456935.shtml
-- Google and NASA build AI medical robot for Mars missions｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/google-nasa-build-ai-medical-193500882.html
+- 优必选Thinker-Sim具身智能仿真平台正式发布，具备三大核心技术优势｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-02/doc-inixicic0524615.shtml
+- 智元6台精灵G2挑战便利店连续作业24小时，测试｜网易科技｜https://www.163.com/dy/article/LANKG6R20534A4SC.html
+- 猛鬼电车上街！特斯拉Cybercab万圣节整活：载骷髅夜间狂飙｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-02/doc-inixicih3004882.shtml
+- 小鹏MONA L03 10月交付超20000台｜网易科技｜https://www.163.com/dy/article/LANGUHDL0534A4SC.html
+- 2026人工智能+大会在中关村开幕 共建国产AI创新生态｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/02/content_606624.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（8 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
-- 新能源车/智能驾驶：新能源车动态（7 条，2 个来源）
+- AI 应用：AI 应用与智能体（9 条，3 个来源）
+- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
+- 新能源车/智能驾驶：新能源车动态（6 条，3 个来源）
 - 太空与低空经济：太空与低空动态（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 科学前沿：
 
 国际科技背景：
-1. Google and NASA build AI medical robot for Mars missions｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/google-nasa-build-ai-medical-193500882.html
+1. Amazon sends chills through its workforce with mixed message memo about AI use｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804
 2. Google's AI satellite sends a very expensive haiku to Earth｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818
-3. Amazon sends chills through its workforce with mixed message memo about AI use｜The Register｜https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804
-4. An OpenAI spokesperson said the term better represents the "role" of AI infrastructure.｜Yahoo News Technology｜https://tech.yahoo.com/ai/articles/openai-wants-everyone-call-ai-222808607.html
-5. For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy｜CNBC Technology｜https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html
+3. OpenAI reportedly lowers funding target for new round｜TechCrunch｜https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
+4. Backbone of a beast – charting Nvidia's rise to networking titan｜The Register｜https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499
+5. Anthropic VS code extension on Cursor backdoored for nearly 12 hours｜Ars Technica｜https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
