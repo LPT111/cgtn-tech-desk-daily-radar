@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/4 21:16:51
+生成时间：2026/11/4 21:54:27
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 67 条｜国际 3 条
-延续跟踪线索：国内 11 条｜国际 12 条
+新增核心线索：国内 12 条｜国际 3 条
+延续跟踪线索：国内 70 条｜国际 14 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -23,43 +23,43 @@ ChenChen 今日 Briefing｜V3
    链接：https://finance.sina.com.cn/tech/it/2026-11-04/doc-inixqhks9337026.shtml
    角度：Assess the robotics value chain through production scale and real industrial adoption, including components, cost, reliability and export potential. For this item, test the claim behind “智往未来携两代仓储机器人亮相CeMAT亚洲展，公司预计将于明年第一季度达到百台量产规模” against primary-source evidence.
 
-3. [2026-11-04] 360乌镇峰会发布元认知模型，让AI从“能生成”走向“可靠执行”
+3. [2026-11-04] 心理所党委传达学习党的二十届五中全会精神
+   来源：中国科学院
+   链接：https://www.cas.cn/djcx/gz/202611/t20261104_5123455.shtml
+   角度：Explain the finding in plain language, clarify the evidence and uncertainty, and connect frontier science, research infrastructure and scientific discovery to China’s wider innovation capacity. For this item, test the claim behind “心理所党委传达学习党的二十届五中全会精神” against primary-source evidence.
+
+4. [2026-11-04] 360乌镇峰会发布元认知模型，让AI从“能生成”走向“可靠执行”
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/it/2026-11-04/doc-inixqnss6108904.shtml
    角度：Turn the item into a reporting test of AI applications, foundation models, agents and governance: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “360乌镇峰会发布元认知模型，让AI从“能生成”走向“可靠执行”” against primary-source evidence.
 
-4. [2026-11-04] 宇树科技王兴兴：明年可能是具身智能行业泛化部署的临界点
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/shenji/2026-11-04/doc-inixqaau9393051.shtml
-   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “宇树科技王兴兴：明年可能是具身智能行业泛化部署的临界点” against primary-source evidence.
-
-5. [2026-11-04] “硅基岛民”集合！复兴岛具身智能实景空间秋训营招募中→
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/wm/2026-11-04/doc-inixqnsv7984949.shtml
-   角度：Assess the robotics value chain through embodied intelligence beyond demonstration, including components, cost, reliability and export potential. For this item, test the claim behind ““硅基岛民”集合！复兴岛具身智能实景空间秋训营招募中→” against primary-source evidence.
+5. [2026-11-04] 越南设计出首款安全芯片，采用RISC-V和28纳米制程
+   来源：观察者网-产业科技
+   链接：https://www.guancha.cn/CaiJing/2026_11_04_907064.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “越南设计出首款安全芯片，采用RISC-V和28纳米制程” against primary-source evidence.
 
 本次新增线索：
-- 网易智企帝王蟹发布三项升级，推出智能工牌、知识引擎“万典”与 Agent Team｜新浪科技｜https://finance.sina.com.cn/tech/2026-11-04/doc-inixpvuw9428196.shtml
-- 智往未来携两代仓储机器人亮相CeMAT亚洲展，公司预计将于明年第一季度达到百台量产规模｜新浪科技｜https://finance.sina.com.cn/tech/it/2026-11-04/doc-inixqhks9337026.shtml
-- 360乌镇峰会发布元认知模型，让AI从“能生成”走向“可靠执行”｜新浪科技｜https://finance.sina.com.cn/tech/it/2026-11-04/doc-inixqnss6108904.shtml
-- 宇树科技王兴兴：明年可能是具身智能行业泛化部署的临界点｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-04/doc-inixqaau9393051.shtml
-- “硅基岛民”集合！复兴岛具身智能实景空间秋训营招募中→｜新浪科技｜https://finance.sina.com.cn/wm/2026-11-04/doc-inixqnsv7984949.shtml
-- AMD on track to overtake Intel as biggest x86 outfit｜The Register｜https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448
+- 心理所党委传达学习党的二十届五中全会精神｜中国科学院｜https://www.cas.cn/djcx/gz/202611/t20261104_5123455.shtml
+- 从Agent到机器人，乌镇探讨AI治理中国方案｜网易科技｜https://www.163.com/dy/article/LATSC4R20534A4SC.html
+- 同样是内存大涨价：AMD PC业务还能涨 友商PC芯片下滑｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-04/doc-inixqsyw6685557.shtml
+- Omdia：2027年AI PC出货量占比将达60%，仅9%买家为AI功能下单｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-04/doc-inixqsyv0037784.shtml
+- 蔚来李斌：智能驾驶最大意义应是解放精力，不该让出租车 / 网约车司机丢工作｜IT之家｜https://www.ithome.com/1/022/419.htm
+- UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google｜WIRED Business｜https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/
 
 今日热点方向：
-- AI 应用：AI动态（20 条，5 个来源）
+- AI 应用：AI动态（24 条，5 个来源）
 - 芯片/半导体：半导体供应链（1 条，1 个来源）
-- 机器人/具身智能：人形机器人与具身智能（10 条，3 个来源）
-- 新能源车/智能驾驶：新能源车与智能驾驶（10 条，3 个来源）
+- 机器人/具身智能：人形机器人与具身智能（9 条，3 个来源）
+- 新能源车/智能驾驶：新能源车与智能驾驶（9 条，4 个来源）
 - 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿动态（2 条，1 个来源）
+- 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
-1. AMD on track to overtake Intel as biggest x86 outfit｜The Register｜https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448
-2. Former SpaceX engineers plan water-powered spacecraft for flight to moon｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/former-spacex-engineers-plan-water-115617744.html
-3. Google responds to political backlash over removing search from schools that ban AI｜CNBC Technology｜https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html
-4. Vintage fun: Prodding AI agents using retro hardware just because you can｜The Register｜https://www.theregister.com/offbeat/2026/11/02/vintage-fun-prodding-ai-agents-using-retro-hardware-just-because-you-can/5306705
-5. Nvidia is happy to take your money whether you're using open or closed models, says Jensen Huang｜The Register｜https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368
+1. UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google｜WIRED Business｜https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/
+2. AMD on track to overtake Intel as biggest x86 outfit｜The Register｜https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448
+3. Former SpaceX engineers plan water-powered spacecraft for flight to moon｜Yahoo News Technology｜https://tech.yahoo.com/science/articles/former-spacex-engineers-plan-water-115617744.html
+4. Samsung Galaxy S27 leaks reveal bold new Ultra design — and disappointing 'Pro' downgrade｜Yahoo News Technology｜https://tech.yahoo.com/phones/articles/samsung-galaxy-s27-leaks-reveal-113552568.html
+5. SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service｜CNBC Technology｜https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
