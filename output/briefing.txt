@@ -1,13 +1,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/5 11:26:01
+生成时间：2026/11/5 11:32:52
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 16 条｜国际 0 条
-延续跟踪线索：国内 36 条｜国际 18 条
+新增核心线索：国内 3 条｜国际 0 条
+延续跟踪线索：国内 52 条｜国际 17 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -21,30 +21,28 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.163.com/dy/article/LAVDB31K05198CJN.html
    角度：Frame this as an AI deployment story about governance, safety and public trust, separating product claims from evidence of real-world adoption. For this item, test the claim behind “盖茨怒怼特朗普政府AI监管不作为：模型失控将构” against primary-source evidence.
 
-3. [2026-11-05] PHP致命漏洞事后复盘：两年前就已发现！维护者却知情不报
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-05/doc-inixryty5696871.shtml
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “PHP致命漏洞事后复盘：两年前就已发现！维护者却知情不报” against primary-source evidence.
-
-4. [2026-11-05] Anthropic亲手终结「套壳AI」！17秒扒下假模型头套，验身速度快5000倍
+3. [2026-11-05] Anthropic亲手终结「套壳AI」！17秒扒下假模型头套，验身速度快5000倍
    来源：新浪科技
    链接：https://finance.sina.com.cn/wm/2026-11-05/doc-inixrqen6339619.shtml
    角度：Turn the item into a reporting test of model capability, access and ecosystem effects: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “Anthropic亲手终结「套壳AI」！17秒扒下假模型头套，验身速度快5000倍” against primary-source evidence.
 
-5. [01:01] 欧盟启动欧洲芯片设计平台，以 5.25 亿欧元支持中小型半导体业者发展
+4. [01:01] 欧盟启动欧洲芯片设计平台，以 5.25 亿欧元支持中小型半导体业者发展
    来源：IT之家
    链接：https://www.ithome.com/1/022/508.htm
    角度：Report beyond the announcement: verify yield, scale, customers and how semiconductors, advanced manufacturing and compute infrastructure affects industrial resilience. For this item, test the claim behind “欧盟启动欧洲芯片设计平台，以 5.25 亿欧元支持中小型半导体业者发展” against primary-source evidence.
 
+5. [03:26] 小米多款新机通过 SRRC 认证，预计明年年初发布
+   来源：IT之家
+   链接：https://www.ithome.com/1/022/576.htm
+   角度：Lead with model capability, access and ecosystem effects; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “小米多款新机通过 SRRC 认证，预计明年年初发布” against primary-source evidence.
+
 本次新增线索：
-- PHP致命漏洞事后复盘：两年前就已发现！维护者却知情不报｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-05/doc-inixryty5696871.shtml
-- 原 Uber 总裁 Jill Hazelbaker 加入 OpenAI：美国政界出身，担任首席企业事务官｜IT之家｜https://www.ithome.com/1/022/536.htm
-- SEMI：全球硅晶圆出货量 2026Q3 同比增长 13.4%、环比增长 5.1%｜IT之家｜https://www.ithome.com/1/022/532.htm
-- vivo与比亚迪签署战略合作协议，共同推动“手车互联”向“手车互融”演进｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-05/doc-inixrytw8918390.shtml
-- 想证明中国汽车可以！王传福：比亚迪资金链差点断掉也没放弃｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-05/doc-inixrytw8936815.shtml
+- 小米多款新机通过 SRRC 认证，预计明年年初发布｜IT之家｜https://www.ithome.com/1/022/576.htm
+- 奥特曼祝福大家拥有海量内存｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-05/doc-inixryuh6254934.shtml
+- 曝 OpenAI 新一代 GPT-6.2 Astra、Sol 及 Cyber 网安模型最快周五发布｜IT之家｜https://www.ithome.com/1/022/522.htm
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（16 条，4 个来源）
+- AI 应用：AI 应用与智能体（19 条，4 个来源）
 - 芯片/半导体：半导体供应链（5 条，3 个来源）
 - 机器人/具身智能：人形机器人与具身智能（2 条，1 个来源）
 - 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
