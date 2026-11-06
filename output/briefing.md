@@ -3,60 +3,63 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/6 11:28:47
+生成时间：2026/11/6 21:14:00
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 3 条｜国际 0 条
-延续跟踪线索：国内 38 条｜国际 15 条
+新增核心线索：国内 54 条｜国际 2 条
+延续跟踪线索：国内 10 条｜国际 13 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-06] 优必选与新华社联手打造全球首个仿生人形机器人新闻主播
+1. [2026-11-06] 摩尔线程AICUBE升级，AI管家“小麦”可控制全屋家电、语音搜照片
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tob/2026-11-06/doc-inixuywy8817030.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “摩尔线程AICUBE升级，AI管家“小麦”可控制全屋家电、语音搜照片” against primary-source evidence.
+
+2. [2026-11-06] 中行上海市分行发布专项方案，金融赋能人工智能
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LB2FL0GV0534A4SC.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中行上海市分行发布专项方案，金融赋能人工智能” against primary-source evidence.
+
+3. [2026-11-06] 部分企业“砸”重金抢人 AI加速落地带火FDE
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LB2OV9L305198CJN.html
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “部分企业“砸”重金抢人 AI加速落地带火FDE” against primary-source evidence.
+
+4. [2026-11-06] 优必选与新华社联手打造全球首个仿生人形机器人新闻主播
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/shenji/2026-11-06/doc-inixucsy5089511.shtml
    角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “优必选与新华社联手打造全球首个仿生人形机器人新闻主播” against primary-source evidence.
 
-2. [2026-11-06] Ripple-65B Preview 发布，自称美国最佳智能体编程开放权重模型
+5. [2026-11-06] 全球最快达成百万销量新能源车型，吉利星愿 10 月全球销量突破 7 万辆
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-06/doc-inixuiyw5023124.shtml
-   角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Ripple-65B Preview 发布，自称美国最佳智能体编程开放权重模型” against primary-source evidence.
-
-3. [2026-11-06] AI早报｜苹果下调员工AI使用预算；OpenAI总裁称
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LB1QA10G0534A4SC.html
-   角度：Lead with deployment evidence and productivity gains; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “AI早报｜苹果下调员工AI使用预算；OpenAI总裁称” against primary-source evidence.
-
-4. [2026-11-06] 具身智能想去仓库里找生意
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LB22CR2D0534A4SC.html
-   角度：Show whether the robot is moving from demo to deployment, using embodied intelligence beyond demonstration, orders, operating scenarios and safety as evidence. For this item, test the claim behind “具身智能想去仓库里找生意” against primary-source evidence.
-
-5. [2026-11-06] 腾讯：Hy4调用激增 WorkBuddy已十倍扩容；我国
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LB1K409S0512B07B.html
-   角度：Ask whether this changes China’s AI competitiveness through AI applications, foundation models, agents and governance, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “腾讯：Hy4调用激增 WorkBuddy已十倍扩容；我国” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-11-06/doc-inixvfeu5338518.shtml
+   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全球最快达成百万销量新能源车型，吉利星愿 10 月全球销量突破 7 万辆” against primary-source evidence.
 
 本次新增线索：
-- 具身智能想去仓库里找生意｜网易科技｜https://www.163.com/dy/article/LB22CR2D0534A4SC.html
-- 历时10年，我国科学家成功绘制大麦“育种选择图谱”｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/06/content_609423.html
-- 独家丨腾讯20年老兵创业 AI 体感主机，融资超六千万｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-06/doc-inixuiyw5035182.shtml
+- 摩尔线程AICUBE升级，AI管家“小麦”可控制全屋家电、语音搜照片｜新浪科技｜https://finance.sina.com.cn/tob/2026-11-06/doc-inixuywy8817030.shtml
+- 中行上海市分行发布专项方案，金融赋能人工智能｜网易科技｜https://www.163.com/dy/article/LB2FL0GV0534A4SC.html
+- 部分企业“砸”重金抢人 AI加速落地带火FDE｜网易科技｜https://www.163.com/dy/article/LB2OV9L305198CJN.html
+- 全球最快达成百万销量新能源车型，吉利星愿 10 月全球销量突破 7 万辆｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-06/doc-inixvfeu5338518.shtml
+- 直击进博会 | 西门子医疗与阿里达摩院签约，加速普及AI“一扫多筛”｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-06/doc-inixuqhs8261709.shtml
+- Anthropic’s AI is improving itself and could suddenly become ‘extreme’ and ‘risky’, major report warns｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-ai-improving-itself-could-103607315.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（10 条，3 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- AI 应用：AI动态（18 条，5 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（2 条，1 个来源）
+- 新能源车/智能驾驶：新能源车动态（11 条，3 个来源）
 - 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿动态（1 条，1 个来源）
+- 科学前沿：科学前沿与科研设施（2 条，2 个来源）
 
 国际科技背景：
-1. Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html
-2. UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google｜WIRED Business｜https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/
-3. AMD on track to overtake Intel as biggest x86 outfit｜The Register｜https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448
-4. Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable｜Ars Technica｜https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/
-5. Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not｜WIRED Business｜https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/
+1. Anthropic’s AI is improving itself and could suddenly become ‘extreme’ and ‘risky’, major report warns｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-ai-improving-itself-could-103607315.html
+2. Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html
+3. UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google｜WIRED Business｜https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/
+4. AMD on track to overtake Intel as biggest x86 outfit｜The Register｜https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448
+5. Tesla will stop making the Cybertruck in 2027｜TechCrunch｜https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
