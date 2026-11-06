@@ -3,63 +3,62 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/6 21:14:00
+生成时间：2026/11/6 21:51:43
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 54 条｜国际 2 条
-延续跟踪线索：国内 10 条｜国际 13 条
+新增核心线索：国内 5 条｜国际 0 条
+延续跟踪线索：国内 60 条｜国际 13 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-06] 摩尔线程AICUBE升级，AI管家“小麦”可控制全屋家电、语音搜照片
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tob/2026-11-06/doc-inixuywy8817030.shtml
-   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “摩尔线程AICUBE升级，AI管家“小麦”可控制全屋家电、语音搜照片” against primary-source evidence.
-
-2. [2026-11-06] 中行上海市分行发布专项方案，金融赋能人工智能
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LB2FL0GV0534A4SC.html
-   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中行上海市分行发布专项方案，金融赋能人工智能” against primary-source evidence.
-
-3. [2026-11-06] 部分企业“砸”重金抢人 AI加速落地带火FDE
-   来源：网易科技
-   链接：https://www.163.com/dy/article/LB2OV9L305198CJN.html
-   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “部分企业“砸”重金抢人 AI加速落地带火FDE” against primary-source evidence.
-
-4. [2026-11-06] 优必选与新华社联手打造全球首个仿生人形机器人新闻主播
+1. [2026-11-06] 优必选与新华社联手打造全球首个仿生人形机器人新闻主播
    来源：新浪科技
    链接：https://finance.sina.com.cn/tech/shenji/2026-11-06/doc-inixucsy5089511.shtml
    角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “优必选与新华社联手打造全球首个仿生人形机器人新闻主播” against primary-source evidence.
 
-5. [2026-11-06] 全球最快达成百万销量新能源车型，吉利星愿 10 月全球销量突破 7 万辆
+2. [13:29] 《星闪短距与具身智能技术需求蓝皮书》正式上线，华为、中兴、鼎桥等参编
+   来源：IT之家
+   链接：https://www.ithome.com/1/023/546.htm
+   角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “《星闪短距与具身智能技术需求蓝皮书》正式上线，华为、中兴、鼎桥等参编” against primary-source evidence.
+
+3. [2026-11-06] 摩尔线程AICUBE升级，AI管家“小麦”可控制全屋家电、语音搜照片
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-06/doc-inixvfeu5338518.shtml
-   角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “全球最快达成百万销量新能源车型，吉利星愿 10 月全球销量突破 7 万辆” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tob/2026-11-06/doc-inixuywy8817030.shtml
+   角度：Turn the item into a reporting test of deployment evidence and productivity gains: capability, implementation, economic value and regulatory consequences. For this item, test the claim behind “摩尔线程AICUBE升级，AI管家“小麦”可控制全屋家电、语音搜照片” against primary-source evidence.
+
+4. [2026-11-06] 中行上海市分行发布专项方案，金融赋能人工智能
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LB2FL0GV0534A4SC.html
+   角度：Lead with AI applications, foundation models, agents and governance; verify who is using the system, what measurable gains exist and where governance risks remain. For this item, test the claim behind “中行上海市分行发布专项方案，金融赋能人工智能” against primary-source evidence.
+
+5. [2026-11-06] 部分企业“砸”重金抢人 AI加速落地带火FDE
+   来源：网易科技
+   链接：https://www.163.com/dy/article/LB2OV9L305198CJN.html
+   角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “部分企业“砸”重金抢人 AI加速落地带火FDE” against primary-source evidence.
 
 本次新增线索：
-- 摩尔线程AICUBE升级，AI管家“小麦”可控制全屋家电、语音搜照片｜新浪科技｜https://finance.sina.com.cn/tob/2026-11-06/doc-inixuywy8817030.shtml
-- 中行上海市分行发布专项方案，金融赋能人工智能｜网易科技｜https://www.163.com/dy/article/LB2FL0GV0534A4SC.html
-- 部分企业“砸”重金抢人 AI加速落地带火FDE｜网易科技｜https://www.163.com/dy/article/LB2OV9L305198CJN.html
-- 全球最快达成百万销量新能源车型，吉利星愿 10 月全球销量突破 7 万辆｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-06/doc-inixvfeu5338518.shtml
-- 直击进博会 | 西门子医疗与阿里达摩院签约，加速普及AI“一扫多筛”｜新浪科技｜https://finance.sina.com.cn/tech/shenji/2026-11-06/doc-inixuqhs8261709.shtml
-- Anthropic’s AI is improving itself and could suddenly become ‘extreme’ and ‘risky’, major report warns｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-ai-improving-itself-could-103607315.html
+- 《星闪短距与具身智能技术需求蓝皮书》正式上线，华为、中兴、鼎桥等参编｜IT之家｜https://www.ithome.com/1/023/546.htm
+- 对话外国媒体人：人工智能如何改变全球媒体｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-06/doc-inixvfew8835482.shtml
+- Brightspeed 与英伟达洽谈，计划将 130 多座老旧电信建筑改造为小型数据中心｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-06/doc-inixvfeu5390820.shtml
+- 阿联酋投资者集团将成OpenAI新一轮融资最大投资方｜网易科技｜https://www.163.com/dy/article/LB34C4I60534A4SC.html
+- 摩尔线程完成3万亿级参数Kimi-K3.1 Pro适配｜网易科技｜https://www.163.com/dy/article/LB34KA7G0534A4SC.html
 
 今日热点方向：
-- AI 应用：AI动态（18 条，5 个来源）
+- AI 应用：AI动态（19 条，5 个来源）
 - 芯片/半导体：半导体供应链（2 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（3 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（11 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（10 条，3 个来源）
 - 太空与低空经济：低空经济与无人机（1 条，1 个来源）
-- 科学前沿：科学前沿与科研设施（2 条，2 个来源）
+- 科学前沿：科学前沿动态（1 条，1 个来源）
 
 国际科技背景：
-1. Anthropic’s AI is improving itself and could suddenly become ‘extreme’ and ‘risky’, major report warns｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-ai-improving-itself-could-103607315.html
-2. Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html
-3. UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google｜WIRED Business｜https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/
-4. AMD on track to overtake Intel as biggest x86 outfit｜The Register｜https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448
-5. Tesla will stop making the Cybertruck in 2027｜TechCrunch｜https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/
+1. Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC｜CNBC Technology｜https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html
+2. UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google｜WIRED Business｜https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/
+3. Anthropic’s AI is improving itself and could suddenly become ‘extreme’ and ‘risky’, major report warns｜Yahoo News Technology｜https://tech.yahoo.com/ai/claude/articles/anthropic-ai-improving-itself-could-103607315.html
+4. Tesla will stop making the Cybertruck in 2027｜TechCrunch｜https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/
+5. Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable｜Ars Technica｜https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
