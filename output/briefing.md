@@ -3,35 +3,35 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/7 10:42:30
+生成时间：2026/11/7 10:54:20
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 8 条｜国际 0 条
-延续跟踪线索：国内 32 条｜国际 15 条
+新增核心线索：国内 1 条｜国际 0 条
+延续跟踪线索：国内 40 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
-1. [2026-11-07] 直击进博会 |它石智航与安波福进博会签约，深化具身智能战略合作
+1. [2026-11-07] 缺内存找外援！台积电被曝应英伟达要求筹划3D内存
+   来源：新浪科技
+   链接：https://finance.sina.com.cn/tech/roll/2026-11-07/doc-inixwnye4869047.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “缺内存找外援！台积电被曝应英伟达要求筹划3D内存” against primary-source evidence.
+
+2. [2026-11-07] 直击进博会 |它石智航与安波福进博会签约，深化具身智能战略合作
    来源：新浪科技
    链接：https://finance.sina.com.cn/tob/2026-11-07/doc-inixwhsk8404468.shtml
    角度：Build the story around production scale and real industrial adoption; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “直击进博会 |它石智航与安波福进博会签约，深化具身智能战略合作” against primary-source evidence.
 
-2. [2026-11-07] Meta为Muse智能体推出Spaces，可自动构建追踪器、规划器和项目看板
+3. [2026-11-07] Meta为Muse智能体推出Spaces，可自动构建追踪器、规划器和项目看板
    来源：新浪科技
    链接：https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakq5256775.shtml
    角度：Frame this as an AI deployment story about deployment evidence and productivity gains, separating product claims from evidence of real-world adoption. For this item, test the claim behind “Meta为Muse智能体推出Spaces，可自动构建追踪器、规划器和项目看板” against primary-source evidence.
 
-3. [23:40] Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查
+4. [23:40] Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查
    来源：IT之家
    链接：https://www.ithome.com/1/023/614.htm
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查” against primary-source evidence.
-
-4. [2026-11-07] 安森美宣布放弃价值 20 亿美元的捷克碳化硅 (SiC) 晶圆厂扩产项目
-   来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/digi/2026-11-07/doc-inixwnye4868344.shtml
-   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “安森美宣布放弃价值 20 亿美元的捷克碳化硅 (SiC) 晶圆厂扩产项目” against primary-source evidence.
 
 5. [2026-11-07] 工业机器人“上岗”入场券：浙江人形NAVIAI“手艺”当道
    来源：新浪科技
@@ -39,15 +39,11 @@ ChenChen 今日 Briefing｜V3
    角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “工业机器人“上岗”入场券：浙江人形NAVIAI“手艺”当道” against primary-source evidence.
 
 本次新增线索：
-- 安森美宣布放弃价值 20 亿美元的捷克碳化硅 (SiC) 晶圆厂扩产项目｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-07/doc-inixwnye4868344.shtml
-- 神舟二十四号载人飞行任务标识发布，首次中外航天员联合飞行｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-07/doc-inixwnyk5127540.shtml
-- 小米汽车 × 四川美术学院 CMF 校企合作成果 11 月 11 日发布：当传统民艺遇见当代汽车设计｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-07/doc-inixwnyk5136563.shtml
-- 移卡集团高级副总裁朱楚中：AI Agent极大提升了跨境支付的风控能力｜网易科技｜https://www.163.com/dy/article/LB4HMF590512B07B.html
-- 缺内存找外援！台积电被曝应英伟达要求筹划3D内存｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-07/doc-inixwnye4869047.shtml
+- 北京：支持超节点服务器、AI终端、超级智能体、量子计算云平台、下一代移动通信等新技术新产品｜网易科技｜https://www.163.com/dy/article/LB4ILGP20534A4SC.html
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（6 条，3 个来源）
-- 芯片/半导体：半导体供应链（2 条，2 个来源）
+- AI 应用：AI 应用与智能体（7 条，3 个来源）
+- 芯片/半导体：半导体供应链（3 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
 - 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
 - 太空与低空经济：太空与低空动态（6 条，4 个来源）
