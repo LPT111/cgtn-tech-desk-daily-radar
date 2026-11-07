@@ -3,13 +3,13 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/7 10:24:44
+生成时间：2026/11/7 10:42:30
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 33 条｜国际 7 条
-延续跟踪线索：国内 0 条｜国际 8 条
+新增核心线索：国内 8 条｜国际 0 条
+延续跟踪线索：国内 32 条｜国际 15 条
 本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
 
 最值得关注：
@@ -28,10 +28,10 @@ ChenChen 今日 Briefing｜V3
    链接：https://www.ithome.com/1/023/614.htm
    角度：Ask whether this changes China’s AI competitiveness through deployment evidence and productivity gains, and identify users, costs, safeguards and export relevance. For this item, test the claim behind “Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查” against primary-source evidence.
 
-4. [2026-11-07] 一箭四星，谷神星二号发射成功
+4. [2026-11-07] 安森美宣布放弃价值 20 亿美元的捷克碳化硅 (SiC) 晶圆厂扩产项目
    来源：新浪科技
-   链接：https://finance.sina.com.cn/tech/roll/2026-11-07/doc-inixwhsk8455193.shtml
-   角度：Pair launch or flight visuals with evidence on mission capability and commercial sustainability, customers, regulation and operational readiness. For this item, test the claim behind “一箭四星，谷神星二号发射成功” against primary-source evidence.
+   链接：https://finance.sina.com.cn/tech/digi/2026-11-07/doc-inixwnye4868344.shtml
+   角度：Report beyond the announcement: verify yield, scale, customers and how manufacturing capability and bottlenecks affects industrial resilience. For this item, test the claim behind “安森美宣布放弃价值 20 亿美元的捷克碳化硅 (SiC) 晶圆厂扩产项目” against primary-source evidence.
 
 5. [2026-11-07] 工业机器人“上岗”入场券：浙江人形NAVIAI“手艺”当道
    来源：新浪科技
@@ -39,19 +39,18 @@ ChenChen 今日 Briefing｜V3
    角度：Build the story around embodied intelligence beyond demonstration; interview engineers and end users to test whether the technology solves a real production problem. For this item, test the claim behind “工业机器人“上岗”入场券：浙江人形NAVIAI“手艺”当道” against primary-source evidence.
 
 本次新增线索：
-- 直击进博会 |它石智航与安波福进博会签约，深化具身智能战略合作｜新浪科技｜https://finance.sina.com.cn/tob/2026-11-07/doc-inixwhsk8404468.shtml
-- Meta为Muse智能体推出Spaces，可自动构建追踪器、规划器和项目看板｜新浪科技｜https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakq5256775.shtml
-- Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查｜IT之家｜https://www.ithome.com/1/023/614.htm
-- 一箭四星，谷神星二号发射成功｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-07/doc-inixwhsk8455193.shtml
-- 工业机器人“上岗”入场券：浙江人形NAVIAI“手艺”当道｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-07/doc-inixwnya8208921.shtml
-- OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'｜The Register｜https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855
+- 安森美宣布放弃价值 20 亿美元的捷克碳化硅 (SiC) 晶圆厂扩产项目｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-07/doc-inixwnye4868344.shtml
+- 神舟二十四号载人飞行任务标识发布，首次中外航天员联合飞行｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-07/doc-inixwnyk5127540.shtml
+- 小米汽车 × 四川美术学院 CMF 校企合作成果 11 月 11 日发布：当传统民艺遇见当代汽车设计｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-07/doc-inixwnyk5136563.shtml
+- 移卡集团高级副总裁朱楚中：AI Agent极大提升了跨境支付的风控能力｜网易科技｜https://www.163.com/dy/article/LB4HMF590512B07B.html
+- 缺内存找外援！台积电被曝应英伟达要求筹划3D内存｜新浪科技｜https://finance.sina.com.cn/tech/roll/2026-11-07/doc-inixwnye4869047.shtml
 
 今日热点方向：
-- AI 应用：AI 应用与智能体（5 条，3 个来源）
-- 芯片/半导体：半导体供应链（1 条，1 个来源）
+- AI 应用：AI 应用与智能体（6 条，3 个来源）
+- 芯片/半导体：半导体供应链（2 条，2 个来源）
 - 机器人/具身智能：人形机器人与具身智能（4 条，2 个来源）
-- 新能源车/智能驾驶：新能源车动态（3 条，3 个来源）
-- 太空与低空经济：太空与低空动态（5 条，3 个来源）
+- 新能源车/智能驾驶：新能源车动态（4 条，3 个来源）
+- 太空与低空经济：太空与低空动态（6 条，4 个来源）
 - 科学前沿：科学前沿动态（2 条，2 个来源）
 
 国际科技背景：
@@ -59,7 +58,7 @@ ChenChen 今日 Briefing｜V3
 2. Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns｜Ars Technica｜https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/
 3. OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'｜The Register｜https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855
 4. Nvidia hardware worth $11.4M vanished between Oakland and Texas｜Ars Technica｜https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/
-5. OpenAI bugging suspect Alfozan pleads not guilty｜CNBC Technology｜https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html
+5. Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not｜WIRED Business｜https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/
 
 发稿前核验提示：
 官方来源、企业回应、数据口径、国际背景、可视化素材。
