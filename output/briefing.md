@@ -3,14 +3,14 @@
 【CGTN Tech Desk Daily Radar V3】
 ChenChen 今日 Briefing｜V3
 
-生成时间：2026/11/8 09:54:07
+生成时间：2026/11/8 10:20:09
 网页链接：https://lpt111.github.io/cgtn-tech-desk-daily-radar/
 模式：Reporter Mode｜硬科技优先
 
 本次更新：
-新增核心线索：国内 19 条｜国际 0 条
-延续跟踪线索：国内 0 条｜国际 9 条
-本次有新增核心线索，优先核验新增项的一手来源和可视化素材。
+新增核心线索：国内 0 条｜国际 0 条
+延续跟踪线索：国内 19 条｜国际 9 条
+本次核心内容更新较少，适合重点核验政策口径、国际背景和旧议题是否有新进展。
 
 最值得关注：
 1. [2026-11-08] 索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示
@@ -39,11 +39,7 @@ ChenChen 今日 Briefing｜V3
    角度：Use EVs, smart mobility, batteries and autonomous driving to connect the product news with China’s mobility supply chain, competition and international expansion. For this item, test the claim behind “马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单” against primary-source evidence.
 
 本次新增线索：
-- 索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixyrxa7322722.shtml
-- 神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周｜新浪科技｜https://finance.sina.com.cn/tech/digi/2026-11-08/doc-inixymre7444780.shtml
-- 国内首个科技法学院在雄安新区成立｜新浪科技｜https://finance.sina.com.cn/tech/discovery/2026-11-08/doc-inixymrn4386171.shtml
-- 中国科普作家协会发布2026年度十大科普热词｜科技日报｜https://www.stdaily.com/web/gdxw/2026-11/08/content_610320.html
-- 马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单｜IT之家｜https://www.ithome.com/1/023/833.htm
+- 暂无新增核心线索。
 
 今日热点方向：
 - AI 应用：AI动态（8 条，2 个来源）
